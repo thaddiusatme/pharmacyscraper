@@ -9,6 +9,31 @@
 
 ---
 
+## TDD Implementation Status
+
+### ✅ Completed with TDD
+1. **Perplexity API Client**
+   - Implemented with retry logic and rate limiting
+   - Comprehensive test coverage for success/error cases
+   - Mocked API responses for reliable testing
+
+2. **Caching Layer**
+   - TTL and size-based eviction
+   - File-based persistence
+   - Tested cache hit/miss behavior
+   - Verified cache persistence between runs
+
+3. **Classifier Integration**
+   - Batch processing with progress tracking
+   - Rule-based fallback classification
+   - Test coverage for all major scenarios
+   - Error handling and logging
+
+### 🔄 In Progress
+- Full test suite integration
+- Documentation updates
+- Performance optimization
+
 ## Phase 1: Data Collection (Day 1-2)
 
 ### 🎯 Primary Approach: Apify Google Maps Scraper
