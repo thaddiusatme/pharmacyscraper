@@ -1,46 +1,3 @@
-#!/bin/bash
-
-# Exit on error
-set -e
-
-echo "🚀 Setting up Pharmacy Verification Project..."
-
-# Create virtual environment
-echo "🐍 Creating Python virtual environment..."
-python3 -m venv venv
-source venv/bin/activate
-
-# Upgrade pip
-echo "🔄 Upgrading pip..."
-pip install --upgrade pip
-
-# Install requirements
-echo "📦 Installing Python dependencies..."
-pip install -r requirements.txt
-
-# Create directory structure
-echo "📂 Creating project directory structure..."
-mkdir -p data/raw data/processed
-mkdir -p scripts
-mkdir -p logs
-mkdir -p reports
-mkdir -p docs
-
-# Set up environment variables file
-echo "🔑 Creating .env file for environment variables..."
-cat > .env <<EOL
-# Google Maps API Key
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key_here
-
-# Apify API Token (if using Apify)
-APIFY_API_TOKEN=your_apify_api_token_here
-EOL
-
-# Make setup script executable
-chmod +x setup.sh
-
-# Create initial README.md
-cat > README.md << 'EOL'
 # Independent Pharmacy Verification Project
 
 ## Project Overview
@@ -102,9 +59,3 @@ This project collects and verifies information about independent pharmacies acro
 
 ## License
 MIT
-EOL
-
-echo "✅ Setup complete! Don't forget to:"
-echo "1. Add your API keys to the .env file"
-echo "2. Activate the virtual environment with 'source venv/bin/activate'"
-echo "3. Run 'pre-commit install' if you want to use pre-commit hooks"
