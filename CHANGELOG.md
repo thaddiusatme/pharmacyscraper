@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 ### Added
+- Trial run configuration for California and Texas
+- Directory structure for trial data
+- Search queries for 6 major cities (3 per state)
+- Rate limiting and result capping configuration
+- Documentation of initial manual data pull (52 CSV files) in `data/raw/`
+- Combined manual data in `data/raw/combined_output.csv`
+- Comprehensive development guide in `docs/DEVELOPMENT.md`
+- Detailed testing documentation in `docs/TESTING.md`
+- Improved README with setup and usage instructions
 - Apify data collection module (`scripts/apify_collector.py`)
 - Comprehensive test suite for Apify integration
 - Test fixtures and mock data for reliable testing
@@ -28,10 +37,18 @@
 - Combined and deduplicated pharmacy data into `data/processed/combined_pharmacies.csv`
 - Refactored test structure for better maintainability
 - Updated test documentation to reflect current implementation
-- Improved error messages in test assertions
-- Optimized test execution time by reusing fixtures
+- Improved test reliability with better mock handling
+- Enhanced documentation with detailed setup and contribution guidelines
+- Refactored logger configuration for better testability
+- Improved test assertions with more descriptive error messages
+- Enhanced debug output in test cases
+- Updated test cases to properly capture and verify log messages
 
 ### Fixed
+- Test assertions in `test_run_collection_success`
+- Mock client setup in test fixtures
+- SSH and Git configuration for repository management
+- Documentation typos and inaccuracies
 - Resolved import issues in test suite
 - Fixed test assertions to match implementation
 - Addressed test failures and improved test reliability
@@ -42,6 +59,11 @@
 - Updated mock client setup in test fixtures to match actual Apify client usage
 - Improved test reliability by removing strict call ordering checks
 - Fixed mock dataset iteration to return consistent test data
+- Fixed logging configuration to properly capture log messages during testing
+- Resolved test failures in `test_combine_csv_files` and `test_main_success`
+- Fixed log message formatting to match test expectations
+- Corrected logger initialization to prevent duplicate log messages
+- Ensured proper log level (INFO) is set for test capture
 
 ## [2025-06-19] - Initial Setup
 - Project repository initialized
@@ -54,14 +76,14 @@
 # Project State
 
 ## Current Status
-- **Environment**: ✅ Set up and ready
+- **Environment**: Set up and ready
 - **Data Collection**:
-  - Apify integration: ✅ Implemented and tested
+  - Apify integration: Implemented and tested
   - Raw data files: 52 CSV files in `data/raw/`
   - Processed data: 1,957 unique pharmacy records in `data/processed/combined_pharmacies.csv`
-- **Verification**: ⏳ Pending implementation
-- **Testing**: ✅ Unit tests implemented for Apify integration
-- **Documentation**: 📝 In progress
+- **Verification**: Pending implementation
+- **Testing**: Unit tests implemented for Apify integration
+- **Documentation**: In progress
 
 ## Next Steps
 1. Configure Apify API token for production use
