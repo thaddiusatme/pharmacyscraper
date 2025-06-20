@@ -5,10 +5,13 @@ import os
 import time
 import json
 import hashlib
-from typing import Any, Dict, Optional, TypeVar, Generic, Union
+import logging
 from pathlib import Path
+from typing import Any, Dict, Optional, TypeVar, Generic, Union
 
 T = TypeVar('T')
+
+logger = logging.getLogger(__name__)
 
 class CacheStats:
     """Cache statistics."""
@@ -54,19 +57,19 @@ class CacheEntry(Generic[T]):
 class Cache(Generic[T]):
     """In-memory cache with TTL and size-based eviction."""
     
-    def __init__(self, name: str, cache_dir: str = '.cache', max_size: int = 1000, default_ttl: float = 3600):
+    def __init__(self, name: str, cache_dir: str = '.cache', max_size: int = 1000, ttl: float = 3600):
         """Initialize cache.
         
         Args:
             name: Cache name (used for disk storage)
             cache_dir: Base directory for disk cache
             max_size: Maximum number of items in cache
-            default_ttl: Default TTL in seconds
+            ttl: Default TTL in seconds
         """
         self.name = name
         self.cache_dir = os.path.join(cache_dir, name)
         self.max_size = int(max_size)  # Ensure max_size is an integer
-        self.default_ttl = float(default_ttl)  # Ensure default_ttl is a float
+        self.ttl = float(ttl)  # Ensure ttl is a float
         self._cache: Dict[str, CacheEntry[T]] = {}
         self.stats = CacheStats()
         
@@ -96,21 +99,26 @@ class Cache(Generic[T]):
         Args:
             key: Cache key
             value: Value to cache
-            ttl: Time to live in seconds (defaults to default_ttl)
+            ttl: Time to live in seconds (defaults to self.ttl)
         """
-        ttl_seconds = float(ttl) if ttl is not None else self.default_ttl
+        ttl_seconds = float(ttl) if ttl is not None else self.ttl
         self._evict_if_needed()
         self._cache[key] = CacheEntry(value, ttl_seconds)
         self.stats.size = len(self._cache)
         
         # Also save to disk
         cache_file = self._get_cache_file(key)
-        with open(cache_file, 'w') as f:
-            json.dump({
-                'value': value,
-                'expires_at': self._cache[key].expires_at
-            }, f)
-    
+        item_to_persist = {
+            "data": value,
+            "expiry": self._cache[key].expires_at,
+        }
+
+        try:
+            with open(cache_file, 'w') as f:
+                json.dump(item_to_persist, f)
+        except (IOError, json.JSONDecodeError) as e:
+            logger.warning(f"Could not write to cache file {cache_file}: {e}")
+
     def get(self, key: str, default: Any = None) -> Optional[T]:
         """Get an item from the cache.
         
@@ -125,32 +133,33 @@ class Cache(Generic[T]):
         entry = self._cache.get(key)
         if entry:
             if not entry.is_expired():
-                self.stats.hits += 1
                 return entry.value
             self.stats.expired += 1
             del self._cache[key]
             self.stats.size = len(self._cache)
         
         # Try disk cache
-        cache_file = self._get_cache_file(key)
-        if os.path.exists(cache_file):
+        cache_file = Path(self._get_cache_file(key))
+        if cache_file.exists():
             try:
                 with open(cache_file, 'r') as f:
                     data = json.load(f)
                 
                 # Check if expired
-                if data.get('expires_at') and time.time() > data['expires_at']:
+                if data.get('expiry') and time.time() > data['expiry']:
                     os.remove(cache_file)
                     self.stats.expired += 1
                     self.stats.misses += 1
                     return default
                 
                 # Add back to memory cache
-                self._cache[key] = CacheEntry(data['value'], data.get('expires_at') - time.time() if data.get('expires_at') else None)
+                remaining_ttl = data['expiry'] - time.time() if data.get('expiry') else None
+                self._cache[key] = CacheEntry(data['data'], remaining_ttl)
                 self.stats.hits += 1
                 self.stats.size = len(self._cache)
-                return data['value']
-            except (json.JSONDecodeError, KeyError, OSError):
+                return data['data']
+            except (json.JSONDecodeError, KeyError, OSError) as e:
+                logger.warning(f"Corrupted cache file {cache_file}, removing it. Error: {e}")
                 # Corrupted cache file, remove it
                 try:
                     os.remove(cache_file)

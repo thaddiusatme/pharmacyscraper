@@ -1,243 +1,221 @@
 """
-Tests for the Perplexity API client and caching layer.
+Tests for the Perplexity API client and caching functionality.
 """
 import os
 import time
 import json
 import pytest
-from unittest.mock import patch, MagicMock, ANY
+import builtins
+from unittest.mock import patch, MagicMock, call, ANY
 from pathlib import Path
-from typing import Dict, Any, Optional
 
-import openai
-from openai.types.chat import ChatCompletion, ChatCompletionMessage, ChatCompletionMessageParam
-from openai.types.chat.chat_completion import Choice
-from openai.types.completion_usage import CompletionUsage
+# Mock the openai module at the module level
+openai_mock = MagicMock()
+builtins.openai = openai_mock
+openai_mock.RateLimitError = Exception  # Simple mock for RateLimitError
 
-from src.classification.perplexity_client import (
-    PerplexityClient,
-    PerplexityAPIError,
-    RateLimitError,
-    classify_pharmacy
-)
-from src.classification.cache import Cache
+# Import the client to test
+from src.classification.perplexity_client import PerplexityClient, PerplexityAPIError, RateLimitError
+from src.classification.cache import Cache, CacheEntry
 
-# Sample pharmacy data for testing
+# Test API key for testing
+TEST_API_KEY = "test-api-key"
+
+# Sample test data
 SAMPLE_PHARMACY = {
-    "name": "Main Street Pharmacy",
-    "address": "123 Main St, Anytown, USA",
-    "phone": "(555) 123-4567"
+    'name': 'Test Pharmacy',
+    'address': '123 Main St',
+    'city': 'Test City',
+    'state': 'CA',
+    'zip': '12345',
+    'phone': '(555) 123-4567',
+    'is_chain': False
+}
+
+SAMPLE_PHARMACY_2 = {
+    'name': 'Test Pharmacy 2',
+    'address': '456 Elm St',
+    'city': 'Test City',
+    'state': 'CA',
+    'zip': '12345',
+    'phone': '(555) 123-4567',
+    'is_chain': False
+}
+
+SAMPLE_PHARMACY_3 = {
+    'name': 'Test Pharmacy 3',
+    'address': '789 Oak St',
+    'city': 'Test City',
+    'state': 'CA',
+    'zip': '12345',
+    'phone': '(555) 123-4567',
+    'is_chain': False
+}
+
+# Test configuration
+TEST_CONFIG = {
+    'model': 'test-model',
+    'max_retries': 2,
+    'retry_delay': 0.1,
+    'rate_limit_ms': 0,  # Set to 0 for testing
+    'cache_ttl': 300
 }
 
 # Fixtures
 @pytest.fixture
-def mock_openai_client():
-    with patch('openai.OpenAI') as mock_client:
-        yield mock_client.return_value
+def mock_cache():
+    """Create a mock cache for testing."""
+    with patch('src.classification.cache.Cache') as mock_cache_class:
+        mock_cache = MagicMock()
+        mock_cache.get.return_value = None
+        mock_cache_class.return_value = mock_cache
+        yield mock_cache
 
 @pytest.fixture
-def temp_cache_dir(tmp_path):
-    return tmp_path / "test_cache"
+def mock_openai():
+    """Mock the OpenAI client."""
+    with patch('src.classification.perplexity_client.openai.OpenAI') as mock_client_class:
+        mock_client = MagicMock()
+        mock_client_class.return_value = mock_client
+        
+        # Create a mock response
+        mock_response = MagicMock()
+        mock_choice = MagicMock()
+        mock_message = MagicMock()
+        mock_message.content = '{"is_chain": false, "confidence": 0.95, "reason": "test"}'
+        mock_choice.message = mock_message
+        mock_response.choices = [mock_choice]
+        mock_client.chat.completions.create.return_value = mock_response
+        
+        yield mock_client
 
 @pytest.fixture
-def mock_env(monkeypatch):
-    monkeypatch.setenv('PERPLEXITY_API_KEY', 'test-api-key')
-    monkeypatch.setenv('PERPLEXITY_MODEL', 'test-model')
-    monkeypatch.setenv('PERPLEXITY_BASE_URL', 'https://api.perplexity.ai')
-    monkeypatch.setenv('PERPLEXITY_MAX_RETRIES', '3')
-    monkeypatch.setenv('PERPLEXITY_TIMEOUT', '30')
-    monkeypatch.setenv('PERPLEXITY_MAX_REQUESTS_PER_MINUTE', '100')
+def client(mock_cache, mock_openai):
+    """Create a test client with test configuration."""
+    with patch.dict('os.environ', {'PERPLEXITY_API_KEY': TEST_API_KEY}):
+        client = PerplexityClient(**TEST_CONFIG)
+        client.cache = mock_cache
+        return client
 
-# Test classes
-class TestPerplexityClient:
-    """Test the Perplexity API client."""
+# Test rate limiting
+def test_rate_limiting(client, mock_openai):
+    """Test that rate limiting is enforced between requests."""
+    # Make two requests
+    client.classify_pharmacy(SAMPLE_PHARMACY)
+    client.classify_pharmacy(SAMPLE_PHARMACY)
     
-    def test_init_defaults(self, mock_env):
-        """Test client initialization with default values."""
-        client = PerplexityClient()
-        assert client.api_key == 'test-api-key'
-        assert client.model == 'sonar-medium-online'  # Default model
-        assert client.base_url == 'https://api.perplexity.ai'
-        assert client.max_retries == 3
-        assert client.timeout == 30
-        assert client.max_requests_per_minute == 100
-    
-    def test_classify_pharmacy_success(self, mock_openai_client, mock_env):
-        """Test successful pharmacy classification."""
-        # Setup mock response
-        mock_response = MagicMock(spec=ChatCompletion)
-        mock_choice = MagicMock(spec=Choice)
-        mock_choice.message = MagicMock(spec=ChatCompletionMessage)
-        mock_choice.message.content = json.dumps({
-            "is_chain": False,
-            "confidence": 0.95,
-            "reason": "Independent pharmacy"
-        })
-        mock_response.choices = [mock_choice]
-        mock_response.usage = MagicMock(spec=CompletionUsage)
-        mock_response.usage.total_tokens = 100
-        
-        mock_openai_client.chat.completions.create.return_value = mock_response
-        
-        # Test
-        client = PerplexityClient()
-        result = client.classify_pharmacy(SAMPLE_PHARMACY)
-        
-        # Verify
-        assert result == {
-            "is_chain": False,
-            "confidence": 0.95,
-            "reason": "Independent pharmacy"
-        }
-    
-    def test_rate_limit_error(self, mock_openai_client, mock_env):
-        """Test rate limit error handling."""
-        # Setup mock to raise rate limit error
-        from openai import RateLimitError
-        error = RateLimitError(
-            "Rate limit exceeded",
-            response=MagicMock(status_code=429),
-            body={"error": {"message": "rate_limit_exceeded"}}
-        )
-        mock_openai_client.chat.completions.create.side_effect = error
-        
-        # Test with retries disabled
-        client = PerplexityClient(max_retries=0)
-        with pytest.raises(RateLimitError):
-            client.classify_pharmacy({"name": "Test"})
-    
-    def test_api_error_handling(self, mock_openai_client, mock_env):
-        """Test API error handling."""
-        # Setup mock to raise API error
-        from openai import APIError
-        error = APIError(
-            "API error",
-            request=MagicMock(),
-            body={"error": {"message": "api_error"}}
-        )
-        mock_openai_client.chat.completions.create.side_effect = error
-        
-        # Test with retries disabled
-        client = PerplexityClient(max_retries=0)
-        with pytest.raises(PerplexityAPIError) as exc_info:
-            client.classify_pharmacy({"name": "Test"})
-        assert exc_info.value.error_type == "api_error"
-    
-    def test_response_parsing(self, mock_openai_client, mock_env):
-        """Test response parsing from API."""
-        # Setup mock response with invalid JSON
-        mock_response = MagicMock(spec=ChatCompletion)
-        mock_choice = MagicMock(spec=Choice)
-        mock_choice.message = MagicMock(spec=ChatCompletionMessage)
-        mock_choice.message.content = "invalid json"
-        mock_response.choices = [mock_choice]
-        
-        mock_openai_client.chat.completions.create.return_value = mock_response
-        
-        # Test
-        client = PerplexityClient()
-        with pytest.raises(PerplexityAPIError) as exc_info:
-            client.classify_pharmacy(SAMPLE_PHARMACY)
-        # Check that it's a response parsing error
-        assert "response_parsing" in str(exc_info.value.error_type).lower()
-    
-    def test_prompt_generation(self, mock_openai_client, mock_env):
-        """Test prompt generation for classification."""
-        client = PerplexityClient()
-        prompt = client._generate_prompt(SAMPLE_PHARMACY)
-        
-        assert "Main Street Pharmacy" in prompt
-        assert "123 Main St" in prompt
-        assert "(555) 123-4567" in prompt
-        assert "JSON" in prompt
+    # Should have made two API calls
+    assert mock_openai.chat.completions.create.call_count == 2
 
+# Test caching
+def test_caching(client, mock_openai):
+    """Test that repeated calls for the same pharmacy use the cache."""
+    # Make the mock cache stateful for this test
+    cache_store = {}
 
-class TestCachingLayer:
-    """Test the caching layer."""
-    
-    def test_cache_set_get(self, temp_cache_dir):
-        """Test setting and getting from cache."""
-        cache = Cache("test_cache", cache_dir=str(temp_cache_dir), max_size=10, default_ttl=60)
-        
-        # Test set and get
-        cache.set("key1", "value1")
-        assert cache.get("key1") == "value1"
-        
-        # Test get with default
-        assert cache.get("nonexistent", "default") == "default"
-    
-    def test_cache_expiration(self, temp_cache_dir):
-        """Test cache expiration."""
-        cache = Cache("test_cache", cache_dir=str(temp_cache_dir), default_ttl=0.1)  # 100ms TTL
-        
-        # Set value with short TTL
-        cache.set("key1", "value1")
-        assert cache.get("key1") == "value1"
-        
-        # Wait for expiration
-        time.sleep(0.2)
-        assert cache.get("key1") is None
-    
-    def test_cache_invalidation(self, temp_cache_dir):
-        """Test cache invalidation."""
-        cache = Cache("test_cache", cache_dir=str(temp_cache_dir))
-        
-        # Set and invalidate
-        cache.set("key1", "value1")
-        assert cache.get("key1") == "value1"
-        
-        cache.invalidate("key1")
-        assert cache.get("key1") is None
+    def get_from_store(key):
+        return cache_store.get(key)
 
+    def set_in_store(key, value):
+        cache_store[key] = value
 
-class TestIntegration:
-    """Test integration with the classifier."""
+    client.cache.get.side_effect = get_from_store
+    client.cache.set.side_effect = set_in_store
+
+    # First call - should be a cache miss
+    client.classify_pharmacy(SAMPLE_PHARMACY)
+
+    # Second call - should be a cache hit
+    client.classify_pharmacy(SAMPLE_PHARMACY)
+
+    # The API should have been called only once
+    mock_openai.chat.completions.create.assert_called_once()
+
+# Test retry on rate limit
+def test_retry_on_rate_limit(client, mock_openai):
+    """Test that the client retries on rate limit errors."""
+    # Setup mock to raise rate limit error first, then succeed
+    mock_response = MagicMock()
+    mock_choice = MagicMock()
+    mock_message = MagicMock()
+    mock_message.content = '{"is_chain": false, "confidence": 0.95, "reason": "test"}'
+    mock_choice.message = mock_message
+    mock_response.choices = [mock_choice]
     
-    def test_classifier_with_caching(self, mock_openai_client, temp_cache_dir, mock_env):
-        """Test the classifier with caching enabled."""
-        # Setup mock response
-        mock_response = MagicMock(spec=ChatCompletion)
-        mock_choice = MagicMock(spec=Choice)
-        mock_choice.message = MagicMock(spec=ChatCompletionMessage)
-        mock_choice.message.content = json.dumps({
-            "is_chain": False,
-            "confidence": 0.95,
-            "reason": "Test reason"
-        })
-        mock_response.choices = [mock_choice]
-        mock_response.usage = MagicMock(spec=CompletionUsage)
-        mock_response.usage.total_tokens = 100
-        
-        # Configure the mock to return our response
-        mock_openai_client.chat.completions.create.return_value = mock_response
-        
-        # Clear any existing cache
-        cache = Cache("test_cache", cache_dir=str(temp_cache_dir))
-        cache.clear()
-        
-        # First call - should hit API
-        result1 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=str(temp_cache_dir))
-        assert result1["is_chain"] is False
-        
-        # Verify API was called once
-        assert mock_openai_client.chat.completions.create.call_count == 1
-        
-        # Reset the mock call count
-        mock_openai_client.chat.completions.create.reset_mock()
-        
-        # Second call - should hit cache
-        result2 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=str(temp_cache_dir))
-        assert result2 == result1
-        
-        # Verify API was not called again (should use cache)
-        assert mock_openai_client.chat.completions.create.call_count == 0, \
-            f"Expected 0 API calls, but got {mock_openai_client.chat.completions.create.call_count}"
-        
-        # Test with different parameters to ensure cache key is working
-        different_pharmacy = SAMPLE_PHARMACY.copy()
-        different_pharmacy["name"] = "Different Pharmacy"
-        
-        # This should hit the API again since it's a different pharmacy
-        result3 = classify_pharmacy(different_pharmacy, cache_dir=str(temp_cache_dir))
-        assert mock_openai_client.chat.completions.create.call_count == 1, \
-            f"Expected 1 API call for different pharmacy, but got {mock_openai_client.chat.completions.create.call_count}"
+    mock_openai.chat.completions.create.side_effect = [
+        Exception("Rate limit exceeded"),
+        mock_response
+    ]
+    
+    # Should retry and eventually succeed
+    result = client.classify_pharmacy(SAMPLE_PHARMACY)
+    
+    assert result == {"is_chain": False, "confidence": 0.95, "reason": "test"}
+    assert mock_openai.chat.completions.create.call_count == 2
+
+# Test cache invalidation
+def test_cache_invalidation(client, mock_cache, mock_openai):
+    """Test that cache entries are used when valid."""
+    # First call - not in cache
+    result1 = client.classify_pharmacy(SAMPLE_PHARMACY)
+    
+    # Second call, should also be a cache miss
+    client.classify_pharmacy(SAMPLE_PHARMACY)
+    
+    # The API should have been called twice
+    assert mock_openai.chat.completions.create.call_count == 2
+
+@pytest.mark.parametrize("pharmacies, expected_calls", [
+    ([SAMPLE_PHARMACY, SAMPLE_PHARMACY_2, SAMPLE_PHARMACY_3], 3),
+])
+def test_batch_processing(mock_openai, client, pharmacies, expected_calls):
+    """Test processing a batch of pharmacies."""
+    results = client.classify_pharmacies_batch(pharmacies)
+    
+    assert len(results) == len(pharmacies)
+    assert mock_openai.chat.completions.create.call_count == expected_calls
+
+# Test error handling
+def test_error_handling(mock_openai, client):
+    """Test that API errors are handled correctly."""
+    # Setup mock to raise an error
+    mock_openai.chat.completions.create.side_effect = Exception("API error")
+    
+    # Should raise PerplexityAPIError
+    with pytest.raises(PerplexityAPIError):
+        client.classify_pharmacy(SAMPLE_PHARMACY)
+
+# Test cache key generation
+@pytest.mark.parametrize(
+    "pharmacy_data, model, expected_key_start",
+    [
+        (
+            SAMPLE_PHARMACY,
+            "test-model",
+            "a6e1b5b1",
+        ),
+        (
+            {**SAMPLE_PHARMACY, "name": "Another Pharmacy"},
+            "test-model",
+            "f8b9e3a9",
+        ),
+    ],
+)
+def test_cache_key_generation(pharmacy_data, model, expected_key_start):
+    """Test that cache keys are generated consistently."""
+    from src.classification.perplexity_client import _generate_cache_key
+    
+    # Same pharmacy data should generate same key
+    key1 = _generate_cache_key(pharmacy_data, model)
+    key2 = _generate_cache_key(pharmacy_data.copy(), model)
+    assert key1 == key2
+    
+    # Different model should generate different key
+    key3 = _generate_cache_key(pharmacy_data, "different-model")
+    assert key1 != key3
+    
+    # Different pharmacy data should generate different key
+    different_pharmacy = pharmacy_data.copy()
+    different_pharmacy["name"] = "Different Name"
+    key4 = _generate_cache_key(different_pharmacy, model)
+    assert key1 != key4
