@@ -8,6 +8,7 @@ from datetime import datetime
 import pandas as pd
 from apify_client import ApifyClient
 from dotenv import load_dotenv
+import traceback
 
 # Load environment variables from .env file
 load_dotenv()
@@ -19,11 +20,13 @@ APIFY_ACTOR_ID = "nwua9Gu5YrADL7ZDj"
 class ApifyCollector:
     """Collects pharmacy data using Apify's Google Maps Scraper."""
     
-    def __init__(self, api_token: str = None):
+    def __init__(self, api_token: str = None, rate_limit_ms: int = 1000, output_dir: str = 'output'):
         """Initialize the Apify collector with an API token.
         
         Args:
             api_token: Apify API token. If not provided, will look for APIFY_TOKEN or APIFY_API_TOKEN environment variables.
+            rate_limit_ms: Delay between API requests in milliseconds. Defaults to 1000ms.
+            output_dir: Directory to save output files.
             
         Raises:
             ValueError: If no API token is provided and not found in environment variables.
@@ -36,7 +39,12 @@ class ApifyCollector:
             )
         
         self.client = ApifyClient(self.api_token)
+        self.rate_limit_ms = rate_limit_ms
         self.logger = logging.getLogger(__name__)
+        self._last_request_time = 0
+        self.output_dir = str(output_dir)  # Ensure it's a string
+        self.output_dir_path = Path(self.output_dir)
+        self.output_dir_path.mkdir(parents=True, exist_ok=True)
     
     def _load_config(self, config_path: str) -> dict:
         """Load and validate the configuration file.
@@ -114,57 +122,83 @@ class ApifyCollector:
         for state_dir in state_dirs:
             (output_path / state_dir.lower().replace(' ', '_')).mkdir(exist_ok=True)
     
-    def run_trial(self, config_path: str) -> None:
-        """Run a trial data collection using the provided configuration."""
+    def run_trial(self, config_path: str) -> Dict[str, List[Dict[str, Any]]]:
+        """Run a trial data collection using the provided configuration.
+        
+        Args:
+            config_path: Path to the configuration file
+            
+        Returns:
+            Dictionary mapping city names to lists of collected pharmacy records
+            
+        Raises:
+            FileNotFoundError: If the config file is not found
+            json.JSONDecodeError: If the config file contains invalid JSON
+            ValueError: If the config is missing required fields
+            Exception: For any other errors during execution
+        """
         try:
             config = self._load_config(config_path)
-            self.logger.info(f"Loaded configuration: {json.dumps(config, indent=2, default=str)}")
+            output_dir = config.get('output_dir', 'output')
             
-            output_dir = config.get('output_dir', 'data/raw/trial')
-            max_cities = config.get('max_cities_per_run', 2)
+            queries = self._generate_queries_from_config(config_path)
             
-            # Create output directory if it doesn't exist
-            Path(output_dir).mkdir(parents=True, exist_ok=True)
+            state_dirs = list(set(q['state'] for q in queries))
+            self._create_output_directories(output_dir, state_dirs)
             
-            # Process cities in batches to control costs
+            all_results = {}
             cities_processed = 0
             
-            # Extract states and cities from the nested structure
-            states_config = config.get('states', {})
-            for state, state_data in states_config.items():
-                if cities_processed >= max_cities:
-                    self.logger.info(f"Reached maximum of {max_cities} cities for this run")
-                    break
-                    
-                cities = state_data.get('cities', [])
-                for city_data in cities:
-                    if cities_processed >= max_cities:
-                        break
+            for query_info in queries:
+                city_name = query_info['city']
+                state = query_info['state']
+                query = query_info['query']
+                
+                try:
+                    for q in query.split('|'):
+                        time_since_last_request = (time.time() * 1000) - self._last_request_time
+                        if time_since_last_request < self.rate_limit_ms:
+                            sleep_time = (self.rate_limit_ms - time_since_last_request) / 1000.0
+                            time.sleep(sleep_time)
                         
-                    city_name = city_data.get('name', '').replace('_', ' ').title()
-                    queries = city_data.get('queries', [])
-                    
-                    if not queries:
-                        self.logger.warning(f"No queries found for city: {city_name}")
-                        continue
+                        results = self._process_city(city_name, state, q.strip(), output_dir, config)
+                        if results:
+                            all_results.setdefault(city_name, []).extend(results)
                         
-                    self.logger.info(f"Processing city: {city_name}, {state.title()}")
-                    self._process_city(city_name, state.title(), queries[0], output_dir, config)
+                        self._last_request_time = time.time() * 1000
+                        
                     cities_processed += 1
                     
-                    # Add delay between cities to avoid rate limiting
-                    if cities_processed < max_cities:  # No need to sleep after the last city
-                        time.sleep(5)  # 5 second delay between cities
-                        
+                except Exception as e:
+                    error_msg = f"Error processing {city_name}, {state}: {str(e)}"
+                    self.logger.error(error_msg)
+                    if "Actor not found" in str(e):
+                        raise Exception(f"Error in run_trial: Actor not found") from e
+                    continue
+        
+            return all_results
+            
         except Exception as e:
-            self.logger.error(f"Error in run_trial: {str(e)}")
-            self.logger.debug(traceback.format_exc())
-            raise
+            if "Actor not found" in str(e):
+                raise Exception(f"Error in run_trial: Actor not found") from e
+            raise Exception(f"Error in run_trial: {str(e)}") from e
     
-    def _process_city(self, city: str, state: str, query: str, output_dir: str, config: dict) -> None:
-        """Process a single city's data collection."""
+    def _process_city(self, city: str, state: str, query: str, output_dir: str, config: dict) -> List[Dict[str, Any]]:
+        """Process a single city's data collection.
+        
+        Args:
+            city: Name of the city to process
+            state: Name of the state where the city is located
+            query: Search query to use
+            output_dir: Directory to save results
+            config: Configuration dictionary
+            
+        Returns:
+            List of collected pharmacy records
+        """
         try:
-            # Prepare the Actor input with configuration
+            state_name = state.title()
+            
             run_input = {
                 "searchStringsArray": [query],
                 "maxCrawledPlacesPerSearch": config.get('max_results_per_query', 5),
@@ -173,60 +207,52 @@ class ApifyCollector:
                 "searchMatching": "all"
             }
             
-            self.logger.info(f"Starting Apify actor for query: {query}")
+            self.logger.info(f"Starting Apify actor for query: {query} in {city}, {state_name}")
             
-            # Run the Actor
             run = self.client.actor(APIFY_ACTOR_ID).call(run_input=run_input)
-            run_id = run["id"]
             
-            # Wait for the run to finish
-            run_client = self.client.run(run_id)
-            run = run_client.wait_for_finish()
-            
-            # Get results
             dataset_id = run.get("defaultDatasetId")
             if not dataset_id:
                 self.logger.error(f"No dataset ID found in run: {run}")
-                return
+                return []
                 
             dataset = self.client.dataset(dataset_id)
             
-            # Get items from the dataset
             try:
-                # Get items from the dataset
-                items = []
-                
-                # Get the first page of results
-                page = dataset.list_items(limit=config.get('max_results_per_query', 5))
-                
-                # Access the items using the 'items' attribute
-                items = page.items if hasattr(page, 'items') else []
+                items = list(dataset.iterate_items())
                 
                 if not items:
-                    self.logger.warning(f"No results found for {query}")
-                    return
+                    self.logger.warning(f"No results found for {query} in {city}, {state_name}")
+                    return []
                     
-                self.logger.info(f"Retrieved {len(items)} results for {query}")
+                self.logger.info(f"Retrieved {len(items)} results for {query} in {city}, {state_name}")
                 
-                # Save results
-                city_file = city.lower().replace(' ', '_') + '.json'
-                output_path = Path(output_dir) / state.lower() / city_file
-                output_path.parent.mkdir(parents=True, exist_ok=True)
+                for item in items:
+                    item['query'] = query
+                    item['city'] = city
+                    item['state'] = state_name
+                    item['scraped_at'] = datetime.utcnow().isoformat()
+                
+                city_safe = city.lower().replace(' ', '_')
+                state_safe = state_name.lower().replace(' ', '_')
+                timestamp = datetime.utcnow().strftime('%Y%m%d_%H%M%S')
+                output_path = Path(output_dir) / f"{state_safe}_{city_safe}_{timestamp}.json"
                 
                 with open(output_path, 'w') as f:
                     json.dump(items, f, indent=2, default=str)
                 
-                self.logger.info(f"Saved results to {output_path}")
+                self.logger.info(f"Saved {len(items)} results to {output_path}")
+                return items
                 
             except Exception as e:
-                self.logger.error(f"Error processing results for {query}: {str(e)}")
-                import traceback
+                self.logger.error(f"Error processing results for {query} in {city}, {state_name}: {str(e)}")
                 self.logger.debug(traceback.format_exc())
+                return []
                 
         except Exception as e:
-            self.logger.error(f"Error processing {query}: {str(e)}")
-            import traceback
+            self.logger.error(f"Error processing {query} in {city}, {state_name}: {str(e)}")
             self.logger.debug(traceback.format_exc())
+            return []
     
     def generate_search_queries(self, states_cities: Union[Dict[str, List[str]], List[str]], 
                              cities_per_state: int = None) -> List[Dict[str, str]]:
@@ -242,7 +268,6 @@ class ApifyCollector:
         queries = []
         
         if isinstance(states_cities, dict):
-            # Handle dictionary input {state: [cities]}
             for state, cities in states_cities.items():
                 for city in cities:
                     queries.append({
@@ -251,7 +276,6 @@ class ApifyCollector:
                         'city': city
                     })
         else:
-            # Handle list of states
             states = states_cities
             for state in states:
                 queries.append({
@@ -281,72 +305,56 @@ class ApifyCollector:
             self.logger.info(f"Searching for: {query} in {city}, {state}")
             
             try:
-                # Prepare the Actor input
                 run_input = {
                     "searchStringsArray": [query],
-                    "maxCrawledPlacesPerSearch": 30,  # Default max results
+                    "maxCrawledPlacesPerSearch": 30,  
                     "language": "en",
                     "maxRequestRetries": 3,
                     "searchMatching": "all"
                 }
                 
-                # Run the Actor
+                run = self.client.actor(APIFY_ACTOR_ID).call(run_input=run_input)
+                
+                run_id = run["id"]
+                
+                run_client = self.client.run(run_id)
+                run = run_client.wait_for_finish()
+                
+                dataset_id = run.get("defaultDatasetId")
+                if not dataset_id:
+                    self.logger.error(f"No dataset ID found in run: {run}")
+                    continue
+                    
+                dataset = self.client.dataset(dataset_id)
                 try:
-                    run = self.client.actor(APIFY_ACTOR_ID).call(run_input=run_input)
+                    results = []
+                    pagination = dataset.list_items(limit=1000)
+                    results = list(pagination)
                     
-                    # Get the run ID from the response
-                    run_id = run["id"]
-                    
-                    # Wait for the run to finish using the run client
-                    run_client = self.client.run(run_id)
-                    run = run_client.wait_for_finish()
-                    
-                    # Get results
-                    dataset_id = run.get("defaultDatasetId")
-                    if not dataset_id:
-                        self.logger.error(f"No dataset ID found in run: {run}")
+                    if not results:
+                        self.logger.warning(f"No results found in dataset {dataset_id}")
                         continue
                         
-                    dataset = self.client.dataset(dataset_id)
-                    try:
-                        # Get items with pagination using the correct parameters
-                        results = []
-                        pagination = dataset.list_items(limit=1000)
-                        results = list(pagination)
-                        
-                        if not results:
-                            self.logger.warning(f"No results found in dataset {dataset_id}")
-                            continue
-                            
-                        self.logger.info(f"Retrieved {len(results)} results from dataset {dataset_id}")
-                        
-                    except Exception as e:
-                        self.logger.error(f"Error retrieving items from dataset {dataset_id}: {str(e)}")
-                        import traceback
-                        self.logger.debug(traceback.format_exc())
-                        continue
-                    
-                    # Add metadata to results
-                    for result in results:
-                        result.update({
-                            'search_query': query,
-                            'search_state': state,
-                            'search_city': city,
-                            'collected_at': datetime.utcnow().isoformat()
-                        })
-                    
-                    all_results.extend(results)
+                    self.logger.info(f"Retrieved {len(results)} results from dataset {dataset_id}")
                     
                 except Exception as e:
-                    self.logger.error(f"Error processing query '{query}': {str(e)}")
-                    import traceback
+                    self.logger.error(f"Error retrieving items from dataset {dataset_id}: {str(e)}")
                     self.logger.debug(traceback.format_exc())
                     continue
-            
+                
+                for result in results:
+                    result.update({
+                        'search_query': query,
+                        'search_state': state,
+                        'search_city': city,
+                        'collected_at': datetime.utcnow().isoformat()
+                    })
+                
+                all_results.extend(results)
+                
             except Exception as e:
-                self.logger.error(f"Error processing query '{query}': {e}")
-                if "Actor not found" in str(e):
-                    raise Exception(f"Apify actor error: {e}")
+                self.logger.error(f"Error processing query '{query}': {str(e)}")
+                self.logger.debug(traceback.format_exc())
                 continue
         
         return all_results
@@ -405,6 +413,25 @@ class ApifyCollector:
         self.logger.info(f"Saved {len(pharmacies)} pharmacies to {output_path}")
 
 
+def run_trial(config_path: Union[str, Path]) -> Dict[str, List[Dict[str, Any]]]:
+    """Run a trial collection using the Apify Google Maps Scraper.
+    
+    This is a convenience function that creates an ApifyCollector instance
+    and calls its run_trial method.
+    
+    Args:
+        config_path: Path to the configuration file
+        
+    Returns:
+        Dictionary mapping city names to lists of collected pharmacy items
+        
+    Raises:
+        Exception: If there's an error during collection
+    """
+    collector = ApifyCollector()
+    return collector.run_trial(config_path)
+
+
 def main():
     """Example usage of the ApifyCollector class."""
     import argparse
@@ -419,7 +446,6 @@ def main():
         print(f"Running trial with config: {args.trial_config}")
         collector.run_trial(args.trial_config)
     else:
-        # Default behavior (existing code)
         states = ["California", "Texas"]
         queries = collector.generate_search_queries(states)
         results = collector.collect_pharmacies(queries)

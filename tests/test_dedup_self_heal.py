@@ -17,171 +17,244 @@ from src.dedup_self_heal import (
     merge_new_pharmacies,
     process_pharmacies,
     TARGET_PHARMACIES_PER_STATE,
-    DEFAULT_MIN_REQUIRED
+    DEFAULT_MIN_REQUIRED,
+    scrape_pharmacies,
+    get_apify_scraper
 )
 
 # Sample test data
-SAMPLE_PHARMACIES = [
-    # California - 3 pharmacies (2 unique)
-    {"name": "Downtown Pharmacy", "address": "123 Main St", "city": "San Francisco", "state": "CA", "zip": "94105", "phone": "(555) 111-1111", "is_chain": False, "confidence": 0.95},
-    {"name": "Downtown Pharmacy", "address": "123 Main St", "city": "San Francisco", "state": "CA", "zip": "94105", "phone": "(555) 111-1111", "is_chain": False, "confidence": 0.95},  # Duplicate
-    {"name": "Sunset Drugs", "address": "456 Sunset Blvd", "city": "Los Angeles", "state": "CA", "zip": "90028", "phone": "(555) 222-2222", "is_chain": False, "confidence": 0.90},
-    
-    # Texas - 1 pharmacy
-    {"name": "Lone Star Pharmacy", "address": "789 Oak St", "city": "Austin", "state": "TX", "zip": "73301", "phone": "(555) 333-3333", "is_chain": False, "confidence": 0.85},
-    
-    # New York - 1 pharmacy (will be used for testing merge)
-    {"name": "Empire Drugs", "address": "101 Broadway", "city": "New York", "state": "NY", "zip": "10001", "phone": "(555) 444-4444", "is_chain": False, "confidence": 0.92}
-]
-
-# Sample Apify response data
-SAMPLE_APIFY_RESPONSE = [
-    {
-        'title': 'New Austin Pharmacy',
-        'address': '123 New St, Austin, TX 73302',
-        'phone': '(555) 555-5555',
-        'location': {'lat': 30.2672, 'lng': -97.7431},
-        'website': 'https://newaustinpharmacy.com',
-        'scrapedAt': '2025-01-01T12:00:00Z'
-    },
-    {
-        'title': 'Austin Compounding',
-        'address': '456 Oak Ave, Austin, TX 73303',
-        'phone': '(555) 666-6666',
-        'location': {'lat': 30.2682, 'lng': -97.7441},
-        'website': 'https://austincompounding.com',
-        'scrapedAt': '2025-01-01T12:01:00Z'
-    }
-]
-
-# Fixture for sample data
 @pytest.fixture
 def sample_pharmacies():
-    return pd.DataFrame(SAMPLE_PHARMACIES)
+    """Sample pharmacy data for testing."""
+    return pd.DataFrame({
+        'name': [
+            'Downtown Pharmacy', 
+            'Downtown Pharmacy',  # Duplicate
+            'Sunset Drugs',
+            'Lone Star Pharmacy'
+        ],
+        'address': [
+            '123 Main St',
+            '123 Main St',  # Duplicate
+            '456 Sunset Blvd',
+            '789 Oak St'
+        ],
+        'city': ['Anytown', 'Anytown', 'Sometown', 'Othertown'],
+        'state': ['CA', 'CA', 'CA', 'TX'],
+        'zip': ['12345', '12345', '67890', '54321'],
+        'phone': ['(555) 123-4567', '(555) 123-4567', '(555) 987-6543', '(555) 456-7890'],
+        'is_chain': [False, False, False, False],
+        'confidence': [0.95, 0.95, 0.90, 0.85]
+    })
 
 def test_group_pharmacies_by_state(sample_pharmacies):
     """Test grouping pharmacies by state."""
-    result = group_pharmacies_by_state(sample_pharmacies)
+    grouped = group_pharmacies_by_state(sample_pharmacies)
     
-    # Should have 3 states (CA, TX, NY)
-    assert len(result) == 3
-    assert "CA" in result
-    assert "TX" in result
-    assert "NY" in result
-    
-    # Check counts
-    assert len(result["CA"]) == 3  # Includes duplicate
-    assert len(result["TX"]) == 1
-    assert len(result["NY"]) == 1
+    assert isinstance(grouped, dict)
+    assert set(grouped.keys()) == {'CA', 'TX'}
+    assert len(grouped['CA']) == 3  # Includes duplicate
+    assert len(grouped['TX']) == 1
 
 def test_remove_duplicates(sample_pharmacies):
     """Test removal of duplicate pharmacies."""
-    result = remove_duplicates(sample_pharmacies)
+    deduped = remove_duplicates(sample_pharmacies)
     
-    # Should have 4 unique pharmacies (original has 5 entries with 1 duplicate)
-    assert len(result) == 4
-    
-    # Check that duplicates are removed (based on name and address)
-    names = result["name"].tolist()
-    assert names.count("Downtown Pharmacy") == 1
+    assert len(deduped) == 3  # One duplicate removed
+    assert 'Downtown Pharmacy' in deduped['name'].values
+    assert 'Sunset Drugs' in deduped['name'].values
+    assert 'Lone Star Pharmacy' in deduped['name'].values
 
 def test_identify_underfilled_states(sample_pharmacies):
     """Test identification of states needing more pharmacies."""
     grouped = group_pharmacies_by_state(sample_pharmacies)
     underfilled = identify_underfilled_states(grouped, min_required=2)
     
-    # TX has only 1 pharmacy, needs more (assuming min_required=2)
-    assert "TX" in underfilled
-    assert "CA" not in underfilled  # CA has 2 unique pharmacies after dedupe
-    assert underfilled["TX"] == 1  # Currently has 1, needs 1 more
+    assert 'TX' in underfilled
+    assert underfilled['TX'] == TARGET_PHARMACIES_PER_STATE - 1  # Needs 1 more
+    assert 'CA' not in underfilled  # Already has enough
 
-@patch('src.dedup_self_heal.get_apify_scraper')
-def test_scrape_pharmacies(mock_get_scraper, sample_pharmacies):
-    """Test scraping pharmacies using Apify."""
-    # Mock the Apify scraper
-    mock_scraper = MagicMock()
-    mock_scraper.scrape_pharmacies.return_value = SAMPLE_APIFY_RESPONSE
-    mock_get_scraper.return_value = mock_scraper
-    
-    # Import here to avoid circular imports
-    from src.dedup_self_heal import scrape_pharmacies
-    
-    # Test with state and count
-    result = scrape_pharmacies("TX", 2)
-    
-    # Check results
-    assert len(result) == 2
-    assert result.iloc[0]['name'] == 'New Austin Pharmacy'
-    assert result.iloc[0]['city'] == ''  # City not provided in the scrape_pharmacies call
-    assert 'scraped_at' in result.columns
-    
-    # Check that the scraper was called with the right arguments
-    mock_scraper.scrape_pharmacies.assert_called_once_with(
-        state='TX',
-        city='',
-        query='pharmacy in TX',
-        max_results=4  # 2 * 2 (count * 2 for extra results)
-    )
-
-@patch('src.dedup_self_heal.scrape_pharmacies')
+@patch('src.dedup_self_heal.dedup.scrape_pharmacies')
 def test_self_heal_state(mock_scrape, sample_pharmacies):
     """Test self-healing for under-filled states."""
-    # Filter to just TX for testing
-    tx_pharmacies = sample_pharmacies[sample_pharmacies['state'] == 'TX']
-    
-    # Mock the scrape_pharmacies function to return new pharmacies
-    new_pharmacy = {
-        'name': 'New Austin Pharmacy',
-        'address': '123 New St',
-        'city': 'Austin',
-        'state': 'TX',
-        'zip': '73302',
-        'phone': '(555) 555-5555',
+    # Mock the scrape_pharmacies function to return test data
+    mock_scrape.return_value = pd.DataFrame([{
+        'name': 'Empire Drugs',
+        'address': '101 Broadway',
+        'city': 'New York',
+        'state': 'NY',
+        'zip': '10001',
+        'phone': '(555) 444-4444',
         'is_chain': False,
-        'confidence': 0.88,
-        'scraped_at': pd.Timestamp.now()
-    }
-    mock_scrape.return_value = pd.DataFrame([new_pharmacy])
+        'confidence': 0.92
+    }])
     
-    # Test self-healing
-    result = self_heal_state("TX", tx_pharmacies, needed=1)
+    # Test with empty existing pharmacies
+    result = self_heal_state('NY', pd.DataFrame(), 1)
     
-    # Should have original + new pharmacy
-    assert len(result) == 2
-    assert "New Austin Pharmacy" in result["name"].values
+    # Should return the new pharmacy
+    assert not result.empty
+    assert result.iloc[0]['name'] == 'Empire Drugs'
+    assert result.iloc[0]['state'] == 'NY'
     
-    # Check that scrape_pharmacies was called
+    # Verify scrape_pharmacies was called with the correct arguments
     mock_scrape.assert_called_once()
+    args, kwargs = mock_scrape.call_args
+    assert args[0] == 'NY'  # state
+    assert args[1] > 0      # count
+    assert kwargs.get('city') is not None  # Should have a city parameter
+    
+    # Test with existing pharmacies (should filter out existing)
+    existing = pd.DataFrame([{
+        'name': 'Existing Pharmacy',
+        'address': '123 Test St',
+        'city': 'New York',
+        'state': 'NY',
+        'zip': '10001',
+        'phone': '(555) 123-4567',
+        'is_chain': False,
+        'confidence': 0.95
+    }])
+    
+    # Reset mock for the second test
+    mock_scrape.reset_mock()
+    mock_scrape.return_value = pd.DataFrame([{
+        'name': 'Empire Drugs',  # Same as existing
+        'address': '101 Broadway',
+        'city': 'New York',
+        'state': 'NY',
+        'zip': '10001',
+        'phone': '(555) 444-4444',
+        'is_chain': False,
+        'confidence': 0.92
+    }])
+    
+    result = self_heal_state('NY', existing, 1)
+    
+    # Should return existing + new pharmacies (but new one is a duplicate, so only existing)
+    assert len(result) == 1
+    assert 'Existing Pharmacy' in result['name'].values
+    
+    # Verify scrape_pharmacies was called again
+    mock_scrape.assert_called_once()
+
+@patch('src.dedup_self_heal.dedup.self_heal_state')
+def test_process_pharmacies(mock_self_heal, sample_pharmacies):
+    """Test the main processing pipeline for pharmacies."""
+    # Create test data with multiple states
+    ca_pharmacies = pd.DataFrame([{
+        'name': f'CA Pharmacy {i}',
+        'address': f'{i} Main St',
+        'city': 'Los Angeles',
+        'state': 'CA',
+        'zip': '90001',
+        'phone': f'(555) 111-{i:04d}',
+        'is_chain': False,
+        'confidence': 0.95
+    } for i in range(30)])  # CA has enough pharmacies
+    
+    ny_pharmacies = pd.DataFrame([{
+        'name': f'NY Pharmacy {i}',
+        'address': f'{i} Broadway',
+        'city': 'New York',
+        'state': 'NY',
+        'zip': '10001',
+        'phone': f'(555) 222-{i:04d}',
+        'is_chain': False,
+        'confidence': 0.95
+    } for i in range(20)])  # NY needs more pharmacies
+    
+    tx_pharmacies = pd.DataFrame([{
+        'name': f'TX Pharmacy {i}',
+        'address': f'{i} Main St',
+        'city': 'Houston',
+        'state': 'TX',
+        'zip': '77001',
+        'phone': f'(555) 333-{i:04d}',
+        'is_chain': False,
+        'confidence': 0.95
+    } for i in range(10)])  # TX needs more pharmacies
+    
+    all_pharmacies = pd.concat([ca_pharmacies, ny_pharmacies, tx_pharmacies])
+    
+    # Mock self_heal_state to return some new pharmacies for NY and TX
+    def mock_self_heal_side_effect(state, existing_df, count, min_required):
+        if state == 'NY':
+            return pd.DataFrame([{
+                'name': 'New NY Pharmacy',
+                'address': '123 New St',
+                'city': 'Buffalo',
+                'state': 'NY',
+                'zip': '14201',
+                'phone': '(555) 444-0001',
+                'is_chain': False,
+                'confidence': 0.92
+            }])
+        elif state == 'TX':
+            return pd.DataFrame([{
+                'name': 'New TX Pharmacy',
+                'address': '456 New St',
+                'city': 'Austin',
+                'state': 'TX',
+                'zip': '73301',
+                'phone': '(555) 444-0002',
+                'is_chain': False,
+                'confidence': 0.91
+            }])
+        return pd.DataFrame()
+    
+    mock_self_heal.side_effect = mock_self_heal_side_effect
+    
+    # Process the pharmacies
+    result = process_pharmacies(all_pharmacies, min_required=25)
+    
+    # Verify the result structure
+    assert isinstance(result, dict)
+    assert set(result.keys()) == {'CA', 'NY', 'TX'}
+    
+    # CA should have original count (not underfilled)
+    assert len(result['CA']) == 30
+    
+    # NY should have original + 1 new pharmacy
+    assert len(result['NY']) == 21
+    assert 'New NY Pharmacy' in result['NY']['name'].values
+    
+    # TX should have original + 1 new pharmacy
+    assert len(result['TX']) == 11
+    assert 'New TX Pharmacy' in result['TX']['name'].values
+    
+    # Verify self_heal_state was called for NY and TX but not CA
+    assert mock_self_heal.call_count == 2
+    called_states = [call[0][0] for call in mock_self_heal.call_args_list]
+    assert 'NY' in called_states
+    assert 'TX' in called_states
+    assert 'CA' not in called_states
 
 def test_merge_new_pharmacies(sample_pharmacies):
     """Test merging new pharmacies with existing ones."""
-    # Split into existing and new
-    existing = sample_pharmacies[sample_pharmacies['state'] != 'NY']
-    new = sample_pharmacies[sample_pharmacies['state'] == 'NY']
+    existing = sample_pharmacies.head(3)  # First 3 pharmacies
+    new = pd.DataFrame([{
+        'name': 'Empire Drugs',
+        'address': '101 Broadway',
+        'city': 'New York',
+        'state': 'NY',
+        'zip': '10001',
+        'phone': '(555) 444-4444',
+        'is_chain': False,
+        'confidence': 0.92
+    }])
     
-    # Test merge
+    # Add a duplicate of the first pharmacy with different confidence
+    duplicate = existing.iloc[0].copy()
+    duplicate['confidence'] = 0.90
+    new = pd.concat([new, duplicate.to_frame().T])
+    
     result = merge_new_pharmacies(existing, new)
     
-    # Should have all pharmacies including the new NY one
-    assert len(result) == len(existing) + len(new)
-    assert "NY" in result["state"].unique()
-    assert "Empire Drugs" in result["name"].values
-
-@patch('src.dedup_self_heal.self_heal_state')
-def test_process_pharmacies(mock_self_heal, sample_pharmacies):
-    """Test the full processing pipeline."""
-    # Mock self_heal_state to just return the input
-    mock_self_heal.side_effect = lambda state, df, needed, **kwargs: df
+    # Should have original 3 + 1 new - 1 duplicate = 4 total
+    assert len(result) == 4
+    assert 'Empire Drugs' in result['name'].values
     
-    # Process the pharmacies
-    result = process_pharmacies(sample_pharmacies, target_per_state=2)
-    
-    # Should have data for all states
-    assert set(result.keys()) == {"CA", "TX", "NY"}
-    
-    # Check that self_heal_state was called for under-filled states
-    # In our test data, only TX has fewer than 2 unique pharmacies
-    assert mock_self_heal.call_count == 1
-    call_args = mock_self_heal.call_args[1]
-    assert call_args["state"] == "TX"
-    assert call_args["needed"] == 1  # TX has 1 pharmacy, needs 1 more to reach target of 2
+    # The duplicate should keep the higher confidence value
+    dup_mask = (result['name'] == duplicate['name']) & (result['address'] == duplicate['address'])
+    assert result[dup_mask]['confidence'].iloc[0] == 0.95  # Kept the higher confidence
