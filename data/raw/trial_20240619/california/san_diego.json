@@ -1,0 +1,1279 @@
+[
+  {
+    "title": "Good Morning Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7655 Clairemont Mesa Blvd #306, San Diego, CA 92111",
+    "neighborhood": "Kearny Mesa",
+    "street": "7655 Clairemont Mesa Blvd #306",
+    "city": "San Diego",
+    "postalCode": "92111",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(858) 268-1660",
+    "phoneUnformatted": "+18582681660",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.8313808,
+      "lng": -117.1551561
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJERS8b5f_24AR2LUMWxzM3-E",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80dbff976fbc1411:0xe1dfcc1c5b0cb5d8",
+    "cid": "16275952000498972120",
+    "reviewsCount": 10,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.982Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Good%20Morning%20Pharmacy&query_place_id=ChIJERS8b5f_24AR2LUMWxzM3-E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrtrcFQtMrsKP6wONRAPEPttKX6ElhyR9Vy50RoVXHPpzyUfyl3CavIsvGgPWzULBpAGUtTNj3I22ZuZ8hQ2W99IHcwIAl0yvoYpKlkGmyngI9sKizXem2zyokBa5A5EiKZbd-s=w408-h541-k-no",
+    "kgmid": "/g/11cn0rg_kz",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751038"
+  },
+  {
+    "title": "Allen Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "333 C St, San Diego, CA 92101",
+    "neighborhood": "Downtown San Diego",
+    "street": "333 C St",
+    "city": "San Diego",
+    "postalCode": "92101",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(619) 232-8101",
+    "phoneUnformatted": "+16192328101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7165159,
+      "lng": -117.1615432
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO_MzqadU2YAROimf8YUrM_w",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80d954a7a933f33b:0xfc332b85f19f293a",
+    "cid": "18172916775654467898",
+    "reviewsCount": 194,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Allen%20Pharmacy&query_place_id=ChIJO_MzqadU2YAROimf8YUrM_w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrjFgiMsZKMI_PjgC4GFb4jbAXzwKQlSVDXmrq6sChS84c6JJyDV97BPfGkWfsm6OO0dGpb8alU_9Z4H5YP2deE98GT-0S4roP-GWScUiO_TbnxNeoJggjLeyMvGbZHQu9WMWx=w408-h306-k-no",
+    "kgmid": "/g/1vzv3yy2",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751048"
+  },
+  {
+    "title": "University Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1875 Third Ave, San Diego, CA 92101",
+    "neighborhood": "Bankers Hill",
+    "street": "1875 Third Ave",
+    "city": "San Diego",
+    "postalCode": "92101",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.ucprx.com/",
+    "phone": "(619) 683-2005",
+    "phoneUnformatted": "+16196832005",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7248546,
+      "lng": -117.1618509
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUwmk_69U2YARPWwBJLBvY8c",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80d954afffa40953:0xc7636fb024016c3d",
+    "cid": "14367450038551014461",
+    "reviewsCount": 71,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=University%20Compounding%20Pharmacy&query_place_id=ChIJUwmk_69U2YARPWwBJLBvY8c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprHhjMqYzPapD4q_c4Pkrt2b64KUPdMxDIhZ3iXErC1yX6tktzwHhY0tOjWryEl_WfO2fA551_rCnfZSzA_ZY_er5orsz4PDcJMIh2EqvuxGSoNq_ai-AdVdutk-g-are8oXy1=w450-h240-k-no",
+    "kgmid": "/g/125_xw249",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751049"
+  },
+  {
+    "title": "Pride Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1270 University Ave, San Diego, CA 92103",
+    "neighborhood": "Hillcrest",
+    "street": "1270 University Ave",
+    "city": "San Diego",
+    "postalCode": "92103",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://pridepharmacysd.com/",
+    "phone": "(619) 501-5888",
+    "phoneUnformatted": "+16195015888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7491245,
+      "lng": -117.1519982
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7SZQNt1U2YARG2G-t_Fxpe0",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80d954dd365026ed:0xeda571f1b7be611b",
+    "cid": "17124218441129943323",
+    "reviewsCount": 42,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pride%20Pharmacy&query_place_id=ChIJ7SZQNt1U2YARG2G-t_Fxpe0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPmAzW_EDSMNaWRiemcrCDcWX27xg6ur0_6hye=w648-h240-k-no",
+    "kgmid": "/g/12610w3dt",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751051"
+  },
+  {
+    "title": "IMPERIAL PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1530 Palm Ave, San Diego, CA 92154",
+    "neighborhood": "Egger Highlands",
+    "street": "1530 Palm Ave",
+    "city": "San Diego",
+    "postalCode": "92154",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://imperialpharmacyrx.com/",
+    "phone": "(619) 343-0095",
+    "phoneUnformatted": "+16193430095",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.5842753,
+      "lng": -117.1007138
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9eJyMfBN2YARX-8Suby9q9E",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x80d94df03172e2f5:0xd1abbdbcb912ef5f",
+    "cid": "15108377993200987999",
+    "reviewsCount": 361,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=IMPERIAL%20PHARMACY&query_place_id=ChIJ9eJyMfBN2YARX-8Suby9q9E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPa4X90IIpa1St0pM4MziaNcSHEOhrtcHMaMRPW=w408-h306-k-no",
+    "kgmid": "/g/11qptmqtnw",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751053"
+  },
+  {
+    "title": "Good Pharma Compounding Pharm",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "951 Turquoise St, San Diego, CA 92109",
+    "neighborhood": "Pacific Beach",
+    "street": "951 Turquoise St",
+    "city": "San Diego",
+    "postalCode": "92109",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.goodpharma.com/",
+    "phone": "(858) 488-9000",
+    "phoneUnformatted": "+18584889000",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.8091376,
+      "lng": -117.2563692
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6qqql0B3IARAUe3B-r8qY4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80dc015daaaaaaab:0x8ea9fcea07b74701",
+    "cid": "10280025706531866369",
+    "reviewsCount": 21,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Good%20Pharma%20Compounding%20Pharm&query_place_id=ChIJq6qqql0B3IARAUe3B-r8qY4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nit0oa4YRnXkxoiD28maJg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=153.85799&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tzgphz3",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751054"
+  },
+  {
+    "title": "AHF Hillcrest Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "120 University Ave, San Diego, CA 92103",
+    "neighborhood": "Hillcrest",
+    "street": "120 University Ave",
+    "city": "San Diego",
+    "postalCode": "92103",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.ahf.org/",
+    "phone": "(619) 260-1010",
+    "phoneUnformatted": "+16192601010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.748479,
+      "lng": -117.1634591
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9zhR9NBU2YAR1jrgR2Og2LI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80d954d0f45138f7:0xb2d8a06347e03ad6",
+    "cid": "12887226681988758230",
+    "reviewsCount": 85,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Hillcrest%20Pharmacy&query_place_id=ChIJ9zhR9NBU2YAR1jrgR2Og2LI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOBsnIEx_OTsD94x49L-2JkGtrlvyyaMyJWTYLN=w408-h272-k-no",
+    "kgmid": "/g/1tjhxyyt",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751056"
+  },
+  {
+    "title": "PureCare Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5550 Carmel Mountain Rd UNIT 111, San Diego, CA 92130",
+    "neighborhood": "Carmel Valley",
+    "street": "5550 Carmel Mountain Rd UNIT 111",
+    "city": "San Diego",
+    "postalCode": "92130",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.purecarepharmacy.com/wellevaite",
+    "phone": "(858) 925-6149",
+    "phoneUnformatted": "+18589256149",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.9288774,
+      "lng": -117.1975863
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ__-vj70H3IARzKP2Kqgckcg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80dc07bd8fafffff:0xc8911ca82af6a3cc",
+    "cid": "14452364187809522636",
+    "reviewsCount": 106,
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.984Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PureCare%20Pharmacy&query_place_id=ChIJ__-vj70H3IARzKP2Kqgckcg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPcClQ2sb3bPLe0rKdrdgN6c_--AYelmpDuTDLc=w426-h240-k-no",
+    "kgmid": "/g/11ggw4_4ry",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751057"
+  },
+  {
+    "title": "Regents Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6255 University Ave #A1, San Diego, CA 92115",
+    "neighborhood": "Mid-City",
+    "street": "6255 University Ave #A1",
+    "city": "San Diego",
+    "postalCode": "92115",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.regentsrx.com/",
+    "phone": "(619) 436-5571",
+    "phoneUnformatted": "+16194365571",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.753579,
+      "lng": -117.0605022
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZetc__tX2YARZ1Ggzi0hFi8",
+    "categories": [
+      "Pharmacy",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x80d957fbff5ceb65:0x2f16212dcea05167",
+    "cid": "3392935849894105447",
+    "reviewsCount": 59,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.985Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Asian-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Regents%20Pharmacy&query_place_id=ChIJZetc__tX2YARZ1Ggzi0hFi8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOc5MKhjknvim2FA5sFYqtOmph_63j-mg455hjM=w408-h272-k-no",
+    "kgmid": "/g/11frr3jk9d",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751059"
+  },
+  {
+    "title": "Strive Compounding Pharmacy (La Vita)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11468 Sorrento Valley Rd Ste C, San Diego, CA 92121",
+    "neighborhood": "Torrey Preserve",
+    "street": "11468 Sorrento Valley Rd Ste C",
+    "city": "San Diego",
+    "postalCode": "92121",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.strivepharmacy.com/locations/california/san-diego-92121",
+    "phone": "(858) 453-2500",
+    "phoneUnformatted": "+18584532500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.9097533,
+      "lng": -117.2307749
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkxgiDgIH3IARX0MsrryyiZw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80dc07020e221893:0x9c89b2bcae2c435f",
+    "cid": "11279743265171850079",
+    "reviewsCount": 70,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-20T06:06:27.985Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Strive%20Compounding%20Pharmacy%20(La%20Vita)&query_place_id=ChIJkxgiDgIH3IARX0MsrryyiZw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Diego%20California?hl=en",
+    "searchString": "independent pharmacy San Diego California",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNlL5DbRIwM20T73isf_2sSvUvS5-QgXEfvPmcU=w408-h510-k-no",
+    "kgmid": "/g/1tt0rf0m",
+    "search_query": "independent pharmacy San Diego California",
+    "search_state": "california",
+    "search_city": "san_diego",
+    "collected_at": "2025-06-20T06:06:40.751060"
+  }
+]
