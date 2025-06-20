@@ -1,0 +1,74 @@
+{
+    "trial_run_20240619": {
+      "rate_limit_ms": 50,
+      "max_results_per_query": 30,
+      "output_dir": "data/raw/trial_20240619",
+      "states": {
+        "california": {
+          "cities": [
+            {
+              "name": "los_angeles",
+              "queries": [
+                "independent pharmacy Los Angeles California",
+                "local pharmacy Los Angeles California",
+                "compounding pharmacy Los Angeles California"
+              ]
+            },
+            {
+              "name": "san_francisco",
+              "queries": [
+                "independent pharmacy San Francisco California",
+                "local pharmacy San Francisco California",
+                "compounding pharmacy San Francisco California"
+              ]
+            },
+            {
+              "name": "san_diego",
+              "queries": [
+                "independent pharmacy San Diego California",
+                "local pharmacy San Diego California",
+                "compounding pharmacy San Diego California"
+              ]
+            }
+          ]
+        },
+        "texas": {
+          "cities": [
+            {
+              "name": "houston",
+              "queries": [
+                "independent pharmacy Houston Texas",
+                "local pharmacy Houston Texas",
+                "compounding pharmacy Houston Texas"
+              ]
+            },
+            {
+              "name": "dallas",
+              "queries": [
+                "independent pharmacy Dallas Texas",
+                "local pharmacy Dallas Texas",
+                "compounding pharmacy Dallas Texas"
+              ]
+            },
+            {
+              "name": "austin",
+              "queries": [
+                "independent pharmacy Austin Texas",
+                "local pharmacy Austin Texas",
+                "compounding pharmacy Austin Texas"
+              ]
+            }
+          ]
+        }
+      },
+      "metrics": {
+        "track": [
+          "total_pharmacies_found",
+          "unique_pharmacies",
+          "duplicate_rate",
+          "missing_field_rates",
+          "chain_filter_effectiveness"
+        ]
+      }
+    }
+  }
