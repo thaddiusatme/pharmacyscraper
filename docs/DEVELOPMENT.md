@@ -7,6 +7,8 @@ This guide provides information for developers working on the Independent Pharma
 - [Project Structure](#project-structure)
 - [Code Style](#code-style)
 - [Development Workflow](#development-workflow)
+- [API Integration](#api-integration)
+- [Credit Management](#credit-management)
 - [Testing](#testing)
 - [Documentation](#documentation)
 - [Pull Requests](#pull-requests)
@@ -27,12 +29,9 @@ This guide provides information for developers working on the Independent Pharma
    source venv/bin/activate  # On Windows: .\venv\Scripts\activate
    
    # Install development dependencies
-   pip install -r requirements-dev.txt
-   
-   # Install pre-commit hooks
-   pre-commit install
+   pip install -r requirements.txt
    ```
-4. **Configure environment variables**:
+4. **Set up environment variables**:
    ```bash
    cp .env.example .env
    # Edit .env with your API keys and configuration
@@ -86,84 +85,133 @@ These run automatically on each commit. You can also run them manually:
 pre-commit run --all-files
 ```
 
+## API Integration
+
+### Apify Google Maps Scraper
+
+The project uses Apify's Google Maps Scraper for collecting pharmacy data. Key components:
+
+- **Location**: `src/dedup_self_heal/apify_integration.py`
+- **Configuration**: Set in `.env` file
+  - `APIFY_API_TOKEN`: Your Apify API token
+  - `API_BUDGET`: Total credit budget (default: 100.0)
+  - `API_DAILY_LIMIT`: Daily credit limit (default: 25.0)
+
+#### Features:
+- Rate limiting (10 requests/minute by default)
+- Credit tracking and budget enforcement
+- Automatic retries with exponential backoff
+- Error handling and logging
+
+### Running the Integration
+
+```python
+from src.dedup_self_heal.apify_integration import ApifyPharmacyScraper
+
+# Initialize with API token from environment
+scraper = ApifyPharmacyScraper()
+
+# Search for pharmacies
+results = scraper.scrape_pharmacies(
+    state="CA",
+    city="San Francisco",
+    max_results=5
+)
+```
+
+## Credit Management
+
+### Overview
+The project implements a credit-based system to track and limit API usage across different services.
+
+### Configuration
+Set these in your `.env` file:
+```
+API_BUDGET=100.0
+API_DAILY_LIMIT=25.0
+```
+
+### Usage
+```python
+from src.utils.api_usage_tracker import credit_tracker
+
+# Check available credits
+if credit_tracker.check_credit_available(1.0):
+    # Make API call
+    credit_tracker.record_usage(1.0, "API Call Description")
+```
+
+### Features
+- Tracks total and daily credit usage
+- Enforces budget limits
+- Persists usage data between runs
+- Provides usage statistics
+
 ## Development Workflow
 
-1. **Create a new branch** for your changes:
+1. **Create a feature branch**:
    ```bash
    git checkout -b feature/your-feature-name
-   # or
-   git checkout -b fix/issue-number-description
    ```
 
-2. **Make your changes** following the code style guidelines.
+2. **Implement your changes** following TDD:
+   - Write a failing test
+   - Implement the minimum code to pass
+   - Refactor as needed
 
-3. **Run tests** to ensure nothing is broken:
+3. **Run tests**:
    ```bash
    pytest tests/
    ```
 
-4. **Update documentation** if your changes affect:
-   - Command-line interfaces
-   - Public APIs
-   - Configuration options
-   - Dependencies
+4. **Update documentation** as needed
 
-5. **Commit your changes** with a descriptive message:
-   ```bash
-   git add .
-   git commit -m "feat: add new feature"
-   ```
+5. **Commit your changes** with a descriptive message
 
-6. **Push your branch** to GitHub:
-   ```bash
-   git push -u origin your-branch-name
-   ```
-
-7. **Open a pull request** against the `main` branch.
+6. **Push and create a pull request**
 
 ## Testing
 
-See the [TESTING.md](TESTING.md) guide for detailed information about running and writing tests.
+### Running Tests
+```bash
+# Run all tests
+pytest
+
+# Run specific test file
+pytest tests/test_module.py
+
+# Run with coverage report
+pytest --cov=src tests/
+```
+
+### Writing Tests
+- Place test files in the `tests/` directory
+- Name test files with `test_` prefix
+- Use descriptive test function names starting with `test_`
+- Use fixtures for common test data
 
 ## Documentation
 
-- Keep the README up to date with any changes to setup or usage
-- Update CHANGELOG.md for all user-visible changes
-- Add docstrings for all public functions and classes
-- Document any new environment variables in `.env.example`
+### Updating Documentation
+- Update `CHANGELOG.md` for all notable changes
+- Keep `README.md` up-to-date with setup instructions
+- Document new features in relevant `.md` files
+- Add docstrings to all public functions and classes
 
 ## Pull Requests
 
-When creating a pull request:
-
-1. **Title** should be clear and descriptive
-   - Use the format: `type(scope): description`
-   - Example: `feat(collector): add retry logic for API calls`
-
-2. **Description** should include:
-   - Purpose of the changes
-   - Any breaking changes
-   - Related issues or PRs
-
-3. **Checks** must pass:
-   - All tests
-   - Code coverage
-   - Linting and type checking
+1. Keep PRs focused on a single feature/bugfix
+2. Include tests for new functionality
+3. Update documentation as needed
+4. Request review from at least one team member
 
 ## Release Process
 
-1. **Update version numbers** in the appropriate files
-2. **Update CHANGELOG.md** with release notes
-3. **Create a release tag**:
+1. Update `CHANGELOG.md` with release notes
+2. Update version in `__init__.py`
+3. Create a release tag:
    ```bash
    git tag -a v1.0.0 -m "Version 1.0.0"
    git push origin v1.0.0
    ```
-4. **Create a GitHub release** with the changelog
-
-## Getting Help
-
-If you need help or have questions:
-- Check the project documentation
-- Search the issue tracker
-- Open a new issue if needed
+4. Create a GitHub release with release notes

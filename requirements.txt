@@ -8,16 +8,21 @@ tenacity>=8.2.2  # For retry logic
 googlemaps>=4.5.0
 python-dotenv>=0.21.0
 apify-client>=1.0.0
+openai>=1.12.0  # For Perplexity API compatibility
 
 # Data Processing
 python-dateutil>=2.8.2
 pytz>=2022.1
+
+# Caching
+diskcache>=5.6.1  # For persistent caching
 
 # Testing
 pytest>=7.4.0
 pytest-mock>=3.11.1
 pytest-cov>=4.1.0
 responses>=0.23.3
+pytest-vcr>=1.0.2  # For recording API responses
 
 # Code Quality
 black>=22.3.0

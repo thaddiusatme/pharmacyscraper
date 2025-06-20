@@ -39,6 +39,20 @@
 - Data collection for 30 unique pharmacies
 - Field completeness tracking for key data points
 - Chain vs independent pharmacy classification
+- Apify Google Maps Scraper integration with credit tracking
+- API usage tracker with daily and total credit limits
+- Test script for live API testing of Apify integration
+- Environment variable configuration template (.env.example)
+- Rate limiting and request throttling for API calls
+- Comprehensive error handling and retry logic
+- Test fixtures for Apify integration tests
+- Documentation for credit management and rate limiting
+- Perplexity API client integration for pharmacy classification
+- Caching layer for LLM API responses with TTL and size-based eviction
+- Comprehensive test suite for classifier caching functionality
+- Support for batch classification with caching
+- Rule-based fallback classification when API is unavailable
+- Test coverage for cache persistence and key uniqueness
 
 ### Changed
 - Updated project structure to support test-driven development
@@ -63,6 +77,14 @@
 - Updated CHANGELOG with trial run results
 - Improved error handling in data collection
 - Enhanced documentation of data collection process
+- Updated requirements.txt with new dependencies (apify-client, tenacity)
+- Improved error handling in API client
+- Enhanced test coverage for deduplication and self-healing
+- Updated development and testing documentation
+- Refactored classifier to use Perplexity client with caching
+- Improved error handling and logging in classifier
+- Updated test suite to verify caching behavior
+- Modified test environment setup to support package imports
 
 ### Fixed
 - Test assertions in `test_run_collection_success`
@@ -90,6 +112,31 @@
 - Fixed JSON serialization for non-serializable types
 - Resolved issues with Apify dataset handling
 - Fixed configuration loading for nested trial structure
+- Resolved import compatibility issues with apify-client
+- Fixed credit tracking persistence
+- Addressed edge cases in API error handling
+- Resolved test failures in classifier caching integration
+- Fixed path resolution for cache directory in tests
+- Corrected mock responses to match expected behavior
+
+## [0.2.0] - 2024-06-20
+### Added
+- Trial run configuration for California and Texas
+- Directory structure for trial data
+- Search queries for 6 major cities (3 per state)
+- Rate limiting and result capping configuration
+- Documentation of initial manual data pull (52 CSV files) in `data/raw/`
+- Combined manual data in `data/raw/combined_output.csv`
+- Comprehensive development guide in `docs/DEVELOPMENT.md`
+- Detailed testing documentation in `docs/TESTING.md`
+- Improved README with setup and usage instructions
+- Apify data collection module (`scripts/apify_collector.py`)
+- Comprehensive test suite for Apify integration
+- Test fixtures and mock data for reliable testing
+- GitHub Actions workflow for continuous integration
+- Documentation for Apify integration
+- Error handling and retry logic for API calls
+- Chain pharmacy filtering functionality
 
 ## [2025-06-19] - Initial Setup
 - Project repository initialized
