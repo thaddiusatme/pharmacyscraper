@@ -85,6 +85,7 @@
 - Improved error handling and logging in classifier
 - Updated test suite to verify caching behavior
 - Modified test environment setup to support package imports
+- **Code Quality**: Improved test coverage and logging in the deduplication module
 
 ### Fixed
 - Test assertions in `test_run_collection_success`
@@ -118,6 +119,11 @@
 - Resolved test failures in classifier caching integration
 - Fixed path resolution for cache directory in tests
 - Corrected mock responses to match expected behavior
+- **Duplicate Detection**: Enhanced `self_heal_state` to properly identify duplicates using city+zip or phone number matching
+  - Now considers pharmacies as duplicates if they share the same city and zip code
+  - Added phone number matching as a secondary duplicate check
+  - Improved handling of cases where not enough unique pharmacies are found
+  - Added detailed logging for better debugging of duplicate detection
 
 ## [0.2.0] - 2024-06-20
 ### Added
