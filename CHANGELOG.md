@@ -27,6 +27,18 @@
 - Project documentation and README
 - Makefile for common tasks
 - Environment variable template (`.env.example`)
+- Successful trial run configuration for California and Texas cities
+- Automated data collection using Apify Google Maps Scraper
+- JSON output for each city with detailed pharmacy information
+- Directory structure for trial data (`data/raw/trial_20240619/`)
+- Search queries for multiple cities with independent pharmacies
+- Documentation of initial trial run results
+- Trial run analysis script (`scripts/analyze_trial.py`) for computing metrics
+- Trial run report in `reports/trial_analysis_20240619.md`
+- Successful trial run results for 4 cities (Los Angeles, San Francisco, San Diego, Houston)
+- Data collection for 30 unique pharmacies
+- Field completeness tracking for key data points
+- Chain vs independent pharmacy classification
 
 ### Changed
 - Updated project structure to support test-driven development
@@ -43,6 +55,14 @@
 - Improved test assertions with more descriptive error messages
 - Enhanced debug output in test cases
 - Updated test cases to properly capture and verify log messages
+- Updated Apify client integration to use `actor.call()` instead of deprecated methods
+- Improved dataset handling with proper `ListPage` object processing
+- Enhanced error handling and logging throughout the collection process
+- Optimized API usage to stay within free tier limits
+- Updated configuration structure to support nested trial run settings
+- Updated CHANGELOG with trial run results
+- Improved error handling in data collection
+- Enhanced documentation of data collection process
 
 ### Fixed
 - Test assertions in `test_run_collection_success`
@@ -64,12 +84,29 @@
 - Fixed log message formatting to match test expectations
 - Corrected logger initialization to prevent duplicate log messages
 - Ensured proper log level (INFO) is set for test capture
+- Fixed dataset retrieval to properly handle pagination
+- Resolved configuration loading for nested trial structure
+- Addressed memory usage issues by limiting concurrent operations
+- Fixed JSON serialization for non-serializable types
+- Resolved issues with Apify dataset handling
+- Fixed configuration loading for nested trial structure
 
 ## [2025-06-19] - Initial Setup
 - Project repository initialized
 - Basic project structure created
 - Development environment configured
 - Initial data processing completed
+
+## [0.1.0] - 2024-06-19
+### Added
+- Initial project setup and directory structure
+- Git repository initialization with `.gitignore`
+- Python virtual environment configuration
+- Core dependencies installation (pandas, requests, googlemaps, apify-client)
+- Data organization script (`scripts/organize_data.py`)
+- Project documentation and README
+- Makefile for common tasks
+- Environment variable template (`.env.example`)
 
 ---
 
@@ -113,3 +150,30 @@
 - All sensitive configuration is managed through environment variables
 - Data processing logs are stored in `logs/`
 - Final outputs will be saved in `reports/`
+
+## Trial Run Results (2024-06-19)
+
+### Summary
+- **Total Pharmacies Collected:** 30
+- **Unique Pharmacies:** 30 (100% unique)
+- **Duplicate Rate:** 0.00%
+- **Field Completeness:**
+  - Title: 100.00%
+  - Address: 100.00%
+  - Phone: 100.00%
+  - Website: 93.33%
+  - Place ID: 100.00%
+- **Pharmacy Types:**
+  - Independent: 1
+  - Chain: 29
+
+### Key Findings
+1. **Data Quality**: High completeness across all fields, with only website information missing in a small percentage of cases.
+2. **Chain Dominance**: The majority of results (96.7%) were chain pharmacies, suggesting the need for better filtering of independent pharmacies.
+3. **Geographic Coverage**: Successfully collected data from multiple cities across California and Texas.
+
+### Next Steps
+1. Refine search queries to better target independent pharmacies
+2. Implement additional filtering for chain pharmacies
+3. Expand data collection to more cities and states
+4. Enhance data validation and cleaning
