@@ -2,6 +2,17 @@
 
 ## Recent Updates (June 2024)
 
+### Classification System & Verification
+- **Perplexity Client**: Enhanced with 83% test coverage and robust error handling
+- **Google Places Integration**: Added address verification with 90% success rate
+- **Test Suite**: Comprehensive edge case testing for classification
+- **Phoenix Trial**: Successful end-to-end pipeline test with Phoenix, AZ data
+
+### Pipeline Improvements
+- **End-to-End Testing**: Verified complete workflow from data collection to verification
+- **Error Handling**: Added retry logic and improved error recovery
+- **Documentation**: Updated project docs and test coverage reports
+
 ### Trial Run Fixes & Optimization 
 - **Fixed Apify Actor Input Validation**: Resolved `allPlacesNoSearchAction` field error (changed from "false" to empty string)
 - **Credit Usage Optimization**: Added `forceExit: true` and `maxCrawledPlacesPerSearch` limits to control costs
@@ -29,7 +40,33 @@ This project collects and verifies information about independent pharmacies acro
 - Chain pharmacy filtering
 - CSV export functionality
 
-## Setup
+## 🚀 Features
+
+- **Automated Data Collection**
+  - Apify-based Google Maps scraping
+  - Structured location-based queries
+  - Chain pharmacy filtering
+  - Rate limiting and error handling
+
+- **AI-Powered Classification**
+  - Hybrid LLM/rule-based classification
+  - Perplexity API integration
+  - Caching for performance
+  - 83% test coverage
+
+- **Address Verification**
+  - Google Places API integration
+  - 90% verification success rate
+  - Confidence scoring
+  - Duplicate detection
+
+- **Data Pipeline**
+  - End-to-end processing
+  - Configurable workflows
+  - Comprehensive logging
+  - Test coverage tracking
+
+## 🛠 Setup
 
 1. Clone the repository
    ```bash

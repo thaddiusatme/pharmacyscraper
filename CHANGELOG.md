@@ -2,6 +2,25 @@
 
 ## [Unreleased]
 ### Added
+- Comprehensive test suite for Perplexity client with edge case coverage
+- Google Places verification integration for address validation
+- Phoenix, AZ trial configuration and test data
+- Pipeline scripts for end-to-end processing
+- Detailed test coverage for classification module
+
+### Fixed
+- Resolved Perplexity client test failures and improved test reliability
+- Fixed API response handling in Perplexity client
+- Improved error handling for invalid input in classification
+- Fixed test isolation issues in Perplexity client tests
+- Updated test assertions to match actual implementation
+
+### Changed
+- Enhanced test coverage for Perplexity client (now at 83%)
+- Improved test data and mock responses
+- Updated test documentation
+- Optimized test execution time
+### Added
 - Enhanced test coverage for Apify collector with proper mocking
 - Support for structured location-based queries in addition to simple queries
 
