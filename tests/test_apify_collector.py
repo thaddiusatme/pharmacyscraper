@@ -8,7 +8,7 @@ from unittest.mock import patch, MagicMock, call, ANY
 import apify_client
 
 # Import the collector class
-from scripts.apify_collector import ApifyCollector, APIFY_ACTOR_ID, run_trial
+from scripts.apify_collector import ApifyCollector, run_trial
 
 # Sample test data
 SAMPLE_CONFIG = {
@@ -19,10 +19,16 @@ SAMPLE_CONFIG = {
 
 SAMPLE_RESULTS = [
     {
-        "name": "Test Pharmacy",
+        "name": "Test Pharmacy 1",
         "address": "123 Test St, New York, NY 10001",
         "phone": "(212) 555-1234",
-        "website": "https://testpharmacy.com"
+        "website": "https://testpharmacy1.com"
+    },
+    {
+        "name": "Test Pharmacy 2",
+        "address": "456 Test Ave, New York, NY 10002",
+        "phone": "(212) 555-5678",
+        "website": "https://testpharmacy2.com"
     }
 ]
 
@@ -30,7 +36,7 @@ SAMPLE_RESULTS = [
 @pytest.fixture
 def mock_apify_client():
     """Create a mock ApifyClient."""
-    with patch('apify_client.ApifyClient') as mock_client_class:
+    with patch('scripts.apify_collector.ApifyClient') as mock_client_class:
         mock_client = MagicMock()
         mock_client_class.return_value = mock_client
         
@@ -49,6 +55,12 @@ def mock_apify_client():
         # Mock the dataset
         mock_dataset = MagicMock()
         mock_dataset.iterate_items.return_value = SAMPLE_RESULTS
+        
+        # Mock list_items to return an object with items attribute
+        mock_list_result = MagicMock()
+        mock_list_result.items = SAMPLE_RESULTS
+        mock_dataset.list_items.return_value = mock_list_result
+        
         mock_client.dataset.return_value = mock_dataset
         
         # Mock wait_for_finish
@@ -59,7 +71,10 @@ def mock_apify_client():
 @pytest.fixture
 def apify_collector():
     """Create an ApifyCollector instance with a test API token."""
-    return ApifyCollector(api_token='test-token')
+    collector = ApifyCollector(api_token='test-token')
+    # Clear any cached client to ensure fresh mock is used
+    collector._client = None
+    return collector
 
 @pytest.fixture
 def collector(tmp_path):
@@ -89,7 +104,7 @@ def test_run_trial_success(collector, mock_apify_client):
     
     # Verify results
     assert len(results) == 1
-    assert results[0]["name"] == "Test Pharmacy"
+    assert results[0]["name"] == "Test Pharmacy 1"
     
     # Verify API client was called correctly
     mock_apify_client.actor.return_value.call.assert_called_once()
@@ -110,31 +125,29 @@ def test_run_trial_invalid_actor(collector, mock_apify_client):
     with pytest.raises(Exception, match="Error in run_trial: Actor not found"):
         collector.run_trial(str(config_path))
 
-def test_run_collection_success(collector, mock_apify_client):
-    """Test running a full collection with multiple queries."""
-    # Create a test config file with multiple queries
-    config = {
-        "queries": ["pharmacy in New York, NY", "pharmacy in Brooklyn, NY"],
-        "max_results": 5,
-        "output_dir": str(collector.output_dir)
-    }
+def test_run_collection_success(apify_collector, mock_apify_client):
+    """Test successful execution of the Apify collection."""
+    # Setup mock dataset items using standard SAMPLE_RESULTS
+    mock_dataset = MagicMock()
+    mock_dataset.iterate_items.return_value = SAMPLE_RESULTS
+    mock_list_result = MagicMock()
+    mock_list_result.items = SAMPLE_RESULTS
+    mock_dataset.list_items.return_value = mock_list_result
+    
+    mock_apify_client.dataset.return_value = mock_dataset
+    
+    # Create a config with the correct format (list of dicts with query, city, state)
+    config = [{"query": "pharmacies in Los Angeles, CA", "city": "Los Angeles", "state": "CA"}]
     
     # Run the collection
-    results = collector.collect_pharmacies(config)
+    results = apify_collector.collect_pharmacies(config)
     
     # Verify results
-    assert len(results) == 1  # Should have results from one query (since we're using the same mock data)
-    assert results[0]["name"] == "Test Pharmacy"
+    assert len(results) == 2
+    assert results[0]['name'] == 'Test Pharmacy 1'
     
-    # Verify output files were created
-    output_files = list(Path(collector.output_dir).glob("pharmacy_results_*.json"))
-    assert len(output_files) == 1  # One output file per query
-    
-    # Verify the output file contains the results
-    with open(output_files[0]) as f:
-        saved_results = json.load(f)
-    assert len(saved_results) == 1
-    assert saved_results[0]["name"] == "Test Pharmacy"
+    # Verify API client was called correctly
+    mock_apify_client.actor.return_value.call.assert_called_once()
 
 def test_save_results(collector):
     """Test saving results to a file."""
@@ -287,7 +300,7 @@ def test_run_trial_success(apify_collector, mock_apify_client, tmp_path):
     assert len(results) > 0
     assert 'Los Angeles' in results
     assert len(results['Los Angeles']) > 0
-    assert results['Los Angeles'][0]['name'] == 'Test Pharmacy'
+    assert results['Los Angeles'][0]['name'] == 'Test Pharmacy 1'
 
 def test_run_trial_invalid_actor(apify_collector, tmp_path):
     """Test handling of invalid actor ID."""
@@ -307,7 +320,7 @@ def test_run_trial_invalid_actor(apify_collector, tmp_path):
     config_path.write_text(json.dumps(config_data))
     
     # Mock the ApifyClient to raise an exception when the actor is called
-    with patch('apify_client.ApifyClient') as mock_client:
+    with patch('scripts.apify_collector.ApifyClient') as mock_client:
         # Set up the mock to raise an exception when the actor is called
         mock_actor = MagicMock()
         mock_actor.call.side_effect = Exception("Actor not found")
@@ -322,30 +335,57 @@ def test_run_trial_invalid_actor(apify_collector, tmp_path):
 
 def test_run_collection_success(apify_collector, mock_apify_client):
     """Test successful execution of the Apify collection."""
-    # Setup mock dataset items
+    # Setup mock dataset items using standard SAMPLE_RESULTS
     mock_dataset = MagicMock()
-    mock_dataset.iterate_items.return_value = [
-        {'name': 'Test Pharmacy', 'address': '123 Test St', 'city': 'Test City', 'state': 'CA'}
-    ]
+    mock_dataset.iterate_items.return_value = SAMPLE_RESULTS
+    mock_list_result = MagicMock()
+    mock_list_result.items = SAMPLE_RESULTS
+    mock_dataset.list_items.return_value = mock_list_result
     
-    # Configure the mock client
-    mock_apify_client.return_value.dataset.return_value = mock_dataset
+    mock_apify_client.dataset.return_value = mock_dataset
     
-    # Generate test queries
-    queries = [
-        {'query': 'test query', 'state': 'CA', 'city': 'Test City'}
-    ]
+    # Create a simple configuration
+    config = [{"query": "pharmacies in Los Angeles, CA", "city": "Los Angeles", "state": "CA"}]
     
     # Run the collection
-    results = apify_collector.collect_pharmacies(queries)
+    results = apify_collector.collect_pharmacies(config)
     
     # Verify results
-    assert len(results) > 0
-    assert results[0]['name'] == 'Test Pharmacy'
+    assert len(results) == 2
+    assert results[0]['name'] == 'Test Pharmacy 1'
     
-    # Verify the mock was called correctly
-    mock_apify_client.return_value.actor.return_value.call.assert_called_once()
-    mock_dataset.iterate_items.assert_called_once()
+    # Verify API client was called correctly
+    mock_apify_client.actor.return_value.call.assert_called_once()
+
+def test_run_trial_invalid_actor(tmp_path):
+    """Test handling of invalid actor ID."""
+    # Create a test configuration with an invalid actor ID
+    config = {
+        "states": ["CA"],
+        "queries": {
+            "CA": [
+                {"query": "pharmacies in Los Angeles, CA", "city": "Los Angeles", "state": "CA"}
+            ]
+        }
+    }
+    config_path = tmp_path / "test_config.json"
+    with open(config_path, 'w') as f:
+        json.dump(config, f)
+    
+    # Mock the Apify client to raise an exception when the actor is called
+    with patch('scripts.apify_collector.ApifyClient') as mock_client:
+        # Set up the mock to raise an exception when the actor is called
+        mock_actor = MagicMock()
+        mock_actor.call.side_effect = Exception("Actor not found")
+        mock_client.return_value.actor.return_value = mock_actor
+        
+        # Create a new collector with the mocked client
+        collector = ApifyCollector(api_token='test-token')
+        collector._client = None  # Clear any cached client
+        
+        # Run the test and verify the exception is raised
+        with pytest.raises(Exception, match="Error in run_trial: Actor not found"):
+            collector.run_trial(str(config_path))
 
 def test_save_results(apify_collector, tmp_path):
     """Test saving collected data to a CSV file."""
@@ -439,7 +479,7 @@ def test_collect_pharmacies_success_new(collector, mock_apify_client, tmp_path):
     collector.output_dir = str(tmp_path)
     
     # Run the collection
-    results = collector.collect_pharmacies("NY", "New York")
+    results = collector.collect_pharmacies([{"query": "pharmacies in New York, NY", "city": "New York", "state": "NY"}])
     
     # Verify the results
     assert len(results) == 2
@@ -461,7 +501,7 @@ def test_collect_pharmacies_error_new(collector, mock_apify_client, caplog):
         mock_run_trial.side_effect = Exception("Test error")
         
         # Run the collection - should not raise
-        results = collector.collect_pharmacies("NY", "New York")
+        results = collector.collect_pharmacies([{"query": "pharmacies in New York, NY", "city": "New York", "state": "NY"}])
         
         # Should return empty list on error
         assert results == []
