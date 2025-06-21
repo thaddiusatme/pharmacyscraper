@@ -1,11 +1,23 @@
 # Independent Pharmacy Verification Project
 
+## Recent Updates (June 2024)
+
+### Apify Collector Improvements
+- **Enhanced Test Coverage**: Added comprehensive tests for the Apify collector with proper mocking
+- **Improved Error Handling**: Better error messages and recovery for API failures
+- **Config Flexibility**: Support for both simple query strings and structured location-based queries
+- **Testing Improvements**:
+  - Fixed mock data structures to match real API responses
+  - Added proper test cleanup and isolation
+  - Improved test assertions and coverage
+
 ## Project Overview
 This project collects and verifies information about independent pharmacies across the United States using Apify's Google Maps Scraper.
 
 ## Features
 - Automated data collection from Google Maps via Apify
-- Test suite with comprehensive test coverage
+- Comprehensive test suite with proper mocking and isolation
+- Support for both simple queries and structured location-based searches
 - Data validation and cleaning
 - Chain pharmacy filtering
 - CSV export functionality
