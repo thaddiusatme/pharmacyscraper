@@ -9,6 +9,35 @@
 
 ---
 
+## 🚀 Latest Trial Run Results (June 2024)
+
+### ✅ Successfully Fixed and Optimized
+**Issue Resolved**: Apify actor input validation errors causing 400 Bad Request failures
+**Root Cause**: Invalid `allPlacesNoSearchAction: "false"` field value
+**Solution**: Changed to empty string `""` to match actor requirements
+
+### 📊 Trial Results Summary
+- **Total Collected**: 39 independent pharmacies
+- **California**: 19 pharmacies (Los Angeles: 10, San Francisco: 10) 
+- **Texas**: 20 pharmacies (Austin: 10, Houston: 10)
+- **Success Rate**: 100% (all actor calls succeeded)
+- **Credit Usage**: Controlled and predictable with optimization
+
+### 🔧 Optimizations Implemented
+- **Cost Control**: Added `forceExit: true` and `maxCrawledPlacesPerSearch` limits
+- **Configuration**: Updated `trial_config.json` with `max_results_per_query: 13`
+- **Performance**: Eliminated all 400 error responses
+- **Data Quality**: Focused on independent pharmacies, filtered out chains
+
+### 🎯 Trial Run Command
+```bash
+APIFY_ACTOR_ID=nwua9Gu5YrADL7ZDj python scripts/run_trial.py
+```
+
+**Output**: Results saved to `data/trial_results/` with combined and per-city JSON files
+
+---
+
 ## TDD Implementation Status
 
 ### ✅ Completed with TDD
@@ -40,6 +69,87 @@
 - Full test suite integration
 - Documentation updates
 - Performance optimization
+
+---
+
+## 🧠 Core Modules (`src/` Package)
+
+### 📊 Classification System (`src/classification/`)
+**Purpose**: AI-powered and rule-based pharmacy classification to distinguish independent pharmacies from chains
+
+#### `classifier.py` - Main Classification Engine
+- **Hybrid Approach**: Combines LLM-based (Perplexity API) and rule-based classification
+- **Caching**: Integrated caching system to minimize API costs and improve performance
+- **Batch Processing**: `batch_classify_pharmacies()` for efficient bulk classification
+- **Fallback Logic**: Rule-based classifier serves as backup when LLM fails
+- **Key Functions**:
+  - `classify_pharmacy()` - Single pharmacy classification with caching
+  - `rule_based_classify()` - Fast rule-based classification using chain identifiers
+  - `batch_classify_pharmacies()` - Process multiple pharmacies efficiently
+
+#### `perplexity_client.py` - LLM Integration
+- **Perplexity API Client**: Professional LLM service for accurate pharmacy classification
+- **Rate Limiting**: Built-in request throttling to respect API limits
+- **Retry Logic**: Automatic retry with exponential backoff for failed requests
+- **Error Handling**: Comprehensive error handling for network/API issues
+- **Token Optimization**: Efficient prompt engineering to minimize token usage
+
+#### `cache.py` - Performance Optimization
+- **TTL Cache**: Time-based cache expiration to ensure data freshness
+- **File Persistence**: Cache survives across application restarts
+- **Size Management**: Automatic cache eviction when size limits exceeded
+- **Hit/Miss Tracking**: Built-in analytics for cache performance monitoring
+
+### 🔄 Deduplication & Self-Healing (`src/dedup_self_heal/`)
+**Purpose**: Intelligent data quality management and automatic gap-filling
+
+#### `dedup.py` - Core Deduplication Logic
+- **Smart Deduplication**: Removes duplicate pharmacies while preserving highest confidence entries
+- **State Grouping**: Organizes pharmacies by state for targeted processing
+- **Gap Detection**: Identifies states with insufficient pharmacy counts
+- **Self-Healing**: Automatically triggers additional data collection for under-filled states
+- **City-Based Strategy**: Uses major cities for targeted scraping when states need more pharmacies
+- **Key Functions**:
+  - `process_pharmacies()` - Main orchestration function
+  - `remove_duplicates()` - Advanced duplicate detection and removal
+  - `identify_underfilled_states()` - Gap analysis for state-level targets
+  - `self_heal_state()` - Automatic pharmacy discovery for specific states
+  - `merge_new_pharmacies()` - Intelligent merging of new data with existing
+
+#### `apify_integration.py` - Scraper Integration
+- **Apify Actor Management**: Handles Google Maps scraper actor calls
+- **Query Optimization**: Constructs effective search queries for specific cities
+- **Result Processing**: Converts raw Apify results to standardized pharmacy data
+- **Error Recovery**: Robust error handling for failed scraping attempts
+- **Cost Control**: Integrated with credit tracking to manage budget
+
+### 🛠️ Utilities (`src/utils/`)
+
+#### `api_usage_tracker.py` - Budget Management
+- **Credit Tracking**: Real-time monitoring of API credit consumption
+- **Budget Enforcement**: Prevents operations that would exceed budget limits
+- **Daily Limits**: Optional daily spending caps for cost control
+- **Usage Analytics**: Detailed logging and reporting of API usage patterns
+- **Global Instance**: `default_tracker` for easy project-wide integration
+- **Key Features**:
+  - `CreditLimitExceededError` - Exception for budget overruns
+  - Daily and total budget tracking
+  - Automatic usage logging and persistence
+
+### ⚙️ Configuration (`src/config.py` & `src/__init__.py`)
+- **Package Configuration**: Central configuration management
+- **API Exports**: Clean interface for accessing classification functions
+- **Version Management**: Package versioning and metadata
+- **Backward Compatibility**: Maintains compatibility with existing scripts
+
+### 🔗 Integration with Scripts
+The `src/` modules seamlessly integrate with the `scripts/` directory:
+- **`scripts/apify_collector.py`** uses `src.dedup_self_heal` for data quality
+- **Classification workflow** leverages `src.classification` for AI-powered filtering
+- **Budget management** through `src.utils.api_usage_tracker` across all scripts
+- **Caching system** reduces costs and improves performance project-wide
+
+---
 
 ## Phase 1: Data Collection (Day 1-2)
 

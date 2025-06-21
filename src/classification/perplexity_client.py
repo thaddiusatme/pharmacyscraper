@@ -21,16 +21,38 @@ from tenacity import (
 )
 import openai
 from openai import OpenAI
-
-# Import Cache with absolute import to avoid circular imports
-from src.classification.cache import Cache as CacheBase
+from src.config import get_config
+from src.classification.cache import cache_wrapper
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Export Cache class for testing
-Cache = CacheBase
+class RateLimiter:
+    """A simple rate limiter to control the frequency of API calls."""
+
+    def __init__(self, requests_per_minute: int):
+        if requests_per_minute <= 0:
+            self.min_interval = 0
+        else:
+            self.min_interval = 60.0 / requests_per_minute
+        self.last_request_time = 0
+
+    def wait(self):
+        """Waits if necessary to respect the rate limit."""
+        if self.min_interval == 0:
+            return
+
+        current_time = time.time()
+        elapsed = current_time - self.last_request_time
+
+        if elapsed < self.min_interval:
+            sleep_time = self.min_interval - elapsed
+            logger.debug(f"Rate limiting: sleeping for {sleep_time:.2f}s")
+            time.sleep(sleep_time)
+
+        self.last_request_time = time.time()
+
 
 class PerplexityAPIError(Exception):
     """Base exception for Perplexity API errors."""
@@ -61,74 +83,45 @@ class PerplexityClient:
     
     def __init__(
         self, 
-        api_key: Optional[str] = None, 
-        model: str = "sonar-small-online",
-        rate_limit_per_minute: int = 20,
+        model: str = "sonar-pro",
+        rate_limit: int = 60,  
         max_retries: int = 3,
-        cache_ttl: int = 300,  # 5 minutes default TTL
-        cache_dir: Optional[Union[str, Path]] = None,
-        retry_delay: int = 1,
         temperature: float = 0.1,
         max_tokens: int = 500,
-        **kwargs  # Accept additional arguments for backward compatibility including rate_limit_ms
-    ):
-        """
-        Initialize the Perplexity client.
-        
+        api_key: Optional[str] = None,
+        cache_ttl: int = 300,  
+        cache_dir: Optional[Path] = None):
+        """Initializes the Perplexity API client.
+
         Args:
-            api_key: Perplexity API key. If not provided, will look for PERPLEXITY_API_KEY env var.
-            model: The model to use for completions.
-            rate_limit_per_minute: Maximum number of requests per minute.
-            max_retries: Maximum number of retries for failed requests.
-            cache_ttl: Time-to-live for cache entries in seconds.
-            cache_dir: Directory to store cache files. If None, uses a default location.
-            retry_delay: Delay between retries in seconds.
-            temperature: Temperature for the model.
-            max_tokens: Maximum number of tokens for the model.
-            **kwargs: Additional arguments for backward compatibility.
+            model: The model to use for classification.
+            rate_limit: The number of requests per minute to allow.
+            max_retries: The maximum number of retries for a request.
+            temperature: The sampling temperature for the model.
+            max_tokens: The maximum number of tokens to generate.
+            api_key: The Perplexity API key. If not provided, it will be read from
+                the PERPLEXITY_API_KEY environment variable.
+            cache_ttl: The time-to-live for cache entries in seconds.
+            cache_dir: The directory to store cache files.
         """
-        # Handle rate_limit_ms for backward compatibility
-        if 'rate_limit_ms' in kwargs and kwargs['rate_limit_ms'] is not None:
-            if kwargs['rate_limit_ms'] > 0:
-                rate_limit_per_minute = 60000 // kwargs['rate_limit_ms']
-            else:
-                rate_limit_per_minute = 0  # No rate limiting when rate_limit_ms is 0
-        
-        self.api_key = api_key or os.getenv("PERPLEXITY_API_KEY")
+        config = get_config()
+        self.api_key = api_key or config.get("PERPLEXITY_API_KEY")
         if not self.api_key:
-            logger.warning("No API key provided. Set PERPLEXITY_API_KEY environment variable.")
-        
+            raise ValueError("Perplexity API key not provided or found in environment.")
+
         self.model = model
-        self.rate_limit_per_minute = rate_limit_per_minute
         self.max_retries = max_retries
-        self.retry_delay = retry_delay
         self.temperature = temperature
         self.max_tokens = max_tokens
-        
-        # Initialize the OpenAI client with Perplexity's API
-        self.client = openai.OpenAI(
-            api_key=self.api_key,
-            base_url="https://api.perplexity.ai"
-        )
-        
-        # Initialize cache
-        cache_kwargs = {
-            'name': 'perplexity_cache',
-            'ttl': cache_ttl
-        }
-        if cache_dir:
-            cache_kwargs['cache_dir'] = cache_dir
-        self.cache = Cache(**cache_kwargs)
+        self.rate_limiter = RateLimiter(rate_limit)
+        self.client = openai.OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
 
-        # Rate limiting
-        if self.rate_limit_per_minute > 0:
-            self.min_interval = 60.0 / rate_limit_per_minute
-        else:
-            self.min_interval = 0
-        
-        self.last_request_time = 0
-        
-        logger.info(f"Initialized PerplexityClient with model {model} and rate limit {rate_limit_per_minute} RPM")
+        self.cache_ttl = cache_ttl
+
+        # Initialize cache
+        self.cache = None
+
+        logger.info(f"Initialized PerplexityClient with model {self.model} and rate limit {rate_limit} RPM")
     
     def _parse_response(self, response: Any) -> Optional[Dict[str, Any]]:
         """Parses the response from the Perplexity API."""
@@ -150,14 +143,31 @@ class PerplexityClient:
             if match:
                 json_str = match.group(1)
             else:
-                json_str = content
-            
+                # Handle sonar-pro format: JSON followed by explanation text
+                # Find the first complete JSON object
+                content = content.strip()
+                if content.startswith('{'):
+                    # Find the end of the JSON object by counting braces
+                    brace_count = 0
+                    json_end = 0
+                    for i, char in enumerate(content):
+                        if char == '{':
+                            brace_count += 1
+                        elif char == '}':
+                            brace_count -= 1
+                            if brace_count == 0:
+                                json_end = i + 1
+                                break
+                    json_str = content[:json_end]
+                else:
+                    json_str = content
+        
             return json.loads(json_str)
         except (json.JSONDecodeError, AttributeError, IndexError) as e:
             logger.error(f"Failed to parse API response: {e}\nContent: {content}")
             return None
 
-    def _generate_cache_key(self, pharmacy_data: Dict[str, Any], model: str = None) -> str:
+    def _generate_cache_key(self, pharmacy_data: Dict[str, Any], model: str) -> str:
         """Generate a consistent cache key for a pharmacy and model."""
         import json
         import hashlib
@@ -165,7 +175,7 @@ class PerplexityClient:
         # Create a stable string representation of the pharmacy data
         data_str = json.dumps(pharmacy_data, sort_keys=True)
         # Combine with model name and hash
-        key_str = f"{data_str}:{model or self.model}"
+        key_str = f"{data_str}:{model}"
         return hashlib.md5(key_str.encode('utf-8')).hexdigest()
     
     def _make_request(self, messages, model=None, **kwargs):
@@ -189,11 +199,8 @@ class PerplexityClient:
         for attempt in range(self.max_retries + 1):
             try:
                 # Apply rate limiting
-                if self.min_interval > 0:
-                    current_time = time.time()
-                    time_since_last = current_time - self.last_request_time
-                    if time_since_last < self.min_interval:
-                        time.sleep(self.min_interval - time_since_last)
+                if self.rate_limiter:
+                    self.rate_limiter.wait()
                 
                 # Make the API call
                 response = self.client.chat.completions.create(
@@ -203,10 +210,6 @@ class PerplexityClient:
                     max_tokens=self.max_tokens,
                     **kwargs
                 )
-                
-                # Update last request time
-                if self.min_interval > 0:
-                    self.last_request_time = time.time()
                 
                 return response
                 
@@ -218,11 +221,11 @@ class PerplexityClient:
                 # Check if this is a rate limit error
                 if "rate limit" in str(e).lower() or "too many" in str(e).lower():
                     # Exponential backoff
-                    sleep_time = self.retry_delay * (2 ** attempt)
+                    sleep_time = 2 ** attempt
                     time.sleep(sleep_time)
                 else:
                     # For other errors, just retry after the base delay
-                    time.sleep(self.retry_delay)
+                    time.sleep(1)
         
         # If we get here, all retries failed
         if "rate limit" in str(last_exception).lower() or "too many" in str(last_exception).lower():
@@ -233,7 +236,7 @@ class PerplexityClient:
         """Create a retry decorator with rate limiting."""
         return retry(
             stop=stop_after_attempt(3),
-            wait=wait_exponential(multiplier=self.retry_delay, min=4, max=10),
+            wait=wait_exponential(multiplier=1, min=4, max=10),
             retry=retry_if_exception_type((
                 openai.RateLimitError,
                 openai.APITimeoutError,
@@ -247,7 +250,6 @@ class PerplexityClient:
         """Make an API call to Perplexity with retry logic."""
         @self._rate_limit_retry()
         def _make_api_call():
-            self._handle_rate_limit()
             response = self._make_request(
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
@@ -262,45 +264,27 @@ class PerplexityClient:
             logger.error(f"Error calling Perplexity API: {e}")
             raise
     
-    def _handle_rate_limit(self):
-        """Handle rate limiting by sleeping if needed."""
-        current_time = time.time()
-        
-        # Check if we need to sleep
-        if current_time - self.last_request_time < self.min_interval:
-            sleep_time = self.min_interval - (current_time - self.last_request_time)
-            logger.debug(f"Rate limiting: sleeping for {sleep_time:.2f}s between requests")
-            time.sleep(sleep_time)
-        
-        # Update last request time
-        self.last_request_time = time.time()
-    
+    @cache_wrapper
     def classify_pharmacy(self, pharmacy_data: Dict[str, Any], model: Optional[str] = None) -> Optional[Dict[str, Any]]:
         """Classify a pharmacy using the Perplexity API."""
         current_model = model or self.model
         cache_key = self._generate_cache_key(pharmacy_data, current_model)
 
-        cached_result = self.cache.get(cache_key)
-        if cached_result is not None:
-            logger.info(f"Cache hit for pharmacy: {pharmacy_data.get('name')}")
-            return cached_result
-
-        logger.info(f"Cache miss for pharmacy: {pharmacy_data.get('name')}. Calling API.")
+        logger.info(f"Cache miss for pharmacy: {pharmacy_data.get('name', 'N/A')}. Calling API.")
         prompt = self._generate_prompt(pharmacy_data)
         
         try:
-            response = self._make_request(prompt, current_model)
-            parsed_data = self._parse_response(response)
+            # Use the higher-level helper that wraps message construction so the
+            # payload matches the OpenAI-compatible schema expected by the
+            # Perplexity endpoint.
+            parsed_data = self._call_api(prompt)
 
-            if parsed_data:
-                self.cache.set(cache_key, parsed_data)
-            
             return parsed_data
         except PerplexityAPIError as e:
-            logger.error(f"Error classifying pharmacy {pharmacy_data.get('name')}: {e}")
+            logger.error(f"Error classifying pharmacy {pharmacy_data.get('name', 'N/A')}: {e}")
             raise
         except Exception as e:
-            logger.error(f"An unexpected error occurred while classifying {pharmacy_data.get('name')}: {e}")
+            logger.error(f"An unexpected error occurred while classifying {pharmacy_data.get('name', 'N/A')}: {e}")
             return None
 
     def classify_pharmacies_batch(self, pharmacies_data: List[Dict[str, Any]], model: Optional[str] = None) -> List[Optional[Dict[str, Any]]]:
@@ -327,26 +311,6 @@ class PerplexityClient:
             "'is_compound_pharmacy' (boolean), and 'confidence' (float between 0 and 1)."
         )
 
-# Module-level function for cache key generation
-def _generate_cache_key(pharmacy_data: Dict[str, Any], model: str) -> str:
-    """Generate a cache key for the given pharmacy data and model.
-    
-    Args:
-        pharmacy_data: Dictionary containing pharmacy information.
-        model: The model name to include in the cache key.
-        
-    Returns:
-        str: A unique cache key.
-    """
-    import json
-    import hashlib
-    
-    # Create a stable string representation of the pharmacy data
-    data_str = json.dumps(pharmacy_data, sort_keys=True)
-    # Combine with model name and hash
-    key_str = f"{data_str}:{model}"
-    return hashlib.md5(key_str.encode('utf-8')).hexdigest()
-
 # Helper function for simple usage
 def classify_pharmacy(pharmacy_data: Dict[str, Any], **kwargs) -> Dict[str, Any]:
     """
@@ -361,8 +325,23 @@ def classify_pharmacy(pharmacy_data: Dict[str, Any], **kwargs) -> Dict[str, Any]
     """
     # Remove cache_dir from kwargs if it exists to avoid passing it twice
     kwargs.pop('cache_dir', None)
-    client = PerplexityClient(**kwargs)
-    return client.classify_pharmacy(pharmacy_data)
 
-# Export for testing
-__all__ = ['PerplexityClient', '_generate_cache_key', 'PerplexityAPIError', 'RateLimitError', 'Cache']
+    client = PerplexityClient(**kwargs)
+    return client.classify_pharmacy(pharmacy_data, model)
+
+def _generate_cache_key(pharmacy_data: Dict[str, Any], model: str) -> str:
+    """
+    DEPRECATED: Generate a cache key for the given pharmacy data and model.
+    This function is kept for backward compatibility with tests and will be removed.
+    """
+    import json
+    import hashlib
+
+    # Create a stable string representation of the pharmacy data
+    data_str = json.dumps(pharmacy_data, sort_keys=True)
+    # Combine with model name and hash
+    key_str = f"{data_str}:{model}"
+    return hashlib.md5(key_str.encode('utf-8')).hexdigest()
+
+
+__all__ = ['PerplexityClient', '_generate_cache_key', 'PerplexityAPIError', 'RateLimitError']

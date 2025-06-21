@@ -6,7 +6,8 @@ import os
 import json
 import logging
 from pathlib import Path
-from apify_collector import ApifyCollector
+from .apify_collector import ApifyCollector
+import argparse
 
 # Configure logging
 logging.basicConfig(
@@ -15,7 +16,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def load_config(config_path):
+def load_config(config_path: Path):
     """Load configuration from JSON file."""
     try:
         with open(config_path, 'r') as f:
@@ -24,46 +25,65 @@ def load_config(config_path):
         logger.error(f"Error loading config: {e}")
         raise
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Run a trial Apify collection")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--config", type=str, help="Path to config JSON file")
+    group.add_argument("--query", type=str, help="Single search query string")
+    parser.add_argument("--location", type=str, help="Location label when using --query (e.g. 'AZ')")
+    parser.add_argument("--max-results", type=int, default=10, help="Max results per query/search")
+    parser.add_argument("--output", type=str, default="data/trial_results", help="Output directory")
+    return parser.parse_args()
+
 def main():
-    # Load configuration
-    config_path = Path(__file__).parent.parent / 'config' / 'trial_config.json'
-    config = load_config(config_path)
-    
-    # Initialize collector
+    args = parse_args()
+
     collector = ApifyCollector()
-    
-    # Create output directory if it doesn't exist
-    output_dir = Path('data/trial_results')
+    output_dir = Path(args.output)
     output_dir.mkdir(parents=True, exist_ok=True)
-    
-    # Run collection for each query
+
+    if args.query:
+        # Single query mode
+        logger.info(f"Running single query: {args.query}")
+        try:
+            # Parse query to extract state and city info if possible
+            # For now, create a simple config-like structure
+            query_config = [{"query": args.query, "city": "Phoenix", "state": "AZ"}]
+            results = collector.collect_pharmacies(query_config)
+            outfile = output_dir / "single_query_results.json"
+            with open(outfile, "w") as fh:
+                json.dump(results, fh, indent=2)
+            logger.info(f"Collected {len(results)} items; saved to {outfile}")
+        except Exception as exc:
+            logger.error(f"Error running single query: {exc}")
+        return
+
+    # Config mode
+    config_path = Path(args.config)
+    config = load_config(config_path)
+    max_results = args.max_results
+
     all_results = []
-    for state, queries in config['queries'].items():
+    for state, queries in config.get("queries", {}).items():
         logger.info(f"Processing state: {state}")
-        for query in queries:
-            logger.info(f"Running query: {query['query']}")
+        for q in queries:
+            q_str = q["query"] if isinstance(q, dict) else q
+            logger.info(f"Running query: {q_str}")
             try:
-                results = collector.collect_pharmacies([query])
-                all_results.extend(results)
-                logger.info(f"Collected {len(results)} results")
-                
-                # Save results after each query
-                output_file = output_dir / f"results_{state}_{query['city'].replace(' ', '_')}.json"
-                with open(output_file, 'w') as f:
-                    json.dump(results, f, indent=2)
-                logger.info(f"Saved results to {output_file}")
-                
-            except Exception as e:
-                logger.error(f"Error processing query {query['query']}: {e}")
-    
-    # Save combined results
+                res = collector.collect_pharmacies([q] if isinstance(q, dict) else [q_str])
+                all_results.extend(res)
+                outfile = output_dir / f"results_{state}.json"
+                with open(outfile, "w") as fh:
+                    json.dump(res, fh, indent=2)
+            except Exception as exc:
+                logger.error(f"Error processing query {q_str}: {exc}")
+
     if all_results:
-        combined_file = output_dir / 'combined_results.json'
-        with open(combined_file, 'w') as f:
-            json.dump(all_results, f, indent=2)
-        logger.info(f"Saved combined results to {combined_file}")
-    
-    logger.info("Trial run completed!")
+        combined = output_dir / "combined_results.json"
+        with open(combined, "w") as fh:
+            json.dump(all_results, fh, indent=2)
+        logger.info(f"Saved combined results to {combined}")
+
 
 if __name__ == "__main__":
     main()

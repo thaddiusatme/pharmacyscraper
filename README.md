@@ -2,6 +2,13 @@
 
 ## Recent Updates (June 2024)
 
+### Trial Run Fixes & Optimization 
+- **Fixed Apify Actor Input Validation**: Resolved `allPlacesNoSearchAction` field error (changed from "false" to empty string)
+- **Credit Usage Optimization**: Added `forceExit: true` and `maxCrawledPlacesPerSearch` limits to control costs
+- **Successful Trial Results**: Collected 39 independent pharmacies across CA (19) and TX (20) in 4 major cities
+- **Configuration Updates**: Optimized `trial_config.json` for targeted data collection (~25 locations per state)
+- **Performance**: All actor calls now succeed (eliminated 400 Bad Request errors)
+
 ### Apify Collector Improvements
 - **Enhanced Test Coverage**: Added comprehensive tests for the Apify collector with proper mocking
 - **Improved Error Handling**: Better error messages and recovery for API failures
