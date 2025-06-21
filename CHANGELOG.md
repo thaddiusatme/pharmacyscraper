@@ -2,6 +2,15 @@
 
 ## [Unreleased]
 ### Added
+- Enhanced test coverage for Apify collector with proper mocking
+- Support for structured location-based queries in addition to simple queries
+
+### Fixed
+- Resolved `actor.call()` signature mismatch in Apify collector
+- Fixed test mocks to properly patch ApifyClient
+- Addressed test isolation issues by clearing cached clients
+- Standardized test data with consistent mock responses
+- Fixed configuration format handling in test cases
 - Trial run configuration for California and Texas
 - Directory structure for trial data
 - Search queries for 6 major cities (3 per state)
@@ -97,6 +106,9 @@
 - Addressed test failures and improved test reliability
 - Fixed API error handling in Apify collector
 - Resolved setup script execution issues on macOS
+- Fixed `KeyError: 'city'` in `collect_pharmacies` method
+- Corrected test configurations to match expected input formats
+- Ensured proper test isolation by clearing cached Apify clients
 - Fixed file permissions for script execution
 - Fixed test assertions in `test_run_collection_success` to properly verify mock calls
 - Updated mock client setup in test fixtures to match actual Apify client usage
