@@ -34,6 +34,9 @@ class ApifyCollector:
     # A (very) small set of big-box chains we want to filter out in
     # ``filter_chain_pharmacies``.
     _CHAIN_KEYWORDS = {"cvs", "walgreens", "rite aid", "walmart", "duane reade"}
+    
+    # Configure logger
+    logger = logging.getLogger(__name__)
 
     def __init__(
         self,
@@ -237,30 +240,69 @@ class ApifyCollector:
     # tests can monkey-patch the client easily.
     def _execute_actor(self, search_query: str, max_results: int = 10) -> List[Dict]:
         client = self._get_client()
-        actor = client.actor("apify/google-maps-scraper")
-
+        # Allow overriding the actor ID via environment variable
+        actor_id = os.getenv("APIFY_ACTOR_ID", "apify/google-maps-scraper")
+        self.logger.info(f"Using Apify actor: {actor_id}")
+        
+        # Prepare input based on the actor's expected schema
+        # Note: Different fields expect different types (boolean vs string)
         run_input = {
-            "searchQueries": [search_query],
-            "maxCrawledPlaces": max_results,
+            # String array for search queries
+            "searchStringsArray": [search_query],
+            
+            # Numeric fields - Adjusted for 25 locations per state
+            "maxCrawledPlaces": max_results,  # Allow full max_results (13 per query)
+            "maxReviews": 0,  # Don't fetch reviews for now
+            "maxImages": 0,   # Don't fetch images for now
+            
+            # String fields
+            "language": "en",
+            "countryCode": "us",
+            "allPlacesNoSearchAction": "",  # Must be empty string or allowed action
+            
+            # Additional constraints to control usage
+            "maxCrawledPlacesPerSearch": max_results,  # Limit per search
+            "forceExit": True,  # Exit early when limit reached
+            
+            # Boolean flags
+            "includeWebResults": False,
+            "includeReviews": False,
+            "includeImages": False,
+            "includeOpeningHours": False,
+            "includePeopleAlsoSearch": False,
+            "includeDetailUrl": False,
+            "includePosition": True,
+            "includePeopleAlsoSearchFor": False,
+            "includePopularTimes": False,
+            "includeReviewsSummary": False,
+            "includePeopleAlsoSearchForInResponse": False,
+            "includePeopleAlsoSearchForInResponseDetails": False
         }
 
-        # The SDK returns a run object – we wait for the run to finish and then
-        # fetch the dataset items.  All of this is *fully* mocked by the test
-        # suite so no network calls will be made here during CI.
         try:
-            # Try calling with run_input as keyword argument for real API
-            run = actor.call(run_input=run_input)
-        except TypeError:
-            # Fallback for mocked tests that don't expect arguments
-            run = actor.call()
-        
-        actor.wait_for_finish(run["id"] if isinstance(run, dict) else run)
-
-        dataset_id = run.get("defaultDatasetId") if isinstance(run, dict) else None
-        if not dataset_id:
+            # Start the actor run
+            run = client.actor(actor_id).call(run_input=run_input)
+            
+            # Get the run ID
+            run_id = run["id"] if isinstance(run, dict) else run
+            
+            # Wait for the run to finish using the client's run method
+            run_client = client.run(run_id)
+            run_client.wait_for_finish()
+            
+            # Get the dataset ID from the run details
+            run_details = run_client.get()
+            dataset_id = run_details.get("defaultDatasetId")
+            
+            if not dataset_id:
+                self.logger.error("No dataset ID found in run details")
+                return []
+                
+            dataset = client.dataset(dataset_id)
+            
+        except Exception as e:
+            self.logger.error(f"Error executing Apify actor: {str(e)}")
             return []
-
-        dataset = client.dataset(dataset_id)
 
         # Preferred path (newer test-suite) – ``list_items`` -------------------
         items: List[Dict]

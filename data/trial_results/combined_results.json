@@ -1,0 +1,5072 @@
+[
+  {
+    "title": "LA Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8600 W 3rd St #1, Los Angeles, CA 90048",
+    "neighborhood": "Beverly Grove",
+    "street": "8600 W 3rd St #1",
+    "city": "Los Angeles",
+    "postalCode": "90048",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://lacompounding.com/",
+    "phone": "(310) 362-4122",
+    "phoneUnformatted": "+13103624122",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0733861,
+      "lng": -118.3798234
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9eX6AU65woARTLzEjTAJrkM",
+    "categories": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Drug testing service",
+      "Drug store",
+      "Health and beauty shop",
+      "Homeopathic pharmacy",
+      "Skin care clinic",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store",
+      "Weight loss service"
+    ],
+    "fid": "0x80c2b94e01fae5f5:0x43ae09308dc4bc4c",
+    "cid": "4876845550630386764",
+    "reviewsCount": 270,
+    "imagesCount": 68,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.791Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Accepts walk-ins": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LA%20Compounding%20Pharmacy&query_place_id=ChIJ9eX6AU65woARTLzEjTAJrkM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npe0644DfvvAC4xADUhusz-FVV1LRSm8WBiVaI3u8PTAQCLMWsFHni_CyTrHsCrvx0UFQXJPhtJO-i9EKSPxn2AwKcMGdkp26ty3j2ZoUnOxZofJlR4NKB_ISl-4u-SKRtDeOJMFw=w408-h306-k-no",
+    "kgmid": "/g/11lqydz2vs"
+  },
+  {
+    "title": "Best Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2426 W 8th St #102, Los Angeles, CA 90057",
+    "neighborhood": "Westlake",
+    "street": "2426 W 8th St #102",
+    "city": "Los Angeles",
+    "postalCode": "90057",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(213) 385-9926",
+    "phoneUnformatted": "+12133859926",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.0561553,
+      "lng": -118.2814936
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ65HYeJ7HwoAR7vJc3azbuCY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2c79e78d891eb:0x26b8dbacdd5cf2ee",
+    "cid": "2790221504650736366",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Pharmacy&query_place_id=ChIJ65HYeJ7HwoAR7vJc3azbuCY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jXxXBY1JhvQgvRoikz7FOA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.4596&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tk4rf3p"
+  },
+  {
+    "title": "TFC Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4914 1/2 W Slauson Ave, Los Angeles, CA 90056",
+    "neighborhood": null,
+    "street": "4914 1/2 W Slauson Ave",
+    "city": "Los Angeles",
+    "postalCode": "90056",
+    "state": "CA",
+    "countryCode": "US",
+    "website": "https://www.tfcpharmacy.com/",
+    "phone": "(323) 348-4205",
+    "phoneUnformatted": "+13233484205",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.987101,
+      "lng": -118.363218
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL3Qu5WW3woAR9vU0RCcHw0g",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x80c2b765e52e742f:0x48c307274434f5f6",
+    "cid": "5243042256418829814",
+    "reviewsCount": 33,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TFC%20Pharmacy%20%26%20Compounding&query_place_id=ChIJL3Qu5WW3woAR9vU0RCcHw0g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrSlC-8fGsNBug9_stWiyeNk1tV7fCxvarI3UIwr2E3gYaC6zOzwsnDehEBulHvf0eYjfmB0sYe3mUaQ9uH-VlPDpCQjHZ0Oa_fv8v9MZq3nYWRDdI8zmDNqDElb-Xw26B8LBlizA=w408-h306-k-no",
+    "kgmid": "/g/11b7ck0fv8"
+  },
+  {
+    "title": "BioMed Pharmacy & Compounding Los Angeles",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8640 W 3rd St #100, Los Angeles, CA 90048",
+    "neighborhood": "Beverly Grove",
+    "street": "8640 W 3rd St #100",
+    "city": "Los Angeles",
+    "postalCode": "90048",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.mybiomedrx.com/",
+    "phone": "(310) 299-0808",
+    "phoneUnformatted": "+13102990808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0733989,
+      "lng": -118.3813251
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_QuMoFK5woARac5rC9abaiE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2b952a08c0bfd:0x216a9bd60b6bce69",
+    "cid": "2407908294399872617",
+    "reviewsCount": 19,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "Paid parking garage": true
+        },
+        {
+          "Paid parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BioMed%20Pharmacy%20%26%20Compounding%20Los%20Angeles&query_place_id=ChIJ_QuMoFK5woARac5rC9abaiE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4aMYXwG31bAq6h4b_NEy7i-ERx2a3YMd2kfck=w408-h247-k-no",
+    "kgmid": "/g/11b8_zkb70"
+  },
+  {
+    "title": "Eddie's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8408 Beverly Blvd, Los Angeles, CA 90048",
+    "neighborhood": "Beverly Grove",
+    "street": "8408 Beverly Blvd",
+    "city": "Los Angeles",
+    "postalCode": "90048",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.eddiespharmacy.com/",
+    "phone": "(310) 358-2400",
+    "phoneUnformatted": "+13103582400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0759175,
+      "lng": -118.3735163
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_WPEa7G-woARnOdJECg1vmw",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health consultant",
+      "Travel clinic"
+    ],
+    "fid": "0x80c2beb16bc463fd:0x6cbe35281049e79c",
+    "cid": "7835758847859484572",
+    "reviewsCount": 49,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eddie's%20Pharmacy&query_place_id=ChIJ_WPEa7G-woARnOdJECg1vmw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8hwanRzfKeWkOCh7rrDP2BOmrsG1SFXzDA4ViLuEwLxUTMYUh6gAWcCb5Q3FdV7FAAqWGcMy6kLZe6NUvdHDijxrXhgml5xlwhYKUDjDei4gG_p8LinEcu39_-_aVUPSSHaWMDA=w408-h600-k-no",
+    "kgmid": "/g/1thmfnr9"
+  },
+  {
+    "title": "EAST LA PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4968 Whittier Blvd, Los Angeles, CA 90022",
+    "neighborhood": null,
+    "street": "4968 Whittier Blvd",
+    "city": "Los Angeles",
+    "postalCode": "90022",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(323) 685-5039",
+    "phoneUnformatted": "+13236855039",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.0212707,
+      "lng": -118.1621115
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3TbBeAnPwoARuPgLwI_7Zpk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2cf0978c136dd:0x9966fb8fc00bf8b8",
+    "cid": "11053798930248366264",
+    "reviewsCount": 17,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=EAST%20LA%20PHARMACY&query_place_id=ChIJ3TbBeAnPwoARuPgLwI_7Zpk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npL5ZH8PmXM9StFPjQceBRAZwg4AxoRT9teW9I87-mCAoTAMrwVfW_-dzczqdYiEpeXMDKQ74b_GTxucOQS69-7rLsB1KmN7HukhniPyfVB8lejNXZRR314FpGRPCwbJZgQLTrjtw=w408-h544-k-no",
+    "kgmid": "/g/11gcm5qv7p"
+  },
+  {
+    "title": "Kyoto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "420 E 3rd St, Los Angeles, CA 90013",
+    "neighborhood": "Skid Row",
+    "street": "420 E 3rd St",
+    "city": "Los Angeles",
+    "postalCode": "90013",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/kyoto-pharmacy-los-angeles-ca-90013/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5643653",
+    "phone": "(213) 253-5999",
+    "phoneUnformatted": "+12132535999",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0468407,
+      "lng": -118.2420199
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv39W6TfGwoARRoPKqdNTnoI",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80c2c637e9567fbf:0x829e53d3a9ca8346",
+    "cid": "9412052439802741574",
+    "reviewsCount": 46,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.793Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kyoto%20Pharmacy&query_place_id=ChIJv39W6TfGwoARRoPKqdNTnoI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr2tGK6-yOZUZD-XUDm2-0lYzOO0yaR7ojpcdFEVFWzId6d3GkPaD1bBaZ7KzUQsktYeu1TXCQlpLYaQq_5xlJhe-wyGf_Qlq5-3nS4zgo1zYXShbruqITenWwrb46nNZuk1E0YWQ=w408-h544-k-no",
+    "kgmid": "/g/11clvhfjp4"
+  },
+  {
+    "title": "Allure Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11670 San Vicente Blvd A, Los Angeles, CA 90049",
+    "neighborhood": "Brentwood",
+    "street": "11670 San Vicente Blvd A",
+    "city": "Los Angeles",
+    "postalCode": "90049",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.allurepharmacy.com/",
+    "phone": "(310) 826-1111",
+    "phoneUnformatted": "+13108261111",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.05339,
+      "lng": -118.4642695
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVQli9V-7woARczn-H056Fq4",
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store"
+    ],
+    "fid": "0x80c2bb5ff5620955:0xae167a4e1ffe3973",
+    "cid": "12544348288049887603",
+    "reviewsCount": 51,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.794Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Allure%20Pharmacy%20%26%20Compounding&query_place_id=ChIJVQli9V-7woARczn-H056Fq4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMvaKW_LrgyDIaTgmHhypjqMPoWgehBPAwJ0mHT=w408-h252-k-no",
+    "kgmid": "/g/1tdcrt5g"
+  },
+  {
+    "title": "Garfield Prescription Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3756 Santa Rosalia Dr, Los Angeles, CA 90008",
+    "neighborhood": "Baldwin Hills/Crenshaw",
+    "street": "3756 Santa Rosalia Dr",
+    "city": "Los Angeles",
+    "postalCode": "90008",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(323) 295-5585",
+    "phoneUnformatted": "+13232955585",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0089344,
+      "lng": -118.3391709
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD5FMty64woAR-Jl0s_v-BR4",
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical company"
+    ],
+    "fid": "0x80c2b82eb74c910f:0x1e05fefbb37499f8",
+    "cid": "2163415553022401016",
+    "reviewsCount": 18,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.794Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:45\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:45\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:45\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:45\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:45\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:45\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Garfield%20Prescription%20Pharmacy&query_place_id=ChIJD5FMty64woAR-Jl0s_v-BR4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOzaeLXCZHHPah-bHSTpDRbUd-ccKSl1D0gOBX-=w408-h305-k-no",
+    "kgmid": "/g/1tkbyg_c"
+  },
+  {
+    "title": "Little Tokyo Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "402 E 2nd St, Los Angeles, CA 90012",
+    "neighborhood": "Little Tokyo",
+    "street": "402 E 2nd St",
+    "city": "Los Angeles",
+    "postalCode": "90012",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(213) 680-4011",
+    "phoneUnformatted": "+12136804011",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.047141,
+      "lng": -118.239209
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv-OzaTjGwoARhcDnMM6rgnI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2c63869b3e3bf:0x7282abce30e7c085",
+    "cid": "8251346369368277125",
+    "reviewsCount": 42,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:05:49.794Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Little%20Tokyo%20Pharmacy&query_place_id=ChIJv-OzaTjGwoARhcDnMM6rgnI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA%20in%20Los%20Angeles,%20CA/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA in Los Angeles, CA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPyWUhYvk9R5ejI2oQwaDK8y5YB1uJasXLK-Ug_=w426-h240-k-no",
+    "kgmid": "/g/1v_snhpq"
+  },
+  {
+    "title": "Solano Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1021 Mission St, San Francisco, CA 94103",
+    "neighborhood": "SoMa",
+    "street": "1021 Mission St",
+    "city": "San Francisco",
+    "postalCode": "94103",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://sf.solanopharmacy.com/",
+    "phone": "(415) 874-9999",
+    "phoneUnformatted": "+14158749999",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7804935,
+      "lng": -122.409086
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlYpYcISAhYARk0VRP2r84lg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8085808470588a95:0x58e2fc6a3f514593",
+    "cid": "6404959153333290387",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.118Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Solano%20Pharmacy&query_place_id=ChIJlYpYcISAhYARk0VRP2r84lg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RtB94QftKZ9uRHXAfiMuYA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=129.95161&pitch=0&thumbfov=100",
+    "kgmid": "/g/11t3scw9t9"
+  },
+  {
+    "title": "Torgsyn Discount Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5614 Geary Blvd, San Francisco, CA 94121",
+    "neighborhood": "Central Richmond",
+    "street": "5614 Geary Blvd",
+    "city": "San Francisco",
+    "postalCode": "94121",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.torgsynrx.com/",
+    "phone": "(415) 752-3737",
+    "phoneUnformatted": "+14157523737",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.7805398,
+      "lng": -122.4797596
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD5o9OxCHhYARHagxJIDVDiM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x808587103b3d9a0f:0x230ed5802431a81d",
+    "cid": "2526191187341191197",
+    "reviewsCount": 20,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Torgsyn%20Discount%20Pharmacy%20Inc&query_place_id=ChIJD5o9OxCHhYARHagxJIDVDiM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHWpW6RbOj_xAsLhfdh1fgHzxGHD8hRBmPCVRWDKqI1YiVkDkgzrJcA2M1Sjb-1mlOZxyLSJVgZxkrByn-0CjORci6XKNK9Xpeu-S40H7zm4COzO3q92m5tdHXVNhZwhaGYATV=w408-h544-k-no",
+    "kgmid": "/g/1tf5qg66"
+  },
+  {
+    "title": "Joe's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5199 Geary Blvd, San Francisco, CA 94118",
+    "neighborhood": "Central Richmond",
+    "street": "5199 Geary Blvd",
+    "city": "San Francisco",
+    "postalCode": "94118",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(415) 751-2326",
+    "phoneUnformatted": "+14157512326",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.7803389,
+      "lng": -122.474937
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlTjXMhGHhYARFhUhbDNomEc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8085871132d73895:0x479868336c211516",
+    "cid": "5158987943219631382",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Joe's%20Pharmacy&query_place_id=ChIJlTjXMhGHhYARFhUhbDNomEc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqa8oP7D_0E_5cvRB8FhxB3NEpNI1LzmhJ9etGKazDTfayGVTZMcmOVmRzYn25XVUrVpFHbj-PLcE-qvx3zjVtKsCJE0H37FPxnv94i8bdG7XQLqQ9mitozAgWpSy_L6uEGCQk=w408-h307-k-no",
+    "kgmid": "/g/1wn33x6f"
+  },
+  {
+    "title": "Castro Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "518a Castro St, San Francisco, CA 94114",
+    "neighborhood": "The Castro",
+    "street": "518a Castro St",
+    "city": "San Francisco",
+    "postalCode": "94114",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(415) 255-2720",
+    "phoneUnformatted": "+14152552720",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7605157,
+      "lng": -122.4351783
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHSJ9JBt-j4ARE2o3COCiJl0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x808f7e1b247d221d:0x5d26a2e008376a13",
+    "cid": "6712231377736526355",
+    "reviewsCount": 16,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Castro%20Pharmacy&query_place_id=ChIJHSJ9JBt-j4ARE2o3COCiJl0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqPdnFDjC1OTQ7I33k6XpuV6Ca9i-m5j-94_z2F0-xZKA0Go-HQAAqd8HohJ80zCkFptDxZ7FglWmJK7RQpYN3dXZpaogEH4uGbuc796iL4Z9TeFw_Iu75TifUoXt9zdLZFkU=w408-h306-k-no",
+    "kgmid": "/g/1tczqlbv"
+  },
+  {
+    "title": "Parnassus Heights Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "350 Parnassus Ave Ste 100, San Francisco, CA 94117",
+    "neighborhood": "Parnassus Heights",
+    "street": "350 Parnassus Ave Ste 100",
+    "city": "San Francisco",
+    "postalCode": "94117",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://parnassusheightsrx.com/",
+    "phone": "(415) 564-9191",
+    "phoneUnformatted": "+14155649191",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7642347,
+      "lng": -122.4562335
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUfiUFleHhYARA0hMzaudAmM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x808587571694f851:0x63029dabcd4c4803",
+    "cid": "7134438120917583875",
+    "reviewsCount": 33,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parnassus%20Heights%20Pharmacy&query_place_id=ChIJUfiUFleHhYARA0hMzaudAmM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJFJc-RYp2vrDv0HPy0QeHg0Henn8aF4I6BXiWK-LoSg7DThap5uq0J1y-VHsDELG8MC7F_YaD-_nzwgpBlbNOoGo-Wny0MmrOtUSP8oRVNkBuw1T7JooThWGZpkT2vMSNOQre1Q=w426-h240-k-no",
+    "kgmid": "/g/1tdv_36n"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1400 Tennessee St #2, San Francisco, CA 94107",
+    "neighborhood": "Central Waterfront",
+    "street": "1400 Tennessee St #2",
+    "city": "San Francisco",
+    "postalCode": "94107",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7538924,
+      "lng": -122.3891308
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoTtlvrp_j4ARJ9GqTGv-bZQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x808f7fbabe653ba1:0x946dfe6b4caad127",
+    "cid": "10695484426876014887",
+    "reviewsCount": 882,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJoTtlvrp_j4ARJ9GqTGv-bZQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdlo4Ja5ykVeBX4IMKs5fF0IBeKodUnSuUsiTh=w408-h272-k-no",
+    "kgmid": "/g/11bzt6jbrg"
+  },
+  {
+    "title": "Daniel's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "943 Geneva Ave, San Francisco, CA 94112",
+    "neighborhood": "Excelsior",
+    "street": "943 Geneva Ave",
+    "city": "San Francisco",
+    "postalCode": "94112",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.danielspharmacysf.com/",
+    "phone": "(415) 584-2210",
+    "phoneUnformatted": "+14155842210",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7163218,
+      "lng": -122.4403456
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ7ZZZZt-j4AR1SG7OV9YpMg",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x808f7e9b6559b627:0xc8a4585f39bb21d5",
+    "cid": "14457777869779837397",
+    "reviewsCount": 50,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Daniel's%20Pharmacy&query_place_id=ChIJJ7ZZZZt-j4AR1SG7OV9YpMg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7UKCZYVnzdRadpWl6V9tOUqph6Pp8a2ufriHlTfT7YoRD-714sEJAhaNGrRpLO8tErinf-6CiQdRb6I6AI_hDjXAZBJCumIMdR2_e2Wo2BmwoahW9RaFfddW4V3ENNkhySZQr=w408-h306-k-no",
+    "kgmid": "/g/1tzgpfz_"
+  },
+  {
+    "title": "ScriptSite Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "870 Market St #1028, San Francisco, CA 94102",
+    "neighborhood": "Union Square",
+    "street": "870 Market St #1028",
+    "city": "San Francisco",
+    "postalCode": "94102",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.scriptsiterx.com/",
+    "phone": "(855) 328-8734",
+    "phoneUnformatted": "+18553288734",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7850615,
+      "lng": -122.4073181
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyyyMio6AhYARaXWKke3USbU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8085808e8a8c2ccb:0xb549d4ed918a7569",
+    "cid": "13063206310978942313",
+    "reviewsCount": 15,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.119Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ScriptSite%20Specialty%20Pharmacy&query_place_id=ChIJyyyMio6AhYARaXWKke3USbU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQeOw-G_o95UTovmbHITTzfoCbrfswQ5AHKmj9=w408-h270-k-no",
+    "kgmid": "/g/1tfq9g2f"
+  },
+  {
+    "title": "Koshland Pharm: Custom Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "301 Folsom St suite b, San Francisco, CA 94105",
+    "neighborhood": "Rincon Hill",
+    "street": "301 Folsom St suite b",
+    "city": "San Francisco",
+    "postalCode": "94105",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.koshlandpharm.com/",
+    "phone": "(415) 344-0600",
+    "phoneUnformatted": "+14153440600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.788482,
+      "lng": -122.392783
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhYtN4HqAhYARYXBwaSTbuQY",
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8085807ae04d8b85:0x6b9db2469707061",
+    "cid": "484659384353321057",
+    "reviewsCount": 123,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.120Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Koshland%20Pharm%3A%20Custom%20Compounding%20Pharmacy&query_place_id=ChIJhYtN4HqAhYARYXBwaSTbuQY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpxLY53O2aRuIcVr8C3ubn8YrMCBzCEg540m1a=w408-h306-k-no",
+    "kgmid": "/g/1th87bwr"
+  },
+  {
+    "title": "Golden Gate Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1836 Noriega St, San Francisco, CA 94122",
+    "neighborhood": "Sunset District",
+    "street": "1836 Noriega St",
+    "city": "San Francisco",
+    "postalCode": "94122",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://goldengatepharmacy.com/",
+    "phone": "(415) 661-0790",
+    "phoneUnformatted": "+14156610790",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.7541624,
+      "lng": -122.4836741
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZf0npn2HhYARY1GTdC_gwb0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8085877da627fd65:0xbdc1e02f74935163",
+    "cid": "13673456438097432931",
+    "reviewsCount": 13,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:06:29.120Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:15\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:15\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:15\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:15\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:15\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Pharmacy&query_place_id=ChIJZf0npn2HhYARY1GTdC_gwb0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20San%20Francisco%20CA%20in%20San%20Francisco,%20CA/@69.21166763186608,-141.6025211145925,9z?hl=en",
+    "searchString": "independent pharmacy San Francisco CA in San Francisco, CA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbfh1L0K-Jt6B3fkTa5dILS2IySyf_ilkjPC09=w408-h306-k-no",
+    "kgmid": "/g/1xgrn4s4"
+  },
+  {
+    "title": "Liberty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8650 Spicewood Springs Rd #106, Austin, TX 78759",
+    "neighborhood": "Barrington Oaks",
+    "street": "8650 Spicewood Springs Rd #106",
+    "city": "Austin",
+    "postalCode": "78759",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(512) 249-7500",
+    "phoneUnformatted": "+15122497500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4330058,
+      "lng": -97.7715715
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8zj0X9jMRIYR25SRfSPLxLI",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x8644ccd85ff438f3:0xb2c4cb237d9194db",
+    "cid": "12881644187477447899",
+    "reviewsCount": 61,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.872Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Pharmacy&query_place_id=ChIJ8zj0X9jMRIYR25SRfSPLxLI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbOvBwFr8Dfuq7NvyeZ9VOSvF2iiY1sosvTzJW=w408-h304-k-no",
+    "kgmid": "/g/1wb8v28c"
+  },
+  {
+    "title": "Martin's Wellness & Compounding Pharmacy at Lamar Plaza Drug Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1509 S Lamar Blvd #550, Austin, TX 78704",
+    "neighborhood": "Zilker",
+    "street": "1509 S Lamar Blvd #550",
+    "city": "Austin",
+    "postalCode": "78704",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://martinswellness.com/",
+    "phone": "(512) 442-6777",
+    "phoneUnformatted": "+15124426777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.251961,
+      "lng": -97.763734
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7SpPEh-1RIYRDyAp7XUxi7c",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8644b51f124f2aed:0xb78b3175ed29200f",
+    "cid": "13225719113263423503",
+    "reviewsCount": 74,
+    "imagesCount": 99,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.874Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Martin's%20Wellness%20%26%20Compounding%20Pharmacy%20at%20Lamar%20Plaza%20Drug%20Store&query_place_id=ChIJ7SpPEh-1RIYRDyAp7XUxi7c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5uu0uISy0aSudGBCvv_FBBNKG_XmB6cd298uWcuEeVBIDt84MI3Fe_lLscPBT5HfUpIh0Ndx7BfeHiJNGK34no-3kXVKAQPkoemUB5-X_uMhCpWeP8k1_8O500CUxF86Za9iH=w408-h306-k-no",
+    "kgmid": "/g/1hc2bjrlp"
+  },
+  {
+    "title": "Vina Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11207 N Lamar Blvd suite A, Austin, TX 78753",
+    "neighborhood": "North Lamar",
+    "street": "11207 N Lamar Blvd suite A",
+    "city": "Austin",
+    "postalCode": "78753",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.medicineshoptx.com/",
+    "phone": "(512) 977-8844",
+    "phoneUnformatted": "+15129778844",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3810703,
+      "lng": -97.6862257
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqXcDO9rLRIYRimhPC8IMGeM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8644cbda3b0377a9:0xe3190cc20b4f688a",
+    "cid": "16364124748580350090",
+    "reviewsCount": 23,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.874Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vina%20Pharmacy%20Inc&query_place_id=ChIJqXcDO9rLRIYRimhPC8IMGeM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqtCd-F0Yj6onecL91ONOXo013yROoo418rPsN=w408-h271-k-no",
+    "kgmid": "/g/1tdy4w18"
+  },
+  {
+    "title": "Tarrytown Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2727 Exposition Blvd #105, Austin, TX 78703",
+    "neighborhood": "Tarrytown",
+    "street": "2727 Exposition Blvd #105",
+    "city": "Austin",
+    "postalCode": "78703",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.tarrytownpharmacy.com/",
+    "phone": "(512) 478-6419",
+    "phoneUnformatted": "+15124786419",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3036321,
+      "lng": -97.7639323
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqZ42p6DKRIYRFktQE9_LbC0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8644caa0a7369ea9:0x2d6ccbdf13504b16",
+    "cid": "3273215188153682710",
+    "reviewsCount": 790,
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.874Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tarrytown%20Pharmacy&query_place_id=ChIJqZ42p6DKRIYRFktQE9_LbC0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9rdEWm2lB22OnVuM09S1zPSKKuZsCk6TVng0SHUoqRV0pvi4GctwADXEUzua84bqdZzkUqjX9aIhuckhn-jL55RWzg6-E2_byr6irHgaHWZ3nvcJfuwTKDh2m9o2FZZhR94gQ=w408-h306-k-no",
+    "kgmid": "/g/1tcyxtrz"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4175 Freidrich Ln Suite 202, Austin, TX 78744",
+    "neighborhood": "McKinney",
+    "street": "4175 Freidrich Ln Suite 202",
+    "city": "Austin",
+    "postalCode": "78744",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.212874,
+      "lng": -97.7473435
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8QNitg21RIYR7_aWdIW_nkU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8644b50db66203f1:0x459ebf857496f6ef",
+    "cid": "5016657614844917487",
+    "reviewsCount": 136,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.874Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 2:30\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJ8QNitg21RIYR7_aWdIW_nkU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPywXVWEN0ZJkr7fufwPKGBycqopcPaMPAmiqLO=w408-h408-k-no",
+    "kgmid": "/g/11sghlhg5g"
+  },
+  {
+    "title": "East Austin Medicine Shop",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1909 E 38th 1/2 St Suite C2, Austin, TX 78723",
+    "neighborhood": "East MLK",
+    "street": "1909 E 38th 1/2 St Suite C2",
+    "city": "Austin",
+    "postalCode": "78723",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.pharmacistrecommends.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5916905",
+    "phone": "(512) 643-0999",
+    "phoneUnformatted": "+15126430999",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.2889435,
+      "lng": -97.706402
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGS4m3Xq1RIYRavYdLuRMvcA",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8644b57add262e19:0xc0bd4ce42e1df66a",
+    "cid": "13888341368790447722",
+    "reviewsCount": 59,
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.875Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=East%20Austin%20Medicine%20Shop&query_place_id=ChIJGS4m3Xq1RIYRavYdLuRMvcA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noS0Ih0oi-qaJJ4UFDqXkuXLhJg9Ao2EMI3wqW2bcT7xfr1bLn0ZaQkQXbgopOlaumwEMwj4-UFa-3nzsXK61SNQP_PdC1DQBncx9SS_QxtaIgIaplsRqq_PEKCKNQqEydWSHZ4=w408-h306-k-no",
+    "kgmid": "/g/11j4qrrvb2"
+  },
+  {
+    "title": "Austin Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3010 Bee Caves Rd #100, Austin, TX 78746",
+    "neighborhood": "Timberline Terrace",
+    "street": "3010 Bee Caves Rd #100",
+    "city": "Austin",
+    "postalCode": "78746",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://austincompoundingpharmacy.com/",
+    "phone": "(512) 327-7455",
+    "phoneUnformatted": "+15123277455",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.2720331,
+      "lng": -97.7951412
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa8mGEMhKW4YRj3RgCB4DFFo",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x865b4ac81086c96b:0x5a14031e0860748f",
+    "cid": "6490816390472168591",
+    "reviewsCount": 80,
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.875Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Austin%20Compounding%20Pharmacy&query_place_id=ChIJa8mGEMhKW4YRj3RgCB4DFFo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrwrMWEea4gxHNz8IQ6KPv3u7J7OM8ifag9rh6Z0eyz4W-9UICQC_iBJMFbgffWMxqJIr-OyLPI7eDI8UmQwwej0qTRqjBXfN-5kyYqEYINT65OFJQxwkuDBiUQaaObNBbTdEI=w426-h240-k-no",
+    "kgmid": "/g/1260pw80k"
+  },
+  {
+    "title": "MedSavers Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1800 W 35th St, Austin, TX 78703",
+    "neighborhood": "Oakmont Heights",
+    "street": "1800 W 35th St",
+    "city": "Austin",
+    "postalCode": "78703",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.medsaversrx.com/",
+    "phone": "(512) 465-9292",
+    "phoneUnformatted": "+15124659292",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3084476,
+      "lng": -97.7527687
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgWeZtZrKRIYR_O2BykpIo_g",
+    "categories": [
+      "Pharmacy",
+      "Boutique",
+      "Gift shop"
+    ],
+    "fid": "0x8644ca9ab5996781:0xf8a3484aca81edfc",
+    "cid": "17916243228672257532",
+    "reviewsCount": 94,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.875Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MedSavers%20Pharmacy&query_place_id=ChIJgWeZtZrKRIYR_O2BykpIo_g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWAZyjIQGo1_cDsr_SM9EWIy--EMjWwYMHyFn1=w408-h271-k-no",
+    "kgmid": "/g/1tdyg09m"
+  },
+  {
+    "title": "38th Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "711 W 38th St C3, Austin, TX 78705",
+    "neighborhood": "Heritage",
+    "street": "711 W 38th St C3",
+    "city": "Austin",
+    "postalCode": "78705",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.38thstreetpharmacy.com/",
+    "phone": "(512) 458-3784",
+    "phoneUnformatted": "+15124583784",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.303975,
+      "lng": -97.741279
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUVosEH7KRIYRafWrzbozy9A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8644ca7e102c5a51:0xd0cb33bacdabf569",
+    "cid": "15045175857568806249",
+    "reviewsCount": 72,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.875Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=38th%20Street%20Pharmacy&query_place_id=ChIJUVosEH7KRIYRafWrzbozy9A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noa6DkRRU3a5mf5FsBnks3o5y4U4EwEUTUJncf36nsBwKZHxGLw_n7mdm08gZVATkvzyUY-k6cvlhfClglCBXJlTeMvz_os1os83WX2TY5AbC-w1iMM4AA0_AGMbr1lp4cCxny7=w408-h306-k-no",
+    "kgmid": "/g/1tfzmqy8"
+  },
+  {
+    "title": "Lake Hills Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12005 Bee Caves Rd #1-a, Austin, TX 78738",
+    "neighborhood": "The Uplands",
+    "street": "12005 Bee Caves Rd #1-a",
+    "city": "Austin",
+    "postalCode": "78738",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://lakehillsrx.com/",
+    "phone": "(512) 608-9355",
+    "phoneUnformatted": "+15126089355",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3079434,
+      "lng": -97.9261176
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdxPHfcg3W4YRvXx9IbLNnPY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x865b37c87dc71377:0xf69ccdb2217d7cbd",
+    "cid": "17770304394646879421",
+    "reviewsCount": 62,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:08.876Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Hills%20Pharmacy&query_place_id=ChIJdxPHfcg3W4YRvXx9IbLNnPY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Austin%20TX%20in%20Austin,%20TX/@62.95881800455232,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Austin TX in Austin, TX",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8p5blWQVZyZ2b5aGD9GQdm2Q32yxZLw-N4hHq=w408-h408-k-no",
+    "kgmid": "/g/1ptxjnm7p"
+  },
+  {
+    "title": "Advance Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2646 S Loop W #330, Houston, TX 77054",
+    "neighborhood": "South Main",
+    "street": "2646 S Loop W #330",
+    "city": "Houston",
+    "postalCode": "77054",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://myadvancepharmacy.com/",
+    "phone": "(713) 661-5711",
+    "phoneUnformatted": "+17136615711",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.6794155,
+      "lng": -95.4208227
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxf8GRifAQIYR9NzdZ14Ef6I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c0274606ffc5:0xa27f045e67dddcf4",
+    "cid": "11709082359702609140",
+    "reviewsCount": 23,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.609Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Advance%20Pharmacy&query_place_id=ChIJxf8GRifAQIYR9NzdZ14Ef6I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhR73iVaogoRqypWNRKIAM5Sg10YrNpOlnyOs-=w408-h408-k-no",
+    "kgmid": "/g/11clsnl4rs"
+  },
+  {
+    "title": "MedX Pharmacy Houston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6918 Corporate Dr Ste B5, Houston, TX 77036",
+    "neighborhood": "Sharpstown",
+    "street": "6918 Corporate Dr Ste B5",
+    "city": "Houston",
+    "postalCode": "77036",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.medxpharm.com/",
+    "phone": "(281) 506-2453",
+    "phoneUnformatted": "+12815062453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7037368,
+      "lng": -95.5521321
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj10GGduTQIYRcsM1lk3UD24",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864093db19065d8f:0x6e0fd44d9635c372",
+    "cid": "7930790898520408946",
+    "reviewsCount": 28,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.610Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MedX%20Pharmacy%20Houston&query_place_id=ChIJj10GGduTQIYRcsM1lk3UD24",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqIlWbfUU78SFCiWf5HtE9aFh-E5uqfZDK6VAHSJjrML9NZeeguFZoi6qlht675trKc61_A_8GsUix6MpQAHVh4Rfa-BksH2Jy1pT9tkx7E-1lb1IUQIRG-xP9vSt0F_HUUNG6=w408-h544-k-no",
+    "kgmid": "/g/1tmpwc0f"
+  },
+  {
+    "title": "Apteek Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2900 Weslayan St Suite B, Houston, TX 77027",
+    "neighborhood": "Greenway / Upper Kirby Area",
+    "street": "2900 Weslayan St Suite B",
+    "city": "Houston",
+    "postalCode": "77027",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.apteekpharmacy.com/",
+    "phone": "(832) 307-1678",
+    "phoneUnformatted": "+18323071678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7392967,
+      "lng": -95.442244
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv0s7lxvBQIYRrQ6WNG6CRGw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c11b973b4bbf:0x6c44826e34960ead",
+    "cid": "7801503864352804525",
+    "reviewsCount": 231,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apteek%20Pharmacy%20%26%20Compounding&query_place_id=ChIJv0s7lxvBQIYRrQ6WNG6CRGw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0gPha4XmWonZaSgbE-XrfZM2H923a1vRtKuI_=w408-h271-k-no",
+    "kgmid": "/g/11f5d5jj55"
+  },
+  {
+    "title": "Campbell's Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6603 Kirby Dr, Houston, TX 77005",
+    "neighborhood": "University Place",
+    "street": "6603 Kirby Dr",
+    "city": "Houston",
+    "postalCode": "77005",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://campbellscompounding.com/",
+    "phone": "(713) 668-4833",
+    "phoneUnformatted": "+17136684833",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.707682,
+      "lng": -95.418012
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBcrnukPAQIYRH2Qe-ZJvk8I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c043bae7ca05:0xc2936f92f91e641f",
+    "cid": "14020672741969912863",
+    "reviewsCount": 21,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Campbell's%20Compounding%20Pharmacy&query_place_id=ChIJBcrnukPAQIYRH2Qe-ZJvk8I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmrE98Xd2z0nu30vtggYrSOeHLqm_qQ2SR5HFZjZw1nIXKQQzpQi8v3AT_t7WzAimtMo2lTKAIcgAYoJPsLi2EAg52oXlOf2lm56rJjE9PXG1_LNB0z7boQ8dqAmcdlvuLY3k=w408-h544-k-no",
+    "kgmid": "/g/1wn_6h3r"
+  },
+  {
+    "title": "Scott Read Pharmacy | Affordable Generic Drug Store in Houston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "536 Waugh Dr, Houston, TX 77019",
+    "neighborhood": "Montrose",
+    "street": "536 Waugh Dr",
+    "city": "Houston",
+    "postalCode": "77019",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.scottreadrx.com/",
+    "phone": "(832) 649-3142",
+    "phoneUnformatted": "+18326493142",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7604368,
+      "lng": -95.3985564
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPXxNdZDBQIYRQ5oKlDZ0etc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c190754d7c3d:0xd77a7436940a9a43",
+    "cid": "15526850443073985091",
+    "reviewsCount": 32,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scott%20Read%20Pharmacy%20%7C%20Affordable%20Generic%20Drug%20Store%20in%20Houston&query_place_id=ChIJPXxNdZDBQIYRQ5oKlDZ0etc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_H1Pz9JcDQEvd0MNxlHhSFA_JjMRl314DPixuGxYkYM2uDJfBL8M75xp4it9uurxgVBSPeW74ZpulJJkTjFFQqmB-1sxcs3hj9Cg3ijxACw7NW6ejMEyeoHhQYGqaTcB_TQ_2pw=w408-h306-k-no",
+    "kgmid": "/g/11rsb5q0h9"
+  },
+  {
+    "title": "Briargrove Pharmacy & Gifts",
+    "description": "Longtime (since 1968) drugstore offering a pharmacy & medical supplies, plus gifts & cosmetics.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6435 San Felipe St, Houston, TX 77057",
+    "neighborhood": "Westside",
+    "street": "6435 San Felipe St",
+    "city": "Houston",
+    "postalCode": "77057",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.briargroverx.com/",
+    "phone": "(713) 783-5704",
+    "phoneUnformatted": "+17137835704",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7495539,
+      "lng": -95.499286
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCSR1VZPDQIYRQkvxKtCgi_s",
+    "categories": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Gift shop",
+      "Jewelry store",
+      "Post office",
+      "Stationery store",
+      "Toy store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8640c39355752409:0xfb8ba0d02af14b42",
+    "cid": "18125757941216791362",
+    "reviewsCount": 95,
+    "imagesCount": 148,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Briargrove%20Pharmacy%20%26%20Gifts&query_place_id=ChIJCSR1VZPDQIYRQkvxKtCgi_s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMV5ttjiHK9pKE4AqcDSpoUePyrZmXxhZgwNnOM=w408-h306-k-no",
+    "kgmid": "/g/1tmqglh4"
+  },
+  {
+    "title": "Village Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "975 Corbindale Rd, Houston, TX 77024",
+    "neighborhood": "Westside",
+    "street": "975 Corbindale Rd",
+    "city": "Houston",
+    "postalCode": "77024",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.villagecompounding.com/",
+    "phone": "(713) 464-5069",
+    "phoneUnformatted": "+17134645069",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7832647,
+      "lng": -95.5130012
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8fDNPWTEQIYRW_L8INRPGFg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c4643dcdf0f1:0x58184fd420fcf25b",
+    "cid": "6347911447283823195",
+    "reviewsCount": 50,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Compounding%20Pharmacy&query_place_id=ChIJ8fDNPWTEQIYRW_L8INRPGFg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGdN5b_yZZOzLY5bZqcV7kmPKKhuWOJUq8a77iiWL47kx4Pyn3BLUWcP4lFiMJztqJwl5R61yNTEVOUK5RGMgykcuF_KG9hylZjcOtbfuFSufjcME5QMO5OuFVkblBpNywv-4r=w426-h240-k-no",
+    "kgmid": "/g/1td6n0s9"
+  },
+  {
+    "title": "Texas RxSolutions and Compounding Pharmacy #2",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7505 Fannin St #120, Houston, TX 77054",
+    "neighborhood": "Astrodome Area",
+    "street": "7505 Fannin St #120",
+    "city": "Houston",
+    "postalCode": "77054",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.texasrxsolutions.com/",
+    "phone": "(713) 790-1228",
+    "phoneUnformatted": "+17137901228",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.694552,
+      "lng": -95.401103
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnaNDEw_AQIYR-rvU-rbqy_Y",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8640c00f1343a39d:0xf6cbeab6fad4bbfa",
+    "cid": "17783565625215728634",
+    "reviewsCount": 5,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Texas%20RxSolutions%20and%20Compounding%20Pharmacy%20%232&query_place_id=ChIJnaNDEw_AQIYR-rvU-rbqy_Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFs5tQ6idWQn6G7cEgd7X_OZIO14B3Oie9jIzO=w408-h306-k-no",
+    "kgmid": "/g/11clvvx5zq"
+  },
+  {
+    "title": "Sterling Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6609 W Sam Houston Pkwy S Suite 98B, Houston, TX 77072",
+    "neighborhood": "Sharpstown",
+    "street": "6609 W Sam Houston Pkwy S Suite 98B",
+    "city": "Houston",
+    "postalCode": "77072",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(713) 995-8885",
+    "phoneUnformatted": "+17139958885",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.706432,
+      "lng": -95.5561622
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHfs7Cc7CQIYRnflqUcokdMo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c2ce093bfb1d:0xca7424ca516af99d",
+    "cid": "14588325544327838109",
+    "reviewsCount": 35,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sterling%20Pharmacy&query_place_id=ChIJHfs7Cc7CQIYRnflqUcokdMo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWQ0FqMOaWswV7DS5jdq5TkOAS3xsd9UJORnGJLnbGFNWi5fUrp981UaAt1oc5RS8dLdqF3tZAyDbWWGqpvlQfwSkMmtcITInlHeaDPmqwPsuSn9q1D1zwJgBT4JnvPm1u4DWz=w408-h306-k-no",
+    "kgmid": "/g/1260q5b39"
+  },
+  {
+    "title": "Cedra Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1607 S Post Oak Ln, Houston, TX 77056",
+    "neighborhood": "Westside",
+    "street": "1607 S Post Oak Ln",
+    "city": "Houston",
+    "postalCode": "77056",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.cedrapharmacy.com/",
+    "phone": "(713) 621-0621",
+    "phoneUnformatted": "+17136210621",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7511909,
+      "lng": -95.4626294
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvWMDDkTBQIYRdd8bSLj1rzk",
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Drug store",
+      "Gift shop",
+      "Post office"
+    ],
+    "fid": "0x8640c1440e0363bd:0x39aff5b8481bdf75",
+    "cid": "4156811152918830965",
+    "reviewsCount": 264,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-21T19:07:47.611Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cedra%20Pharmacy&query_place_id=ChIJvWMDDkTBQIYRdd8bSLj1rzk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX%20in%20Houston,%20TX/@23.7517099,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX in Houston, TX",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzWlScSsX98xlCRAHXlC4TJlm2vyVMv9qHl7qymt7FbrApCMct6qGhjaJJ4q9Qr_Rdlp9uaszgwPrxACE1yMpT2PM82Y0FvgV25oMwKR6jKZ-S51n_OwZRHF6iBnH-2ZwRwfBRuQ=w408-h306-k-no",
+    "kgmid": "/g/1pzqfb4f3"
+  }
+]
