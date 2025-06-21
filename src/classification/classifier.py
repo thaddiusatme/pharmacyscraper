@@ -9,14 +9,14 @@ import logging
 import pandas as pd
 import json
 from pathlib import Path
+from .cache import cache_wrapper
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Import the Perplexity client
-from .perplexity_client import classify_pharmacy as perplexity_classify
-from .cache import Cache, get_cache
+from .perplexity_client import PerplexityClient, PerplexityAPIError
 
 # Known chain pharmacy identifiers
 CHAIN_IDENTIFIERS = [
@@ -26,48 +26,107 @@ CHAIN_IDENTIFIERS = [
     'Publix', 'Kaiser Permanente', 'Kroger', 'Rite Aid', 'Walgreens'
 ]
 
-def query_perplexity(pharmacy_data: Dict[str, Any], cache: Optional[Cache] = None) -> Dict[str, Any]:
+
+class Classifier:
+    """Classifies pharmacies using a combination of rule-based and LLM approaches."""
+
+    def __init__(self, client: PerplexityClient, rule_based_classifier=None):
+        self.client = client
+        self.rule_based_classifier = rule_based_classifier or self._default_rule_based_classifier
+
+    @cache_wrapper
+    def classify_pharmacy(self, pharmacy_data: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        Classifies a single pharmacy. This method is now cached.
+        
+        Args:
+            pharmacy_data: Dictionary containing pharmacy information
+            
+        Returns:
+            Dict with classification results, including source and confidence
+        """
+        # Handle empty or invalid input
+        if not pharmacy_data or not isinstance(pharmacy_data, dict):
+            return {
+                "is_compounding": False,
+                "confidence": 0.0,
+                "source": "invalid_input",
+                "method": "rule_based"
+            }
+            
+        # First, try the rule-based classifier
+        try:
+            rule_based_result = self.rule_based_classifier(pharmacy_data)
+            if rule_based_result.get('is_compounding'):
+                return {**rule_based_result, "method": "rule_based"}
+                
+            # If rules don't apply, try the LLM classifier
+            try:
+                llm_result = self.client.classify_pharmacy(pharmacy_data)
+                return {**llm_result, "method": "llm"}
+            except PerplexityAPIError as e:
+                logger.warning(f"LLM classification failed: {e}")
+                return {
+                    "is_chain": False,
+                    "confidence": 0.0,
+                    "source": "llm_error",
+                    "method": "error"
+                }
+                
+        except Exception as e:
+            logger.error(f"Error classifying pharmacy: {e}")
+            return {
+                "is_compounding": False,
+                "confidence": 0.0,
+                "source": "error",
+                "method": "error"
+            }
+
+    def batch_classify_pharmacies(self, pharmacies: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """
+        Classifies a batch of pharmacies, ensuring each is processed once.
+        """
+        return [self.classify_pharmacy(pharmacy) for pharmacy in pharmacies]
+
+    def _default_rule_based_classifier(self, pharmacy_data: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        A simple rule-based classifier to detect compounding pharmacies.
+        """
+        name = pharmacy_data.get("name", "").lower()
+        if "compounding" in name:
+            return {"is_compounding": True, "confidence": 1.0, "source": "rule-based"}
+        return {"is_compounding": False, "confidence": 0.5, "source": "rule-based"}
+
+
+def query_perplexity(pharmacy_data: Dict[str, Any], cache_dir: Optional[str] = None) -> Dict[str, Any]:
     """
-    Query the Perplexity API to classify a pharmacy with caching support.
-    
+    Query the Perplexity API to classify a pharmacy.
+
     Args:
-        pharmacy_data: Dictionary containing pharmacy information
-        cache: Optional cache instance to use for storing/retrieving results
-        
+        pharmacy_data: Dictionary containing pharmacy information.
+        cache_dir: Optional directory for cache storage.
+
     Returns:
-        Dict with classification results
+        A dictionary with classification results.
     """
-    # Create a cache key based on the pharmacy data
-    cache_key = f"pharmacy_{hash(frozenset(sorted(pharmacy_data.items())))}"
-    
-    # Try to get from cache first
-    if cache is not None:
-        cached_result = cache.get(cache_key)
-        if cached_result is not None:
-            logger.debug(f"Cache hit for pharmacy: {pharmacy_data.get('name', 'unknown')}")
-            return cached_result
-    
     try:
-        # Call the actual Perplexity API
-        result = perplexity_classify(pharmacy_data)
-        
+        # The PerplexityClient now handles its own caching
+        client = PerplexityClient(cache_dir=cache_dir)
+        result = client.classify_pharmacy(pharmacy_data)
+
         # Add method info
         result["method"] = "llm"
-        
-        # Cache the result
-        if cache is not None:
-            cache.set(cache_key, result)
-            
+
         return result
-        
-    except Exception as e:
+
+    except PerplexityAPIError as e:
         logger.error(f"Error querying Perplexity API: {e}")
         return {
             "is_chain": False,
             "confidence": 0.0,
-            "reason": f"Error: {str(e)}",
-            "method": "error"
+            "method": "llm_error"
         }
+
 
 def rule_based_classify(pharmacy_data: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -108,92 +167,91 @@ def rule_based_classify(pharmacy_data: Dict[str, Any]) -> Dict[str, Any]:
         "method": "rule_based"
     }
 
+
 def classify_pharmacy(
     pharmacy_data: Dict[str, Any], 
-    confidence_threshold: float = 0.8,
+    use_llm: bool = True,
+    use_rules: bool = True,
     cache_dir: Optional[str] = None
 ) -> Dict[str, Any]:
-    """
-    Classify a pharmacy as independent or chain with caching support.
+    """Classifies a pharmacy using a combination of LLM and rule-based methods.
     
     Args:
-        pharmacy_data: Dictionary containing pharmacy information
-        confidence_threshold: Minimum confidence required for LLM classification
-        cache_dir: Optional directory for cache storage
-        
+        pharmacy_data: Dictionary of pharmacy data.
+        use_llm: Whether to use the LLM classifier.
+        use_rules: Whether to use the rule-based classifier.
+        cache_dir: Optional directory for cache storage.
+
     Returns:
-        Dict with classification results
+        A dictionary with the final classification.
     """
-    # Create a cache instance if a directory is provided
-    cache = None
-    if cache_dir:
-        cache = get_cache("pharmacy_classification", cache_dir=cache_dir)
-    
-    # First try LLM classification
-    try:
-        llm_result = query_perplexity(pharmacy_data, cache=cache)
-        
-        # If confidence is high enough, return LLM result
-        if llm_result.get('confidence', 0) >= confidence_threshold:
-            return llm_result
-            
-        # Otherwise fall back to rule-based
+    # Initialize results
+    llm_result = None
+    rule_result = None
+
+    # Step 1: Rule-based classification (optional)
+    if use_rules:
         rule_result = rule_based_classify(pharmacy_data)
+        if rule_result.get('confidence', 0) > 0.7:
+            return rule_result
+
+    # Step 2: LLM-based classification (optional)
+    if use_llm:
+        llm_result = query_perplexity(pharmacy_data, cache_dir=cache_dir)
+
+        # If LLM is confident, use its result
+        if llm_result and llm_result.get('confidence', 0) > 0.7:
+            return llm_result
+
+    # If both methods are used, return the most confident result
+    if llm_result and rule_result:
+        if llm_result.get('confidence', 0) > rule_result.get('confidence', 0):
+            return llm_result
+        else:
+            return rule_result
+
+    # If only one method is used, return its result
+    if llm_result:
+        return llm_result
+    if rule_result:
         return rule_result
-        
-    except Exception as e:
-        logger.error(f"Error in classification: {e}")
-        # Fall back to rule-based on error
-        return rule_based_classify(pharmacy_data)
+
+    # If no method is used, return a default result
+    return {
+        "is_chain": False,
+        "confidence": 0.0,
+        "method": "unknown"
+    }
+
 
 def batch_classify_pharmacies(
-    pharmacies: pd.DataFrame,
-    confidence_threshold: float = 0.8,
-    batch_size: int = 10,
+    pharmacies_data: List[Dict[str, Any]], 
+    use_llm: bool = True,
+    use_rules: bool = True,
     cache_dir: Optional[str] = None
-) -> pd.DataFrame:
-    """
-    Classify multiple pharmacies in batches with caching support.
-    
+) -> List[Dict[str, Any]]:
+    """Classifies a batch of pharmacies.
+
     Args:
-        pharmacies: DataFrame containing pharmacy data
-        confidence_threshold: Minimum confidence required for LLM classification
-        batch_size: Number of pharmacies to process in each batch
-        cache_dir: Optional directory for cache storage
-        
+        pharmacies_data: A list of pharmacy data dictionaries.
+        use_llm: Whether to use the LLM classifier.
+        use_rules: Whether to use the rule-based classifier.
+        cache_dir: Optional directory for cache storage.
+
     Returns:
-        DataFrame with added classification columns
+        A list of classification results.
     """
     results = []
-    
-    # Create a cache instance if a directory is provided
-    cache = None
-    if cache_dir:
-        cache = get_cache("pharmacy_classification", cache_dir=cache_dir)
-    
-    # Process pharmacies in batches
-    for i in range(0, len(pharmacies), batch_size):
-        batch = pharmacies.iloc[i:i + batch_size].to_dict('records')
-        
-        for pharmacy_data in batch:
-            # Classify the pharmacy
-            classification = classify_pharmacy(
-                pharmacy_data, 
-                confidence_threshold=confidence_threshold,
-                cache_dir=cache_dir
-            )
-            
-            # Add classification results to the row
-            row_dict = pharmacy_data.copy()
-            row_dict.update({
-                'is_chain': classification['is_chain'],
-                'confidence': classification.get('confidence', 0.0),
-                'classification_method': classification.get('method', 'unknown'),
-                'classification_reason': classification.get('reason', '')
-            })
-            results.append(row_dict)
-    
-    return pd.DataFrame(results)
+    for pharmacy_data in pharmacies_data:
+        result = classify_pharmacy(
+            pharmacy_data,
+            use_llm=use_llm,
+            use_rules=use_rules,
+            cache_dir=cache_dir
+        )
+        results.append(result)
+    return results
+
 
 # For backward compatibility
 classify = classify_pharmacy

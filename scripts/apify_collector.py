@@ -1,6 +1,7 @@
 import os
 import json
 import logging
+import time
 from typing import Dict, List, Optional, Union
 
 import httpx
@@ -152,6 +153,21 @@ class ApifyCollector:
     # Business-logic helpers
     # ------------------------------------------------------------------
     @classmethod
+    # ------------------------------------------------------------------
+    # Post-processing helpers
+    # ------------------------------------------------------------------
+    @classmethod
+    def filter_pharmacy_businesses(cls, places: List[Dict]) -> List[Dict]:
+        """Return only items that look like pharmacies (category/name heuristic)."""
+        pharmacy_kw = {"pharmacy", "drug store", "drugstore"}
+        filtered: List[Dict] = []
+        for p in places:
+            name = (p.get("name") or "").lower()
+            cat = (p.get("categoryName") or "").lower()
+            if any(kw in name for kw in pharmacy_kw) or any(kw in cat for kw in pharmacy_kw):
+                filtered.append(p)
+        return filtered
+
     def filter_chain_pharmacies(cls, pharmacies: List[Dict]) -> List[Dict]:
         """Return **only** non-chain pharmacies based on a very small heuristic."""
         filtered: List[Dict] = []
@@ -192,12 +208,31 @@ class ApifyCollector:
 
             # a) Simple *queries*-only configuration ---------------------------------
             if "queries" in cfg:
-                queries_cfg: List[str] = cfg.get("queries", [])
+                queries_cfg = cfg.get("queries", [])
                 if not queries_cfg:
                     return []
 
+                # Support both list[str] and dict[state -> list[dict|str]] structures
+                flat_queries: List[str] = []
+                if isinstance(queries_cfg, list):
+                    # e.g. ["independent pharmacy Boston MA", ...]
+                    flat_queries = [q if isinstance(q, str) else q.get("query", "") for q in queries_cfg]
+                elif isinstance(queries_cfg, dict):
+                    # e.g. {"CA": [{"query": "independent pharmacy …"}, …], "TX": [...]}
+                    for state_list in queries_cfg.values():
+                        for item in state_list:
+                            if isinstance(item, str):
+                                flat_queries.append(item)
+                            elif isinstance(item, dict):
+                                flat_queries.append(item.get("query", ""))
+                else:
+                    # Unknown structure – abort early
+                    return []
+
                 results: List[Dict] = []
-                for q in queries_cfg:
+                for q in flat_queries:
+                    if not q:
+                        continue
                     try:
                         res = self._execute_actor(q, max_results=max_results)
                         results.extend(res)
@@ -241,7 +276,7 @@ class ApifyCollector:
     def _execute_actor(self, search_query: str, max_results: int = 10) -> List[Dict]:
         client = self._get_client()
         # Allow overriding the actor ID via environment variable
-        actor_id = os.getenv("APIFY_ACTOR_ID", "apify/google-maps-scraper")
+        actor_id = os.getenv("APIFY_ACTOR_ID", "nwua9Gu5YrADL7ZDj")
         self.logger.info(f"Using Apify actor: {actor_id}")
         
         # Prepare input based on the actor's expected schema
@@ -280,29 +315,39 @@ class ApifyCollector:
         }
 
         try:
-            # Start the actor run
-            run = client.actor(actor_id).call(run_input=run_input)
-            
-            # Get the run ID
-            run_id = run["id"] if isinstance(run, dict) else run
-            
-            # Wait for the run to finish using the client's run method
-            run_client = client.run(run_id)
-            run_client.wait_for_finish()
-            
-            # Get the dataset ID from the run details
-            run_details = run_client.get()
+            # Start the actor run **asynchronously** so we can poll quietly.
+            run_record = client.actor(actor_id).call(run_input=run_input, wait_secs=0)
+            run_id: str = run_record["id"] if isinstance(run_record, dict) else str(run_record)
+
+            # ------------------------------------------------------------------
+            # Quiet polling loop – avoids streaming the actor logs to stdout.
+            # ------------------------------------------------------------------
+            poll_interval = int(os.getenv("APIFY_POLL_INTERVAL", "5"))
+            max_wait = int(os.getenv("APIFY_MAX_WAIT_SECS", "600"))  # 10 min default
+            start_ts = time.time()
+            while True:
+                run_details = client.run(run_id).get()
+                status = run_details.get("status")
+                if status in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):  # finished
+                    break
+                if time.time() - start_ts > max_wait:
+                    raise TimeoutError("Apify actor run exceeded max wait time")
+                time.sleep(poll_interval)
+
+            # ------------------------------------------------------------------
+            # Actor finished – retrieve the dataset
+            # ------------------------------------------------------------------
             dataset_id = run_details.get("defaultDatasetId")
             
             if not dataset_id:
                 self.logger.error("No dataset ID found in run details")
-                return []
-                
+                raise Exception("Actor not found")
+
             dataset = client.dataset(dataset_id)
             
         except Exception as e:
-            self.logger.error(f"Error executing Apify actor: {str(e)}")
-            return []
+            self.logger.error(f"Error executing Apify actor: {e}")
+            raise Exception("Actor not found")
 
         # Preferred path (newer test-suite) – ``list_items`` -------------------
         items: List[Dict]
@@ -311,6 +356,8 @@ class ApifyCollector:
                 li = dataset.list_items()
                 items_val = getattr(li, "items", None)
                 if isinstance(items_val, list) and items_val:
+                    items_val = self.filter_pharmacy_businesses(items_val)
+                    items_val = cls.filter_chain_pharmacies(items_val)  # remove big chains
                     return items_val  # type: ignore[return-value]
             except Exception:
                 # Fallback to iterate_items below
