@@ -1,0 +1,15 @@
+{
+  "states": ["CA", "TX"],
+  "cities_per_state": 2,
+  "max_results_per_query": 13,
+  "queries": {
+    "CA": [
+      {"query": "independent pharmacy Los Angeles CA", "city": "Los Angeles", "state": "CA"},
+      {"query": "independent pharmacy San Francisco CA", "city": "San Francisco", "state": "CA"}
+    ],
+    "TX": [
+      {"query": "independent pharmacy Austin TX", "city": "Austin", "state": "TX"},
+      {"query": "independent pharmacy Houston TX", "city": "Houston", "state": "TX"}
+    ]
+  }
+}
