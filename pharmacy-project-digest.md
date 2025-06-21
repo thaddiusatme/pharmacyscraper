@@ -12,7 +12,14 @@
 ## TDD Implementation Status
 
 ### ✅ Completed with TDD
-1. **Perplexity API Client**
+1. **Apify Collector**
+   - Enhanced test coverage with proper mocking
+   - Fixed actor.call() signature handling
+   - Improved test isolation and reliability
+   - Added support for structured location-based queries
+   - Fixed configuration format handling
+
+2. **Perplexity API Client**
    - Implemented with retry logic and rate limiting
    - Comprehensive test coverage for success/error cases
    - Mocked API responses for reliable testing
