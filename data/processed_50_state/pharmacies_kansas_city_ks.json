@@ -118,10 +118,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=occUjVROpsJ8R1KoMk5QCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=186.31456&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfb2j36",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -632,10 +632,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=giNS1TEr9WltnN-QKoX66g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.3829&pitch=0&thumbfov=100",
     "kgmid": "/g/11j3tx0qpp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -919,7 +919,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_UKK-CvuwIcR5brloUwEJXk",
     "categories": [
       "Pharmacy"
     ],
@@ -988,12 +988,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIcmVYftaO2qyRN1feW9Q3GvohBf7ekEXh9ck48mcy1E-lekURjo-WRVVR2yfxaJmGJepy1Xbaj4WOvSL4vL1yu20VGYXX_zKMSboSrC-MWUdasQOsPBOsGFQrf9AGyyfBI74Nqw=w408-h443-k-no",
     "kgmid": "/g/11bw7dfz8g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy, The University of Kansas Hospital",
@@ -1017,7 +1015,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0eNq3wzvwIcRqbI62E_A8IM",
     "categories": [
       "Pharmacy"
     ],
@@ -1094,12 +1092,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMnxYHT-WHWNwUhkyLlolA9aZaCExhr11hf8gtp=w408-h307-k-no",
     "kgmid": "/g/11gm835ynz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "KC CARE Health Center - Pharmacy",
@@ -1219,8 +1215,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx07TArsBwvTspjg1MGH7ZUWFcDk5l1HfnYPPA=w408-h272-k-no",
     "kgmid": "/g/11kjptcblf",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1342,7 +1338,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1624,7 +1620,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmeFpT53twIcR0R1I8CuB0ao",
     "categories": [
       "Pharmacy"
     ],
@@ -1739,10 +1735,8 @@
     "kgmid": "/g/11c466t_qr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Spalitto's Pharmacy",
@@ -1896,7 +1890,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvcF5_8eOwIcRd-vnV1SuTm4",
     "categories": [
       "Pharmacy"
     ],
@@ -1999,10 +1993,8 @@
     "kgmid": "/g/1tl_m762",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Ken's Sunflower Pharmacy",
@@ -2166,7 +2158,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDzRysTrvwIcR6-Low-qsYDY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2409,10 +2401,8 @@
     "kgmid": "/g/1tm8l2z2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CenterWell Pharmacy",

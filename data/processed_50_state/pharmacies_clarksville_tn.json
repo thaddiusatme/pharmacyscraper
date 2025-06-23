@@ -119,7 +119,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -263,7 +263,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -369,10 +369,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NPvTniBfviV8TZ20Dg9PwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.62137&pitch=0&thumbfov=100",
     "kgmid": "/g/11hy9nnx5q",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -645,7 +645,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -892,7 +892,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1000,7 +1000,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1246,8 +1246,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FfCWyDpTCXvJ44QCV15zNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.24542&pitch=0&thumbfov=100",
     "kgmid": "/g/1tmy5stp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1405,7 +1405,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1846,7 +1846,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMTVSVbfYZIgRq4WccZps6qs",
     "categories": [
       "Pharmacy"
     ],
@@ -1982,10 +1982,8 @@
     "kgmid": "/g/11cn95xy75",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -2138,7 +2136,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1YK5AA7ZZIgR3ytU1O9umig",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2300,10 +2298,8 @@
     "kgmid": "/g/1ydnwxxzb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Marcrom's Pharmacy",
@@ -2463,7 +2459,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq9Y8GrbeZIgRotPlkXtY_Dk",
     "categories": [
       "Pharmacy"
     ],
@@ -2599,9 +2595,7 @@
     "kgmid": "/g/11cn9629pt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

@@ -127,7 +127,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Long Term Pharmacy Solutions Inc",
@@ -236,7 +237,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Century Pharmacy",
@@ -366,7 +368,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Oneworld Health Mart Pharmacy",
@@ -389,7 +392,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9bnkwH-k44kRb5yUJ9jK2wE",
     "categories": [
       "Pharmacy"
     ],
@@ -471,12 +474,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nri47sPO3aLI5Xl4AgmRue0M7vvcFNw_EbA6tJ_lzETk6-xbw7FBW5NglApiloboxRXxF0PaqFRpzgZDPWd_irRMCmdT-4Y0ADu6EMv9xDoHvwntpp9zao1tzkmgP2Wkphrkiah=w408-h544-k-no",
     "kgmid": "/g/1260ft4n6",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "K Pharmacy",
@@ -587,7 +588,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "CVS Pharmacy",
@@ -611,7 +613,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo2k50pik44kRxqLjUcFEuYI",
     "categories": [
       "Pharmacy"
     ],
@@ -735,10 +737,8 @@
     "kgmid": "/g/11c47588df",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "True Care Pharmacy",
@@ -862,9 +862,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Circle Health Pharmacy",
@@ -888,7 +889,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ13ddU_Ok44kR2zbW6sCKDGQ",
     "categories": [
       "Pharmacy"
     ],
@@ -960,12 +961,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNu71fyyuNFFAgQexu7QtflIB2hMcWaeLr41ufB=w408-h408-k-no",
     "kgmid": "/g/11bv2f_vzv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -990,7 +989,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR93HbTal44kR-wbpEBNyQ34",
     "categories": [
       "Pharmacy"
     ],
@@ -1071,10 +1070,8 @@
     "kgmid": "/g/11gsbbdch7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1098,7 +1095,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfbPqEHak44kR5Y61qJgZnGY",
     "categories": [
       "Pharmacy"
     ],
@@ -1204,10 +1201,8 @@
     "kgmid": "/g/1hf2nnkrs",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1231,7 +1226,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhwFpDzqk44kR0x3aY3TC6_8",
     "categories": [
       "Pharmacy"
     ],
@@ -1349,10 +1344,8 @@
     "kgmid": "/g/11c468sspv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1377,7 +1370,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMfoTkHek44kR4JukbTBTyl4",
     "categories": [
       "Pharmacy"
     ],
@@ -1510,10 +1503,8 @@
     "kgmid": "/g/11cn946nxw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1537,7 +1528,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVVV_Imj44kR3PLZkbvALsA",
     "categories": [
       "Drug store"
     ],
@@ -1626,10 +1617,8 @@
     "kgmid": "/g/11p56tnwlz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lowell Pharmacy",
@@ -1765,7 +1754,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Health Care Family Pharmacy LLC",
@@ -1789,7 +1779,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRywZDNyl44kRjctc4_UDdu4",
     "categories": [
       "Pharmacy"
     ],
@@ -1869,12 +1859,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQ7xCb9Sfi-2R56TJSO37oFRJkNzsaJyb0nae2iOeVyRfnOWsb8nbXxpJnB1kpuGjHybz55Ow8c8y06bap5anC6SoeS4G_AOcVWOXBPEeKDoRIMkX9gE9s2ahKf0uh-tB14Ao2bw=w426-h240-k-no",
     "kgmid": "/g/11dzn8c8d5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lowell's Pharmacy",
@@ -1995,7 +1983,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Medicine Store Pharmacy",
@@ -2112,9 +2101,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "Remedium Pharmacy",
@@ -2249,7 +2239,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   },
   {
     "title": "ACTON PHARMACY",
@@ -2388,6 +2379,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lowell_ma"
   }
 ]

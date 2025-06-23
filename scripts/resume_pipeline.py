@@ -9,6 +9,13 @@ import argparse
 from pathlib import Path
 from typing import Dict, List, Set
 import pandas as pd
+import sys
+import logging
+
+# Add parent directory to path for imports
+sys.path.append(str(Path(__file__).parent.parent))
+
+from src.utils.logger import get_file_logger
 
 def load_config(config_path: str) -> Dict:
     """Load configuration file"""
@@ -53,8 +60,11 @@ def get_remaining_queries(config_path: str, existing_data: Dict[str, List[str]])
     
     return remaining_queries
 
-def create_resume_config(original_config_path: str, remaining_queries: List[Dict], output_path: str):
+def create_resume_config(original_config_path: str, remaining_queries: List[Dict], output_path: str, logger=None):
     """Create a new config file with only the remaining queries"""
+    if not logger:
+        logger = logging.getLogger(__name__)
+
     original_config = load_config(original_config_path)
     
     resume_config = original_config.copy()
@@ -64,13 +74,20 @@ def create_resume_config(original_config_path: str, remaining_queries: List[Dict
     with open(output_path, 'w') as f:
         json.dump(resume_config, f, indent=2)
     
-    print(f"Created resume config with {len(remaining_queries)} queries: {output_path}")
+    logger.info(f"Created resume config with {len(remaining_queries)} queries: {output_path}")
 
-def run_classification_on_existing_data(data_dir: str = "data"):
+def run_classification_on_existing_data(data_dir: str = "data", logger=None):
     """Run classification on any unclassified data found in data directories"""
-    from run_pipeline import run_pipeline
-    
-    print("Scanning for unclassified data...")
+    if not logger:
+        logger = logging.getLogger(__name__)
+
+    try:
+        from run_pipeline import run_pipeline
+    except ImportError:
+        logger.error("Could not import 'run_pipeline'. Make sure that script exists and is in the python path.")
+        return
+
+    logger.info("Scanning for unclassified data...")
     data_path = Path(data_dir)
     
     # Look for JSON files that haven't been classified
@@ -88,20 +105,21 @@ def run_classification_on_existing_data(data_dir: str = "data"):
                             sample_pharmacy = data[0]
                             if isinstance(sample_pharmacy, dict) and 'classification' not in sample_pharmacy:
                                 unclassified_files.append(str(file_path))
-                except:
+                except Exception as e:
+                    logger.warning(f"Could not read or parse {file_path}: {e}")
                     continue
     
     if unclassified_files:
-        print(f"Found {len(unclassified_files)} files with unclassified data")
-        print("Running classification on existing data...")
+        logger.info(f"Found {len(unclassified_files)} files with unclassified data")
+        logger.info("Running classification on existing data...")
         
         # For each unclassified file, run classification
         for file_path in unclassified_files:
-            print(f"Classifying: {file_path}")
+            logger.info(f"Classifying: {file_path}")
             # Here you would call your classification logic
             # This is a placeholder - you'd need to adapt based on your exact pipeline structure
     else:
-        print("No unclassified data found")
+        logger.info("No unclassified data found")
 
 def main():
     parser = argparse.ArgumentParser(description="Resume or restart pipeline run")
@@ -112,19 +130,20 @@ def main():
     parser.add_argument("--chunk-size", type=int, help="Split remaining queries into chunks of this size")
     
     args = parser.parse_args()
+    logger = get_file_logger('resume_pipeline')
     
     if args.classify_existing:
-        run_classification_on_existing_data(args.data_dir)
+        run_classification_on_existing_data(args.data_dir, logger=logger)
     
     # Find existing data
     existing_data = find_existing_data(args.data_dir)
-    print(f"Found existing data for {len(existing_data)} states:")
+    logger.info(f"Found existing data for {len(existing_data)} states:")
     for state, cities in existing_data.items():
-        print(f"  {state}: {len(cities)} cities")
+        logger.info(f"  {state}: {len(cities)} cities")
     
     # Get remaining queries
     remaining_queries = get_remaining_queries(args.config, existing_data)
-    print(f"\nRemaining queries to run: {len(remaining_queries)}")
+    logger.info(f"\nRemaining queries to run: {len(remaining_queries)}")
     
     if args.create_resume_config and remaining_queries:
         if args.chunk_size and len(remaining_queries) > args.chunk_size:
@@ -132,12 +151,12 @@ def main():
             for i in range(0, len(remaining_queries), args.chunk_size):
                 chunk = remaining_queries[i:i + args.chunk_size]
                 chunk_config_path = args.create_resume_config.replace('.json', f'_chunk_{i//args.chunk_size + 1}.json')
-                create_resume_config(args.config, chunk, chunk_config_path)
+                create_resume_config(args.config, chunk, chunk_config_path, logger=logger)
         else:
-            create_resume_config(args.config, remaining_queries, args.create_resume_config)
+            create_resume_config(args.config, remaining_queries, args.create_resume_config, logger=logger)
     
     if not remaining_queries:
-        print("✅ All queries have been completed!")
+        logger.info("✅ All queries have been completed!")
 
 if __name__ == "__main__":
     main()

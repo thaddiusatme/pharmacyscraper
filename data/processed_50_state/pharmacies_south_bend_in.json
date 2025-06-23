@@ -216,7 +216,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDS5gWRXNFogRF75P6Ycr29Q",
     "categories": [
       "Pharmacy"
     ],
@@ -285,12 +285,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nEz8PnOn4PraeAE8r3KCSw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.78568&pitch=0&thumbfov=100",
     "kgmid": "/g/11b7rnf5bt",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "University Commons Pharmacy",
@@ -458,7 +456,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw5iUGpjMFogR0lzE-tfPszw",
     "categories": [
       "Drug store"
     ],
@@ -551,10 +549,8 @@
     "kgmid": "/g/11y3p9c6f3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -580,7 +576,7 @@
     "totalScore": 1.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJE7NRfYjMFogRmHO69rHDV38",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -796,10 +792,8 @@
     "kgmid": "/g/1tsykt0_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "HEALTHY U RX INC",
@@ -949,7 +943,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw6yWGpjMFogR-JnmO-hPjhI",
     "categories": [
       "Pharmacy"
     ],
@@ -1121,10 +1115,8 @@
     "kgmid": "/g/11cn93hgwx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Martin's Super Market Pharmacy",
@@ -1231,7 +1223,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1257,7 +1249,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNczypUPNFogRt7fMWmZ-L3c",
     "categories": [
       "Pharmacy"
     ],
@@ -1331,12 +1323,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5gog_ALdchA7rQ3F3JPbQhF1rDH2lDoItOzSm=w408-h408-k-no",
     "kgmid": "/g/11qh5h6c5g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Beacon Home Care Pharmacy",
@@ -1429,10 +1419,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNibVoVeOgHgx_ERQuKy8u9Xu7j9vPwmIvZe6Q=w408-h306-k-no",
     "kgmid": "/g/1td2hj5f",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1460,7 +1450,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV4_T7NHSFogRB_nmHDBgonY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1671,10 +1661,8 @@
     "kgmid": "/g/1tjbssbg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1698,7 +1686,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK_x2wGLMFogRoBftafaHhmo",
     "categories": [
       "Pharmacy"
     ],
@@ -1816,10 +1804,8 @@
     "kgmid": "/g/11c463h4rg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "South Bend Pharmacy",
@@ -1973,7 +1959,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyR4O_o_MFogRJgz0GSVtIvA",
     "categories": [
       "Pharmacy"
     ],
@@ -2084,10 +2070,8 @@
     "kgmid": "/g/1thzphsf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2113,7 +2097,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC4rm-9PNFogRQKBOoqTLhxc",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2329,10 +2313,8 @@
     "kgmid": "/g/1tt8cwl2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Kroger Pharmacy",
@@ -2356,7 +2338,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt34iWJfMFogR6SvCi64vgrg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2518,9 +2500,7 @@
     "kgmid": "/g/1tkf1l9r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

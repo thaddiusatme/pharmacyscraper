@@ -194,7 +194,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "Prescription Compounding Specialists of RI",
@@ -303,9 +304,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "Prescription Pharmacy Services",
@@ -407,7 +409,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -431,7 +434,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf5pl8hFP5IkRTt_1zkYbX4M",
     "categories": [
       "Pharmacy"
     ],
@@ -552,10 +555,8 @@
     "kgmid": "/g/11c462lyvt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -579,7 +580,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV_hP6m9P5IkRY-JwkVrWEgY",
     "categories": [
       "Pharmacy"
     ],
@@ -663,10 +664,8 @@
     "kgmid": "/g/11gbkvc56d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Asthenis Pharmacy",
@@ -821,9 +820,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "Suburban Pharmacy",
@@ -951,7 +951,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -975,7 +976,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtW_dP8NP5IkRAQuVs6wm81U",
     "categories": [
       "Pharmacy"
     ],
@@ -1070,10 +1071,8 @@
     "kgmid": "/g/11h2fkmpnm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Anthony's Pharmacy Atwood LLC",
@@ -1218,7 +1217,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -1242,7 +1242,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJd0qKIVVJ5IkRRUUr4ZbLoWM",
     "categories": [
       "Pharmacy"
     ],
@@ -1357,10 +1357,8 @@
     "kgmid": "/g/11c461w0br",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "JB Pharmacy & Compounding",
@@ -1488,7 +1486,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -1512,7 +1511,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWdz9F8JP5IkRJzoJewTiri4",
     "categories": [
       "Pharmacy"
     ],
@@ -1624,10 +1623,8 @@
     "kgmid": "/g/11f1p9b9xq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1651,7 +1648,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ96yFVOpO5IkRCn2IEVYLBzI",
     "categories": [
       "Pharmacy"
     ],
@@ -1769,10 +1766,8 @@
     "kgmid": "/g/11c4688508",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1797,7 +1792,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsbmikcFP5IkRdDw4Y1lifak",
     "categories": [
       "Pharmacy"
     ],
@@ -1927,10 +1922,8 @@
     "kgmid": "/g/11cn96b2s6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1954,7 +1947,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0TJSqvhL5IkR4l2z7nyTHxM",
     "categories": [
       "Pharmacy"
     ],
@@ -2025,10 +2018,8 @@
     "kgmid": "/g/11bbrrbt3h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Option Care Health",
@@ -2052,7 +2043,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2QqodetO5IkRxbQ7yQLRR-U",
     "categories": [
       "Pharmacy"
     ],
@@ -2121,12 +2112,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zo4F08J4hjFpHFZjq7gYbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.68888&pitch=0&thumbfov=100",
     "kgmid": "/g/11f_0vm2z3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "PharMerica - Warwick, RI",
@@ -2217,9 +2206,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "AJpharmacyII & RI Wellness Medical Center",
@@ -2243,7 +2233,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9R-tOiVF5IkR9AsMk0sCvEw",
     "categories": [
       "Pharmacy"
     ],
@@ -2330,12 +2320,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpdLmJWCfbgtnlXGxMc3SlAqhGK6w7XI1y_on4=w414-h240-k-no",
     "kgmid": "/g/11t7m5476j",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prime Drug Inc",
@@ -2451,7 +2439,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   },
   {
     "title": "AJ Pharmacy/Compounding",
@@ -2594,6 +2583,7 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cranston_ri"
   }
 ]

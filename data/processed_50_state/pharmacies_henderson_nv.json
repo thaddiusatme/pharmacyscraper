@@ -119,7 +119,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Vitality Pharmacy",
@@ -238,7 +239,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Henderson Pharmacy",
@@ -358,7 +360,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Evergreen Drugs",
@@ -481,7 +484,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "CVS Pharmacy",
@@ -505,7 +509,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYRYgDQbOyIARb4kyRhqZGBg",
     "categories": [
       "Pharmacy"
     ],
@@ -626,10 +630,8 @@
     "kgmid": "/g/11c461rrym",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Direct Compounding Pharmacy",
@@ -729,7 +731,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Trusted Care Pharmacy",
@@ -826,7 +829,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Drug Plus Pharmacy",
@@ -954,7 +958,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Las Vegas Scripts Rx",
@@ -1080,9 +1085,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "PRECISION SPECIALTY RX",
@@ -1184,10 +1190,11 @@
     "kgmid": "/g/11wjll9mds",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1211,7 +1218,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXzjyD9vRyIARP3M8oc_iT_g",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1333,10 +1340,8 @@
     "kgmid": "/g/1yfh_j190",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1360,7 +1365,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNyF2C83XyIAR6LNV2aQfpoU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1517,10 +1522,8 @@
     "kgmid": "/g/11t4k0c0kz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1544,7 +1547,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJr7ZJB_nRyIARLHS4IL-9yxw",
     "categories": [
       "Pharmacy"
     ],
@@ -1650,10 +1653,8 @@
     "kgmid": "/g/1td4dv6x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Abacus Rx Pharmacy",
@@ -1756,7 +1757,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1780,7 +1782,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWT_CVxLQyIAR5vOlImMfFkw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1907,10 +1909,8 @@
     "kgmid": "/g/1yfjcl_lj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1934,7 +1934,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgazYep3WyIARdWczPFQWI7g",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2061,10 +2061,8 @@
     "kgmid": "/g/1yfjgd18d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -2088,7 +2086,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQ7QF9wbOyIARpGYwfE1Y6pU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2210,10 +2208,8 @@
     "kgmid": "/g/1yfjv68qv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -2237,7 +2233,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJe6s_-73RyIAR0mlGimYRYBQ",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2399,10 +2395,8 @@
     "kgmid": "/g/1tkc2c_7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "A Pharmacy",
@@ -2470,7 +2464,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "henderson_nv"
   },
   {
     "title": "CVS Pharmacy",
@@ -2494,7 +2489,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJeafyc7zRyIARWVD3MBPvQs0",
     "categories": [
       "Pharmacy"
     ],
@@ -2615,9 +2610,7 @@
     "kgmid": "/g/11c461ngt4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

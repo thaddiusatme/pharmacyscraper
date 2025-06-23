@@ -632,7 +632,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -743,10 +743,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GMQBPn24nGI7gJWalbj4ZA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.74243&pitch=0&thumbfov=100",
     "kgmid": "/g/12611m7nj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -772,7 +772,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJezbG-32StocRSGh38We5Ot0",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -880,12 +880,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZpb2pGb5EWWyDN8gZIDHigY6851b44DxtiMP-MpqN9nM4o2DZ-j5qH_tK6LtStFwc0kvSHaiTLk3sPM8Nf9vZVjg66qQINB5S65jmDAiIZmqGsESrFMTiCFm7JJEEvQqsBYY-=w408-h544-k-no",
     "kgmid": "/g/12q4x0vz2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Todd E. Pendergraft, DPH",
@@ -1025,7 +1023,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1051,7 +1049,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJn7dkKauOtocRt1eD92aP2_s",
     "categories": [
       "Pharmacy"
     ],
@@ -1169,10 +1167,8 @@
     "kgmid": "/g/11c45_tc7c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1196,7 +1192,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJL6aEya6LtocRhqdyyDzF-H0",
     "categories": [
       "Pharmacy"
     ],
@@ -1314,10 +1310,8 @@
     "kgmid": "/g/11c462qbk6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1342,7 +1336,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLQcGqreLtocRnO0XmL74W9w",
     "categories": [
       "Pharmacy"
     ],
@@ -1472,10 +1466,8 @@
     "kgmid": "/g/11cn93pl49",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1499,7 +1491,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj9opqt6ItocRAHCPFN-leNE",
     "categories": [
       "Pharmacy"
     ],
@@ -1617,10 +1609,8 @@
     "kgmid": "/g/11c45_tc7m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1645,7 +1635,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR1g-USOJtocR6yOU_ZePlPc",
     "categories": [
       "Pharmacy"
     ],
@@ -1775,10 +1765,8 @@
     "kgmid": "/g/11cn96d22r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1803,7 +1791,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjSo4zLOLtocRFKWDIq7UnqY",
     "categories": [
       "Pharmacy"
     ],
@@ -1909,10 +1897,8 @@
     "kgmid": "/g/1tlw9lbp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1937,7 +1923,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj0lUT0mMtocRIqnJc0pluiM",
     "categories": [
       "Pharmacy"
     ],
@@ -2064,10 +2050,8 @@
     "kgmid": "/g/11cn95jr67",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "NextGenRx",
@@ -2193,7 +2177,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2348,7 +2332,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhRxsqYKMtocRdK-x30_dbVQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2478,10 +2462,8 @@
     "kgmid": "/g/11cn94j4yz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -2507,7 +2489,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhelsqreLtocR7lyqMN0Vy_k",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2715,9 +2697,7 @@
     "kgmid": "/g/1tv3p5tj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

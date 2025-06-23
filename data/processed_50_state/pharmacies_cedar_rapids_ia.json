@@ -88,7 +88,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -492,7 +492,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -661,7 +661,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBRZe7HL35IcRB02Q3OhiyXI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -842,10 +842,8 @@
     "kgmid": "/g/1tv3p70l",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UnityPoint Health - Cedar Rapids St. Luke's Pharmacy",
@@ -938,10 +936,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPU8XTEwgYPyJ-0IaV-G3uMJi7KwNCevXyMbwBb=w408-h408-k-no",
     "kgmid": "/g/11hfccsrtc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -968,7 +966,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBeEZXfL65IcRHDutM5cIueI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1090,10 +1088,8 @@
     "kgmid": "/g/1tdml0nl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1117,7 +1113,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhf0IqpP55IcRRay8GSlxt-c",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1236,10 +1232,8 @@
     "kgmid": "/g/11b674h3xs",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lil' Drug Store Products",
@@ -1359,7 +1353,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJke6s7Wr55IcRzMD5lociWnU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1505,10 +1499,8 @@
     "kgmid": "/g/1tfyf3hh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tawnya R. Gardener, RPH",
@@ -1634,7 +1626,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVXfFcwr55IcRikzPK2GoOs8",
     "categories": [
       "Pharmacy"
     ],
@@ -1764,10 +1756,8 @@
     "kgmid": "/g/11g8cnr75s",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1791,7 +1781,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj7r0Tgr55IcRQtW2XGzFHXs",
     "categories": [
       "Pharmacy"
     ],
@@ -1903,10 +1893,8 @@
     "kgmid": "/g/11c46b9lxk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Aim Healthcare",
@@ -2043,7 +2031,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk_70oP_45IcRg2X4X32PxZs",
     "categories": [
       "Pharmacy"
     ],
@@ -2154,10 +2142,8 @@
     "kgmid": "/g/1tdblk2t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Blairs Ferry Family Pharmacy",
@@ -2422,7 +2408,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7WgVnXL35IcRcKYctzbAH0s",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2544,9 +2530,7 @@
     "kgmid": "/g/11btxjqp86",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

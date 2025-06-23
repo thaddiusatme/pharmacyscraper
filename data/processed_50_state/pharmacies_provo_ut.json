@@ -111,7 +111,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Edgemont Pharmacy",
@@ -242,7 +243,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Revere Health Pharmacy",
@@ -266,7 +268,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX-x66wmaTYcRJn4TQaHpTz8",
     "categories": [
       "Pharmacy"
     ],
@@ -363,12 +365,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOpoEiKE7L5qKn14NzoAOQe0wdRbGAx1IntwgOt=w408-h272-k-no",
     "kgmid": "/g/12641fnct",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "B & H Pharmacy",
@@ -499,7 +499,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Fresh Market Provo Pharmacy",
@@ -643,9 +644,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Rock Canyon Pharmacy",
@@ -763,7 +765,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Oak Hills Pharmacy at BYU",
@@ -874,12 +877,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrd0P8iPej07M8PQ2h53feRrC7Dt3ePdMQW0N0Ygozpe2-UdS0V7Kvj4wcoyQbMcZMV1zwIbunOY9LEEoLUPxl7oiYR92dNPQjoWTjuOXerOVSbJ0mY20B1dk9SK-cgJOVFOKwSFg=w408-h544-k-no",
     "kgmid": "/g/11h12l3ck_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Mountainlands Family Pharmacy",
@@ -977,12 +981,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mn9uLrFC9mZDzu6VjPBquA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.611324&pitch=0&thumbfov=100",
     "kgmid": "/g/11bw2_cqft",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1006,7 +1011,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9yW4pKuQTYcR3GDHn4IW9dE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1125,10 +1130,8 @@
     "kgmid": "/g/1yfjk2dms",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1153,7 +1156,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJ-F9S2KbTYcR-27WaCCrDNA",
     "categories": [
       "Pharmacy"
     ],
@@ -1286,10 +1289,8 @@
     "kgmid": "/g/11vdm0y7_x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Orem Family Pharmacy",
@@ -1429,7 +1430,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "CVS Pharmacy",
@@ -1453,7 +1455,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4w3B6KOQTYcRMlubdnuHQIc",
     "categories": [
       "Pharmacy"
     ],
@@ -1577,10 +1579,8 @@
     "kgmid": "/g/11c460_9fg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Intermountain Provo Pharmacy",
@@ -1628,12 +1628,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NBmQA66jfp6eyXKPKIuOoA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.602745&pitch=0&thumbfov=100",
     "kgmid": "/g/11rfwjqfrv",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "CVS Pharmacy",
@@ -1658,7 +1659,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJO3bVbASXTYcR6WsOfyHpvgU",
     "categories": [
       "Pharmacy"
     ],
@@ -1756,10 +1757,8 @@
     "kgmid": "/g/11y412r76h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1785,7 +1784,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwRqe4wqaTYcRweaJAccvVRw",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2002,10 +2001,8 @@
     "kgmid": "/g/1tjg_vkc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Salmon Pharmacy",
@@ -2199,7 +2196,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   },
   {
     "title": "Taylor Drug",
@@ -2333,6 +2331,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "provo_ut"
   }
 ]

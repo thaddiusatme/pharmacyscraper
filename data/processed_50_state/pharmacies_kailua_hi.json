@@ -130,7 +130,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Malama Compounding Pharmacy",
@@ -255,7 +256,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Longs Drugs",
@@ -463,7 +465,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Kaiser Permanente Pharmacy",
@@ -487,7 +490,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVUlIsMUAHwR5cRW6FLi5Ns",
     "categories": [
       "Pharmacy"
     ],
@@ -556,12 +559,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MXgcWEqzpU-z9AMLQbe1BA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.57535&pitch=0&thumbfov=100",
     "kgmid": "/g/11f4xqx1lw",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -586,7 +587,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDQyWwsIUAHwRlHXTzB8ppSU",
     "categories": [
       "Pharmacy"
     ],
@@ -687,10 +688,8 @@
     "kgmid": "/g/11b77l589n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -715,7 +714,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVWlj9sUAHwR9ofNZX1P32c",
     "categories": [
       "Pharmacy"
     ],
@@ -831,10 +830,8 @@
     "kgmid": "/g/11r8yfpdzj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -858,7 +855,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJm6pzw8IUAHwRo9YMETHOq7I",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -964,10 +961,8 @@
     "kgmid": "/g/1tf9t0y_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Longs Drugs Pharmacy",
@@ -1091,7 +1086,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "KTA Keauhou Pharmacy",
@@ -1200,7 +1196,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Walgreens",
@@ -1226,7 +1223,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb38zj9sUAHwRUeh0DHUAU6Y",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1440,10 +1437,8 @@
     "kgmid": "/g/1tgk0vqd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -1467,7 +1462,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJM2KKTvAOVHkRyXc-UvwQkzg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1581,10 +1576,8 @@
     "kgmid": "/g/1ptz344zk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Waimanalo Pharmacy",
@@ -1701,7 +1694,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Atkins Family Pharmacy",
@@ -1871,7 +1865,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Longs Drugs Pharmacy",
@@ -1999,7 +1994,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "Longs Drugs Pharmacy",
@@ -2127,7 +2123,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "KAISER KONA PHARMACY",
@@ -2151,7 +2148,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJad8N6_wOVHkRYqqwWqqx1Uw",
     "categories": [
       "Pharmacy"
     ],
@@ -2229,12 +2226,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqHd31mDkKhG4tiaaeOZaKC24CCqeGYFVipCahgc7_RKYU042dH_6KL8MsI1J2oetUOI5w9t5BKE6xGARUVTAXeEkcm0CPx1oai92itz3XomPEMHgOb0Ie-C_NobwNAMlesOzlY_g=w408-h306-k-no",
     "kgmid": "/g/11bzzx5d5v",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Times Liliha Pharmacy",
@@ -2346,7 +2341,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   },
   {
     "title": "The Honolulu Pharmacy",
@@ -2455,6 +2451,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kailua_hi"
   }
 ]

@@ -112,9 +112,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Gary Drug Co.",
@@ -241,7 +242,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Galaxy Pharmacy",
@@ -358,9 +360,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "CVS Pharmacy",
@@ -384,7 +387,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-fBwzYhw44kRejiewsNr3n8",
     "categories": [
       "Pharmacy"
     ],
@@ -496,10 +499,8 @@
     "kgmid": "/g/11c4690hs3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bravo Pharmacy",
@@ -626,9 +627,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "BRIGHTON PHARMACY",
@@ -743,7 +745,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Tai Tung Pharmacy Inc, now known as SCCHC Pharmacy",
@@ -857,12 +860,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F3wwgSQUzpvqtPvWQA5MAw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=87.63824&pitch=0&thumbfov=100",
     "kgmid": "/g/1tjjqct7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Capsule",
@@ -1012,7 +1016,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Union pharmacy",
@@ -1132,9 +1137,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Melvin Pharmacy",
@@ -1266,7 +1272,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Skenderian Apothecary",
@@ -1394,7 +1401,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   },
   {
     "title": "Pharmacy Services at Boston Medical Center \u2013 Brighton",
@@ -1418,7 +1426,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrWXleDV444kRgUlk3WEgNek",
     "categories": [
       "Pharmacy"
     ],
@@ -1528,12 +1536,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsXPzg1WFEyrwg1YFNM4frp_ClmBciSXN8oDCW=w408-h285-k-no",
     "kgmid": "/g/1tj6vv6g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Shapiro Pharmacy at Boston Medical Center",
@@ -1557,7 +1563,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWaewF0B644kR7Ml1DOJJF6Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1642,12 +1648,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMSaNQ0SfnYLAcAGqtQwaoXCB6RMPesXcdgK9g=w426-h240-k-no",
     "kgmid": "/g/11ckbzfy_y",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1671,7 +1675,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH6CpIQZx44kRFwlKSh1562E",
     "categories": [
       "Pharmacy"
     ],
@@ -1727,10 +1731,8 @@
     "kgmid": "/g/11vqhqgm5n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1754,7 +1756,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvQ6aMQ1644kRW5Ez-4l3GyI",
     "categories": [
       "Pharmacy"
     ],
@@ -1866,10 +1868,8 @@
     "kgmid": "/g/11c461w05h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Yawkey Pharmacy at Boston Medical Center",
@@ -1893,7 +1893,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJielsjj9644kR3Bxio0m4Itw",
     "categories": [
       "Pharmacy"
     ],
@@ -1978,12 +1978,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMljewkh3hiKe5vvmXlfBq9XUl3P4dsqhdvHkjv=w408-h272-k-no",
     "kgmid": "/g/11c5r4r460",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2007,7 +2005,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_Sc6DzB_44kRGzqfmBI3EE8",
     "categories": [
       "Pharmacy"
     ],
@@ -2125,10 +2123,8 @@
     "kgmid": "/g/11c466ym3l",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Star Market Pharmacy",
@@ -2152,7 +2148,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI2B5hb9x44kR-owywV9uX0I",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2278,10 +2274,8 @@
     "kgmid": "/g/11fn4ycb6h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2305,7 +2299,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG9prG81744kRj7YR2GS_Rtc",
     "categories": [
       "Pharmacy"
     ],
@@ -2409,10 +2403,8 @@
     "kgmid": "/g/11p73rdw9f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Kornfield Drug",
@@ -2526,6 +2518,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boston_ma"
   }
 ]

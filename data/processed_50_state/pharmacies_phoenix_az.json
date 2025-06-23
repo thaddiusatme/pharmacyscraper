@@ -136,8 +136,8 @@
     "kgmid": "/g/11b620cmrh",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -273,7 +273,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -414,8 +414,8 @@
     "kgmid": "/g/11cmn7jmmw",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -544,7 +544,7 @@
     "kgmid": "/g/11jv4mxvmc",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1056,7 +1056,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg7WairYLK4cRLhdcS7fkDIQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1152,12 +1152,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-fB9_x2GvbxAtREJf3MxQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.63925&pitch=0&thumbfov=100",
     "kgmid": "/g/11q3r5988s",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Neighborhood LTC Pharmacy",
@@ -1267,7 +1265,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

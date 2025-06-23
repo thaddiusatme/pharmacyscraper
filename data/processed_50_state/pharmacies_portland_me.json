@@ -128,7 +128,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Fairley's Pharmacy Inc",
@@ -261,7 +262,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "LECARE Pharmacy",
@@ -381,7 +383,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Pharmacy.com",
@@ -516,9 +519,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "CVS Pharmacy Specialty Services",
@@ -542,7 +546,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJT58HfXKcskwR-zFRLF1r5Ik",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -630,10 +634,8 @@
     "kgmid": "/g/1tc_kr68",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Avita Pharmacy 1027",
@@ -751,9 +753,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -778,7 +781,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2YTmN92mlVQRdPz54f0y1Q0",
     "categories": [
       "Pharmacy"
     ],
@@ -905,10 +908,8 @@
     "kgmid": "/g/11cn95rkq2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "NewEra Pharmacy",
@@ -1032,9 +1033,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Bowman's Hillsdale Pharmacy",
@@ -1165,7 +1167,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Gateway Medical Pharmacy | Long Term Care and Compounding Pharmacy",
@@ -1315,7 +1318,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "division pharmacy inc",
@@ -1423,7 +1427,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Coastal Pharmacy & Wellness",
@@ -1596,7 +1601,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Rite Aid",
@@ -1621,7 +1627,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHVqOJTcJlVQRXTuBly2pt58",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1764,10 +1770,8 @@
     "kgmid": "/g/1tp_62pc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy Specialty Services",
@@ -1791,7 +1795,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgeZXxgUKlVQRmw1NrD9qDlw",
     "categories": [
       "Pharmacy",
       "Beauty products vending machine",
@@ -1874,10 +1878,8 @@
     "kgmid": "/g/1tcyrjy0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1901,7 +1903,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1ZqlncmdskwRMlNrh-KP79I",
     "categories": [
       "Pharmacy"
     ],
@@ -1972,10 +1974,8 @@
     "kgmid": "/g/11rc75vhtf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -1999,7 +1999,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLxY3dXGhlVQR8vNIsZsVszg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2126,10 +2126,8 @@
     "kgmid": "/g/11bbrl_2kb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy at Coastal Pharmacy & Wellness",
@@ -2294,7 +2292,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "Portland Pharmacy",
@@ -2470,9 +2469,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   },
   {
     "title": "PharMerica - Portland, ME",
@@ -2565,11 +2565,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMTY7E90j0MsCooUsFiHtV0d0722mUIlErTl8ya=w408-h408-k-no",
     "kgmid": "/g/11f3m3q54_",
-    "classification": "not_a_pharmacy",
+    "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "portland_me"
   }
 ]

@@ -100,7 +100,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Home IV Pharmacy",
@@ -159,7 +160,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -184,7 +186,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfU3wLHAIW1MRLOy8JAhbxlg",
     "categories": [
       "Pharmacy"
     ],
@@ -317,10 +319,8 @@
     "kgmid": "/g/11cn951vjc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -344,7 +344,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0eeQrUUIW1MRtLdHhx-hk0w",
     "categories": [
       "Pharmacy"
     ],
@@ -465,10 +465,8 @@
     "kgmid": "/g/11c4615fq7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -492,7 +490,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7e4p9W8IW1MRLazfFGrb_W8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -598,10 +596,8 @@
     "kgmid": "/g/126433b2m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mining City Compounding",
@@ -651,9 +647,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.93,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "CVS",
@@ -679,7 +676,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJywqfcUUIW1MR1SLTnOSSCns",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -859,10 +856,8 @@
     "kgmid": "/g/1tf6547p",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -888,7 +883,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuRLNK3AIW1MRNXWncWRuo-Q",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1099,10 +1094,8 @@
     "kgmid": "/g/1hc0t7849",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pintler Pharmacy",
@@ -1247,7 +1240,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Option Care Health",
@@ -1271,7 +1265,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlyz-OqgJW1MRiq6dyGPCt8A",
     "categories": [
       "Pharmacy"
     ],
@@ -1343,12 +1337,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cbJhFRCR7cg91Yoe71_YuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.33145&pitch=0&thumbfov=100",
     "kgmid": "/g/11j3bf9d9x",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Clark's Market & Pharmacy Crested Butte",
@@ -1488,7 +1480,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Seiden Drug Co. Inc.",
@@ -1597,9 +1590,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -1739,7 +1733,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Sykes Pharmacy Columbia Falls",
@@ -1872,7 +1867,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Sykes Pharmacy",
@@ -2018,7 +2014,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   },
   {
     "title": "Missoula Pharmacy, INC.",
@@ -2155,6 +2152,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "butte_mt"
   }
 ]

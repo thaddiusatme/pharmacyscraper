@@ -21,7 +21,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaY2Q8U5FMlERQDlsZQU48co",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -136,12 +136,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrpqM7B2gXnBFK6GBt2QeCZ5bJEZJuklw4kFfrLHxOIv5bZdnHsZou_Ddf6cL_UkIhzP7q6jq-aWCJ2XZxbJKApcb5df_DdOIuWoX5x-ALWYRM_bHWxHE0NUWymOun6uPWhcJRa6A=w408-h544-k-no",
     "kgmid": "/g/1tmz6l0f",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Denali Pharmacy",
@@ -262,12 +260,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPKI2GYPTq6Oy9SgJ_eo7OGcg85b6yYHMRDUme4=w408-h611-k-no",
     "kgmid": "/g/11h3vc2ssv",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -291,7 +290,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV4eWU2hFMlER_jn_VmJjdfI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -453,10 +452,8 @@
     "kgmid": "/g/1tl0wzvv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -481,7 +478,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ__-POEJFMlERdBaqzOMbths",
     "categories": [
       "Pharmacy"
     ],
@@ -611,10 +608,8 @@
     "kgmid": "/g/11s8yzlx8z",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -638,7 +633,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH7i4-yZbMlER25ijP429_jY",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -744,10 +739,8 @@
     "kgmid": "/g/1thx3pfg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -771,7 +764,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJc-j_HSRbMlER9USGvC3N2SU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -933,10 +926,8 @@
     "kgmid": "/g/1tfkktny",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -960,7 +951,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ92tUfEFFMlERgyVOz8KhrVg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1066,10 +1057,8 @@
     "kgmid": "/g/1hd_1v_pb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1093,7 +1082,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJByCmW2lFMlERdM7YZyJzt5w",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1209,10 +1198,8 @@
     "kgmid": "/g/1vfwch9f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Smith Clinton J",
@@ -1279,7 +1266,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Walgreens",
@@ -1305,7 +1293,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQ4wYOUJFMlER3o9xfzhhFM8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1519,10 +1507,8 @@
     "kgmid": "/g/11b7lnghbr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Harry Race Pharmacy",
@@ -1736,7 +1722,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "White's Pharmacy",
@@ -1899,7 +1886,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Ron's Apothecary Shoppe",
@@ -1992,7 +1980,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Alaska Family Pharmacy",
@@ -2125,7 +2114,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Fairbanks Memorial Hospital",
@@ -2150,7 +2140,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu-6hMbRaMlERTj_13qMD150",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -2263,12 +2253,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSyC-WPx5s7bBE2CjEWV6mkcr_Kxv277RevD1Q=w408-h271-k-no",
     "kgmid": "/g/11g_cgcl1",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Chief Andrew Isaac Health Center",
@@ -2292,7 +2280,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJa4njEbRaMlER4VyLmhkw2As",
     "categories": [
       "Pharmacy",
       "Medical clinic",
@@ -2383,12 +2371,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXbUudYflXA9DfgZyOSn-vuKAfGmE19BxIzm0V=w408-h271-k-no",
     "kgmid": "/g/1hhxq0kth",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Island Pharmacy Incorporated",
@@ -2519,7 +2505,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Petersburg Rexall Drug",
@@ -2625,7 +2612,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   },
   {
     "title": "Stikine Drug",
@@ -2737,6 +2725,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fairbanks_ak"
   }
 ]

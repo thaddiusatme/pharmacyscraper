@@ -521,7 +521,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -788,10 +788,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-JCKeq4wc1c-0IVrhpA9NSDAcykV-QTv7x-A9=w426-h240-k-no",
     "kgmid": "/g/11bzs5qlc_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -923,7 +923,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1167,10 +1167,10 @@
     "rank": 7,
     "isAdvertisement": false,
     "kgmid": "/g/1tznmx5c",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1302,10 +1302,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOI4PdIGFplJLHV8j6L8xjTkF-MeNeN2E5hr6dC=w408-h408-k-no",
     "kgmid": "/g/1tkrmblf",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1530,10 +1530,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9zDMJPAgHiw4gyp5HXhQTsiZ8RbVniBKXSVLm=w408-h408-k-no",
     "kgmid": "/g/11c44prf_m",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1657,7 +1657,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWzPe3hu43IcR2rImaakVN6s",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1773,10 +1773,8 @@
     "kgmid": "/g/1hf4kc85m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mizzou Pharmacy-Battle Avenue",
@@ -1897,10 +1895,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPs0OTifaPrE4cm1MR7OeugZK087k0mS3K3qpIn=w426-h240-k-no",
     "kgmid": "/g/11qpg1mv_n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2024,10 +2022,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFH5k8K-HT9akh2dLiMndbwdxOd1kdfzHIGEzB=w408-h408-k-no",
     "kgmid": "/g/11bzq3jbn2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2134,10 +2132,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP13KJgv67nIijBuYW688C_VyZnNIOJoMtuhwFO=w408-h408-k-no",
     "kgmid": "/g/11bzsdmcjp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2163,7 +2161,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXZjDOv213IcRLS0-YApTKQs",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2276,10 +2274,8 @@
     "kgmid": "/g/1hc16zrwh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mizzou Pharmacy-South Providence",
@@ -2303,7 +2299,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2X0SoSK33IcRhh-Q_OCy4GQ",
     "categories": [
       "Pharmacy",
       "Medical clinic"
@@ -2401,12 +2397,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFQu0_JX6cpDIJHx11ZrTj1W9biWi33laiPQjZ=w427-h240-k-no",
     "kgmid": "/g/11bzq33f06",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mizzou Pharmacy-Hitt Street (Formerly: University Pharmacies)",
@@ -2504,10 +2498,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7QKrD7bbSgseiWfekeoLwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=341.64633&pitch=0&thumbfov=100",
     "kgmid": "/g/1thy0bnq",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   }

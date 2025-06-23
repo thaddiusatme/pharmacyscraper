@@ -126,9 +126,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Purescripts Compounding Pharmacy",
@@ -286,7 +287,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Geritom Medical Inc",
@@ -398,7 +400,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Nope",
@@ -497,9 +500,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.7,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "CVS Pharmacy",
@@ -523,7 +527,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaSlBJDkk9ocR3Xi-VXzstNk",
     "categories": [
       "Pharmacy"
     ],
@@ -629,10 +633,8 @@
     "kgmid": "/g/1tj46gjv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -657,7 +659,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIRx96Rkl9ocReNshuLm_uMc",
     "categories": [
       "Pharmacy"
     ],
@@ -787,10 +789,8 @@
     "kgmid": "/g/11cn93ddll",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fairview Pharmacy - Oxboro",
@@ -908,12 +908,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np54CPiqKGxLmJPDvmR-dsW9IkMg1WAjLhPtfo5wtx_cx42bqw8KOnHi0whTm33lfUv3mgbdgsK-NeOmtiFtyYs4ipB-ffZcfjekQxWYMNeftkWRfoIZzHPo5sVL6krIgjWskcBBA=w408-h544-k-no",
     "kgmid": "/g/1tcysc_8",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -938,7 +939,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnQhXr68k9ocRo7gLVRfyFSw",
     "categories": [
       "Pharmacy"
     ],
@@ -1068,10 +1069,8 @@
     "kgmid": "/g/11c4bfkqys",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1095,7 +1094,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJs3x-Gqgl9ocRd1zKUueas_Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1210,10 +1209,8 @@
     "kgmid": "/g/11g8_25086",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Fond du Lac Mashkiki Waakaaigan Pharmacy",
@@ -1306,7 +1303,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Heartfelt Holistic Pharmacy",
@@ -1374,7 +1372,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1399,7 +1398,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8xk8ETgk9ocRkYRN4gn66Pk",
     "categories": [
       "Pharmacy"
     ],
@@ -1529,10 +1528,8 @@
     "kgmid": "/g/11cn93sp1k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Polaris Pharmacy Services",
@@ -1638,7 +1635,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Seward Pharmacy",
@@ -1780,7 +1778,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Cub Pharmacy",
@@ -1892,9 +1891,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Guardian Pharmacy of Minneapolis",
@@ -1992,7 +1992,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Walmart Pharmacy",
@@ -2016,7 +2017,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNVTID_Ml9ocR7L74UXuKYYo",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2129,10 +2130,8 @@
     "kgmid": "/g/1vyn4dx2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Cub Pharmacy",
@@ -2243,7 +2242,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "St. Paul Corner Drug",
@@ -2405,7 +2405,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   },
   {
     "title": "Uptown Pharmacy - Karmel Pharmacy",
@@ -2586,6 +2587,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bloomington_mn"
   }
 ]

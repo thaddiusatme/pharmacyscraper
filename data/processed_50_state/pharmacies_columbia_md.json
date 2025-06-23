@@ -572,7 +572,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -729,7 +729,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJGx4RhRLft4kRWsLujaGkD1Q",
     "categories": [
       "Pharmacy"
     ],
@@ -811,12 +811,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5jJBK62UEIOtDFL28AK00n0fw1s3w3F2H-gtPeqTa-WwMTGqyMeJOVuN9zTj_vaTy8eQ15-s2zFxVybPgHorF_WnsYmYVHNHYveReDZ3cP3ob10btpgm9LszAWcr2WKv79mc=w408-h263-k-no",
     "kgmid": "/g/1tdd64pb",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "LifeLine Specialty Pharmacy",
@@ -928,7 +926,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1123,7 +1121,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1239,7 +1237,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1324,7 +1322,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ33sgdQHgt4kRr2b5H14poTw",
     "categories": [
       "Pharmacy"
     ],
@@ -1393,12 +1391,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tbFmYgTeBrdyK_e6FQtxww&cb_client=search.gws-prod.gps&w=408&h=240&yaw=16.894966&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdcsf8x",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Aspire Health Partners - Princeton Plaza",
@@ -1422,7 +1418,7 @@
     "totalScore": 1.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3w1dbfN554gRo2Psj6ixfM4",
     "categories": [
       "Pharmacy",
       "Care services",
@@ -1514,12 +1510,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7lYrPUIwR0zShBgDhDlfGAYJsdwhHUlrvIFeirAbC_BZgoTDFxS1_4dU2UK4xEjWBLJPfknBAaqbdp1eiqAb39echKr4p1Cqva_NRB238ahTrhCD-lTCuKj8EIwutdIQvAypecA=w506-h240-k-no",
     "kgmid": "/g/1yl4913jk",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mexicare Pharmacy",
@@ -1768,10 +1762,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOo2GQ-FYnpu0HDBhFTngvn4ZBoGt9wO4nt_Y1v=w408-h271-k-no",
     "kgmid": "/g/1tk23nzn",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1973,7 +1967,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1999,7 +1993,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxbssGFngt4kRK7LaTX6zvP0",
     "categories": [
       "Pharmacy"
     ],
@@ -2093,12 +2087,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfxK1R8tTt6WO6t-ne5CCCsxYu3riuTJX57lim=w408-h306-k-no",
     "kgmid": "/g/1tdc63g8",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ivan Pharmacy",
@@ -2122,7 +2114,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFYteC51YwokRgkfIRTdlUyU",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2235,11 +2227,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqzfmLPXjUJbRlnvpwpEhscURF7s86PZ6kYfEiJgkExTIihfyG_oi-DSe9cst8HMDM6HsRs9w_bi9mzUMVFTjhfwH8ogiWxsLAUH7kKguMyqSPsuJnavKJVAfkVue-vabhEemaoQ=w408-h544-k-no",
     "kgmid": "/g/1tk8php4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

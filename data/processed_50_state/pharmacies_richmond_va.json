@@ -788,7 +788,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1028,10 +1028,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_BHehoq6DS8c85zjX4j2nQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.16933&pitch=0&thumbfov=100",
     "kgmid": "/g/11xc9kxmn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1057,7 +1057,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI5_GeDsRsYkRqgvTZT4g_U0",
     "categories": [
       "Pharmacy"
     ],
@@ -1149,10 +1149,8 @@
     "kgmid": "/g/11cmfj_2gj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "RX3 Compounding Pharmacy",
@@ -1551,7 +1549,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5-SquL0VsYkRIPWQLUjb9dQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1645,12 +1643,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noFQFNl5WuJGIbhmco1uASWs6iGh0l5-hbYHj25nyg3ur3Jxey6vzXjbQQbmaQxaYTfclaKY6r01pdRj2b6MJGjZqsBKYlAMDT07t9yVu8NTJQ_DD0ienSe5jgSU2KoMKpJVtArOA=w426-h240-k-no",
     "kgmid": "/g/11gxymhnpx",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Family Care Pharmacy",
@@ -2088,10 +2084,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9Q9I4B2WHBmoqSwUmFm4BA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=110.33102&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdx4_td",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2346,10 +2342,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPSY0t1VgC3klCM6RGNC1kdGwmBu4cEfsK-g3Xf=w424-h240-k-no",
     "kgmid": "/g/1262gnbh7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

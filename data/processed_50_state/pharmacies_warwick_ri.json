@@ -125,7 +125,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Genoa Healthcare",
@@ -149,7 +150,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0TJSqvhL5IkR4l2z7nyTHxM",
     "categories": [
       "Pharmacy"
     ],
@@ -220,10 +221,8 @@
     "kgmid": "/g/11bbrrbt3h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Bayview Pharmacy",
@@ -383,7 +382,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "PharMerica - Warwick, RI",
@@ -474,9 +474,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Suburban Pharmacy",
@@ -604,7 +605,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Care New England Pharmacy",
@@ -708,12 +710,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_Z2lJc9O4FXpFtlRXd24ljApVsSLMTqngGLm0qZ7iKLMCKDdDSb3HgHxQLLl2EPa5XmlpDetDV_gY1Z_8npshl7oyy02UdRFWnMk2GmYcLIqRhL95d9GddDtJuPSULGK-kUQQLw=w408-h306-k-no",
     "kgmid": "/g/11l6ry_clx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -737,7 +740,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI6iFgG1L5IkRAVDNHX_03yQ",
     "categories": [
       "Pharmacy"
     ],
@@ -827,10 +830,8 @@
     "kgmid": "/g/1th5dl92",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -854,7 +855,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-cYjkOVN5IkRhHxreDnQ-Ls",
     "categories": [
       "Pharmacy"
     ],
@@ -975,10 +976,8 @@
     "kgmid": "/g/11c469d8rf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Horizon Pharmacy",
@@ -1085,9 +1084,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Leader Drug Store",
@@ -1189,7 +1189,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -1213,7 +1214,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3eI1n-9N5IkRwpZ1kKfMnEI",
     "categories": [
       "Pharmacy"
     ],
@@ -1300,10 +1301,8 @@
     "kgmid": "/g/1264jd79h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prescription Pharmacy Services",
@@ -1405,7 +1404,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Casmer Pharmacy",
@@ -1531,7 +1531,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Akins Pharmacy",
@@ -1679,7 +1680,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "Seaside Pharmacy",
@@ -1804,12 +1806,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWN7HibeBZ5ussoxfAGYPa42VYBMAMFK5vSFHAspJ77s2mtbZYUivphPznFKk8u2A6LdTawwX8o1-BSdf0j1yk2Tv4R7XRaia2r7jZamehNil42SVu4kKSWaGdj1JRmX4ocm_g5g=w408-h305-k-no",
     "kgmid": "/g/1pp2x7hrn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -1833,7 +1836,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5z5e-0BM5IkRhy9t_nwc_2M",
     "categories": [
       "Pharmacy"
     ],
@@ -1951,10 +1954,8 @@
     "kgmid": "/g/11c468st9m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1979,7 +1980,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJA7q-M7FL5IkR7Wp9M9z5Jr8",
     "categories": [
       "Pharmacy"
     ],
@@ -2095,10 +2096,8 @@
     "kgmid": "/g/11j5q04rtb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Park Ave Pharmacy",
@@ -2295,7 +2294,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "warwick_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -2319,7 +2319,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4cmOETZO5IkRIlaLDoXmG94",
     "categories": [
       "Pharmacy"
     ],
@@ -2440,9 +2440,7 @@
     "kgmid": "/g/11c461w1h7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

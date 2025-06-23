@@ -371,10 +371,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHOMwi4ccG5XyCp50eps7IuRCSriHDMUuRnKEf=w408-h270-k-no",
     "kgmid": "/g/1pp2xbh8x",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -790,7 +790,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJy9VEBUOgaYgRTNFE7bW-sl0",
     "categories": [
       "Pharmacy"
     ],
@@ -879,12 +879,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oGVnFYUAOImRU5jB_ZExLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=354.06604&pitch=0&thumbfov=100",
     "kgmid": "/g/11c1vkv5w4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Middletown Pharmacy & Wellness",
@@ -1863,7 +1861,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2362,7 +2360,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJ1wtxC-gaYgRrhOjAIp9Wl4",
     "categories": [
       "Pharmacy"
     ],
@@ -2431,11 +2429,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOH0QggsSbX4L1kPlNo3OCrAzfEMg-9Aej-5b6B=w969-h240-k-no",
     "kgmid": "/g/1tdcbk65",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

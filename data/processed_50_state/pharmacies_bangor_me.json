@@ -110,12 +110,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrG2NSvg_IxV0TAaBQzv_UNk4bmTlOhCnPdGQjYQqiI1bCxHClN_wof-Os15GIesxA2lZRXYqFYunlONV0kBxgNlLTQvjf6KvK2hi3GWhQH5RiTl8oyd1Fzp02P0ZulPBjxE29yw=w408-h306-k-no",
     "kgmid": "/g/1tc_w5ts",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Bangor Drug Company",
@@ -248,7 +249,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Northern Light Pharmacy",
@@ -363,12 +365,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrew6NIk2a-jOhCRNMv_rAwCyrqjPHX5dPhKNArS838-lgSjeA4Nia18IGjLBmCsvvypgEhvd5yYQqtnkMR2TwjHqObfplC93PKWbT_1qMdDvXC24Gld0Hwf-p4Db1irH60RScN=w408-h306-k-no",
     "kgmid": "/g/1tl0wyl9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Northern Light Pharmacy",
@@ -494,12 +497,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7PeTedyHGJX2JUoAo1D3pwTzj05xfDBFAZMfo=w408-h408-k-no",
     "kgmid": "/g/1tfrrhzv",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -524,7 +528,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJi3dLCGhLrkwRy9rxUCmkqbw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -630,10 +634,8 @@
     "kgmid": "/g/1vpq6h0f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Northern Light Pharmacy - Mail Order",
@@ -732,12 +734,13 @@
     "rank": 7,
     "isAdvertisement": false,
     "kgmid": "/g/11h3t2lz5j",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "PCHC - Penobscot Community Health Center Pharmacy",
@@ -761,7 +764,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj--4INRKrkwRXvhrb7lk97Y",
     "categories": [
       "Pharmacy"
     ],
@@ -838,12 +841,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzwhFqX7I9kvm8xItgCN8bsGDV0uolbiONCLp4=w408-h272-k-no",
     "kgmid": "/g/1wc30vcp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -867,7 +868,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJy5hf4HpLrkwROsCUyro0yY0",
     "categories": [
       "Pharmacy"
     ],
@@ -938,10 +939,8 @@
     "kgmid": "/g/11fj47fd2m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -966,7 +965,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAZIJTI-0r0wR01nTZ-b9PBk",
     "categories": [
       "Pharmacy"
     ],
@@ -1072,10 +1071,8 @@
     "kgmid": "/g/1tfrlyg8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -1099,7 +1096,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaZoXp8-0r0wRNgzlngYHW_A",
     "categories": [
       "Pharmacy"
     ],
@@ -1203,10 +1200,8 @@
     "kgmid": "/g/1vm_xgt9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -1230,7 +1225,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-1jtWNJKrkwR6Gc6DSH-q3U",
     "categories": [
       "Pharmacy"
     ],
@@ -1326,10 +1321,8 @@
     "kgmid": "/g/1tczdhkr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -1458,7 +1451,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Miller Drug",
@@ -1561,12 +1555,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PoxGT5Sr3vI9PErsoDsEyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=251.88887&pitch=0&thumbfov=100",
     "kgmid": "/g/11hzyt7bds",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1590,7 +1585,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPXp5WY60r0wRTBJBF0CTDro",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1706,10 +1701,8 @@
     "kgmid": "/g/1tgf7d08",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1733,7 +1726,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTwwdKfm1r0wROgeGGgMuZc0",
     "categories": [
       "Pharmacy"
     ],
@@ -1866,10 +1859,8 @@
     "kgmid": "/g/11y676z4l9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Wind Gap Community Pharmacy",
@@ -2007,7 +1998,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bangor_me"
   },
   {
     "title": "Hebert Rexall Pharmacy",
@@ -2031,7 +2023,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt-OexjXevEwRCk3VoPuOykg",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2138,11 +2130,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zEiIYFiFS2uQ-vCwg6BLVA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.7803&pitch=0&thumbfov=100",
     "kgmid": "/g/1tflxhn4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

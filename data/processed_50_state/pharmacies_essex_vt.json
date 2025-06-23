@@ -170,7 +170,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "CVS Pharmacy",
@@ -194,7 +195,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK9N7t6Z3ykwRCFVrRiSo_bc",
     "categories": [
       "Pharmacy"
     ],
@@ -315,10 +316,8 @@
     "kgmid": "/g/11bvvznkpp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -342,7 +341,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJce0iOaF3ykwRN8owa22llWk",
     "categories": [
       "Pharmacy"
     ],
@@ -438,10 +437,8 @@
     "kgmid": "/g/11b66hhrcq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Price Chopper Pharmacy",
@@ -555,9 +552,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "Kinney Drugs Pharmacy",
@@ -580,7 +578,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXcp29b13ykwR77bC3Tc6uxk",
     "categories": [
       "Pharmacy"
     ],
@@ -733,12 +731,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPMZ1gK3CnGlXqtAOeU7xf9G8i202tdu2skgD9=w408-h408-k-no",
     "kgmid": "/g/11shx5zb4l",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kinney Drugs",
@@ -763,7 +759,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQQJcm2B3ykwRIj7KMABU2ko",
     "categories": [
       "Drug store",
       "Convenience store",
@@ -924,12 +920,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryGqtzZ2-00pATjvw3DrBc--EO3Be_jO5F0ToNBtsaChHj7K5sJXYr5eUArGPIcMB20OQ9sumRSh9EYez6F0jj9wZApBQAAu3ZhKltTRK21Q3IzeE1MyGneQPrEMvIsmUN6L38gA=w408-h306-k-no",
     "kgmid": "/g/1tnbkrv0",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lakeside Pharmacy",
@@ -1136,7 +1130,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "Community Health Pharmacy",
@@ -1160,7 +1155,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXeumCWxyykwRY4F7RSnEd6w",
     "categories": [
       "Pharmacy"
     ],
@@ -1234,12 +1229,10 @@
     "rank": 8,
     "isAdvertisement": false,
     "kgmid": "/g/1td4zgsp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1264,7 +1257,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRWgw6dh3ykwRyqcJd0J2pGs",
     "categories": [
       "Pharmacy"
     ],
@@ -1392,10 +1385,8 @@
     "kgmid": "/g/11j7x_v6ky",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Cross Plains Pharmacy",
@@ -1586,7 +1577,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "CVS",
@@ -1612,7 +1604,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuc6QoqZ3ykwRlxfx0NuT0so",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1795,10 +1787,8 @@
     "kgmid": "/g/1v27v3h0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -1824,7 +1814,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4aRXrGB3ykwR59ZKb4WV6GY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1989,10 +1979,8 @@
     "kgmid": "/g/1hc250mnd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -2017,7 +2005,7 @@
     "totalScore": 1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3wu5rk13ykwR-E-2TAkHqXY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2148,10 +2136,8 @@
     "kgmid": "/g/11vwjypj3_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "FREEDOM PHARMACY",
@@ -2283,9 +2269,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "Fall Mountain Pharmacy",
@@ -2393,7 +2380,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2540,7 +2528,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "Springfield Pharmacy",
@@ -2668,7 +2657,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   },
   {
     "title": "The Pharmacy, Inc.",
@@ -2779,6 +2769,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "essex_vt"
   }
 ]

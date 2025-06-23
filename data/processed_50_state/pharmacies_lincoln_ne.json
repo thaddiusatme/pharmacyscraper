@@ -140,7 +140,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Nebraska LTC Pharmacy",
@@ -259,7 +260,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Wellness Pharmacy,Inc./ Specialty Compounding",
@@ -390,7 +392,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Pharmacy Solutions",
@@ -559,7 +562,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Neighborhood LTC Pharmacy",
@@ -670,7 +674,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Genoa Healthcare",
@@ -694,7 +699,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJEazpwT-_locR2JGqS160NyU",
     "categories": [
       "Pharmacy"
     ],
@@ -760,10 +765,8 @@
     "kgmid": "/g/11vspgmq14",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Senior Rx Care Pharmacy",
@@ -865,7 +868,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Stockwell Pharmacy",
@@ -1002,7 +1006,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Neighborhood LTC Pharmacy",
@@ -1104,7 +1109,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "CVS Pharmacy",
@@ -1128,7 +1134,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbSlrZVG8locRwrCDoXijHWE",
     "categories": [
       "Pharmacy"
     ],
@@ -1252,10 +1258,8 @@
     "kgmid": "/g/11c467fl1c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "RelyCare Pharmacy",
@@ -1392,7 +1396,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Genoa Healthcare",
@@ -1416,7 +1421,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_____8CXlocRtljWjULSsT4",
     "categories": [
       "Pharmacy",
       "Walk-in clinic"
@@ -1498,10 +1503,8 @@
     "kgmid": "/g/11f2wcsfmz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1525,7 +1528,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVTwrgKyXlocRww4D_4jwlM4",
     "categories": [
       "Pharmacy"
     ],
@@ -1596,10 +1599,8 @@
     "kgmid": "/g/11kpv7cq82",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kohll's Rx",
@@ -1764,9 +1765,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1791,7 +1793,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgyVKlPy-locRjPMlqn5ud94",
     "categories": [
       "Pharmacy"
     ],
@@ -1921,10 +1923,8 @@
     "kgmid": "/g/11cn94nz01",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1949,7 +1949,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ65IgDIG9locRrtO_LHt_KlU",
     "categories": [
       "Pharmacy"
     ],
@@ -2085,10 +2085,8 @@
     "kgmid": "/g/11cn95h2c6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2112,7 +2110,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcfugtee9locRuT13IhBr2b4",
     "categories": [
       "Pharmacy"
     ],
@@ -2233,10 +2231,8 @@
     "kgmid": "/g/11c462tvj7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Nebraska Medicine Pharmacy at University Health Center",
@@ -2260,7 +2256,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVUV_e6-locRUeo2limteJw",
     "categories": [
       "Pharmacy"
     ],
@@ -2342,12 +2338,10 @@
     "rank": 12,
     "isAdvertisement": false,
     "kgmid": "/g/11nh9c9_j2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2371,7 +2365,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJW2z-V06-locRzpL4xiw_W6A",
     "categories": [
       "Pharmacy"
     ],
@@ -2489,10 +2483,8 @@
     "kgmid": "/g/11c468w6yw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Independence Drug",
@@ -2595,6 +2587,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lincoln_ne"
   }
 ]

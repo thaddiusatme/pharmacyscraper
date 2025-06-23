@@ -406,7 +406,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1088,7 +1088,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1484,7 +1484,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1604,7 +1604,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJWHFp5HMJIgReCYviArfRZs",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1699,12 +1699,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPiZYl8xko3iIUZFXGnFmdog8bulRNfpwkMnAe0Xg6U7kkJu1MTenptDGpyCAMH2QqWDLjz-xD1JdxY3mAI55FpsFoMsR3oGoDhfRx6lbnyVD3mBbQHw1nrhnqvG0GlfRfhvpL=w408-h612-k-no",
     "kgmid": "/g/1thx97dw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "City Pharmacy LLC",
@@ -1843,7 +1841,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCdY-UXpNGIgRwN8Ua29oZno",
     "categories": [
       "Pharmacy"
     ],
@@ -1922,12 +1920,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNI05ISraaGBr3UKf_0tm01Ko0XCJ8ViVPMClvn=w408-h514-k-no",
     "kgmid": "/g/11jz1570qt",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Parkview Pharmacy",
@@ -2083,7 +2079,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source": "perplexity",
     "method": "llm"
   },

@@ -93,9 +93,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "CareTrends Pharmacy",
@@ -208,7 +209,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Pharmacy Specialties & Clinic, Inc.",
@@ -232,7 +234,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJzzlFe-HJjocRJt12Q9htdro",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -317,12 +319,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uDeZkI2Ze0hlNCyvbpWwiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.87535&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdzx6n6",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Your Pharmacy",
@@ -390,7 +390,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Specialty Pharmacy \u2014 Sioux Falls",
@@ -494,12 +495,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNyjcSQMErIDjPnqL9L43UJtjVyLLpu5xmMQep4=w408-h306-k-no",
     "kgmid": "/g/1td6n4kv",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 McKennan Campus",
@@ -611,12 +613,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPv97xxFtW63pEfo7XlAIbgOiksY_W-iEbsD63I=w408-h306-k-no",
     "kgmid": "/g/1tksnw6b",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 69th & Louise",
@@ -723,12 +726,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nou2HO9Jekbn04w3KErFguWtD20Qh8qX2w1XhYUr5vBbTKQtqaikpId1-A38Cyb_Te6ranyh7o5FQOOvq3hA1jh0Gw7BUd8VKCHVmoxQfseYQdxdsYYNiMuiTdcp9akIESruZyt_g=w408-h307-k-no",
     "kgmid": "/g/11hf1btmjt",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Compounding Pharmacy - Delivery Only",
@@ -837,12 +841,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H5M4BP6rvJOxwiUu4KbLkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.20784&pitch=0&thumbfov=100",
     "kgmid": "/g/11fktzbk0z",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - Ellis Rd",
@@ -957,12 +962,13 @@
     "rank": 9,
     "isAdvertisement": false,
     "kgmid": "/g/11j0snst65",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 7th Ave",
@@ -1082,12 +1088,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOchyzNUlzE7A90mdxwAsuw77_C9cpusfP45Ch-=w408-h306-k-no",
     "kgmid": "/g/1tf6bjz2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - 10th & Cliff",
@@ -1204,7 +1211,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - 10th & Phillips Avenue",
@@ -1316,7 +1324,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - 12th & Kiwanis",
@@ -1434,7 +1443,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - 69th & Louise",
@@ -1563,7 +1573,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 Behavioral Health Campus",
@@ -1587,7 +1598,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3YZsWbzJjocRPji3yLOrcFE",
     "categories": [
       "Pharmacy"
     ],
@@ -1683,12 +1694,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr2WtU38BIsfWUXODcDoI8lAwh_bdqpePRdH3gHwDgv8SaIzzApQtjJMehiWGE2OOZp0pkbsoOuB0fswHHa4fC7VlAf-Xek-5fm5APoHWDvJbEg-oEPm8PtIw9Z_sy91lr0qA=w426-h240-k-no",
     "kgmid": "/g/12631qyyr",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lewis Pharmacy Sanford",
@@ -1817,7 +1826,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "Lewis Pharmacy - 41st & Marion",
@@ -1841,7 +1851,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFYztgLPLjocRVoXagb4A9x8",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1927,12 +1937,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3nVyhMwaVnOaEp6uKbPXtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.7434&pitch=0&thumbfov=100",
     "kgmid": "/g/11j0tbzzxk",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Avera Pharmacy \u2014 Plaza 2",
@@ -2034,12 +2042,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=028j-RYEwyrwNJPqsLUGnQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=359.21567&pitch=0&thumbfov=100",
     "kgmid": "/g/11tt6f12rf",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sioux_falls_sd"
   },
   {
     "title": "CVS Pharmacy",
@@ -2064,7 +2073,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBXNZNoyzjocRZmC5GCqmi5c",
     "categories": [
       "Pharmacy"
     ],
@@ -2175,9 +2184,7 @@
     "kgmid": "/g/1thbx4n4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

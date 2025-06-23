@@ -21,7 +21,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0W77j6hT4okRdxDVx3HtngA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -135,10 +135,8 @@
     "kgmid": "/g/1w6r98qh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -162,7 +160,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJE9i2hAVT4okRdWJ2rOcEEug",
     "categories": [
       "Pharmacy"
     ],
@@ -280,10 +278,8 @@
     "kgmid": "/g/11c467bt52",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "V-Care Pharmacy of NH",
@@ -469,7 +465,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   },
   {
     "title": "Genoa Healthcare",
@@ -492,7 +489,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJW8f3OOBT4okRaqGjvUFusFA",
     "categories": [
       "Pharmacy"
     ],
@@ -558,10 +555,8 @@
     "kgmid": "/g/11gnrfz6yx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -585,7 +580,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAymZiwtT4okRWNY6agPLroA",
     "categories": [
       "Pharmacy"
     ],
@@ -719,10 +714,8 @@
     "kgmid": "/g/11kqm98h9_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Osco Pharmacy",
@@ -745,7 +738,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOzndZKhT4okRXOp4F5yD1VU",
     "categories": [
       "Pharmacy"
     ],
@@ -793,10 +786,8 @@
     "kgmid": "/g/11h3mv___2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -821,7 +812,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVQVJ1gVT4okRfedqYGm4PII",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -964,10 +955,8 @@
     "kgmid": "/g/1tdqpngj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -991,7 +980,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVUlwVJS4okRezyo-CD_rns",
     "categories": [
       "Pharmacy"
     ],
@@ -1095,10 +1084,8 @@
     "kgmid": "/g/12hk2n_bw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1124,7 +1111,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKe5PEAdT4okR_Y9tg9dfcUk",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1340,10 +1327,8 @@
     "kgmid": "/g/1vvyz276",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1367,7 +1352,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNeme1lJS4okRvbRBN49bEIE",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1486,10 +1471,8 @@
     "kgmid": "/g/1tkmnkfd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Ken's Pharmacy",
@@ -1603,9 +1586,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1629,7 +1613,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJn0TewYBT4okRA9VdzBv4v_w",
     "categories": [
       "Pharmacy"
     ],
@@ -1760,10 +1744,8 @@
     "kgmid": "/g/11v15f282q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -1788,7 +1770,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_TFELhNT4okRWqZ1XLu_tug",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1934,10 +1916,8 @@
     "kgmid": "/g/1tlc91wz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Derry Street Pharmacy",
@@ -2065,9 +2045,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2207,7 +2188,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   },
   {
     "title": "Wingate's Pharmacy",
@@ -2341,7 +2323,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   },
   {
     "title": "CVS Pharmacy",
@@ -2367,7 +2350,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ00WeRkat44kR3Gov_dbZqkA",
     "categories": [
       "Pharmacy"
     ],
@@ -2553,10 +2536,8 @@
     "kgmid": "/g/1td8_3xp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Salem Neighborhood Pharmacy",
@@ -2681,6 +2662,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "derry_nh"
   }
 ]

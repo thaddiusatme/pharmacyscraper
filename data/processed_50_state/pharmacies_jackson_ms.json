@@ -373,7 +373,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -967,7 +967,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhVk7mPkyKIYRwPB53Mf06Ag",
     "categories": [
       "Pharmacy"
     ],
@@ -1049,12 +1049,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dDGQq8HrdlZxIPjW5CJZ-g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=333.24734&pitch=0&thumbfov=100",
     "kgmid": "/g/11d_z3bh31",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1078,7 +1076,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ__-_j84yKIYRjOk6GAnQGH8",
     "categories": [
       "Pharmacy"
     ],
@@ -1190,10 +1188,8 @@
     "kgmid": "/g/11rgbpv59g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1217,7 +1213,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV6nrMis0KIYR3NdSrDmlzU4",
     "categories": [
       "Pharmacy"
     ],
@@ -1335,10 +1331,8 @@
     "kgmid": "/g/11c466t_q4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1363,7 +1357,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB6vA7oPSKYYR8VrOKrsDi60",
     "categories": [
       "Pharmacy"
     ],
@@ -1466,10 +1460,8 @@
     "kgmid": "/g/1w455ztn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Martins pharmacy",
@@ -1675,7 +1667,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1701,7 +1693,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJzVZfKVbNKYYR63aZyh3Btvo",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1863,10 +1855,8 @@
     "kgmid": "/g/1tg79dm8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "National Pharmacy Of Mississippi",
@@ -1970,7 +1960,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYVDZIdMyKIYRqagAfnfmsPQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2139,10 +2129,8 @@
     "kgmid": "/g/1tgc9wkt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Jackson Oncology Associates Pharmacy",

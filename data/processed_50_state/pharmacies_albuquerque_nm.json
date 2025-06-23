@@ -21,7 +21,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZygnF4B1IocRbk0idxDIFgI",
     "categories": [
       "Pharmacy"
     ],
@@ -117,12 +117,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN06GXRCdyFsF1JMENiHEuWxnZSVMIPWvwnMBNM=w421-h240-k-no",
     "kgmid": "/g/11kzkl9p5c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Arnett Local Pharmacy & Compounding",
@@ -253,7 +251,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Menaul Compounding Pharmacy",
@@ -376,7 +375,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "John's Pharmacy",
@@ -512,7 +512,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Vintage Compounding Pharmacy",
@@ -635,7 +636,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "FarmaKeio NM",
@@ -808,7 +810,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Contigo Compounding Pharmacy",
@@ -927,7 +930,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Highland Pharmacy",
@@ -1075,7 +1079,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Vida Pharmacy",
@@ -1187,7 +1192,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Phil's Pharmacy",
@@ -1310,7 +1316,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Lifestyle Compounding",
@@ -1419,7 +1426,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "NewScripts Pharmacy",
@@ -1531,7 +1539,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Legends Pharmacy III",
@@ -1635,7 +1644,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Pharmacy - Best Buy Drugs Drugstore",
@@ -1659,7 +1669,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHdreRrwKIocRdOWmjSMdM5A",
     "categories": [
       "Pharmacy"
     ],
@@ -1747,12 +1757,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1UTiSD0CeC9dYCQJW-ZKYZVRENXxGXn9jX86AIUS6doeQuruuAef0NJAhrzfHtfd6oYjy1KG8c-ipCnA5Gc6GPLc-tvvA6TKb3y-iJFD2GRNd3d1LPmyOXwG89CQ_tdJzuIK57g=w408-h264-k-no",
     "kgmid": "/g/1ts1n2ky",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Duran Central Pharmacy",
@@ -1932,7 +1940,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Olive Tree Compounding Pharmacy",
@@ -2082,7 +2091,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "CVS Pharmacy",
@@ -2106,7 +2116,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLdp-y0p0IocRwM292dLzwj0",
     "categories": [
       "Pharmacy"
     ],
@@ -2212,10 +2222,8 @@
     "kgmid": "/g/1tgcsbm1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rx Innovations",
@@ -2324,9 +2332,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "albuquerque_nm"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2351,7 +2360,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsSf7zeB0IocRa5PhCJ_4GFo",
     "categories": [
       "Pharmacy"
     ],
@@ -2484,10 +2493,8 @@
     "kgmid": "/g/11b782yj4l",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2512,7 +2519,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVWVd_KfGIcRMhcel-DkJzI",
     "categories": [
       "Pharmacy"
     ],
@@ -2639,9 +2646,7 @@
     "kgmid": "/g/11pb7cy4lt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

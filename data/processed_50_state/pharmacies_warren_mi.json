@@ -394,7 +394,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -890,7 +890,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1120,7 +1120,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1683,7 +1683,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2091,7 +2091,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.7,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2116,7 +2116,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTwH-HmvbJIgRlXfFNWcUhJY",
     "categories": [
       "Pharmacy"
     ],
@@ -2185,12 +2185,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGh_rB1RThbmhcTwyLb9uYEbrhJwWwO20MyOX-=w426-h240-k-no",
     "kgmid": "/g/11ghw1b6mn",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ryan Pharmacy Inc",
@@ -2439,7 +2437,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdZ4xPqrFJIgRacUJBKs_I3c",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2537,11 +2535,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9nZFl0OFeO9HlsLt2QKEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.56031&pitch=0&thumbfov=100",
     "kgmid": "/g/11mqj2zp8c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

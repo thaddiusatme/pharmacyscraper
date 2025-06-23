@@ -262,7 +262,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJUdbfJLIUYogRGFPOZu-eU3s",
     "categories": [
       "Pharmacy"
     ],
@@ -361,12 +361,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNmaQLthbHSGQUvB9QAPxW813vyWXHYuKu1_zCs=w408-h306-k-no",
     "kgmid": "/g/1tql5hvl",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Madison Drugs",
@@ -500,8 +498,8 @@
     "kgmid": "/g/1tcwgqfy",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -802,7 +800,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmSlh25ttYogRr42m4Spj14I",
     "categories": [
       "Pharmacy"
     ],
@@ -882,12 +880,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yeHCOTiCGQCEwahOeEuKNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=253.24225&pitch=0&thumbfov=100",
     "kgmid": "/g/11q85zv3p1",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kroger Pharmacy",
@@ -911,7 +907,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJ9lsMbgSYogRwNZEEwaPDd4",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1038,9 +1034,7 @@
     "kgmid": "/g/1tlmp1b5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

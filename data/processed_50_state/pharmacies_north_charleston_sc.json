@@ -279,7 +279,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -532,8 +532,8 @@
     "kgmid": "/g/1tjyvgbw",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -661,8 +661,8 @@
     "kgmid": "/g/11sn_2c31h",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -769,7 +769,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -917,8 +917,8 @@
     "kgmid": "/g/11frps8q_k",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1044,8 +1044,8 @@
     "kgmid": "/g/1yg4d_k1g",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1283,8 +1283,8 @@
     "kgmid": "/g/1tg9n_8b",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1497,7 +1497,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb7AXHlh8_ogRu52MHcQWWhQ",
     "categories": [
       "Pharmacy",
       "Convenience store",
@@ -1633,12 +1633,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLVSaxyiz-eb6OdspbBG8j9uGqycK33K6xeiXOsn4NYqgBlfd9dlZgypNnXB7QZxA9p2mpD6t7Kg6Dbq0TtNGUgpXfFFTpEdlaxlYWwa4fvhQo0aI0L1A5qXsMd9qcbMOoihdn1w=w408-h306-k-no",
     "kgmid": "/g/1tf6147m",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "TPC Pharmacy",
@@ -1778,7 +1776,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH74b7tKJ_ogRImBbde-Ii_E",
     "categories": [
       "Pharmacy"
     ],
@@ -1914,10 +1912,8 @@
     "kgmid": "/g/11cn94ny__",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1941,7 +1937,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrUSnrNOJ_ogRaGce8XQjUgI",
     "categories": [
       "Pharmacy"
     ],
@@ -2062,10 +2058,8 @@
     "kgmid": "/g/11c4615ghr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Optum Infusion Pharmacy and Infusion Suite",
@@ -2268,7 +2262,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOX68YZZk_ogR78Xl9eaJyjM",
     "categories": [
       "Pharmacy"
     ],
@@ -2389,9 +2383,7 @@
     "kgmid": "/g/11c460jhl0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

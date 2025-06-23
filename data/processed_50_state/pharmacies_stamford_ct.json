@@ -124,7 +124,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "stamford_ct"
   },
   {
     "title": "Slavins Hancock Pharmacy",
@@ -247,7 +248,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "stamford_ct"
   },
   {
     "title": "Cornerstone Pharmacy",
@@ -382,7 +384,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "stamford_ct"
   },
   {
     "title": "CVS Pharmacy",
@@ -406,7 +409,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7TVYR-ihwokRJNhdGA5QbFg",
     "categories": [
       "Pharmacy"
     ],
@@ -521,10 +524,8 @@
     "kgmid": "/g/11bt_j7n64",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Anchor Health Pharmacy",
@@ -548,7 +549,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlfUq7xijwokR7CM-UQBa5bQ",
     "categories": [
       "Pharmacy",
       "Gay & lesbian organization",
@@ -676,12 +677,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMv6Ivqsy_YfZJQCup2x_4FoyGQXQqH-Zrdaxzy=w408-h282-k-no",
     "kgmid": "/g/11kl5r6544",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -705,7 +704,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8YhZVpKhwokRg0LFWRpVBJw",
     "categories": [
       "Pharmacy"
     ],
@@ -792,10 +791,8 @@
     "kgmid": "/g/1xcbqk2r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -819,7 +816,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj4kItd-hwokRQJqxLctbQVw",
     "categories": [
       "Pharmacy"
     ],
@@ -931,10 +928,8 @@
     "kgmid": "/g/11c46b6gsp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -958,7 +953,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1YcSUI6hwokR7p2-ZNWLJQE",
     "categories": [
       "Pharmacy"
     ],
@@ -1073,10 +1068,8 @@
     "kgmid": "/g/11c468nzdt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1101,7 +1094,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1ePf8uWhwokRh7eHP7_VGCI",
     "categories": [
       "Pharmacy"
     ],
@@ -1207,10 +1200,8 @@
     "kgmid": "/g/12vsyxs7g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Stamford Health Pharmacy At Stamford Hospital",
@@ -1234,7 +1225,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWf26BXOhwokRNMB6bttghDI",
     "categories": [
       "Pharmacy"
     ],
@@ -1303,12 +1294,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO0bl6DyGkwvPn9RHT9lMzAwAvHY75Ex6gfdgYn=w408-h544-k-no",
     "kgmid": "/g/11rtydwlyz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1333,7 +1322,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh6v1k8ShwokRIoRf1SvTCnE",
     "categories": [
       "Pharmacy"
     ],
@@ -1460,10 +1449,8 @@
     "kgmid": "/g/11cn95b30f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1487,7 +1474,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVRi6LJaZwokRE4w5ncL5OmM",
     "categories": [
       "Pharmacy"
     ],
@@ -1599,10 +1586,8 @@
     "kgmid": "/g/11g_x1s3tc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "North Street Pharmacy",
@@ -1717,12 +1702,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOoKLJ_7Z8jODk4GzfsY7smovJBppCNKNYED3xl=w408-h389-k-no",
     "kgmid": "/g/1vc82rbc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "stamford_ct"
   },
   {
     "title": "CVS Pharmacy",
@@ -1746,7 +1732,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_4hT4GehwokRPQh8k0TgsYk",
     "categories": [
       "Pharmacy"
     ],
@@ -1858,10 +1844,8 @@
     "kgmid": "/g/11c468k25g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1885,7 +1869,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3bpZDqGhwokRPwOmr32jifI",
     "categories": [
       "Pharmacy"
     ],
@@ -1997,10 +1981,8 @@
     "kgmid": "/g/11c475cbqw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2024,7 +2006,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD_XeoRuhwokRKniNnjCPlEI",
     "categories": [
       "Pharmacy"
     ],
@@ -2136,10 +2118,8 @@
     "kgmid": "/g/11c468d9v9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2164,7 +2144,7 @@
     "totalScore": 1.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvWBmnUShwokRNE5WyFUgmw0",
     "categories": [
       "Pharmacy"
     ],
@@ -2294,10 +2274,8 @@
     "kgmid": "/g/11cn93hgvq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2321,7 +2299,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWSA_KLqhwokRnQcDRW_Wq_I",
     "categories": [
       "Pharmacy"
     ],
@@ -2436,10 +2414,8 @@
     "kgmid": "/g/11c468lhlq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ShopRite Pharmacy of Shippan Ave- Stamford, CT",
@@ -2463,7 +2439,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf8H8UtehwokRjq5VqeZKQdc",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2560,10 +2536,8 @@
     "kgmid": "/g/11f03kcbbj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "ShopRite Pharmacy of Commerce St.-Stamford, CT",
@@ -2587,7 +2561,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh7DXDKqYwokRUFzvcxRV_68",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2684,9 +2658,7 @@
     "kgmid": "/g/1hd_br6lz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

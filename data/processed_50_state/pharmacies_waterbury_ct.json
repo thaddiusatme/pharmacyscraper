@@ -132,7 +132,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Bunker Hill Pharmacy",
@@ -261,12 +262,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOqm0_MsdimohFrqqPvUhHFJKlhr1l3xSyiwWze=w418-h240-k-no",
     "kgmid": "/g/1262bt_08",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Della Pietra Pharmacy",
@@ -389,7 +391,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Unity Pharmacy",
@@ -497,10 +500,11 @@
     "kgmid": "/g/11vsbtpb8_",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Waterbury Pharmacy",
@@ -622,10 +626,11 @@
     "kgmid": "/g/1v0lltjh",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "CVS Pharmacy",
@@ -649,7 +654,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsZbK_bfB54kRuzAc-Tm175s",
     "categories": [
       "Pharmacy"
     ],
@@ -767,10 +772,8 @@
     "kgmid": "/g/11c4676r0x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Royal Pharmacy LLC",
@@ -881,9 +884,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "East Main Pharmacy",
@@ -907,7 +911,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1zJSPiXB54kRUekJaiFRUtE",
     "categories": [
       "Pharmacy"
     ],
@@ -1031,12 +1035,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k18j206NLLTY9hgkfCES0w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=121.964005&pitch=0&thumbfov=100",
     "kgmid": "/g/1tcvq924",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Brass Mill Pharmacy",
@@ -1126,7 +1128,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Genoa Healthcare",
@@ -1150,7 +1153,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMUgQ1T_B54kRJxSVoez5Oyk",
     "categories": [
       "Pharmacy"
     ],
@@ -1221,10 +1224,8 @@
     "kgmid": "/g/11jdd6n4lx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "BRASS CITY PHARMACY",
@@ -1355,7 +1356,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "W. H. Pickett Drug Co",
@@ -1487,7 +1489,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1512,7 +1515,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7YJjRbbB54kRpXDt1V-AW1k",
     "categories": [
       "Pharmacy"
     ],
@@ -1610,10 +1613,8 @@
     "kgmid": "/g/11gvy11p7m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Reliant Compounded Solutions, Southport",
@@ -1800,7 +1801,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Main Street Chemist",
@@ -1944,7 +1946,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Wilmont Pharmacy",
@@ -2072,10 +2075,11 @@
     "kgmid": "/g/1yfjv68rw",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "Flora Pharmacy - Ken Caryl",
@@ -2227,10 +2231,11 @@
     "kgmid": "/g/11tsg7tk46",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waterbury_ct"
   },
   {
     "title": "CVS Pharmacy",
@@ -2254,7 +2259,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ68T0PNbA54kRQt9-gQpP-_I",
     "categories": [
       "Pharmacy"
     ],
@@ -2369,10 +2374,8 @@
     "kgmid": "/g/11c468fv0d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2396,7 +2399,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnfnCsjPB54kR7iXInlBkOYQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2508,9 +2511,7 @@
     "kgmid": "/g/11c467rfj6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

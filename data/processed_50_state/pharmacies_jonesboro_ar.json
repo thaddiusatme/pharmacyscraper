@@ -21,7 +21,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdb0WCSsp1IcR-amXzyj-IUk",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -122,12 +122,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FcS-2GBJdveYIaiUKuXisg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=202.82329&pitch=0&thumbfov=100",
     "kgmid": "/g/1q5bnqvm_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hilltop Family Pharmacy",
@@ -537,7 +535,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV-rR7M0u1IcRzwVdGQqxmRM",
     "categories": [
       "Pharmacy"
     ],
@@ -667,10 +665,8 @@
     "kgmid": "/g/11cn949vgg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Gibson's Pharmacy of Jonesboro",
@@ -791,7 +787,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -981,10 +977,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKJBWDt9SUCji2yt9ihq4CmEQzPs_-wH4bO6ww=w408-h272-k-no",
     "kgmid": "/g/1tlbk2sm",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1649,10 +1645,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwnytHFKxf9d2S07jZHkdNUCzc8boIe4UnIUazDLfvBBvNDwEIzTjhl-CwRMFP0zHA3WvjNfJL177gbQyXjc19FTgizuR_DPYmqSAsbJ4PKgAByPvEV7SlLyYt7VgDsXScybeQrg=w408-h494-k-no",
     "kgmid": "/g/11vh_sxbsb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1798,7 +1794,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1934,10 +1930,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqbLXErrTN0wAnWd4mZ6Ru0mkY7lQ_zAOfKKTmqf131Ko7bYg00FvhuPPsGSIL5jY00Gib4fe5bn9I6w7rpb54DoxQOtHLcmu6V0iQ9lJO_auWDzNKrO0T5r6LEUN25XoWz1pyKOQ=w408-h306-k-no",
     "kgmid": "/g/1td8znns",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2259,7 +2255,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2287,7 +2283,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB7VsHNIu1IcRos5CsSqUJpQ",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2501,10 +2497,8 @@
     "kgmid": "/g/11cs4gnf6d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Vince A. Bari, PD",

@@ -124,7 +124,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -399,7 +399,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -527,7 +527,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.93,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -648,7 +648,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1391,7 +1391,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1518,10 +1518,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPAjW529DwcNsI1VVZwbm3jeeHCC9EbpsgM9vri=w430-h240-k-no",
     "kgmid": "/g/11s1bl7ns9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1547,7 +1547,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXU_fdwBfYIgReAtd_Tv3VYs",
     "categories": [
       "Pharmacy"
     ],
@@ -1626,12 +1626,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qRLB8NgumTFlJrfPciOAGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.4021&pitch=0&thumbfov=100",
     "kgmid": "/g/11y35mk42l",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Access Family Pharmacy",
@@ -1756,7 +1754,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1882,7 +1880,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2016,7 +2014,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJL-F-PgNjYIgRJvi4ZQaJNig",
     "categories": [
       "Pharmacy"
     ],
@@ -2129,10 +2127,8 @@
     "kgmid": "/g/11fv4fbnfn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Stop-N-Go Discount Pharmacy",
@@ -2267,7 +2263,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2394,7 +2390,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJeerdyuljYIgRX8pxEwHrFJ0",
     "categories": [
       "Pharmacy"
     ],
@@ -2503,11 +2499,9 @@
     "rank": 20,
     "isAdvertisement": false,
     "kgmid": "/g/11rhqs78r6",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

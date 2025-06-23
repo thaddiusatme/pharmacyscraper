@@ -35,53 +35,47 @@ SAMPLE_RESULTS = [
 # Fixtures
 @pytest.fixture
 def mock_apify_client():
-    """Create a mock ApifyClient."""
-    with patch('scripts.apify_collector.ApifyClient') as mock_client_class:
+    """Create a mock ApifyClient that prevents real API calls."""
+    with patch('apify_client.ApifyClient') as mock_client_class:
         mock_client = MagicMock()
         mock_client_class.return_value = mock_client
-        
-        # Mock the actor run
-        mock_run = {
+
+        # Mock the actor().call() chain to return a run ID
+        mock_run_dict = {
             'id': 'test-run-id',
             'status': 'SUCCEEDED',
             'defaultDatasetId': 'test-dataset-id'
         }
-        
-        # Mock the actor call
         mock_actor = MagicMock()
-        mock_actor.call.return_value = mock_run
+        mock_actor.call.return_value = mock_run_dict
         mock_client.actor.return_value = mock_actor
-        
-        # Mock the dataset
-        mock_dataset = MagicMock()
-        mock_dataset.iterate_items.return_value = SAMPLE_RESULTS
-        
-        # Mock list_items to return an object with items attribute
-        mock_list_result = MagicMock()
-        mock_list_result.items = SAMPLE_RESULTS
-        mock_dataset.list_items.return_value = mock_list_result
-        
-        mock_client.dataset.return_value = mock_dataset
-        
-        # Mock wait_for_finish
-        mock_actor.wait_for_finish.return_value = mock_run
-        
+
+        # Mock the run().get() chain to prevent the polling loop
+        mock_run_client = MagicMock()
+        mock_run_client.get.return_value = mock_run_dict
+        mock_client.run.return_value = mock_run_client
+
+        # Mock the dataset().list_items() chain
+        mock_dataset_client = MagicMock()
+        mock_list_items_result = MagicMock()
+        mock_list_items_result.items = SAMPLE_RESULTS
+        mock_dataset_client.list_items.return_value = mock_list_items_result
+        mock_dataset_client.iterate_items.return_value = SAMPLE_RESULTS # Fallback
+        mock_client.dataset.return_value = mock_dataset_client
+
         yield mock_client
 
 @pytest.fixture
 def apify_collector():
-    """Create an ApifyCollector instance with a test API token."""
-    collector = ApifyCollector(api_token='test-token')
-    # Clear any cached client to ensure fresh mock is used
-    collector._client = None
-    return collector
+    """Create an ApifyCollector instance with caching disabled."""
+    return ApifyCollector(api_token='test-token', use_cache=False)
 
 @pytest.fixture
 def collector(tmp_path):
-    """Create a test collector with a temporary output directory."""
+    """Create a test collector with a temporary output directory and no caching."""
     output_dir = tmp_path / "output"
     output_dir.mkdir()
-    return ApifyCollector(output_dir=str(output_dir))
+    return ApifyCollector(output_dir=str(output_dir), use_cache=False)
 
 def test_init_creates_output_dir(tmp_path):
     """Test that output directory is created if it doesn't exist."""

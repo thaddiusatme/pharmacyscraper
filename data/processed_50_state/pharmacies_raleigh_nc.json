@@ -586,7 +586,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1454,7 +1454,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1979,7 +1979,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2340,7 +2340,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvT2HW5BYrIkR4bLlfTXHmYc",
     "categories": [
       "Pharmacy"
     ],
@@ -2476,10 +2476,8 @@
     "kgmid": "/g/11cn95w46n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Garner 5th Ave Pharmacy",

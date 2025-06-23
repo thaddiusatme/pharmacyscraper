@@ -111,9 +111,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Custom Prescriptions",
@@ -239,7 +240,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Alto Pharmacy",
@@ -392,12 +394,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ6Z5ptwhI8xzCdlGdg7k8MJmkL6eG_WhtbxEb=w408-h306-k-no",
     "kgmid": "/g/11j1zcck8j",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Beyond Dispensing Pharmacy and Compounding",
@@ -460,7 +463,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Nebraska Medicine Pharmacy at Bellevue Health Center",
@@ -484,7 +488,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBSs3mC7Z5ogRfW_WyA4bHE4",
     "categories": [
       "Pharmacy"
     ],
@@ -569,12 +573,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPaLUYZEo394w0iQ5Ge3YmsTEkhFMwNZY53uii-=w408-h408-k-no",
     "kgmid": "/g/1hc28vgcj",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CHI Health Pharmacy (Bellevue)",
@@ -598,7 +600,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8zl_0OmJk4cRJ5WruAmgolU",
     "categories": [
       "Pharmacy"
     ],
@@ -677,12 +679,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMuN5xuzKuN4eSW5eGSt5P3yqHn6LG6T5ZhErvB=w408-h280-k-no",
     "kgmid": "/g/1vlqqq6y",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UNMC Physicians Pharmacy",
@@ -750,12 +750,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aVW9pSX9R9efTjWlRgamLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.296883&pitch=0&thumbfov=100",
     "kgmid": "/g/1tcx20b3",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Baker's Pharmacy",
@@ -948,7 +949,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Baker's Pharmacy",
@@ -1136,7 +1138,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "CVS Pharmacy",
@@ -1160,7 +1163,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlzKXMuyJk4cRsHusgA_IEWU",
     "categories": [
       "Pharmacy"
     ],
@@ -1269,10 +1272,8 @@
     "kgmid": "/g/1tfyf1wz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1297,7 +1298,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh3_pIhCIk4cRoNwyGwO-mYA",
     "categories": [
       "Pharmacy"
     ],
@@ -1430,10 +1431,8 @@
     "kgmid": "/g/11cn96z5kg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Clark's Compounding Pharmacy",
@@ -1574,7 +1573,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1599,7 +1599,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTaYAZ0GJk4cRUPGlsNg9Co0",
     "categories": [
       "Pharmacy"
     ],
@@ -1732,10 +1732,8 @@
     "kgmid": "/g/11cn96j088",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Nebraska LTC Pharmacy",
@@ -1852,9 +1850,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1878,7 +1877,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo_xmjjJ2lIcRigtLzllYkDk",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1997,10 +1996,8 @@
     "kgmid": "/g/1hm4rvgy0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UW Medicine Outpatient Pharmacy at Eastside Specialty Center",
@@ -2093,12 +2090,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bhdk8Dm-AjyXrmc0tjSjqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.230385&pitch=0&thumbfov=100",
     "kgmid": "/g/11vd61h6_0",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Walmart Pharmacy",
@@ -2122,7 +2120,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcU0GhU2Ik4cRTmzrKs53R7k",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2238,10 +2236,8 @@
     "kgmid": "/g/1hdzl06nr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -2265,7 +2261,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJp7G-aqhtkFQRHTDbRdWS0kY",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2387,10 +2383,8 @@
     "kgmid": "/g/1hd_bq7m6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "RxSolutions Compounding Pharmacy",
@@ -2510,9 +2504,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bellevue_ne"
   },
   {
     "title": "Walgreens",
@@ -2538,7 +2533,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaa3yJxCIk4cRIwfzYsnnVsE",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2744,9 +2739,7 @@
     "kgmid": "/g/1wc31rg8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

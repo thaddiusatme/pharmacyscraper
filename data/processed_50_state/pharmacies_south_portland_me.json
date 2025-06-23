@@ -130,7 +130,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Brooklyn Pharmacy",
@@ -261,7 +262,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "CVS Pharmacy",
@@ -285,7 +287,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcfeCdYOeskwR9q2wBmqCyOI",
     "categories": [
       "Pharmacy"
     ],
@@ -406,10 +408,8 @@
     "kgmid": "/g/11c4637tpm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -434,7 +434,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV68hGguZskwR1kr4GgB5mpc",
     "categories": [
       "Pharmacy"
     ],
@@ -540,10 +540,8 @@
     "kgmid": "/g/1tdp4n5t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -569,7 +567,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXfKW67aeskwRziPin7mzWmc",
     "categories": [
       "Pharmacy"
     ],
@@ -744,10 +742,8 @@
     "kgmid": "/g/1tf07844",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy Specialty Services",
@@ -771,7 +767,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJT58HfXKcskwR-zFRLF1r5Ik",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -859,10 +855,8 @@
     "kgmid": "/g/1tc_kr68",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -886,7 +880,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1ZqlncmdskwRMlNrh-KP79I",
     "categories": [
       "Pharmacy"
     ],
@@ -957,10 +951,8 @@
     "kgmid": "/g/11rc75vhtf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -984,7 +976,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHdWVJmuZskwR0StR-6lSZHc",
     "categories": [
       "Pharmacy"
     ],
@@ -1080,10 +1072,8 @@
     "kgmid": "/g/11b6ggdbrr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Coastal Pharmacy & Wellness",
@@ -1256,7 +1246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Northern Light Pharmacy",
@@ -1380,12 +1371,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOFirsk7XGo3rY69XCGMe0p62T1d9EPNDWzBcof2OgFxFecP6KBYS0jCInVocKY_uSosoUD1-ZMSuPiTI-CM4BWZSq7jHiyOssIlWWms4XPq1PcxrFlWN7vVB420hFvL2aQ_9S=w408-h307-k-no",
     "kgmid": "/g/11hbn1hfn8",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -1409,7 +1401,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJv2hIQoKeskwR2Se8QA2IALc",
     "categories": [
       "Pharmacy"
     ],
@@ -1505,10 +1497,8 @@
     "kgmid": "/g/11b6cvhz0_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "LECARE Pharmacy",
@@ -1628,7 +1618,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Avita Pharmacy 1027",
@@ -1746,9 +1737,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Pharmacy.com",
@@ -1883,9 +1875,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "Pharmacy at Coastal Pharmacy & Wellness",
@@ -2050,7 +2043,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "south_portland_me"
   },
   {
     "title": "CVS",
@@ -2076,7 +2070,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfVwJg4aeskwRrLJKgGvAs6g",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2259,10 +2253,8 @@
     "kgmid": "/g/1tdqh1y8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -2288,7 +2280,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb4uxu7aeskwRkY0LRo6QjeU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2448,10 +2440,8 @@
     "kgmid": "/g/11vyr6dlg1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -2475,7 +2465,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcxBqOT2bskwRj1Sayf6ePzc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2581,9 +2571,7 @@
     "kgmid": "/g/1tdwk2x0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

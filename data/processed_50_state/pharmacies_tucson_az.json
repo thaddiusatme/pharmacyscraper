@@ -478,8 +478,8 @@
     "kgmid": "/g/1tdzrlb4",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.9,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -836,7 +836,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -863,7 +863,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnRn5WcJz1oYRxSXcQoKNfHU",
     "categories": [
       "Pharmacy"
     ],
@@ -977,10 +977,8 @@
     "kgmid": "/g/11rj_2dfdy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1005,7 +1003,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQSnrylZw1oYRDLkAUu1smuU",
     "categories": [
       "Pharmacy"
     ],
@@ -1084,9 +1082,7 @@
     "kgmid": "/g/11fz314vbl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

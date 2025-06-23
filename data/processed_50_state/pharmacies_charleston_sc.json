@@ -123,8 +123,8 @@
     "kgmid": "/g/11sn_2c31h",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -366,8 +366,8 @@
     "kgmid": "/g/1tjyvgbw",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -493,8 +493,8 @@
     "kgmid": "/g/1yg4d_k1g",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -651,7 +651,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -954,8 +954,8 @@
     "kgmid": "/g/1tg9n_8b",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1103,8 +1103,8 @@
     "kgmid": "/g/11frps8q_k",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1130,7 +1130,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb7AXHlh8_ogRu52MHcQWWhQ",
     "categories": [
       "Pharmacy",
       "Convenience store",
@@ -1266,12 +1266,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nquqjAf2YrVY564jU1cyUw7d_Jz_OVgVqcJt4FB5SBQsdVqH5LZi2my5WthdM4oIO3oa4MMOOP3JzNq-ghX3SiPsz5XJpJrR228dCfLjL5ZZaQTH_kMrorA77SfxZkodLSQIART=w408-h272-k-no",
     "kgmid": "/g/1tf6147m",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walt's Family Pharmacy North Charleston",
@@ -1632,7 +1630,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1800,7 +1798,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqzc21SV7_ogR6MjxLVGNEQw",
     "categories": [
       "Pharmacy"
     ],
@@ -1876,10 +1874,8 @@
     "kgmid": "/g/11h57xy1h7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sweetgrass Pharmacy and Compounding Carolina Park",
@@ -2151,8 +2147,8 @@
     "kgmid": "/g/11b5z8z26p",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2274,8 +2270,8 @@
     "kgmid": "/g/1tjyvgbm",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.99,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2405,7 +2401,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },

@@ -220,7 +220,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Macey's West Jordan Pharmacy",
@@ -244,7 +245,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVxYF49qPUocR2ih7RHyM8CY",
     "categories": [
       "Pharmacy",
       "Medical clinic",
@@ -363,12 +364,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCN9s8qF0LfrwVbOAuoWC_xTf8DfBqSe61wOek7WAyl6HSSk_QcEWTPz1QvEwA70NsA6A0bJsk2cgfdC6WIVPV2ZSFDMrBWupEQpQYIqrDV3ygLiU-Bx6ovWLLcwqsljtB1cgzrA=w408-h306-k-no",
     "kgmid": "/g/11mvr97vqr",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -392,7 +391,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0WAsGhCPUocRLeXIEdMmNUc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -519,10 +518,8 @@
     "kgmid": "/g/1pty3s5pt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -546,7 +543,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJT0WxpRWOUocRZ_Z1_IbwF9A",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -703,10 +700,8 @@
     "kgmid": "/g/11c6sr7qy9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Wellcare Pharmacy",
@@ -856,7 +851,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Smith's Pharmacy",
@@ -880,7 +876,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIZmEjDmJUocRh2qQnJPBJ5I",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1002,10 +998,8 @@
     "kgmid": "/g/1q5hrm3p3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1029,7 +1023,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvalOuieJUocRIzvfeFPY5g0",
     "categories": [
       "Pharmacy"
     ],
@@ -1141,10 +1135,8 @@
     "kgmid": "/g/11c468fv0r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1170,7 +1162,7 @@
     "totalScore": 1.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz0lQvyeJUocRKaO_eJwGxDU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1376,10 +1368,8 @@
     "kgmid": "/g/1th0by0t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Jolley\u2019s Pharmacy Redwood",
@@ -1513,7 +1503,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1537,7 +1528,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwwV98LeIUocRIx8d40kbk_8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1667,10 +1658,8 @@
     "kgmid": "/g/1ptxbxxl2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1695,7 +1684,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIbYFzieJUocRcaayZSzjtfs",
     "categories": [
       "Pharmacy"
     ],
@@ -1834,10 +1823,8 @@
     "kgmid": "/g/11cn96d227",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1862,7 +1849,7 @@
     "totalScore": 2.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ749ITO6OUocRMWhoN_y9JzI",
     "categories": [
       "Pharmacy"
     ],
@@ -1968,10 +1955,8 @@
     "kgmid": "/g/1tcx7h90",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1996,7 +1981,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbYPc3hCPUocRhAM5oP6najs",
     "categories": [
       "Pharmacy"
     ],
@@ -2126,10 +2111,8 @@
     "kgmid": "/g/11cn95w469",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2155,7 +2138,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfSj6uyeJUocR1WFMXs7zsPo",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2375,10 +2358,8 @@
     "kgmid": "/g/11bx1hsqwx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Olive Pharmacy",
@@ -2512,7 +2493,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Gibsons Pharmacy & Compounding",
@@ -2643,7 +2625,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Oquirrh Mountain Pharmacy",
@@ -2771,7 +2754,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Oquirrh Mountain Pharmacy West Valley",
@@ -2795,7 +2779,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV8mH-kmNUocRFQhESBdA4kA",
     "categories": [
       "Pharmacy"
     ],
@@ -2899,12 +2883,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNp8IkLosF8eadLoj7_QWhIO6Q6QIILdfWcApwY=w408-h306-k-no",
     "kgmid": "/g/11rmwb_0xh",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Holt's Pharmacy and Nutrition Center",
@@ -3036,7 +3018,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   },
   {
     "title": "Medicine Market Compounding Pharmacy",
@@ -3158,8 +3141,9 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_jordan_ut"
   }
 ]

@@ -135,7 +135,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -259,8 +259,8 @@
     "kgmid": "/g/12hklcxts",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 1.0,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -536,8 +536,8 @@
     "kgmid": "/g/1tfgd_nz",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -796,8 +796,8 @@
     "kgmid": "/g/1hcb63m72",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1046,7 +1046,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1183,7 +1183,7 @@
     "kgmid": "/g/1tlc8v7w",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1326,8 +1326,8 @@
     "kgmid": "/g/1td140sh",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   }

@@ -1,0 +1,2772 @@
+[
+  {
+    "title": "Vermont Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1219 North Ave, Burlington, VT 05408",
+    "neighborhood": "New North End",
+    "street": "1219 North Ave",
+    "city": "Burlington",
+    "postalCode": "05408",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.vtfamilyrx.com/",
+    "phone": "(802) 658-9664",
+    "phoneUnformatted": "+18026589664",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.508597,
+      "lng": -73.247381
+    },
+    "plusCode": "GQ53+C2 Burlington, Vermont",
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca6555bd77e03b:0xd0832b7d31129213",
+    "cid": "15024900598532313619",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 19
+    },
+    "imagesCount": 4,
+    "imageCategories": [
+      "All",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T10:03:46.271Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Walgreens Pharmacy",
+        "reviewsCount": 0,
+        "totalScore": 0
+      },
+      {
+        "category": "People also search for",
+        "title": "Pharmacy - 1 South Prospect, University of Vermont Medical Center",
+        "reviewsCount": 14,
+        "totalScore": 3.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Hannaford Pharmacy",
+        "reviewsCount": 18,
+        "totalScore": 3.7
+      },
+      {
+        "category": "People also search for",
+        "title": "Lakeside Pharmacy",
+        "reviewsCount": 83,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "Community Health Centers - Pharmacy",
+        "reviewsCount": 3,
+        "totalScore": 4.7
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vermont%20Family%20Pharmacy&query_place_id=ChIJO-B3vVVlykwRE5ISMX0rg9A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@-11.259521065084295,-171.1468150485474,13z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbOcmrg3_bfK_q8-sZH_4sGGZibhd15YJY2P5apKm7SRBWmrBlHpqnGgywmVko7zoXsztzxLWaJhcO-qjtNiCH8xUITLdCG0Ckf0mPnoEaNDhoTmYaOFakWBgaAYFHc0JDUCrs=w408-h497-k-no",
+    "kgmid": "/g/1tf57hvs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7 Essex Way, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "7 Essex Way",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/essex-vt-pharmacies/7-essex-way-essex-vt-05452/storeid=1052?WT.mc_id=LS_GOOGLE_RX_1052",
+    "phone": "(802) 879-7438",
+    "phoneUnformatted": "+18028797438",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5092999,
+      "lng": -73.0791175
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK9N7t6Z3ykwRCFVrRiSo_bc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca77a6b77bd32b:0xb7fda824466b5508",
+    "cid": "13257937751802336520",
+    "reviewsCount": 17,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.836Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJK9N7t6Z3ykwRCFVrRiSo_bc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMoppqOXGpbn1FcR9w8c6Q2S8omPQB2MEZNoTt8=w408-h272-k-no",
+    "kgmid": "/g/11bvvznkpp",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "21A Essex Way, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "21A Essex Way",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/vt/essex-junction/8353",
+    "phone": "(802) 878-0119",
+    "phoneUnformatted": "+18028780119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5071379,
+      "lng": -73.0839139
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJce0iOaF3ykwRN8owa22llWk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca77a13922ed71:0x6995a56d6b30ca37",
+    "cid": "7608169034880698935",
+    "reviewsCount": 6,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.836Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJce0iOaF3ykwRN8owa22llWk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrOLXpTYS3e9kkx-gZeVlfc8v1H7GVzv5kSnaraYCalyz4cTs-_CFRZnMLV0mnQcanKOEzFTKWhqx1Qu3o7c3lvwCqV9I76vMHaiUufZDLu_THddukNUJXKMc0JPo4pZLT1GusY=w408-h394-k-no",
+    "kgmid": "/g/11b66hhrcq",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Price Chopper Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "90 Center Rd, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "90 Center Rd",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.pricechopper.com/stores/vt/essexjunction/pharmacy-192.html",
+    "phone": "(802) 879-4155",
+    "phoneUnformatted": "+18028794155",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5117756,
+      "lng": -73.0658775
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXzw_k7B3ykwRd8q8FTgKHRM",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cca77b0933f3c5f:0x131d0a3815bcca77",
+    "cid": "1377268297044380279",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.837Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Price%20Chopper%20Pharmacy&query_place_id=ChIJXzw_k7B3ykwRd8q8FTgKHRM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3SeGWzzyAm-eTG05DPxdVUUOYjjrdxCdGYw-htv2P0iY288lYkX6kHjiYIo2nDBgZkyvOpsiFqzlCxPIioJrOZDLB1bHu3x35ItaSf_UDyucWaCS45fC3VahGWgbTciFGlR1N=w408-h394-k-no",
+    "kgmid": "/g/11b66kgg8l",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Kinney Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "82 Pearl St, Essex Junction, VT 05452",
+    "neighborhood": null,
+    "street": "82 Pearl St",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/21/",
+    "phone": "(802) 878-5351",
+    "phoneUnformatted": "+18028785351",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4936192,
+      "lng": -73.1204041
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXcp29b13ykwR77bC3Tc6uxk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca77bdf576ca5d:0x19bb3a37ddc2b6ef",
+    "cid": "1854139683211228911",
+    "reviewsCount": 0,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.837Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 4\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs%20Pharmacy&query_place_id=ChIJXcp29b13ykwR77bC3Tc6uxk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPMZ1gK3CnGlXqtAOeU7xf9G8i202tdu2skgD9=w408-h408-k-no",
+    "kgmid": "/g/11shx5zb4l",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Kinney Drugs",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "82 Pearl St, Essex Junction, VT 05452",
+    "neighborhood": null,
+    "street": "82 Pearl St",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/21/",
+    "phone": "(802) 878-5351",
+    "phoneUnformatted": "+18028785351",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4936069,
+      "lng": -73.1204183
+    },
+    "locatedIn": "Kinney Drugs Pharmacy",
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQQJcm2B3ykwRIj7KMABU2ko",
+    "categories": [
+      "Drug store",
+      "Convenience store",
+      "General store"
+    ],
+    "fid": "0x4cca77609b5c0241:0x4ada540030ca3e22",
+    "cid": "5393715863524884002",
+    "reviewsCount": 37,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.837Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Kinney Drugs Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs&query_place_id=ChIJQQJcm2B3ykwRIj7KMABU2ko",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nryGqtzZ2-00pATjvw3DrBc--EO3Be_jO5F0ToNBtsaChHj7K5sJXYr5eUArGPIcMB20OQ9sumRSh9EYez6F0jj9wZApBQAAu3ZhKltTRK21Q3IzeE1MyGneQPrEMvIsmUN6L38gA=w408-h306-k-no",
+    "kgmid": "/g/1tnbkrv0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Lakeside Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "242 Pearl St, Burlington, VT 05401",
+    "neighborhood": "Old North End",
+    "street": "242 Pearl St",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.lakerx.org/",
+    "phone": "(802) 862-1491",
+    "phoneUnformatted": "+18028621491",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4807158,
+      "lng": -73.2090145
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7af5e76cf753:0x25d1c19a48545159",
+    "cid": "2725172117918470489",
+    "reviewsCount": 83,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.837Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Pharmacy&query_place_id=ChIJU_ds5_V6ykwRWVFUSJrB0SU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDmZ10snrnZsH9WY5jknMybfF11Ir_fQE6PYKZ8rBuW-mbCdqVC5nG1uAfnxut7rNOPSn-3QwPql6I1pcOIBgsqF2sVSrIs8Q3u4q9dUCbdEsiM_KtTYICSkEAZKcbriLRwlBt5A=w408-h271-k-no",
+    "kgmid": "/g/1td42378",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "Community Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "158 Brentwood Dr # 6, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "158 Brentwood Dr # 6",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.communityhealthpharmacy.com/app/",
+    "phone": "(888) 669-9017",
+    "phoneUnformatted": "+18886699017",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.5954772,
+      "lng": -73.1707689
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXeumCWxyykwRY4F7RSnEd6w",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca726c09a6eb5d:0xac77c429457b8163",
+    "cid": "12427617378290598243",
+    "reviewsCount": 25,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.838Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Pharmacy&query_place_id=ChIJXeumCWxyykwRY4F7RSnEd6w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "kgmid": "/g/1td4zgsp",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5 Joshua Way, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "5 Joshua Way",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-5+joshua+way-essex+junction-vt-05452/id=17471",
+    "phone": "(802) 872-1800",
+    "phoneUnformatted": "+18028721800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5045633,
+      "lng": -73.1367046
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRWgw6dh3ykwRyqcJd0J2pGs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca77d8e9306845:0x6ba476427709a7ca",
+    "cid": "7756454486075877322",
+    "reviewsCount": 8,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:47.838Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "In-store shopping": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJRWgw6dh3ykwRyqcJd0J2pGs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@58.79025158634311,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwN4lMWDjAzUJvOCS8N1OJozFRS5VX-tOdQlY5=w525-h240-k-no",
+    "kgmid": "/g/11j7x_v6ky",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Cross Plains Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1840 Main St, Cross Plains, WI 53528, United States",
+    "neighborhood": null,
+    "street": "1840 Main St",
+    "city": "Cross Plains",
+    "postalCode": "53528",
+    "state": "Wisconsin",
+    "countryCode": "US",
+    "website": "http://www.crossplainspharmacy.com/",
+    "phone": "+1 608-798-3031",
+    "phoneUnformatted": "+16087983031",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.1137184,
+      "lng": -89.6510506
+    },
+    "plusCode": "487X+FH Cross Plains, Wisconsin, USA",
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8807a16c5e2866a1:0xc6f1b9c26537f1de",
+    "cid": "14335443333469958622",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 9
+    },
+    "imagesCount": 4,
+    "imageCategories": [
+      "All",
+      "By owner",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T10:03:55.426Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Walgreens Pharmacy",
+        "reviewsCount": 11,
+        "totalScore": 4.3
+      },
+      {
+        "category": "People also search for",
+        "title": "United States Postal Service",
+        "reviewsCount": 24,
+        "totalScore": 2.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Forward Pharmacy McFarland",
+        "reviewsCount": 102,
+        "totalScore": 4.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Pharmacy Society of Wisconsin",
+        "reviewsCount": 5,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "Edgerton Pharmacy",
+        "reviewsCount": 60,
+        "totalScore": 4.2
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "questionsAndAnswers": {
+      "question": "Hello,\n\nCould I stop by tomorrow Friday Feb 21 to get a flu vaccine??\n\nBarbara Borns",
+      "answers": [
+        {
+          "answer": "Hi Barbara, We're closed right now but, we'll reach out to you tomorrow morning after we open back up to answer your question. Thank you for reaching out! Lisa",
+          "answeredBy": {}
+        }
+      ],
+      "askDate": "4 months ago",
+      "askedBy": {}
+    },
+    "url": "https://www.google.com/maps/search/?api=1&query=Cross%20Plains%20Pharmacy&query_place_id=ChIJoWYoXmyhB4gR3vE3ZcK58cY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@42.54640259466427,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipORcBigsp9SCOfM0y0huVmKJxfh5oOx8X2SFZSX=w408-h306-k-no",
+    "kgmid": "/g/1vsps1yz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "7 Essex Way, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "7 Essex Way",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/essex-vt-pharmacies/7-essex-way-essex-vt-05452/storeid=1052?WT.mc_id=LS_GOOGLE_FS_1052",
+    "phone": "(802) 879-7438",
+    "phoneUnformatted": "+18028797438",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5091075,
+      "lng": -73.0790584
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuc6QoqZ3ykwRlxfx0NuT0so",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x4cca77a6a290ceb9:0xcad293dbd0f11797",
+    "cid": "14614906313083262871",
+    "reviewsCount": 61,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:56.647Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJuc6QoqZ3ykwRlxfx0NuT0so",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@-10.989466511638566,-171.1468150485474,13z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZsoyXl5pPiui-izanE6HkMrkdve4xq82xyUhT=w408-h272-k-no",
+    "kgmid": "/g/1v27v3h0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Rite Aid",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "9 Susie Wilson Rd, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "9 Susie Wilson Rd",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/vt/essex-junction/9-susie-wilson-road.html",
+    "phone": "(802) 872-1800",
+    "phoneUnformatted": "+18028721800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.50459,
+      "lng": -73.136762
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4aRXrGB3ykwR59ZKb4WV6GY",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x4cca7760ac57a4e1:0x66e895856f4ad6e7",
+    "cid": "7415341186795886311",
+    "reviewsCount": 34,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:56.647Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJ4aRXrGB3ykwR59ZKb4WV6GY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@-10.989466511638566,-171.1468150485474,13z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbpNeTXgMvvuZVT0P_hl8RC5_sVq0v-9JEn8kL=w408-h406-k-no",
+    "kgmid": "/g/1hc250mnd",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "5 Joshua Way, Essex Junction, VT 05452",
+    "neighborhood": "Essex Town",
+    "street": "5 Joshua Way",
+    "city": "Essex Junction",
+    "postalCode": "05452",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-5+joshua+way-essex+junction-vt-05452/id=17471",
+    "phone": "(802) 872-1800",
+    "phoneUnformatted": "+18028721800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.504566,
+      "lng": -73.1367281
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3wu5rk13ykwR-E-2TAkHqXY",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x4cca774daeb90bdf:0x76a907094cb64ff8",
+    "cid": "8550373104062713848",
+    "reviewsCount": 2,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:56.648Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJ3wu5rk13ykwR-E-2TAkHqXY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@-10.989466511638566,-171.1468150485474,13z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOB1suggDkhIe3kSwBaylL3LSvx8uenoBJGC51E=w427-h240-k-no",
+    "kgmid": "/g/11vwjypj3_",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "FREEDOM PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "434 Hurricane Ln, Williston, VT 05495",
+    "neighborhood": null,
+    "street": "434 Hurricane Ln",
+    "city": "Williston",
+    "postalCode": "05495",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.freedompharmacyvt.com/",
+    "phone": "(802) 655-3544",
+    "phoneUnformatted": "+18026553544",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4361188,
+      "lng": -73.1074546
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a782f3e4891:0xda29c235c7109814",
+    "cid": "15720309510542235668",
+    "reviewsCount": 11,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:04:32.405Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FREEDOM%20PHARMACY&query_place_id=ChIJkUg-L3h6ykwRFJgQxzXCKdo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPEF2GWTrTSzYZpI3VraQC218Y96y8mF199HxBM=w408-h544-k-no",
+    "kgmid": "/g/1tjy13bq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "Fall Mountain Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "78 Atkinson St, Bellows Falls, VT 05101",
+    "neighborhood": "Bellows Falls",
+    "street": "78 Atkinson St",
+    "city": "Bellows Falls",
+    "postalCode": "05101",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://fmprx.com/",
+    "phone": "(802) 428-4023",
+    "phoneUnformatted": "+18024284023",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.1336093,
+      "lng": -72.4503923
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e1a59fdeb19e05:0x57d24c353b825db3",
+    "cid": "6328204217924345267",
+    "reviewsCount": 13,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:04:32.405Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fall%20Mountain%20Pharmacy&query_place_id=ChIJBZ6x3p-l4YkRs12COzVM0lc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqs6ootzo3Fxd9zVARwikRlQe2SMx7z3cDCrgs5A0WQQGJUSxmigRkV4w8INnZKWNIOOwmUaWsv3L4XA77s3jfqwGfYjqfNaAjFNHuPNTC74y_ytDlD0lp8LkPVIHLNptDMaUhP=w408-h544-k-no",
+    "kgmid": "/g/11y5rrw333",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 12
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:04:43.148Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@42.54640259466427,-67.48871611494522,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "Springfield Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "262 River St, Springfield, VT 05156",
+    "neighborhood": "Springfield",
+    "street": "262 River St",
+    "city": "Springfield",
+    "postalCode": "05156",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://smilinsteve.com/springfield",
+    "phone": "(802) 885-6400",
+    "phoneUnformatted": "+18028856400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3092014,
+      "lng": -72.4979555
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e1b835891537c9:0x37218884b7949e59",
+    "cid": "3972606449914519129",
+    "reviewsCount": 28,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:04:48.585Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Springfield%20Pharmacy&query_place_id=ChIJyTcViTW44YkRWZ6Ut4SIITc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DVFO1n03M91yQFgVFV5CIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=243.41458&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf6hn55",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  },
+  {
+    "title": "The Pharmacy, Inc.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "205 North St, Bennington, VT 05201",
+    "neighborhood": "Bennington",
+    "street": "205 North St",
+    "city": "Bennington",
+    "postalCode": "05201",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.pharmacyinc.net/",
+    "phone": "(802) 442-5602",
+    "phoneUnformatted": "+18024425602",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8818299,
+      "lng": -73.1968392
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e09663763ce881:0xaa6bd4b525b87e86",
+    "cid": "12280142683442806406",
+    "reviewsCount": 45,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:04:48.585Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%2C%20Inc.&query_place_id=ChIJgeg8dmOW4IkRhn64JbXUa6o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Essex%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Essex VT",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUH5wG1oW6qL2A9rrHPJSokBx_tAMCNQe3QXZv=w420-h240-k-no",
+    "kgmid": "/g/1tjwjrg7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "essex_vt"
+  }
+]

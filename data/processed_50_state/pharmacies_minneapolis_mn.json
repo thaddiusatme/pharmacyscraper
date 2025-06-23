@@ -139,7 +139,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Fond du Lac Mashkiki Waakaaigan Pharmacy",
@@ -232,7 +233,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Nicollet Pharmacy",
@@ -348,9 +350,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Cedar Pharmacy",
@@ -476,9 +479,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Uptown Pharmacy - Karmel Pharmacy",
@@ -659,7 +663,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Lakes Pharmacy",
@@ -765,7 +770,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Heartfelt Holistic Pharmacy",
@@ -833,7 +839,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Hikma Health Mart Pharmacy",
@@ -857,7 +864,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwT2_Y0Qts1IRcX0JD1pN7u4",
     "categories": [
       "Pharmacy"
     ],
@@ -948,12 +955,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOXVYoTDXzLvyl6rwDoLWZiQxSGpm4W7LNerZcq=w408-h348-k-no",
     "kgmid": "/g/1q66vyr28",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Juba Pharmacy",
@@ -1116,7 +1121,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Guardian Pharmacy of Minneapolis",
@@ -1214,7 +1220,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1240,7 +1247,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVRP4i88ys1IRbLdP-8rbyS8",
     "categories": [
       "Pharmacy"
     ],
@@ -1365,10 +1372,8 @@
     "kgmid": "/g/1tcwfml9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Central Care Pharmacy",
@@ -1421,7 +1426,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Capsule",
@@ -1529,12 +1535,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no5Si0eX9qzKePDhzUsAiZVpAYtJYuCnpFhQ1UqzNops6_BiHTi4oBELwMgJlDIGzHJl_hnFvMkLqXDdEA624lWf8XwT1EJyLMWGC75RyXU3j1wKWdI15GDbUWGSi6OaaOIkxH0=w408-h306-k-no",
     "kgmid": "/g/11ft3j0p7n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Allina Community Pharmacy",
@@ -1627,12 +1634,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2I6Fv3GiXcAYJ_cHmS-siQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.84134&pitch=0&thumbfov=100",
     "kgmid": "/g/1ttyx90l",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Polaris Pharmacy Services",
@@ -1738,7 +1746,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1763,7 +1772,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvYN7GTAq9ocRfkVUyNl8ZoE",
     "categories": [
       "Pharmacy"
     ],
@@ -1899,10 +1908,8 @@
     "kgmid": "/g/11cn93y9xc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1926,7 +1933,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg3smphgts1IR9ImqTTvWAAc",
     "categories": [
       "Pharmacy"
     ],
@@ -2038,10 +2045,8 @@
     "kgmid": "/g/11c0rhtfk8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Fairview Pharmacy - University Village",
@@ -2150,12 +2155,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrc-D-_OVpBl-WOyGTpiQo8yFp4iH11oeME0snuQo5z8xltKaMj_ys73LLK78lywR80wBylG0bIFDU-afhkjG7FkhXpbdSGpo87_KEozAi32DetqgtJHti22wE8PeqATgwhd2FU0Q=w408-h306-k-no",
     "kgmid": "/g/1th6dh7z",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minneapolis_mn"
   },
   {
     "title": "Fairview Pharmacy - University of Minnesota Medical Center",
@@ -2179,7 +2185,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJF_LcIT0ts1IRK2_Pz_Slhw0",
     "categories": [
       "Pharmacy"
     ],
@@ -2254,12 +2260,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOyZu9sPDd08PYjd2rDyeg7zR4r-SPBudWyu-u_=w408-h272-k-no",
     "kgmid": "/g/11b7fll2lw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2283,7 +2287,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK25xSLUg9ocR1xtvfNLjvE4",
     "categories": [
       "Pharmacy"
     ],
@@ -2401,9 +2405,7 @@
     "kgmid": "/g/11c4694jvw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

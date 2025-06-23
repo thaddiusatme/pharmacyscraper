@@ -22,7 +22,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgU1DNe1rskwRCJPJ9cjD8oM",
     "categories": [
       "Pharmacy"
     ],
@@ -190,12 +190,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5StHaBhzpsnR7cniUpXMDd1g2F_dspeVdNIH14SMGpfEzm74ExdIfLqeGPnyD_cMi46ypx8LBBzfHhx2ABtbs4aXDq4o7I9lxUi2UH3sVnMwr7hSt3KBU5t5GMsz6j3LiA68hQg=w408-h306-k-no",
     "kgmid": "/g/1tkmm4gm",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -219,7 +217,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDXqQbo1rskwR7ruBDdbNw_U",
     "categories": [
       "Pharmacy"
     ],
@@ -337,10 +335,8 @@
     "kgmid": "/g/11c466pp56",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -364,7 +360,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI34Oo6FrskwRs2mDZtQ2lRo",
     "categories": [
       "Pharmacy"
     ],
@@ -468,10 +464,8 @@
     "kgmid": "/g/11fvgmfs29",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -496,7 +490,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaSWLFk1rskwRiKByc-IBck4",
     "categories": [
       "Pharmacy"
     ],
@@ -632,10 +626,8 @@
     "kgmid": "/g/11hy_n14l7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "DeGiulio's Pharmacy",
@@ -758,7 +750,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "Apothecary Rx Inc",
@@ -830,7 +823,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "CMMC Pharmacy",
@@ -923,12 +917,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zEeYcnKEBEggAqA7888New&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.57184&pitch=0&thumbfov=100",
     "kgmid": "/g/11bvctxxd2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -952,7 +947,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6ZZFFfxrskwRJ9h4w2Tvshc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1058,10 +1053,8 @@
     "kgmid": "/g/11ckks_p0y",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -1085,7 +1078,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDz7Z34lrskwRbXJun8jZdDs",
     "categories": [
       "Pharmacy"
     ],
@@ -1181,10 +1174,8 @@
     "kgmid": "/g/1tfr9sp5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Bedard Pharmacy & Medical Supplies",
@@ -1244,9 +1235,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "CVS",
@@ -1272,7 +1264,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOb5zXI1rskwRC-DrBm-L59Q",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1489,10 +1481,8 @@
     "kgmid": "/g/1vs5w9pt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bedard Pharmacy",
@@ -1661,7 +1651,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "Walgreens",
@@ -1687,7 +1678,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK4TWoZJrskwRtD8_KfVB9F8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1902,10 +1893,8 @@
     "kgmid": "/g/1thtp5qr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Northern Maine Medical Center Pharmacy",
@@ -1929,7 +1918,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJF6y4pRCrvUwR7Ji6QuMy2JQ",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2012,12 +2001,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDgFc2OIuluakIlyoYUtaS0uVR3Ej_JG3MUwuWIfow_TR8mfy25B0y-rlNAU_ffbBhklRNoQi1rxw-fhCFNPIjfOdJ9ZnLHS0dYyXMX9ljd1-qOcj_UOOe6ruSN-0mtWDWVw8=w408-h725-k-no",
     "kgmid": "/g/1hbpwr5_v",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hebert Rexall Pharmacy",
@@ -2041,7 +2028,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt-OexjXevEwRCk3VoPuOykg",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2148,12 +2135,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zEiIYFiFS2uQ-vCwg6BLVA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.7803&pitch=0&thumbfov=100",
     "kgmid": "/g/1tflxhn4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Greene Village Pharmacy",
@@ -2280,7 +2265,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "CVS Pharmacy Specialty Services",
@@ -2304,7 +2290,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJT58HfXKcskwR-zFRLF1r5Ik",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -2392,10 +2378,8 @@
     "kgmid": "/g/1tc_kr68",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2535,7 +2519,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "lewiston_me"
   },
   {
     "title": "CVS Pharmacy",
@@ -2559,7 +2544,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmx-nvKqgs0wRxPkG3gqlIc4",
     "categories": [
       "Pharmacy"
     ],
@@ -2683,9 +2668,7 @@
     "kgmid": "/g/11c46cdhyv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

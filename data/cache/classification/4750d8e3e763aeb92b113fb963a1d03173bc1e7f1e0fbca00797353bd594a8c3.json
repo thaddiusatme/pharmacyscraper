@@ -1,0 +1,6 @@
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.85,
+    "explanation": "The pharmacy is located at an address on Hospital Dr, which strongly suggests affiliation with a hospital or medical facility. The name includes a pharmacist's name without indication of a retail chain or independent business, and no compounding is mentioned, supporting classification as a hospital pharmacy."
+}

@@ -105,7 +105,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -131,7 +131,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpQnGWciDdIgROMlvfx_sjcc",
     "categories": [
       "Pharmacy"
     ],
@@ -211,12 +211,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pPIyhyHIL0P8pGhXUOUuZg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.23245&pitch=0&thumbfov=100",
     "kgmid": "/g/11fj1knrxd",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sooner Pharmacy",
@@ -388,8 +386,8 @@
     "kgmid": "/g/1tdkbl6b",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -506,12 +504,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVW73FhjssZ8AP1o1eRnbc32MbpGq28rqy7uIzvwV28gHHL3RSOasrsX9aNpDS0b_iyTdnWECgHKhEp_Huhp44kaVJ_krqI-tMNpB41CHTs5gFgxrAh2RVANLAU5ElMcOBcsB0=w408-h544-k-no",
     "kgmid": "/g/1vl5h8xm",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Thunder Discount Drug",
@@ -683,8 +681,8 @@
     "kgmid": "/g/1pp2x7j6l",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -991,7 +989,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZyj3UsRpsocR8k-6l0RK0iA",
     "categories": [
       "Pharmacy"
     ],
@@ -1125,12 +1123,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPcXnWAdXsNlRH_ILyicf6IqT1ZsclCltEYYCSP=w525-h240-k-no",
     "kgmid": "/g/11cn94cd7r",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Doctors Park Pharmacy",
@@ -1477,7 +1473,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1570,7 +1566,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1675,10 +1671,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrD6p0rayhIITqlzFdOccgw4qxx1SS-L_NXEJJmvuCejyT7IaUzv8dW9CIBYRSPbubeVgUaaNcAuKK3b20ePUgGiZsQi3bg3Pffq6HvthQBM9HAdaWDrKnVpsrhKb-bmMxMhR3V4w=w456-h240-k-no",
     "kgmid": "/g/11f101pwgm",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1704,7 +1700,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ66u-HIlCsocRDirwHXFXQ1s",
     "categories": [
       "Pharmacy"
     ],
@@ -1825,10 +1821,8 @@
     "kgmid": "/g/11c467wlh4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Meds & Moore Pharmacy: Compounding Pharmacy",
@@ -2074,12 +2068,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7tPXGhLoZWdBqiwxuByYC9_QktdQDbI8inS8Y0f_g3wLS_rSqQjeyHw7wpCB1zhcRqdrRajT5Ib3enrYramb9D1Y7jRyjFavAIHU31_hOVEy_B_wRG9Zmi_9UFGatfJir_9DD1g=w408-h544-k-no",
     "kgmid": "/g/11bt_jt8fm",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Kale D. Baden, DPH",
@@ -2147,10 +2141,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ciCUGAYUd7S2JEO3lpIVag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=194.60661&pitch=0&thumbfov=100",
     "kgmid": "/g/1tcx20qh",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2177,7 +2171,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6Ua-nm9CsocRCEa0LEwbbPg",
     "categories": [
       "Pharmacy"
     ],
@@ -2307,10 +2301,8 @@
     "kgmid": "/g/11cn9683yj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2336,7 +2328,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ86n4jW9CsocRCWM17UHT8jI",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2549,10 +2541,8 @@
     "kgmid": "/g/1trxksqm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Midtown Drug",
@@ -2706,8 +2696,8 @@
     "kgmid": "/g/11sbc0f44f",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

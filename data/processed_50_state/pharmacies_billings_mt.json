@@ -105,7 +105,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "Downtown Family Pharmacy",
@@ -213,7 +214,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "GetReliefRX",
@@ -284,9 +286,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "Billings Pharmacy One",
@@ -414,7 +417,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "Billings Pharmacy One",
@@ -515,9 +519,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "RiverStone Health Pharmacy",
@@ -541,7 +546,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsSajOyh7SFMR2LMB-ukEe6A",
     "categories": [
       "Pharmacy"
     ],
@@ -618,12 +623,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsfZ815TqK90Wk-lKwFYH-HkshLqfel9PP_phS=w408-h262-k-no",
     "kgmid": "/g/11h002ym2g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Specialty Pharmacy",
@@ -724,12 +727,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrr0eYxZ9uImPjVwudnxm3S7fFFoP8UR61uJwnIwFUfd0Zj-PyHFKCNIn14C50PREcd1V13XHIr4133kPNQy8T86tek9JPOSHD-BwYrlC_zS1PDYR_NtQutsGGpz-2Kq20jxpuKWg=w408-h544-k-no",
     "kgmid": "/g/11g4bf0bxc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "Billings Clinic Atrium Pharmacy",
@@ -753,7 +757,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG4odfz57SFMRQqkOn_kgQWg",
     "categories": [
       "Pharmacy"
     ],
@@ -822,12 +826,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFTBl-dXw1ooNcoSkjxXqSFVgvXZ8-pQuf_GFFVvs51Jc1RP29e_TzZe9nH5yIJGFGgaTTa3EaJ62zReJ3DDok4eU0SWspE0Al6hhHg7hnNnkb_wSUroy1peCmSOyOS-4A05qHHQ=w426-h240-k-no",
     "kgmid": "/g/11bt_hfn74",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Juro's Pharmacy Health and Wellness",
@@ -851,7 +853,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdefDvZV8SFMRsxaJZJP5vzQ",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -948,12 +950,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOCkt8rn2O0iQf9E3aTpk9EWv6wOZIt5jFpwjg8=w426-h240-k-no",
     "kgmid": "/g/1tfkvznk",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -977,7 +977,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJreGOyUJ9SFMRPmI5WG0rOrE",
     "categories": [
       "Pharmacy"
     ],
@@ -1048,10 +1048,8 @@
     "kgmid": "/g/11jfsg0yjp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharm406",
@@ -1188,7 +1186,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "billings_mt"
   },
   {
     "title": "Omnicare Inc.",
@@ -1211,7 +1210,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz3gLWNdiSFMR2TsFblZ2OsU",
     "categories": [
       "Pharmacy"
     ],
@@ -1247,10 +1246,8 @@
     "kgmid": "/g/1thggpsp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Billings Clinic AllCare Pharmacy Solutions",
@@ -1273,7 +1270,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdbIWRwd9SFMRU0BoZ-tfcsA",
     "categories": [
       "Pharmacy"
     ],
@@ -1345,12 +1342,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqwmmSQeZErvIxihDY0IkD0cS8dvsWt-m_HOEKbFbzcO7o2T9vVoMWYIJVV0T_FlsAtRIi7dK1xnxlXOI7NxpBfD4W8y5MzRubCgYUsecMTIY4vd2g7m-ggghDDK6GU9GFJVLBBuw=w408-h544-k-no",
     "kgmid": "/g/11h_4w4gbx",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1374,7 +1369,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC6Tw9JJ6SFMRIeBaRF_WV6k",
     "categories": [
       "Pharmacy"
     ],
@@ -1489,10 +1484,8 @@
     "kgmid": "/g/11c475c1dy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1516,7 +1509,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwSDtSaB8SFMRxrUO_Bz_z58",
     "categories": [
       "Pharmacy"
     ],
@@ -1637,10 +1630,8 @@
     "kgmid": "/g/11c4637sh5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1664,7 +1655,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIXxtU-p8SFMR_YO9moT5RJE",
     "categories": [
       "Pharmacy"
     ],
@@ -1782,10 +1773,8 @@
     "kgmid": "/g/11c46b6fkm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1809,7 +1798,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMx9BplR7SFMRDxci9iKqKDs",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1923,10 +1912,8 @@
     "kgmid": "/g/1tdgzz6b",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1951,7 +1938,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC99tn6F8SFMRD0oS_cpXIqg",
     "categories": [
       "Pharmacy"
     ],
@@ -2078,10 +2065,8 @@
     "kgmid": "/g/11cnbm1qsg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2105,7 +2090,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg0E17qB8SFMRnrtEchr0Yvc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2217,9 +2202,7 @@
     "kgmid": "/g/1tx4p0fm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

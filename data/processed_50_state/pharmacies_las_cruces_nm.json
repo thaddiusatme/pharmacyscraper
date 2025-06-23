@@ -228,7 +228,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Healthcare Healthmart pharmacy",
@@ -252,7 +253,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIxV-WEU93oYRcjkS7RB-xtA",
     "categories": [
       "Pharmacy"
     ],
@@ -352,12 +353,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-HTi5B30JvgLdaptzRjhFlYB3ooN3Gg-wY5IW=w408-h544-k-no",
     "kgmid": "/g/11byvf58y7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "HILLRISE PHARMACY LLC",
@@ -520,7 +519,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Del-Rey Pharmacy",
@@ -661,7 +661,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "RioGrande Care PHARMACY",
@@ -920,7 +921,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Sav-on Pharmacy",
@@ -1004,7 +1006,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "CVS Pharmacy",
@@ -1028,7 +1031,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRwVt8Ks93oYRxc-CfOIMwZ0",
     "categories": [
       "Pharmacy"
     ],
@@ -1152,10 +1155,8 @@
     "kgmid": "/g/11c460bhbj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "RX Innovations",
@@ -1275,7 +1276,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Walgreens",
@@ -1301,7 +1303,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZRR0XisW3oYRWYft_OgdO8c",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1520,10 +1522,8 @@
     "kgmid": "/g/1tnms525",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1548,7 +1548,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvyYjL6o93oYRntFwzxPnt5Y",
     "categories": [
       "Pharmacy"
     ],
@@ -1678,10 +1678,8 @@
     "kgmid": "/g/1tplqs10",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1705,7 +1703,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJv6MBhws93oYR_m-8voHRO8o",
     "categories": [
       "Pharmacy"
     ],
@@ -1815,10 +1813,8 @@
     "kgmid": "/g/11jnv2pxqw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Dale Menges, RPHD",
@@ -1880,7 +1876,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Sav-on Pharmacy",
@@ -1982,7 +1979,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2007,7 +2005,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdT9zEug83oYRRZPa1yiYCIE",
     "categories": [
       "Pharmacy"
     ],
@@ -2131,10 +2129,8 @@
     "kgmid": "/g/11cn9665yk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2159,7 +2155,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo3AoZSsW3oYRn_W9Gt0KhCw",
     "categories": [
       "Pharmacy"
     ],
@@ -2295,10 +2291,8 @@
     "kgmid": "/g/11cn95pt9w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -2322,7 +2316,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH6zWr7k93oYRG8Z-HCjA80U",
     "categories": [
       "Pharmacy"
     ],
@@ -2388,10 +2382,8 @@
     "kgmid": "/g/11p74jfj7x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Vital Care of Las Cruces",
@@ -2492,9 +2484,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "las_cruces_nm"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2518,7 +2511,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ_7I2Fw93oYRpYfbl2GaWKY",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2624,10 +2617,8 @@
     "kgmid": "/g/1ptx8fw6d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2651,7 +2642,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI3oQrtQX3oYR83_jdO7nB70",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2757,10 +2748,8 @@
     "kgmid": "/g/11cjkvt_gl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2786,7 +2775,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu8eF4as93oYRnyzjoEkZ_fc",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2999,9 +2988,7 @@
     "kgmid": "/g/11z32p03h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

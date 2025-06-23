@@ -50,9 +50,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "Bedard Pharmacy",
@@ -214,7 +215,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "CVS Pharmacy",
@@ -238,7 +240,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhyW97s1rskwREeaBLsTdkKc",
     "categories": [
       "Pharmacy"
     ],
@@ -356,10 +358,8 @@
     "kgmid": "/g/11c462qbgw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bedard Senior Care",
@@ -458,9 +458,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -484,7 +485,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4-weIFdqskwRSeMhXOEZOwg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -598,10 +599,8 @@
     "kgmid": "/g/1tdxkgmn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -625,7 +624,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCS-n11NrskwR4z1PpzBJ3kY",
     "categories": [
       "Pharmacy"
     ],
@@ -726,10 +725,8 @@
     "kgmid": "/g/11jzm211ls",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Gold Country Compounding",
@@ -872,7 +869,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -896,7 +894,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ09M1v9FrskwR1KY8-tmp79M",
     "categories": [
       "Pharmacy"
     ],
@@ -992,10 +990,8 @@
     "kgmid": "/g/11b66c6h50",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Auburn Pharmacy and Compounding Center",
@@ -1120,9 +1116,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1147,7 +1144,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHUmamohpskwRj-oBos6WUgM",
     "categories": [
       "Pharmacy"
     ],
@@ -1274,10 +1271,8 @@
     "kgmid": "/g/11fmsgrqlm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Auburn Pharmacy & Home Health Care",
@@ -1301,7 +1296,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNybqHnUD5IkRvejC0Smu010",
     "categories": [
       "Pharmacy"
     ],
@@ -1400,12 +1395,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqURtb7a8oQdSdE2AQQTcyEJ9xTx4T3XUmqhvyPJPLeHg-ir2oYGYz8ASpM2CgaZMZJirlcEpVD6933yojLuLYkeVrWNKuNVqEGOkpgLC1IpRvnph1M7nq3GtWoXSqYIbnedszfrA=w408-h544-k-no",
     "kgmid": "/g/11gns8z_p5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Greater Placer Pharmacy",
@@ -1525,7 +1518,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1549,7 +1543,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJm8m8b1pqskwRhA-BgvmWBFQ",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1665,10 +1659,8 @@
     "kgmid": "/g/1tftkthz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1694,7 +1686,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKXEa7M1rskwR1oEvhSYmzmE",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1901,10 +1893,8 @@
     "kgmid": "/g/1tdgt_bk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Our Home Pharmacy",
@@ -2060,7 +2050,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "The Drug Store",
@@ -2192,7 +2183,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   },
   {
     "title": "CVS Pharmacy",
@@ -2216,7 +2208,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC6KiKiObskwRbw_u81D9_m8",
     "categories": [
       "Pharmacy"
     ],
@@ -2337,10 +2329,8 @@
     "kgmid": "/g/11c468ftpt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "AuBurn Pharmacy",
@@ -2462,6 +2452,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "auburn_me"
   }
 ]

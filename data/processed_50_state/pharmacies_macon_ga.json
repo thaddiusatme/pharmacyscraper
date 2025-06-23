@@ -218,7 +218,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -780,7 +780,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1165,7 +1165,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1273,7 +1273,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1507,10 +1507,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLAB89TIAkK5drZ3BV4isPGV1LC2JE7l5VoSzrRqbteqFWTb9N-3m8RL4lqVFuct4I_wftOVy4O_b0AyrKg-LABXii8d5AZVcUsuTr9gvHHtRfYaeSbbW_lHR47Zzyt8vMZvxiLA=w408-h544-k-no",
     "kgmid": "/g/11h3vbt43t",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1536,7 +1536,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN-swqdX684gRl3fmjG588T0",
     "categories": [
       "Pharmacy"
     ],
@@ -1654,10 +1654,8 @@
     "kgmid": "/g/11c46cdhs4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "U Save It Pharmacy Inc",
@@ -1778,7 +1776,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1804,7 +1802,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsVYF6Uf-84gRbIcpMxAYxnk",
     "categories": [
       "Pharmacy"
     ],
@@ -1925,10 +1923,8 @@
     "kgmid": "/g/11c466t_x0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Express RX Pharmacy",
@@ -2193,7 +2189,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQTvhlJT484gRzNAHip36csg",
     "categories": [
       "Pharmacy"
     ],
@@ -2311,10 +2307,8 @@
     "kgmid": "/g/11c4758l1z",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kroger Pharmacy",
@@ -2338,7 +2332,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ58r_f7f484gRPlWrjVpkdps",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2473,9 +2467,7 @@
     "kgmid": "/g/11cjg91mct",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

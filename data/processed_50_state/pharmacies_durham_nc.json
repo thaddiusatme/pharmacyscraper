@@ -583,7 +583,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg8dnEmfhrIkRYh-yns87Elw",
     "categories": [
       "Pharmacy"
     ],
@@ -690,12 +690,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPPZ_ZD130gNv_wuqvQ0uHc_5H1oYx2JElHlfZH=w408-h304-k-no",
     "kgmid": "/g/1tdqcft3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Triangle Pharmacy",
@@ -1135,7 +1133,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV0E8JbTmrIkRFdcloxeK_NE",
     "categories": [
       "Pharmacy"
     ],
@@ -1228,10 +1226,8 @@
     "kgmid": "/g/11c3kqyhgv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Morrisville Pharmacy and Compounding",
@@ -1572,10 +1568,10 @@
     "rank": 12,
     "isAdvertisement": false,
     "kgmid": "/g/1ttphrwl",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1836,7 +1832,7 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMhV1gC1da-Kncyw0cjSwoeMpKHKIe85r8LHORA=w408-h612-k-no",
     "kgmid": "/g/11q_nzh241",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
@@ -1866,7 +1862,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJm9iIO7LorIkRZJF0y4NM8z8",
     "categories": [
       "Pharmacy"
     ],
@@ -1997,10 +1993,8 @@
     "kgmid": "/g/11cn95w44s",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Harris Teeter Pharmacy",
@@ -2024,7 +2018,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6rqXP_jrIkRyGMLVaRtZ7o",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2146,9 +2140,7 @@
     "kgmid": "/g/11pwd2bvys",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

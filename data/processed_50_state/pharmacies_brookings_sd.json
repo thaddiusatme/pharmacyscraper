@@ -99,12 +99,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ao5jX761j_vUu2DTGUeIzA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.2701&pitch=0&thumbfov=100",
     "kgmid": "/g/11j0slfk2y",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -128,7 +129,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_ff8BGqiiYcRV5eTuNHfpTc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -252,10 +253,8 @@
     "kgmid": "/g/11b6c9_l55",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -279,7 +278,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsUFZzGGiiYcRTwE_uyQAWHU",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -401,10 +400,8 @@
     "kgmid": "/g/1tdm46s1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -428,7 +425,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ0JtQPCh2lQRUcpMW8exLl4",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -590,10 +587,8 @@
     "kgmid": "/g/1hm3708ln",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Salem Community Drug",
@@ -729,7 +724,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Family Drug - Windom",
@@ -853,12 +849,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrl_Jy6xu8W0d3B3itrROLLnVH-CtXXCtCy4VwwX4dMryf33Gzas4TXDLRsm1JdY1bKBdZQQ2rnAFHJ3a2rRbxLMfWm2voqp2onsUbv4blZxr8igJorQxp77lHm4LG7gDg25LIB=w426-h240-k-no",
     "kgmid": "/g/1wn_6lv2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Family Drug - Jackson",
@@ -990,7 +987,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Family Drug - Lakefield",
@@ -1111,12 +1109,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPt9jopjmjnjMzjdXrzf_d3fYK9gZwfoPWezBJ4=w408-h408-k-no",
     "kgmid": "/g/1tdzx6ln",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Dunes Family Pharmacy",
@@ -1247,7 +1246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Family Drug - Sioux Center",
@@ -1385,7 +1385,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Family Drug",
@@ -1519,12 +1520,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9_dTDju1CM6oKKo2yXBBUNOb7ms6TyEfOl0Wq=w408-h270-k-no",
     "kgmid": "/g/1tftrlc9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Boyds Drug Mart",
@@ -1645,7 +1647,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Boyds Drug Mart",
@@ -1766,7 +1769,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Dakota Country Pharmacy",
@@ -1891,7 +1895,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   },
   {
     "title": "Lewis Stores - 37th & Minnesota, Sioux Falls",
@@ -2055,11 +2060,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9nC2F9uV_dYM3q6E6k3UG6V_4CNIGgVEPzAVU=w408-h306-k-no",
     "kgmid": "/g/1260vrjdr",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "brookings_sd"
   }
 ]

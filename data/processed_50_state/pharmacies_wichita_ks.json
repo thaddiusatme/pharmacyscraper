@@ -298,8 +298,8 @@
     "kgmid": "/g/1td2bvv5",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -325,7 +325,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuQCf1G_huocRRXQLyxep_t8",
     "categories": [
       "Pharmacy"
     ],
@@ -423,12 +423,10 @@
     "rank": 3,
     "isAdvertisement": false,
     "kgmid": "/g/11h42swxrw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.8,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Consumer's Pharmacy",
@@ -712,8 +710,8 @@
     "kgmid": "/g/11b5wkg3r7",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -843,8 +841,8 @@
     "kgmid": "/g/1tdgqbk1",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -968,8 +966,8 @@
     "kgmid": "/g/1td1vzd3",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1067,8 +1065,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cPzSpLVUDpQXhubTjBJqhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.63704&pitch=0&thumbfov=100",
     "kgmid": "/g/1tjs5g2k",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1165,8 +1163,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPKvIsp02GUKdh3hdbEgnG6y16WLu4vmkNfljo=w408-h297-k-no",
     "kgmid": "/g/11l3wdzy7s",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1420,7 +1418,7 @@
     "kgmid": "/g/11hdzd096t",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1516,10 +1514,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l8fA4csa84E4odIqsz4OyA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=266.7421&pitch=0&thumbfov=100",
     "kgmid": "/g/11y3v24kd0",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1625,7 +1623,7 @@
     "kgmid": "/g/11hbt603d8",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1652,7 +1650,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJja9utxHjuocR8DfbOiXqb2g",
     "categories": [
       "Pharmacy"
     ],
@@ -1721,12 +1719,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLrVB523Q5bHxJkMbQSJxD_N1CCknv_BIrO2me=w408-h408-k-no",
     "kgmid": "/g/1tglzhn1",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ascension Rx - St. Joseph Pharmacy",
@@ -1750,7 +1746,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSwtVY8DluocRFMnUOllr5FI",
     "categories": [
       "Pharmacy"
     ],
@@ -1824,12 +1820,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0mOxJZIWatbnw53sF9WVAFVCo0M6Ez0AgbiM6=w408-h521-k-no",
     "kgmid": "/g/11qn9k7wlw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hart Pharmacy at Comcare",
@@ -1976,7 +1970,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOVUIWs_juocRObW7Avhy4mU",
     "categories": [
       "Pharmacy"
     ],
@@ -2060,10 +2054,8 @@
     "kgmid": "/g/11c7194kpf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2087,7 +2079,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4x1BE4PkuocRz4q4mxlx9G4",
     "categories": [
       "Pharmacy"
     ],
@@ -2202,10 +2194,8 @@
     "kgmid": "/g/11c475cgtm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2229,7 +2219,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN5KPFTnjuocRBSYzEQCEX5k",
     "categories": [
       "Pharmacy"
     ],
@@ -2344,10 +2334,8 @@
     "kgmid": "/g/11c468db01",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2372,7 +2360,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjS_TGaLguocRTu-GM53Fx0s",
     "categories": [
       "Pharmacy"
     ],
@@ -2480,9 +2468,7 @@
     "kgmid": "/g/1hc0t7m1t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

@@ -120,9 +120,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.98,
+    "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Longs Drugs",
@@ -328,9 +329,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "5 Minute Pharmacy",
@@ -451,7 +453,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "5 Minute Pharmacy Long Term Care",
@@ -564,7 +567,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Safeway Pharmacy",
@@ -588,7 +592,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfVOcWv5nAHwRE8LUNG8SXic",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -705,10 +709,8 @@
     "kgmid": "/g/11fpv7xdkl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Don Quijote Drugs",
@@ -757,12 +759,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z6SYXIwyJfO9bCumda_qiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=328.93695&pitch=0&thumbfov=100",
     "kgmid": "/g/11sdb43b78",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Don Quijote Pharmacy",
@@ -846,7 +849,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Times Pharmacy Waipahu",
@@ -960,7 +964,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Times Pharmacy",
@@ -1037,7 +1042,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Elix Rx",
@@ -1170,7 +1176,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Times Supermarket - Waipahu",
@@ -1326,7 +1333,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Medical Center Pharmacy",
@@ -1350,7 +1358,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlXkrOUpvAHwRYvUw5ZzI7tA",
     "categories": [
       "Pharmacy"
     ],
@@ -1445,12 +1453,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDasnGGKUqA29DsFy767DfZ_kdGeqoPfiZmpOTLb0ccuAA0Z1oIgdoJwL175rXMLCHi9STAKaEVbYFN8s6Rw6-TTWnLnW9Bhv_AtTm4OnN_hzHcMnhwzYCfCs7Y1bF3M45JEBhjQ=w408-h306-k-no",
     "kgmid": "/g/1v1vddgz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Times Liliha Pharmacy",
@@ -1569,7 +1575,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Newtown Square Pharmacy",
@@ -1710,12 +1717,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfdHr9tuJWWYa4zXTnrtI_gA-RKm3Phh-06ZSm=w426-h240-k-no",
     "kgmid": "/g/1tfw37j1",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Waimanalo Pharmacy",
@@ -1832,7 +1840,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Waim\u0101nalo Health Center - Pharmacy",
@@ -1855,7 +1864,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ36aorqoTAHwRZ7kwnZZPZtU",
     "categories": [
       "Pharmacy"
     ],
@@ -1929,12 +1938,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMxfVNFhT4mdDeopNs6wbyvtGzR9awgQyE5kYfW=w425-h240-k-no",
     "kgmid": "/g/11fshvcl4c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Honolulu Pharmacy",
@@ -2050,7 +2057,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Queen\u2019s POB 2 Pharmacy",
@@ -2198,12 +2206,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-c3hhU_fbjJJ7M2Pw84ne0MRTo-DsWs7-w7TzKFJKdUvsz3z087uigTrGK57UOtXvLhy8tqE2uWMTaeIBydqgFoRreeIKEW5OAHzNxtv8-swReELn2vlbuwcTX9eImvnttmcNsw=w408-h306-k-no",
     "kgmid": "/g/1wk4d88n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   },
   {
     "title": "Queen's POB 1",
@@ -2309,11 +2318,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZiGIXsS7xFr5hw7qyndKvK_8ktJYAPQAzblXZLEKl6ONTaUXQlDDyvNAMHgIxieiA-fBQ2Nnks1dUuCITtj-EXCN8OnN0e8vflH3BqZTmdvhelKRt76PvVEi06QYcexXfn6Wmbg=w408-h306-k-no",
     "kgmid": "/g/11bvt5m_w5",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "waipahu_hi"
   }
 ]

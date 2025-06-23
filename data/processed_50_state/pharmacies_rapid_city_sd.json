@@ -123,7 +123,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "Rushmore Compounding Pharmacy",
@@ -238,7 +239,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "The Medicine Shoppe Pharmacy",
@@ -263,7 +265,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5WJR1zFDfYcRbB2qJlwqCPU",
     "categories": [
       "Pharmacy",
       "Diabetes center",
@@ -400,12 +402,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vnpdQpoyL6udPYLxVyOZrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.22165&pitch=0&thumbfov=100",
     "kgmid": "/g/12635_1b1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Monument Health Home+ Pharmacy - Rapid City",
@@ -429,7 +429,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJO5GUqB5DfYcRNc7ogzQmVr0",
     "categories": [
       "Pharmacy"
     ],
@@ -498,12 +498,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYVcTtNez4c8ZyWLEgldhVL5RtbScY9EaPRRex=w426-h240-k-no",
     "kgmid": "/g/12hptdx1q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Monument Health Home+ Specialty Pharmacy",
@@ -527,7 +525,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJub-7xplCfYcRTvTxrRWQlkw",
     "categories": [
       "Pharmacy"
     ],
@@ -596,12 +594,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOua08LFCXPkfG06TJKgM5qYKEGWd9ByWo-CCOG=w408-h299-k-no",
     "kgmid": "/g/11gd1wj52c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medicine Shoppe Advanced Care Pharmacy",
@@ -624,7 +620,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVVFHCRDfYcRc5gIKvnsQfk",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -699,12 +695,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4QMrTkIigoN7ZcaQYIBfY_YsEekfewBuv3gCG=w408-h286-k-no",
     "kgmid": "/g/11fll6k1yf",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Boyds Drug Mart",
@@ -825,7 +819,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "CVS Pharmacy",
@@ -849,7 +844,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyUj6f0NdfYcRIkA8mMe3Tkk",
     "categories": [
       "Pharmacy"
     ],
@@ -958,10 +953,8 @@
     "kgmid": "/g/1tczkzqj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Boyds Drug Express",
@@ -1082,7 +1075,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "Family Fare Pharmacy",
@@ -1224,7 +1218,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "Lewis Family Drug - Chamberlain",
@@ -1248,7 +1243,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPeYfFOcwgYcRhxibUGAwSXc",
     "categories": [
       "Pharmacy"
     ],
@@ -1348,12 +1343,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJzvZyWmO3rTddvFR5ht4dIZKj60N0U-bkq3gJ=w408-h256-k-no",
     "kgmid": "/g/1pp2v0978",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Boyds Drug Mart",
@@ -1474,7 +1467,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1499,7 +1493,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJM1IVz7NcfYcRYCAgYdx4Q7s",
     "categories": [
       "Pharmacy"
     ],
@@ -1623,10 +1617,8 @@
     "kgmid": "/g/11tn8clcc_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -1650,7 +1642,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu2DKtzxDfYcRV6oQl3z13n8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1756,10 +1748,8 @@
     "kgmid": "/g/1tdlhszk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Avera long term care",
@@ -1821,12 +1811,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQoYeh7TBVgegw-IBGEF6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.0459&pitch=0&thumbfov=100",
     "kgmid": "/g/11w3c6mlvn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   },
   {
     "title": "Safeway Pharmacy",
@@ -1850,7 +1841,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiQeU_7JcfYcRsxY2v_tTJSw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1956,10 +1947,8 @@
     "kgmid": "/g/1thy094q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1983,7 +1972,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSRgdqk9CfYcRSTkrwdBaoH0",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2105,10 +2094,8 @@
     "kgmid": "/g/1hhhhyxy7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -2130,7 +2117,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvTiRu-NDfYcRxN4_VhGDXuI",
     "categories": [
       "Pharmacy"
     ],
@@ -2196,10 +2183,8 @@
     "kgmid": "/g/11x18ntv_1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2224,7 +2209,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbTpCZjldfYcRkkaBrn3VuMY",
     "categories": [
       "Pharmacy"
     ],
@@ -2354,10 +2339,8 @@
     "kgmid": "/g/11tn8cx7kh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Avera Long-Term Care Pharmacy",
@@ -2453,11 +2436,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUS1tQXur5LvFvUpFOQC1hTPL_70DymvTp53eh=w408-h306-k-no",
     "kgmid": "/g/11bvt538xb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rapid_city_sd"
   }
 ]

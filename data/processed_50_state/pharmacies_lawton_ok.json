@@ -156,7 +156,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtQ49ayUZrYcRslQf_qwkQEw",
     "categories": [
       "Pharmacy"
     ],
@@ -196,12 +196,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hThna7OsbZYvchDgvdWG5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.00784&pitch=0&thumbfov=100",
     "kgmid": "/g/11h3vbsty9",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ken's Discount Pharmacy",
@@ -841,10 +839,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Aw3iSGJ0l6FoYD1RqWx2pw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=57.66335&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfgdr8d",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -955,10 +953,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ags77JORHNpPr17QN-1oBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=0.14538041&pitch=0&thumbfov=100",
     "kgmid": "/g/11v51_p_md",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -984,7 +982,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQ2u1yEkfrYcRKxOkOjnfMc0",
     "categories": [
       "Pharmacy"
     ],
@@ -1099,10 +1097,8 @@
     "kgmid": "/g/11c469d81n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Michael S. Anderson, DPH",
@@ -1262,10 +1258,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xdv7c5mX6E9lmqFMBUTTmg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.502&pitch=0&thumbfov=100",
     "kgmid": "/g/11fy4k47xd",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1354,7 +1350,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJi8blcyUerYcRq02bB5TrfWs",
     "categories": [
       "Pharmacy"
     ],
@@ -1481,10 +1477,8 @@
     "kgmid": "/g/11cn93hgwh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1509,7 +1503,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX5kHzeEerYcRjeJMd6vWkqE",
     "categories": [
       "Pharmacy"
     ],
@@ -1639,10 +1633,8 @@
     "kgmid": "/g/11cn946n_f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1667,7 +1659,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8X9fpt3hrIcRbQgmL9TmgYE",
     "categories": [
       "Pharmacy"
     ],
@@ -1773,10 +1765,8 @@
     "kgmid": "/g/12vslj6n4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Ernie R. Scott, DPH",
@@ -1863,7 +1853,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7cajY93hrIcRJ3MYnt3AeOI",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1976,10 +1966,8 @@
     "kgmid": "/g/1tkmn1ld",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "William H. Smith, DPH",
@@ -2202,7 +2190,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.98,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   }

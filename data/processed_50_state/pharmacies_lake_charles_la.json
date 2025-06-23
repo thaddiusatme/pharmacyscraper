@@ -630,7 +630,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -860,7 +860,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -975,7 +975,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1422,10 +1422,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSkVaZuc2SVx3bCBsnqRnubpq9HlF8lze6C0G2=w408-h272-k-no",
     "kgmid": "/g/1thcn47x",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1451,7 +1451,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_-dlRBCGO4YRtaR5-zadq5s",
     "categories": [
       "Pharmacy"
     ],
@@ -1557,10 +1557,8 @@
     "kgmid": "/g/1hd_h4fx3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Moss Memorial Health Clinic Pharmacy",
@@ -1584,7 +1582,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgWGsr4eHO4YRWynYklfAl-c",
     "categories": [
       "Pharmacy"
     ],
@@ -1664,12 +1662,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sg6IbFhsOG8U_iGRXh3ugA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.8815&pitch=0&thumbfov=100",
     "kgmid": "/g/11vcsdrt4h",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1693,7 +1689,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9UB1XNWFO4YRJjxTxuSnDAU",
     "categories": [
       "Pharmacy"
     ],
@@ -1808,10 +1804,8 @@
     "kgmid": "/g/11c467bthl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1835,7 +1829,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5aq4jPmHO4YRExKE36eo_ag",
     "categories": [
       "Pharmacy"
     ],
@@ -1956,10 +1950,8 @@
     "kgmid": "/g/11f66tk35y",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1984,7 +1976,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj7XwU0-GO4YRcgCyb1E8AYI",
     "categories": [
       "Pharmacy"
     ],
@@ -2117,10 +2109,8 @@
     "kgmid": "/g/11cn95h2b5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2144,7 +2134,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJObqdHF-GO4YRRO1E4FKVqSw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2250,10 +2240,8 @@
     "kgmid": "/g/1tjt29jf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "BioScrip Infusion Services",
@@ -2320,10 +2308,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OxifYfsLbU6t55zg2mMdjQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=54.88312&pitch=0&thumbfov=100",
     "kgmid": "/g/11ghrgbkd5",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   }

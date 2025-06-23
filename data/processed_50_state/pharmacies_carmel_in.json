@@ -331,7 +331,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -454,7 +454,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJM1oxSEKsFIgRsAVfo4XA2cA",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -627,10 +627,8 @@
     "kgmid": "/g/1vvr6tjx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Willowbrook Pharmacy",
@@ -939,7 +937,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTx3YMKitFIgRR731q6Z5Y3s",
     "categories": [
       "Pharmacy"
     ],
@@ -1060,10 +1058,8 @@
     "kgmid": "/g/11c45_qhj7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Carmel Valley Pharmacy",
@@ -1087,7 +1083,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNdFQY4MI3IARNaCttfb9PKU",
     "categories": [
       "Pharmacy"
     ],
@@ -1186,12 +1182,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNmyXnCjYZJPSsQnq7T-pHW1BjAaWgf0JOgUy6o=w408-h306-k-no",
     "kgmid": "/g/1ptxsth_2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lake Carmel Pharmacy",
@@ -1344,7 +1338,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYVgykYisFIgRkSsSlQd4djo",
     "categories": [
       "Pharmacy"
     ],
@@ -1462,10 +1456,8 @@
     "kgmid": "/g/11c45_qhjh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Option Care Health",
@@ -1583,7 +1575,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJGeS94bmrFIgRV4CuBxkjuWA",
     "categories": [
       "Pharmacy"
     ],
@@ -1736,10 +1728,8 @@
     "kgmid": "/g/1tj2jhj3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "PureCare Pharmacy",
@@ -1906,7 +1896,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcSYwdwetFIgRIYqK_Bts3LM",
     "categories": [
       "Pharmacy"
     ],
@@ -2033,10 +2023,8 @@
     "kgmid": "/g/11cn94wdbh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2060,7 +2048,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf9K6-XayFIgRt1qb_JualiY",
     "categories": [
       "Pharmacy"
     ],
@@ -2175,10 +2163,8 @@
     "kgmid": "/g/11c469nwzc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Ella Community Pharmacy",

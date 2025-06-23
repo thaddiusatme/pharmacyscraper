@@ -20,7 +20,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTyJA41HLyFIRu6AmxZKVACg",
     "categories": [
       "Pharmacy",
       "Medical equipment supplier"
@@ -117,12 +117,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V0zpILqz7k3PqFqn5UH8lQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.15548&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfd6ml9",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prescription Shop",
@@ -248,7 +246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "SKripts Pharmacy",
@@ -382,9 +381,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "West Acres Pharmacy",
@@ -408,7 +408,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh8Vh7HvLyFIRjDIbFpHk6R4",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -503,12 +503,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfDfLMaVdz0qj44e3qW0gAQ135aTyb9YZ4fi0XM7nofFRz9Dum5fb7ov8FPNnyPAbljmq6to_a45fWHOuG84BlfeZyB-tBXRusBiIl7Y5dlF6V2D4XEP7p2PGb2SscjKi873nH=w408-h612-k-no",
     "kgmid": "/g/1tqyf4f3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medical Pharmacy Sheyenne",
@@ -619,7 +617,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Prosperity Health Pharmacy",
@@ -643,7 +642,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyURFEiPNyFIRDcqcfMRYybg",
     "categories": [
       "Pharmacy"
     ],
@@ -739,12 +738,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPM-BcEexFqV_XITziSdx4hy-eLMQJe0JyN5Iif=w408-h544-k-no",
     "kgmid": "/g/11ftwp802q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "LifeScript Pharmacy",
@@ -870,7 +867,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Linson Pharmacy",
@@ -1002,7 +1000,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Southpointe Pharmacy",
@@ -1129,7 +1128,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "M-D Pharmacy",
@@ -1257,7 +1257,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Thrifty White Pharmacy",
@@ -1383,7 +1384,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Prescription Center Pharmacy",
@@ -1500,7 +1502,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Medical Pharmacy South",
@@ -1627,7 +1630,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Sanford Pharmacy",
@@ -1719,12 +1723,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lp_EMPeFEyrLH-jcBhw32Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=356.25812&pitch=0&thumbfov=100",
     "kgmid": "/g/11k5ltmtgm",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Wall's Prairie Pharmacy",
@@ -1852,7 +1857,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "Dakota Clinic Pharmacy at SU Drive",
@@ -1875,7 +1881,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ99EgVgbMyFIRpDRw_PbL6PE",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1984,12 +1990,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN67NaXc17vvmEw7hbv5cCFcgjWlDihmtuHNJn-=w408-h306-k-no",
     "kgmid": "/g/12hkky5lz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Northport Drug",
@@ -2111,7 +2115,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   },
   {
     "title": "InHealth Specialty Pharmacy",
@@ -2135,7 +2140,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAxCuom_MyFIRB_zbL0HpPXc",
     "categories": [
       "Pharmacy"
     ],
@@ -2228,12 +2233,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1YNdiZ1_cl-dAFjI_8_EHbx0I_OdSdvhwxPnMTlm_TEzQqx5NviMs8QpFJR0FRrBKyYsTXWktbo7GAVCWNnvaWhESOcl5pMTYilY46L92jbL-77SFaDnwEwnLq0Oa2ud2yl0=w484-h240-k-no",
     "kgmid": "/g/1tjdldp0",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2257,7 +2260,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQVfVOYzLyFIR0JxHLul8zU4",
     "categories": [
       "Pharmacy"
     ],
@@ -2381,10 +2384,8 @@
     "kgmid": "/g/11c461zg5c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sanford Specialty Pharmacy",
@@ -2461,11 +2462,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNseOxULOiwDuSvX3c4SV2REtxUPNmWlkAOB9Ms=w427-h240-k-no",
     "kgmid": "/g/11ycxt80zg",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_fargo_nd"
   }
 ]

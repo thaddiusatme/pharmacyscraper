@@ -242,7 +242,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.96,
     "source": "perplexity",
     "method": "llm"
   },
@@ -505,7 +505,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -762,7 +762,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -841,7 +841,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -867,7 +867,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAyt0tJrenIgRuxm9Cdy884U",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -962,12 +962,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMUxGDs_sQWUn9ta3Uk_7e1JrteVCuMxr-wIvaBaBkUTURbrFXmfu9O6rkVG2pxh5D3FRy1fSNrasS3GMVFltM7zuvwsrmCMDCFZ5M09j8RYw4BfTDrwnPgeAauZHj1oMOHfvL3w=w408-h544-k-no",
     "kgmid": "/g/1vs5xhs5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Patio Drugs",
@@ -1208,10 +1206,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNZ7Q3aoY9wRkQpi6CbO2CrtQy75i7vBaQiQ_J6=w408-h273-k-no",
     "kgmid": "/g/1trvm6jx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1237,7 +1235,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJse1lR5nenIgRK3SbMWnl0V0",
     "categories": [
       "Pharmacy"
     ],
@@ -1352,10 +1350,8 @@
     "kgmid": "/g/11c5stq96q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1379,7 +1375,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMUpNSOnenIgRqVbWlWsviq8",
     "categories": [
       "Pharmacy"
     ],
@@ -1497,10 +1493,8 @@
     "kgmid": "/g/11c46b6g0g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Advantage Medical and Pharmacy",
@@ -1523,7 +1517,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiy2JgpIgnYgR8E49f_ED8bE",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -1593,12 +1587,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r8Ffh0MoidFglgxU9jC2rQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.751606&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdz5lyq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Uni-Care Rx",
@@ -1990,7 +1982,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2099,7 +2091,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },

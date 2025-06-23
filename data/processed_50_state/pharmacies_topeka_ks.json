@@ -21,7 +21,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG_EkdPQCv4cRJMZyaANbAfk",
     "categories": [
       "Pharmacy"
     ],
@@ -136,12 +136,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIP9C-L_4l3n5ACHendNtOviyRB9YFXndQGtzQ=w426-h240-k-no",
     "kgmid": "/g/1w9y1m9p",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Senior Rx Care Pharmacy",
@@ -705,7 +703,7 @@
     "kgmid": "/g/11gpfgc6l8",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": false,
+    "is_compounding": true,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1071,7 +1069,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1231,7 +1229,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuWXkKC39vocRxrgmlu-GR6E",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1382,10 +1380,8 @@
     "kgmid": "/g/11gbq__6l9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1409,7 +1405,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJoSubuaYCv4cRIAtUJaHRExU",
     "categories": [
       "Pharmacy"
     ],
@@ -1524,10 +1520,8 @@
     "kgmid": "/g/11c4676qzf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Dillons Pharmacy",
@@ -1709,7 +1703,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1884,7 +1878,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj1r18ugDv4cRzNfsj_rGbEU",
     "categories": [
       "Pharmacy"
     ],
@@ -2011,10 +2005,8 @@
     "kgmid": "/g/11cn96g137",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Jayhawk Patient Supply",
@@ -2156,7 +2148,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG7f_4YMCv4cRjSfc7K3WFag",
     "categories": [
       "Pharmacy"
     ],
@@ -2286,9 +2278,7 @@
     "kgmid": "/g/11cn94zmjb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

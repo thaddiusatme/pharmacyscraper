@@ -21,7 +21,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCQARr1004ocRXdCgSl6W-GQ",
     "categories": [
       "Pharmacy"
     ],
@@ -90,12 +90,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5JuBObOKLj8gy3gxNX-nh3Hv6QeMQFt0ED8k1=w425-h240-k-no",
     "kgmid": "/g/1tdpgrlq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Main at Locust Pharmacy Clinic and Medical Supplies",
@@ -119,7 +117,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOScW7JI04ocRbTrWTnXRkGY",
     "categories": [
       "Pharmacy",
       "Medical clinic",
@@ -220,12 +218,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRuu7G9BdXXh99cx3B_XCnVAbdvwGHpD3hvoZ2NAO0UGofKf1e_E5rG8bIans0RRMUuNxYYe2AGypG3GKu1GTbE3fHY_lWDuygMG5pNtwq-5OmHn81HGgCy68dTLaJJw=w408-h725-k-no",
     "kgmid": "/g/1th6fd14",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -441,7 +437,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -535,7 +531,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw8wT-0s04ocROFYlkIEVcto",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -651,10 +647,8 @@
     "kgmid": "/g/1ptxmylpp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -679,7 +673,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnXyEwEfL44cRmT23TxCcDvc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -895,10 +889,8 @@
     "kgmid": "/g/1tdxfvbg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -922,7 +914,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_axlTGw24ocRK-PvDrX8xaA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1035,10 +1027,8 @@
     "kgmid": "/g/1ptypy7wb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1062,7 +1052,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgR5xZNU04ocRPqx0jSH3Y1k",
     "categories": [
       "Pharmacy"
     ],
@@ -1183,10 +1173,8 @@
     "kgmid": "/g/11c467h_25",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1210,7 +1198,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJa94futfK44cR7bOAuH3fH8E",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1323,10 +1311,8 @@
     "kgmid": "/g/1tct983g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1351,7 +1337,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZb7YtWw14ocREkm_pJ1mFEo",
     "categories": [
       "Pharmacy"
     ],
@@ -1487,10 +1473,8 @@
     "kgmid": "/g/11f5tc4s5m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1515,7 +1499,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZQh6idg14ocRzWPQoRr5POM",
     "categories": [
       "Pharmacy"
     ],
@@ -1621,10 +1605,8 @@
     "kgmid": "/g/1th82hck",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Costco Pharmacy",
@@ -1648,7 +1630,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo8WFIx814ocR1LeCZXXK62Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1729,10 +1711,8 @@
     "kgmid": "/g/11ftf27dbb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1757,7 +1737,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJoy97Q7U04ocRsVLxG7noKZM",
     "categories": [
       "Pharmacy"
     ],
@@ -1896,10 +1876,8 @@
     "kgmid": "/g/11cn93zw7d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Davenport Good Neighbor Pharmacy",
@@ -2196,7 +2174,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvY92RLU04ocRpkY78DI1G04",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2407,10 +2385,8 @@
     "kgmid": "/g/1v9gw048",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Lewis Family Drug",
@@ -2547,10 +2523,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9JJhZ5C6CbtuY2OjZRzEu4Ehi8C6rRFCBNXgn=w408-h289-k-no",
     "kgmid": "/g/1tzvx1kg",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },

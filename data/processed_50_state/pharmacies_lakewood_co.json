@@ -21,7 +21,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl82xxgKEa4cR1xrhBHapWTM",
     "categories": [
       "Pharmacy",
       "Women's health clinic",
@@ -140,12 +140,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noFXDZ2q-_uw0-sawLIPFhjlZaMP0_mfi8khZL4ddIInBnsZqkpfj7jNVeYN4kSOGIS46kptLUasC2sFgTl_z5d-_bZXyEGopzSSTLught8D2amq4Hy4HNPuDTQMMcWWcnBrup_2g=w408-h306-k-no",
     "kgmid": "/g/1pv0_mj5q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Alpine Pharmacy",
@@ -493,10 +491,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrh2FmcnsOpLkaa4bUQfE5BfGlTWcsnv2bWw3bEzO_-F7RwAbpvmExLIbFLpXlXZpipG61GVmeOUxMfGPkPTeDR_wziyEUdfnfYLAY4z0JT9aT0ROwNOpQKmi-277Kt8T5EgTM8=w408-h544-k-no",
     "kgmid": "/g/1tf60sbx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -783,10 +781,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN24zXFXXvqOCsVUWcUOU8UNM32XluNd2XostCN=w408-h306-k-no",
     "kgmid": "/g/11cp7kbyyd",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -933,8 +931,8 @@
     "kgmid": "/g/11tsg7tk46",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -960,7 +958,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl8lJuRuBa4cROHvlSN318Ew",
     "categories": [
       "Pharmacy"
     ],
@@ -1037,12 +1035,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t-y3M2ub9u1J6rokMhmAoA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=124.28233&pitch=0&thumbfov=100",
     "kgmid": "/g/11h4chl726",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Alto Pharmacy",
@@ -1195,8 +1191,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODjbH7eO61B4J44-fXdRkfwndWbPLTjAuaFZ4n=w408-h408-k-no",
     "kgmid": "/g/11h24mw2kn",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",

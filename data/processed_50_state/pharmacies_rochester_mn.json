@@ -164,7 +164,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "ROCHESTER CITY PHARMACY",
@@ -249,7 +250,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Mayo Clinic | Pharmacy",
@@ -273,7 +275,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLW8xNntf94cRwg2IUV2Zdnk",
     "categories": [
       "Pharmacy"
     ],
@@ -359,12 +361,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqsJ50yyBKyN3QrrsX42kHuRMdgKZkuekPwAth272PEJRO7zplOfbxl7aNDUvIQoDqiTGQb_jYerAp7sQpaPpU-3mueBKxPMDWTH9AxYRxsfsGbkshBPg67jUJ_xn6OwJhyyKXItA=w408-h306-k-no",
     "kgmid": "/g/12qglq9m6",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mayo Clinic Baldwin Pharmacy",
@@ -388,7 +388,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK5t9O2Vf94cREtoFyC5lrSw",
     "categories": [
       "Pharmacy"
     ],
@@ -470,12 +470,10 @@
     "rank": 4,
     "isAdvertisement": false,
     "kgmid": "/g/11hbv9c7k6",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "OMC - Rochester Northwest Pharmacy",
@@ -499,7 +497,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG-mX10xn94cRzMBqbVrNhO4",
     "categories": [
       "Pharmacy"
     ],
@@ -585,12 +583,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nod_Q2HUZ6v_2TFSOjnw_ZTkrvBmEocCyMmcsdvI8L19yXCRuaJohQOamHuppgBRKeL0aCAPi-jm-i2_1fHUd3LOe3JtbDnM-oDTTZbr1r9ThkpGju273HfQEj10oPIyTn-e2bH=w408-h306-k-no",
     "kgmid": "/g/12qfgg934",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -614,7 +610,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnwOpvB5e94cRA0TOc1tj-Kc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -730,10 +726,8 @@
     "kgmid": "/g/11d_1mfkgn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "OMC - Rochester Southeast Pharmacy",
@@ -757,7 +751,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJs-QHBODh-YcRUnGXXpUicDI",
     "categories": [
       "Pharmacy"
     ],
@@ -840,12 +834,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOl-goA8nB7Sm9xGsOEsBbdqs7d80bdHYIhSEo1=w408-h272-k-no",
     "kgmid": "/g/12610q81x",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -870,7 +862,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZzJixnRf94cREs80-MvPoCk",
     "categories": [
       "Pharmacy"
     ],
@@ -997,10 +989,8 @@
     "kgmid": "/g/11cn972dl8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hunt Drug LTC",
@@ -1103,7 +1093,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Alexander Pharmacy",
@@ -1660,7 +1651,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Eagle Store",
@@ -1788,7 +1780,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Cub Pharmacy",
@@ -1894,9 +1887,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Mayo Clinic Pharmacy",
@@ -1920,7 +1914,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk9dtentf94cRcIB314bSPZM",
     "categories": [
       "Pharmacy"
     ],
@@ -1994,12 +1988,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8Ty49lt39UWrNRClPP4q-oTluKb3lA_LjomG5fFwQHHN1gYy19xC6IrYxhnMZqjGReNxu2NWHBzJmvt4ikSvDeiKSkJAuzm6Kp2tpLGiU7liPYkaKu-IcblpDXrM0a3azOziB=w408-h544-k-no",
     "kgmid": "/g/11b7k075l_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hunt Silver Lake Drug",
@@ -2144,7 +2136,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Seward Pharmacy",
@@ -2286,7 +2279,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Heartfelt Holistic Pharmacy",
@@ -2354,7 +2348,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rochester_mn"
   },
   {
     "title": "Mayo Clinic Pharmacy Northeast",
@@ -2378,7 +2373,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcc_VWmng-YcRKj66UR0YzWg",
     "categories": [
       "Pharmacy"
     ],
@@ -2462,12 +2457,10 @@
     "rank": 29,
     "isAdvertisement": false,
     "kgmid": "/g/11fzp8p8sn",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2492,7 +2485,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6qqRixe94cRPRHSLS9myS4",
     "categories": [
       "Pharmacy"
     ],
@@ -2600,10 +2593,8 @@
     "kgmid": "/g/11k9nsxxc9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2628,7 +2619,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJzXsmbX5Y94cRg1gyxmKbTXA",
     "categories": [
       "Pharmacy"
     ],
@@ -2746,9 +2737,7 @@
     "kgmid": "/g/1tk1zlwm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

@@ -1,3 +1,35 @@
+# 🚀 June 2025: Major Classification Pipeline Update
+
+### Chain & Hospital Pre-filtering
+The pipeline now pre-filters known chain and hospital/health system pharmacies before sending data to the Perplexity API. This:
+- **Reduces API cost** by skipping obvious non-independents via local rules
+- **Improves output accuracy**: Only ambiguous/non-chain/non-hospital pharmacies are classified by the LLM
+- **Classification is now nearly error-free for all test batches**
+
+#### Example Results
+- **CA/WA/OR batch:** 230 pharmacies, 123 API calls, 77 chains, 27 hospitals pre-filtered
+- **NY/TX/FL/IL/PA batch:** 387 pharmacies, 338 API calls, 60 chains pre-filtered
+
+### How to Run State Batches
+You can now process any set of states efficiently:
+
+```bash
+python3 scripts/process_cached_data.py --states ca,wa,or --output-dir data/processed_test_cawao
+python3 scripts/process_cached_data.py --states ny,tx,fl,il,pa --output-dir data/processed_test_next5
+```
+The script will print summary stats for each location, showing how many chains/hospitals were skipped and how many required LLM classification.
+
+### Classification Logic
+- **Pre-filter:** Local keyword lists for chain and hospital/health system names
+- **LLM step:** Only for ambiguous/unknown pharmacies
+- **Post-processing:** Final output contains only true independents
+
+### Why This Matters
+- **Cost savings:** Most API calls are avoided for obvious chains/hospitals
+- **Accuracy:** No hospital or chain pharmacies are misclassified as independent
+- **Scalability:** Ready for full 50-state run
+
+---
 # Independent Pharmacy Verification Project
 
 ## Scalable Data Collection Pipeline

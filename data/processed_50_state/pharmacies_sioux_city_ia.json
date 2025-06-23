@@ -704,7 +704,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHS79TFj9jYcRX6w-z_r9zgI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -826,10 +826,8 @@
     "kgmid": "/g/1tnhyv2r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Thompson Dean Drug",
@@ -973,7 +971,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ40rRtlT8jYcROqqI0IOL42E",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1086,10 +1084,8 @@
     "kgmid": "/g/1tfddzf6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1113,7 +1109,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqTdoFpn-jYcR7UiGFJmFDO4",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1226,10 +1222,8 @@
     "kgmid": "/g/1pv0g67wt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1319,7 +1313,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1346,7 +1340,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFXiU8fIHjocR6iUlTJZxZ4I",
     "categories": [
       "Pharmacy"
     ],
@@ -1479,10 +1473,8 @@
     "kgmid": "/g/11cn95zlcy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1507,7 +1499,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl-O1uqj-jYcRtNHyqynMgEI",
     "categories": [
       "Pharmacy"
     ],
@@ -1613,10 +1605,8 @@
     "kgmid": "/g/1tmcmr15",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "MercyOne Siouxland Pharmacy",
@@ -1639,7 +1629,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJE7bg53v9jYcROUbCkag9GEs",
     "categories": [
       "Pharmacy"
     ],
@@ -1708,12 +1698,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BYzMEGD78B4ntN2eKEbg_Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=337.90152&pitch=0&thumbfov=100",
     "kgmid": "/g/1tjjpwck",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1737,7 +1725,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVzxjgdPijYcRY4PsHt5Ld0U",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1856,10 +1844,8 @@
     "kgmid": "/g/1hc2zzrmg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Siouxland Compounding Pharmacy",

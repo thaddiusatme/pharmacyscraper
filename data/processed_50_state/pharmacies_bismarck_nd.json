@@ -185,7 +185,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Heritage Pharmacy",
@@ -311,7 +312,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Medicine Shoppe",
@@ -335,7 +337,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJp4p0UgKD11IRuSiKVhpWQnA",
     "categories": [
       "Pharmacy"
     ],
@@ -426,12 +428,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnUfRArYIbtMIhUTnQ4noHmfeK_7jFOnwx5qDoslYZBKR-98sFiIX5DmQe7pc2iuDW3pytt3RfCcn3jW1r5YRNbXUCJII8jVigaMqpGgciqpo7RmQbC95rfHHXJOgOQoxdtCivCA=w408-h272-k-no",
     "kgmid": "/g/1tfchdxv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sanford Bismarck Retail Pharmacy",
@@ -532,12 +532,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwwpvWdPfUJR0clZ466uCgSXDnTipvwPNyZaTB=w411-h240-k-no",
     "kgmid": "/g/11gw23c458",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "North Dakota Pharmacy Services Corporation",
@@ -600,7 +601,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Dakota Pharmacy",
@@ -733,7 +735,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Gateway Pharmacy North",
@@ -867,9 +870,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Mayo Pharmacy",
@@ -1002,7 +1006,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Churchill Pharmacy",
@@ -1145,7 +1150,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Gateway Pharmacy South",
@@ -1269,9 +1275,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Gateway Pharmacy Sunrise",
@@ -1401,7 +1408,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "CHI St. Alexius Health Community Pharmacy",
@@ -1425,7 +1433,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9eRWZReD11IRBF90sjF42Fk",
     "categories": [
       "Pharmacy"
     ],
@@ -1574,12 +1582,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOR5EbjjpJmYCcqt0D_9f5B6TiaO3VsGxDyzeTt=w426-h240-k-no",
     "kgmid": "/g/1tfchdxz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Professional Pharmacy",
@@ -1697,7 +1703,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Dakota PrecisionRx Labs",
@@ -1830,7 +1837,8 @@
     "is_compounding": true,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Thrifty White Pharmacy",
@@ -1949,7 +1957,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "CVS Pharmacy",
@@ -1973,7 +1982,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqWQNRjaC11IReWn6znYCQzc",
     "categories": [
       "Pharmacy"
     ],
@@ -2097,10 +2106,8 @@
     "kgmid": "/g/11c2pv7wn1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2124,7 +2131,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJF1Momz-D11IR_kW8HJvLvY8",
     "categories": [
       "Pharmacy"
     ],
@@ -2242,10 +2249,8 @@
     "kgmid": "/g/11c460bgrc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Professional Pharmacy",
@@ -2357,7 +2362,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Professional Pharmacy",
@@ -2456,7 +2462,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   },
   {
     "title": "Thrifty White Pharmacy",
@@ -2572,6 +2579,7 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bismarck_nd"
   }
 ]

@@ -135,7 +135,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Credena Health Pharmacy Anchorage",
@@ -159,7 +160,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfcgBSwCXyFYRUcPX_kpmfRc",
     "categories": [
       "Pharmacy"
     ],
@@ -268,12 +269,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqW3hzjAxxqmdt8kdN4pf-aWOUZ7Z7Pi14sVLtWeMM6Ij9qMvBHG6MRZf4MoBg8ONQbhyiJD6x6YAPvoKv1NLy0JykUjxGkjXtzotwrTED4rb5aCnJLho_wc1RgAEIq_PVmw-c=w408-h278-k-no",
     "kgmid": "/g/1tv23wt4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Amp Pharmacy",
@@ -374,9 +373,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Frontier Pharmacy",
@@ -428,7 +428,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Genoa Healthcare",
@@ -452,7 +453,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9x_JwB2XyFYRVlmHM2HjGVc",
     "categories": [
       "Pharmacy"
     ],
@@ -523,10 +524,8 @@
     "kgmid": "/g/11fd67n_nv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Carrs Pharmacy",
@@ -654,12 +653,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBzuUIIh5bgn4S_uclNoX8UhlPdXDqOW_SwKz7=w426-h240-k-no",
     "kgmid": "/g/1tgxt8g1",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "ANMC Pharmacy",
@@ -683,7 +683,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN6qnTQCXyFYRL9M0lnLtw9I",
     "categories": [
       "Pharmacy"
     ],
@@ -752,12 +752,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fXWDGRzTb7gA2pxdr6TVeQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.3813&pitch=0&thumbfov=100",
     "kgmid": "/g/11ln5hbzmv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Carrs Pharmacy",
@@ -888,12 +886,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4tflA7ixislWBnXQo7-IsPTNmsmUlnH5PWiMwnWXDMuT95CP-Y7MwnUvNgTHzc0H3WOrl5Gt9vybT9y_BdkOI3A5n5Ko9oknwrUp7gkrlN-Tfl7zxa87SUGPTcvkXB3VBg2Q=w408-h409-k-no",
     "kgmid": "/g/1pv08q_4y",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Alaska Managed Care Pharmacy",
@@ -990,7 +989,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "ANTHC Pharmacy",
@@ -1014,7 +1014,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt2ctkwuXyFYRrct42EUB97o",
     "categories": [
       "Pharmacy"
     ],
@@ -1083,12 +1083,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D2I-ZyIZ6yDySe4WiWb7SQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.22854&pitch=0&thumbfov=100",
     "kgmid": "/g/11h8b9nw3f",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Carrs Pharmacy",
@@ -1222,9 +1220,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Carrs Pharmacy",
@@ -1355,12 +1354,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npslCRvnPn_2Pkk_1yvo903O0BbTS13D7c5WDCMa3b3TQfwd2W4hKUxhah5jLEhfj1d0-58s44C180XdgcPYOKOABrvIxKSrlBdnz-Je0kO-YDYRQUUuruMBiiWzX6Tfb9_lyaAcA=w408-h306-k-no",
     "kgmid": "/g/11trlwl4sh",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Anchorage Native Primary Care Center Pharmacy",
@@ -1383,7 +1383,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI2G5BleXyFYRnPwg8Bq7kLw",
     "categories": [
       "Pharmacy"
     ],
@@ -1452,12 +1452,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=prRSt6LfGfRXFuzAxYTb5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.249943&pitch=0&thumbfov=100",
     "kgmid": "/g/11fnqk0xd0",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Carrs Pharmacy",
@@ -1585,12 +1583,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNUPR2F0Rx3oBzJpFnWuX17bLjS-waSmNrdY0Tk=w426-h240-k-no",
     "kgmid": "/g/1ptzk1p69",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Carrs Pharmacy",
@@ -1721,12 +1720,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOhAlnWoono5ZRJfGhOrhvWYYUcno1iDnVmDdgG=w426-h240-k-no",
     "kgmid": "/g/1hc0sg7hr",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -1750,7 +1750,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX9dGZ7aXyFYR_wiJvRAS7sI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1882,10 +1882,8 @@
     "kgmid": "/g/1hdz9mmcz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Anchorage VA Pharmacy",
@@ -1977,12 +1975,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dOWPQqEzTXQRZv1PGtLGjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.49716&pitch=0&thumbfov=100",
     "kgmid": "/g/11kr6kcy9v",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Soldotna Professional Pharmacy",
@@ -2122,7 +2121,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "anchorage_ak"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -2146,7 +2146,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiZf8OEiYyFYRXqmzougvcY0",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2313,10 +2313,8 @@
     "kgmid": "/g/1tg_lc9w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -2340,7 +2338,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpQGYP-eZyFYRuOB8uNMo6uQ",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2462,9 +2460,7 @@
     "kgmid": "/g/1hf0lsy1n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

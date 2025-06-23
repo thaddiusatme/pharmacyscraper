@@ -115,7 +115,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -379,7 +379,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1128,7 +1128,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJA-S_yySxQYgRHL7TRmfGQc4",
     "categories": [
       "Pharmacy"
     ],
@@ -1255,10 +1255,8 @@
     "kgmid": "/g/11cn9553nl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Mason Family Drug",
@@ -1663,7 +1661,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBx5xPCSxQYgRYjaV4cSlFKA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1790,10 +1788,8 @@
     "kgmid": "/g/1tj5rdx6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Pinnacle Pharmacy",
@@ -2284,10 +2280,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGrDpEPVbvWz_9-2RBS3rGnzzo-8YUV1zuV1jH=w426-h240-k-no",
     "kgmid": "/g/11jgtcxs0y",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2447,7 +2443,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSQiVmLmwQYgR7T4YlybBqoU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2607,9 +2603,7 @@
     "kgmid": "/g/1tcxvx_r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

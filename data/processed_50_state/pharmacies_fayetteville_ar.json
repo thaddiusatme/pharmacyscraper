@@ -368,7 +368,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -867,7 +867,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1151,7 +1151,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNVAdXCZvyYcRo6rEEBC1yIM",
     "categories": [
       "Pharmacy"
     ],
@@ -1350,10 +1350,8 @@
     "kgmid": "/g/1v_0k8c1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1377,7 +1375,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJGwd9Ma1uyYcRCoD9S_DoDwg",
     "categories": [
       "Pharmacy"
     ],
@@ -1495,10 +1493,8 @@
     "kgmid": "/g/11c467y0zp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1523,7 +1519,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkUZApQhsyYcRUfRxkPmTURc",
     "categories": [
       "Pharmacy"
     ],
@@ -1629,10 +1625,8 @@
     "kgmid": "/g/1tdlvt48",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Westside Healthmart Pharmacy",
@@ -1873,7 +1867,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXXh9Ba1uyYcRdE7Q4pszWtI",
     "categories": [
       "Pharmacy"
     ],
@@ -2003,10 +1997,8 @@
     "kgmid": "/g/11cn93j_8r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Heartland Pharmacy",
@@ -2282,7 +2274,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx_DWkehuyYcRvwo-Da2IQC0",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2401,10 +2393,8 @@
     "kgmid": "/g/1tlkcxcz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Benita J. Harper, PD",
@@ -2462,10 +2452,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nntx2Nv6dqtqf9SWKZbVFA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=264.63635&pitch=0&thumbfov=100",
     "kgmid": "/g/1vb9dl91",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },

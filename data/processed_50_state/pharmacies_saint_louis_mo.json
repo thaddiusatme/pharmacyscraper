@@ -179,7 +179,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB9-K9tq02IcRtwo2ldLNOLE",
     "categories": [
       "Pharmacy"
     ],
@@ -278,12 +278,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHX1msBAdjvoe1oGD9xTnLOFAT0xq95Vu-DSCg1IWsqsu2fUgwxEthQu07FNh-o6F0sRVxhwsOnrYIzQqDE8S9ZopGgCwtv4fNx9jOrb7Ry3KEESuMhvBSqVsArptZz2zC2XCbZw=w408-h541-k-no",
     "kgmid": "/g/1tlnd_0l",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Juniper Pharmacy",
@@ -1289,7 +1287,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2188,7 +2186,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTaVK-TjI2IcRhGATWXGW2OQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2287,12 +2285,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhk9VppSfaiqYg_JwKuMcZxlm0gVxQwwDEp0c=w408-h306-k-no",
     "kgmid": "/g/11clw7z72c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.8,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Medicine Shoppe of St Louis",
@@ -2316,7 +2312,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6qaVjjI2IcR8DhA37gXQ5U",
     "categories": [
       "Pharmacy"
     ],
@@ -2395,12 +2391,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4pmTS6ghHoSQmbKd5goDvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=320.3774&pitch=0&thumbfov=100",
     "kgmid": "/g/11ng76wrjc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Gateway Apothecary",

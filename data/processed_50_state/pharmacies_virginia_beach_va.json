@@ -129,7 +129,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9f__WGuVuokRxV0L2xx0DMo",
     "categories": [
       "Pharmacy"
     ],
@@ -218,12 +218,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=75LgWiZT4E6fasolIcA9LQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=19.75732&pitch=0&thumbfov=100",
     "kgmid": "/g/11clt7tsl7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "IPS Compounding",
@@ -507,7 +505,7 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlKRAu2w90AZsiRNAm0v-JJ6dPZB-1cu5y_cK2wOW8fVFQhz_mnr16lGsBDfc7lzWcM_QfNBmFqb6VydmydEUWuKFf-PgKZp4AFykBXiX14QtGstYLP5saiR1zRjaPX0Mn4O8J=w408-h544-k-no",
     "kgmid": "/g/11j354yq5x",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
@@ -536,7 +534,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOUIvkmWUuokRJK8l6qfpPG4",
     "categories": [
       "Pharmacy"
     ],
@@ -654,10 +652,8 @@
     "kgmid": "/g/11c460jh_r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -682,7 +678,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZbtxaVWUuokRjuHirOC8MBc",
     "categories": [
       "Pharmacy"
     ],
@@ -809,10 +805,8 @@
     "kgmid": "/g/11cn9553pj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "BEDEI COMPOUNDING PHARMACY SERVICES",
@@ -967,7 +961,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR_oEQDSVuokR81rRbfyvLxw",
     "categories": [
       "Pharmacy"
     ],
@@ -1169,10 +1163,8 @@
     "kgmid": "/g/1tfwqwbv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1196,7 +1188,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLYYh0AS_uokROeWfRPO9-10",
     "categories": [
       "Pharmacy"
     ],
@@ -1311,10 +1303,8 @@
     "kgmid": "/g/11c467bv6j",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1338,7 +1328,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJU0G1Ub2_uokRUQ3jmbYcbUw",
     "categories": [
       "Pharmacy"
     ],
@@ -1449,10 +1439,8 @@
     "kgmid": "/g/1v29cy6m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bayview SRC Pharmacy",
@@ -1585,7 +1573,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1611,7 +1599,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBXCtrFLquokRV5pof8Ko6P8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1738,10 +1726,8 @@
     "kgmid": "/g/1tg_bd0d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "PharMerica- Virginia Beach, VA",
@@ -1764,7 +1750,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOY5NsJKVuokRe4UkGyhnM5g",
     "categories": [
       "Pharmacy"
     ],
@@ -1828,12 +1814,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tCppAkJ3G6X6Q-LTBmL-xQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.589831&pitch=0&thumbfov=100",
     "kgmid": "/g/11w2jr18dx",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1858,7 +1842,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZSyhpQqVuokRprkI-UEoOyA",
     "categories": [
       "Pharmacy"
     ],
@@ -1985,10 +1969,8 @@
     "kgmid": "/g/11cn931vn1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Harris Teeter Pharmacy",
@@ -2012,7 +1994,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiWh-D3-VuokRQ2nIxTDfyGA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2134,10 +2116,8 @@
     "kgmid": "/g/11h54m9pjw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2161,7 +2141,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq9tEiUvquokRJTRH8WkdiiA",
     "categories": [
       "Pharmacy"
     ],
@@ -2272,10 +2252,8 @@
     "kgmid": "/g/1thl_bkz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -2299,7 +2277,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4T00tUvquokR1T6iLpxcOYU",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2409,10 +2387,8 @@
     "kgmid": "/g/11dfpqcj7q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2436,7 +2412,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2cAbqgqVuokRQNuIQikzMw8",
     "categories": [
       "Pharmacy"
     ],
@@ -2542,10 +2518,8 @@
     "kgmid": "/g/11xvx0jpf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2569,7 +2543,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3xfJyTS-uokRzT-vSDjpJJQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2684,9 +2658,7 @@
     "kgmid": "/g/11c4604wdl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

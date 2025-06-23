@@ -1,0 +1,1279 @@
+[
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "104 S Main St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "104 S Main St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-104+s+main+st-rochester-nh-03867/id=3520",
+    "phone": "(603) 332-9360",
+    "phoneUnformatted": "+16033329360",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3011962,
+      "lng": -70.9718031
+    },
+    "locatedIn": "Walgreens Photo",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLYHJe2yb4okR8YLZgkyvH-8",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x89e29b6c7bc9812d:0xef1faf4c82d982f1",
+    "cid": "17230683442490475249",
+    "reviewsCount": 166,
+    "imagesCount": 32,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.297Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJLYHJe2yb4okR8YLZgkyvH-8",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7z4gnLsZV5625GfecQUy8KGrco9CENAioAdp6dw9SegnWHEQcrw6O_lmNlDKT_PuBc5bh0ZOrMFPFMMzBPG-cIDEXzvbw7w5jH0LfhPOxtflF-hUVzVjiK9eFTSLoTi33o88L=w408-h544-k-no",
+    "kgmid": "/g/1tdlcqrc"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "301 N Main St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "301 N Main St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rochester-nh-pharmacies/301-north-main-st-rochester-nh-03867/storeid=2197?WT.mc_id=LS_GOOGLE_RX_2197",
+    "phone": "(603) 332-6497",
+    "phoneUnformatted": "+16033326497",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.31231,
+      "lng": -70.9930177
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ17LBS1Cb4okRUkf_8VNgK74",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e29b504bc1b2d7:0xbe2b6053f1ff4752",
+    "cid": "13703152204863457106",
+    "reviewsCount": 20,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ17LBS1Cb4okRUkf_8VNgK74",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN2EfSL2pgqV2Mj_EYTHB_Tk1zY-_uyoS6S7_os=w408-h272-k-no",
+    "kgmid": "/g/11c469h2bd"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "290 N Main St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "290 N Main St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/rochester/8315",
+    "phone": "(603) 332-9264",
+    "phoneUnformatted": "+16033329264",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3100295,
+      "lng": -70.9944618
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJw-5ezVGb4okR1NsIHkdwQEc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e29b51cd5eeec3:0x474070471e08dbd4",
+    "cid": "5134227025951251412",
+    "reviewsCount": 19,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJw-5ezVGb4okR1NsIHkdwQEc",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npx5hkT2xuQh6kIultvD6H8-kuSQoGBagUUdp2wv6IHcSk3oettjx4IEoMoyBwwTZu32BQNH7r0h8s6_VD-y34Xi97blvkhpQsKgXygcdfs8nCuwz8FE5inacB4nU0_TJvVYHhG=w408-h256-k-no",
+    "kgmid": "/g/1ydpgks2k"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "104 S Main St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "104 S Main St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-104+s+main+st-rochester-nh-03867/id=3520",
+    "phone": "(603) 332-9360",
+    "phoneUnformatted": "+16033329360",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 43.3011618,
+      "lng": -70.9717787
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX9oKcmyb4okRtvnZibCQtyk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e29b6c720ada5f:0x29b790b089d9f9b6",
+    "cid": "3006030364194503094",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJX9oKcmyb4okRtvnZibCQtyk",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=odRBfUgfmt_QpnCtuxMXPw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=36.28527&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wy0dlxrd"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "301 N Main St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "301 N Main St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rochester-nh-pharmacies/301-north-main-st-rochester-nh-03867/storeid=2197?WT.mc_id=LS_GOOGLE_FS_2197",
+    "phone": "(603) 332-6497",
+    "phoneUnformatted": "+16033326497",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3122753,
+      "lng": -70.9931554
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6f3K2U-b4okRa7IrXQBOk84",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x89e29b4fd9cafde9:0xce934e005d2bb26b",
+    "cid": "14885326956859732587",
+    "reviewsCount": 61,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM–1:30 PM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–10 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–10 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–10 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–10 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–10 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 AM–9 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJ6f3K2U-b4okRa7IrXQBOk84",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPrrErz8HthDiPvnhrwxgdxIbBrn8ucvoizEUGL=w408-h272-k-no",
+    "kgmid": "/g/1hc25t3lc"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "11 Milton Rd #2, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "11 Milton Rd #2",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/rochester/8317",
+    "phone": "(603) 332-9401",
+    "phoneUnformatted": "+16033329401",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3208098,
+      "lng": -70.9746911
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8z5pAJ-c4okRVTX7aBTYy4o",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e29c9f00693ef3:0x8acbd81468fb3555",
+    "cid": "10001324979678557525",
+    "reviewsCount": 14,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJ8z5pAJ-c4okRVTX7aBTYy4o",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4CED0wae2qDuj-3aAH6uXdFw88aN9ndQUJxy4=w426-h240-k-no",
+    "kgmid": "/g/1tfv_4k1"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "190 Wakefield St, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "190 Wakefield St",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/rochester/190-wakefield-street.html",
+    "phone": "(603) 332-3800",
+    "phoneUnformatted": "+16033323800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.316698,
+      "lng": -70.977621
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDdq42p-c4okR5kG4ITqQqUA",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e29c9fdab8da0d:0x40a9903a21b841e6",
+    "cid": "4659413868839715302",
+    "reviewsCount": 35,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJDdq42p-c4okR5kG4ITqQqUA",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbkSMmz26V09qpqe9PkmBsHxg4fFjDmwTbk6zXgeUIjulNCBbvf3UiR2GdKw2lxJqiwtxKJgn4UrMgTu_Kx_JZwtbH4_XjAQGOROJJdkuAtxFMS9wMLk7FJz2phtatZTG9GlrW=w408-h306-k-no",
+    "kgmid": "/g/1trrf67c"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "116 Farmington Rd, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "116 Farmington Rd",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/2330-rochester-nh/pharmacy/?veh=seo_loc",
+    "phone": "(603) 332-5540",
+    "phoneUnformatted": "+16033325540",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.3344066,
+      "lng": -71.0130036
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3VsdHUeD4okRs5OfQ0YWmTQ",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89e283471d1d5bdd:0x34991646439f93b3",
+    "cid": "3790085052447036339",
+    "reviewsCount": 23,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJ3VsdHUeD4okRs5OfQ0YWmTQ",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMKSfYPmtWTcnklyZ1axMtOos64Lbigntgr0xP9=w408-h306-k-no",
+    "kgmid": "/g/1vf9dcgw"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "25 Old Dover Rd suite b, Rochester, NH 03867",
+    "neighborhood": null,
+    "street": "25 Old Dover Rd suite b",
+    "city": "Rochester",
+    "postalCode": "03867",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(603) 822-7168",
+    "phoneUnformatted": "+16038227168",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.2870393,
+      "lng": -70.97567
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjSpIshmb4okR_Xl_yjcVz1U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e29b19b2482a8d:0x55cf1537ca7f79fd",
+    "cid": "6183184142767716861",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:08:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJjSpIshmb4okR_Xl_yjcVz1U",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Rochester,%20NH%20in%20Rochester,%20NH/@69.21166763186608,-145.05491807162034,9z?hl=en",
+    "searchString": "pharmacies in Rochester, NH in Rochester, NH",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HSZOcYZcP-VXTyTwU403Ug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=69.93816&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f_f5sstg"
+  }
+]

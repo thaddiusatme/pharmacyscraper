@@ -428,7 +428,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -583,7 +583,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ63nmqEMlXIgR6lyBInzrPdE",
     "categories": [
       "Pharmacy"
     ],
@@ -655,12 +655,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3-0rfsB68IXnpA-fCMMVUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.51672&pitch=0&thumbfov=100",
     "kgmid": "/g/11cns8sy2v",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tri-Star Pharmacy",
@@ -789,7 +787,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1290,7 +1288,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1416,7 +1414,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1514,7 +1512,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1745,7 +1743,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1862,10 +1860,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqN8M0UyYPc7Psj3_WAL23xeUaCd8L29gHLdAeXvLX5cDlIRExDy_rceiy3J5sf-nYkEzFqSNvRNdeGGd_27yAayDXBfMhydMYe4wOn3cIpFHNM_tGRkvKOOviI0959jYoeGLe1on8TNaBN=w408-h306-k-no",
     "kgmid": "/g/11g6yng20y",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2363,7 +2361,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2482,7 +2480,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2509,7 +2507,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6TGeYgVXIgRZ8sJq_eO61o",
     "categories": [
       "Pharmacy"
     ],
@@ -2601,9 +2599,7 @@
     "kgmid": "/g/11fnyp76lf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

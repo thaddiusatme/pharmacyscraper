@@ -125,7 +125,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "PharMerica \u2013 Reno, NV",
@@ -217,7 +218,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Sierra Specialty Pharmacy",
@@ -324,9 +326,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Flying Diamond Pharmacy",
@@ -435,9 +438,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Valley Pharmacy",
@@ -570,9 +574,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Renown Pharmacy \u2013 Pringle",
@@ -665,12 +670,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNahEEN7mC4Af0pOHNNYGck6Sn0zySr2-2k1mDX=w427-h240-k-no",
     "kgmid": "/g/11pq2bg1ts",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "integricare Rx",
@@ -777,9 +783,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Sierra Pharmacy Services Inc",
@@ -876,7 +883,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Well Care Pharmacy",
@@ -984,7 +992,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1008,7 +1017,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ4L0hxAVmYARslErOydSmNg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1173,10 +1182,8 @@
     "kgmid": "/g/1yfj6n1m2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Renown Pharmacy \u2013 South Meadows",
@@ -1269,12 +1276,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNxCqdfNeiUrhS3_6Al8nF9B53yjxRiZcggtQ58=w427-h240-k-no",
     "kgmid": "/g/11krkwcbrc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Renown Pharmacy \u2013 Locust",
@@ -1372,12 +1380,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMadAmf1VJLSU5Pq0xMKVFeKYt9gPvLUxJRLdK2=w427-h240-k-no",
     "kgmid": "/g/11mw7p48n_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1402,7 +1411,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAQBAnjdHmYARBai9L4UnrqI",
     "categories": [
       "Pharmacy"
     ],
@@ -1526,10 +1535,8 @@
     "kgmid": "/g/11smrfvsz5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Renown Pharmacy",
@@ -1579,7 +1586,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1603,7 +1611,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6udHu1ImYARvlwM3-a5mNc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1768,10 +1776,8 @@
     "kgmid": "/g/1yfh_jrlh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1796,7 +1802,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyzA7rO8UmYARavDugpdTGXk",
     "categories": [
       "Pharmacy"
     ],
@@ -1923,10 +1929,8 @@
     "kgmid": "/g/11cn93hgw4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1951,7 +1955,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJi2ARp31AmYARkcFd18Uq5yo",
     "categories": [
       "Pharmacy"
     ],
@@ -2084,10 +2088,8 @@
     "kgmid": "/g/11cn95fcg7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Raley's O-N-E Market Pharmacy",
@@ -2221,7 +2223,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   },
   {
     "title": "CVS Pharmacy",
@@ -2245,7 +2248,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG7_MSJdAmYARimYxFwj64fU",
     "categories": [
       "Pharmacy"
     ],
@@ -2360,10 +2363,8 @@
     "kgmid": "/g/11c45_td7k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Village Pharmacy",
@@ -2493,6 +2494,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "reno_nv"
   }
 ]

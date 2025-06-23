@@ -121,7 +121,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Metro Pharmacy Inc",
@@ -243,7 +244,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Delaware Apothecary by Apotheco Pharmacy",
@@ -365,7 +367,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Clover Pharmacy & Wellness",
@@ -512,9 +515,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "GLASGOW PHARMACY",
@@ -643,7 +647,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Prices Corner Pharmacy",
@@ -777,7 +782,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "CVS Pharmacy",
@@ -801,7 +807,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk6aPy_Cpx4kRx0Dk7ABEjk0",
     "categories": [
       "Pharmacy"
     ],
@@ -930,10 +936,8 @@
     "kgmid": "/g/11c46885pr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -957,7 +961,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf1cJduqrx4kRHPFnfuEpnbA",
     "categories": [
       "Pharmacy"
     ],
@@ -1075,10 +1079,8 @@
     "kgmid": "/g/11f77b2g33",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ACME Markets Pharmacy",
@@ -1214,7 +1216,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "ACME Markets Pharmacy",
@@ -1347,7 +1350,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "CVS Pharmacy",
@@ -1371,7 +1375,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH-8VV8urx4kRw2GakYEQseU",
     "categories": [
       "Pharmacy"
     ],
@@ -1478,10 +1482,8 @@
     "kgmid": "/g/11q98hltzk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ChristianaCare Retail Pharmacy at Christiana Hospital",
@@ -1505,7 +1507,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMU12NeIAx4kRjQk01_u9jI4",
     "categories": [
       "Pharmacy"
     ],
@@ -1583,12 +1585,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqJKDP8AJhMTstLCfwo-lxMeKlarJ2OWSbntafjbVrSfF1dGjDdFT3Eman67cQ5_Vk0p0q3pb-VR2Pw4mmyXDdnMDkvIAf6UXnl1gtbh6s3rCpCMDyvT2VLd8UX7UQh8FS00T7Y=w408-h544-k-no",
     "kgmid": "/g/1q6jcltyf",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1613,7 +1613,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJL7RQj2apx4kRhf6iu3PljW8",
     "categories": [
       "Pharmacy"
     ],
@@ -1746,10 +1746,8 @@
     "kgmid": "/g/11cn95lgnw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1773,7 +1771,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJ9yr32m6ox4kRIkgRsqhcl70",
     "categories": [
       "Pharmacy"
     ],
@@ -1877,10 +1875,8 @@
     "kgmid": "/g/1tl9njjj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Penn Pharmacy",
@@ -2021,7 +2017,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Liss Pharmacy",
@@ -2158,7 +2155,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Fourth Avenue Pharmacy",
@@ -2281,7 +2279,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Gateway Pharmacy",
@@ -2410,7 +2409,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   },
   {
     "title": "Newark Veterinary Pharmacy, LLC",
@@ -2554,11 +2554,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=am4USPtf5Tbs51LZE_NRrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.62946&pitch=0&thumbfov=100",
     "kgmid": "/g/11sb0mvj0r",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_de"
   }
 ]

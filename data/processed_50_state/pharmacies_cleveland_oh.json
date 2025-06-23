@@ -123,7 +123,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -149,7 +149,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ33Su2MvtMIgRdyMmtYljgHI",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -250,12 +250,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j_QLEC7Cd45cQE-WYOEa2Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.118397&pitch=0&thumbfov=100",
     "kgmid": "/g/11b6_svx12",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Cleveland Clinic Euclid Avenue Retail Pharmacy",
@@ -279,7 +277,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJEcNL7h37MIgRsr41A9cBMcU",
     "categories": [
       "Pharmacy"
     ],
@@ -343,12 +341,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9WHcqfdX9CMiWJ1qVg3KKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.2318819&pitch=0&thumbfov=100",
     "kgmid": "/g/11pbzhwls2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Church Square Pharmacy",
@@ -479,7 +475,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1074,7 +1070,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1100,7 +1096,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ40Z1sHz7MIgRuubWw1CjuR0",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1188,12 +1184,10 @@
     "rank": 9,
     "isAdvertisement": false,
     "kgmid": "/g/126433cw4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Linden Community Pharmacy",
@@ -1294,7 +1288,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1637,7 +1631,7 @@
     "classification": "not_a_pharmacy",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1751,7 +1745,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1889,7 +1883,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ38y06RrwMIgRHnM1vw06duU",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1993,12 +1987,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Eqi84M_Mer-oiIePk9NeoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.33008&pitch=0&thumbfov=100",
     "kgmid": "/g/1hc24fg6x",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "North Olmsted Lowcost Pharmacy",
@@ -2022,7 +2014,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVzYYZ6qTMIgRxc7FktAiYpQ",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2125,12 +2117,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TyKnHzl9li1OVgVJQZ7qsw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.03255&pitch=0&thumbfov=100",
     "kgmid": "/g/11rqlx5jrs",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Independent Pharmacy Consltng",
@@ -2192,7 +2182,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2220,7 +2210,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD-WksZD7MIgRMvdfX2ZfJYY",
     "categories": [
       "Pharmacy"
     ],
@@ -2342,10 +2332,8 @@
     "kgmid": "/g/11cmfhbg1k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -2369,7 +2357,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJ0bjBKDX7MIgRys3LivTUIrU",
     "categories": [
       "Pharmacy"
     ],
@@ -2417,9 +2405,7 @@
     "kgmid": "/g/11kqw21bl6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

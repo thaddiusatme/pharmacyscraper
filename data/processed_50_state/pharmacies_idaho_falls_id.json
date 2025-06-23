@@ -129,7 +129,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Community Family Clinic Idaho Falls Pharmacy",
@@ -153,7 +154,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7fvwAdpfVFMRinXGuDMX4As",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -279,12 +280,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfXnEuasEmoWxkeGhMbeLzpYWRRZQpltg_16IVGN0NdxPzcr0PsWAp5ayqMvsM3vNW5TT3xNyzJTVQPEVwpbCZUXDypKbnko-5pUij-hUtusfreQnJnbQRcG6v_D2nLX80u-AJ=w408-h272-k-no",
     "kgmid": "/g/11ss7_sby1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prescription Center Pharmacy",
@@ -430,7 +429,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Rocky Mountain Pharmacy",
@@ -559,7 +559,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Prescription Center Homecare",
@@ -675,9 +676,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Grand Peaks Pharmacy",
@@ -775,7 +777,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -799,7 +802,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFTebBDNZVFMRH1vVOwWJeRE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -911,10 +914,8 @@
     "kgmid": "/g/1tg5bs9b",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -1043,7 +1044,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1068,7 +1070,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtXLEnTRZVFMRYthApe-zTAc",
     "categories": [
       "Pharmacy"
     ],
@@ -1198,10 +1200,8 @@
     "kgmid": "/g/11cn949vjc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Broulim's Pharmacy",
@@ -1322,12 +1322,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noI7-AcKty3ROV0ZTNd9kM5tT8RNmvZeA7-UI-fjIQFgav0SJYkPVyeVht6UefvsOd42um0o35mvqLLwe-v-B8VH7qJelG1seXlqhOpg6Bs9tYirOhhTqc1ndKHqKjjQ3yy3aqz=w408-h306-k-no",
     "kgmid": "/g/11fnqvy343",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -1351,7 +1352,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8QEW_h5cVFMR9oDKSOIuzLc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1478,10 +1479,8 @@
     "kgmid": "/g/1td588g6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mountain Care Pharmacy",
@@ -1534,7 +1533,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1559,7 +1559,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5yBQy2FZVFMR_vo9_roLh-Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1683,10 +1683,8 @@
     "kgmid": "/g/11cn95h2d9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1711,7 +1709,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj20QhJZeVFMR3fi-_Reshsw",
     "categories": [
       "Pharmacy"
     ],
@@ -1838,10 +1836,8 @@
     "kgmid": "/g/11cn94f0c4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1865,7 +1861,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ1bd11tZVFMRvM_H6nOdxRs",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1987,10 +1983,8 @@
     "kgmid": "/g/11r8w1m1f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Idaho Drug Co",
@@ -2110,7 +2104,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Guardian Pharmacy of Idaho Falls",
@@ -2214,7 +2209,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Independence Drug",
@@ -2317,7 +2313,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   },
   {
     "title": "Vital Care of Eastern Idaho",
@@ -2414,6 +2411,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "idaho_falls_id"
   }
 ]

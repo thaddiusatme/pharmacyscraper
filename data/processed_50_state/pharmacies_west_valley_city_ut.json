@@ -21,7 +21,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV8mH-kmNUocRFQhESBdA4kA",
     "categories": [
       "Pharmacy"
     ],
@@ -125,12 +125,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNp8IkLosF8eadLoj7_QWhIO6Q6QIILdfWcApwY=w408-h306-k-no",
     "kgmid": "/g/11rmwb_0xh",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Olive Pharmacy",
@@ -264,7 +262,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "View Pharmacy",
@@ -389,7 +388,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Valley Pharmacy",
@@ -505,7 +505,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Granger Pharmacy",
@@ -622,7 +623,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Harmons Pharmacy - West Valley",
@@ -646,7 +648,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ73MrKOiMUocRfr9KaGD2e1M",
     "categories": [
       "Pharmacy"
     ],
@@ -725,12 +727,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npO8T6p2ZPI4f7SFUUm3HJnCdBzVJjkPfh3Kw8y8EP3o6ex7AfcqAE_unHkm25IsQjsbmjLnXd7v1irjEJWrKKRISW0AKTZjM5bL1qGex9vS1gYo808hWEqgCTxfFJNP-PR3o4=w408-h306-k-no",
     "kgmid": "/g/11fx9270mg",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -754,7 +754,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfQdWShONUocRSKb2tc5plu0",
     "categories": [
       "Pharmacy"
     ],
@@ -866,10 +866,8 @@
     "kgmid": "/g/11c5svjjxw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Gibsons Pharmacy & Compounding",
@@ -1000,7 +998,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Oquirrh Mountain Pharmacy",
@@ -1128,7 +1127,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Pioneer Valley Pharmacy",
@@ -1248,7 +1248,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1272,7 +1273,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIUT7_FqMUocRZFmuL0GqnP8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1432,10 +1433,8 @@
     "kgmid": "/g/1pt_n38zd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1459,7 +1458,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJeQTBl2yNUocREiqCRJHBzFA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1589,10 +1588,8 @@
     "kgmid": "/g/1ptwn0smn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "South Valley Compounding Pharmacy",
@@ -1732,7 +1729,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "CVS Pharmacy",
@@ -1757,7 +1755,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJUUh10cnyUocRiYwScFcsByA",
     "categories": [
       "Pharmacy"
     ],
@@ -1863,10 +1861,8 @@
     "kgmid": "/g/11b6c8zh21",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "U of U Health Westridge Pharmacy",
@@ -1890,7 +1886,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhTk3coGNUocRGXtIktEMW9Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1964,12 +1960,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMlS5F0fHb22jMMF84Zd0xu2Pn71OZbSvTu48WP=w408-h271-k-no",
     "kgmid": "/g/11h8fpyjjd",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1993,7 +1987,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQwc1r5eMUocREBTRoL2elCs",
     "categories": [
       "Pharmacy"
     ],
@@ -2117,10 +2111,8 @@
     "kgmid": "/g/11c461zh6l",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "U of U Health Midvalley Specialty Pharmacy",
@@ -2144,7 +2136,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhaz_M8mJUocRQaOBz7uYFJk",
     "categories": [
       "Pharmacy"
     ],
@@ -2227,12 +2219,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-WOEQUBgYIKMnEiiYVUG9eDAkHI_XhicTJbk=w408-h311-k-no",
     "kgmid": "/g/11g1lhkrbq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Family Plaza Pharmacy",
@@ -2367,7 +2357,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Medicine Market Compounding Pharmacy",
@@ -2491,7 +2482,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   },
   {
     "title": "Macey's Granger Pharmacy",
@@ -2637,6 +2629,7 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "west_valley_city_ut"
   }
 ]

@@ -126,12 +126,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nos6cby_3skk4fD4KTzbEq1sJgZinTwwEdWnMMrmCKUBKpvqAkTqqMQd-TJ_UxF69kVZrMJsUmkRL3EB7NGvk6Rvp9p5VlEc1YDfyX8dyaPdJApLdJe9xqzzdzY8ZAGvBE71BM=w408-h306-k-no",
     "kgmid": "/g/1vd75n28",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "St. Luke's Retail Pharmacy: Meridian",
@@ -238,12 +239,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npuUnYvTMLNYvukEksz4zBbUrhhgA2gUmMHdOwfzc3Q5GKOoq74VEaYEJKx7b7eTotEVUDzirL0gzy0kad7opLN4-xYKpxpoKYhR7CZoZ7eLDTwk0LJ1jhSFwMxl4UHeSuNFVxpTg=w408-h725-k-no",
     "kgmid": "/g/1jkwhsx6p",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Red Rock Pharmacy Meridian Idaho",
@@ -347,12 +349,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Kr1bVE1n_YeS_cOPk_0Vg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.578735&pitch=0&thumbfov=100",
     "kgmid": "/g/11hy9pbrpg",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Full Circle Health - Meridian Pharmacy",
@@ -376,7 +379,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTSYwx41RrlQRpVB8gX4o2OQ",
     "categories": [
       "Pharmacy"
     ],
@@ -445,12 +448,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNV8Rvtek53IUq55B26BR4dgZ3ZWKko-87e3mWG=w408-h306-k-no",
     "kgmid": "/g/11sczw33x6",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medicap Pharmacy",
@@ -576,12 +577,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPVjodBvOVZ882TFEiSeQyYZbYXsR8p4_32J2ix=w408-h271-k-no",
     "kgmid": "/g/1v5frmpy",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "PharMerica \u2013 Boise, ID",
@@ -668,12 +670,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3WMQXHhLmJy0vLwCEi1g9w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.087969&pitch=0&thumbfov=100",
     "kgmid": "/g/12605_r08",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Omnicare of Boise",
@@ -697,7 +700,7 @@
     "totalScore": 1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ9mh8eBTrlQRkyG2OBlguSU",
     "categories": [
       "Pharmacy"
     ],
@@ -766,12 +769,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bSxI4jINYqFQyhBBw9z9xw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.97443&pitch=0&thumbfov=100",
     "kgmid": "/g/12643qw7c",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sav-on Pharmacy",
@@ -875,12 +876,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VEnv9u1F7uUKZJlnJUKFXw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.91864&pitch=0&thumbfov=100",
     "kgmid": "/g/11r3sm9t4x",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Peachy-Keen Health + Wellness",
@@ -904,7 +906,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBXS3qPNXrlQRVbZY3VLYHuA",
     "categories": [
       "Pharmacy"
     ],
@@ -973,12 +975,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNMjTK8Dr0zyIh6t_gOctKikH-MZC6UfmYa0U9=w408-h306-k-no",
     "kgmid": "/g/11w7kq1750",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1003,7 +1003,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG3eydmBTrlQR_WTiZ9m6oso",
     "categories": [
       "Pharmacy"
     ],
@@ -1128,12 +1128,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-gWxw8xZaMdGt2BSyaCJGPX57GrxreFpCvmgL=w525-h240-k-no",
     "kgmid": "/g/11cn96z5lm",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Terry Reilly Health Services Pharmacy - Meridian",
@@ -1156,7 +1154,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJGSVgjtJVrlQRamPKPgiM7go",
     "categories": [
       "Pharmacy"
     ],
@@ -1225,12 +1223,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMdXYZOI72imDF8xtzQv4Yvko_4fV06jqjgR-X2=w408-h272-k-no",
     "kgmid": "/g/11v9kc4l85",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1254,7 +1250,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0ZAxltJRrlQR1x31Fqe8iWA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1355,12 +1351,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDdgQOAfxxp9I1AVuLkWi38lIU6tPFEQbmiYT7=w408-h306-k-no",
     "kgmid": "/g/11t4y1r4ln",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Reddish Pharmacy",
@@ -1480,10 +1474,11 @@
     "kgmid": "/g/1v3hzq3v",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1507,7 +1502,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw7O3JaxTrlQRh6B8xuWq5wc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1611,12 +1606,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMvE-XoRcvRlnYLudSU8MMS-IwSZ9_hZt8JyH4=w427-h240-k-no",
     "kgmid": "/g/1td12_fy",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1641,7 +1634,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYXwMrnRUrlQReXo-lTNc8Kw",
     "categories": [
       "Pharmacy"
     ],
@@ -1763,12 +1756,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPkl6Jmn2Dhd2zQFxq79o20-QV-nFBUAXJsrudg=w525-h240-k-no",
     "kgmid": "/g/11cn93lgzh",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mountain Care Pharmacy",
@@ -1889,12 +1880,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOkosyzu4i4gUVT7CLi1agaX4JcdmpyNEzkqI6EV9Wz10lQ-dtCjBMEAE2yLgdUgQjim8NHp8g9JK9Fyp6x4GPX4barjpR_6HAS2r-jshdXDkxaBzOMHNTVSI0s--i9Sh092w5AA=w408-h544-k-no",
     "kgmid": "/g/1tt1sdws",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "meridian_id"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -1918,7 +1910,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ167WQa5UrlQR0t_km-HIris",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2083,12 +2075,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZaWQYV50aHnNsdM-gP_Hf67o7nkjYQ5gAUyS0=w426-h240-k-no",
     "kgmid": "/g/1ptwktl3t",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2113,7 +2103,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkdpCzK5TrlQRCb28pvdeUcM",
     "categories": [
       "Pharmacy"
     ],
@@ -2241,12 +2231,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nop9hbNckcH4SScOCxFdImInC-bW2XDJWIxPEYc3Eokysgpp5Tl-KoQBKVz4VcYqNzGMcjIddc7CkgpgEczgKUofh3H1SLuXQB1JnGBbNpAXGM6YjNzd0R0n2VLDANrLMzVEdj2=w408-h306-k-no",
     "kgmid": "/g/11cn93zw76",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2270,7 +2258,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu4oonI5TrlQRhGqpYXmGO8Q",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2374,12 +2362,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_a4t5G7aSBOFQCVsmACK7mYt-Q-67ps4fOMCD=w427-h240-k-no",
     "kgmid": "/g/11cjkvlpwy",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -2403,7 +2389,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN7KfM3NUrlQRLLkT1B-SYSI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2563,11 +2549,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOCVkK2nIXnBKqFLWLHfNd9dihn_DNMLTrIQW4C=w426-h240-k-no",
     "kgmid": "/g/1v44q3wg",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

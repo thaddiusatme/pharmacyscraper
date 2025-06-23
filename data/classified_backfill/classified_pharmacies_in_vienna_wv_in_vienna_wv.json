@@ -1,0 +1,65 @@
+[
+    {
+        "placeId": "ChIJm04NEeBLSIgRGKIHFWHOO1U",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJk6uXoAZLSIgRixDxEJZJXuI",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJ-469dvtKSIgRs3JQ1SIa_DI",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.99,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJYbj5Dv1KSIgRYMZUMzQk3_8",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.99,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJo6O2QLFLSIgROE-XY7-QYus",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJE7REEN2LsIkRX2MUnjBX0o0",
+        "classification": "hospital",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.98,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJEzV4d8hLtokR-wc0IDBxuiM",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    }
+]

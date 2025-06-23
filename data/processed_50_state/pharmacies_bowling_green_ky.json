@@ -115,7 +115,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -255,7 +255,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -526,7 +526,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJczf140_vZYgRTsaGWkTnYfw",
     "categories": [
       "Pharmacy"
     ],
@@ -615,12 +615,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YvYA3NlOg45QufmoYmviwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.68842&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfntrbm",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ely Drugs of Bowling Green",
@@ -750,7 +748,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -988,10 +986,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMmmOQDS4ssLvLUZ15ESkzurh6V2MkM6YZsHRXN=w408-h268-k-no",
     "kgmid": "/g/1tykw3mx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1148,7 +1146,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJY9iOvJHoZYgRKHbBpjT1SdE",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -1321,10 +1319,8 @@
     "kgmid": "/g/11b6xbk5f3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hines Pharmacy at Wkoa",
@@ -1439,8 +1435,8 @@
     "rank": 10,
     "isAdvertisement": false,
     "kgmid": "/g/1tgwbn5g",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -2516,7 +2512,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

@@ -243,7 +243,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.96,
     "source": "perplexity",
     "method": "llm"
   },
@@ -451,7 +451,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source": "perplexity",
     "method": "llm"
   },
@@ -477,7 +477,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyS7E6-YHK4cRMaWYpvKpR1E",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -570,12 +570,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgrrMaa1sqvMbXIsgcpyUgN9HvAN9vtvTcitX2=w447-h240-k-no",
     "kgmid": "/g/1tql579b",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Valley Discount Pharmacy",
@@ -599,7 +597,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj8Tq54uoK4cRP6ioK9bJDNI",
     "categories": [
       "Pharmacy",
       "Diabetes equipment supplier",
@@ -744,12 +742,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7_q-exMj3jjQyYsLUZMHG3RJmp16247Fn87q_=w408-h306-k-no",
     "kgmid": "/g/11clyy8yqv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Community Clinical Pharmacy",
@@ -773,7 +769,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMe1CypAHK4cRekSAy3hQChw",
     "categories": [
       "Pharmacy"
     ],
@@ -852,12 +848,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNTs0k6kdK2kyQS_TA8_3vTZVvrAY7d80jfJ2cR=w408-h408-k-no",
     "kgmid": "/g/11s58_jr96",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare Pharmacy",
@@ -977,7 +971,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJm8HnL8mvK4cRckY4qD-1lXs",
     "categories": [
       "Pharmacy"
     ],
@@ -1002,12 +996,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xuur_zdZ5hkgxtl5esO1IA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=228.12492&pitch=0&thumbfov=100",
     "kgmid": "/g/1wbry7m9",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Vital Choice Pharmacy",
@@ -1133,7 +1125,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

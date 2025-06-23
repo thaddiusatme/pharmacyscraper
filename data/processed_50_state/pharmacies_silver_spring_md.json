@@ -573,7 +573,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -598,7 +598,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJb4Zu69nJt4kRlnB_XJ2OCD0",
     "categories": [
       "Pharmacy"
     ],
@@ -672,12 +672,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNbBshK1_cYTPk5nvyDD-zwfkHMeK44oJAdqED5=w408-h544-k-no",
     "kgmid": "/g/11r_mdl4nx",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lung Rx LLC",
@@ -790,7 +788,7 @@
     "classification": "not_a_pharmacy",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -837,10 +835,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yHE-QcXvvAm8s1VlSmSFYw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.485218&pitch=0&thumbfov=100",
     "kgmid": "/g/11h52mgsgc",
-    "classification": "not_a_pharmacy",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.7,
     "source": "perplexity",
     "method": "llm"
   },
@@ -866,7 +864,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVbn4Rr_It4kR4cFUbcazBT0",
     "categories": [
       "Pharmacy"
     ],
@@ -978,10 +976,8 @@
     "kgmid": "/g/11c460_9l9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rodman's Discount Store",
@@ -1153,7 +1149,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1179,7 +1175,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ98ESibrIt4kRfcbyv7SZwss",
     "categories": [
       "Pharmacy"
     ],
@@ -1294,10 +1290,8 @@
     "kgmid": "/g/11c467tsgy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Kensington Pharmacy",
@@ -1458,7 +1452,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJywcmyFjPt4kRpqOkIPbmGvk",
     "categories": [
       "Pharmacy"
     ],
@@ -1570,10 +1564,8 @@
     "kgmid": "/g/11c46871xr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1597,7 +1589,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9QqV3zLPt4kRDlSCEHK38qE",
     "categories": [
       "Pharmacy"
     ],
@@ -1709,10 +1701,8 @@
     "kgmid": "/g/11c463h4rd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Altruix",
@@ -1808,7 +1798,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1932,7 +1922,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJS5G_v8bIt4kR17wkls9BVvs",
     "categories": [
       "Pharmacy"
     ],
@@ -2022,10 +2012,8 @@
     "kgmid": "/g/1tl_mm04",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Giant Pharmacy",
@@ -2049,7 +2037,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9VgD7p7Ft4kRtJnVXhmr6mo",
     "categories": [
       "Pharmacy"
     ],
@@ -2136,10 +2124,8 @@
     "kgmid": "/g/1thtqh2k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2163,7 +2149,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq3rLJ-fAwoARUjBgk8JS1tw",
     "categories": [
       "Pharmacy"
     ],
@@ -2281,10 +2267,8 @@
     "kgmid": "/g/11c467rdn0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Altruix",
@@ -2379,7 +2363,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

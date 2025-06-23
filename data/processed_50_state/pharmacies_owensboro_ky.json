@@ -587,10 +587,10 @@
     "rank": 3,
     "isAdvertisement": false,
     "kgmid": "/g/11x2qvnhf1",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -723,10 +723,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOF7R8-yAZuQJLMvYc6_wKVaYRJfSMs1iwiFe8h=w408-h311-k-no",
     "kgmid": "/g/11y7jmbmd8",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1127,10 +1127,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1RWUYz3-tBGOOkppTG_oBBrQKvukDsGLIse99=w408-h249-k-no",
     "kgmid": "/g/1jglynd0d",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1356,8 +1356,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr5VdRnMaJZpfSrNBfCJwULBquhriMeYnOK_QPx2Dt2PzAU-tMAlLjOvqxKGGC3pVMNUif_Khj8Db17T0dk4RCEXxdYrYDo3lGQpHDGduEiteON5_zu6WSh_eNeQeJ0NuUcf_Y-=w408-h271-k-no",
     "kgmid": "/g/1tf7swtr",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1782,7 +1782,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNxZlZrm6b4gRBXhzucaDZhI",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -1940,10 +1940,8 @@
     "kgmid": "/g/11fy__n1yf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1967,7 +1965,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJoeyqnnq6b4gRRo9b4kFArpM",
     "categories": [
       "Pharmacy"
     ],
@@ -2082,10 +2080,8 @@
     "kgmid": "/g/11c4637tfg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -2238,7 +2234,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3xPFZce7b4gRvQW6W515kdY",
     "categories": [
       "Pharmacy"
     ],
@@ -2344,10 +2340,8 @@
     "kgmid": "/g/1tdblrhd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2371,7 +2365,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSw_N0kulb4gRVMLUmIQdmqY",
     "categories": [
       "Pharmacy"
     ],
@@ -2486,10 +2480,8 @@
     "kgmid": "/g/11c463h4j5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2514,7 +2506,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJp3usjyG7b4gRM0M7k-yGQvE",
     "categories": [
       "Pharmacy"
     ],
@@ -2636,9 +2628,7 @@
     "kgmid": "/g/11h9lf9y78",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

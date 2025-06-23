@@ -211,7 +211,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "White's Pharmacy",
@@ -367,7 +368,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "White Trish D",
@@ -428,7 +430,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Pharmacy",
@@ -481,7 +484,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Reid Jill G",
@@ -544,7 +548,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Wileman Shannon M",
@@ -645,7 +650,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "SEARHC ELMC Pharmacy",
@@ -743,12 +749,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipON2N2EmVx4-i5AcENO6sf5jkKaYRhwlrkgKzFR=w408-h272-k-no",
     "kgmid": "/g/1tsljdk7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Soldotna Professional Pharmacy",
@@ -888,7 +895,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Professional Home IV",
@@ -993,7 +1001,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Stikine Drug",
@@ -1112,7 +1121,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Bernie's Pharmacy",
@@ -1250,7 +1260,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   },
   {
     "title": "Family Pharmacy",
@@ -1358,6 +1369,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "sitka_ak"
   }
 ]

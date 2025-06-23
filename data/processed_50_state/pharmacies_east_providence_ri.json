@@ -140,7 +140,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "Benzer Pharmacy",
@@ -243,7 +244,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -267,7 +269,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJY28Ouepa5IkR9Lcd-hq9jeA",
     "categories": [
       "Pharmacy"
     ],
@@ -388,10 +390,8 @@
     "kgmid": "/g/11c463h3y0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "VCare Pharmacy of RI",
@@ -496,7 +496,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -520,7 +521,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5fdqoeda5IkRN8hPIFdG_JQ",
     "categories": [
       "Pharmacy"
     ],
@@ -607,10 +608,8 @@
     "kgmid": "/g/11b66j1sv_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "AJpharmacyII & RI Wellness Medical Center",
@@ -634,7 +633,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9R-tOiVF5IkR9AsMk0sCvEw",
     "categories": [
       "Pharmacy"
     ],
@@ -721,12 +720,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpdLmJWCfbgtnlXGxMc3SlAqhGK6w7XI1y_on4=w414-h240-k-no",
     "kgmid": "/g/11t7m5476j",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Asthenis Pharmacy",
@@ -881,9 +878,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "VidaScrip Pharmacy",
@@ -974,9 +972,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1001,7 +1000,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCd9_uaFb5IkRe5MhI5CNDMs",
     "categories": [
       "Pharmacy"
     ],
@@ -1134,10 +1133,8 @@
     "kgmid": "/g/11fm3mts_z",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Anthony's Pharmacy Atwood LLC",
@@ -1282,7 +1279,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "CVS",
@@ -1308,7 +1306,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJA_mwsOpa5IkRC_bI7aolhts",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1492,10 +1490,8 @@
     "kgmid": "/g/1tkp0t66",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1521,7 +1517,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBXbuHcBb5IkRwBWy4oS9bkU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1726,10 +1722,8 @@
     "kgmid": "/g/11l_b_2pzh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Prescription Pharmacy Services",
@@ -1831,7 +1825,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "Blackstone Valley Community Health Pharmacy",
@@ -1855,7 +1850,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD-YOklRD5IkRMWQYWJSxOm0",
     "categories": [
       "Pharmacy"
     ],
@@ -1932,12 +1927,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krnG5aNqmOwliLCGzR671Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.0134&pitch=0&thumbfov=100",
     "kgmid": "/g/11bwhb8qlj",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Brown University Health Pharmacy at Rhode Island Hospital",
@@ -1961,7 +1954,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu8dIx2lF5IkRFjRREZawej4",
     "categories": [
       "Pharmacy"
     ],
@@ -2047,12 +2040,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMClVT5-GhIwaPXcZ3pqH3EOkwPky7z1MnUyJ7u=w426-h240-k-no",
     "kgmid": "/g/1w0j0m9w",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Brown University Health Pharmacy at Corliss Street",
@@ -2076,7 +2067,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQwvFEGdF5IkR0kYXhgWVg4Y",
     "categories": [
       "Pharmacy"
     ],
@@ -2168,12 +2159,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNbwmmECd_5rdD3eE3JunaDpTQL_bxnauEslZSG=w408-h271-k-no",
     "kgmid": "/g/11r29998lg",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Park Ave Pharmacy",
@@ -2370,7 +2359,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -2394,7 +2384,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz5Zj4-da5IkRiGVeiYxUsrQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2512,10 +2502,8 @@
     "kgmid": "/g/11c4675c5m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "JB Pharmacy & Compounding",
@@ -2643,7 +2631,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   },
   {
     "title": "Qol Meds",
@@ -2732,6 +2721,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "east_providence_ri"
   }
 ]

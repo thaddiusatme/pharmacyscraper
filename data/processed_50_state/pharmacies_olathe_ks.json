@@ -388,7 +388,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgxAxH8KVwIcR_0fvHcYQ6-Q",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -501,10 +501,8 @@
     "kgmid": "/g/1ptwrcxk8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hen House Market Pharmacy",
@@ -613,7 +611,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -761,7 +759,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJReJ58MKVwIcRxy23JnOA1_Y",
     "categories": [
       "Pharmacy"
     ],
@@ -876,10 +874,8 @@
     "kgmid": "/g/11c4758l7t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -904,7 +900,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRfYfMAe-wIcRfT4zfYq86Ys",
     "categories": [
       "Pharmacy"
     ],
@@ -1034,10 +1030,8 @@
     "kgmid": "/g/11cn946nzw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1061,7 +1055,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNRB-aVq-wIcR-v0NyNoD1JY",
     "categories": [
       "Pharmacy"
     ],
@@ -1182,10 +1176,8 @@
     "kgmid": "/g/11c469jzp1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Price Chopper Pharmacy",
@@ -1291,7 +1283,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1317,7 +1309,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ65TpY4u9wIcRtbazui7d6AM",
     "categories": [
       "Pharmacy"
     ],
@@ -1441,10 +1433,8 @@
     "kgmid": "/g/11c469h25k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1469,7 +1459,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJM4gr0p6_wIcRpB_101fXihY",
     "categories": [
       "Pharmacy"
     ],
@@ -1596,10 +1586,8 @@
     "kgmid": "/g/11m9_l4pmr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1625,7 +1613,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmWnhe4u9wIcRWGpdCk38q0k",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1837,10 +1825,8 @@
     "kgmid": "/g/1tgz5_p5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1865,7 +1851,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxaw-onSVwIcRtKh1m9MJUxc",
     "categories": [
       "Pharmacy"
     ],
@@ -1971,10 +1957,8 @@
     "kgmid": "/g/1v2pqqtw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Price Chopper Pharmacy",
@@ -2260,7 +2244,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJv1UwLwe-wIcRgbU37PQekSg",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2466,10 +2450,8 @@
     "kgmid": "/g/1tff_08d",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "iPharma Community Pharmacy",

@@ -21,7 +21,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyURFEiPNyFIRDcqcfMRYybg",
     "categories": [
       "Pharmacy"
     ],
@@ -117,12 +117,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODafbiTvh2B1sGY8fqm8iFlG_fdOB6DmZQJr0c=w408-h306-k-no",
     "kgmid": "/g/11ftwp802q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Medicine Shoppe Pharmacy - South University",
@@ -146,7 +144,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6qavgfMyFIRpzVloT0UkW4",
     "categories": [
       "Pharmacy"
     ],
@@ -238,12 +236,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPk0YuKzj-rqtCF59yLkvyrh6zbAvRDwF78NEEB=w555-h240-k-no",
     "kgmid": "/g/1tf70lc2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "InHealth Specialty Pharmacy",
@@ -267,7 +263,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAxCuom_MyFIRB_zbL0HpPXc",
     "categories": [
       "Pharmacy"
     ],
@@ -360,12 +356,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1YNdiZ1_cl-dAFjI_8_EHbx0I_OdSdvhwxPnMTlm_TEzQqx5NviMs8QpFJR0FRrBKyYsTXWktbo7GAVCWNnvaWhESOcl5pMTYilY46L92jbL-77SFaDnwEwnLq0Oa2ud2yl0=w484-h240-k-no",
     "kgmid": "/g/1tjdldp0",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prescription Center Pharmacy",
@@ -482,7 +476,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Linson Pharmacy",
@@ -614,7 +609,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Sanford Specialty Pharmacy",
@@ -691,12 +687,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNseOxULOiwDuSvX3c4SV2REtxUPNmWlkAOB9Ms=w427-h240-k-no",
     "kgmid": "/g/11ycxt80zg",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Health Center Pharmacy",
@@ -719,7 +716,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJTyJA41HLyFIRu6AmxZKVACg",
     "categories": [
       "Pharmacy",
       "Medical equipment supplier"
@@ -816,12 +813,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V0zpILqz7k3PqFqn5UH8lQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.15548&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfd6ml9",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "LifeScript Pharmacy",
@@ -947,7 +942,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "The Medicine Shoppe Pharmacy - North Broadway",
@@ -971,7 +967,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkW2guJPJyFIRt-8TjXFMm78",
     "categories": [
       "Pharmacy"
     ],
@@ -1075,12 +1071,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPlsBfuS1_0HkCpmb0JV_YGEkUx4mNvGNOwV9ia=w635-h240-k-no",
     "kgmid": "/g/1tdcwrjy",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "M-D Pharmacy",
@@ -1208,7 +1202,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Dakota Clinic Pharmacy at 32nd Ave",
@@ -1231,7 +1226,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ90RJIF_MyFIRbpwN-m8ye-g",
     "categories": [
       "Pharmacy"
     ],
@@ -1343,12 +1338,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_PKlheIgrXK7dadXoxZbvg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.924644&pitch=0&thumbfov=100",
     "kgmid": "/g/11cs6j41_y",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Southpointe Pharmacy",
@@ -1475,7 +1468,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Hope Pharmacy",
@@ -1621,7 +1615,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "The Medicine Shoppe Pharmacy",
@@ -1646,7 +1641,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5WJR1zFDfYcRbB2qJlwqCPU",
     "categories": [
       "Pharmacy",
       "Diabetes center",
@@ -1783,12 +1778,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vnpdQpoyL6udPYLxVyOZrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.22165&pitch=0&thumbfov=100",
     "kgmid": "/g/12635_1b1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "West Acres Pharmacy",
@@ -1812,7 +1805,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh8Vh7HvLyFIRjDIbFpHk6R4",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1907,12 +1900,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfDfLMaVdz0qj44e3qW0gAQ135aTyb9YZ4fi0XM7nofFRz9Dum5fb7ov8FPNnyPAbljmq6to_a45fWHOuG84BlfeZyB-tBXRusBiIl7Y5dlF6V2D4XEP7p2PGb2SscjKi873nH=w408-h612-k-no",
     "kgmid": "/g/1tqyf4f3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medical Pharmacy South",
@@ -2039,7 +2030,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "SKripts Pharmacy",
@@ -2173,9 +2165,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   },
   {
     "title": "Dakota Clinic Pharmacy at SU Drive",
@@ -2198,7 +2191,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ99EgVgbMyFIRpDRw_PbL6PE",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -2307,12 +2300,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgSzttmrtcgivb0H8VHWC-Wr2VwrpjQlFmF5fr=w408-h306-k-no",
     "kgmid": "/g/12hkky5lz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sanford Pharmacy Broadway",
@@ -2424,11 +2415,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODrSECuxQmxT5yViZkLB1XXVoFghDPKTEvPIDU=w411-h240-k-no",
     "kgmid": "/g/1t_tjyx6",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "fargo_nd"
   }
 ]

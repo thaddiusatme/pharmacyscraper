@@ -21,7 +21,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD-YOklRD5IkRMWQYWJSxOm0",
     "categories": [
       "Pharmacy"
     ],
@@ -98,12 +98,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=krnG5aNqmOwliLCGzR671Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=267.0134&pitch=0&thumbfov=100",
     "kgmid": "/g/11bwhb8qlj",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Qol Meds",
@@ -192,7 +190,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "CVS Pharmacy",
@@ -217,7 +216,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDfBrPJdc5IkRgPF42G3KyF0",
     "categories": [
       "Pharmacy"
     ],
@@ -335,10 +334,8 @@
     "kgmid": "/g/11c466ylp_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -362,7 +359,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDwWshbhc5IkRx5g9Awc8ECM",
     "categories": [
       "Pharmacy"
     ],
@@ -457,10 +454,8 @@
     "kgmid": "/g/11gbmgc0m3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -484,7 +479,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJheXHIqxE5IkRMPtg5VmIBRw",
     "categories": [
       "Pharmacy"
     ],
@@ -605,10 +600,8 @@
     "kgmid": "/g/11c467ts84",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -634,7 +627,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdcKWPpdc5IkRaJ9ojx1ktF8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -815,10 +808,8 @@
     "kgmid": "/g/1td_j8b2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -842,7 +833,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPYc5XWJD5IkRKbYOQZwfHHw",
     "categories": [
       "Pharmacy"
     ],
@@ -960,10 +951,8 @@
     "kgmid": "/g/11c467flb_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "AJ Pharmacy/Compounding",
@@ -1106,7 +1095,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "PharMerica - Warwick, RI",
@@ -1199,7 +1189,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "Park Ave Pharmacy",
@@ -1396,7 +1387,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1421,7 +1413,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz3cGy1ND5IkR3JxfBraG21Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1551,10 +1543,8 @@
     "kgmid": "/g/11cn939fb4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ApothiCare 360 Compounding Pharmacy",
@@ -1696,9 +1686,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "VidaScrip Pharmacy",
@@ -1789,9 +1780,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "VCare Pharmacy of RI",
@@ -1896,7 +1888,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "Asthenis Pharmacy",
@@ -2051,9 +2044,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -2077,7 +2071,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5fdqoeda5IkRN8hPIFdG_JQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2164,10 +2158,8 @@
     "kgmid": "/g/11b66j1sv_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Brown University Health Pharmacy at Rhode Island Hospital",
@@ -2191,7 +2183,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu8dIx2lF5IkRFjRREZawej4",
     "categories": [
       "Pharmacy"
     ],
@@ -2277,12 +2269,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMClVT5-GhIwaPXcZ3pqH3EOkwPky7z1MnUyJ7u=w426-h240-k-no",
     "kgmid": "/g/1w0j0m9w",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "County Square Pharmacy",
@@ -2413,7 +2403,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "JB Pharmacy & Compounding",
@@ -2541,7 +2532,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   },
   {
     "title": "Benzer Pharmacy",
@@ -2644,6 +2636,7 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pawtucket_ri"
   }
 ]

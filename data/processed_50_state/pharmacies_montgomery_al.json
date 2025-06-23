@@ -231,7 +231,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -308,7 +308,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -417,9 +417,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blFRQ9OoiZHY2u8K9a-Fiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=57.23588&pitch=0&thumbfov=100",
     "kgmid": "/g/126351sxn",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -549,8 +549,8 @@
     "kgmid": "/g/12628w26q",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -659,7 +659,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -778,8 +778,8 @@
     "kgmid": "/g/1thght6f",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -951,8 +951,8 @@
     "kgmid": "/g/1tptrd0s",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

@@ -627,8 +627,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx07TArsBwvTspjg1MGH7ZUWFcDk5l1HfnYPPA=w408-h272-k-no",
     "kgmid": "/g/11kjptcblf",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -857,10 +857,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=occUjVROpsJ8R1KoMk5QCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=186.31456&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfb2j36",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1254,7 +1254,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1399,7 +1399,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRdpefEvxwIcRS2UbhffE5iA",
     "categories": [
       "Pharmacy"
     ],
@@ -1473,12 +1473,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO02Z7Ueqzti3p-Nv-bNQxr1uxxTLfi3-_Y3NEU=w426-h240-k-no",
     "kgmid": "/g/11r8phk1v4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Stark Pharmacy",
@@ -1784,7 +1782,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj9D8LlXowIcRpmTkXzgLBBM",
     "categories": [
       "Pharmacy"
     ],
@@ -1853,12 +1851,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQkiTV1-4wqppg7X6UyLAkoUAivMmjpOi81YLirt8zsGzzOa2EdyxmA2o-qHti8wj0oDB73CoUMk4I9zDuOumqRu8q8itbK9RNk4uertbfgTy0KkqJNeJUT7OHdAe_-bOXQAKL=w477-h240-k-no",
     "kgmid": "/g/1wc31s3_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Saint Luke's South Pharmacy-Mission Farms",
@@ -1882,7 +1878,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHTzpXJzpwIcRKpTpUPtP5_I",
     "categories": [
       "Pharmacy"
     ],
@@ -1967,11 +1963,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMl8jro1CsmaqnKeGI_EP0lJr0OWceJkQJGLGSS=w426-h240-k-no",
     "kgmid": "/g/11fz9x7cw8",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

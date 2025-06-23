@@ -125,7 +125,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "Inman Pharmacy",
@@ -245,7 +246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "CVS Pharmacy",
@@ -269,7 +271,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdd56CD1344kR-oaPULop2tI",
     "categories": [
       "Pharmacy"
     ],
@@ -387,10 +389,8 @@
     "kgmid": "/g/11c460f90r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Star Market Pharmacy",
@@ -414,7 +414,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAyo8CYN344kRzAUZ9CwGTSo",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -523,10 +523,8 @@
     "kgmid": "/g/11ckkqw9m1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CHA Pharmacy",
@@ -550,7 +548,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx6ik2blw44kRbqh53lgEHcE",
     "categories": [
       "Pharmacy"
     ],
@@ -633,12 +631,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wroiMzSHryO2QiQamjT61w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.616507&pitch=0&thumbfov=100",
     "kgmid": "/g/11g8y9g9k7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CHA Pharmacy",
@@ -662,7 +658,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBUxaS0l344kRHzhRiZS1Plg",
     "categories": [
       "Pharmacy"
     ],
@@ -731,12 +727,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qlh4U5_uRdeJQiaIMN9hbw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.703007&pitch=0&thumbfov=100",
     "kgmid": "/g/11c3tpg4kc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -760,7 +754,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNYxCq1Z344kR-1OBGfsxSLw",
     "categories": [
       "Pharmacy"
     ],
@@ -872,10 +866,8 @@
     "kgmid": "/g/11c468fss4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Osco Pharmacy",
@@ -899,7 +891,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJe5_QnoN344kRSAEtmDlplNw",
     "categories": [
       "Pharmacy"
     ],
@@ -986,10 +978,8 @@
     "kgmid": "/g/1tc_xm95",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1013,7 +1003,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR5irsUJ344kRD1Nsc9uYRQc",
     "categories": [
       "Pharmacy"
     ],
@@ -1122,10 +1112,8 @@
     "kgmid": "/g/11c469nwz3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1149,7 +1137,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIfnVK1Nx44kR65kfvHjQW-Y",
     "categories": [
       "Pharmacy"
     ],
@@ -1259,10 +1247,8 @@
     "kgmid": "/g/11h0ycn32h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1287,7 +1273,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt9fJC-J544kRf6dp-brhgSY",
     "categories": [
       "Pharmacy"
     ],
@@ -1406,10 +1392,8 @@
     "kgmid": "/g/11vyr1vhy1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1433,7 +1417,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyViHFgp344kRXcy1Yk5z9mU",
     "categories": [
       "Pharmacy"
     ],
@@ -1542,10 +1526,8 @@
     "kgmid": "/g/11bwn4sfdc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Canadian Pharmacy Medstore",
@@ -1616,9 +1598,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "Rebecca C. Wilcox, BS",
@@ -1677,7 +1660,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "Pharmacy Services at Boston Medical Center \u2013 Brighton",
@@ -1701,7 +1685,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrWXleDV444kRgUlk3WEgNek",
     "categories": [
       "Pharmacy"
     ],
@@ -1811,12 +1795,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsXPzg1WFEyrwg1YFNM4frp_ClmBciSXN8oDCW=w408-h285-k-no",
     "kgmid": "/g/1tj6vv6g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Maida Pharmacy Compounding and Wellness",
@@ -1940,7 +1922,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "Gary Drug Co.",
@@ -2074,7 +2057,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "BRIGHTON PHARMACY",
@@ -2196,7 +2180,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "Central Pharmacy Boston",
@@ -2318,9 +2303,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "cambridge_ma"
   },
   {
     "title": "CVS",
@@ -2346,7 +2332,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI66gpz1344kRUyvfNvVSBMY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2561,9 +2547,7 @@
     "kgmid": "/g/1hm27fk20",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

@@ -125,7 +125,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "B & E Pharmacy Services Inc",
@@ -226,7 +227,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "Altru Specialty Pharmacy",
@@ -319,12 +321,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e2gSJrk_NsPOdahbb3I5ng&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.847988&pitch=0&thumbfov=100",
     "kgmid": "/g/11rcrdmkq2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "White Drug Pharmacy",
@@ -454,12 +457,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npA9XzzJ71QQLo_hbCx2uvFiZ3Jcz-28gprTRpmqRtgNbFk0R4U_S1XLwzQqkdqWjCjuMbVKVmZSJBSx0-0kMWjF6AM6JvBoYB7S-inkn7tQqrzH9PrT-2Xfud5p4S2Dwt09b96=w408-h544-k-no",
     "kgmid": "/g/1tff781d",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "Altru Clinic Pharmacy-Family Medicine Center",
@@ -483,7 +487,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgRlCfyGBxlIRSPFijLN-Orc",
     "categories": [
       "Pharmacy"
     ],
@@ -569,12 +573,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOkDjRNkLtMu2_l9Evgso93wgLzwmcK-0Sbtd0h=w408-h306-k-no",
     "kgmid": "/g/1tdq5nqf",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Altru Family Medicine Residency Pharmacy",
@@ -697,12 +699,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MEiYrlzWNLtKK-v1QcwuZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.72583&pitch=0&thumbfov=100",
     "kgmid": "/g/1hm57qlj7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "CVS Pharmacy",
@@ -726,7 +729,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkTOcmcWAxlIRhZ0NHtWug2g",
     "categories": [
       "Pharmacy"
     ],
@@ -847,10 +850,8 @@
     "kgmid": "/g/11c462tv86",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Altru Clinic Pharmacy",
@@ -874,7 +875,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJm0jdOSOBxlIRKesec8YZPW0",
     "categories": [
       "Pharmacy"
     ],
@@ -951,12 +952,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPg3S7zC0fTecXtSEy7ZzGACZ1ul9OpB0zYztIq=w408-h408-k-no",
     "kgmid": "/g/1tf7553q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Thrifty White Pharmacy",
@@ -1088,7 +1087,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "Altru Hospital Outpatient Pharmacy",
@@ -1112,7 +1112,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-wtzqCOBxlIR3lnXvoHP_zI",
     "categories": [
       "Pharmacy",
       "Hospital"
@@ -1201,12 +1201,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOy9oiVE1mGL8CqJxLZFta-1UfKFXniwMh2Jurq=w408-h306-k-no",
     "kgmid": "/g/1tdq0sv4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Wall's Medicine Center",
@@ -1340,7 +1338,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "Skip's Budget Drug",
@@ -1476,9 +1475,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "Altru Chemists + Compounding Pharmacy",
@@ -1638,7 +1638,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_forks_nd"
   },
   {
     "title": "CVS Pharmacy",
@@ -1662,7 +1663,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9zh-Pr63t4kRe6WQOVr_ggE",
     "categories": [
       "Pharmacy"
     ],
@@ -1763,9 +1764,7 @@
     "kgmid": "/g/11fv4dzq8t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

@@ -243,8 +243,8 @@
     "kgmid": "/g/1tf7bl48",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -475,8 +475,8 @@
     "kgmid": "/g/1txy2v25",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -601,10 +601,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TUX4pWO4H54WktOkOp5Azw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.252226&pitch=0&thumbfov=100",
     "kgmid": "/g/11dymnk2jz",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -707,7 +707,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -734,7 +734,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJv2Jo_YBMaYcRMdpmmrznVyI",
     "categories": [
       "Pharmacy"
     ],
@@ -867,10 +867,8 @@
     "kgmid": "/g/11cn94tsm1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -894,7 +892,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCwwKWVCzbocRLsrSObeiVtI",
     "categories": [
       "Pharmacy"
     ],
@@ -1005,10 +1003,8 @@
     "kgmid": "/g/1tgx72q9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy | Kaiser Permanente Fort Collins Medical Office",
@@ -1032,7 +1028,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB1haOW-zbocRxJJI_HnWFSs",
     "categories": [
       "Pharmacy"
     ],
@@ -1109,12 +1105,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bZSQ1bAUQVVZ7QndyVjr5A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=323.45013&pitch=0&thumbfov=100",
     "kgmid": "/g/11hy_zb5nl",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "King Soopers Pharmacy",
@@ -1138,7 +1132,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwzMydghLaYcRFYEPlI9B8ws",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1265,9 +1259,7 @@
     "kgmid": "/g/1yfjjdr6c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

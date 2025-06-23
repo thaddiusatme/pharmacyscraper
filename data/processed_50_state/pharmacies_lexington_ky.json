@@ -799,7 +799,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1023,7 +1023,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1267,10 +1267,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFJsonfiMKoj4SlPzyU-OnZm5GzTViOPwqpAI6lP_hJck8MuwFWBla7GQhR0N4xX2EZskMGGsbx87HmMfNUzPcT-QLc0lSnqp-Q0FwpRiZw4GaR5w193y2XiUNeAp58R88aqOdpg=w576-h240-k-no",
     "kgmid": "/g/11ddzlddb6",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1336,10 +1336,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=26JaB7-Rn8IBvNcrRBghaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=30.130098&pitch=0&thumbfov=100",
     "kgmid": "/g/11kw2hg5jx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1736,7 +1736,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1978,12 +1978,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0yFRsmbe1OvUyon29jWNFA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=61.95969&pitch=0&thumbfov=100",
     "kgmid": "/g/11bbrlhh3v",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Baptist Health Lexington Pharmacy",
@@ -2007,7 +2007,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8cg6Ma1EQogR-BGiOhC-FYc",
     "categories": [
       "Pharmacy",
       "Medical clinic"
@@ -2079,12 +2079,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYYJ1I3_uzenXIBNEP3jqTpxqUQzQjZ1jhHEkm=w426-h240-k-no",
     "kgmid": "/g/11c52byr1h",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UK - The Apothecary (Retail Pharmacy)",
@@ -2194,12 +2192,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWA8ITNoci5rOkrmwyKhVG0qavSFc11RGpE0M=w432-h240-k-no",
     "kgmid": "/g/11tjp60zgz",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "UK Good Samaritan Retail Pharmacy",
@@ -2295,12 +2293,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbNU4GRg-wOa64XXb7ns5j1wK4fh5QDbZCeVTT=w536-h240-k-no",
     "kgmid": "/g/11g7zdv1lq",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Saint Joseph East CHI Community Pharmacy",
@@ -2324,7 +2322,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-zbcbilbQogRvznIR2VYRhQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2393,11 +2391,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OP8lS3YsY7-bfRbF6ot1nw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=279.3901&pitch=0&thumbfov=100",
     "kgmid": "/g/11ftl3qdvj",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

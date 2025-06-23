@@ -116,7 +116,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -142,7 +142,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLbDNzGIhVIgRi8PKwaxYziA",
     "categories": [
       "Pharmacy"
     ],
@@ -258,12 +258,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM3rbH3pxhil05z9jrD1zjNm5GaHmVWo1DxuzMU=w408-h305-k-no",
     "kgmid": "/g/11fqzyhw_g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Queens Pharmacy",
@@ -2096,7 +2094,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ90_MkXMhVIgR-OGlN-wRczM",
     "categories": [
       "Pharmacy",
       "Wellness center"
@@ -2225,12 +2223,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMo9ucEmICoyLvXndJVHVWDS2i6z4aelXuLJtU9=w408-h305-k-no",
     "kgmid": "/g/1vnrlqqx",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rx Care Pharmacy",
@@ -2526,7 +2522,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVVVVSWaVogRmVG1qIVwWUY",
     "categories": [
       "Pharmacy"
     ],
@@ -2675,11 +2671,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNjGgxSWVfpfeJ-YYUqDCXmKC0frfHVfvShLco=w427-h240-k-no",
     "kgmid": "/g/1tdy0lmg",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

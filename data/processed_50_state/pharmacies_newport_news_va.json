@@ -344,7 +344,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -939,10 +939,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vtrI1Z30iy2Ec0deSo7XCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.285507&pitch=0&thumbfov=100",
     "kgmid": "/g/11clvhnp9l",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -968,7 +968,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmW0UaQCduokRzsmJnMcvmtw",
     "categories": [
       "Pharmacy"
     ],
@@ -1056,10 +1056,8 @@
     "kgmid": "/g/11ybxb2nsq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Prescription Shoppe",
@@ -1444,10 +1442,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fzQMH0mxWe9uLvks0l6iEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.67838&pitch=0&thumbfov=100",
     "kgmid": "/g/11g8vpchpt",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1473,7 +1471,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDzeRX8F-sIkRD6SwabXNh4I",
     "categories": [
       "Pharmacy"
     ],
@@ -1601,10 +1599,8 @@
     "kgmid": "/g/11c46968vw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1629,7 +1625,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJL8SUzcN-sIkRtFKlHZOWWJM",
     "categories": [
       "Pharmacy"
     ],
@@ -1763,10 +1759,8 @@
     "kgmid": "/g/11cn96r_fj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1791,7 +1785,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-91vAop4sIkRJZi_P-uGNYM",
     "categories": [
       "Pharmacy"
     ],
@@ -1934,10 +1928,8 @@
     "kgmid": "/g/11cn95tb90",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -2297,7 +2289,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ39F3TMV-sIkRy3XqJ0nP48k",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2511,9 +2503,7 @@
     "kgmid": "/g/1wj_6xlr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

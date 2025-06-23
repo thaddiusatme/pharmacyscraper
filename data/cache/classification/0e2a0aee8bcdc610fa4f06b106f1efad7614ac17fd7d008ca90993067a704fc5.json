@@ -1,0 +1,6 @@
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.95,
+    "explanation": "Centerstone Pharmacy is affiliated with Centerstone, a behavioral health organization providing clinical services, indicating it is part of a health system rather than a standalone retail pharmacy. The pharmacy serves patients within this medical context, classifying it as a hospital (or health system) pharmacy. There is no indication that it specializes in compounding medications."
+}

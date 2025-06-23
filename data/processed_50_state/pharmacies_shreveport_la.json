@@ -805,7 +805,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -912,7 +912,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -938,7 +938,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4VxU_actMYYRNirocB_68tA",
     "categories": [
       "Pharmacy"
     ],
@@ -1020,12 +1020,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN3JD33HCRl2irbp8rJuWbXASIsf4ohOQM-Ef9a=w408-h613-k-no",
     "kgmid": "/g/11fn7jkg5k",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kings Pharmacy",
@@ -1756,8 +1754,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nps7J3JCo3jI4m-8iNt-EpUglZ-khO-huzxOs9a7ExC2SZh2S9Q4X584iu9r5N1VG0uNjk968RWS1gsbdLLQow9digulTtEOEwsnroxPjFkaxv8fa4kt9WmZ4U4yCx5elxO-KQ=w408-h544-k-no",
     "kgmid": "/g/1hc39hbyp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1785,7 +1783,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_0EpX6AsMYYRTgMXMAnZOQA",
     "categories": [
       "Pharmacy"
     ],
@@ -1906,10 +1904,8 @@
     "kgmid": "/g/11c467rfb6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Brookshire's Pharmacy",
@@ -2035,10 +2031,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wVgNHTQVMT52da6jbDgerQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=300.26968&pitch=0&thumbfov=100",
     "kgmid": "/g/1pv0fxsln",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2171,7 +2167,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmacTZKrSNoYRK8ArVJw_aYQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2310,10 +2306,8 @@
     "kgmid": "/g/11cn9647mv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2338,7 +2332,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu2Et5eXMNoYRVDHPB_tl8Bc",
     "categories": [
       "Pharmacy"
     ],
@@ -2488,9 +2482,7 @@
     "kgmid": "/g/11c48cb7pv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

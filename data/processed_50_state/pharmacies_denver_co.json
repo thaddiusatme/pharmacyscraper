@@ -173,7 +173,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -351,7 +351,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -506,8 +506,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODjbH7eO61B4J44-fXdRkfwndWbPLTjAuaFZ4n=w408-h408-k-no",
     "kgmid": "/g/11h24mw2kn",
-    "classification": "chain",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -535,7 +535,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnflXSTB-bIcRIidzJbCh4yM",
     "categories": [
       "Pharmacy"
     ],
@@ -626,12 +626,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohFwvN96gDFtYlNojGrWgcYF9IN-BGF36BH5w9VZOp10cPwhsjCyula9AogsYeXpxd1P2sdWUmf-HkME24qDBEwv2qU1mTnEVFg1bYYyIhjxtIPAuFt-UFv0jDXqpfSMyys_vtXA=w408-h544-k-no",
     "kgmid": "/g/1tdk5p04",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "TKS Pharmacy",
@@ -773,8 +771,8 @@
     "kgmid": "/g/11by_dnys0",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -874,7 +872,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.7,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1239,7 +1237,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   }

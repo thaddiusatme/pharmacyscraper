@@ -21,7 +21,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQ4N3y0G0r1QRlwSBpsu5MzM",
     "categories": [
       "Pharmacy"
     ],
@@ -131,12 +131,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNFNkXB-nSWARbqcLW8o5cKVyECaUy9q7KRv49W=w412-h240-k-no",
     "kgmid": "/g/1th5c93c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medicap Pharmacy",
@@ -246,12 +244,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEq5qGmV093d35rY-NfqLpRp2qKXJ1KbXCWeJ_=w408-h306-k-no",
     "kgmid": "/g/11t1905xhj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "caldwell_id"
   },
   {
     "title": "Terry Reilly Health Services Pharmacy - Caldwell",
@@ -275,7 +274,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJS_U5TPa1r1QRt3gpSvfWd9Q",
     "categories": [
       "Pharmacy"
     ],
@@ -355,12 +354,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0_r88NbQhYTsK4LduzuU3P2c_0TnuquZsQAev=w408-h306-k-no",
     "kgmid": "/g/11rwzslm5n",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -385,7 +382,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh_LwXPm0r1QRC8hWZ4nQJIo",
     "categories": [
       "Pharmacy"
     ],
@@ -513,12 +510,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipML_zFkHFD9aiECyfu2AOe5TMf2fJv6JQDe_ziE=w525-h240-k-no",
     "kgmid": "/g/11cn93fyjq",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -542,7 +537,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz0vpdXq0r1QR8NYIJg6h1E4",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -654,10 +649,8 @@
     "kgmid": "/g/1wd3vsbl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -682,7 +675,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkWiZFBK0r1QRPuTK6fwpuD8",
     "categories": [
       "Pharmacy"
     ],
@@ -806,10 +799,8 @@
     "kgmid": "/g/11cn95crh4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -833,7 +824,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJowgqoxq0r1QRnFxe_C7U-gc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -939,10 +930,8 @@
     "kgmid": "/g/11cjkvs97_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -966,7 +955,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI0fU5Xu0r1QRaGVgjxDGdLE",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1074,10 +1063,8 @@
     "kgmid": "/g/11b7hg9y4b",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1101,7 +1088,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfd0dg_m0r1QRGBT_8paWdZ8",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1220,10 +1207,8 @@
     "kgmid": "/g/11c20dnnp0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1247,7 +1232,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHa1pF5-0r1QRMskxAu-VhZA",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1363,10 +1348,8 @@
     "kgmid": "/g/1hf07h8f6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1390,7 +1373,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJaYll92q1r1QRz7ZlXF1oJ00",
     "categories": [
       "Pharmacy"
     ],
@@ -1492,10 +1475,8 @@
     "kgmid": "/g/11sw0lf6q3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1521,7 +1502,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJT-TSBBK0r1QRIyuAFpkdXUI",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1732,10 +1713,8 @@
     "kgmid": "/g/1vcq79w4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Caldwell Pharmacy",
@@ -1862,7 +1841,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "caldwell_id"
   },
   {
     "title": "Brookshire Brothers Pharmacy",
@@ -1967,12 +1947,13 @@
     "rank": 5,
     "isAdvertisement": false,
     "kgmid": "/g/11c5zhn0hp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "caldwell_id"
   },
   {
     "title": "Caldwell Pharmacy",
@@ -2105,7 +2086,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "caldwell_id"
   },
   {
     "title": "Walgreens",
@@ -2131,7 +2113,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOZvh5vu0r1QRSx6Ct8aEIzs",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2337,10 +2319,8 @@
     "kgmid": "/g/1tdxq58y",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Reddish Pharmacy",
@@ -2460,9 +2440,10 @@
     "kgmid": "/g/1v3hzq3v",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "caldwell_id"
   }
 ]

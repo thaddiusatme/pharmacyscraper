@@ -104,7 +104,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Penn Pharmacy",
@@ -245,7 +246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Newark Community Pharmacy",
@@ -356,7 +358,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Vida Pharmacy",
@@ -481,7 +484,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Community Pride Pharmacy",
@@ -576,7 +580,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "D Allegros Pharmacy",
@@ -685,7 +690,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Campus Pharmacy",
@@ -799,7 +805,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Gateway Pharmacy",
@@ -928,7 +935,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Apollo Specialty Pharmacy",
@@ -1064,7 +1072,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Fourth Avenue Pharmacy",
@@ -1187,7 +1196,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Newark Pharmacy",
@@ -1314,7 +1324,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Medamor Pharmacy",
@@ -1435,7 +1446,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "LiveWell Pharmacy",
@@ -1583,7 +1595,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Bergen Pharmacy",
@@ -1706,7 +1719,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Liss Pharmacy",
@@ -1843,7 +1857,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Branch Brook Pharmacy",
@@ -1978,7 +1993,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "pharmacy Inc.",
@@ -2091,7 +2107,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "CCN Pharmacy",
@@ -2186,7 +2203,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   },
   {
     "title": "Kings Pharmacy",
@@ -2311,6 +2329,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "newark_nj"
   }
 ]
