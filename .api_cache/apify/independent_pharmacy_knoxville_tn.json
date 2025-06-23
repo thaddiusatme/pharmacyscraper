@@ -1,0 +1,2489 @@
+[
+  {
+    "title": "Rocky Hill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7660 S Northshore Dr, Knoxville, TN 37919",
+    "neighborhood": null,
+    "street": "7660 S Northshore Dr",
+    "city": "Knoxville",
+    "postalCode": "37919",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 35.9034708,
+      "lng": -84.0201953
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjynHjwklXIgRAnbEWJruOb4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c25098fc7298f:0xbe39ee9a58c47602",
+    "cid": "13707249287560459778",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.904Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rocky%20Hill%20Pharmacy&query_place_id=ChIJjynHjwklXIgRAnbEWJruOb4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uWuy5wZu-RQycMuuX-6enA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.8702&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gk8qs5zy"
+  },
+  {
+    "title": "Volunteer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2559 Willow Point Way, Knoxville, TN 37931",
+    "neighborhood": null,
+    "street": "2559 Willow Point Way",
+    "city": "Knoxville",
+    "postalCode": "37931",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://volunteerpharmacy.com/",
+    "phone": "(800) 690-8980",
+    "phoneUnformatted": "+18006908980",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9573957,
+      "lng": -84.139469
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ9eH9S0wXIgR6RCkXvW4hCQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c302df587d727:0x2484b8f55ea410e9",
+    "cid": "2631431446285521129",
+    "reviewsCount": 122,
+    "imagesCount": 90,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.906Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Volunteer%20Pharmacy&query_place_id=ChIJJ9eH9S0wXIgR6RCkXvW4hCQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCPD7E3zzs7IvbTAFnB3OXXV-VyRJ8sad2EYw9dYF-nDG7cneAFIbgL_5v1JD3hU2HAku7GIqyyZx3FMo_Hb-6HcO06GnB7jtIESZFSEm-O2Ax3_p63I47Q2hgtoduPBAGLjkf=w408-h305-k-no",
+    "kgmid": "/g/11b708lcwz"
+  },
+  {
+    "title": "Village Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5821 Walden Dr, Knoxville, TN 37919",
+    "neighborhood": null,
+    "street": "5821 Walden Dr",
+    "city": "Knoxville",
+    "postalCode": "37919",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://villagepharmacytn.com/",
+    "phone": "(865) 579-4547",
+    "phoneUnformatted": "+18655794547",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9309309,
+      "lng": -83.9983202
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6ouF4oXXIgRn0RKpJ33hd8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c178a172eaaab:0xdf85f79da44a449f",
+    "cid": "16106551898798703775",
+    "reviewsCount": 40,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.906Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pharmacy&query_place_id=ChIJq6ouF4oXXIgRn0RKpJ33hd8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPvpMD_IeWdeYvWmheNeeMN8e44c5zrcKW1Uqlc=w408-h306-k-no",
+    "kgmid": "/g/11qygzlfxr"
+  },
+  {
+    "title": "Hillstone Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9947 Kingston Pike, Knoxville, TN 37922",
+    "neighborhood": null,
+    "street": "9947 Kingston Pike",
+    "city": "Knoxville",
+    "postalCode": "37922",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://heartlandapothecaryrx.com/",
+    "phone": "(865) 909-9713",
+    "phoneUnformatted": "+18659099713",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9044591,
+      "lng": -84.1143606
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK_F0Hp0vXIgRNGrkVPeQRps",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c2f9d1e74f12b:0x9b4690f754e46a34",
+    "cid": "11188789716204153396",
+    "reviewsCount": 61,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.906Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hillstone%20Compounding%20Pharmacy&query_place_id=ChIJK_F0Hp0vXIgRNGrkVPeQRps",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNrVJi7GtIRgf-DcengfEPjsTz3rdk9Ygo0wtTFqlvNvSqOA4TVBoOWQtPBySeH79E73N-FiE4KCcMQlugHIqwd5ZpLGR6L_md7aTsEYCQnnfSn7i7Sbgy3UTjfQCWUkT7JVu8=w408-h322-k-no",
+    "kgmid": "/g/1hm5_nx57"
+  },
+  {
+    "title": "East Tennessee Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "431 Park Village Rd STE 105, Knoxville, TN 37923",
+    "neighborhood": "Cedar Bluff",
+    "street": "431 Park Village Rd STE 105",
+    "city": "Knoxville",
+    "postalCode": "37923",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://easttennpharm.com/",
+    "phone": "(855) 544-4449",
+    "phoneUnformatted": "+18555444449",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 35.9257415,
+      "lng": -84.0881338
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ63nmqEMlXIgR6lyBInzrPdE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c2543a8e679eb:0xd13deb7c22815cea",
+    "cid": "15077466045893663978",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.907Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=East%20Tennessee%20Pharmacy%20Services&query_place_id=ChIJ63nmqEMlXIgR6lyBInzrPdE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3-0rfsB68IXnpA-fCMMVUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.51672&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cns8sy2v"
+  },
+  {
+    "title": "Tri-Star Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10205 Kingston Pike E, Knoxville, TN 37922",
+    "neighborhood": null,
+    "street": "10205 Kingston Pike E",
+    "city": "Knoxville",
+    "postalCode": "37922",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.tristarpharmacy.com/",
+    "phone": "(865) 338-3600",
+    "phoneUnformatted": "+18653383600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9021716,
+      "lng": -84.123041
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy1P_3EYvXIgRG777W4EzSYE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c2f46dcff53cb:0x814933815bfbbe1b",
+    "cid": "9316033934879604251",
+    "reviewsCount": 27,
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.907Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tri-Star%20Pharmacy&query_place_id=ChIJy1P_3EYvXIgRG777W4EzSYE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPr2h_oD-uhlvzZOKYnq2M1gGGDciBuvex1j6so=w408-h306-k-no",
+    "kgmid": "/g/11n84k94p9"
+  },
+  {
+    "title": "Gordon's Drug Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7255 Oak Ridge Hwy, Knoxville, TN 37931",
+    "neighborhood": null,
+    "street": "7255 Oak Ridge Hwy",
+    "city": "Knoxville",
+    "postalCode": "37931",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://gordonsdrugstore.net/",
+    "phone": "(865) 691-8822",
+    "phoneUnformatted": "+18656918822",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9864959,
+      "lng": -84.0822583
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvecPkIo6XIgR73foTwY-Ncw",
+    "categories": [
+      "Pharmacy",
+      "Diabetes equipment supplier",
+      "Drug store",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Wheelchair rental service",
+      "Wheelchair store"
+    ],
+    "fid": "0x885c3a8a900fe7bd:0xcc353e064fe877ef",
+    "cid": "14714735554334324719",
+    "reviewsCount": 42,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.907Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gordon's%20Drug%20Store&query_place_id=ChIJvecPkIo6XIgR73foTwY-Ncw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNN2hxqS-aCdk0y8eunJZa7gaI31sPLAsKyjskO=w408-h306-k-no",
+    "kgmid": "/g/1tqclym7"
+  },
+  {
+    "title": "Mac's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2419 Washington Pike, Knoxville, TN 37917",
+    "neighborhood": null,
+    "street": "2419 Washington Pike",
+    "city": "Knoxville",
+    "postalCode": "37917",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.macspharmacy.com/",
+    "phone": "(865) 524-3453",
+    "phoneUnformatted": "+18655243453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0023886,
+      "lng": -83.9117661
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBxpROhUWXIgR2zqR3_CLtlk",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x885c16153a511a07:0x59b68bf0df913adb",
+    "cid": "6464508181796174555",
+    "reviewsCount": 139,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.907Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mac's%20Pharmacy&query_place_id=ChIJBxpROhUWXIgR2zqR3_CLtlk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwpQcu2HJ-GXhLJ695-YFLFT23nKWy0RBSFima=w408-h306-k-no",
+    "kgmid": "/g/1tdzb3_4"
+  },
+  {
+    "title": "Belew Drug Washington Pike",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5908 Washington Pike, Knoxville, TN 37918",
+    "neighborhood": null,
+    "street": "5908 Washington Pike",
+    "city": "Knoxville",
+    "postalCode": "37918",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.belewdrugs.com/",
+    "phone": "(865) 525-4967",
+    "phoneUnformatted": "+18655254967",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0522635,
+      "lng": -83.8734986
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIdwQrUQUXIgRSY2h34likdg",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x885c1444ad10dc21:0xd8916289dfa18d49",
+    "cid": "15605362528117427529",
+    "reviewsCount": 41,
+    "imagesCount": 56,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.907Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Belew%20Drug%20Washington%20Pike&query_place_id=ChIJIdwQrUQUXIgRSY2h34likdg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQrgSqo2cDSs3M8LXxmuO_lzTnT8K_gYkHPdhV=w408-h306-k-no",
+    "kgmid": "/g/1hc209ycg"
+  },
+  {
+    "title": "P3 Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8848 Cedar Springs Ln # 100, Knoxville, TN 37923",
+    "neighborhood": null,
+    "street": "8848 Cedar Springs Ln # 100",
+    "city": "Knoxville",
+    "postalCode": "37923",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.p3compounding.com/",
+    "phone": "(865) 769-5180",
+    "phoneUnformatted": "+18657695180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9126622,
+      "lng": -84.0770592
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6f-WWRIlXIgRMD5UwQRWoNM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c25125996ffe9:0xd3a05604c1543e30",
+    "cid": "15249282916699881008",
+    "reviewsCount": 36,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=P3%20Compounding%20Pharmacy&query_place_id=ChIJ6f-WWRIlXIgRMD5UwQRWoNM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNpHNYWZ4aKsBbd6Ja0XvnOtLb_pV9qXX8_6FrV=w408-h544-k-no",
+    "kgmid": "/g/1vljh1fp"
+  },
+  {
+    "title": "Knoxville Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": null,
+    "website": "https://knoxvillecompoundingpharmacy.com/",
+    "phone": "(865) 999-0298",
+    "phoneUnformatted": "+18659990298",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 31.93116,
+      "lng": -82.738463
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSZ5GZ-75oWwRKB0xx1wY_-E",
+    "categories": [
+      "Pharmacy",
+      "Service establishment"
+    ],
+    "fid": "0x6ca1f9ee67469e49:0xe1ff185cc7311d28",
+    "cid": "16284761564352945448",
+    "reviewsCount": 0,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Knoxville%20Compounding%20Pharmacy&query_place_id=ChIJSZ5GZ-75oWwRKB0xx1wY_-E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHP8RVtwjD8uwIOz68-5D3Hu2Lsh_4qBfAUXAl=w458-h240-k-no",
+    "kgmid": "/g/11m5p8k833"
+  },
+  {
+    "title": "Reams Drug Halls",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4127 E Emory Rd, Knoxville, TN 37938",
+    "neighborhood": null,
+    "street": "4127 E Emory Rd",
+    "city": "Knoxville",
+    "postalCode": "37938",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.reamsdrug.com/",
+    "phone": "(865) 922-5234",
+    "phoneUnformatted": "+18659225234",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0847945,
+      "lng": -83.9326601
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWcwFJGAVXIgR80zZxrVcSqI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c15602405cc59:0xa24a5cb5c6d94cf3",
+    "cid": "11694261318215879923",
+    "reviewsCount": 35,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Reams%20Drug%20Halls&query_place_id=ChIJWcwFJGAVXIgR80zZxrVcSqI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jwShYkBdrveM0ijuChx_vw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=351.7598&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bbwmgyyr"
+  },
+  {
+    "title": "Life Well Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "148 Legacy View Way, Knoxville, TN 37918",
+    "neighborhood": null,
+    "street": "148 Legacy View Way",
+    "city": "Knoxville",
+    "postalCode": "37918",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.lifewellpharmacy.com/",
+    "phone": "(865) 444-6207",
+    "phoneUnformatted": "+18654446207",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.027884,
+      "lng": -83.992828
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzf9ie6U_XIgRZIZ2BtEtE70",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c3fa57b62ffcd:0xbd132dd106768664",
+    "cid": "13624283673505728100",
+    "reviewsCount": 296,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Life%20Well%20Pharmacy&query_place_id=ChIJzf9ie6U_XIgRZIZ2BtEtE70",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOp20fjgKw3iVMxqEGBrj7u_ERbcREEcwrcikR5=w408-h306-k-no",
+    "kgmid": "/g/11vm6wq6s4"
+  },
+  {
+    "title": "Farragut Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11424 Kingston Pike, Knoxville, TN 37934",
+    "neighborhood": null,
+    "street": "11424 Kingston Pike",
+    "city": "Knoxville",
+    "postalCode": "37934",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://stores.healthmart.com/farragutpharmacy",
+    "phone": "(865) 966-9728",
+    "phoneUnformatted": "+18659669728",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8798355,
+      "lng": -84.1622921
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIzBGWcAuXIgRvtyxOd1eD0w",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c2ec059463023:0x4c0f5edd39b1dcbe",
+    "cid": "5480703575781924030",
+    "reviewsCount": 7,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Farragut%20Pharmacy&query_place_id=ChIJIzBGWcAuXIgRvtyxOd1eD0w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqN8M0UyYPc7Psj3_WAL23xeUaCd8L29gHLdAeXvLX5cDlIRExDy_rceiy3J5sf-nYkEzFqSNvRNdeGGd_27yAayDXBfMhydMYe4wOn3cIpFHNM_tGRkvKOOviI0959jYoeGLe1on8TNaBN=w408-h306-k-no",
+    "kgmid": "/g/11g6yng20y"
+  },
+  {
+    "title": "Mugford Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3909 Martin Mill Pike, Knoxville, TN 37920",
+    "neighborhood": "Vestal",
+    "street": "3909 Martin Mill Pike",
+    "city": "Knoxville",
+    "postalCode": "37920",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://mugfordpharmacy.com/",
+    "phone": "(865) 577-5533",
+    "phoneUnformatted": "+18655775533",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9358991,
+      "lng": -83.91382
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtYJsg_UXXIgR9vLzBQgNMmY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c17f5836c82b5:0x66320d0805f3f2f6",
+    "cid": "7363962668814955254",
+    "reviewsCount": 40,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mugford%20Pharmacy&query_place_id=ChIJtYJsg_UXXIgR9vLzBQgNMmY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPKJcn6WAa5mGeYIgpcjYEmelQrPIvfObpR9DCh=w408-h306-k-no",
+    "kgmid": "/g/11f3nklbmm"
+  },
+  {
+    "title": "Compounding Pharmacy of America",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7240 Kingston Pike #136, Knoxville, TN 37919",
+    "neighborhood": null,
+    "street": "7240 Kingston Pike #136",
+    "city": "Knoxville",
+    "postalCode": "37919",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://compoundingrxusa.com/",
+    "phone": "(865) 243-2488",
+    "phoneUnformatted": "+18652432488",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9292837,
+      "lng": -84.029402
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1bxOEE4jXIgRjKz7bEzuApI",
+    "categories": [
+      "Pharmacy",
+      "Health and beauty shop"
+    ],
+    "fid": "0x885c234e104ebcd5:0x9202ee4c6cfbac8c",
+    "cid": "10521233691504258188",
+    "reviewsCount": 295,
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Compounding%20Pharmacy%20of%20America&query_place_id=ChIJ1bxOEE4jXIgRjKz7bEzuApI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMyY3MDnOR4S7tcb5EQMWyj9YBJD2XiZdZqva7z=w408-h306-k-no",
+    "kgmid": "/g/12mm84ngb"
+  },
+  {
+    "title": "Keystone Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10360 Deerborn Ln, Knoxville, TN 37932",
+    "neighborhood": "Hardin Valley",
+    "street": "10360 Deerborn Ln",
+    "city": "Knoxville",
+    "postalCode": "37932",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.keystonepharmacyservices.com/contact.html",
+    "phone": "(865) 671-7788",
+    "phoneUnformatted": "+18656717788",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 35.9176921,
+      "lng": -84.135281
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd3zN4LAvXIgR0mYPm45pRsk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c2fb0e0cd7c77:0xc946698e9b0f66d2",
+    "cid": "14503395711201011410",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Keystone%20Pharmacy%20Services&query_place_id=ChIJd3zN4LAvXIgR0mYPm45pRsk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x4OghK5FuDMZxLEo7IGwmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.71246&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cs4h4b78"
+  },
+  {
+    "title": "Crossroads Pharmacy, LLC.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7047 Maynardville Pike, Knoxville, TN 37918",
+    "neighborhood": null,
+    "street": "7047 Maynardville Pike",
+    "city": "Knoxville",
+    "postalCode": "37918",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://crossroads-pharmacyrx.square.site/",
+    "phone": "(865) 922-0124",
+    "phoneUnformatted": "+18659220124",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0772453,
+      "lng": -83.9278705
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN0nrSwAVXIgRopy6o_kNT6A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c15004beb4937:0xa04f0df9a3ba9ca2",
+    "cid": "11551466935073545378",
+    "reviewsCount": 4,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Crossroads%20Pharmacy%2C%20LLC.&query_place_id=ChIJN0nrSwAVXIgRopy6o_kNT6A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIHCRvhVWTvf5ZTZlxH17WFEwEU6GpmrJ51TIW=w408-h303-k-no",
+    "kgmid": "/g/11vzp_cgb0"
+  },
+  {
+    "title": "Food City Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "4805 N Broadway St, Knoxville, TN 37918",
+    "neighborhood": "Fountain City",
+    "street": "4805 N Broadway St",
+    "city": "Knoxville",
+    "postalCode": "37918",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.foodcity.com/stores/store-details/685/?utm_source=google&utm_medium=organic&utm_campaign=google-business&utm_content=685-pharmacy",
+    "phone": "(865) 281-0286",
+    "phoneUnformatted": "+18652810286",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0248739,
+      "lng": -83.929166
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf6-uT_4VXIgRLKjCc0wtMWQ",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health and beauty shop"
+    ],
+    "fid": "0x885c15fe4faeaf7f:0x64312d4c73c2a82c",
+    "cid": "7219601484034517036",
+    "reviewsCount": 10,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Food%20City%20Pharmacy&query_place_id=ChIJf6-uT_4VXIgRLKjCc0wtMWQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr8S1iCVe5HMK1GUPvLdf8yCo_ei7hy9BKOrsq6IDLctOfRRcMNu7J_Rc0NfC9Ycw6EN5yAa6NRl0pG8cSuhTGyfKUwbHrMMcB38nqVAvnnv1HZaIPGmdrTiBf9heiOsrOJFMGDTw=w408-h543-k-no",
+    "kgmid": "/g/1q6j6ft3x"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4935 Millertown Pike, Knoxville, TN 37917",
+    "neighborhood": null,
+    "street": "4935 Millertown Pike",
+    "city": "Knoxville",
+    "postalCode": "37917",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-4935+millertown+pike-knoxville-tn-37917/id=21264",
+    "phone": "(865) 867-3031",
+    "phoneUnformatted": "+18658673031",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0275122,
+      "lng": -83.8748427
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6TGeYgVXIgRZ8sJq_eO61o",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885c158879c6a4ab:0x5aeb8ef7ab09cb67",
+    "cid": "6551487277318130535",
+    "reviewsCount": 22,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:39:42.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJq6TGeYgVXIgRZ8sJq_eO61o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Knoxville%20TN/@25.185508647904282,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Knoxville TN",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no0N3Ok7RZJpFO9T0MJBS4W2-RuwCZL9rheWeEjwiQKg1rM5zEDzlLhxJOiFKMaxSncv7XYi9lNXXPJxMGh_B2NvIxvKXpwKSmbElscZv93wgDhAeyp7xEhSmP1uf9dN_4WoElQ=w426-h240-k-no",
+    "kgmid": "/g/11fnyp76lf"
+  }
+]

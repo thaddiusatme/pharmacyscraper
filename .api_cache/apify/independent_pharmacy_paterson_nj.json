@@ -1,0 +1,2445 @@
+[
+  {
+    "title": "Main St Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "764 Main St, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "764 Main St",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://mainstpharmacy.net/",
+    "phone": "(973) 278-9000",
+    "phoneUnformatted": "+19732789000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.900494,
+      "lng": -74.1651739
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtSIeICr8wokRB-z0knuI1QA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fc2a201e22b5:0xd5887b92f4ec07",
+    "cid": "60104234367249415",
+    "reviewsCount": 38,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Main%20St%20Pharmacy&query_place_id=ChIJtSIeICr8wokRB-z0knuI1QA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcTt4ZN09_E3b8ury3W7nuveW8UL8bMJgoqm6m=w408-h544-k-no",
+    "kgmid": "/g/11hdb1ygvn"
+  },
+  {
+    "title": "Irving Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "382 Main St A, Paterson, NJ 07501",
+    "neighborhood": null,
+    "street": "382 Main St A",
+    "city": "Paterson",
+    "postalCode": "07501",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.irvingpharmacynj.com/",
+    "phone": "(973) 742-8186",
+    "phoneUnformatted": "+19737428186",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9121693,
+      "lng": -74.1727879
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFwp1Gc39wokRXOBeRekobmA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fdcd19750a17:0x606e28e9455ee05c",
+    "cid": "6948536257435590748",
+    "reviewsCount": 21,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.084Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Irving%20Pharmacy&query_place_id=ChIJFwp1Gc39wokRXOBeRekobmA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqGgw54HrWunoSVEJS3exhDtSf9qBagfEzrC_qT9TqBAEiofJAdrQhZQodq9LXXuRmZqXnPYY5Ajczo6pqpnnYn2Ek4onw0zl9t_hhIAUzUBgmKSXaE9dbsrRqknz8zZnM2LmQhBw=w408-h544-k-no",
+    "kgmid": "/g/1tmxxjb3"
+  },
+  {
+    "title": "Paterson Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "430 Madison Ave, Paterson, NJ 07524",
+    "neighborhood": null,
+    "street": "430 Madison Ave",
+    "city": "Paterson",
+    "postalCode": "07524",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://patersonpharmacy.com/",
+    "phone": "(973) 278-5808",
+    "phoneUnformatted": "+19732785808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9259458,
+      "lng": -74.1519088
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEYkDPEP8wokR2QVowH8w9FQ",
+    "categories": [
+      "Pharmacy",
+      "Addiction treatment center",
+      "Drug store",
+      "Fertility clinic",
+      "Homeopathic pharmacy",
+      "Medical supply store",
+      "Pain control clinic",
+      "Senior citizen center",
+      "Surgical supply store",
+      "Wellness center"
+    ],
+    "fid": "0x89c2fc433c038911:0x54f4307fc06805d9",
+    "cid": "6121571118750369241",
+    "reviewsCount": 179,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.084Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Paterson%20Pharmacy&query_place_id=ChIJEYkDPEP8wokR2QVowH8w9FQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ze1wZr4GGuyzDLCW-7BIpA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.22055&pitch=0&thumbfov=100",
+    "kgmid": "/g/1vl5hqj4"
+  },
+  {
+    "title": "Steigner's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "688 Main St, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "688 Main St",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 278-2207",
+    "phoneUnformatted": "+19732782207",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9026666,
+      "lng": -74.1671296
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE0UNuyv8wokRp1TBoF3tEdY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fc2bbb0d4513:0xd611ed5da0c154a7",
+    "cid": "15425371185105425575",
+    "reviewsCount": 16,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.084Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Steigner's%20Pharmacy&query_place_id=ChIJE0UNuyv8wokRp1TBoF3tEdY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KDB5H4tozEFZCQqXCHQgLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.46457&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wbryqlk"
+  },
+  {
+    "title": "Sheefa Pharmacy Paterson",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1040 Main St, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "1040 Main St",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://sheefa.com/",
+    "phone": "(973) 345-4242",
+    "phoneUnformatted": "+19733454242",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8926759,
+      "lng": -74.1579253
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwVBNZ5v-wokRpaTHQv3bSfk",
+    "categories": [
+      "Pharmacy",
+      "Medical equipment supplier"
+    ],
+    "fid": "0x89c2fe9b674d50c1:0xf949dbfd42c7a4a5",
+    "cid": "17963130469537522853",
+    "reviewsCount": 593,
+    "imagesCount": 42,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.085Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheefa%20Pharmacy%20Paterson&query_place_id=ChIJwVBNZ5v-wokRpaTHQv3bSfk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nptNty4uu8GhHcym6YgSRkgru15BHZsTZ3v8odDl7SJSoWZa8NZnZ49KrQjX4Oq7xkV9nilmH_QX6OgFqa6kwXtJJ70Q_H7qSipkcx_vSyozlNzoQu9AoYp80tLgCONDG3oZ9M3=w408-h544-k-no",
+    "kgmid": "/g/1tdb9s9m"
+  },
+  {
+    "title": "Pharmacy Plus & Surgical Supplies",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "900 Main St, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "900 Main St",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://pharmacyplusnj.com/",
+    "phone": "(862) 257-9990",
+    "phoneUnformatted": "+18622579990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.896574,
+      "lng": -74.1615222
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ716f_IL-wokRMQ528k72ofg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fe82fc9f5eef:0xf8a1f64ef2760e31",
+    "cid": "17915871611592248881",
+    "reviewsCount": 418,
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.085Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Plus%20%26%20Surgical%20Supplies&query_place_id=ChIJ716f_IL-wokRMQ528k72ofg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnAqYdlpTeEDm3Jb-vakDSKmSq0s_R1t-LmnobHwHbyfMA2W12vKuqkUDa4zIWMnFbxk5wx78-eMgBQyzaWT2gUDZNGu4YyMpw2R-kAFKU9RQc8iHGpLT1lDaqmoXOoiEoYblI=w519-h240-k-no",
+    "kgmid": "/g/11b6llnv4m"
+  },
+  {
+    "title": "Mainfair Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "87 Main St, Paterson, NJ 07505",
+    "neighborhood": null,
+    "street": "87 Main St",
+    "city": "Paterson",
+    "postalCode": "07505",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.mainfairpharmacy.com/",
+    "phone": "(973) 279-5510",
+    "phoneUnformatted": "+19732795510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9196333,
+      "lng": -74.1727909
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQTy4m8r9wokRTYRpSzVtFwI",
+    "categories": [
+      "Pharmacy",
+      "Fax service",
+      "Greeting card shop",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c2fdca9bb83c41:0x2176d354b69844d",
+    "cid": "150709188206101581",
+    "reviewsCount": 58,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.085Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mainfair%20Pharmacy&query_place_id=ChIJQTy4m8r9wokRTYRpSzVtFwI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaWSrOqghfUuJFIvy0gCjoPElz3BRx29hTj7P-_oF7N3zfmGetK5DJgOPr8g0gRzgTYG7uzX6THpKRVKmxz4x03a_qEWy8nmoKyaz92v3XiiE2ggP2_IQQSJe44hYmHLjY28LN6g=w426-h240-k-no",
+    "kgmid": "/g/1tf9trxb"
+  },
+  {
+    "title": "Family care pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1010 Main St suite a2, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "1010 Main St suite a2",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 222-2266",
+    "phoneUnformatted": "+19732222266",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8932687,
+      "lng": -74.1589984
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfRD8Z7D_wokR1zw9Rk_pAJY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2ffb067fc107d:0x9600e94f463d3cd7",
+    "cid": "10808895632379296983",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.085Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Family%20care%20pharmacy&query_place_id=ChIJfRD8Z7D_wokR1zw9Rk_pAJY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_sBEbOdB7zKH7RW2pT1Fmw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.45169&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tnv02n7x"
+  },
+  {
+    "title": "Grand Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "351 Grand St, Paterson, NJ 07505",
+    "neighborhood": null,
+    "street": "351 Grand St",
+    "city": "Paterson",
+    "postalCode": "07505",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://grandstrx.com/",
+    "phone": "(973) 898-9800",
+    "phoneUnformatted": "+19738989800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9123694,
+      "lng": -74.1733782
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEda36YL9wokRn_KKskpFlo4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fd82e9b7d611:0x8e96454ab28af29f",
+    "cid": "10274475787017712287",
+    "reviewsCount": 35,
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.085Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Street%20Pharmacy&query_place_id=ChIJEda36YL9wokRn_KKskpFlo4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiENisEYZqSrj_0wDZ87FNfi8nqAOrR-AfiUhkHvPk0z__5K2NWxtZWe50KtqePYUmDD7R9lyl-AfgIKbNk3C2OfXQPMuRy2IF7JJ_kldEtqJ-pN-jfEgzkklnCaEfZ0EteonOlg=w408-h541-k-no",
+    "kgmid": "/g/11q4gm9lfc"
+  },
+  {
+    "title": "Pharmacy Express",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "991 Main St, Paterson, NJ 07503",
+    "neighborhood": null,
+    "street": "991 Main St",
+    "city": "Paterson",
+    "postalCode": "07503",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://pharmacyexpressnj.com/",
+    "phone": "(973) 754-1000",
+    "phoneUnformatted": "+19737541000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8942527,
+      "lng": -74.1587135
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJYZgXkb_wokR9Jw7ARsSUV0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2ff465e608625:0x5d51121b013b9cf4",
+    "cid": "6724175625834962164",
+    "reviewsCount": 40,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.086Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Express&query_place_id=ChIJJYZgXkb_wokR9Jw7ARsSUV0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNY9LwKw_T3oTHZR9pABgfDKUWSoPDCbuneN3c8=w426-h240-k-no",
+    "kgmid": "/g/11g1rjffwr"
+  },
+  {
+    "title": "International Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "48 Park Ave, Paterson, NJ 07501",
+    "neighborhood": null,
+    "street": "48 Park Ave",
+    "city": "Paterson",
+    "postalCode": "07501",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.internationaldrugsrx.com/",
+    "phone": "(973) 345-4900",
+    "phoneUnformatted": "+19733454900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9153171,
+      "lng": -74.1647939
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF6nYnjb8wokRMWLbpyEB7fg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fc369ed8a917:0xf8ed0121a7db6231",
+    "cid": "17936994134948274737",
+    "reviewsCount": 15,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.086Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=International%20Drugs%20Pharmacy&query_place_id=ChIJF6nYnjb8wokRMWLbpyEB7fg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWMlQydsFHZ-YmGw8ERosL6iwC8onahfaYZKforvaC3Ltj95oMs3Aa7d7nIxfUsXKoDlHsepV6mJJglV1OMuA5uklThvHVpc0ep2HFZuh7gdSTWyAneoS4UHZp9zq7xIzoUqGl2Q=w408-h306-k-no",
+    "kgmid": "/g/1pp2tzt_k"
+  },
+  {
+    "title": "Hospital Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "544 Market St, Paterson, NJ 07513",
+    "neighborhood": null,
+    "street": "544 Market St",
+    "city": "Paterson",
+    "postalCode": "07513",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://hospitalpharmacynj.com/",
+    "phone": "(973) 279-0707",
+    "phoneUnformatted": "+19732790707",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9117474,
+      "lng": -74.1556524
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfVLMxzv8wokRxH8xw1QSoWY",
+    "categories": [
+      "Pharmacy",
+      "Addiction treatment center",
+      "Drug store",
+      "Fertility clinic",
+      "Homeopathic pharmacy",
+      "Medical supply store",
+      "Pain control clinic",
+      "Senior citizen center",
+      "Surgical supply store",
+      "Wellness center"
+    ],
+    "fid": "0x89c2fc3bc7cc527d:0x66a11254c3317fc4",
+    "cid": "7395212218380419012",
+    "reviewsCount": 273,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.086Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hospital%20Pharmacy&query_place_id=ChIJfVLMxzv8wokRxH8xw1QSoWY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcVpWS1TT1Y73UWVcFJXVHsBRI-V-HCajP3e2dGxZgoA4YPImpDceEolDRW9vdMtyyXeXjdCjOxvOOprbekco8Y7qz0mrvVvnkCE-7MheTEUApwSPMQ2BO_pe39JD6o_fLJWF8=w408-h306-k-no",
+    "kgmid": "/g/1tcv2cv2"
+  },
+  {
+    "title": "Park Ave Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "107 Park Ave, Paterson, NJ 07501",
+    "neighborhood": null,
+    "street": "107 Park Ave",
+    "city": "Paterson",
+    "postalCode": "07501",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.parkavepharmacy.com/",
+    "phone": "(973) 928-8888",
+    "phoneUnformatted": "+19739288888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9154508,
+      "lng": -74.1619531
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL0Z1HTf8wokR2E1pu7NqBK8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fc371d75462f:0xaf046ab3bb694dd8",
+    "cid": "12611322176720162264",
+    "reviewsCount": 26,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.086Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Park%20Ave%20Pharmacy&query_place_id=ChIJL0Z1HTf8wokR2E1pu7NqBK8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4dK2KsN1eq4k-b1-0jjKDIPvjSEgWyfn094bJtKp2CkCW7rIasQmMjScl-SkfW0VUA2sJx1lDggnn2TmZBO7REkv73rInWqaCW5NJqqpCuPBS1zKOmL0YnvBvVBfkq_re4ShNXA=w408-h240-k-no-pi-0-ya308.72-ro0-fo100",
+    "kgmid": "/g/1vxw95_q"
+  },
+  {
+    "title": "Vital Plus Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10 W Broadway, Paterson, NJ 07505",
+    "neighborhood": null,
+    "street": "10 W Broadway",
+    "city": "Paterson",
+    "postalCode": "07505",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.vitalpluspharmacy.com/",
+    "phone": "(862) 267-0385",
+    "phoneUnformatted": "+18622670385",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9194215,
+      "lng": -74.1733106
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvRKWj8r9wokRcvVPxNOiTuk",
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Fax service",
+      "Fitness center",
+      "Gym"
+    ],
+    "fid": "0x89c2fdca8f9612bd:0xe94ea2d3c44ff572",
+    "cid": "16811553489436013938",
+    "reviewsCount": 37,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.086Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vital%20Plus%20Pharmacy&query_place_id=ChIJvRKWj8r9wokRcvVPxNOiTuk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhFOxq79focrJ5TXShgMAdddRh4aXNisqzOFNaVctM0s7xLAzZdwmJuDXEkLVgOQED83O0Or1hx3MQ0LB_EnF6MNyTk1cft56ALwtCWQEOMYkJD8JhPdl7ggh5yxsOIAitGDyqFA=w408-h306-k-no",
+    "kgmid": "/g/11dxrzj6_m"
+  },
+  {
+    "title": "La Nueva Mercedes Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "500 River St, Paterson, NJ 07524",
+    "neighborhood": null,
+    "street": "500 River St",
+    "city": "Paterson",
+    "postalCode": "07524",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.lnmprx.com/",
+    "phone": "(973) 279-2800",
+    "phoneUnformatted": "+19732792800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9312857,
+      "lng": -74.1590147
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJReqMdlr8wokRtLHTi_uTe8I",
+    "categories": [
+      "Pharmacy",
+      "Medical equipment supplier"
+    ],
+    "fid": "0x89c2fc5a768cea45:0xc27b93fb8bd3b1b4",
+    "cid": "14013957374085411252",
+    "reviewsCount": 67,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=La%20Nueva%20Mercedes%20Pharmacy&query_place_id=ChIJReqMdlr8wokRtLHTi_uTe8I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYMvmokT0IAUVXqgQ0ZNRg5nEfRcaPVkpt_dtN=w408-h306-k-no",
+    "kgmid": "/g/11csb0158v"
+  },
+  {
+    "title": "FABIO'S PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "88 Market St, Paterson, NJ 07505",
+    "neighborhood": null,
+    "street": "88 Market St",
+    "city": "Paterson",
+    "postalCode": "07505",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(862) 257-3300",
+    "phoneUnformatted": "+18622573300",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9158135,
+      "lng": -74.1742916
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD0i7hMv9wokRTbl2DIBUj3c",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fdcb84bb480f:0x778f54800c76b94d",
+    "cid": "8615197521124702541",
+    "reviewsCount": 29,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FABIO'S%20PHARMACY&query_place_id=ChIJD0i7hMv9wokRTbl2DIBUj3c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wfit-IaBgiEv_r0iWzGgLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=164.9499&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b5qw828j"
+  },
+  {
+    "title": "Downtown Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "125 Main St, Paterson, NJ 07505",
+    "neighborhood": null,
+    "street": "125 Main St",
+    "city": "Paterson",
+    "postalCode": "07505",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 279-5510",
+    "phoneUnformatted": "+19732795510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.918784,
+      "lng": -74.1728782
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt67Y7Mr9wokR08hoX5nawUo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fdcaecd8aeb7:0x4ac1da995f68c8d3",
+    "cid": "5386826981577378003",
+    "reviewsCount": 21,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Pharmacy&query_place_id=ChIJt67Y7Mr9wokR08hoX5nawUo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8PxvDKK4YCFMeW6lWhXrQO7FMLD5MJGbr993q=w408-h306-k-no",
+    "kgmid": "/g/1tdqvgnv"
+  },
+  {
+    "title": "Farmacia Del Pueblo II LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "22 Market St, Paterson, NJ 07501",
+    "neighborhood": null,
+    "street": "22 Market St",
+    "city": "Paterson",
+    "postalCode": "07501",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://farmaciasdelpueblo2.net/",
+    "phone": "(973) 523-2070",
+    "phoneUnformatted": "+19735232070",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9147242,
+      "lng": -74.1769908
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrYPQps79wokRLAPM3rh0CIE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fdcea6d083ad:0x810874b8decc032c",
+    "cid": "9297809768067105580",
+    "reviewsCount": 15,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Farmacia%20Del%20Pueblo%20II%20LLC&query_place_id=ChIJrYPQps79wokRLAPM3rh0CIE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMU875j-NiWy0M-AlD9cW9uU3SNE4jHgNfX7GNt=w408-h544-k-no",
+    "kgmid": "/g/1thxrkzx"
+  },
+  {
+    "title": "Saimz Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "715 Broadway, Paterson, NJ 07514",
+    "neighborhood": null,
+    "street": "715 Broadway",
+    "city": "Paterson",
+    "postalCode": "07514",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 782-4444",
+    "phoneUnformatted": "+19737824444",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9183925,
+      "lng": -74.1425073
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-SWWsNv9wokRtICeilNajXc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fddbb09625f9:0x778d5a538a9e80b4",
+    "cid": "8614640977084055732",
+    "reviewsCount": 117,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Saimz%20Pharmacy&query_place_id=ChIJ-SWWsNv9wokRtICeilNajXc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOrFXFkvXEJhA-vQDTcHzSugBjnWT10nTpwdKW7=w408-h544-k-no",
+    "kgmid": "/g/11vjy2q6_y"
+  },
+  {
+    "title": "Billstra Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "608 21st Ave #1, Paterson, NJ 07513",
+    "neighborhood": null,
+    "street": "608 21st Ave #1",
+    "city": "Paterson",
+    "postalCode": "07513",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 279-2200",
+    "phoneUnformatted": "+19732792200",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9053196,
+      "lng": -74.1470494
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0SVScxj8wokRIopKhvnJ01s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2fc18735225d1:0x5bd3c9f9864a8a22",
+    "cid": "6616854351074462242",
+    "reviewsCount": 25,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:06:52.087Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Billstra%20Pharmacy&query_place_id=ChIJ0SVScxj8wokRIopKhvnJ01s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Paterson%20NJ/@69.9064287015676,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Paterson NJ",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FQF5MftIoLwXPz6Q6bPIVg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.25587&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tcvcv3z"
+  }
+]

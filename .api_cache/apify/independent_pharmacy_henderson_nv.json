@@ -1,0 +1,2503 @@
+[
+  {
+    "title": "Green Valley Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2245 N Green Valley Pkwy, Henderson, NV 89014",
+    "neighborhood": "Green Valley North",
+    "street": "2245 N Green Valley Pkwy",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 565-3374",
+    "phoneUnformatted": "+17025653374",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.0538693,
+      "lng": -115.0840809
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLZG85STQyIARpgvbYTR1DEU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d024e5bc912d:0x450c753461db0ba6",
+    "cid": "4975480556178049958",
+    "reviewsCount": 42,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.820Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Green%20Valley%20Pharmacy&query_place_id=ChIJLZG85STQyIARpgvbYTR1DEU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nod5NJU4VtEJFVqr4kgm60moY9ySr7m61mN1JnZncbmQ6WUZ4HFzCVUSQkFTlwA6-6amSPcKU3C1S4ctpF0B-B74FVJYFoJNNeS6Os9EK9wXpzEcv3iLvKbuwXNDE1UXa_kgjE=w408-h563-k-no",
+    "kgmid": "/g/11gbnms_bh"
+  },
+  {
+    "title": "Vitality Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3175 St Rose Pkwy #120, Henderson, NV 89052",
+    "neighborhood": "Silverado Ranch",
+    "street": "3175 St Rose Pkwy #120",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 967-0500",
+    "phoneUnformatted": "+17029670500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9990039,
+      "lng": -115.1245612
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM434Z8zPyIARKw4nL7MnVYk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8cfcc67f88d33:0x895527b32f270e2b",
+    "cid": "9895859406760250923",
+    "reviewsCount": 44,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.821Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vitality%20Pharmacy&query_place_id=ChIJM434Z8zPyIARKw4nL7MnVYk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npnOuSlAMHjM0gqK2fGH5fkm8xvjkt7XGdglzjXP21-y_RHMqyiEhzNBsxeA_PgFIhCVnZfMjFOrPrVCgIt5eDAf2nHm4oNeQdTuRt5JjVxmnG90n5xTVVW0VQPL5k9-srwmXzy=w408-h544-k-no",
+    "kgmid": "/g/11fjv54ydd"
+  },
+  {
+    "title": "Henderson Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2410 W Horizon Ridge Pkwy #100, Henderson, NV 89052",
+    "neighborhood": "Green Valley Ranch",
+    "street": "2410 W Horizon Ridge Pkwy #100",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://vegas-pharmacy.com/henderson-pharmacy/",
+    "phone": "(725) 238-4608",
+    "phoneUnformatted": "+17252384608",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0065434,
+      "lng": -115.0919597
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcQ7hMk_RyIARCTK-195oPYM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d14f32e10e71:0x833d68ded7be3209",
+    "cid": "9456830098859504137",
+    "reviewsCount": 10,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.821Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Henderson%20Pharmacy&query_place_id=ChIJcQ7hMk_RyIARCTK-195oPYM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNn2ddm-OJnhXr4sj5Ba3O4iXL9o5lPThFVzb2R=w408-h906-k-no",
+    "kgmid": "/g/11sdzph2ym"
+  },
+  {
+    "title": "Evergreen Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10001 S Eastern Ave Suite 105, Henderson, NV 89052",
+    "neighborhood": null,
+    "street": "10001 S Eastern Ave Suite 105",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 269-1354",
+    "phoneUnformatted": "+17022691354",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0050247,
+      "lng": -115.1143776
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ1vNWxLOyIARyNV7IXZgQYo",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80c8ce125bcd5b67:0x8a416076217bd5c8",
+    "cid": "9962349911204419016",
+    "reviewsCount": 14,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.821Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Evergreen%20Drugs&query_place_id=ChIJZ1vNWxLOyIARyNV7IXZgQYo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojnSXB3M3jN7V2LrFGdeCOchmYKkwmfGBUykiZCdOr7fS2fShzvk8ilSD7epI4fLkGtZfZ4QgtmPJbwHjmKUUjZzjqwUlZYmFi0BZ0AT3kMoJOshyFTOWoexfoeeRFkot0Li4Asw=w408-h306-k-no",
+    "kgmid": "/g/1vntk57h"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2662 W Horizon Ridge Pkwy, Henderson, NV 89052",
+    "neighborhood": null,
+    "street": "2662 W Horizon Ridge Pkwy",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/henderson-nv-pharmacies/2662-w-horizon-ridge-pkwy-henderson-nv-89052/storeid=8795?WT.mc_id=LS_GOOGLE_RX_8795",
+    "phone": "(702) 616-9660",
+    "phoneUnformatted": "+17026169660",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0002425,
+      "lng": -115.1044692
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYRYgDQbOyIARb4kyRhqZGBg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8ce060d201661:0x1818991a4632896f",
+    "cid": "1736305994477242735",
+    "reviewsCount": 16,
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.822Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJYRYgDQbOyIARb4kyRhqZGBg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOuliU2SGudch86N5eeXQqKcGuUumyj45E0gZ0g=w408-h272-k-no",
+    "kgmid": "/g/11c461rrym"
+  },
+  {
+    "title": "Direct Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1850 Whitney Mesa Dr STE 180, Henderson, NV 89014",
+    "neighborhood": "Green Valley North",
+    "street": "1850 Whitney Mesa Dr STE 180",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 877-0703",
+    "phoneUnformatted": "+17028770703",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.077788,
+      "lng": -115.0652769
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy2XGPN_RyIARKhxaOmprNEI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d1df3cc665cb:0x42346b6a3a5a1c2a",
+    "cid": "4770556009281887274",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.822Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Direct%20Compounding%20Pharmacy&query_place_id=ChIJy2XGPN_RyIARKhxaOmprNEI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "kgmid": "/g/11hgf44xbz"
+  },
+  {
+    "title": "Trusted Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1632 W Warm Springs Rd, Henderson, NV 89014",
+    "neighborhood": "Whitney Ranch",
+    "street": "1632 W Warm Springs Rd",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(725) 202-3900",
+    "phoneUnformatted": "+17252023900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0565374,
+      "lng": -115.0558762
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmxjbAT_RyIARzY_0gVj-BAQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d13f01db189b:0x404fe5881f48fcd",
+    "cid": "289635932149419981",
+    "reviewsCount": 1,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.822Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Trusted%20Care%20Pharmacy&query_place_id=ChIJmxjbAT_RyIARzY_0gVj-BAQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNMJYdKkaE_ag2Vfwuuumg8PwTao-YEtfHFbrBl=w408-h544-k-no",
+    "kgmid": "/g/11lnwlrcfk"
+  },
+  {
+    "title": "Drug Plus Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1590 W Horizon Ridge Pkwy, Henderson, NV 89012",
+    "neighborhood": null,
+    "street": "1590 W Horizon Ridge Pkwy",
+    "city": "Henderson",
+    "postalCode": "89012",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://drugpluspharmacy.com/?utm_source=GMBlisting&utm_medium=organichttps://drugpluspharmacy.com/",
+    "phone": "(702) 834-8152",
+    "phoneUnformatted": "+17028348152",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0168024,
+      "lng": -115.056289
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY0mzzZrRyIAR80UTX1qaImo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d19acdb34963:0x6a229a5a5f1345f3",
+    "cid": "7647844830161356275",
+    "reviewsCount": 6,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.822Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Drug%20Plus%20Pharmacy&query_place_id=ChIJY0mzzZrRyIAR80UTX1qaImo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noF689Vx2oGL6MIs6F8yJ9mWv-mP-d9lkNj1yXdlvdb_mPGWmfE9Zkesb3WNHvA4wAqDcD2ktscHd5uj5BloTq2rf9xagrpWZLAS242e2WPqsYg8d6VY9LrPFYravmvicbNjiW9=w408-h306-k-no",
+    "kgmid": "/g/1ptwlvxtc"
+  },
+  {
+    "title": "Las Vegas Scripts Rx",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8, 2920 N Green Valley Pkwy STE 814, Henderson, NV 89014",
+    "neighborhood": "Green Valley North",
+    "street": "8, 2920 N Green Valley Pkwy STE 814",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "NV",
+    "countryCode": "US",
+    "website": "https://www.lvscripts.com/",
+    "phone": "(702) 927-7751",
+    "phoneUnformatted": "+17029277751",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0754426,
+      "lng": -115.0818707
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqxeRwPjRyIARLuPcmsT_ES4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d1f8c09117ab:0x2e11ffc49adce32e",
+    "cid": "3319715620225606446",
+    "reviewsCount": 87,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:28.822Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Las%20Vegas%20Scripts%20Rx&query_place_id=ChIJqxeRwPjRyIARLuPcmsT_ES4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9-ohw6MxRqtYeFPGNLWZV4UEOGzx2d8q7c_26=w408-h544-k-no",
+    "kgmid": "/g/11g2tyrxts"
+  },
+  {
+    "title": "PRECISION SPECIALTY RX",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1490 W Sunset Rd Suite 120, Henderson, NV 89014",
+    "neighborhood": "Whitney Ranch",
+    "street": "1490 W Sunset Rd Suite 120",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.precisionspecialtyrx.org/",
+    "phone": "(855) 955-5428",
+    "phoneUnformatted": "+18559555428",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0640877,
+      "lng": -115.049611
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJF6sGQIXRyIARLkZ5g3zwRl4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d1854006ab17:0x5e46f07c8379462e",
+    "cid": "6793381505507345966",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PRECISION%20SPECIALTY%20RX&query_place_id=ChIJF6sGQIXRyIARLkZ5g3zwRl4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUuqP9q8L1XgI_z6FUP3d3cHXhsQp1eeNIJOJr=w408-h376-k-no",
+    "kgmid": "/g/11wjll9mds"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1000 N Green Valley Pkwy, Henderson, NV 89074",
+    "neighborhood": "Green Valley South",
+    "street": "1000 N Green Valley Pkwy",
+    "city": "Henderson",
+    "postalCode": "89074",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00348?cid=loc_70600348P_gmb",
+    "phone": "(702) 260-0065",
+    "phoneUnformatted": "+17022600065",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0276356,
+      "lng": -115.0839999
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXzjyD9vRyIARP3M8oc_iT_g",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8d1db0ff2385f:0xf84fe2cfa13c733f",
+    "cid": "17892769225957471039",
+    "reviewsCount": 11,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJXzjyD9vRyIARP3M8oc_iT_g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMorFAoYj495T6KZIDzIG0iAahP-bPxAi36u3Ao=w426-h240-k-no",
+    "kgmid": "/g/1yfh_j190"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "835 E Lake Mead Pkwy, Henderson, NV 89015",
+    "neighborhood": "Valley View",
+    "street": "835 E Lake Mead Pkwy",
+    "city": "Henderson",
+    "postalCode": "89015",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00331?cid=loc_70600331P_gmb",
+    "phone": "(702) 268-2885",
+    "phoneUnformatted": "+17022682885",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0532075,
+      "lng": -114.9724217
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNyF2C83XyIAR6LNV2aQfpoU",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8d7cd0b762137:0x85a61fa4d955b3e8",
+    "cid": "9630419646059754472",
+    "reviewsCount": 18,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJNyF2C83XyIAR6LNV2aQfpoU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMpLwftEwxMJfZjLIQOY01nL8qJPuYQprLjQ18X=w426-h240-k-no",
+    "kgmid": "/g/11t4k0c0kz"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "695 S Green Valley Pkwy, Henderson, NV 89052",
+    "neighborhood": "MacDonald Ranch",
+    "street": "695 S Green Valley Pkwy",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/henderson-nv-pharmacies/695-s-green-valley-pkwy-henderson-nv-89052/storeid=17578?WT.mc_id=LS_GOOGLE_RX_17578",
+    "phone": "(702) 216-7101",
+    "phoneUnformatted": "+17022167101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0028671,
+      "lng": -115.0857054
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr7ZJB_nRyIARLHS4IL-9yxw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d1f90749b6af:0x1ccbbdbf20b8742c",
+    "cid": "2074960681919607852",
+    "reviewsCount": 33,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJr7ZJB_nRyIARLHS4IL-9yxw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNlfjq7LcZbzOpgvVS2BNNq6N3YlsUgs8ZlqR96=w408-h272-k-no",
+    "kgmid": "/g/1td4dv6x"
+  },
+  {
+    "title": "Abacus Rx Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1516 W Warm Springs Rd, Henderson, NV 89014",
+    "neighborhood": "Whitney Ranch",
+    "street": "1516 W Warm Springs Rd",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 475-4297",
+    "phoneUnformatted": "+17024754297",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.056523,
+      "lng": -115.05138
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb5taI1fQyIAR-PI9C_RS8sc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d057235a9b6f:0xc7f252f40b3df2f8",
+    "cid": "14407669366025745144",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 12 AM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Abacus%20Rx%20Pharmacy&query_place_id=ChIJb5taI1fQyIAR-PI9C_RS8sc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_bOet48nxgRQd8AQKUGrCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.40319&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bv1bb829"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4600 E Sunset Rd, Henderson, NV 89014",
+    "neighborhood": "Green Valley North",
+    "street": "4600 E Sunset Rd",
+    "city": "Henderson",
+    "postalCode": "89014",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00350?cid=loc_70600350P_gmb",
+    "phone": "(702) 451-0468",
+    "phoneUnformatted": "+17024510468",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0725307,
+      "lng": -115.0734718
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWT_CVxLQyIAR5vOlImMfFkw",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8d01257c23f59:0x4c161f6322a5f3e6",
+    "cid": "5482604107013682150",
+    "reviewsCount": 31,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJWT_CVxLQyIAR5vOlImMfFkw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPjfWDvdOylBVPvC_AsoWNLOi_Pkr-jMphcGGr1=w426-h240-k-no",
+    "kgmid": "/g/1yfjcl_lj"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "830 S Boulder Hwy, Henderson, NV 89015",
+    "neighborhood": "Valley View",
+    "street": "830 S Boulder Hwy",
+    "city": "Henderson",
+    "postalCode": "89015",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00381?cid=loc_70600381P_gmb",
+    "phone": "(702) 565-6466",
+    "phoneUnformatted": "+17025656466",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0270369,
+      "lng": -114.965862
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgazYep3WyIARdWczPFQWI7g",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8d69d7ad8ac81:0xb82316543c336775",
+    "cid": "13268473478206678901",
+    "reviewsCount": 36,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJgazYep3WyIARdWczPFQWI7g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMxxMRPYeNmsHucRLnu2CDlDI-Z9Cs9VGWbFXBq=w426-h240-k-no",
+    "kgmid": "/g/1yfjgd18d"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10616 S Eastern Ave, Henderson, NV 89052",
+    "neighborhood": "MacDonald Ranch",
+    "street": "10616 S Eastern Ave",
+    "city": "Henderson",
+    "postalCode": "89052",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00346?cid=loc_70600346P_gmb",
+    "phone": "(702) 614-8674",
+    "phoneUnformatted": "+17026148674",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.999517,
+      "lng": -115.1025652
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ7QF9wbOyIARpGYwfE1Y6pU",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8ce06f705b443:0x95ea584d7c3066a4",
+    "cid": "10802543746020828836",
+    "reviewsCount": 14,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJQ7QF9wbOyIARpGYwfE1Y6pU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNNaiP6B5vMexSmegSy69LJ3oOlPVjr13zrvoYCUfqSIMCHQSq1Ymhmm9Yv3nAWiyoB876r8GhzTB1e-huTL7aDDGllZ1urIaHwT3W_rk9bsJm3YjXbkswXZAKIJD8Zb-ClsI=w426-h240-k-no",
+    "kgmid": "/g/1yfjv68qv"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "55 S Valle Verde Dr, Henderson, NV 89012",
+    "neighborhood": "Green Valley Ranch",
+    "street": "55 S Valle Verde Dr",
+    "city": "Henderson",
+    "postalCode": "89012",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00366?cid=loc_70600366P_gmb",
+    "phone": "(702) 837-6117",
+    "phoneUnformatted": "+17028376117",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.025766,
+      "lng": -115.0639853
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe6s_-73RyIAR0mlGimYRYBQ",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8d1bdfb3fab7b:0x146011668a4669d2",
+    "cid": "1468192610626988498",
+    "reviewsCount": 24,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.869Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJe6s_-73RyIAR0mlGimYRYBQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQzygTxGt9kZ5B78x2n1GfbzpdItNmjPpVOWvN=w426-h240-k-no",
+    "kgmid": "/g/1tkc2c_7"
+  },
+  {
+    "title": "A Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2820 W Charleston Blvd #8, Las Vegas, NV 89102",
+    "neighborhood": "Rancho Oakey",
+    "street": "2820 W Charleston Blvd #8",
+    "city": "Las Vegas",
+    "postalCode": "89102",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 646-1100",
+    "phoneUnformatted": "+17026461100",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.1598785,
+      "lng": -115.1801805
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI8KUDufDyIARo6AAH-l1yZg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c3e70e94c223:0x98c975e91f00a0a3",
+    "cid": "11009460408191852707",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:30.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20Pharmacy&query_place_id=ChIJI8KUDufDyIARo6AAH-l1yZg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@52.537401959029296,-171.52329474216714,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5MLSgQfbiyl3DIbjU1e6IQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.44803&pitch=0&thumbfov=100",
+    "kgmid": "/g/1xtf1vld"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "60 N Valle Verde Dr, Henderson, NV 89074",
+    "neighborhood": "Green Valley South",
+    "street": "60 N Valle Verde Dr",
+    "city": "Henderson",
+    "postalCode": "89074",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/henderson-nv-pharmacies/60-north-valle-verde-dr-henderson-nv-89074/storeid=6717?WT.mc_id=LS_GOOGLE_RX_6717",
+    "phone": "(702) 898-0036",
+    "phoneUnformatted": "+17028980036",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0301191,
+      "lng": -115.0626277
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeafyc7zRyIARWVD3MBPvQs0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8d1bc73f2a779:0xcd42ef1330f75059",
+    "cid": "14790646991943061593",
+    "reviewsCount": 29,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:43:39.262Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJeafyc7zRyIARWVD3MBPvQs0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Henderson%20NV/@69.21166763186608,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Henderson NV",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGxOObebwQDL4mTqt4_phb2ErcIClxIAszX4lE=w408-h272-k-no",
+    "kgmid": "/g/11c461ngt4"
+  }
+]

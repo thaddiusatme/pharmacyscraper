@@ -1,0 +1,2519 @@
+[
+  {
+    "title": "Hidenwood Pharmacy, Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "35 Hidenwood Shopping Center, Newport News, VA 23606",
+    "neighborhood": "Central Newport News",
+    "street": "35 Hidenwood Shopping Center",
+    "city": "Newport News",
+    "postalCode": "23606",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.hidenwoodrx.com/",
+    "phone": "(757) 595-1151",
+    "phoneUnformatted": "+17575951151",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0703844,
+      "lng": -76.4948915
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Notary public"
+    ],
+    "fid": "0x89b078f888e07657:0x74d30414968f5b7d",
+    "cid": "8418076614957423485",
+    "reviewsCount": 51,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:49:41.552Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "11\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hidenwood%20Pharmacy%2C%20Inc&query_place_id=ChIJV3bgiPh4sIkRfVuPlhQE03Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@68.51690656216455,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMKUSLnG3JEtJ2uawkq6oYgbFKj585ZRBCnsQI=w426-h240-k-no",
+    "kgmid": "/g/1trqj2fz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Denbigh Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13349 Warwick Blvd, Newport News, VA 23602",
+    "neighborhood": "Jenkins",
+    "street": "13349 Warwick Blvd",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/denbigh-pharmacy-newport-news-va-23602/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=4804527",
+    "phone": "(757) 877-0253",
+    "phoneUnformatted": "+17578770253",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1149367,
+      "lng": -76.5203319
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x89b079f75afd82cb:0x4818980bafb3ce60",
+    "cid": "5195069346131725920",
+    "reviewsCount": 69,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:49:41.553Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Denbigh%20Pharmacy&query_place_id=ChIJy4L9Wvd5sIkRYM6zrwuYGEg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@68.51690656216455,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP_hprgZVKtzMnqv_cZeWAqeI2UUsJ84ZNXi3ly=w408-h306-k-no",
+    "kgmid": "/g/1tfqgp9r",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.92,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Glendale Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12444 Warwick Blvd, Newport News, VA 23606",
+    "neighborhood": "Central Newport News",
+    "street": "12444 Warwick Blvd",
+    "city": "Newport News",
+    "postalCode": "23606",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://www.glendalepharm.net/",
+    "phone": "(757) 595-3355",
+    "phoneUnformatted": "+17575953355",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.071749,
+      "lng": -76.492758
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b07850cc41238f:0x6fb790a5cb5b405e",
+    "cid": "8050061900703809630",
+    "reviewsCount": 20,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:49:41.553Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Glendale%20Pharmacy&query_place_id=ChIJjyNBzFB4sIkRXkBby6WQt28",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@68.51690656216455,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMU8dz2NyXb0RUz0V67ay8H7BjKRmnJ8d-n1p0D=w408-h306-k-no",
+    "kgmid": "/g/1tlbq08s",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fishing Point Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2315 Jefferson Ave, Newport News, VA 23607",
+    "neighborhood": "South Newport News",
+    "street": "2315 Jefferson Ave",
+    "city": "Newport News",
+    "postalCode": "23607",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://southeastcommunitypharmacy.com/",
+    "phone": "(757) 586-5535",
+    "phoneUnformatted": "+17575865535",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9806581,
+      "lng": -76.4214428
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ba9da878518483:0x1cb996c11f0be634",
+    "cid": "2069851259947181620",
+    "reviewsCount": 26,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:49:41.553Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fishing%20Point%20Pharmacy&query_place_id=ChIJg4RReKiduokRNOYLH8GWuRw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@68.51690656216455,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNOpMGwSj6p137FFne0rphw5Q0ewqO48Q6nSJ-J=w408-h544-k-no",
+    "kgmid": "/g/11snhmshwl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicap\u00ae Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "956 J Clyde Morris Blvd, Newport News, VA 23601",
+    "neighborhood": "Saunders",
+    "street": "956 J Clyde Morris Blvd",
+    "city": "Newport News",
+    "postalCode": "23601",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://www.medicap.com/",
+    "phone": "(757) 599-9643",
+    "phoneUnformatted": "+17575999643",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.095892,
+      "lng": -76.458584
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b078a0e50c4643:0xe6c1aa6bb142addf",
+    "cid": "16627758678740741599",
+    "reviewsCount": 18,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:49:41.553Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicap%C2%AE%20Pharmacy&query_place_id=ChIJQ0YM5aB4sIkR361CsWuqweY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@68.51690656216455,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FTZFRrNXs8ySJQBH1xZGWg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.33342&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td6t2zk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Tabb Family Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1215 George Washington Memorial Hwy D, Yorktown, VA 23693",
+    "neighborhood": null,
+    "street": "1215 George Washington Memorial Hwy D",
+    "city": "Yorktown",
+    "postalCode": "23693",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://www.tabbfamilypharmacy.com/",
+    "phone": "(757) 522-7117",
+    "phoneUnformatted": "+17575227117",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.10301,
+      "lng": -76.4586246
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b07996549edbe5:0xb7c554d3da5f1dee",
+    "cid": "13242083548231310830",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.095Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tabb%20Family%20Pharmacy%20Inc&query_place_id=ChIJ5dueVJZ5sIkR7h1f2tNUxbc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHLAEo172WTEYjgylRLNY2RjdXJzRw466ScXEQamv48yLx9FKuvzJdzab0NtDcFdairO7wSItKoYzE6BtWs6MBzU9M4uIsZo-kQ3gURv-NSrMAR6hcDoOvqDXAcDoRdZX18s7E=w408-h304-k-no",
+    "kgmid": "/g/11kdrk36mn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Harness Health Pharmacy - Mary Immaculate",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12720 McManus Blvd, Newport News, VA 23602",
+    "neighborhood": "Central Newport News",
+    "street": "12720 McManus Blvd",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.bonsecours.com/locations/pharmacy/hampton-roads/harness-health-pharmacy-mary-immaculate?utm_source=google&utm_medium=organic&utm_content=local_website_link",
+    "phone": "(757) 947-3740",
+    "phoneUnformatted": "+17579473740",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1438278,
+      "lng": -76.5120447
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Hospital department"
+    ],
+    "fid": "0x89b07ee64e04b48f:0xbf5cb36e8702f526",
+    "cid": "13789093446394508582",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.095Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Harness%20Health%20Pharmacy%20-%20Mary%20Immaculate&query_place_id=ChIJj7QETuZ-sIkRJvUCh26zXL8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vtrI1Z30iy2Ec0deSo7XCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.285507&pitch=0&thumbfov=100",
+    "kgmid": "/g/11clvhnp9l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "HII Pharmacy CVS/pharmacy #10922",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4500 Washington Ave, Newport News, VA 23607",
+    "neighborhood": "Downtown",
+    "street": "4500 Washington Ave",
+    "city": "Newport News",
+    "postalCode": "23607",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://myquadmed.com/hii/",
+    "phone": "(757) 928-0860",
+    "phoneUnformatted": "+17579280860",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.9910844,
+      "lng": -76.4379509
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ba9d0069146d99:0xdc9a2fc79c89c9ce",
+    "cid": "15896070369128860110",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.095Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=HII%20Pharmacy%20CVS%2Fpharmacy%20%2310922&query_place_id=ChIJmW0UaQCduokRzsmJnMcvmtw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fes-E1ESYMyUxtmQrlzf7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.88562&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ybxb2nsq",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Prescription Shoppe",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5223 Monticello Ave C, Williamsburg, VA 23188",
+    "neighborhood": null,
+    "street": "5223 Monticello Ave C",
+    "city": "Williamsburg",
+    "postalCode": "23188",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.tpsva.com/",
+    "phone": "(757) 206-1630",
+    "phoneUnformatted": "+17572061630",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.2757403,
+      "lng": -76.7467044
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b089c618c7abb7:0x2f4f343d4e946588",
+    "cid": "3409000880858752392",
+    "reviewsCount": 84,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 81
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.095Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Prescription%20Shoppe&query_place_id=ChIJt6vHGMaJsIkRiGWUTj00Ty8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOP7914tMyLLUwzfauWtVx4ES3Bw0_bI8g6170S=w426-h240-k-no",
+    "kgmid": "/g/11h07vdz7t",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "BEDEI COMPOUNDING PHARMACY SERVICES",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3921 Poplar Hill Rd, Chesapeake, VA 23321",
+    "neighborhood": "Western Branch North",
+    "street": "3921 Poplar Hill Rd",
+    "city": "Chesapeake",
+    "postalCode": "23321",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://bedeipharmacy.com/",
+    "phone": "(757) 320-5141",
+    "phoneUnformatted": "+17573205141",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8635787,
+      "lng": -76.4001238
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ba953f995753cf:0xb839c9221679dbc3",
+    "cid": "13274862524894403523",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 23
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.095Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BEDEI%20COMPOUNDING%20PHARMACY%20SERVICES&query_place_id=ChIJz1NXmT-VuokRw9t5FiLJObg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohzDpKd5a8pvu71usXQIA8KvKaFyTLu6wyOPhnbBbHKhnL8yCBO6ph47jQcqG94_QKsGiyWe83uAcuG4Z2aHNbruE6fToLUyMHfiI86NP1S03xVJ4v1w41IfcPNM39uEam6S0=w426-h240-k-no",
+    "kgmid": "/g/11bwqmq7px",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hampton City Schools Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2238 Todds Ln, Hampton, VA 23666",
+    "neighborhood": null,
+    "street": "2238 Todds Ln",
+    "city": "Hampton",
+    "postalCode": "23666",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.hampton.k12.va.us/departments/wellnesscenter/wellnesscenter.html",
+    "phone": "(757) 224-9681",
+    "phoneUnformatted": "+17572249681",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.0402537,
+      "lng": -76.4041898
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ba8321601500dd:0xc4859b2aff6ebdf1",
+    "cid": "14160895212312772081",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.096Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20City%20Schools%20Pharmacy&query_place_id=ChIJ3QAVYCGDuokR8b1u_yqbhcQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fzQMH0mxWe9uLvks0l6iEQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.67838&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g8vpchpt",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.8,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12755 Jefferson Ave, Newport News, VA 23602",
+    "neighborhood": "Central Newport News",
+    "street": "12755 Jefferson Ave",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/newport-news-va-pharmacies/12755-jefferson-ave-newport-news-va-23602/storeid=10453?WT.mc_id=LS_GOOGLE_RX_10453",
+    "phone": "(757) 877-3147",
+    "phoneUnformatted": "+17578773147",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1374553,
+      "lng": -76.5200639
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b07ec15f91370f:0x8287cdb569b0a40f",
+    "cid": "9405712525832528911",
+    "reviewsCount": 57,
+    "reviewsDistribution": {
+      "oneStar": 23,
+      "twoStar": 5,
+      "threeStar": 2,
+      "fourStar": 5,
+      "fiveStar": 22
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.096Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJDzeRX8F-sIkRD6SwabXNh4I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 33,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFMZiQqhqbaXQJvF54hK3-sUOC8_z1x6GCDMV-=w408-h272-k-no",
+    "kgmid": "/g/11c46968vw",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "12750 Jefferson Ave, Newport News, VA 23602",
+    "neighborhood": "Central Newport News",
+    "street": "12750 Jefferson Ave",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-12750+jefferson+ave-newport+news-va-23602/id=6923",
+    "phone": "(757) 833-0339",
+    "phoneUnformatted": "+17578330339",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1385649,
+      "lng": -76.5188005
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b07ec3cd94c42f:0x935896931da552b4",
+    "cid": "10617401680127677108",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 3,
+      "threeStar": 1,
+      "fourStar": 4,
+      "fiveStar": 10
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.096Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJL8SUzcN-sIkRtFKlHZOWWJM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 34,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npgp-RXK01iYuGqzNu-jkYGFMi2qE5vMvlzCA4acwiOQH11S0d2g0DHDcxJ5VO1ThwwI9tme8ZArFP7T0-MVqW9TNJYaJAYtfE1DiS2WY9bpMRxdLVTaQKw8tsBJ1T3fiYLp7Ao-w=w408-h306-k-no",
+    "kgmid": "/g/11cn96r_fj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "600 J Clyde Morris Blvd, Newport News, VA 23601",
+    "neighborhood": "South Newport News",
+    "street": "600 J Clyde Morris Blvd",
+    "city": "Newport News",
+    "postalCode": "23601",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-600+j+clyde+morris+blvd-newport+news-va-23601/id=5175",
+    "phone": "(757) 599-6264",
+    "phoneUnformatted": "+17575996264",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0735772,
+      "lng": -76.4737192
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b0788a026fddfb:0x833586eb3fbf9825",
+    "cid": "9454611337679181861",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 16
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.096Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ-91vAop4sIkRJZi_P-uGNYM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 35,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPdlSkc67w5ckCAYu5Og27cN1BWTVOZG-BxSrCM=w525-h240-k-no",
+    "kgmid": "/g/11cn95tb90",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "12407 Jefferson Ave, Newport News, VA 23602",
+    "neighborhood": "Central Newport News",
+    "street": "12407 Jefferson Ave",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/newport-news-va-sams-club/6351",
+    "phone": "(757) 874-2096",
+    "phoneUnformatted": "+17578742096",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1192846,
+      "lng": -76.5097859
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89b07ed34cf93279:0x97e3dfbd446425fe",
+    "cid": "10944837523429664254",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 5
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:50:35.096Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJeTL5TNN-sIkR_iVkRL3f45c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 36,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOi_wFlDIxcipMWB2dNeWARY1Kj7DJ0PDd29sKJ=w408-h272-k-no",
+    "kgmid": "/g/11b7yq89hf",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Peoples Pharmacy, LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1446 Church St suite c, Norfolk, VA 23504",
+    "neighborhood": "Olde Huntersville",
+    "street": "1446 Church St suite c",
+    "city": "Norfolk",
+    "postalCode": "23504",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://www.peoplespharmacyrx.com/",
+    "phone": "(757) 227-4677",
+    "phoneUnformatted": "+17572274677",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8612411,
+      "lng": -76.2780777
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Diabetes center",
+      "Drug store",
+      "Health consultant",
+      "Holistic medicine practitioner"
+    ],
+    "fid": "0x89ba9822126b458d:0x6eb5df59b00a862b",
+    "cid": "7977527891255264811",
+    "reviewsCount": 49,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:51:53.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Peoples%20Pharmacy%2C%20LLC&query_place_id=ChIJjUVrEiKYuokRK4YKsFnftW4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@37.088240525,-76.49164135000001,10.676635257724952z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonKaTk1DfZ4X0eYKqR8WElA1ZLOImcD7DTLtDiufqNgxrGjREe8AJ_bTW6EYpfzupeiy9XToRBPrsUMqAnO3-l6kql-ngqKbimyS7A8WuznpsRJf925cnaU5tmf6KV351QywlR=w408-h306-k-no",
+    "kgmid": "/g/11g5zvb43l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "12750 Jefferson Ave, Newport News, VA 23602",
+    "neighborhood": "Central Newport News",
+    "street": "12750 Jefferson Ave",
+    "city": "Newport News",
+    "postalCode": "23602",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-12750+jefferson+ave-newport+news-va-23602/id=6923",
+    "phone": "(757) 833-0339",
+    "phoneUnformatted": "+17578330339",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1386284,
+      "lng": -76.5189672
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x89b07ec54c77d1df:0xc9e3cf4927ea75cb",
+    "cid": "14547699134446073291",
+    "reviewsCount": 69,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:51:53.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJ39F3TMV-sIkRy3XqJ0nP48k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newport%20News%20VA/@37.088240525,-76.49164135000001,10.676635257724952z?hl=en",
+    "searchString": "independent pharmacy Newport News VA",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbs-Y4VxBIaUH7E0Rmno0g6d6UKaeY9x7acXpa=w408-h304-k-no",
+    "kgmid": "/g/1wj_6xlr",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

@@ -1,0 +1,2187 @@
+[
+  {
+    "title": "Towncrest Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2306 Muscatine Ave #100, Iowa City, IA 52240",
+    "neighborhood": "Lucas",
+    "street": "2306 Muscatine Ave #100",
+    "city": "Iowa City",
+    "postalCode": "52240",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "http://towncrest.com/",
+    "phone": "(319) 337-3526",
+    "phoneUnformatted": "+13193373526",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6498566,
+      "lng": -91.5010144
+    },
+    "locatedIn": "Towncrest Wellness Apothecary",
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x87e46a402314e67b:0x4bdb038a21c28172",
+    "cid": "5465966464550994290",
+    "reviewsCount": 35,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.300Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Towncrest Wellness Apothecary": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Towncrest%20Pharmacy&query_place_id=ChIJe-YUI0Bq5IcRcoHCIYoD20s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvkubny3wvQ4iNfQMJtKjZvKWBprm7QtSya2Vv_wqQOnp1wSncCCpj5uPDUNIPANVDSbGIgYuAbUeKR0l_No24dyQjMzaV0pRIQq2R3sNA0Bll-iY-YKA40sSywdzJI0Xwoxw4=w408-h270-k-no",
+    "kgmid": "/g/1tksnxwq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Towncrest Wellness Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "901 S 1st Ave South, Iowa City, IA 52240",
+    "neighborhood": "Hoover",
+    "street": "901 S 1st Ave South",
+    "city": "Iowa City",
+    "postalCode": "52240",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.towncrest.com/",
+    "phone": "(319) 688-4386",
+    "phoneUnformatted": "+13196884386",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6503499,
+      "lng": -91.5023612
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87e46a40236e31e7:0x5e740800a0c844d3",
+    "cid": "6806073735654163667",
+    "reviewsCount": 29,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Towncrest%20Wellness%20Apothecary&query_place_id=ChIJ5zFuI0Bq5IcR00TIoAAIdF4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMAsfvtPZwQ2QNv4vwcuW21RtNmpbXoTHt9Vq1u=w408-h306-k-no",
+    "kgmid": "/g/1tdmfff3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hartig Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "701 Mormon Trek Blvd, Iowa City, IA 52246",
+    "neighborhood": "Weber",
+    "street": "701 Mormon Trek Blvd",
+    "city": "Iowa City",
+    "postalCode": "52246",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.hartigdrug.com/",
+    "phone": "(319) 338-5778",
+    "phoneUnformatted": "+13193385778",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6520546,
+      "lng": -91.574552
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Store"
+    ],
+    "fid": "0x87e4416b6470c2f3:0x5e2239b7acbd0bda",
+    "cid": "6783047449813257178",
+    "reviewsCount": 72,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hartig%20Drug&query_place_id=ChIJ88JwZGtB5IcR2gu9rLc5Il4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq324DBvCwxYnt6aRsM-bRPedijdkb3OxXNLtKUTVf6_My2NYjfcPjCN3bb8j0hpIMThQGnYzPSUAV95LcmaAosNUVqkhU0A-Lq1zRl72s50BMXiHwsZVKYlB7IINtM0rDTbE0=w408-h544-k-no",
+    "kgmid": "/g/1tfwkxkn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "NuCara Long Term Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3526 Dolphin Dr SE, Iowa City, IA 52240",
+    "neighborhood": null,
+    "street": "3526 Dolphin Dr SE",
+    "city": "Iowa City",
+    "postalCode": "52240",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.nucara.com/pharmacy/long-term-care",
+    "phone": "(319) 337-8649",
+    "phoneUnformatted": "+13193378649",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6742769,
+      "lng": -91.4569883
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87e46958d91f66a7:0x1af9f2721eee5cd2",
+    "cid": "1943851286146211026",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NuCara%20Long%20Term%20Care%20Pharmacy&query_place_id=ChIJp2Yf2Vhp5IcR0lzuHnLy-Ro",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_DxBuVUjzeuNNxCoY-Yo5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=20.863817&pitch=0&thumbfov=100",
+    "kgmid": "/g/1263mq6bl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2425 Muscatine Ave, Iowa City, IA 52240",
+    "neighborhood": "Lucas",
+    "street": "2425 Muscatine Ave",
+    "city": "Iowa City",
+    "postalCode": "52240",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/iowa-city-ia-pharmacies/2425-muscatine-avenue-iowa-city-ia-52240/storeid=8547?WT.mc_id=LS_GOOGLE_RX_8547",
+    "phone": "(319) 358-1056",
+    "phoneUnformatted": "+13193581056",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6490902,
+      "lng": -91.4998411
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87e46a404dd4bc85:0xcf2a607d3ce65d7c",
+    "cid": "14927850005881838972",
+    "reviewsCount": 12,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJhbzUTUBq5IcRfF3mPH1gKs8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNyBPZaIACShBYzYSVPuacl6rm-JovTiH2qfPLx=w408-h272-k-no",
+    "kgmid": "/g/11c4682ml2",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "812 S 1st Ave, Iowa City, IA 52245",
+    "neighborhood": "Lucas",
+    "street": "812 S 1st Ave",
+    "city": "Iowa City",
+    "postalCode": "52245",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/iowa-city-2-812-s-1st-ave-iowa-city-ia/1285?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "(319) 337-4279",
+    "phoneUnformatted": "+13193374279",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6512783,
+      "lng": -91.500942
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x87e46a6aa508a869:0x717dad3dd54641c",
+    "cid": "511117686216090652",
+    "reviewsCount": 14,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:55.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJaagIpWpq5IcRHGRU3dPaFwc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@21.560804138972333,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjvacIQOG9XqFcsN-nihqCDn8qJliVsjNYkpWB=w408-h408-k-no",
+    "kgmid": "/g/1pty9wtsd",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1029 S Riverside Dr #100, Iowa City, IA 52246",
+    "neighborhood": "Miller-Orchard",
+    "street": "1029 S Riverside Dr #100",
+    "city": "Iowa City",
+    "postalCode": "52246",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1029+s+riverside+dr-iowa+city-ia-52246/id=21250",
+    "phone": "(319) 471-4285",
+    "phoneUnformatted": "+13194714285",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6483265,
+      "lng": -91.5406327
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Doctor",
+      "Medical clinic"
+    ],
+    "fid": "0x87e441cf7179531d:0x245bbed5ed55933e",
+    "cid": "2619897434265195326",
+    "reviewsCount": 6,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJHVN5cc9B5IcRPpNV7dW-WyQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFbSLsznADNhLHwd0MVjN-mXXersE8V0FdjyCj=w427-h240-k-no",
+    "kgmid": "/g/11fnyp6tl2",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "University of Iowa College of Pharmacy",
+    "price": null,
+    "categoryName": "Faculty of pharmacy",
+    "address": "180 S Grand Ave, Iowa City, IA 52242",
+    "neighborhood": "Roosevelt",
+    "street": "180 S Grand Ave",
+    "city": "Iowa City",
+    "postalCode": "52242",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://pharmacy.uiowa.edu/",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6596036,
+      "lng": -91.5454057
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Faculty of pharmacy",
+      "College"
+    ],
+    "fid": "0x87e44191e790cee9:0x83e61682c91d90a5",
+    "cid": "9504308814587728037",
+    "reviewsCount": 11,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=University%20of%20Iowa%20College%20of%20Pharmacy&query_place_id=ChIJ6c6Q55FB5IcRpZAdyYIW5oM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYlTWhsSKcxYgZNdjP1AVG6Fx2pQCaIMt8wklJ=w426-h240-k-no",
+    "kgmid": "/g/11fktdyltw",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Iowa River Landing Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "105 E 9th St A, Coralville, IA 52241",
+    "neighborhood": "Iowa River Landing",
+    "street": "105 E 9th St A",
+    "city": "Coralville",
+    "postalCode": "52241",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://uihc.org/locations/iowa-river-landing/pharmacy-iowa-river-landing",
+    "phone": "(319) 467-2050",
+    "phoneUnformatted": "+13194672050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6821869,
+      "lng": -91.5641366
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87e443ce6b776301:0xab7aed184c3398b5",
+    "cid": "12356449216257824949",
+    "reviewsCount": 32,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Iowa%20River%20Landing%20Pharmacy&query_place_id=ChIJAWN3a85D5IcRtZgzTBjteqs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq4ivYfl093NuuScF6VmqgHJ4wKmNHLDkcbZ0hAbGo8aqjhfLrFCh8VWMQ8LuTlkrrpNkp30m_kd1BViZwpnN2Qrx6Gk0oOkBVmoiKvOkkEJ9SZh-EdA1vWNEvZzv68MPTMhzP=w408-h306-k-no",
+    "kgmid": "/g/11c5gcb82l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2214 Muscatine Ave, Iowa City, IA 52240",
+    "neighborhood": "Hoover",
+    "street": "2214 Muscatine Ave",
+    "city": "Iowa City",
+    "postalCode": "52240",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2214+muscatine+ave-iowa+city-ia-52240/id=5077",
+    "phone": "(319) 354-2670",
+    "phoneUnformatted": "+13193542670",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6499759,
+      "lng": -91.5028444
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87e46a6ac02a4efd:0x43bc895090e13dab",
+    "cid": "4880927075283844523",
+    "reviewsCount": 20,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ_U4qwGpq5IcRqz3hkFCJvEM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNo3ndKUKVVfmhHZHf1KEUsx01ISI14780Eo-uG=w525-h240-k-no",
+    "kgmid": "/g/11cn96d21p",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1125 N Dodge St, Iowa City, IA 52245",
+    "neighborhood": "Shimek",
+    "street": "1125 N Dodge St",
+    "city": "Iowa City",
+    "postalCode": "52245",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/iowa-city-3-1125-n-dodge-st-iowa-city-ia/1288?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "(319) 337-6310",
+    "phoneUnformatted": "+13193376310",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6765943,
+      "lng": -91.5188983
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x87e469fc5d9b0a21:0x4a0cac20a002710d",
+    "cid": "5335828914650640653",
+    "reviewsCount": 14,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJIQqbXfxp5IcRDXECoCCsDEo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVCzq4qTHkGt2lkgbx-7WIn6QZIIdlJNHK00-U=w408-h408-k-no",
+    "kgmid": "/g/11c1ngnmrj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Spring City Pharmacy LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "101 N Walnut St, Colfax, IA 50054",
+    "neighborhood": null,
+    "street": "101 N Walnut St",
+    "city": "Colfax",
+    "postalCode": "50054",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.springcityrx.com/",
+    "phone": "(515) 674-3784",
+    "phoneUnformatted": "+15156743784",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6777852,
+      "lng": -93.2455303
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Drug store",
+      "Store"
+    ],
+    "fid": "0x87eee5d2f4d5f691:0x1d046790de3083e2",
+    "cid": "2090909998907425762",
+    "reviewsCount": 14,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spring%20City%20Pharmacy%20LLC&query_place_id=ChIJkfbV9NLl7ocR4oMw3pBnBB0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNm_0X2dKeVlWVhJjSjyrhvRGA3_JeOGruoQWjO=w408-h307-k-no",
+    "kgmid": "/g/11rz7wqtmn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "310 N 1st Ave, Iowa City, IA 52245",
+    "neighborhood": "Hoover",
+    "street": "310 N 1st Ave",
+    "city": "Iowa City",
+    "postalCode": "52245",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/iowa-city-drugstore-310-n-1st-ave-iowa-city-ia/7042?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "(319) 351-2921",
+    "phoneUnformatted": "+13193512921",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6659941,
+      "lng": -91.5014295
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x87e46bad4fa90321:0x21148b266c773e53",
+    "cid": "2383683099930607187",
+    "reviewsCount": 3,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:55:56.715Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJIQOpT61r5IcRUz53bCaLFCE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMA92iJJ6izV3wVQwFVtQ_XA3_07ntkwgzI6oqs=w408-h408-k-no",
+    "kgmid": "/g/11r6zc1c9f",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dutch Mill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "104 Albany Ave NE, Orange City, IA 51041",
+    "neighborhood": null,
+    "street": "104 Albany Ave NE",
+    "city": "Orange City",
+    "postalCode": "51041",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "http://www.dutchmillpharmacy.com/",
+    "phone": "(712) 737-4844",
+    "phoneUnformatted": "+17127374844",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 43.0068323,
+      "lng": -96.0572268
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878db54fe7a2d73b:0xe458e24035f736eb",
+    "cid": "16454150004009285355",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:56:08.350Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dutch%20Mill%20Pharmacy&query_place_id=ChIJO9ei50-1jYcR6zb3NUDiWOQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@48.27430768932854,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqN2d7OjmhoS0EZ7QBn_AhgX01y5OF5LyWYHx_uDSv-9ZNjFWDzyPfQswzGB03xSOtDLuEz90yywfGw3KT9nBtBSiw3zvKErw_w6hOiuLicuIukvD60d95QDqLj4oowb0ptoXUAQA=w408-h306-k-no",
+    "kgmid": "/g/1tg874dq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "NuCara Pharmacy - Coralville, IA",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1900 James St #10, Coralville, IA 52241",
+    "neighborhood": "Weber",
+    "street": "1900 James St #10",
+    "city": "Coralville",
+    "postalCode": "52241",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.nucara.pharmacy/coralville-ia",
+    "phone": "(319) 354-6006",
+    "phoneUnformatted": "+13193546006",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6779251,
+      "lng": -91.5903739
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x87e443e747f89be7:0x9a16b0a2a538245f",
+    "cid": "11103256143931647071",
+    "reviewsCount": 19,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:56:56.579Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NuCara%20Pharmacy%20-%20Coralville%2C%20IA&query_place_id=ChIJ55v4R-dD5IcRXyQ4paKwFpo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBir2yXetIjMddoJbkwJK-D8d3jfLraK2ZJyJd=w408-h306-k-no",
+    "kgmid": "/g/1tctg4s7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Summit Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "300 W Burlington Ave, Fairfield, IA 52556, United States",
+    "neighborhood": null,
+    "street": "300 W Burlington Ave",
+    "city": "Fairfield",
+    "postalCode": "52556",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.summitpharmacyia.com/",
+    "phone": "+1 641-472-7987",
+    "phoneUnformatted": "+16414727987",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.0063402,
+      "lng": -91.9666337
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Chemist",
+      "Vitamin & Supplements Shop"
+    ],
+    "fid": "0x87e6670421f62535:0x28d92245b08f377e",
+    "cid": "2943421514173593470",
+    "reviewsCount": 47,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:57:06.688Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Summit%20Pharmacy&query_place_id=ChIJNSX2IQRn5ocRfjePsEUi2Sg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@39.68245004733214,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOOOhOu7JRrq9pZBu7lrEcSFG__Xclmayit1ChE=w408-h272-k-no",
+    "kgmid": "/g/11hny5mtd3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Independent Pharmacy Cooperative",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1550 Columbus St, Sun Prairie, WI 53590",
+    "neighborhood": null,
+    "street": "1550 Columbus St",
+    "city": "Sun Prairie",
+    "postalCode": "53590",
+    "state": "Wisconsin",
+    "countryCode": "US",
+    "website": "http://www.ipcrx.com/",
+    "phone": "(608) 478-1099",
+    "phoneUnformatted": "+16084781099",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.2027271,
+      "lng": -89.1986416
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8806f65a914ebcdb:0x4e72c11b04f7bca4",
+    "cid": "5652792804095016100",
+    "reviewsCount": 8,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:58:18.926Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Independent%20Pharmacy%20Cooperative&query_place_id=ChIJ27xOkVr2BogRpLz3BBvBck4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Iowa%20City%20IA/@42.54640259466427,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Iowa City IA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNLzHLLzBYniMN3h_l3k_Y6pJZlQ10SXl_R2rUp=w720-h240-k-no",
+    "kgmid": "/g/1tdz9_6r",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

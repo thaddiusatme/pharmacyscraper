@@ -1,166 +1,82 @@
-# Independent Pharmacy Verification Project
-## Complete Project Digest
+# Pharmacy Scraper: Project Digest & Architecture
 
-### 📋 Project Overview
-**Client**: Pharmacy mailing list verification  
-**Budget**: $350  
-**Timeline**: 3-4 days  
+This document provides a technical overview of the Independent Pharmacy Verification project, detailing its architecture, key components, and operational strategy.
+
+### Project Goals
+**Client**: Pharmacy mailing list verification
+**Budget**: $350
+**Timeline**: 3-4 days
 **Deliverable**: Verified list of 1,250 independent pharmacies (25 per state) with mailing addresses
 
-## 🎯 Latest Updates (June 2024)
+---
 
-### ✅ Perplexity Client & Classification System
-- **Test Coverage**: Achieved 83% test coverage for Perplexity client
-- **Edge Case Handling**: Added comprehensive tests for error scenarios and invalid inputs
-- **Verification System**: Integrated Google Places API for address validation
-  - 90% verification success rate
-  - Average confidence score: 0.924
-  - 7/10 perfect matches with 1.000 confidence
-- **Phoenix Trial**: Successfully tested end-to-end pipeline with Phoenix, AZ data
+## 1. Core Architecture: A Multi-Phase Pipeline
 
-### 🚀 Pipeline Improvements
-- **End-to-End Testing**: Verified complete workflow from collection to verification
-- **Error Handling**: Enhanced robustness with proper error handling and retries
-- **Documentation**: Updated project documentation and test coverage reports
+The project is built around a sequential, multi-phase data processing pipeline orchestrated by `scripts/run_pipeline.py`. This design ensures that data flows through distinct stages of collection, cleaning, and analysis in a controlled and reproducible manner.
+
+**Pipeline Stages:**
+1.  **Phase 1: Data Collection**: Raw pharmacy data is collected from Google Maps using the Apify platform. Search queries are dynamically generated based on the active configuration file.
+2.  **Phase 1.5: Deduplication**: The raw dataset is processed to remove duplicate entries based on unique identifiers like `placeId` and `title`, ensuring data integrity.
+3.  **Phase 2a: Classification**: Each unique pharmacy record is classified as either "chain" or "independent" using a hybrid system that combines rule-based logic and a Perplexity API-powered language model.
+4.  **Phase 2b: Verification (Optional)**: Address and operational status are verified via the Google Places API. This is an optional, costly step that can be skipped for initial large-scale runs.
 
 ---
 
-## 🚀 Latest Trial Run Results (June 2024)
+## 2. Key Components
 
-### ✅ Successfully Fixed and Optimized
-**Issue Resolved**: Apify actor input validation errors causing 400 Bad Request failures
-**Root Cause**: Invalid `allPlacesNoSearchAction: "false"` field value
-**Solution**: Changed to empty string `""` to match actor requirements
+### a. Orchestration & Execution (`scripts/`)
+-   **`run_pipeline.py`**: The main entry point for the entire pipeline. It parses command-line arguments, manages configuration, and calls the various processing modules in sequence.
+-   **`apify_collector.py`**: A dedicated module responsible for interfacing with the Apify API, executing actor runs, and retrieving results.
 
-### 📊 Trial Results Summary
-- **Total Collected**: 39 independent pharmacies
-- **California**: 19 pharmacies (Los Angeles: 10, San Francisco: 10) 
-- **Texas**: 20 pharmacies (Austin: 10, Houston: 10)
-- **Success Rate**: 100% (all actor calls succeeded)
-- **Credit Usage**: Controlled and predictable with optimization
+### b. Core Logic (`src/`)
 
-### 🔧 Optimizations Implemented
-- **Cost Control**: Added `forceExit: true` and `maxCrawledPlacesPerSearch` limits
-- **Configuration**: Updated `trial_config.json` with `max_results_per_query: 13`
-- **Performance**: Eliminated all 400 error responses
-- **Data Quality**: Focused on independent pharmacies, filtered out chains
+#### `src/classification/` - AI-Powered Classification
+- **Purpose**: Distinguishes independent pharmacies from chains.
+- **`classifier.py`**: Main engine using a hybrid LLM (Perplexity) and rule-based approach. Features batch processing and caching.
+- **`perplexity_client.py`**: Manages Perplexity API interaction with rate limiting, retry logic, and error handling.
+- **`cache.py`**: Provides a persistent, TTL-based file cache to minimize API costs and improve performance.
 
-### 🎯 Trial Run Command
-```bash
-APIFY_ACTOR_ID=nwua9Gu5YrADL7ZDj python scripts/run_trial.py
-```
+#### `src/dedup_self_heal/` - Data Quality & Gap-Filling
+- **Purpose**: Ensures data quality and automatically fills gaps in under-populated states.
+- **`dedup.py`**: Implements smart deduplication, identifies states with insufficient data, and triggers a "self-healing" process to collect more.
+- **`apify_integration.py`**: Handles the targeted Apify scraper calls required for the self-healing process.
 
-**Output**: Results saved to `data/trial_results/` with combined and per-city JSON files
+#### `src/verification/` - Address Verification
+- **Purpose**: Provides address and operational status verification.
+- **`google_places.py`**: Integrates with the Google Places API to verify pharmacy data.
 
----
+#### `src/utils/` - Shared Utilities
+- **Purpose**: Provides project-wide utilities.
+- **`api_usage_tracker.py`**: A critical component for budget management, tracking API credit usage in real-time and preventing budget overruns.
 
-## TDD Implementation Status
-
-### ✅ Completed with TDD
-1. **Classification System**
-   - Perplexity client with rate limiting and caching
-   - Comprehensive test suite with 83% coverage
-   - Edge case handling for API failures and invalid inputs
-   - Integration with Google Places verification
-
-2. **Apify Collector**
-   - Enhanced test coverage with proper mocking
-   - Fixed actor.call() signature handling
-   - Improved test isolation and reliability
-   - Added support for structured location-based queries
-   - Fixed configuration format handling
-
-2. **Perplexity API Client**
-   - Implemented with retry logic and rate limiting
-   - Comprehensive test coverage for success/error cases
-   - Mocked API responses for reliable testing
-
-2. **Caching Layer**
-   - TTL and size-based eviction
-   - File-based persistence
-   - Tested cache hit/miss behavior
-   - Verified cache persistence between runs
-
-3. **Classifier Integration**
-   - Batch processing with progress tracking
-   - Rule-based fallback classification
-   - Test coverage for all major scenarios
-   - Error handling and logging
-
-### 🔄 In Progress
-- Full test suite integration
-- Documentation updates
-- Performance optimization
+### c. Configuration (`config/`)
+-   **`trial_config.json`**: For small-scale tests and debugging.
+-   **`five_state_run.json`**: A medium-scale configuration for controlled, cost-effective test runs.
+-   **`large_scale_run.json`**: The full 50-state configuration for comprehensive national data collection.
 
 ---
 
-## 🧠 Core Modules (`src/` Package)
+## 3. Operational Strategy
 
-### 📊 Classification System (`src/classification/`)
-**Purpose**: AI-powered and rule-based pharmacy classification to distinguish independent pharmacies from chains
+To ensure robust and cost-effective data collection, the following operational best practices have been implemented:
 
-#### `classifier.py` - Main Classification Engine
-- **Hybrid Approach**: Combines LLM-based (Perplexity API) and rule-based classification
-- **Caching**: Integrated caching system to minimize API costs and improve performance
-- **Batch Processing**: `batch_classify_pharmacies()` for efficient bulk classification
-- **Fallback Logic**: Rule-based classifier serves as backup when LLM fails
-- **Key Functions**:
-  - `classify_pharmacy()` - Single pharmacy classification with caching
-  - `rule_based_classify()` - Fast rule-based classification using chain identifiers
-  - `batch_classify_pharmacies()` - Process multiple pharmacies efficiently
+-   **Phased Rollout**: New features and large-scale runs are first tested on a small scale (e.g., the 5-state run) to validate performance and estimate costs before full deployment.
+-   **Persistent Logging**: All pipeline runs generate a detailed log file (e.g., `data/five_state_results/pipeline.log`), capturing all actions, API calls, and errors for debugging and auditing.
+-   **Uninterrupted Execution**: On macOS, the `caffeinate` utility is used to prevent the system from sleeping during long-running jobs, ensuring the pipeline runs to completion without interruption.
 
-#### `perplexity_client.py` - LLM Integration
-- **Perplexity API Client**: Professional LLM service for accurate pharmacy classification
-- **Rate Limiting**: Built-in request throttling to respect API limits
-- **Retry Logic**: Automatic retry with exponential backoff for failed requests
-- **Error Handling**: Comprehensive error handling for network/API issues
-- **Token Optimization**: Efficient prompt engineering to minimize token usage
+---
 
-#### `cache.py` - Performance Optimization
-- **TTL Cache**: Time-based cache expiration to ensure data freshness
-- **File Persistence**: Cache survives across application restarts
-- **Size Management**: Automatic cache eviction when size limits exceeded
-- **Hit/Miss Tracking**: Built-in analytics for cache performance monitoring
+## 4. Recent Milestones (June 2024)
 
-### 🔄 Deduplication & Self-Healing (`src/dedup_self_heal/`)
-**Purpose**: Intelligent data quality management and automatic gap-filling
+### System Enhancements
+- **End-to-End Testing**: Verified the complete workflow from data collection to verification.
+- **Test-Driven Development**: Implemented key modules like the Classification System, Apify Collector, and Caching Layer using a TDD approach, achieving high test coverage (e.g., 83% for the Perplexity client).
+- **Address Verification Success**: The Google Places integration has demonstrated a 90% verification success rate in trials with a high average confidence score of 0.924.
 
-#### `dedup.py` - Core Deduplication Logic
-- **Smart Deduplication**: Removes duplicate pharmacies while preserving highest confidence entries
-- **State Grouping**: Organizes pharmacies by state for targeted processing
-- **Gap Detection**: Identifies states with insufficient pharmacy counts
-- **Self-Healing**: Automatically triggers additional data collection for under-filled states
-- **City-Based Strategy**: Uses major cities for targeted scraping when states need more pharmacies
-- **Key Functions**:
-  - `process_pharmacies()` - Main orchestration function
-  - `remove_duplicates()` - Advanced duplicate detection and removal
-  - `identify_underfilled_states()` - Gap analysis for state-level targets
-  - `self_heal_state()` - Automatic pharmacy discovery for specific states
-  - `merge_new_pharmacies()` - Intelligent merging of new data with existing
-
-#### `apify_integration.py` - Scraper Integration
-- **Apify Actor Management**: Handles Google Maps scraper actor calls
-- **Query Optimization**: Constructs effective search queries for specific cities
-- **Result Processing**: Converts raw Apify results to standardized pharmacy data
-- **Error Recovery**: Robust error handling for failed scraping attempts
-- **Cost Control**: Integrated with credit tracking to manage budget
-
-### 🛠️ Utilities (`src/utils/`)
-
-#### `api_usage_tracker.py` - Budget Management
-- **Credit Tracking**: Real-time monitoring of API credit consumption
-- **Budget Enforcement**: Prevents operations that would exceed budget limits
-- **Daily Limits**: Optional daily spending caps for cost control
-- **Usage Analytics**: Detailed logging and reporting of API usage patterns
-- **Global Instance**: `default_tracker` for easy project-wide integration
-- **Key Features**:
-  - `CreditLimitExceededError` - Exception for budget overruns
-  - Daily and total budget tracking
-  - Automatic usage logging and persistence
-
-### ⚙️ Configuration (`src/config.py` & `src/__init__.py`)
-- **Package Configuration**: Central configuration management
-- **API Exports**: Clean interface for accessing classification functions
+### Trial Run Optimization
+- **Apify Actor Fixes**: Resolved 400 Bad Request errors by fixing invalid input parameters (`allPlacesNoSearchAction`).
+- **Cost Control**: Optimized credit usage by implementing `forceExit` and search limits in Apify actor calls.
+- **Successful Trial**: A trial run across 4 cities in California and Texas successfully collected 39 independent pharmacies, validating the cost control measures.
 - **Version Management**: Package versioning and metadata
 - **Backward Compatibility**: Maintains compatibility with existing scripts
 

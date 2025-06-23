@@ -12,6 +12,7 @@ import hashlib
 import re
 from pathlib import Path
 from typing import Dict, List, Optional, Union, Any, Tuple
+
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -22,11 +23,12 @@ from tenacity import (
 import openai
 from openai import OpenAI
 from src.config import get_config
-from src.classification.cache import cache_wrapper
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+
 
 class RateLimiter:
     """A simple rate limiter to control the frequency of API calls."""
@@ -59,289 +61,395 @@ class PerplexityAPIError(Exception):
     def __init__(self, message, error_type="api_error"):
         self.message = message
         self.error_type = error_type
-        super().__init__(self.message)
+        super().__init__(f"[{self.error_type}] {self.message}")
 
-class RateLimitError(PerplexityAPIError):
-    """Raised when the rate limit is exceeded."""
-    def __init__(self, message="Rate limit exceeded"):
-        super().__init__(message, "rate_limit")
-
-class InvalidRequestError(PerplexityAPIError):
-    """Raised when the API request is invalid."""
-    def __init__(self, message="Invalid request"):
-        super().__init__(message, "invalid_request")
-
-class ResponseParseError(PerplexityAPIError):
-    """Raised when the API response cannot be parsed."""
-    def __init__(self, message="Failed to parse API response"):
-        super().__init__(message, "response_parsing")
 
 class PerplexityClient:
     """
-    A client for interacting with the Perplexity API with rate limiting and caching.
+    A client for the Perplexity API, designed for pharmacy classification.
+
+    This client handles API requests, rate limiting, and file-based caching
+    of classification results.
     """
-    
+
     def __init__(
-        self, 
-        model: str = "sonar-pro",
-        rate_limit: int = 60,  
-        max_retries: int = 3,
-        temperature: float = 0.1,
-        max_tokens: int = 500,
+        self,
         api_key: Optional[str] = None,
-        cache_ttl: int = 300,  
-        cache_dir: Optional[Path] = None):
-        """Initializes the Perplexity API client.
+        model_name: Optional[str] = None,
+        rate_limit: int = 20,
+        cache_dir: Optional[str] = "data/cache/classification"
+    ):
+        """
+        Initializes the PerplexityClient.
 
         Args:
-            model: The model to use for classification.
+            api_key: The Perplexity API key. If None, it's read from PERPLEXITY_API_KEY env var.
+            model_name: The model to use for classification.
             rate_limit: The number of requests per minute to allow.
-            max_retries: The maximum number of retries for a request.
-            temperature: The sampling temperature for the model.
-            max_tokens: The maximum number of tokens to generate.
-            api_key: The Perplexity API key. If not provided, it will be read from
-                the PERPLEXITY_API_KEY environment variable.
-            cache_ttl: The time-to-live for cache entries in seconds.
-            cache_dir: The directory to store cache files.
+            cache_dir: The directory to store cache files. Caching is disabled if None.
         """
-        config = get_config()
-        self.api_key = api_key or config.get("PERPLEXITY_API_KEY")
+        self.api_key = api_key or os.getenv("PERPLEXITY_API_KEY")
+        
+        # Debug logging to track API key assignment
+        logger.debug(f"PerplexityClient constructor - api_key param: {type(api_key)} = {api_key}")
+        logger.debug(f"PerplexityClient constructor - os.getenv result: {type(os.getenv('PERPLEXITY_API_KEY'))} = {os.getenv('PERPLEXITY_API_KEY', 'NOT_FOUND')}")
+        logger.debug(f"PerplexityClient constructor - self.api_key final: {type(self.api_key)} = {self.api_key}")
+        
         if not self.api_key:
-            raise ValueError("Perplexity API key not provided or found in environment.")
+            raise ValueError("Perplexity API key not found. Set PERPLEXITY_API_KEY environment variable.")
 
-        self.model = model
-        self.max_retries = max_retries
-        self.temperature = temperature
-        self.max_tokens = max_tokens
+        config = get_config()
+        self.model = model_name or config.get("perplexity_model", "sonar")
+        
+        self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
-        self.client = openai.OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
-
-        self.cache_ttl = cache_ttl
-
-        # Initialize cache
-        self.cache = None
-
-        logger.info(f"Initialized PerplexityClient with model {self.model} and rate limit {rate_limit} RPM")
-    
-    def _parse_response(self, response: Any) -> Optional[Dict[str, Any]]:
-        """Parses the response from the Perplexity API."""
-        if not response:
-            return None
-
-        try:
-            # Handle both mocked test responses and real API responses
-            if isinstance(response, dict) and 'text' in response:
-                content = response['text']
-            elif hasattr(response, 'choices') and response.choices:
-                content = response.choices[0].message.content
-            else:
-                logger.error(f"Unexpected response format: {response}")
-                return None
-
-            # Extract JSON from markdown code blocks if present
-            match = re.search(r'```json\n(.*?)\n```', content, re.DOTALL)
-            if match:
-                json_str = match.group(1)
-            else:
-                # Handle sonar-pro format: JSON followed by explanation text
-                # Find the first complete JSON object
-                content = content.strip()
-                if content.startswith('{'):
-                    # Find the end of the JSON object by counting braces
-                    brace_count = 0
-                    json_end = 0
-                    for i, char in enumerate(content):
-                        if char == '{':
-                            brace_count += 1
-                        elif char == '}':
-                            brace_count -= 1
-                            if brace_count == 0:
-                                json_end = i + 1
-                                break
-                    json_str = content[:json_end]
-                else:
-                    json_str = content
         
-            return json.loads(json_str)
-        except (json.JSONDecodeError, AttributeError, IndexError) as e:
-            logger.error(f"Failed to parse API response: {e}\nContent: {content}")
-            return None
+        self.cache_dir = Path(cache_dir) if cache_dir else None
+        if self.cache_dir:
+            self.cache_dir.mkdir(parents=True, exist_ok=True)
+            logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
+        else:
+            logger.info("PerplexityClient caching is disabled.")
 
-    def _generate_cache_key(self, pharmacy_data: Dict[str, Any], model: str) -> str:
-        """Generate a consistent cache key for a pharmacy and model."""
-        import json
-        import hashlib
-        
-        # Create a stable string representation of the pharmacy data
-        data_str = json.dumps(pharmacy_data, sort_keys=True)
-        # Combine with model name and hash
-        key_str = f"{data_str}:{model}"
-        return hashlib.md5(key_str.encode('utf-8')).hexdigest()
-    
-    def _make_request(self, messages, model=None, **kwargs):
-        """Make an API request with retry and rate limiting.
-        
-        Args:
-            messages: List of message dictionaries for the chat completion.
-            model: The model to use for the request. Uses instance model if None.
-            **kwargs: Additional arguments to pass to the API.
-            
-        Returns:
-            The API response.
-            
-        Raises:
-            RateLimitError: If rate limited and retries are exhausted.
-            PerplexityAPIError: For other API errors.
-        """
-        model = model or self.model
-        last_exception = None
-        
-        for attempt in range(self.max_retries + 1):
-            try:
-                # Apply rate limiting
-                if self.rate_limiter:
-                    self.rate_limiter.wait()
-                
-                # Make the API call
-                response = self.client.chat.completions.create(
-                    model=model,
-                    messages=messages,
-                    temperature=self.temperature,
-                    max_tokens=self.max_tokens,
-                    **kwargs
-                )
-                
-                return response
-                
-            except Exception as e:
-                last_exception = e
-                if attempt == self.max_retries:
-                    break
-                    
-                # Check if this is a rate limit error
-                if "rate limit" in str(e).lower() or "too many" in str(e).lower():
-                    # Exponential backoff
-                    sleep_time = 2 ** attempt
-                    time.sleep(sleep_time)
-                else:
-                    # For other errors, just retry after the base delay
-                    time.sleep(1)
-        
-        # If we get here, all retries failed
-        if "rate limit" in str(last_exception).lower() or "too many" in str(last_exception).lower():
-            raise RateLimitError(f"Rate limited after {self.max_retries} retries: {last_exception}")
-        raise PerplexityAPIError(f"API request failed after {self.max_retries} retries: {last_exception}")
-
-    def _rate_limit_retry(self):
-        """Create a retry decorator with rate limiting."""
-        return retry(
-            stop=stop_after_attempt(3),
-            wait=wait_exponential(multiplier=1, min=4, max=10),
-            retry=retry_if_exception_type((
-                openai.RateLimitError,
-                openai.APITimeoutError,
-                openai.APIConnectionError
-            )),
-            before_sleep=before_sleep_log(logger, logging.WARNING),
-            reraise=True
-        )
-    
-    def _call_api(self, prompt: str) -> Dict[str, Any]:
-        """Make an API call to Perplexity with retry logic."""
-        @self._rate_limit_retry()
-        def _make_api_call():
-            response = self._make_request(
-                messages=[
-                    {"role": "system", "content": "You are a helpful assistant."},
-                    {"role": "user", "content": prompt}
-                ]
-            )
-            return self._parse_response(response)
-            
-        try:
-            return _make_api_call()
-        except Exception as e:
-            logger.error(f"Error calling Perplexity API: {e}")
-            raise
-    
-    @cache_wrapper
     def classify_pharmacy(self, pharmacy_data: Dict[str, Any], model: Optional[str] = None) -> Optional[Dict[str, Any]]:
-        """Classify a pharmacy using the Perplexity API."""
-        current_model = model or self.model
-        cache_key = self._generate_cache_key(pharmacy_data, current_model)
+        """
+        Classifies a single pharmacy using the Perplexity API, with caching.
 
-        logger.info(f"Cache miss for pharmacy: {pharmacy_data.get('name', 'N/A')}. Calling API.")
+        Args:
+            pharmacy_data: A dictionary containing the pharmacy's details.
+            model: The classification model to use.
+
+        Returns:
+            A dictionary with the classification results or None if an error occurs.
+        """
+        model_to_use = model or self.model
+
+        if not self.cache_dir:
+            logger.debug("Cache is disabled, calling API directly.")
+            return self._make_api_call(pharmacy_data, model_to_use)
+
+        cache_key = _generate_cache_key(pharmacy_data, model_to_use)
+        cache_file = self.cache_dir / f"{cache_key}.json"
+
+        # Check if cache file exists and is valid
+        if cache_file.exists():
+            try:
+                with open(cache_file, 'r') as f:
+                    cached_result = json.load(f)
+                logger.info(f"CACHE HIT for pharmacy: {pharmacy_data.get('title', 'N/A')}")
+                return cached_result  # Success: return cached data
+            except (json.JSONDecodeError, IOError) as e:
+                # Corrupt file: log and proceed to re-fetch
+                logger.warning(f"Failed to read cache file {cache_file}: {e}. Re-fetching.")
+
+        # Cache MISS (file doesn't exist or was corrupt)
+        logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+        result = self._make_api_call(pharmacy_data, model_to_use)
+
+        # Write to cache if the API call was successful
+        if result:
+            try:
+                self.cache_dir.mkdir(parents=True, exist_ok=True)
+                with open(cache_file, 'w') as f:
+                    json.dump(result, f, indent=4)
+                logger.debug(f"SUCCESS: Wrote result to cache file: {cache_file}")
+            except IOError as e:
+                logger.error(f"Failed to write to cache file {cache_file}: {e}")
+
+        return result    
+        
+    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str) -> Optional[Dict[str, Any]]:
+        """
+        Makes the actual API call to Perplexity.
+        """
+        pharmacy_name = pharmacy_data.get('title') or pharmacy_data.get('name', 'Unknown')
+        logger.info(f"Making Perplexity API call for pharmacy: {pharmacy_name}")
+        
+        self.rate_limiter.wait()
         prompt = self._generate_prompt(pharmacy_data)
         
+        logger.debug(f"Generated prompt for {pharmacy_name}: {prompt[:200]}...")
+        
         try:
-            # Use the higher-level helper that wraps message construction so the
-            # payload matches the OpenAI-compatible schema expected by the
-            # Perplexity endpoint.
-            parsed_data = self._call_api(prompt)
-
-            return parsed_data
-        except PerplexityAPIError as e:
-            logger.error(f"Error classifying pharmacy {pharmacy_data.get('name', 'N/A')}: {e}")
-            raise
+            logger.debug(f"API Key prefix in use: {self.api_key[:15] if isinstance(self.api_key, str) and self.api_key else 'No API key'}...")
+            logger.debug(f"Base URL: {self.client.base_url}")
+            logger.debug(f"Model: {model}")
+            
+            response = self.client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": "You are an expert pharmacy classifier. Respond in JSON format."},
+                    {"role": "user", "content": prompt},
+                ],
+                # Use simpler response format that's supported by Perplexity
+                temperature=0.1,  # Low temperature for consistent results
+                max_tokens=200,   # Limit response length
+            )
+            
+            logger.info(f"Perplexity API call successful for {pharmacy_name}, parsing response...")
+            result = self._parse_response(response)
+            
+            if result and isinstance(result, dict):
+                logger.info(f"✅ Successfully classified {pharmacy_name}: {result.get('classification', 'unknown')}")
+            else:
+                logger.error(f"❌ Failed to parse response for {pharmacy_name}")
+            
+            return result
+            
         except Exception as e:
-            logger.error(f"An unexpected error occurred while classifying {pharmacy_data.get('name', 'N/A')}: {e}")
+            logger.error(f"Perplexity API error for pharmacy '{pharmacy_name}': {e}")
+            
+            # Add detailed stack trace for subscriptable errors
+            if "not subscriptable" in str(e):
+                import traceback
+                logger.error(f"SUBSCRIPTABLE ERROR STACK TRACE:")
+                logger.error(traceback.format_exc())
+            
+            # Capture detailed information about 401 errors
+            if hasattr(e, 'response') and hasattr(e.response, 'status_code'):
+                if e.response.status_code == 401:
+                    logger.error(f"401 Unauthorized Details:")
+                    logger.error(f"  Request URL: {getattr(e.response, 'url', 'Unknown')}")
+                    logger.error(f"  Request headers: {getattr(e.response.request, 'headers', 'Unknown') if hasattr(e.response, 'request') else 'Unknown'}")
+                    logger.error(f"  Response headers: {getattr(e.response, 'headers', 'Unknown')}")
+                    logger.error(f"  Response text: {getattr(e.response, 'text', 'Unknown')}")
+            
+            return None
+
+    def _parse_response(self, response: object) -> Optional[Dict[str, Any]]:
+        """Parse the response from the Perplexity API, handling both JSON and text responses."""
+        try:
+            # Log the full raw response structure
+            logger.debug(f"Raw Perplexity API response object: {response}")
+            logger.debug(f"Response type: {type(response)}")
+            
+            if not hasattr(response, 'choices') or not response.choices:
+                logger.error("Response missing choices or choices is empty")
+                return None
+                
+            choice = response.choices[0]
+            if not hasattr(choice, 'message') or not hasattr(choice.message, 'content'):
+                logger.error("Response choice missing message or content attribute")
+                return None
+                
+            content = choice.message.content
+            logger.info(f"Raw response content: {content}")
+            
+            # Extract JSON from code blocks if present
+            json_content = content
+            if "```json" in content:
+                # Extract content between ```json and next ```
+                start_marker = "```json"
+                end_marker = "```"
+                start_idx = content.find(start_marker)
+                if start_idx != -1:
+                    start_idx += len(start_marker)
+                    end_idx = content.find(end_marker, start_idx)
+                    if end_idx != -1:
+                        json_content = content[start_idx:end_idx].strip()
+                        logger.debug(f"Extracted JSON from code blocks: {json_content}")
+                    else:
+                        logger.warning("Found ```json but no closing ```, trying to extract JSON directly")
+                else:
+                    # Try to find any code block
+                    start_idx = content.find("```")
+                    if start_idx != -1:
+                        start_idx += 3
+                        end_idx = content.find("```", start_idx)
+                        if end_idx != -1:
+                            json_content = content[start_idx:end_idx].strip()
+                            logger.debug(f"Extracted JSON from generic code blocks: {json_content}")
+            
+            # Try to parse JSON
+            try:
+                data = json.loads(json_content)
+                logger.debug(f"Parsed JSON data: {data}")
+                
+                # Validate required fields
+                required_fields = ["classification", "is_compounding", "confidence"]
+                if not all(field in data for field in required_fields):
+                    missing = [f for f in required_fields if f not in data]
+                    raise ValueError(f"Missing required fields: {missing}")
+                    
+                # Validate classification value
+                if data["classification"] not in ["independent", "chain", "hospital", "not_a_pharmacy"]:
+                    raise ValueError(f"Invalid classification value: {data['classification']}")
+                    
+                # Ensure confidence is a number between 0 and 1
+                try:
+                    confidence = float(data["confidence"])
+                    if not 0 <= confidence <= 1:
+                        raise ValueError(f"Confidence {confidence} out of range [0, 1]")
+                    data["confidence"] = confidence
+                except (TypeError, ValueError) as e:
+                    raise ValueError(f"Invalid confidence value: {e}")
+                
+                # Ensure is_compounding is a boolean
+                if not isinstance(data["is_compounding"], bool):
+                    if isinstance(data["is_compounding"], str):
+                        data["is_compounding"] = data["is_compounding"].lower() == 'true'
+                    else:
+                        raise ValueError("is_compounding must be a boolean")
+                
+                # Ensure explanation is present and a string
+                if "explanation" not in data or not isinstance(data["explanation"], str):
+                    logger.warning("No explanation found in response, adding a default one")
+                    data["explanation"] = "No explanation provided by the model"
+                else:
+                    # Clean up the explanation text
+                    data["explanation"] = data["explanation"].strip()
+                
+                return data
+                
+            except json.JSONDecodeError as json_err:
+                logger.error(f"JSON decode error: {json_err}")
+                logger.error(f"Content that failed to parse: {json_content}")
+                return None
+                
+        except Exception as e:
+            logger.error(f"Error parsing response: {e}", exc_info=True)
             return None
 
     def classify_pharmacies_batch(self, pharmacies_data: List[Dict[str, Any]], model: Optional[str] = None) -> List[Optional[Dict[str, Any]]]:
-        """Classifies a batch of pharmacies.
-
-        Args:
-            pharmacies_data: A list of pharmacy data dictionaries.
-            model: The model to use for classification.
-
-        Returns:
-            A list of classification results.
-        """        
-        return [self.classify_pharmacy(pharmacy_data, model) for pharmacy_data in pharmacies_data]
+        """
+        Classifies a batch of pharmacies.
+        """
+        return [self.classify_pharmacy(pharmacy, model) for pharmacy in pharmacies_data]
 
     def _generate_prompt(self, pharmacy_data: Dict[str, Any]) -> str:
-        """Generate a prompt for pharmacy classification."""
-        return (
-            f"Classify the following pharmacy:\n"
-            f"Name: {pharmacy_data.get('name', 'N/A')}\n"
-            f"Address: {pharmacy_data.get('address', 'N/A')}\n"
-            f"Phone: {pharmacy_data.get('phone', 'N/A')}\n"
-            f"Website: {pharmacy_data.get('website', 'N/A')}\n\n"
-            "Is this an independent pharmacy? Respond with a JSON object containing 'is_pharmacy' (boolean), "
-            "'is_compound_pharmacy' (boolean), and 'confidence' (float between 0 and 1)."
-        )
-
-# Helper function for simple usage
-def classify_pharmacy(pharmacy_data: Dict[str, Any], **kwargs) -> Dict[str, Any]:
-    """
-    Classify a single pharmacy using the Perplexity API.
-    
-    Args:
-        pharmacy_data: Dictionary containing pharmacy information.
-        **kwargs: Additional arguments to pass to PerplexityClient.
+        """Generate a prompt for pharmacy classification with few-shot examples and explanation."""
+        name = pharmacy_data.get('title') or pharmacy_data.get('name', 'N/A')
         
-    Returns:
-        Dictionary with classification results.
-    """
-    # Remove cache_dir from kwargs if it exists to avoid passing it twice
-    kwargs.pop('cache_dir', None)
+        # Few-shot examples to guide the model
+        examples = [
+            {
+                "input": {
+                    "name": "Main Street Pharmacy",
+                    "address": "123 Main St, Anytown, USA",
+                    "categories": "Pharmacy, Compounding",
+                    "website": "mainstreetpharmacy.com"
+                },
+                "output": """```json
+{
+    "classification": "independent",
+    "is_compounding": true,
+    "confidence": 0.95
+}
+```
 
-    client = PerplexityClient(**kwargs)
-    return client.classify_pharmacy(pharmacy_data, model)
+This is an independent pharmacy because it's a locally-owned business not affiliated with any major pharmacy chain. It's a compounding pharmacy as indicated in its categories and website focus on customized medications."""
+            },
+            {
+                "input": {
+                    "name": "CVS Pharmacy",
+                    "address": "456 Oak Ave, Somewhere, USA",
+                    "categories": "Pharmacy, Convenience Store",
+                    "website": "cvs.com"
+                },
+                "output": """```json
+{
+    "classification": "chain",
+    "is_compounding": false,
+    "confidence": 0.99
+}
+```
+
+This is a chain pharmacy because CVS is a well-known national pharmacy chain. It's not a compounding pharmacy as there's no indication of specialized medication compounding services."""
+            },
+            {
+                "input": {
+                    "name": "Union Avenue Compounding Pharmacy",
+                    "address": "789 Union Ave, Tacoma, WA",
+                    "categories": "Pharmacy, Compounding, Health & Medical",
+                    "website": "unionrx.com"
+                },
+                "output": """```json
+{
+    "classification": "independent",
+    "is_compounding": true,
+    "confidence": 0.97
+}
+```
+
+This is an independent compounding pharmacy as it's locally owned and specifically mentions compounding in its name and services. The website confirms it provides customized medication compounding services."""
+            },
+            {
+                "input": {
+                    "name": "ANMC Pharmacy",
+                    "address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+                    "categories": "Pharmacy, Hospital",
+                    "website": "http://anmc.org/services/pharmacy/"
+                },
+                "output": """```json
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.98
+}
+```
+
+This is a hospital pharmacy because ANMC (Alaska Native Medical Center) is a medical facility, and the pharmacy serves hospital patients and staff rather than operating as an independent retail business."""
+            }
+        ]
+
+        # Format the few-shot examples
+        example_text = ""
+        for ex in examples:
+            ex_input = ex["input"]
+            example_text += (
+                "Input:\n"
+                f"Name: {ex_input['name']}\n"
+                f"Address: {ex_input['address']}\n"
+                f"Categories: {ex_input['categories']}\n"
+                f"Website: {ex_input['website']}\n\n"
+                f"Output:\n{ex['output']}\n\n"
+                "---\n\n"
+            )
+
+        return (
+            "You are an expert pharmacy classifier. Your task is to classify pharmacies as 'independent', 'chain', 'hospital', or 'not_a_pharmacy'.\n\n"
+            "RULES:\n"
+            "1. An 'independent' pharmacy is a privately-owned retail pharmacy that:\n"
+            "   - Is NOT part of a corporate chain (e.g., CVS, Walgreens, Rite Aid, Walmart, Costco, Kroger)\n"
+            "   - Is NOT affiliated with a hospital, clinic, or health system (e.g., VA, medical centers, hospital pharmacies)\n"
+            "   - Is NOT part of a government facility (e.g., military, federal, state facilities)\n"
+            "   - Operates as a standalone retail business serving the general public\n"
+            "2. A 'chain' pharmacy is part of a large corporate chain (e.g., CVS, Walgreens, Rite Aid).\n"
+            "3. A 'hospital' pharmacy is located within or affiliated with a hospital, clinic, health system, or medical facility.\n"
+            "4. 'not_a_pharmacy' if the business is not a pharmacy.\n"
+            "5. A 'compounding' pharmacy customizes medications (often mentioned in name or categories).\n\n"
+            "RESPONSE FORMAT:\n"
+            "Respond with a single JSON object containing:\n"
+            "1. classification: 'independent', 'chain', 'hospital', or 'not_a_pharmacy'\n"
+            "2. is_compounding: true or false\n"
+            "3. confidence: 0.0 to 1.0 (1.0 = highest confidence)\n"
+            "4. explanation: A brief explanation of your reasoning (1-3 sentences)\n\n"
+            "The response must be a valid JSON object inside a code block (```json ... ```).\n\n"
+            "EXAMPLES:\n" + example_text +
+            "Now classify this pharmacy:\n"
+            f"Name: {name}\n"
+            f"Address: {pharmacy_data.get('address', 'N/A')}\n"
+            f"Categories: {pharmacy_data.get('categoryName', 'N/A')}\n"
+            f"Website: {pharmacy_data.get('website', 'N/A')}\n\n"
+            "Respond with a JSON object in this format (including the explanation field):\n"
+            "```json\n"
+            "{\n"
+            "  \"classification\": \"independent|chain|hospital|not_a_pharmacy\",\n"
+            "  \"is_compounding\": true|false,\n"
+            "  \"confidence\": 0.0-1.0,\n"
+            "  \"explanation\": \"Your explanation here...\"\n"
+            "}\n"
+            "```"
+        )
 
 def _generate_cache_key(pharmacy_data: Dict[str, Any], model: str) -> str:
     """
-    DEPRECATED: Generate a cache key for the given pharmacy data and model.
-    This function is kept for backward compatibility with tests and will be removed.
+    Generates a consistent cache key from pharmacy data.
+    Uses stable identifiers like name and address.
     """
-    import json
-    import hashlib
-
-    # Create a stable string representation of the pharmacy data
-    data_str = json.dumps(pharmacy_data, sort_keys=True)
-    # Combine with model name and hash
-    key_str = f"{data_str}:{model}"
-    return hashlib.md5(key_str.encode('utf-8')).hexdigest()
-
-
-__all__ = ['PerplexityClient', '_generate_cache_key', 'PerplexityAPIError', 'RateLimitError']
+    # Use 'title' and 'address' as primary identifiers for stability
+    name = pharmacy_data.get('title') or pharmacy_data.get('name', 'N/A')
+    address = pharmacy_data.get('address', 'N/A')
+    
+    key_string = f"{name}|{address}|{model}"
+    return hashlib.sha256(key_string.encode('utf-8')).hexdigest()

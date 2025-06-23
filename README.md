@@ -1,6 +1,34 @@
 # Independent Pharmacy Verification Project
 
-## Recent Updates (June 2024)
+## Scalable Data Collection Pipeline
+
+This project has been enhanced with a robust, end-to-end pipeline for collecting and processing pharmacy data at scale. The new workflow automates collection, deduplication, and classification, ensuring data quality and consistency.
+
+### Key Features
+
+- **End-to-End Automation**: The `scripts/run_pipeline.py` script now orchestrates the entire data processing workflow, from initial data collection via Apify to final classification. This replaces the previous manual, multi-step process.
+
+- **Scalable Configuration**: A new `config/large_scale_run.json` file has been created to manage a comprehensive, 50-state data collection effort. This configuration is designed to gather approximately 2,500 pharmacy records.
+
+- **Robust and Safe Execution**:
+  - **Persistent Logging**: The pipeline now supports file-based logging via the `--log-file` argument, ensuring a complete record of all actions and errors during long-running jobs.
+  - **Uninterrupted Operation**: For macOS users, the `caffeinate` command is used to prevent the system from sleeping during execution, safeguarding against data loss or corruption.
+
+- **Phased Rollout Strategy**: To manage costs and validate the pipeline's performance, a smaller `config/five_state_run.json` is used for initial test runs. This allows for verification of the entire process on a smaller dataset before launching the full 50-state collection.
+
+### How to Run
+
+To execute a test run, use the following command:
+
+```bash
+caffeinate -i python3 -m scripts.run_pipeline \
+    --config config/five_state_run.json \
+    --output data/five_state_results \
+    --log-file data/five_state_results/pipeline.log \
+    --skip_verify
+```
+
+
 
 ### Classification System & Verification
 - **Perplexity Client**: Enhanced with 83% test coverage and robust error handling
@@ -30,7 +58,24 @@
   - Improved test assertions and coverage
 
 ## Project Overview
-This project collects and verifies information about independent pharmacies across the United States using Apify's Google Maps Scraper.
+
+This project collects and verifies information about independent pharmacies across the United States using a scalable, end-to-end data pipeline.
+
+## Usage
+
+To execute the full data pipeline, use the `scripts/run_pipeline.py` script. It is recommended to start with a smaller, controlled test run before launching a large-scale collection.
+
+**Example: Running a 5-State Test**
+
+This command will run the pipeline for 5 states, prevent the computer from sleeping, save results and logs to `data/five_state_results`, and skip the costly verification step.
+
+```bash
+caffeinate -i python3 -m scripts.run_pipeline \
+    --config config/five_state_run.json \
+    --output data/five_state_results \
+    --log-file data/five_state_results/pipeline.log \
+    --skip_verify
+```
 
 ## Features
 - Automated data collection from Google Maps via Apify
@@ -40,31 +85,7 @@ This project collects and verifies information about independent pharmacies acro
 - Chain pharmacy filtering
 - CSV export functionality
 
-## 🚀 Features
 
-- **Automated Data Collection**
-  - Apify-based Google Maps scraping
-  - Structured location-based queries
-  - Chain pharmacy filtering
-  - Rate limiting and error handling
-
-- **AI-Powered Classification**
-  - Hybrid LLM/rule-based classification
-  - Perplexity API integration
-  - Caching for performance
-  - 83% test coverage
-
-- **Address Verification**
-  - Google Places API integration
-  - 90% verification success rate
-  - Confidence scoring
-  - Duplicate detection
-
-- **Data Pipeline**
-  - End-to-end processing
-  - Configurable workflows
-  - Comprehensive logging
-  - Test coverage tracking
 
 ## 🛠 Setup
 
@@ -102,47 +123,34 @@ pytest tests/ -v
 
 Run tests with coverage report:
 ```bash
-pytest --cov=scripts tests/
+pytest --cov=src --cov=scripts tests/
 ```
 
 ## Project Structure
 
 ```
 .
-├── data/               # Data files
-│   ├── raw/            # Raw data from sources
-│   └── processed/      # Processed and cleaned data
-├── scripts/            # Python scripts
-│   ├── apify_collector.py  # Apify data collection
-│   └── organize_data.py    # Data organization utilities
-├── tests/              # Test files
-│   ├── conftest.py     # Test fixtures
-│   └── test_apify_collector.py  # Apify collector tests
-├── logs/               # Log files
-├── reports/            # Generated reports
+├── config/             # Configuration files for different run scales
+│   ├── trial_config.json
+│   ├── five_state_run.json
+│   └── large_scale_run.json
+├── data/               # Output directory for pipeline results
+├── scripts/            # Main scripts for execution
+│   ├── run_pipeline.py     # End-to-end pipeline orchestration
+│   └── apify_collector.py  # Core Apify data collection logic
+├── src/                # Source code for core logic
+│   ├── classification/
+│   ├── dedup_self_heal/
+│   ├── utils/
+│   └── verification/
+├── tests/              # Test suite
+├── .api_cache/         # Caching for API calls (e.g., classification)
 ├── .env.example        # Example environment variables
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
 ```
 
-## Usage
 
-1. Run data collection:
-   ```bash
-   python -m scripts.apify_collector
-   ```
-   
-   This will:
-   - Generate search queries for independent pharmacies
-   - Collect data using Apify's Google Maps Scraper
-   - Save results to `data/raw/`
-   - Generate a combined and deduplicated file in `data/processed/`
-
-2. View the collected data:
-   ```bash
-   # View the processed data
-   python -c "import pandas as pd; print(pd.read_csv('data/processed/combined_pharmacies.csv').head())"
-   ```
 
 ## Development
 

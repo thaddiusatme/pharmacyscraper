@@ -1,0 +1,2503 @@
+[
+  {
+    "title": "Pacific NW Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3801 Main St A, Vancouver, WA 98663",
+    "neighborhood": "Shumway",
+    "street": "3801 Main St A",
+    "city": "Vancouver",
+    "postalCode": "98663",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.pnsprx.com/",
+    "phone": "(360) 448-7890",
+    "phoneUnformatted": "+13604487890",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6492287,
+      "lng": -122.6671383
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495af257f04efa9:0x3f311bdf92f9bd6",
+    "cid": "284590709081611222",
+    "reviewsCount": 42,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.517Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "1\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "1\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "1\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "1\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "1\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pacific%20NW%20Specialty%20Pharmacy&query_place_id=ChIJqe8EfyWvlVQR1psv-b0R8wM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNtg25jJoJkJuw0HwIW7QGEW17iMakKAKBzkrFy=w408-h272-k-no",
+    "kgmid": "/g/1264lpcpz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Square Care Medical & Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8600 E Mill Plain Blvd, Vancouver, WA 98664",
+    "neighborhood": "North Garrison Heights",
+    "street": "8600 E Mill Plain Blvd",
+    "city": "Vancouver",
+    "postalCode": "98664",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://squarecarerx.com/about-us/",
+    "phone": "(360) 583-4633",
+    "phoneUnformatted": "+13605834633",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6237158,
+      "lng": -122.5847726
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical laboratory",
+      "Drug store",
+      "STD testing service"
+    ],
+    "fid": "0x5495a59e5c1faaab:0x92b9edf7365d51de",
+    "cid": "10572743246253740510",
+    "reviewsCount": 131,
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Square%20Care%20Medical%20%26%20Pharmacy&query_place_id=ChIJq6ofXJ6llVQR3lFdNvftuZI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk3Ef8LDrFjk4RpTK0XSxlkOrtLyDCrGhAkhR4pxjp0PL5MZHx1TNiiy8VejgWMuZv0nAcjtEyk8m-w1c1peHQFisrSIS7X3ICZ8lZYCibeRimxIz8By8udG392idw5OC4iOjMwA=w408-h306-k-no",
+    "kgmid": "/g/11p73q9g4j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Geneva Woods Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6600 NE 112th Ct #103, Vancouver, WA 98662",
+    "neighborhood": "Orchards",
+    "street": "6600 NE 112th Ct #103",
+    "city": "Vancouver",
+    "postalCode": "98662",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.genevawoods.com/",
+    "phone": "(360) 694-7377",
+    "phoneUnformatted": "+13606947377",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.669723,
+      "lng": -122.5582061
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store",
+      "Nursing home"
+    ],
+    "fid": "0x5495b01f361b99e9:0x15885a26fa2b5c2",
+    "cid": "96974324692596162",
+    "reviewsCount": 30,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Geneva%20Woods%20Pharmacy&query_place_id=ChIJ6ZkbNh-wlVQRwrWib6KFWAE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPvhshbNbb71M7efja5FzmnTPOGE6iT2jcW9aLV=w427-h240-k-no",
+    "kgmid": "/g/1tf70n83",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Columbia Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12119 NE 99th St # 2030, Vancouver, WA 98682",
+    "neighborhood": "Orchards",
+    "street": "12119 NE 99th St # 2030",
+    "city": "Vancouver",
+    "postalCode": "98682",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://columbiacompounding.com/",
+    "phone": "(360) 217-4250",
+    "phoneUnformatted": "+13602174250",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6920322,
+      "lng": -122.5479657
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x5495b1eb4d94d303:0x2778d666f92d9329",
+    "cid": "2844258902439990057",
+    "reviewsCount": 77,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Columbia%20Compounding&query_place_id=ChIJA9OUTeuxlVQRKZMt-WbWeCc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPdvQCz_wYf8UfcETKOpgoDnl_IadWeAn3MySnfm8u1JXa4kXvComdenh0BIEcksN0cT7faxQkn804hr9H0v-BKA1WTUnzJYYoDPZCnQpX3tlV5auIJg2LwL2fNWDmcjdPrpK0sQ=w408-h522-k-no",
+    "kgmid": "/g/11fp6mczjm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2502 E 4th Plain Blvd Ste 102, Vancouver, WA 98661",
+    "neighborhood": "Rose Village",
+    "street": "2502 E 4th Plain Blvd Ste 102",
+    "city": "Vancouver",
+    "postalCode": "98661",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(360) 450-4881",
+    "phoneUnformatted": "+13604504881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6386394,
+      "lng": -122.6450361
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495af4826dda26d:0x8ad79dd14baabea1",
+    "cid": "10004638619470053025",
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJbaLdJkivlVQRob6qS9Gd14o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8Wv8GKc7izhfasjpDNDfww&cb_client=search.gws-prod.gps&w=408&h=240&yaw=334.11118&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f3zy_4np",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ready Meds Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "925 NE 136th Ave Ste 105, Vancouver, WA 98684",
+    "neighborhood": null,
+    "street": "925 NE 136th Ave Ste 105",
+    "city": "Vancouver",
+    "postalCode": "98684",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.readymedspharmacy.com/",
+    "phone": "(877) 425-6337",
+    "phoneUnformatted": "+18774256337",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6296547,
+      "lng": -122.5343436
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a56b9a64cb3f:0xcb888f03c468b0a8",
+    "cid": "14666129432874889384",
+    "reviewsCount": 5,
+    "imagesCount": 65,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:16.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ready%20Meds%20Pharmacy&query_place_id=ChIJP8tkmmullVQRqLBoxAOPiMs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@61.56929586514925,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvybJao0CitGvHUs1RKjYn_1iE2Ba_LJQN0G_Ujgm9DnjbRYf11jKWvtIPKpx0ggKi2Sa4gA3DFSOO27xazwQ-8ltGnhObz7S838bGByKK0fFCfJFSII77az0vR1OXwIUile3r=w408-h483-k-no",
+    "kgmid": "/g/11ptlck2qj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PharMerica",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "18110 SE 34th St, Vancouver, WA 98683",
+    "neighborhood": "Fisher's Landing East",
+    "street": "18110 SE 34th St",
+    "city": "Vancouver",
+    "postalCode": "98683",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://pharmerica.com/",
+    "phone": "(800) 330-3665",
+    "phoneUnformatted": "+18003303665",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6001658,
+      "lng": -122.4841475
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a4b27114d503:0xdd64257282d69eb8",
+    "cid": "15952916953804742328",
+    "reviewsCount": 16,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:18.856Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMerica&query_place_id=ChIJA9UUcbKklVQRuJ7WgnIlZN0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@55.90929253764349,-155.26772981839719,12z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "kgmid": "/g/11c319d_p0",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dr. Luke Vander Weide",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "505 NE 87th Ave #260, Vancouver, WA 98664",
+    "neighborhood": "North Garrison Heights",
+    "street": "505 NE 87th Ave #260",
+    "city": "Vancouver",
+    "postalCode": "98664",
+    "state": "Washington",
+    "countryCode": "US",
+    "phone": "(360) 514-6450",
+    "phoneUnformatted": "+13605146450",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.6253347,
+      "lng": -122.5828269
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a59e1d8ff3fb:0x192705d0acca392d",
+    "cid": "1812423768850184493",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Luke%20Vander%20Weide&query_place_id=ChIJ-_OPHZ6llVQRLTnKrNAFJxk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kU60NsHWhoBrpLMu-syH_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.502655&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rwxg2lmj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "WRx Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "14313 NE 20th Ave Ste 109, Vancouver, WA 98686",
+    "neighborhood": "Pleasant Valley",
+    "street": "14313 NE 20th Ave Ste 109",
+    "city": "Vancouver",
+    "postalCode": "98686",
+    "state": "Washington",
+    "countryCode": "US",
+    "phone": "(360) 787-7408",
+    "phoneUnformatted": "+13607877408",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.7251283,
+      "lng": -122.6505852
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495adff4559c93f:0xca3b9f6a22483eaa",
+    "cid": "14572416297477881514",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=WRx%20Pharmacy&query_place_id=ChIJP8lZRf-tlVQRqj5IImqfO8o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jocg1dvVnyE9ubbnRLFcZg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=78.755066&pitch=0&thumbfov=100",
+    "kgmid": "/g/11mgq4n0s2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2500 Columbia House Blvd, Vancouver, WA 98661",
+    "neighborhood": "Hudson Bay",
+    "street": "2500 Columbia House Blvd",
+    "city": "Vancouver",
+    "postalCode": "98661",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00683?cid=loc_70100683P_gmb",
+    "phone": "(360) 619-1733",
+    "phoneUnformatted": "+13606191733",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6203675,
+      "lng": -122.6455602
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x5495a5fe2b022af3:0xa60404670644fa85",
+    "cid": "11962691350736206469",
+    "reviewsCount": 59,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJ8yoCK_6llVQRhfpEBmcEBKY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEOMNYWT5H34PP-MDpfvaTut06M_XqIg2laMw7ccF3x-3ysKfWoGyw-VULDUIz6VThLYnWxC6-mb1G8FJXVkzGvWg00SkhgAkJ8JsZnSuEQb6HXC1RwjUxsxag2BjzmiYcppl8=w408-h544-k-no",
+    "kgmid": "/g/11gzh8f64",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11325 SE Mill Plain Blvd, Vancouver, WA 98684",
+    "neighborhood": null,
+    "street": "11325 SE Mill Plain Blvd",
+    "city": "Vancouver",
+    "postalCode": "98684",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00208?cid=loc_70100208P_gmb",
+    "phone": "(360) 253-7086",
+    "phoneUnformatted": "+13602537086",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6194705,
+      "lng": -122.5562989
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x5495a5105b2db149:0xed0a00e16446cda8",
+    "cid": "17080465504806030760",
+    "reviewsCount": 41,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJSbEtWxCllVQRqM1GZOEACu0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGmTcgc5pVVrjv7gbQU9sKYE-ZU19jDjIACle6=w426-h240-k-no",
+    "kgmid": "/g/1thx_j32",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7700 NE Hwy 99, Vancouver, WA 98665",
+    "neighborhood": "Hazel Dell South",
+    "street": "7700 NE Hwy 99",
+    "city": "Vancouver",
+    "postalCode": "98665",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00140?cid=loc_70100140P_gmb",
+    "phone": "(360) 699-8133",
+    "phoneUnformatted": "+13606998133",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6770293,
+      "lng": -122.6633334
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x5495aef208492779:0xe9aafda0ef873ac0",
+    "cid": "16837549024533232320",
+    "reviewsCount": 48,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJeSdJCPKulVQRwDqH76D9quk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdvFEadPvaRL1EikG4UXoVkX3Lc_kv9s1aVHIsmazpMgb_BoO69qESnX3OXmxA-4BRcmansS3V7muXkW7Vx7uldNPIuUbl80ie_EKrtLmtWNDo7o9t2nf16DztFAy_oiwcsIOA=w426-h240-k-no",
+    "kgmid": "/g/1yfh_j07w",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sea Mar East Vancouver Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "19005 SE 34th St, Vancouver, WA 98683",
+    "neighborhood": "Fisher's Creek",
+    "street": "19005 SE 34th St",
+    "city": "Vancouver",
+    "postalCode": "98683",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.seamar.org/clark-pharmacy-eastvancouver.html",
+    "phone": "(360) 726-6750",
+    "phoneUnformatted": "+13607266750",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5958772,
+      "lng": -122.4795972
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a4abf56e4981:0xa04cc00fb3f32d27",
+    "cid": "11550818317974580519",
+    "reviewsCount": 6,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Mar%20East%20Vancouver%20Pharmacy&query_place_id=ChIJgUlu9auklVQRJy3zsw_ATKA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNQQKZ0rRnrXapRzxTTZ6pNdd2iv8VPwhxpKtHA=w408-h408-k-no",
+    "kgmid": "/g/11gbpbf9jd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "16200 SE Mill Plain Blvd, Vancouver, WA 98684",
+    "neighborhood": null,
+    "street": "16200 SE Mill Plain Blvd",
+    "city": "Vancouver",
+    "postalCode": "98684",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/vancouver-wa-pharmacies/16200-se-mill-plain-blvd-vancouver-wa-98684/storeid=16776?WT.mc_id=LS_GOOGLE_RX_16776",
+    "phone": "(360) 449-6425",
+    "phoneUnformatted": "+13604496425",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6169707,
+      "lng": -122.505986
+    },
+    "totalScore": 2.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a4d3eb426231:0x3b784067340d6bd3",
+    "cid": "4285245857442130899",
+    "reviewsCount": 72,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJMWJC69OklVQR02sNNGdAeDs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOnEajDrhUxkknHSwsEbzoOhMPriaLNglA7dsiA=w408-h272-k-no",
+    "kgmid": "/g/1tfvsnw1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "6701 E Mill Plain Blvd, Vancouver, WA 98661",
+    "neighborhood": "Vancouver Heights",
+    "street": "6701 E Mill Plain Blvd",
+    "city": "Vancouver",
+    "postalCode": "98661",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/wa/vancouver/6701-e-mill-plain-blvd.html",
+    "phone": "(360) 992-5726",
+    "phoneUnformatted": "+13609925726",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6260528,
+      "lng": -122.6028633
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x5495a58f88300c25:0x32a01b995e5b4a88",
+    "cid": "3647946043697089160",
+    "reviewsCount": 48,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJJQwwiI-llVQRiEpbXpkboDI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIAq8wG62N1JggPes1nno40vqkbdfC2JLxTUFXdgv6EM-tMAi6kDbWe-2l8tYYAse7lTtUyikI0WASXD8fT9HYavkhXmJwTT3NAv2t7O6Wqk86CqaP09CpCDoLmxibYGbYdOWs=w408-h544-k-no",
+    "kgmid": "/g/1trsxqcw",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7411 NE 117th Ave, Vancouver, WA 98662",
+    "neighborhood": "Orchards",
+    "street": "7411 NE 117th Ave",
+    "city": "Vancouver",
+    "postalCode": "98662",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00236?cid=loc_70100236P_gmb",
+    "phone": "(360) 896-3533",
+    "phoneUnformatted": "+13608963533",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6760035,
+      "lng": -122.551007
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x5495b03c3ffd66ed:0xbdc7222ff2a33c2",
+    "cid": "854683523928961986",
+    "reviewsCount": 46,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJ7Wb9PzywlVQRwjMq_yJy3As",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJsI1R6HUaaaLxMKELtqsvnH9ClvD88s67aocV=w426-h240-k-no",
+    "kgmid": "/g/12632yzry",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hi-School Pharmacy Medicine On Time",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6926 NE Fourth Plain Blvd B, Vancouver, WA 98661",
+    "neighborhood": "Bagley Downs",
+    "street": "6926 NE Fourth Plain Blvd B",
+    "city": "Vancouver",
+    "postalCode": "98661",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://locations.myhspstores.com/store/hi-school-pharmacy-mot/",
+    "phone": "(360) 693-8374",
+    "phoneUnformatted": "+13606938374",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.646102,
+      "lng": -122.602805
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495af8334df2299:0x6036da4deba0e6d7",
+    "cid": "6932968704583984855",
+    "reviewsCount": 6,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hi-School%20Pharmacy%20Medicine%20On%20Time&query_place_id=ChIJmSLfNIOvlVQR1-ag603aNmA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHBLUlBnu5UUuxHae9pkXkqEPsx78_GSC2dhwO=w519-h240-k-no",
+    "kgmid": "/g/11f61z2mb4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2521 Main St, Vancouver, WA 98660",
+    "neighborhood": "Arnada",
+    "street": "2521 Main St",
+    "city": "Vancouver",
+    "postalCode": "98660",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2521+main+st-vancouver-wa-98660/id=1093",
+    "phone": "(360) 693-2524",
+    "phoneUnformatted": "+13606932524",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6399509,
+      "lng": -122.6707739
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495af3484b0b9ff:0x43eb10340a75e179",
+    "cid": "4894023235768017273",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ_7mwhDSvlVQReeF1CjQQ60M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4R3g010sPEPvMSum0KGkQE7vuGv82OAWvCBir=w525-h240-k-no",
+    "kgmid": "/g/11cn96myt3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PeaceHealth Southwest Pharmacy at Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "420 NE Mother Joseph Pl, Vancouver, WA 98664",
+    "neighborhood": "North Garrison Heights",
+    "street": "420 NE Mother Joseph Pl",
+    "city": "Vancouver",
+    "postalCode": "98664",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.peacehealth.org/locations/vancouver/peacehealth-southwest-pharmacy-medical-center?utm_source=gbp&utm_medium=organic&utm_content=VANC-043&utm_campaign=gmb",
+    "phone": "(360) 514-2294",
+    "phoneUnformatted": "+13605142294",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6236522,
+      "lng": -122.581954
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a59fcc5cb5af:0xda508761cf87d75e",
+    "cid": "15731222352568506206",
+    "reviewsCount": 22,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PeaceHealth%20Southwest%20Pharmacy%20at%20Medical%20Center&query_place_id=ChIJr7VczJ-llVQRXteHz2GHUNo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0csmHwiPEjxELXPozXcgV2w6cl5oQirTn05ucx4JFGq1mrDz3A4jgMQKBxAKWwsMXX82MFHgcw3TaczHiTOa_itM7TNk6o7tkX09rRvNiS82G2eYbqCTcIWsqIEd0XUZexMf3=w408-h306-k-no",
+    "kgmid": "/g/1q62b6ldg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sea Mar Salmon Creek Pharmacy - Vancouver",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "14508 NE 20th Ave, Vancouver, WA 98686",
+    "neighborhood": "Pleasant Valley",
+    "street": "14508 NE 20th Ave",
+    "city": "Vancouver",
+    "postalCode": "98686",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.seamar.org/salmon-creek-pharmacy-eastvancouver.html",
+    "phone": "(360) 558-5720",
+    "phoneUnformatted": "+13605585720",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.726379,
+      "lng": -122.6527474
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495ad9a2c6813a7:0xebec253ee1e3016a",
+    "cid": "17000003645424730474",
+    "reviewsCount": 3,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:55:40.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Mar%20Salmon%20Creek%20Pharmacy%20-%20Vancouver&query_place_id=ChIJpxNoLJqtlVQRagHj4T4l7Os",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Vancouver%20WA/@67.1273844227615,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Vancouver WA",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "kgmid": "/g/11t61xxy9g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

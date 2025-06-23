@@ -1,0 +1,2372 @@
+[
+  {
+    "title": "Unity Pharmacy - New Haven",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1351 Whalley Ave, New Haven, CT 06515",
+    "neighborhood": "West New Haven",
+    "street": "1351 Whalley Ave",
+    "city": "New Haven",
+    "postalCode": "06515",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.unityrxs.com/",
+    "phone": "(203) 745-0030",
+    "phoneUnformatted": "+12037450030",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3323048,
+      "lng": -72.9739683
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d92dfd92b387:0xe1036946ce305e21",
+    "cid": "16213918836291821089",
+    "reviewsCount": 143,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.629Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Unity%20Pharmacy%20-%20New%20Haven&query_place_id=ChIJh7OS_S3Z54kRIV4wzkZpA-E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npalgz4wEr1PTqrXbAFBfmOUjUbfozLHrj06P7p1_p1881gGasP7AEX-2K4qhXCKFioWDebvcQFZP19oUc5_f9jFDsbOY7U1kDzsqGfSWTlQ5RrxIv0LmCQ1Cqcf5dOkFFdx1j9tg=w408-h544-k-no",
+    "kgmid": "/g/11rqz8dw4n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "New Haven Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "374 Grand Ave, New Haven, CT 06513",
+    "neighborhood": "Fair Haven",
+    "street": "374 Grand Ave",
+    "city": "New Haven",
+    "postalCode": "06513",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://newhavenrx.com/",
+    "phone": "(203) 777-3700",
+    "phoneUnformatted": "+12037773700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3082834,
+      "lng": -72.9018416
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9d69aa9ec81:0x1551bb6e35a600e9",
+    "cid": "1536215029930918121",
+    "reviewsCount": 26,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.630Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Haven%20Pharmacy&query_place_id=ChIJgeypmtbZ54kR6QCmNW67URU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7YcDaumrX_ifSEfZi5Aoo4Zbz2BNgD9xSPlWw-kNZ_Ge2lOJOasYoJzHRCy2iohAancjoafm9gYXOH7q3IsHHHQkkEp7zRrvBS4NKhNjdhwwMBD2SVBcLMhoiEIZ76FKvqiQ=w426-h240-k-no",
+    "kgmid": "/g/11bwm4cdxd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Berney's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "615 Howard Ave, New Haven, CT 06519",
+    "neighborhood": "The Hill",
+    "street": "615 Howard Ave",
+    "city": "New Haven",
+    "postalCode": "06519",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.berneyspharmacy.com/",
+    "phone": "(203) 562-4447",
+    "phoneUnformatted": "+12035624447",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.297752,
+      "lng": -72.934008
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d84fff5d5b1b:0x41ade58184974b99",
+    "cid": "4732691127874309017",
+    "reviewsCount": 58,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.630Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Berney's%20Pharmacy&query_place_id=ChIJG1td_0_Y54kRmUuXhIHlrUE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noJZBtXVToJeu2E41M_pclvoUv9ok_wN4Z1s1Xpd0b6EL9NjOfbE2hjUyZZbRPrsBSgNHxiyR6asnLLtsb0dq2N7fxPn0cL1mY8_s2YVo8r1iXxlEmv4IdGz0U_Ry1dQ5ALdK1Y=w408-h725-k-no",
+    "kgmid": "/g/1vpfkklb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Chapel Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1245 Chapel St, New Haven, CT 06511",
+    "neighborhood": "Dwight",
+    "street": "1245 Chapel St",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.chapelstreetpharmacy.com/",
+    "phone": "(203) 777-2227",
+    "phoneUnformatted": "+12037772227",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.309518,
+      "lng": -72.9355437
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9acfac6678b:0xc5588827ee1aa42d",
+    "cid": "14220265528502166573",
+    "reviewsCount": 30,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chapel%20Street%20Pharmacy&query_place_id=ChIJi2fG-qzZ54kRLaQa7ieIWMU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipObXYV5_mPzSIYIVmrWjSM5YX9aTBMmoqVApFO6=w408-h306-k-no",
+    "kgmid": "/g/1jkxcbwr1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fair Haven Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "72 Grand Ave, New Haven, CT 06513",
+    "neighborhood": "Fair Haven",
+    "street": "72 Grand Ave",
+    "city": "New Haven",
+    "postalCode": "06513",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.myfhrx.com/",
+    "phone": "(203) 498-3479",
+    "phoneUnformatted": "+12034983479",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3093108,
+      "lng": -72.8903683
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d77b21e61e99:0x627498de58769e55",
+    "cid": "7094463393749704277",
+    "reviewsCount": 33,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Haven%20Pharmacy&query_place_id=ChIJmR7mIXvX54kRVZ52WN6YdGI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNnwHrYqmKd901b0Gm5NoxavRf45SqYSqhNjLm=w408-h272-k-no",
+    "kgmid": "/g/11cm_hknt0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fair Haven Grand Pharmacy at 111 Grand Ave New Haven, CT",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "111 Grand Ave, New Haven, CT 06513",
+    "neighborhood": "Fair Haven",
+    "street": "111 Grand Ave",
+    "city": "New Haven",
+    "postalCode": "06513",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.fhchc.org/?utm_source=GPB&utm_medium=GPB&utm_campaign=Fair+Haven+Grand+Pharmacy+at+111+Grand+Ave+New+Haven%2C+CT",
+    "phone": "(203) 974-0200",
+    "phoneUnformatted": "+12039740200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3094804,
+      "lng": -72.8917488
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d7a9e42bfe0d:0x5ddc932a40606c06",
+    "cid": "6763442550081612806",
+    "reviewsCount": 2,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Haven%20Grand%20Pharmacy%20at%20111%20Grand%20Ave%20New%20Haven%2C%20CT&query_place_id=ChIJDf4r5KnX54kRBmxgQCqT3F0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNK3IMs2xVRCGUflHFr7097v-9eR2gMK2ua9KaF=w408-h272-k-no",
+    "kgmid": "/g/11ltsrh1vr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "True-Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1300 Whalley Ave, New Haven, CT 06515",
+    "neighborhood": "West New Haven",
+    "street": "1300 Whalley Ave",
+    "city": "New Haven",
+    "postalCode": "06515",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.truecarect.com/",
+    "phone": "(203) 891-7031",
+    "phoneUnformatted": "+12038917031",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3309855,
+      "lng": -72.9734994
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9728f8137cd:0x220bc670afa458b3",
+    "cid": "2453272609318787251",
+    "reviewsCount": 29,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=True-Care%20Pharmacy&query_place_id=ChIJzTeBj3LZ54kRs1ikr3DGCyI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpOGkQTPaeg2haWPMvFR1LZQUQDA-ow3eVAHjv=w408-h306-k-no",
+    "kgmid": "/g/11sn414xjm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Community Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "224 Dixwell Ave, New Haven, CT 06511",
+    "neighborhood": "Dixwell",
+    "street": "224 Dixwell Ave",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "phone": "(203) 498-1900",
+    "phoneUnformatted": "+12034981900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3190579,
+      "lng": -72.9341243
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9a534de9e5b:0xacf3658bc7a28a04",
+    "cid": "12462416244888472068",
+    "reviewsCount": 4,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Pharmacy&query_place_id=ChIJW57eNKXZ54kRBIqix4tl86w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ4D65BVeLaL6tQjrnII8mb7CFMs4D0IS1pGAigk1eMvTHmP4XSIh96_uhpwTMhJM6Cgc6h2wqV3RRqH0YT-jol0vJjz3_j0H42RvG-v_yYIfVwwIVLAPbc_INXveb4GHAeTGh=w510-h240-k-no",
+    "kgmid": "/g/11cssy_2zj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "North Haven Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "278 Maple Ave, North Haven, CT 06473",
+    "neighborhood": null,
+    "street": "278 Maple Ave",
+    "city": "North Haven",
+    "postalCode": "06473",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.northhavenpharmacy.com/",
+    "phone": "(203) 239-2086",
+    "phoneUnformatted": "+12032392086",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.3706928,
+      "lng": -72.8527002
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d0fe3374f45b:0x9f43c37e9b156b1",
+    "cid": "717264451500332721",
+    "reviewsCount": 31,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Haven%20Pharmacy&query_place_id=ChIJW_R0M_7Q54kRsVax6Tc89Ak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrD1ioCIC6esQb-AZYi_51_tXBKodK0OSL1YJVEth2QUiUQdo3UpobhQWyO9AxldWBWpNMjSqfbRWHpVYhn8zAbAFQot6wuIwY3m9m8ECK01L-E8Nvc-EyqrFcGiDskjYThnUXx=w408-h306-k-no",
+    "kgmid": "/g/1tfpkvs8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Apothecary & Wellness Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1450 Chapel St, New Haven, CT 06511",
+    "neighborhood": "West River",
+    "street": "1450 Chapel St",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.ynhh.org/src/patients-visitors/pharmacy.aspx",
+    "phone": "(203) 789-4076",
+    "phoneUnformatted": "+12037894076",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3106415,
+      "lng": -72.9430156
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9aae73e83e9:0x830bb9a4f9e17ed9",
+    "cid": "9442845161930456793",
+    "reviewsCount": 23,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apothecary%20%26%20Wellness%20Center&query_place_id=ChIJ6YM-56rZ54kR2X7h-aS5C4M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rj7kKQoYmsKGklMRqvis_A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=175.61577&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bbrnfv04",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Visels Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "714 Dixwell Ave, New Haven, CT 06511",
+    "neighborhood": "Newhallville",
+    "street": "714 Dixwell Ave",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/visels-pharmacy-new-haven-ct-06511/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=702452",
+    "phone": "(203) 562-6878",
+    "phoneUnformatted": "+12035626878",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3326393,
+      "lng": -72.9353921
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89e7d99a10897f1d:0xd44e49b247d5b4de",
+    "cid": "15298246014282347742",
+    "reviewsCount": 35,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Visels%20Pharmacy&query_place_id=ChIJHX-JEJrZ54kR3rTVR7JJTtQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noC-WdO4RoWxX95qlHbywJtWZY1b30g0dDWBMoN3wGboLJ1f3_yIjGEmapq9OCLmxormGtfALr_ScpJQUusEbE50l3WCoQV9cPE0ThEBmMqH0GCpDt1L1_YEMUngw4dpPKzTgLVDQ=w408-h306-k-no",
+    "kgmid": "/g/1ttdp01f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hancock Pharmacy at Long Wharf",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 Long Wharf Dr # 115, New Haven, CT 06511",
+    "neighborhood": "Long Wharf",
+    "street": "1 Long Wharf Dr # 115",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.hancocklongwharf.com/",
+    "phone": "(203) 787-9908",
+    "phoneUnformatted": "+12037879908",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.289385,
+      "lng": -72.9297326
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d84189ab0f59:0x3117ff748876c050",
+    "cid": "3537576908293587024",
+    "reviewsCount": 27,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hancock%20Pharmacy%20at%20Long%20Wharf&query_place_id=ChIJWQ-riUHY54kRUMB2iHT_FzE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QA_O-fGtuKdGu3FqalXO0w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.07286&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf3pyfk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Yale New Haven Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Medical Building, 6 Devine St First Floor, North Haven, CT 06473",
+    "neighborhood": null,
+    "street": "Medical Building, 6 Devine St First Floor",
+    "city": "North Haven",
+    "postalCode": "06473",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.ynhhs.org/locations/north-haven-6-devine-street-pharmacy",
+    "phone": "(203) 230-3940",
+    "phoneUnformatted": "+12032303940",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3821354,
+      "lng": -72.8806244
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d16467ccc825:0x2ab925db6398369",
+    "cid": "192408340280214377",
+    "reviewsCount": 9,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Yale%20New%20Haven%20Health%20Pharmacy&query_place_id=ChIJJcjMZ2TR54kRaYM5tl2SqwI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPLgU0UkFHpa044Kn8B5XU-uQ1WISjeE4KqGg9P=w408-h306-k-no",
+    "kgmid": "/g/11kpjgd006",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Yale New Haven Hospital Pharmacy Office",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1450 Chapel St, New Haven, CT 06511",
+    "neighborhood": "West River",
+    "street": "1450 Chapel St",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.ynhh.org/locations/new-haven-1450-chapel-street.aspx",
+    "phone": "(203) 789-3493",
+    "phoneUnformatted": "+12037893493",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.3101643,
+      "lng": -72.9428479
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9ab0fa4d353:0xc0fea8b93fca9e1e",
+    "cid": "13906738212959329822",
+    "reviewsCount": 3,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Yale%20New%20Haven%20Hospital%20Pharmacy%20Office&query_place_id=ChIJU9OkD6vZ54kRHp7KP7mo_sA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tctmtxj",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medical Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "50 York St #2, New Haven, CT 06511",
+    "neighborhood": "Downtown",
+    "street": "50 York St #2",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.medcenterpharmacy.com/",
+    "phone": "(203) 285-3412",
+    "phoneUnformatted": "+12032853412",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.3059535,
+      "lng": -72.9341323
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d84d7e5031d3:0x5a3935108bbffc52",
+    "cid": "6501285882266385490",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medical%20Center%20Pharmacy&query_place_id=ChIJ0zFQfk3Y54kRUvy_ixA1OVo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x79b9ByxmDwk1j_tblAnJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.88629&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tslkrqq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hancock Pharmacy VII",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "306 Grand Ave, New Haven, CT 06513",
+    "neighborhood": "Fair Haven",
+    "street": "306 Grand Ave",
+    "city": "New Haven",
+    "postalCode": "06513",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://www.hancockpharmacy7.com/",
+    "phone": "(203) 776-7100",
+    "phoneUnformatted": "+12037767100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.308613,
+      "lng": -72.899551
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Delivery service"
+    ],
+    "fid": "0x89e7d9d62489e677:0x657c335735f7faf7",
+    "cid": "7312776344603458295",
+    "reviewsCount": 26,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hancock%20Pharmacy%20VII&query_place_id=ChIJd-aJJNbZ54kR9_r3NVczfGU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCnYNZwuTEoXl1dy6FWS9WvD18rE3ZU83PVhCpyp8axFqb0eDtKNG6TCxQLGBPYRn0hoiw-bS4jMb7-PiiJ8JaWS4qHN8s2EZVkkbMrKigIIZEipVRkPLWb_BfAlMG726SrKmu=w408-h333-k-no",
+    "kgmid": "/g/1th1w2bz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "55 Park St Ste 1A, New Haven, CT 06511",
+    "neighborhood": "The Hill",
+    "street": "55 Park St Ste 1A",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-55+park+st-new+haven-ct-06511/id=13969",
+    "phone": "(203) 777-7809",
+    "phoneUnformatted": "+12037777809",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.305708,
+      "lng": -72.9357192
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d852f36c2e95:0xd68c72564b3554a1",
+    "cid": "15459857335810610337",
+    "reviewsCount": 36,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:36.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJlS5s81LY54kRoVQ1S1ZyjNY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@61.56929586514925,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMxO9sF7PfWNWHmj7yidlBhaHJQyh-eZnvwNnWzfvNHrUGiWng6Qgc7aSZr1NfPUra40VslOSxO6M0nvdGbHE5v_JT9vVllXw4ftq2MnUkSq0_TCZYwjI8rOtrSYn7x4hAPNqxVQ=w408-h306-k-no",
+    "kgmid": "/g/11cn9ck_96",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1450 Chapel St, New Haven, CT 06511",
+    "neighborhood": "West River",
+    "street": "1450 Chapel St",
+    "city": "New Haven",
+    "postalCode": "06511",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "phone": "(203) 789-6262",
+    "phoneUnformatted": "+12037896262",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.3102538,
+      "lng": -72.9431532
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e7d9aae03aa7b7:0x60f5031ffe03cff",
+    "cid": "436655864554732799",
+    "reviewsCount": 1,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:38.663Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy&query_place_id=ChIJt6c64KrZ54kR_zzg_zFQDwY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "kgmid": "/g/11c6dc17_x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.7,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "V-Care Pharmacy of CT",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "250 Indian River Rd Suite 202, Orange, CT 06477",
+    "neighborhood": null,
+    "street": "250 Indian River Rd Suite 202",
+    "city": "Orange",
+    "postalCode": "06477",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://myvcarepharmacy.com/",
+    "phone": "(203) 902-8800",
+    "phoneUnformatted": "+12039028800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.2650228,
+      "lng": -72.9998823
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e875d6e52bbc71:0xa6c347714688c600",
+    "cid": "12016526782594860544",
+    "reviewsCount": 93,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:42.021Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=V-Care%20Pharmacy%20of%20CT&query_place_id=ChIJcbwr5dZ16IkRAMaIRnFHw6Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqIPUhrdPk0dOZB0UHXrnf_stp64rXg7Glx9JDNomWxaoTK6xXQeb0Yx9jLW3NpzpaZ3ZeUuL_1e_vs6IAV-UIx_tl2bLiYgCXr5OiuBHgrKZ-jSRP1QEK2R8ir267Oa0OP4mzT=w408-h544-k-no",
+    "kgmid": "/g/11l3r6p2_j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Liberty Pharmacy & Food Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "886 Campbell Ave, West Haven, CT 06516",
+    "neighborhood": null,
+    "street": "886 Campbell Ave",
+    "city": "West Haven",
+    "postalCode": "06516",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "http://libertypharmacyct.com/",
+    "phone": "(475) 766-5454",
+    "phoneUnformatted": "+14757665454",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.2829641,
+      "lng": -72.9570945
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Grocery store"
+    ],
+    "fid": "0x89e7d9c6ad44087b:0x3263c8b6c561202e",
+    "cid": "3630966411911831598",
+    "reviewsCount": 12,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:21:42.021Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6\u202fAM to 11:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Liberty%20Pharmacy%20%26%20Food%20Store&query_place_id=ChIJewhErcbZ54kRLiBhxbbIYzI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20Haven%20CT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy New Haven CT",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noKvLRwKnja8QrLWznYrad1nxqaVsGW0sYNB9KnB6S_bhZebfk5GPPi0CfUtMGiKk2k0wlIhQeu41OAnUjEqHSdM4ZMeo_qEBD7D7QXbcBTDj7l_KrQXiucJ2XicUOG4flVTtI=w408-h307-k-no",
+    "kgmid": "/g/11y1lbh3p_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

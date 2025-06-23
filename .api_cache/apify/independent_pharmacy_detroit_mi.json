@@ -1,0 +1,2400 @@
+[
+  {
+    "title": "PharMor Pharmacy-Midtown",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "40 E Alexandrine St, Detroit, MI 48201",
+    "neighborhood": "Midtown",
+    "street": "40 E Alexandrine St",
+    "city": "Detroit",
+    "postalCode": "48201",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.mypharmor.com/",
+    "phone": "(313) 832-2050",
+    "phoneUnformatted": "+13138322050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3509383,
+      "lng": -83.0586702
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQfMLHrjSJIgR6g8MIqspCdY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d2b81e0bf341:0xd60929ab220c0fea",
+    "cid": "15422904213894336490",
+    "reviewsCount": 33,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.071Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMor%20Pharmacy-Midtown&query_place_id=ChIJQfMLHrjSJIgR6g8MIqspCdY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN6XFCKDnvDPF44hZFNBsPJBXj_feTEJdwpMfLc=w408-h306-k-no",
+    "kgmid": "/g/11b6_qtfs_"
+  },
+  {
+    "title": "FarmaCity Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3456 Vernor Hwy STE B, Detroit, MI 48216",
+    "neighborhood": "Central Southwest",
+    "street": "3456 Vernor Hwy STE B",
+    "city": "Detroit",
+    "postalCode": "48216",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/FarmaCityPharmacy",
+    "phone": "(313) 789-8934",
+    "phoneUnformatted": "+13137898934",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3241506,
+      "lng": -83.0866123
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQBcZqIyO4gRMeX1IkscQjo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x883b32a2665c0001:0x3a421c4b22f5e531",
+    "cid": "4197948911697388849",
+    "reviewsCount": 86,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.072Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FarmaCity%20Pharmacy&query_place_id=ChIJAQBcZqIyO4gRMeX1IkscQjo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMLLExIRopyrlB7Yy2p765EaSZacSNTpNJaJ_xn=w408-h306-k-no",
+    "kgmid": "/g/11dxbn9509"
+  },
+  {
+    "title": "Detroit RX Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "19268 Grand River Ave, Detroit, MI 48223",
+    "neighborhood": "North Rosedale Park",
+    "street": "19268 Grand River Ave",
+    "city": "Detroit",
+    "postalCode": "48223",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.detroitrx.co/",
+    "phone": "(313) 800-0808",
+    "phoneUnformatted": "+13138000808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4062104,
+      "lng": -83.2314477
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQe9B7Y7LJIgRbdSZZFnjIzY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cb8eed41ef41:0x3623e3596499d46d",
+    "cid": "3901211675312378989",
+    "reviewsCount": 24,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.073Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20RX%20Pharmacy&query_place_id=ChIJQe9B7Y7LJIgRbdSZZFnjIzY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1iT0EweFsnA9vyiuMJ654bYpTZ2re2UOQFBhp=w408-h528-k-no",
+    "kgmid": "/g/11vkl037m4"
+  },
+  {
+    "title": "Brotherhood Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13226 E Jefferson Ave, Detroit, MI 48215",
+    "neighborhood": "Jefferson Chalmers",
+    "street": "13226 E Jefferson Ave",
+    "city": "Detroit",
+    "postalCode": "48215",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.brotherhoodrx.com/",
+    "phone": "(313) 422-7100",
+    "phoneUnformatted": "+13134227100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.369886,
+      "lng": -82.9496411
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_VGeuYvVJIgRwpcCLMn6Gw4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d58bb99e51fd:0xe1bfac92c0297c2",
+    "cid": "1016681882835916738",
+    "reviewsCount": 45,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.073Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brotherhood%20Pharmacy&query_place_id=ChIJ_VGeuYvVJIgRwpcCLMn6Gw4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP66KHr8fzq1xDN0-3gggPHuKibUVabOTUg0d7V=w408-h306-k-no",
+    "kgmid": "/g/11v09hl8h4"
+  },
+  {
+    "title": "Vernor Pharmacy Pllc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2117 Springwells St Ste B, Detroit, MI 48209",
+    "neighborhood": "Springwells",
+    "street": "2117 Springwells St Ste B",
+    "city": "Detroit",
+    "postalCode": "48209",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 395-2887",
+    "phoneUnformatted": "+13133952887",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3102798,
+      "lng": -83.1267669
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6r6WgIzO4gRzG-qB23vlHI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x883b33025afaaaab:0x7294ef6d07aa6fcc",
+    "cid": "8256487268436045772",
+    "reviewsCount": 25,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.073Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vernor%20Pharmacy%20Pllc&query_place_id=ChIJq6r6WgIzO4gRzG-qB23vlHI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npryE_J_Z7sePrlQJ-nzeseh2HDfGycRDJIRoluVEpAcaOaPBCTMiNRLipfVpSORH8UtJZsVohPb-eJtdzCqk6R6CCGfwV1z2WG9fldQx75Xn6xXRx0ee6V24H1i2wj_d17S0Yv=w408-h306-k-no",
+    "kgmid": "/g/11sfgm2ph5"
+  },
+  {
+    "title": "Westside Pharmacy of Detroit",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10600 W McNichols Rd, Detroit, MI 48221",
+    "neighborhood": "Schulze",
+    "street": "10600 W McNichols Rd",
+    "city": "Detroit",
+    "postalCode": "48221",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.westsidepharmacyofdetroit.com/",
+    "phone": "(313) 342-1555",
+    "phoneUnformatted": "+13133421555",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4170506,
+      "lng": -83.1673242
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-2IjMfjLJIgRdkNTtSlccdk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cbf8312362fb:0xd9715c29b5534376",
+    "cid": "15668405912804213622",
+    "reviewsCount": 34,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.073Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–2 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Westside%20Pharmacy%20of%20Detroit&query_place_id=ChIJ-2IjMfjLJIgRdkNTtSlccdk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YPRIkgbMzkll-xVHNymqtA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.154713&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tlgyktn"
+  },
+  {
+    "title": "Midtown Rx Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4100 Woodward Ave, Detroit, MI 48201",
+    "neighborhood": "Midtown",
+    "street": "4100 Woodward Ave",
+    "city": "Detroit",
+    "postalCode": "48201",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://midtownrxpharmacy.com/",
+    "phone": "(313) 832-5900",
+    "phoneUnformatted": "+13138325900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3510579,
+      "lng": -83.0596692
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm8gzKLjSJIgRkyao0xVOG3k",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d2b82833c89b:0x791b4e15d3a82693",
+    "cid": "8726654558612760211",
+    "reviewsCount": 32,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.074Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Midtown%20Rx%20Pharmacy&query_place_id=ChIJm8gzKLjSJIgRkyao0xVOG3k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmlTDIrjbnarzwWvd549UjnpZkDjIR5K0ZTLACnFZh4XjMONu1KdnmVV_jgeMV-eMvBqGw2rKmo48xi_UtKQMNa2B14z9oTAD0qdK6naxuaiCD04YgOTkgCaPqQTL2WM2BL0zUaw=w408-h306-k-no",
+    "kgmid": "/g/11bxg9lgds"
+  },
+  {
+    "title": "New Atlas Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2645 W Davison St, Detroit, MI 48238",
+    "neighborhood": "Dexter Linwood",
+    "street": "2645 W Davison St",
+    "city": "Detroit",
+    "postalCode": "48238",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.pointy.com/shops/usa/michigan/detroit/new-atlas-pharmacy",
+    "phone": "(313) 334-5102",
+    "phoneUnformatted": "+13133345102",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3921894,
+      "lng": -83.1229141
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWd4BPGjNJIgR3lOAn0Z9QBI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cd683c01de59:0x12407d469f8053de",
+    "cid": "1315188833469354974",
+    "reviewsCount": 58,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.074Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1:30 PM, 2:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Atlas%20Pharmacy&query_place_id=ChIJWd4BPGjNJIgR3lOAn0Z9QBI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPENJrmPF9n-VRvBPSJOsEdygYyjQ_38vNYiOnD=w426-h240-k-no",
+    "kgmid": "/g/11q3sy721t"
+  },
+  {
+    "title": "Town Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6170 Vernor Hwy, Detroit, MI 48209",
+    "neighborhood": "Central Southwest",
+    "street": "6170 Vernor Hwy",
+    "city": "Detroit",
+    "postalCode": "48209",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 297-6617",
+    "phoneUnformatted": "+13132976617",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3160356,
+      "lng": -83.1082771
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJudQGN-4yO4gRFyrIghQJ1pc",
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Medical supply store"
+    ],
+    "fid": "0x883b32ee3706d4b9:0x97d6091482c82a17",
+    "cid": "10940942328441350679",
+    "reviewsCount": 28,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.074Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Town%20Pharmacy&query_place_id=ChIJudQGN-4yO4gRFyrIghQJ1pc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMD9q4vs5nIsDuzFuLXHG8GrRo5YKWOGSO34zAL=w408-h546-k-no",
+    "kgmid": "/g/11gznh86q"
+  },
+  {
+    "title": "Eastern Market Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2925 Russell St Suite 100, Detroit, MI 48207",
+    "neighborhood": "Eastern Market",
+    "street": "2925 Russell St Suite 100",
+    "city": "Detroit",
+    "postalCode": "48207",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 462-4828",
+    "phoneUnformatted": "+13134624828",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3482324,
+      "lng": -83.0420951
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLWSCydDSJIgR9QpIJgGD6yM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d2d0c982642d:0x23eb830126480af5",
+    "cid": "2588306451814943477",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.074Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eastern%20Market%20Pharmacy&query_place_id=ChIJLWSCydDSJIgR9QpIJgGD6yM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zy7oBZwrYbcOMNSn89OX2A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=251.20453&pitch=0&thumbfov=100",
+    "kgmid": "/g/1264qhhpq"
+  },
+  {
+    "title": "Warriors Pharmacy and Medical Supplies",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5265 Anthony Wayne Dr, Detroit, MI 48202",
+    "neighborhood": "Wayne State",
+    "street": "5265 Anthony Wayne Dr",
+    "city": "Detroit",
+    "postalCode": "48202",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://warriorspharmacy.com/",
+    "phone": "(313) 774-0520",
+    "phoneUnformatted": "+13137740520",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3574572,
+      "lng": -83.0732578
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOd0GdSnTJIgRHlzwd8e2cQA",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical equipment supplier",
+      "School supply store",
+      "Store"
+    ],
+    "fid": "0x8824d3297506dd39:0x71b6c777f05c1e",
+    "cid": "32007640195292190",
+    "reviewsCount": 134,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Warriors%20Pharmacy%20and%20Medical%20Supplies&query_place_id=ChIJOd0GdSnTJIgRHlzwd8e2cQA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNspFpVn8aAX5Pbize9DvxRtA8962nM6B5GHOI=w408-h306-k-no",
+    "kgmid": "/g/11ky94123h"
+  },
+  {
+    "title": "RediMed Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8631 Vernor Hwy Suite 1C, Detroit, MI 48209",
+    "neighborhood": "Springwells",
+    "street": "8631 Vernor Hwy Suite 1C",
+    "city": "Detroit",
+    "postalCode": "48209",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 286-8006",
+    "phoneUnformatted": "+13132868006",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3091205,
+      "lng": -83.1321811
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1QYMT7IzO4gRZF_IIBOqypw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x883b33b24f0c06d5:0x9ccaaa1320c85f64",
+    "cid": "11298029614343413604",
+    "reviewsCount": 26,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RediMed%20Pharmacy&query_place_id=ChIJ1QYMT7IzO4gRZF_IIBOqypw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOdjcbhNLokCeZuYUxwe8q1Dm-iJnAGltpJzD-g=w408-h544-k-no",
+    "kgmid": "/g/11vzt6b5n1"
+  },
+  {
+    "title": "Grand Value Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10920 Grand River Ave, Detroit, MI 48204",
+    "neighborhood": "Littlefield Community",
+    "street": "10920 Grand River Ave",
+    "city": "Detroit",
+    "postalCode": "48204",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/grand-value-pharmacy-detroit-mi-48204/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2331926",
+    "phone": "(313) 931-0010",
+    "phoneUnformatted": "+13139310010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3738483,
+      "lng": -83.1510467
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJWHFp5HMJIgReCYviArfRZs",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8824cc91a7c56125:0x9b45df0a882f2678",
+    "cid": "11188594085599323768",
+    "reviewsCount": 32,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Value%20Pharmacy&query_place_id=ChIJJWHFp5HMJIgReCYviArfRZs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPiZYl8xko3iIUZFXGnFmdog8bulRNfpwkMnAe0Xg6U7kkJu1MTenptDGpyCAMH2QqWDLjz-xD1JdxY3mAI55FpsFoMsR3oGoDhfRx6lbnyVD3mBbQHw1nrhnqvG0GlfRfhvpL=w408-h612-k-no",
+    "kgmid": "/g/1thx97dw"
+  },
+  {
+    "title": "City Pharmacy LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "15617 W McNichols Rd, Detroit, MI 48235",
+    "neighborhood": "Crary/St Marys",
+    "street": "15617 W McNichols Rd",
+    "city": "Detroit",
+    "postalCode": "48235",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 544-7144",
+    "phoneUnformatted": "+13135447144",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4156303,
+      "lng": -83.2011171
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgRtrXs7LJIgRTexWJYFufIg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cbce5e6b1b81:0x887c6e812556ec4d",
+    "cid": "9834857187226610765",
+    "reviewsCount": 17,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=City%20Pharmacy%20LLC&query_place_id=ChIJgRtrXs7LJIgRTexWJYFufIg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-r9euqaxd7HeVlm1EMInkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.50333&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bwc5dq7d"
+  },
+  {
+    "title": "East Paris Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13637 Seven Mile W, Detroit, MI 48235",
+    "neighborhood": "Tri-Point",
+    "street": "13637 Seven Mile W",
+    "city": "Detroit",
+    "postalCode": "48235",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 635-5234",
+    "phoneUnformatted": "+13136355234",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4307657,
+      "lng": -83.1812272
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCdY-UXpNGIgRwN8Ua29oZno",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88184d7a513ed609:0x7a66686f6b14dfc0",
+    "cid": "8819851747998883776",
+    "reviewsCount": 26,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=East%20Paris%20Pharmacy&query_place_id=ChIJCdY-UXpNGIgRwN8Ua29oZno",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNI05ISraaGBr3UKf_0tm01Ko0XCJ8ViVPMClvn=w408-h514-k-no",
+    "kgmid": "/g/11jz1570qt"
+  },
+  {
+    "title": "Parkview Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "670 Chene St, Detroit, MI 48207",
+    "neighborhood": "Elmwood Park",
+    "street": "670 Chene St",
+    "city": "Detroit",
+    "postalCode": "48207",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 259-0090",
+    "phoneUnformatted": "+13132590090",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3406589,
+      "lng": -83.0239273
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCeVA7TLTJIgR3TYXYMPxOko",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d332ed40e509:0x4a3af1c3601736dd",
+    "cid": "5348853328888936157",
+    "reviewsCount": 8,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–2 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parkview%20Pharmacy&query_place_id=ChIJCeVA7TLTJIgR3TYXYMPxOko",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUWd6JQ4G00PF7SBXZaxYZyRPU_OfFMy5k9cV1=w408-h544-k-no",
+    "kgmid": "/g/11js5s1pf8"
+  },
+  {
+    "title": "Adonai Pharmacy LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13641 Seven Mile E, Detroit, MI 48205",
+    "neighborhood": "Franklin",
+    "street": "13641 Seven Mile E",
+    "city": "Detroit",
+    "postalCode": "48205",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.adonaipharmacy.com/",
+    "phone": "(313) 499-8565",
+    "phoneUnformatted": "+13134998565",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.43514,
+      "lng": -82.9842603
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpYSEbonXJIgRL6x_Vkvp9pc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d7896e8484a5:0x97f6e94b567fac2f",
+    "cid": "10950196053780966447",
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adonai%20Pharmacy%20LLC&query_place_id=ChIJpYSEbonXJIgRL6x_Vkvp9pc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP0uvlfeOINXJBn6x32uUjcFxnY-XIN06_GiNpy=w408-h306-k-no",
+    "kgmid": "/g/11h8jbzsxb"
+  },
+  {
+    "title": "Detroit Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1557 E Eight Mile Rd, Hazel Park, MI 48030",
+    "neighborhood": null,
+    "street": "1557 E Eight Mile Rd",
+    "city": "Hazel Park",
+    "postalCode": "48030",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 922-6942",
+    "phoneUnformatted": "+13139226942",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4474668,
+      "lng": -83.0876478
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJycwJorfPJIgRgc8h62H4TBA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cfb7a209ccc9:0x104cf861eb21cf81",
+    "cid": "1174586702277234561",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Detroit%20Pharmacy&query_place_id=ChIJycwJorfPJIgRgc8h62H4TBA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c1qKN7qXm0oQ1GGDHcQxSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.795804&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wxsm_31b"
+  },
+  {
+    "title": "Next Door Pharmacy Llc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "18250 W Warren Ave, Detroit, MI 48228",
+    "neighborhood": "Warrendale",
+    "street": "18250 W Warren Ave",
+    "city": "Detroit",
+    "postalCode": "48228",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 818-1810",
+    "phoneUnformatted": "+13138181810",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3436344,
+      "lng": -83.2181415
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh76ULi41O4gRAKaAZ6ACAr4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x883b352e2e94be87:0xbe0202a06780a600",
+    "cid": "13691508705114236416",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Next%20Door%20Pharmacy%20Llc&query_place_id=ChIJh76ULi41O4gRAKaAZ6ACAr4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DNQaAJAgdoYHc3iLjHm8qQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=338.85928&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c3sq8pdv"
+  },
+  {
+    "title": "Corktown Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1444 Michigan Ave, Detroit, MI 48216",
+    "neighborhood": "Corktown",
+    "street": "1444 Michigan Ave",
+    "city": "Detroit",
+    "postalCode": "48216",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(313) 974-7079",
+    "phoneUnformatted": "+13139747079",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3316661,
+      "lng": -83.0665277
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJoT_pQJctO4gRPxcbX5be8Hk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x883b2d9740e93fa1:0x79f0de965f1b173f",
+    "cid": "8786767610421909311",
+    "reviewsCount": 38,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:46:41.076Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Corktown%20Apothecary&query_place_id=ChIJoT_pQJctO4gRPxcbX5be8Hk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Detroit%20MI/@62.95881800455232,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Detroit MI",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npWZrR3JC63DYgj3fqoSAjcexaBAPAqaFmYfEATIAstWx6oAa1K6ayUEeMVwZk-E90g0mM2SNISX5voiv5IWGx7mMkGguqcU9FmxmOpX63Zh4bEtuPKMpd94haebEgSluIzFNm-Vg=w408-h306-k-no",
+    "kgmid": "/g/11s4stygbb"
+  }
+]

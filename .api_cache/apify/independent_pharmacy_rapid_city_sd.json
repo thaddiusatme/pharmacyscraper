@@ -1,0 +1,2343 @@
+[
+  {
+    "title": "Lewis Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "720 E 1st St, Tea, SD 57064, United States",
+    "neighborhood": null,
+    "street": "720 E 1st St",
+    "city": "Tea",
+    "postalCode": "57064",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-pharmacy-tea",
+    "phone": "+1 605-368-9001",
+    "phoneUnformatted": "+16053689001",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.4470298,
+      "lng": -96.8275753
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJy9UCubPIjocRBo_jI0LKLbA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878ec8b3b902d5cb:0xb02dca4223e38f06",
+    "cid": "12695025310046064390",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.631Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Pharmacy&query_place_id=ChIJy9UCubPIjocRBo_jI0LKLbA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGmgz-nsjU2ZRGA_BGzn_IfEvKtzqthK3qBJyh=w408-h306-k-no",
+    "kgmid": "/g/1vp6_p9k"
+  },
+  {
+    "title": "Rushmore Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1308 Mt Rushmore Rd, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "1308 Mt Rushmore Rd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://www.rushmorecompoundingpharmacy.com/",
+    "phone": "+1 605-721-0831",
+    "phoneUnformatted": "+16057210831",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0733001,
+      "lng": -103.2320334
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrz3Q1jFDfYcRa_Hn267t4bI",
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x877d4331d6d03daf:0xb2e1edaedbe7f16b",
+    "cid": "12889844943780573547",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rushmore%20Compounding%20Pharmacy&query_place_id=ChIJrz3Q1jFDfYcRa_Hn267t4bI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkB8hoOMmxls3XlaIoYWFVrXXVVv_EjZ27GE1Zaj5hW4hm5Uc1tNQHVOSlfIMebC0SA9kXY6EXqq28f6CtUpW3eTO89Jr0O5U1zxr8NAFX19oZDzuZkdIfrhBL5yV-SWPPwiU=w408-h306-k-no",
+    "kgmid": "/g/11cn5kyjtl"
+  },
+  {
+    "title": "The Medicine Shoppe Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1304 Mt Rushmore Rd, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "1304 Mt Rushmore Rd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://rapidcity.medicineshoppe.com/",
+    "phone": "+1 605-348-6305",
+    "phoneUnformatted": "+16053486305",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0733292,
+      "lng": -103.2319479
+    },
+    "locatedIn": "Rushmore Compounding Pharmacy",
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5WJR1zFDfYcRbB2qJlwqCPU",
+    "categories": [
+      "Pharmacy",
+      "Diabetes center",
+      "Drug store",
+      "Medical clinic"
+    ],
+    "fid": "0x877d4331d75162e5:0xf5082a5c26aa1d6c",
+    "cid": "17656408914380070252",
+    "reviewsCount": 31,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rushmore Compounding Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9 am–5 pm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 am–5 pm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 am–5 pm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 am–5 pm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 am–5 pm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Medicine%20Shoppe%20Pharmacy&query_place_id=ChIJ5WJR1zFDfYcRbB2qJlwqCPU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vnpdQpoyL6udPYLxVyOZrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.22165&pitch=0&thumbfov=100",
+    "kgmid": "/g/12635_1b1"
+  },
+  {
+    "title": "Monument Health Home+ Pharmacy - Rapid City",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "353 Fairmont Blvd, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "353 Fairmont Blvd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://directory.monument.health/facility/sd/rapid-city/353-fairmont-boulevard-6676619",
+    "phone": "+1 605-755-8184",
+    "phoneUnformatted": "+16057558184",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0576034,
+      "lng": -103.2254244
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO5GUqB5DfYcRNc7ogzQmVr0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d431ea894913b:0xbd56263483e8ce35",
+    "cid": "13643134128158723637",
+    "reviewsCount": 19,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Monument%20Health%20Home%2B%20Pharmacy%20-%20Rapid%20City&query_place_id=ChIJO5GUqB5DfYcRNc7ogzQmVr0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYVcTtNez4c8ZyWLEgldhVL5RtbScY9EaPRRex=w426-h240-k-no",
+    "kgmid": "/g/12hptdx1q"
+  },
+  {
+    "title": "Monument Health Home+ Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "725 Meade St, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "725 Meade St",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://directory.monument.health/facility/sd/rapid-city/2006-mount-rushmore-road",
+    "phone": "+1 605-755-3065",
+    "phoneUnformatted": "+16057553065",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0633517,
+      "lng": -103.2309826
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJub-7xplCfYcRTvTxrRWQlkw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d4299c6bbbfb9:0x4c969015adf1f44e",
+    "cid": "5518756816176149582",
+    "reviewsCount": 13,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Monument%20Health%20Home%2B%20Specialty%20Pharmacy&query_place_id=ChIJub-7xplCfYcRTvTxrRWQlkw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOua08LFCXPkfG06TJKgM5qYKEGWd9ByWo-CCOG=w408-h299-k-no",
+    "kgmid": "/g/11gd1wj52c"
+  },
+  {
+    "title": "Medicine Shoppe Advanced Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5626 Fargo Ln #104, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "5626 Fargo Ln #104",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "phone": "+1 605-348-2500",
+    "phoneUnformatted": "+16053482500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.029268,
+      "lng": -103.209214
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVVFHCRDfYcRc5gIKvnsQfk",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x877d43241c455555:0xf941ecf92a089873",
+    "cid": "17960897343826466931",
+    "reviewsCount": 1,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicine%20Shoppe%20Advanced%20Care%20Pharmacy&query_place_id=ChIJVVVFHCRDfYcRc5gIKvnsQfk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4QMrTkIigoN7ZcaQYIBfY_YsEekfewBuv3gCG=w408-h286-k-no",
+    "kgmid": "/g/11fll6k1yf"
+  },
+  {
+    "title": "Boyds Drug Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Robbinsdale Shopping Center, 909 E Saint Patrick St #1, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "Robbinsdale Shopping Center, 909 E Saint Patrick St #1",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://stores.healthmart.com/boydspharmacyeast/our_stores.aspx",
+    "phone": "+1 605-348-0741",
+    "phoneUnformatted": "+16053480741",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0667138,
+      "lng": -103.2013258
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzYt3ocFCfYcRCyr2BdVi5LU",
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Liquor store",
+      "Drug store",
+      "Post office"
+    ],
+    "fid": "0x877d42c1a1778bcd:0xb5e462d505f62a0b",
+    "cid": "13106709482622560779",
+    "reviewsCount": 19,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boyds%20Drug%20Mart&query_place_id=ChIJzYt3ocFCfYcRCyr2BdVi5LU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXHrGAf24Y5To_2qf_gK_w406QGvWY6UatuqMleTGbO3F2FrhuZ-D7_AK_OuRpR9iHtyTB2yOMTQuBpx_Cgasac80ESoeV7TINIZFMh_nJ4l695kCR4BmEgfLIlq_ezQO9WUwe=w420-h240-k-no",
+    "kgmid": "/g/1tfbj6n0"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1415 Eglin St, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "1415 Eglin St",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rapid-city-sd-pharmacies/1415-eglin-st-rapid-city-sd-57701/storeid=17510?WT.mc_id=LS_GOOGLE_RX_17510",
+    "phone": "+1 605-341-8621",
+    "phoneUnformatted": "+16053418621",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0984315,
+      "lng": -103.189222
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyUj6f0NdfYcRIkA8mMe3Tkk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d5d437ffa48c9:0x494eb7c7983c4022",
+    "cid": "5282361480832630818",
+    "reviewsCount": 47,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJyUj6f0NdfYcRIkA8mMe3Tkk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOOw3y0UM_JHE5HwQqlbTrYyYPPiIUzoZP8Rk1j=w408-h272-k-no",
+    "kgmid": "/g/1tczkzqj"
+  },
+  {
+    "title": "Boyds Drug Express",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2650 Mt Rushmore Rd, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "2650 Mt Rushmore Rd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://boydsdrugexpress.rx365.com/",
+    "phone": "+1 605-718-4040",
+    "phoneUnformatted": "+16057184040",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0595039,
+      "lng": -103.2313584
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj7ZnJRhDfYcRvsOkkX9QfBI",
+    "categories": [
+      "Pharmacy",
+      "Gift shop"
+    ],
+    "fid": "0x877d43182567b68f:0x127c507f91a4c3be",
+    "cid": "1332028098629387198",
+    "reviewsCount": 13,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boyds%20Drug%20Express&query_place_id=ChIJj7ZnJRhDfYcRvsOkkX9QfBI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cAeujfhjoH-DbXquUKRiSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=122.82493&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf4fjjj"
+  },
+  {
+    "title": "Family Fare Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1516 E Saint Patrick St, Rapid City, SD 57703, United States",
+    "neighborhood": null,
+    "street": "1516 E Saint Patrick St",
+    "city": "Rapid City",
+    "postalCode": "57703",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.shopfamilyfare.com/pharmacies",
+    "phone": "+1 605-343-6214",
+    "phoneUnformatted": "+16053436214",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0688194,
+      "lng": -103.1902263
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSS7SNrxCfYcRojDAFzeaLs0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d42bc36d22e49:0xcd2e9a3717c030a2",
+    "cid": "14784924188116267170",
+    "reviewsCount": 20,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:47.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Family%20Fare%20Pharmacy&query_place_id=ChIJSS7SNrxCfYcRojDAFzeaLs0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NshQsmSQvwqxJB59DdRUQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.8609549&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hc_vfphg"
+  },
+  {
+    "title": "Lewis Family Drug - Chamberlain",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "201 N Main St, Chamberlain, SD 57325, United States",
+    "neighborhood": null,
+    "street": "201 N Main St",
+    "city": "Chamberlain",
+    "postalCode": "57325",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-chamberlain",
+    "phone": "+1 605-234-5871",
+    "phoneUnformatted": "+16052345871",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.8119703,
+      "lng": -99.3298383
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPeYfFOcwgYcRhxibUGAwSXc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878130e7141fe63d:0x77493060509b1887",
+    "cid": "8595454554040637575",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 6,
+      "fiveStar": 17
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:43:48.891Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug%20-%20Chamberlain&query_place_id=ChIJPeYfFOcwgYcRhxibUGAwSXc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJzvZyWmO3rTddvFR5ht4dIZKj60N0U-bkq3gJ=w408-h256-k-no",
+    "kgmid": "/g/1pp2v0978"
+  },
+  {
+    "title": "Boyds Drug Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "655 Mountain View Rd, Rapid City, SD 57702, United States",
+    "neighborhood": null,
+    "street": "655 Mountain View Rd",
+    "city": "Rapid City",
+    "postalCode": "57702",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://boydsdrugmart.com/",
+    "phone": "+1 605-343-4445",
+    "phoneUnformatted": "+16053434445",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0808236,
+      "lng": -103.2537737
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQT9fa7JcfYcRnpUiUEUW1bo",
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Liquor store",
+      "Drug store",
+      "Post office"
+    ],
+    "fid": "0x877d5cb26b5f3f41:0xbad516455022959e",
+    "cid": "13462691148046964126",
+    "reviewsCount": 68,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:44:26.759Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boyds%20Drug%20Mart&query_place_id=ChIJQT9fa7JcfYcRnpUiUEUW1bo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2-Qxy5EWtMIY8Une80qH0KaMtCHXR5hMGyFvRpx2fnPj3XTSnqgcWKh5ww9LIf1AKkoCStmxOe5v-7LW3HEZhHG-_ek0yBsc0brngCVbsCOokc4ByDFoCjV2KtWsePD5uGK4=w408-h306-k-no",
+    "kgmid": "/g/1vyk2_pd"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "540 Mountain View Rd, Rapid City, SD 57702, United States",
+    "neighborhood": null,
+    "street": "540 Mountain View Rd",
+    "city": "Rapid City",
+    "postalCode": "57702",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-540+mountain+view+rd-rapid+city-sd-57702/id=5643",
+    "phone": "+1 605-342-6010",
+    "phoneUnformatted": "+16053426010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0815867,
+      "lng": -103.2515064
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM1IVz7NcfYcRYCAgYdx4Q7s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d5cb3cf155233:0xbb4378dc61202060",
+    "cid": "13493761796449771616",
+    "reviewsCount": 16,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:44:26.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8 am–1:30 pm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8 am–1:30 pm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJM1IVz7NcfYcRYCAgYdx4Q7s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipML48aNuH2D_lhYImPB8QHuPrEjLxDR-m0jsE8Y=w525-h240-k-no",
+    "kgmid": "/g/11tn8clcc_"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2120 Mt Rushmore Rd, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "2120 Mt Rushmore Rd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/sd/rapid-city/2120-mt-rushmore-rd.html",
+    "phone": "+1 605-348-7552",
+    "phoneUnformatted": "+16053487552",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0649549,
+      "lng": -103.2308974
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu2DKtzxDfYcRV6oQl3z13n8",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x877d433cb7ca60bb:0x7fdef57c9710aa57",
+    "cid": "9214071803105815127",
+    "reviewsCount": 25,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:44:26.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJu2DKtzxDfYcRV6oQl3z13n8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNjbcX-VuWyGg-Y4l9J4NZymwwYuiGLDl6v3CeV=w426-h240-k-no",
+    "kgmid": "/g/1tdlhszk"
+  },
+  {
+    "title": "Avera long term care",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2801 Plant St, Rapid City, SD 57702",
+    "neighborhood": null,
+    "street": "2801 Plant St",
+    "city": "Rapid City",
+    "postalCode": "57702",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "phone": "(605) 858-7120",
+    "phoneUnformatted": "+16058587120",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0944466,
+      "lng": -103.2660322
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi5qYbQBdfYcRuPufm23BW3M",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d5d006d989a8b:0x735bc16d9b9ffbb8",
+    "cid": "8312450213748931512",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:44:48.240Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avera%20long%20term%20care&query_place_id=ChIJi5qYbQBdfYcRuPufm23BW3M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@45.410355141996405,-111.81587931391937,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CQoYeh7TBVgegw-IBGEF6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.0459&pitch=0&thumbfov=100",
+    "kgmid": "/g/11w3c6mlvn"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "730 Mountain View Rd, Rapid City, SD 57702",
+    "neighborhood": null,
+    "street": "730 Mountain View Rd",
+    "city": "Rapid City",
+    "postalCode": "57702",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/sd/rapid-city/730-mountain-view-rd.html",
+    "phone": "(605) 342-8505",
+    "phoneUnformatted": "+16053428505",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0801997,
+      "lng": -103.2507785
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiQeU_7JcfYcRsxY2v_tTJSw",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x877d5cb2ff940789:0x2c2553fbbf3616b3",
+    "cid": "3181041052517013171",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:45:04.169Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJiQeU_7JcfYcRsxY2v_tTJSw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRO7Dqk9BVdruKcZ8gaTa3AjQaZM0w1rtn44I=w426-h240-k-no",
+    "kgmid": "/g/1thy094q"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "100 Stumer Rd, Rapid City, SD 57701",
+    "neighborhood": null,
+    "street": "100 Stumer Rd",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/3872-rapid-city-sd/pharmacy/?veh=seo_loc",
+    "phone": "(605) 877-3298",
+    "phoneUnformatted": "+16058773298",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0338057,
+      "lng": -103.2183798
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSRgdqk9CfYcRSTkrwdBaoH0",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x877d424faa1d1849:0x7da05ad0c12b3949",
+    "cid": "9052335103655229769",
+    "reviewsCount": 32,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:45:04.169Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJSRgdqk9CfYcRSTkrwdBaoH0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBCeQ9UHsnn-UXKvf9GYwYuSQMuTKS_nhVkfdD=w408-h306-k-no",
+    "kgmid": "/g/1hhhhyxy7"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "308 Quincy St, Rapid City, SD 57701",
+    "neighborhood": null,
+    "street": "308 Quincy St",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "phone": "(605) 646-6235",
+    "phoneUnformatted": "+16056466235",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0773012,
+      "lng": -103.222809
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvTiRu-NDfYcRxN4_VhGDXuI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d43e3bb9138bd:0xe25e8311563fdec4",
+    "cid": "16311619010867224260",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:45:04.169Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJvTiRu-NDfYcRxN4_VhGDXuI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ygIuEJ-vNjHNb-LP1FUb_Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=20.421059&pitch=0&thumbfov=100",
+    "kgmid": "/g/11x18ntv_1"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1125 N Lacrosse St, Rapid City, SD 57701, United States",
+    "neighborhood": null,
+    "street": "1125 N Lacrosse St",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1125+n+lacrosse+st-rapid+city-sd-57701/id=9512",
+    "phone": "+1 605-348-3265",
+    "phoneUnformatted": "+16053483265",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0962022,
+      "lng": -103.2022184
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbTpCZjldfYcRkkaBrn3VuMY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877d5d3966423a6d:0xc6b8d57dae814692",
+    "cid": "14319429750999828114",
+    "reviewsCount": 15,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:45:45.879Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive-through": [
+        {
+          "day": "Monday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 am–1:30 pm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJbTpCZjldfYcRkkaBrn3VuMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@42.54640259466427,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjXmnZhISc4dKl3IMkVh4F74LD3S4DnnYtSMiP=w525-h240-k-no",
+    "kgmid": "/g/11tn8cx7kh"
+  },
+  {
+    "title": "Avera Long-Term Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4101 W Memory Cir Suite 120, Sioux Falls, SD 57107",
+    "neighborhood": null,
+    "street": "4101 W Memory Cir Suite 120",
+    "city": "Sioux Falls",
+    "postalCode": "57107",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.avera.org/health-care-professionals/long-term-care-pharmacy-services/",
+    "phone": "(605) 322-1450",
+    "phoneUnformatted": "+16053221450",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6377215,
+      "lng": -96.7828387
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ6wpKtC0jocREMm_uN68Iik",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878eb4d02a29ac67:0x2922bcdeb8bfc910",
+    "cid": "2964139169531545872",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:45:47.519Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avera%20Long-Term%20Care%20Pharmacy&query_place_id=ChIJZ6wpKtC0jocREMm_uN68Iik",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rapid%20City%20SD/@43.4470298,-96.8275753,8.540765335783773z?hl=en",
+    "searchString": "independent pharmacy Rapid City SD",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUS1tQXur5LvFvUpFOQC1hTPL_70DymvTp53eh=w408-h306-k-no",
+    "kgmid": "/g/11bvt538xb"
+  }
+]

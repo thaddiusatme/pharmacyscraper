@@ -1,0 +1,2308 @@
+[
+  {
+    "title": "Apollo Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "418 W Broughton St, Savannah, GA 31401",
+    "neighborhood": "North Historic District",
+    "street": "418 W Broughton St",
+    "city": "Savannah",
+    "postalCode": "31401",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.apollorx.care/",
+    "phone": "(912) 999-6101",
+    "phoneUnformatted": "+19129996101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.080453,
+      "lng": -81.096834
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88fb9e676f7ee769:0x7b2aced51383a365",
+    "cid": "8875133430237733733",
+    "reviewsCount": 194,
+    "imagesCount": 128,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.381Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apollo%20Pharmacy&query_place_id=ChIJaed-b2ee-4gRZaODE9XOKns",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9-x-vmLy0b6n-4Pzs26pMr7sDW5BN6cqg3HqI=w408-h272-k-no",
+    "kgmid": "/g/11c0pjn_pw",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Compounding Solutions-Savannah Pharmacy and Wellness",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "603 E 69th St, Savannah, GA 31405",
+    "neighborhood": "Abercorn Heights",
+    "street": "603 E 69th St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.compoundsavannah.com/",
+    "phone": "(912) 629-0444",
+    "phoneUnformatted": "+19126290444",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0282289,
+      "lng": -81.0976105
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88fb75ecd0f08dc7:0xc6b4de76e1cdf19d",
+    "cid": "14318313717493526941",
+    "reviewsCount": 40,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.382Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Compounding%20Solutions-Savannah%20Pharmacy%20and%20Wellness&query_place_id=ChIJx43w0Ox1-4gRnfHN4XbetMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJz86mGRvjCILo4IiQDH3Ml4vWg_twPMXUJvJE=w408-h306-k-no",
+    "kgmid": "/g/1th297tm",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Coastal Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "104 Stephenson Ave, Savannah, GA 31405",
+    "neighborhood": "Oakdale",
+    "street": "104 Stephenson Ave",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.coastalcompounding.com/",
+    "phone": "(912) 354-5188",
+    "phoneUnformatted": "+19123545188",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.0138374,
+      "lng": -81.1125612
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75a537377d75:0x641e3a3685cd5518",
+    "cid": "7214267658941584664",
+    "reviewsCount": 47,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Coastal%20Compounding%20Pharmacy&query_place_id=ChIJdX03N6V1-4gRGFXNhTY6HmQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEOYtSpKCzaNQm_ZqA5Mix9e2NnZ-dLRx_gRQoh7dsz7uNG9turndme2gJtltfgiAE6vP0kyjV2Xc3Hrcd7y-wwX2b45KS8VW6K75Zag8Jxg5k-UXjBWt24ompkH1IuPnS3wWXKQ=w408-h306-k-no",
+    "kgmid": "/g/1tfmd2gf",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Georgetown Drug Company",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1080 King George Blvd, Savannah, GA 31419",
+    "neighborhood": null,
+    "street": "1080 King George Blvd",
+    "city": "Savannah",
+    "postalCode": "31419",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://georgetowndrug.com/",
+    "phone": "(912) 920-1500",
+    "phoneUnformatted": "+19129201500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 31.9843112,
+      "lng": -81.221557
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb0ba39f41f441:0xb23d608d7b6ae276",
+    "cid": "12843527873107780214",
+    "reviewsCount": 75,
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Georgetown%20Drug%20Company&query_place_id=ChIJQfRBn6ML-4gRduJqe41gPbI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRpxJ_lIKI-Ltz9HvhtI_UcY-f4JbW5aP5_65p=w408-h277-k-no",
+    "kgmid": "/g/1tksjnj7",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Village Walk Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 Skidaway Village Walk Suite 201, Savannah, GA 31411",
+    "neighborhood": null,
+    "street": "1 Skidaway Village Walk Suite 201",
+    "city": "Savannah",
+    "postalCode": "31411",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://villagewalkpharmacy.com/",
+    "phone": "(912) 598-8669",
+    "phoneUnformatted": "+19125988669",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 31.9401622,
+      "lng": -81.0525722
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb7137be63c6cd:0x22a1d8a23bb0f218",
+    "cid": "2495513859837719064",
+    "reviewsCount": 20,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Walk%20Pharmacy&query_place_id=ChIJzcZjvjdx-4gRGPKwO6LYoSI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noec0QjZGKUW0xysgyy0Jzc-kxdjGcZ4_e_mqPsyvGTJFf-0xpRJzI3OOFXTSSKIcTpOcSCSFwEnyiLGmn7soAipsatW-bBW9aVP1b8fukGruEiAfkeDI0SRHUJ9Vw-hasog4s=w408-h544-k-no",
+    "kgmid": "/g/1tfwqtxk",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Lo Cost Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "612 E 69th St, Savannah, GA 31405",
+    "neighborhood": "Abercorn Heights",
+    "street": "612 E 69th St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.locostpharmacy.com/",
+    "phone": "(912) 352-0375",
+    "phoneUnformatted": "+19123520375",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0284931,
+      "lng": -81.097193
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75ecd10b2e89:0x96a709376e74bb42",
+    "cid": "10855655560480865090",
+    "reviewsCount": 64,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lo%20Cost%20Pharmacy&query_place_id=ChIJiS4L0ex1-4gRQrt0bjcJp5Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIJ-eubSFSZiKmiL8nOxROQRJF6hocPINacE8=w408-h306-k-no",
+    "kgmid": "/g/1pp2x5nh3",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Health Delivery Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1326 Eisenhower Dr building 1, Savannah, GA 31406",
+    "neighborhood": "Oakdale",
+    "street": "1326 Eisenhower Dr building 1",
+    "city": "Savannah",
+    "postalCode": "31406",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.healthdeliverypharmacy.com/",
+    "phone": "(912) 200-9250",
+    "phoneUnformatted": "+19122009250",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0061648,
+      "lng": -81.0951621
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88fb75c9ac959783:0xe53608d6664285bb",
+    "cid": "16516398400359531963",
+    "reviewsCount": 3,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Health%20Delivery%20Pharmacy&query_place_id=ChIJg5eVrMl1-4gRu4VCZtYINuU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM8oIfdJ24YcSs0-zjpbDuB84N_cZyF2fKgCTdX=w408-h306-k-no",
+    "kgmid": "/g/11f2wjzh5s",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Quick RX Drugs, Inc.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "911 E 65th St, Savannah, GA 31405",
+    "neighborhood": "Midtown",
+    "street": "911 E 65th St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://quickrxdrugs.com/",
+    "phone": "(912) 355-0122",
+    "phoneUnformatted": "+19123550122",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0296999,
+      "lng": -81.0931961
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75ed9e46c6c1:0xa9962a0fa0bfa8da",
+    "cid": "12220000885526210778",
+    "reviewsCount": 21,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.383Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quick%20RX%20Drugs%2C%20Inc.&query_place_id=ChIJwcZGnu11-4gR2qi_oA8qlqk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYVrUBDA5ZyPymfKYRGvKASO209OXs057hXLNW=w425-h240-k-no",
+    "kgmid": "/g/1tddt194",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Nightingale Pharmacy,Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9100 White Bluff Rd #604, Savannah, GA 31406",
+    "neighborhood": "Oakhurst",
+    "street": "9100 White Bluff Rd #604",
+    "city": "Savannah",
+    "postalCode": "31406",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "(912) 856-2365",
+    "phoneUnformatted": "+19128562365",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 31.9946315,
+      "lng": -81.1253927
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb74fc1c555555:0xc5a903b2a8d52aad",
+    "cid": "14242919362407508653",
+    "reviewsCount": 9,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.384Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nightingale%20Pharmacy%2CInc&query_place_id=ChIJVVVVHPx0-4gRrSrVqLIDqcU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "kgmid": "/g/11rc7trtq9",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Janus RX",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "836 E 65th St, Savannah, GA 31405",
+    "neighborhood": "Midtown",
+    "street": "836 E 65th St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.januspharmacy.com/savannah-ga-contact",
+    "phone": "(912) 355-3230",
+    "phoneUnformatted": "+19123553230",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.0304443,
+      "lng": -81.0942203
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75ed84000001:0xbb3e312e63eb2bed",
+    "cid": "13492275608963197933",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.384Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Janus%20RX&query_place_id=ChIJAQAAhO11-4gR7SvrYy4xPrs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_eBwUuBFpeWX1bgILlE7Pg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.60819&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sghq3vxy",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Medical Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4700 Waters Ave, Savannah, GA 31404",
+    "neighborhood": "Memorial Hospital/Fairfield",
+    "street": "4700 Waters Ave",
+    "city": "Savannah",
+    "postalCode": "31404",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://coastalpharmacyinc.com/mcp/",
+    "phone": "(912) 350-6337",
+    "phoneUnformatted": "+19123506337",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.031092,
+      "lng": -81.0887249
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75f0282903dd:0xf53cbeb7e5cd04f9",
+    "cid": "17671208734938694905",
+    "reviewsCount": 8,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.384Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medical%20Center%20Pharmacy&query_place_id=ChIJ3QMpKPB1-4gR-QTN5be-PPU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC7KuFqdc2bFFS7JiaMEuZNaAxEknDcN93typb=w658-h240-k-no",
+    "kgmid": "/g/1tvtc5yd",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "RXVIP Concierge",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "519 E Jones St, Savannah, GA 31401",
+    "neighborhood": "Beach Institute",
+    "street": "519 E Jones St",
+    "city": "Savannah",
+    "postalCode": "31401",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.rxvipconcierge.com/contact/",
+    "phone": "(912) 453-9757",
+    "phoneUnformatted": "+19124539757",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.0706498,
+      "lng": -81.0884323
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb9e6e77ad9b1b:0x9faa0b73bfd9a6d7",
+    "cid": "11505020789839210199",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:04.384Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RXVIP%20Concierge&query_place_id=ChIJG5utd26e-4gR16bZv3MLqp8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@62.264056934850785,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xq8F8rIb3QSDRfoiqtFSOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.84654&pitch=0&thumbfov=100",
+    "kgmid": "/g/11pkk97h9x",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4451 Paulsen St Suite 100, Savannah, GA 31405, United States",
+    "neighborhood": "Lamara Heights",
+    "street": "4451 Paulsen St Suite 100",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "+1 912-421-0317",
+    "phoneUnformatted": "+19124210317",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0332805,
+      "lng": -81.0955999
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Mental health service"
+    ],
+    "fid": "0x88fb75ececcba103:0x7f725c7de5b79125",
+    "cid": "9183504285956542757",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:09.190Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJA6HL7Ox1-4gRJZG35X1ccn8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@65.04310121365691,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F80GJxWHyholaU866Cjq8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.96893&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bwfkh9pf",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Diversified Pharmacy Group",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6709 Forest Park Dr # A, Savannah, GA 31406, United States",
+    "neighborhood": "Oakdale",
+    "street": "6709 Forest Park Dr # A",
+    "city": "Savannah",
+    "postalCode": "31406",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "+1 912-352-7635",
+    "phoneUnformatted": "+19123527635",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.0116525,
+      "lng": -81.1096489
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75a537377d75:0x240da9676c8d4db9",
+    "cid": "2597918821730569657",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:09.190Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Diversified%20Pharmacy%20Group&query_place_id=ChIJdX03N6V1-4gRuU2NbGepDSQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@65.04310121365691,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TZExFOwEFI4MPt-u0Fwexw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=276.03387&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tl1p95q",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Savannah Rx",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1000A Eisenhower Dr, Savannah, GA 31406",
+    "neighborhood": "Oakdale",
+    "street": "1000A Eisenhower Dr",
+    "city": "Savannah",
+    "postalCode": "31406",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.savannahrx.com/",
+    "phone": "(912) 447-1937",
+    "phoneUnformatted": "+19124471937",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0071423,
+      "lng": -81.1020065
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb753e355cd507:0x6a221320db1dbe23",
+    "cid": "7647696149064564259",
+    "reviewsCount": 23,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:14.562Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Savannah%20Rx&query_place_id=ChIJB9VcNT51-4gRI74d2yATImo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@13.044146111058147,144.514192455857,12z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMg-zDuW7NcgT70fRtFB6sJ_rJ8P74l8gvUicZY=w408-h271-k-no",
+    "kgmid": "/g/11s_z4z10y",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Southcoast Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1326 Eisenhower Dr Bldg 1, Savannah, GA 31406",
+    "neighborhood": "Oakdale",
+    "street": "1326 Eisenhower Dr Bldg 1",
+    "city": "Savannah",
+    "postalCode": "31406",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.southcoast-health.com/pharmacy",
+    "phone": "(912) 691-3528",
+    "phoneUnformatted": "+19126913528",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.0065338,
+      "lng": -81.095193
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb75c9acea952b:0xebf3c959d3d68da2",
+    "cid": "17002154405897080226",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:14.562Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Southcoast%20Pharmacy&query_place_id=ChIJK5XqrMl1-4gRoo3W01nJ8-s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@13.044146111058147,144.514192455857,12z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rcVa941U35Gomp1HFmuX9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.403772&pitch=0&thumbfov=100",
+    "kgmid": "/g/11by_gw131",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Candler Prescription Center at Candler Hospital",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5354 Reynolds St, Savannah, GA 31405",
+    "neighborhood": "Abercorn Heights",
+    "street": "5354 Reynolds St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.sjchs.org/a-z-services-list/candler-prescription-center",
+    "phone": "(912) 819-7272",
+    "phoneUnformatted": "+19128197272",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0268695,
+      "lng": -81.0998438
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb7593b0c31b9b:0x47b1c8da564e7630",
+    "cid": "5166131087647077936",
+    "reviewsCount": 37,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:14.562Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Candler%20Prescription%20Center%20at%20Candler%20Hospital&query_place_id=ChIJmxvDsJN1-4gRMHZOVtrIsUc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@13.044146111058147,144.514192455857,12z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kUqCGvvwzYKIgqx_zI9g6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.5243&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tmy5xn6",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "Patirica A. Willmann, MS",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5353 Reynolds St, Savannah, GA 31405",
+    "neighborhood": "Abercorn Heights",
+    "street": "5353 Reynolds St",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "(912) 819-6742",
+    "phoneUnformatted": "+19128196742",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.027973,
+      "lng": -81.1002076
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb7593a6918fb7:0xe8c14cf22fa606a0",
+    "cid": "16771771090369644192",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:18.712Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Patirica%20A.%20Willmann%2C%20MS&query_place_id=ChIJt4-RppN1-4gRoAamL_JMweg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@63.653579074253855,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J94kbjSPHDgRD60PBdntGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.94077&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdgw7ly",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "119 Bull St, Savannah, GA 31401",
+    "neighborhood": "North Historic District",
+    "street": "119 Bull St",
+    "city": "Savannah",
+    "postalCode": "31401",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/savannah-ga-pharmacies/119-bull-st-corner-of-state-street-savannah-ga-31401/storeid=4187?WT.mc_id=LS_GOOGLE_RX_4187",
+    "phone": "(912) 232-1129",
+    "phoneUnformatted": "+19122321129",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0785064,
+      "lng": -81.0924797
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb9e6670b27d95:0x6473c0a0cbb9e6bf",
+    "cid": "7238340822959777471",
+    "reviewsCount": 34,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:19.200Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJlX2ycGae-4gRv-a5y6DAc2Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@16.5245629,145.9846491807291,12z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMesbbPQC9gfKMMVR5mUxdRNyx_T9-gQFAKXEWC=w408-h272-k-no",
+    "kgmid": "/g/11c4682n5f",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5690 Ogeechee Rd, Savannah, GA 31405, United States",
+    "neighborhood": null,
+    "street": "5690 Ogeechee Rd",
+    "city": "Savannah",
+    "postalCode": "31405",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/savannah-ga-pharmacies/5690-ogeechee-rd-savannah-ga-31405/storeid=6369?WT.mc_id=LS_GOOGLE_RX_6369",
+    "phone": "+1 912-234-5575",
+    "phoneUnformatted": "+19122345575",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.0301674,
+      "lng": -81.2216673
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fb0a69cad07147:0xc4b7ef496301366f",
+    "cid": "14175061450644600431",
+    "reviewsCount": 34,
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:05:32.722Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJR3HQymkK-4gRbzYBY0nvt8Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Savannah%20GA/@25.362687310671483,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Savannah GA",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNDhP5fPmWzoFbFX-8VgGSby19-UWuHQkSClByR=w408-h272-k-no",
+    "kgmid": "/g/11c468nzc9",
+    "classification": "error",
+    "is_independent": null,
+    "is_compounding": null,
+    "confidence": 0.0,
+    "source": "error",
+    "method": "api_failure"
+  }
+]

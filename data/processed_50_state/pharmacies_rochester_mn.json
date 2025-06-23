@@ -1,0 +1,2754 @@
+[
+  {
+    "title": "Guide Point Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "202 N Broadway Ave, Rochester, MN 55906",
+    "neighborhood": "Downtown",
+    "street": "202 N Broadway Ave",
+    "city": "Rochester",
+    "postalCode": "55906",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.guidepointpharmacyrx.com/",
+    "phone": "(507) 288-6463",
+    "phoneUnformatted": "+15072886463",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0256462,
+      "lng": -92.4624428
+    },
+    "locatedIn": "Queen City Center",
+    "plusCode": "2GGQ+72 Rochester, Minnesota",
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f7c4b373139:0xe868d53d52cfc499",
+    "cid": "16746869673736258713",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 18
+    },
+    "imagesCount": 3,
+    "imageCategories": [
+      "All",
+      "Street View & 360\u00b0",
+      "Videos"
+    ],
+    "scrapedAt": "2025-06-22T05:53:37.665Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Hunt Drug LTC",
+        "reviewsCount": 5,
+        "totalScore": 4.6
+      },
+      {
+        "category": "People also search for",
+        "title": "Walgreens Pharmacy",
+        "reviewsCount": 8,
+        "totalScore": 3
+      },
+      {
+        "category": "People also search for",
+        "title": "Eagle Store",
+        "reviewsCount": 62,
+        "totalScore": 4.6
+      },
+      {
+        "category": "People also search for",
+        "title": "Hy-Vee Pharmacy",
+        "reviewsCount": 8,
+        "totalScore": 3.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Thrifty White",
+        "reviewsCount": 9,
+        "totalScore": 3.2
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Guide%20Point%20Pharmacy&query_place_id=ChIJOTE3S3xf94cRmcTPUj3VaOg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@25.06111148263476,-168.20498369703614,13z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrk-_e6hz1cvTGrjb9KWaH7ZQm826Mnl13aHO4g1eKv_k7ldeOQM4qX9JztdkAC06zqBIySB6H6FF1Mv8EpkFHsbxJvAkfcK2XKU6z2Ebl6jtZb_EjevnJFSkD36Q43rZ_oREGbyw=w426-h240-k-no",
+    "kgmid": "/g/1ts_74__",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "ROCHESTER CITY PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": null,
+    "website": "https://rochestercitypharmacy.com/index.html#about",
+    "phone": "(507) 206-3196",
+    "phoneUnformatted": "+15072063196",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.996339,
+      "lng": -92.481139
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Service establishment"
+    ],
+    "fid": "0x87f75f251f0ea13d:0xf5677aa2ca31df1c",
+    "cid": "17683237301489098524",
+    "reviewsCount": 5,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ROCHESTER%20CITY%20PHARMACY&query_place_id=ChIJPaEOHyVf94cRHN8xyqJ6Z_U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO8FSEJx1gQwl6HrXk1BPLlxM7QPU7PM_jSrZng=w408-h306-k-no",
+    "kgmid": "/g/11jwhlpfsp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mayo Clinic | Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "200 1st St SW #1501, Rochester, MN 55902",
+    "neighborhood": "Downtown",
+    "street": "200 1st St SW #1501",
+    "city": "Rochester",
+    "postalCode": "55902",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "http://www.mayoclinic.com/",
+    "phone": "(507) 284-2021",
+    "phoneUnformatted": "+15072842021",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0223563,
+      "lng": -92.4666481
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f7b36316f2d:0x7976995d51880dc2",
+    "cid": "8752351551920016834",
+    "reviewsCount": 22,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mayo%20Clinic%20%7C%20Pharmacy&query_place_id=ChIJLW8xNntf94cRwg2IUV2Zdnk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqsJ50yyBKyN3QrrsX42kHuRMdgKZkuekPwAth272PEJRO7zplOfbxl7aNDUvIQoDqiTGQb_jYerAp7sQpaPpU-3mueBKxPMDWTH9AxYRxsfsGbkshBPg67jUJ_xn6OwJhyyKXItA=w408-h306-k-no",
+    "kgmid": "/g/12qglq9m6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mayo Clinic Baldwin Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "221 4th Ave SW, Rochester, MN 55902",
+    "neighborhood": "Downtown",
+    "street": "221 4th Ave SW",
+    "city": "Rochester",
+    "postalCode": "55902",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.mayoclinic.org/patient-visitor-guide/minnesota/pharmacy-services",
+    "phone": "(507) 284-8880",
+    "phoneUnformatted": "+15072848880",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0210667,
+      "lng": -92.4688373
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f653b7d9b2b:0x2cad652ec805da12",
+    "cid": "3219340560238500370",
+    "reviewsCount": 31,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mayo%20Clinic%20Baldwin%20Pharmacy&query_place_id=ChIJK5t9O2Vf94cREtoFyC5lrSw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "kgmid": "/g/11hbv9c7k6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "OMC - Rochester Northwest Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5067 55th St NW, Rochester, MN 55901",
+    "neighborhood": null,
+    "street": "5067 55th St NW",
+    "city": "Rochester",
+    "postalCode": "55901",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.olmmed.org/locations-hours/walk-in-care/?id=20&utm_source=OMC_NWPharm&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+    "phone": "(507) 535-1974",
+    "phoneUnformatted": "+15075351974",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.08014,
+      "lng": -92.5404663
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f7674cd797e91b:0xee84cd5a6d6ac0cc",
+    "cid": "17187087866219118796",
+    "reviewsCount": 37,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OMC%20-%20Rochester%20Northwest%20Pharmacy&query_place_id=ChIJG-mX10xn94cRzMBqbVrNhO4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nod_Q2HUZ6v_2TFSOjnw_ZTkrvBmEocCyMmcsdvI8L19yXCRuaJohQOamHuppgBRKeL0aCAPi-jm-i2_1fHUd3LOe3JtbDnM-oDTTZbr1r9ThkpGju273HfQEj10oPIyTn-e2bH=w408-h306-k-no",
+    "kgmid": "/g/12qfgg934",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "4221 W Cir Dr NW, Rochester, MN 55901",
+    "neighborhood": null,
+    "street": "4221 W Cir Dr NW",
+    "city": "Rochester",
+    "postalCode": "55901",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/rochester-4-4221-w-circle-dr-nw-rochester-mn/1556?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "(507) 292-6002",
+    "phoneUnformatted": "+15072926002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.065685,
+      "lng": -92.52624
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x87f75e1ebca9039f:0xa7f8635b73ce4403",
+    "cid": "12103533242994279427",
+    "reviewsCount": 77,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJnwOpvB5e94cRA0TOc1tj-Kc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsnRBnCvmAS7Qi3OzDpi2LO-z3sfvmqpR_BrCL=w408-h408-k-no",
+    "kgmid": "/g/11d_1mfkgn",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "OMC - Rochester Southeast Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "210 9th St SE, Rochester, MN 55904",
+    "neighborhood": "Slatterly Park",
+    "street": "210 9th St SE",
+    "city": "Rochester",
+    "postalCode": "55904",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.olmmed.org/locations-hours/walk-in-care/?id=62&utm_source=OMC_SEPharm&utm_campaign=Local-Listings&utm_medium=Google-My-Business",
+    "phone": "(507) 292-7255",
+    "phoneUnformatted": "+15072927255",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0121818,
+      "lng": -92.4601827
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f9e1e00407e4b3:0x327022955e977152",
+    "cid": "3634442924220445010",
+    "reviewsCount": 36,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OMC%20-%20Rochester%20Southeast%20Pharmacy&query_place_id=ChIJs-QHBODh-YcRUnGXXpUicDI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOl-goA8nB7Sm9xGsOEsBbdqs7d80bdHYIhSEo1=w408-h272-k-no",
+    "kgmid": "/g/12610q81x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1112 Civic Center Dr NW, Rochester, MN 55901",
+    "neighborhood": null,
+    "street": "1112 Civic Center Dr NW",
+    "city": "Rochester",
+    "postalCode": "55901",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1112+civic+center+dr+nw-rochester-mn-55901/id=13463",
+    "phone": "(507) 206-5173",
+    "phoneUnformatted": "+15072065173",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0279171,
+      "lng": -92.4794126
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f74c6623267:0x29a0cfcbf834cf12",
+    "cid": "2999625826778271506",
+    "reviewsCount": 33,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.325Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJZzJixnRf94cREs80-MvPoCk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofNrriuBG4mSvuEUufwiuFVRcTFmBEHjFu_V2xgDZvoiNVOnKD7aGwMtvK9aeo8pJmrlCY_A_PhIyzKycwHiGSbWr-iWN6_okoL6A_roRfebQUnvOk5qctaLjrcC_E7JpUtvms=w408-h306-k-no",
+    "kgmid": "/g/11cn972dl8",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hunt Drug LTC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1512 N Broadway Ave, Rochester, MN 55906",
+    "neighborhood": null,
+    "street": "1512 N Broadway Ave",
+    "city": "Rochester",
+    "postalCode": "55906",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.huntdrug.net/",
+    "phone": "(507) 289-3901",
+    "phoneUnformatted": "+15072893901",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0382946,
+      "lng": -92.460873
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f876dfcbdab:0xa52ee5a5586d1c15",
+    "cid": "11902703363502709781",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:53:39.326Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Drug%20LTC&query_place_id=ChIJq738bYdf94cRFRxtWKXlLqU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@63.653579074253855,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TeWolVM-sQ6erihAlkeX5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.29358&pitch=0&thumbfov=100",
+    "kgmid": "/g/1w2yz_t_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Alexander Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "222 Alexander St #2700, Rochester, NY 14607",
+    "neighborhood": "Park Avenue",
+    "street": "222 Alexander St #2700",
+    "city": "Rochester",
+    "postalCode": "14607",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.alexanderrx.com/",
+    "phone": "(585) 262-3760",
+    "phoneUnformatted": "+15852623760",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 43.149911,
+      "lng": -77.5954318
+    },
+    "plusCode": "4CX3+XR Rochester, New York",
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Hospice",
+      "Pain control clinic",
+      "Skin care clinic"
+    ],
+    "fid": "0x89d6b506249a4a21:0x3f945a9d463b7b58",
+    "cid": "4581386352477305688",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 3,
+      "fiveStar": 10
+    },
+    "imagesCount": 17,
+    "imageCategories": [
+      "All",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T05:55:59.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "popularTimesHistogram": {
+      "Su": [],
+      "Mo": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 34
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 43
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 41
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 23
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Tu": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 81
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 87
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 76
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 67
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 67
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 36
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "We": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 52
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 70
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 60
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 58
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 54
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 40
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 27
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Th": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 69
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 65
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 56
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 32
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Fr": [
+        {
+          "hour": 6,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 7,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 8,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 9,
+          "occupancyPercent": 50
+        },
+        {
+          "hour": 10,
+          "occupancyPercent": 63
+        },
+        {
+          "hour": 11,
+          "occupancyPercent": 72
+        },
+        {
+          "hour": 12,
+          "occupancyPercent": 87
+        },
+        {
+          "hour": 13,
+          "occupancyPercent": 98
+        },
+        {
+          "hour": 14,
+          "occupancyPercent": 100
+        },
+        {
+          "hour": 15,
+          "occupancyPercent": 76
+        },
+        {
+          "hour": 16,
+          "occupancyPercent": 47
+        },
+        {
+          "hour": 17,
+          "occupancyPercent": 29
+        },
+        {
+          "hour": 18,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 19,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 20,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 21,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 22,
+          "occupancyPercent": 0
+        },
+        {
+          "hour": 23,
+          "occupancyPercent": 0
+        }
+      ],
+      "Sa": []
+    },
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Portland Pharmacy",
+        "reviewsCount": 51,
+        "totalScore": 4.9
+      },
+      {
+        "category": "People also search for",
+        "title": "Park Ridge Apothecary",
+        "reviewsCount": 23,
+        "totalScore": 4.7
+      },
+      {
+        "category": "People also search for",
+        "title": "CVS Pharmacy",
+        "reviewsCount": 19,
+        "totalScore": 3.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Walgreens Pharmacy",
+        "reviewsCount": 6,
+        "totalScore": 3.3
+      },
+      {
+        "category": "People also search for",
+        "title": "Rochestercare Pharmacy",
+        "reviewsCount": 137,
+        "totalScore": 4.1
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "prescription",
+        "count": 5
+      },
+      {
+        "title": "email",
+        "count": 2
+      },
+      {
+        "title": "phone",
+        "count": 2
+      },
+      {
+        "title": "door",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alexander%20Pharmacy&query_place_id=ChIJIUqaJAa11okRWHs7Rp1alD8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@42.54640259466427,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noQbOU0JyW2Kow_TVeA6M3ohSrfhdXWKVoK2j_7ufxY0CMrL7C0Y3L0ezONH3J0vZuG81hC2E-FFkEr150VEt9nvKbMQqjHFpVVd8d97tAOhTqPzAVPWGNOuuKGCzywVP3L3JOQ=w408-h542-k-no",
+    "kgmid": "/g/1tfnt_c1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Eagle Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "23 2nd St SW, Rochester, MN 55902, United States",
+    "neighborhood": "Downtown",
+    "street": "23 2nd St SW",
+    "city": "Rochester",
+    "postalCode": "55902",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "http://www.eaglestorerochestermn.com/",
+    "phone": "+1 507-282-5266",
+    "phoneUnformatted": "+15072825266",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0218786,
+      "lng": -92.4643084
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Grocery store"
+    ],
+    "fid": "0x87f75f634ae96f1f:0x23ff90edc5ba776b",
+    "cid": "2593951261287675755",
+    "reviewsCount": 62,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:04.568Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "On-site services": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eagle%20Store&query_place_id=ChIJH2_pSmNf94cRa3e6xe2Q_yM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@51.14639400957372,-179.4365489794267,11z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqj5P5SCQejMMM-w890sAJgkZqMYCowOVoYmOODoYgaO-ZLCAeZeqvm79wSt4duZNIX2Vgy7f_NBauXoCjYfFVhpZJtBRDSgDxZzcAitVHvC8yCrABxO2uzRuIifcWcBJp8OqU=w426-h240-k-no",
+    "kgmid": "/g/1tw1fd06",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cub Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2480 Scott Rd NW, Rochester, MN 55901, United States",
+    "neighborhood": null,
+    "street": "2480 Scott Rd NW",
+    "city": "Rochester",
+    "postalCode": "55901",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "http://www.cub.com/",
+    "phone": "+1 507-224-4037",
+    "phoneUnformatted": "+15072244037",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0502435,
+      "lng": -92.5184938
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f0072e1bd91:0x93c08587ea4e18b7",
+    "cid": "10646656337901918391",
+    "reviewsCount": 2,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:04.568Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cub%20Pharmacy&query_place_id=ChIJkb3hcgBf94cRtxhO6oeFwJM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@51.14639400957372,-179.4365489794267,11z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq6sVSoFwIpP9-HXn-1Rqc-PnbDkrv8ufCj_xIfjy-hv-dRPG75xsmsN8wWnuVxwulmCEPkXb-EyiVkDNHKjtkP4jVTbLdtgFvnF5W7R-CqmCUW-p15piJYNGeq6EZGK8V0ebC1=w426-h240-k-no",
+    "kgmid": "/g/11y48jnkqt",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mayo Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "201 W Center St LO92, Rochester, MN 55902, United States",
+    "neighborhood": "Downtown",
+    "street": "201 W Center St LO92",
+    "city": "Rochester",
+    "postalCode": "55902",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "http://www.mayoclinic.org/patient-visitor-guide/minnesota/becoming-a-patient/pharmacies",
+    "phone": "+1 507-266-7416",
+    "phoneUnformatted": "+15072667416",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0237253,
+      "lng": -92.4662245
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75f7b7a6dd793:0x933dd286d7778070",
+    "cid": "10609867773737140336",
+    "reviewsCount": 25,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:04.568Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 3:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 3:30\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mayo%20Clinic%20Pharmacy&query_place_id=ChIJk9dtentf94cRcIB314bSPZM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@51.14639400957372,-179.4365489794267,11z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8Ty49lt39UWrNRClPP4q-oTluKb3lA_LjomG5fFwQHHN1gYy19xC6IrYxhnMZqjGReNxu2NWHBzJmvt4ikSvDeiKSkJAuzm6Kp2tpLGiU7liPYkaKu-IcblpDXrM0a3azOziB=w408-h544-k-no",
+    "kgmid": "/g/11b7k075l_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hunt Silver Lake Drug",
+    "price": "\u20ac\u20ac",
+    "categoryName": "Pharmacy",
+    "address": "Silver Lake Shopping Center, 1510 N Broadway Ave, Rochester, MN 55906, United States",
+    "neighborhood": null,
+    "street": "Silver Lake Shopping Center, 1510 N Broadway Ave",
+    "city": "Rochester",
+    "postalCode": "55906",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://stores.hallmark.com/mn/rochester/hunt-silver-lake-drug-rochester-mn-011665.html",
+    "phone": "+1 507-289-1543",
+    "phoneUnformatted": "+15072891543",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0382914,
+      "lng": -92.4609396
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Christmas store",
+      "Gift shop",
+      "Gift wrap store",
+      "Novelty store",
+      "Paper store",
+      "Picture frame shop",
+      "Scrapbooking store",
+      "Stationery store"
+    ],
+    "fid": "0x87f75f8708dbc735:0x19c767453a03a23a",
+    "cid": "1857566918337339962",
+    "reviewsCount": 174,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:04.852Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hunt%20Silver%20Lake%20Drug&query_place_id=ChIJNcfbCIdf94cROqIDOkVnxxk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@28.299902597178697,-178.19202668985028,12z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4HeiX4R0h62XrjQ4lwz21Xekz-TZCJBScuK3l7hgcCSPno5GGohTxWwdMJ2u7JT05IqHdtvVXqHjBWq-8UYGDfYXL5Lnoc6FRSDjeG1zkvX9rRmJgB70HVZ57Yn8GHGeJZoqG=w408-h544-k-no",
+    "kgmid": "/g/1tfb73j9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Seward Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2209 E Lake St, Minneapolis, MN 55407",
+    "neighborhood": "Powderhorn",
+    "street": "2209 E Lake St",
+    "city": "Minneapolis",
+    "postalCode": "55407",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "http://sewardpharmacy.com/",
+    "phone": "(612) 444-3530",
+    "phoneUnformatted": "+16124443530",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.9481571,
+      "lng": -93.2401273
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f629cb880b8c7d:0xec5f311ee55e36f6",
+    "cid": "17032386324505442038",
+    "reviewsCount": 70,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:21.915Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Seward%20Pharmacy&query_place_id=ChIJfYwLiMsp9ocR9jZe5R4xX-w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokrMx_LLOj8G_uCgnQ7hXmZakSBGkVVoOVzkjQPTX_q25XpYGTqKWyQmB0oY2zlbfKFTYGiyhsq5P033qcs53Uv0k5KYX43xRdAzbXpYrdXNqDhpWH2BuGeqlCp-B4_s5CmZTr=w426-h240-k-no",
+    "kgmid": "/g/11h_4hkdvl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Heartfelt Holistic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6525 France Ave S, Minneapolis, MN 55435",
+    "neighborhood": null,
+    "street": "6525 France Ave S",
+    "city": "Minneapolis",
+    "postalCode": "55435",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "phone": "(612) 315-4671",
+    "phoneUnformatted": "+16123154671",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.8847961,
+      "lng": -93.3272473
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f626a516bd23cf:0x15998015ea974576",
+    "cid": "1556415977851667830",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:21.915Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heartfelt%20Holistic%20Pharmacy&query_place_id=ChIJzyO9FqUm9ocRdkWX6hWAmRU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cf9SROgL3ANS9vzQBgaruQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.629745&pitch=0&thumbfov=100",
+    "kgmid": "/g/11btz3dxrx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mayo Clinic Pharmacy Northeast",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3041 Stonehedge Dr NE, Rochester, MN 55906",
+    "neighborhood": null,
+    "street": "3041 Stonehedge Dr NE",
+    "city": "Rochester",
+    "postalCode": "55906",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.mayoclinic.org/",
+    "phone": "(507) 538-8550",
+    "phoneUnformatted": "+15075388550",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0551655,
+      "lng": -92.4350944
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f9e0695ad5cf71:0x68cd181d51ba3e2a",
+    "cid": "7551718664374468138",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 5
+    },
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:22.826Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mayo%20Clinic%20Pharmacy%20Northeast&query_place_id=ChIJcc_VWmng-YcRKj66UR0YzWg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "kgmid": "/g/11fzp8p8sn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3827 Marketplace Dr NW, Rochester, MN 55901",
+    "neighborhood": null,
+    "street": "3827 Marketplace Dr NW",
+    "city": "Rochester",
+    "postalCode": "55901",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rochester-mn-pharmacies/3827-marketplace-dr-nw-rochester-mn-55901/storeid=16690?WT.mc_id=LS_GOOGLE_RX_16690",
+    "phone": "(507) 536-3898",
+    "phoneUnformatted": "+15075363898",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0624524,
+      "lng": -92.5033946
+    },
+    "totalScore": 2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f75e2c46aaaaab:0x2ec9662f2dd2113d",
+    "cid": "3371338148881764669",
+    "reviewsCount": 51,
+    "reviewsDistribution": {
+      "oneStar": 35,
+      "twoStar": 3,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 10
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:22.826Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJq6qqRixe94cRPRHSLS9myS4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 34,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOR5v7gLHJrRYmd7Vic_yhZV3Gpt5wTwi29gGy=w408-h272-k-no",
+    "kgmid": "/g/11k9nsxxc9",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4611 Maine Ave SE, Rochester, MN 55904",
+    "neighborhood": null,
+    "street": "4611 Maine Ave SE",
+    "city": "Rochester",
+    "postalCode": "55904",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rochester-mn-pharmacies/4611-maine-ave-se-rochester-mn-55904/storeid=17387?WT.mc_id=LS_GOOGLE_RX_17387",
+    "phone": "(507) 206-5021",
+    "phoneUnformatted": "+15072065021",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.9544007,
+      "lng": -92.4656689
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f7587e6d267bcd:0x704d9b62c6325883",
+    "cid": "8092294953988937859",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 18,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 3,
+      "fiveStar": 16
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:56:22.826Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJzXsmbX5Y94cRg1gyxmKbTXA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rochester%20MN/@45.410355141996405,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Rochester MN",
+    "language": "en",
+    "rank": 35,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgPjUIHyY4pE8CA9ACJ7tLccmxiIunYXMPQu65=w408-h272-k-no",
+    "kgmid": "/g/1tk1zlwm",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

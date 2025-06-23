@@ -1,0 +1,2188 @@
+[
+  {
+    "title": "Employer's Health Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "808 Diers Ave, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "808 Diers Ave",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "phone": "+1 308-381-2225",
+    "phoneUnformatted": "+13083812225",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9258776,
+      "lng": -98.3853943
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986daad7c4b25:0x126df2e2a24a92e8",
+    "cid": "1327984520343491304",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.540Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Employer's%20Health%20Care%20Pharmacy&query_place_id=ChIJJUt8rdqGmYcR6JJKouLybRI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WwZLrEG0mK0RFA1NMK7isw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.2152&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h1j3h2cf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "U Save Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "423 W 4th St, Grand Island, NE 68801, United States",
+    "neighborhood": "Uptown",
+    "street": "423 W 4th St",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "http://www.usaverx.com/",
+    "phone": "+1 308-384-7372",
+    "phoneUnformatted": "+13083847372",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.92647,
+      "lng": -98.345717
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8799865a43ea3d31:0x8dabb309f05ab628",
+    "cid": "10208449835633915432",
+    "reviewsCount": 60,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.541Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U%20Save%20Pharmacy&query_place_id=ChIJMT3qQ1qGmYcRKLZa8Amzq40",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npeNPc1qRKGLEPpr6T8abAtNIwla_rUDuMAzl_3TRQh7Hv154rsBC7lNZ8YUctfcDJhpK9YsHvxxEunf1a-uDwAINZiZtidX14U3N_xvbIpWEN_KXFExiY8aRwlhioqUkC644g=w426-h240-k-no",
+    "kgmid": "/g/1tdlc6pz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Super Saver Pharmacy at Five Points",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "710 State St, Grand Island, NE 68801, United States",
+    "neighborhood": null,
+    "street": "710 State St",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.doineedacovid19test.com/",
+    "phone": "+1 308-398-0940",
+    "phoneUnformatted": "+13083980940",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9399557,
+      "lng": -98.3580083
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8799870180f0053d:0x13f88873938e4219",
+    "cid": "1439050110923063833",
+    "reviewsCount": 6,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.541Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Super%20Saver%20Pharmacy%20at%20Five%20Points&query_place_id=ChIJPQXwgAGHmYcRGUKOk3OI-BM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOM0QgX0YMFg1rLNBNCQTeLDFxSUILChhG5oOek=w408-h272-k-no",
+    "kgmid": "/g/11k3wv9sz9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Midwest LTC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2208 N Webb Rd Unit #3, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "2208 N Webb Rd Unit #3",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "http://midwestltcpharmacy.com/",
+    "phone": "+1 308-398-0538",
+    "phoneUnformatted": "+13083980538",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9418357,
+      "lng": -98.3816691
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986955cdc06eb:0x490f23f91251ffa0",
+    "cid": "5264466042080591776",
+    "reviewsCount": 5,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.541Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Midwest%20LTC%20Pharmacy&query_place_id=ChIJ6wbcXJWGmYcRoP9REvkjD0k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0xck1iwRYlwzIO8Gg3lOdIAqT2mhOX4JeywFl=w408-h516-k-no",
+    "kgmid": "/g/1v16qtf1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ben Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3003 Frontage Rd #2, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "3003 Frontage Rd #2",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "phone": "+1 308-382-3324",
+    "phoneUnformatted": "+13083823324",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.914202,
+      "lng": -98.376131
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986955cdc06eb:0x69f234ca8af8dd6f",
+    "cid": "7634222362866015599",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.541Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ben%20Pharmacy&query_place_id=ChIJ6wbcXJWGmYcRb934iso08mk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6qNW_yS76-1DSFDY2MRyNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.87399&pitch=0&thumbfov=100",
+    "kgmid": "/g/1260j6xzb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "U-Save Pharmacy Northwest",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3224 W 13th St, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "3224 W 13th St",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.usaverx.com/",
+    "phone": "+1 308-384-9010",
+    "phoneUnformatted": "+13083849010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9319165,
+      "lng": -98.3781951
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986de8473657b:0x76deae2507e0e747",
+    "cid": "8565475015374464839",
+    "reviewsCount": 57,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.541Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U-Save%20Pharmacy%20Northwest&query_place_id=ChIJe2VzhN6GmYcRR-fgByWu3nY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npO6X_ODnZ8VQJBjM0o-FrWKOTMuBtSIH5xW0dPncu_AqpeMlHmsUGx0UEuGYahMXvaQIRH7P7q40Hx0zTgocdFtO2GUtp9rCCDTyxKMHDuDj8nT7eo9flqDp-z98uP9Z1M4cw=w408-h544-k-no",
+    "kgmid": "/g/1tjdrv7p",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "115 Wilmar Ave, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "115 Wilmar Ave",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/grand-island-115-wilmar-ave-grand-island-ne/1221?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "+1 308-381-0328",
+    "phoneUnformatted": "+13083810328",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.91789,
+      "lng": -98.37992
+    },
+    "locatedIn": "Hy-Vee Fast & Fresh",
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x879986c6b47b5b63:0xc275a330fff948fd",
+    "cid": "14012285246481451261",
+    "reviewsCount": 31,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.542Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Hy-Vee Fast & Fresh": [
+        {
+          "day": "Monday",
+          "hours": "5\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "5\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "5\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "5\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "5\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJY1t7tMaGmYcR_Uj5_zCjdcI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_JG6I_Cy5I9iVWlPF9fItyHvu2HahHQCSgdGTv0lfOudT9ta76tM8yDrNWFp7qVXgDzcMYFzes0OIrhPfRC5wW1cpT2SApbMwY8wUdjt8tvx2h0fIFIaRhf7grNpFbR2wjsRC3g=w426-h240-k-no",
+    "kgmid": "/g/1pv5_j26f",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "U-Save Pharmacy South",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2105 S Locust St, Grand Island, NE 68801, United States",
+    "neighborhood": null,
+    "street": "2105 S Locust St",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.usaverx.com/grand-island-south",
+    "phone": "+1 308-382-3784",
+    "phoneUnformatted": "+13083823784",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9011072,
+      "lng": -98.3391781
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87998677a671028f:0xffb9617abb8b511",
+    "cid": "1151679158132716817",
+    "reviewsCount": 40,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.542Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U-Save%20Pharmacy%20South&query_place_id=ChIJjwJxpneGmYcREbW4qxeW-w8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7dAHgFx7UakiEvgpEIMxHpSIu6_L73Dy7PMOW4meai7DkADr9W6ww2KxTpopBIE8VcWWyqVy4SLjjJAcR3uSmK_GvXNZM-RSUdlKaUkrJdDnpH79ki_ndHOzTCmYwdIpafKzlTA=w408-h725-k-no",
+    "kgmid": "/g/1thw2nb8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Island Prescription Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1728 Grand Island Blvd, Grand Island, NY 14072, United States",
+    "neighborhood": null,
+    "street": "1728 Grand Island Blvd",
+    "city": "Grand Island",
+    "postalCode": "14072",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://islandprescriptioncenter.com/",
+    "phone": "+1 716-773-5599",
+    "phoneUnformatted": "+17167735599",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.0083819,
+      "lng": -78.9514416
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89d36bea89cdf929:0x90f42b1ebda8755b",
+    "cid": "10445020846809970011",
+    "reviewsCount": 33,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.542Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Island%20Prescription%20Center&query_place_id=ChIJKfnNiepr04kRW3WovR4r9JA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMXNl8U3pkGQQtz_fbauTSq8HmflyoUTXMKWH6B=w408-h306-k-no",
+    "kgmid": "/g/1tjz4bxq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Franklin Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "635 15th Ave, Franklin, NE 68939, United States",
+    "neighborhood": null,
+    "street": "635 15th Ave",
+    "city": "Franklin",
+    "postalCode": "68939",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://home.color.com/covid/sign-up/start?partner=icatt5759-adult",
+    "phone": "+1 308-425-3004",
+    "phoneUnformatted": "+13084253004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.0947325,
+      "lng": -98.9539816
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8798c4f1d96d2c2f:0x8d63e08953f18a3c",
+    "cid": "10188233662465673788",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.542Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Franklin%20Drug&query_place_id=ChIJLyxt2fHEmIcRPIrxU4ngY40",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kgV8ME79Hvxa2PooByhgIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.5724&pitch=0&thumbfov=100",
+    "kgmid": "/g/11k51s98v5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1710 W 2nd St, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "1710 W 2nd St",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/grand-island-ne-pharmacies/1710-w-2nd-st-grand-island-ne-68803/storeid=10243?WT.mc_id=LS_GOOGLE_RX_10243",
+    "phone": "+1 308-384-4089",
+    "phoneUnformatted": "+13083844089",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9181332,
+      "lng": -98.3578776
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986f4a8eb330b:0xb477403c7d0828d0",
+    "cid": "13003933077595498704",
+    "reviewsCount": 25,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.542Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJCzPrqPSGmYcR0CgIfTxAd7Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4xGbBlktZJm_69RS67UYVF3zFuZFpWo8NMZ_X=w408-h272-k-no",
+    "kgmid": "/g/11c469nx7x",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1515 W 2nd St, Grand Island, NE 68801, United States",
+    "neighborhood": null,
+    "street": "1515 W 2nd St",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1515+w+2nd+st-grand+island-ne-68801/id=3467",
+    "phone": "+1 308-384-8290",
+    "phoneUnformatted": "+13083848290",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9181979,
+      "lng": -98.3555094
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986f529edfa6f:0x957372821e82a99e",
+    "cid": "10769077037156182430",
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.543Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJb_rtKfWGmYcRnqmCHoJyc5U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMeHzZQ3OoEB_3a43Jdeu_NgPLFvcLeLdU5oZa-=w525-h240-k-no",
+    "kgmid": "/g/11cn95b32b",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1710 W 2nd St, Grand Island, NE 68803, United States",
+    "neighborhood": null,
+    "street": "1710 W 2nd St",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/grand-island-ne-pharmacies/1710-w-2nd-st-grand-island-ne-68803/storeid=10243?WT.mc_id=LS_GOOGLE_FS_10243",
+    "phone": "+1 308-384-4089",
+    "phoneUnformatted": "+13083844089",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9181332,
+      "lng": -98.3578776
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x879986f4b1f514d9:0x90bcaf7ac6ac5a93",
+    "cid": "10429403778937281171",
+    "reviewsCount": 48,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:42.543Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fam\u20131:30\u202fpm"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20139\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20138\u202fpm"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJ2RT1sfSGmYcRk1qsxnqvvJA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFHXaZEr9SiGP_-JsdVGv4AgGvCQxbxZpMtXHn=w408-h272-k-no",
+    "kgmid": "/g/1yj4k3d4q",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Norbert M. Wenzl, RP",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2201 North Broadwell Avenue, Grand Island, NE 68803, Grand Island, NE 68801, United States",
+    "neighborhood": null,
+    "street": "2201 North Broadwell Avenue, Grand Island, NE 68803",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "NE",
+    "countryCode": "US",
+    "website": "http://www.nebraska.va.gov/",
+    "phone": "+1 308-382-3660",
+    "phoneUnformatted": "+13083823660",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9427873,
+      "lng": -98.3570197
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87998703f76f3801:0x75924f24b6116449",
+    "cid": "8471920868129334345",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:44.034Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Norbert%20M.%20Wenzl%2C%20RP&query_place_id=ChIJAThv9wOHmYcRSWQRtiRPknU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@69.21166763186608,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tg3blzn",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Megan M. Mumm, PharmD",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2201 North Broadwell Avenue, Grand Island, NE 68803, Grand Island, NE 68801, United States",
+    "neighborhood": null,
+    "street": "2201 North Broadwell Avenue, Grand Island, NE 68803",
+    "city": "Grand Island",
+    "postalCode": "68801",
+    "state": "NE",
+    "countryCode": "US",
+    "website": "http://www.nebraska.va.gov/",
+    "phone": "+1 308-382-3660",
+    "phoneUnformatted": "+13083823660",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.9427873,
+      "lng": -98.3570197
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87998703f76f3801:0xa5fd6e379ce62a00",
+    "cid": "11960837370500491776",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:44.034Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Megan%20M.%20Mumm%2C%20PharmD&query_place_id=ChIJAThv9wOHmYcRACrmnDdu_aU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@69.21166763186608,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "kgmid": "/g/1td9f7qm",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1230 N Webb Rd, Grand Island, NE 68803",
+    "neighborhood": null,
+    "street": "1230 N Webb Rd",
+    "city": "Grand Island",
+    "postalCode": "68803",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1230+n+webb+rd-grand+island-ne-68803/id=12538",
+    "phone": "(308) 384-2626",
+    "phoneUnformatted": "+13083842626",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.9309298,
+      "lng": -98.379022
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879986dc1c8a6387:0x45197b50066ee5bb",
+    "cid": "4979146446670325179",
+    "reviewsCount": 8,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:45.240Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJh2OKHNyGmYcRu-VuBlB7GUU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Grand%20Island%20NE/@55.96892542797799,-157.4754430303149,13z?hl=en",
+    "searchString": "independent pharmacy Grand Island NE",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFwAhmi9SmLhewcldrNg1780S5bYvD7P9RN0Rn=w525-h240-k-no",
+    "kgmid": "/g/11cn949vj_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

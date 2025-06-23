@@ -1,0 +1,2877 @@
+[
+  {
+    "title": "Raleigh Pharmacy and Market",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "927 W Morgan St STE 100, Raleigh, NC 27603",
+    "neighborhood": null,
+    "street": "927 W Morgan St STE 100",
+    "city": "Raleigh",
+    "postalCode": "27603",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.raleighpharmacy.com/",
+    "phone": "(919) 703-0154",
+    "phoneUnformatted": "+19197030154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.782294,
+      "lng": -78.655609
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Coffee shop",
+      "Market",
+      "Shipping service"
+    ],
+    "fid": "0x89ac5f626057ff67:0x301e8bec11cfb263",
+    "cid": "3467362609149227619",
+    "reviewsCount": 62,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.362Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Raleigh%20Pharmacy%20and%20Market&query_place_id=ChIJZ_9XYGJfrIkRY7LPEeyLHjA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7uN3mNbvxgS-W0fcXdRkrNiu6VA7K8TBGsBqv1zSsW5TLsKJR_iipM74XAo2q_q5YNDqoHurDMiGEqRubtSojw6xJIAFQ_yY441AhanuNrxGNXoxGzPagwaB83YJmlWS-ISIX=w408-h396-k-no",
+    "kgmid": "/g/11cltkqzf7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hayes Barton Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2000 Fairview Rd, Raleigh, NC 27608",
+    "neighborhood": "Hayes Barton",
+    "street": "2000 Fairview Rd",
+    "city": "Raleigh",
+    "postalCode": "27608",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://hayesbartonpharmacy.com/",
+    "phone": "(919) 832-4641",
+    "phoneUnformatted": "+19198324641",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8045749,
+      "lng": -78.6464119
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac5f51ef441def:0xa65e4a49ac489d25",
+    "cid": "11988100938390347045",
+    "reviewsCount": 150,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hayes%20Barton%20Pharmacy&query_place_id=ChIJ7x1E71FfrIkRJZ1IrElKXqY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNPQEhq1611bH3Lw4u-AQmcJFx86opPQutqjO8bSNOo2VgnNRPWLDtMCycOfB1mYZEMInOgSWwOw2Q0F7uX06vstyRRmtvRQZqZRtlcxhxm4GKXzYTKvUjFHGWb0oJtsZ9O5M=w430-h240-k-no",
+    "kgmid": "/g/1tdpsjgv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Springfield Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6325 Falls of Neuse Rd #65, Raleigh, NC 27615",
+    "neighborhood": "North Raleigh",
+    "street": "6325 Falls of Neuse Rd #65",
+    "city": "Raleigh",
+    "postalCode": "27615",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://springfieldpharmacycare.com/",
+    "phone": "(919) 322-4281",
+    "phoneUnformatted": "+19193224281",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8700187,
+      "lng": -78.622773
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac59d717e83091:0xe90b5b1f7ecbba14",
+    "cid": "16792615826410420756",
+    "reviewsCount": 150,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Springfield%20Pharmacy&query_place_id=ChIJkTDoF9dZrIkRFLrLfh9bC-k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-iFOlAUbygAnRGye-HSvyGtvmWWiE2tpjTz44=w408-h306-k-no",
+    "kgmid": "/g/11jl1f_7wr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicap Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6635 Falls of Neuse Rd, Raleigh, NC 27615",
+    "neighborhood": "North Raleigh",
+    "street": "6635 Falls of Neuse Rd",
+    "city": "Raleigh",
+    "postalCode": "27615",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.medicapraleigh.com/",
+    "phone": "(919) 676-6161",
+    "phoneUnformatted": "+19196766161",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8735806,
+      "lng": -78.6249798
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Nutritionist"
+    ],
+    "fid": "0x89ac583821ced9c7:0x79389aa97764077e",
+    "cid": "8734901529928271742",
+    "reviewsCount": 83,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "French": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicap%20Pharmacy&query_place_id=ChIJx9nOIThYrIkRfgdkd6maOHk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNpNeKH7QOsANXEdekwPI_pfOD5zGJ1qTu_AVMR=w427-h240-k-no",
+    "kgmid": "/g/1tdyghf7",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Greystone Village Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7713 Lead Mine Rd, Raleigh, NC 27615",
+    "neighborhood": "North Raleigh",
+    "street": "7713 Lead Mine Rd",
+    "city": "Raleigh",
+    "postalCode": "27615",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "phone": "(919) 844-7939",
+    "phoneUnformatted": "+19198447939",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8863061,
+      "lng": -78.6604846
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89acf7e31722af9b:0x7c8a4d1cc501a8d1",
+    "cid": "8974069993448777937",
+    "reviewsCount": 99,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Greystone%20Village%20Pharmacy&query_place_id=ChIJm68iF-P3rIkR0agBxRxNinw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrAjPEhpLMrI39ThtA27Iv-usZ_NV7YGoSSOuILLOibunbQzXBm43JYRwWi4cJCyiFBkJGLv8jNDjlvkiiUjrGjWIirZ4gV6OoijtPlQFtd2UlT--JjzTnwVP7HdcMnwOcAonI=w408-h306-k-no",
+    "kgmid": "/g/1s04dqqxn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Falls River Pharmacy LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10930 Raven Ridge Rd SUITE 109, Raleigh, NC 27614",
+    "neighborhood": "North Raleigh",
+    "street": "10930 Raven Ridge Rd SUITE 109",
+    "city": "Raleigh",
+    "postalCode": "27614",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://fallsriverpharmacy.com/",
+    "phone": "(919) 844-2055",
+    "phoneUnformatted": "+19198442055",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9073968,
+      "lng": -78.59043
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac5769f29697e1:0x48adefd6a632656f",
+    "cid": "5237105646892115311",
+    "reviewsCount": 179,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Falls%20River%20Pharmacy%20LLC&query_place_id=ChIJ4ZeW8mlXrIkRb2UyptbvrUg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqe03bxDFcGVltHiqPeN5EuUGwJTDD4RiPig7XdMxcaXqHSuzwNjxIfs6IhZIU5-N-tOwIks33SQSXRPd5czTeP_ueWq774sWWQdokzqzO7pfcP5sDhRz1SaHOZbH3-nefUWZWM_w=w408-h245-k-no",
+    "kgmid": "/g/1td7v162",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Person Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "702 N Person St, Raleigh, NC 27604",
+    "neighborhood": "Downtown",
+    "street": "702 N Person St",
+    "city": "Raleigh",
+    "postalCode": "27604",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.personstreetrx.com/",
+    "phone": "(919) 832-6432",
+    "phoneUnformatted": "+19198326432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7890722,
+      "lng": -78.6342183
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac5f4009ca2cbb:0x1d8c7e499d141a72",
+    "cid": "2129215578472454770",
+    "reviewsCount": 114,
+    "imagesCount": 70,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Person%20Street%20Pharmacy&query_place_id=ChIJuyzKCUBfrIkRchoUnUl-jB0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPll1p2AYTxZm43VH-vtZAfNI611VgVOwdnSyCX=w408-h272-k-no",
+    "kgmid": "/g/1w3w3xcb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Josefs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2100 New Bern Ave, Raleigh, NC 27610",
+    "neighborhood": "East Raleigh",
+    "street": "2100 New Bern Ave",
+    "city": "Raleigh",
+    "postalCode": "27610",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://josefspharmacy.com/",
+    "phone": "(919) 212-2555",
+    "phoneUnformatted": "+19192122555",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7791657,
+      "lng": -78.6062861
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac5ee3c4c952e3:0xf9302c2253f6e5f0",
+    "cid": "17955900240275367408",
+    "reviewsCount": 143,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.364Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "11\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11\u202fAM\u20133\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Josefs%20Pharmacy&query_place_id=ChIJ41LJxONerIkR8OX2UyIsMPk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlPamlSpFblCkejuW5S0QuDkMGhdXDljUUm_zp=w408-h271-k-no",
+    "kgmid": "/g/1tfzn64g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Holly Park Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1620 Martin Luther King Jr Blvd SUITE 104, Raleigh, NC 27610",
+    "neighborhood": "Downtown",
+    "street": "1620 Martin Luther King Jr Blvd SUITE 104",
+    "city": "Raleigh",
+    "postalCode": "27610",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.hollyparkpharmacy.com/",
+    "phone": "(919) 865-9993",
+    "phoneUnformatted": "+19198659993",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7692501,
+      "lng": -78.6127442
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac58c5314b1af3:0xe5d8ca21ffd49b01",
+    "cid": "16562209877029853953",
+    "reviewsCount": 74,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Holly%20Park%20Pharmacy&query_place_id=ChIJ8xpLMcVYrIkRAZvU_yHK2OU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0JNf2WMrh7WDWQnybNklggvVAjdeLiUrNyfTw=w408-h306-k-no",
+    "kgmid": "/g/1ptyrxrjs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Health Park Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "AIHF, 8300 Health Park #227, Raleigh, NC 27615",
+    "neighborhood": "North Raleigh",
+    "street": "AIHF, 8300 Health Park #227",
+    "city": "Raleigh",
+    "postalCode": "27615",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.healthparkpharmacy.com/",
+    "phone": "(919) 847-7645",
+    "phoneUnformatted": "+19198477645",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8958755,
+      "lng": -78.6590133
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Delivery service",
+      "Drug store",
+      "Medical supply store",
+      "Mental health service"
+    ],
+    "fid": "0x89acf7ffae3fddb5:0x601b305446ebe8e",
+    "cid": "432823874408595086",
+    "reviewsCount": 65,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Health%20Park%20Pharmacy&query_place_id=ChIJtd0_rv_3rIkRjr5uRAWzAQY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJM8fiRJ4hHM0TYPm0okT-okr_JQhfduQPAUiq=w408-h328-k-no",
+    "kgmid": "/g/1tgc0n9f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Oakridge Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2406 Blue Ridge Rd #180, Raleigh, NC 27607",
+    "neighborhood": "Northwest Raleigh",
+    "street": "2406 Blue Ridge Rd #180",
+    "city": "Raleigh",
+    "postalCode": "27607",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://oakridgepharmacy.us/",
+    "phone": "(919) 661-7222",
+    "phoneUnformatted": "+19196617222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8137472,
+      "lng": -78.7051162
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89acf5cd0d6c2ef5:0x37a5e40ff603d70",
+    "cid": "250616362527898992",
+    "reviewsCount": 33,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oakridge%20Pharmacy&query_place_id=ChIJ9S5sDc31rIkRcD1g_0BeegM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iaoaxajDGn9W4aO8di7Gqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=49.995552&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h5vz99zl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "City Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3110 New Bern Ave, Raleigh, NC 27610",
+    "neighborhood": "East Raleigh",
+    "street": "3110 New Bern Ave",
+    "city": "Raleigh",
+    "postalCode": "27610",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.rcitypharmacy.com/",
+    "phone": "(919) 703-0717",
+    "phoneUnformatted": "+19197030717",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 35.7885306,
+      "lng": -78.586635
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac5ebf2e2ef08b:0x12c4770c4c3d2d4e",
+    "cid": "1352336682820382030",
+    "reviewsCount": 17,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=City%20Pharmacy&query_place_id=ChIJi_AuLr9erIkRTi09TAx3xBI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGu-k7r3G5l9OVamv0X6qGIhMrCWo-cr_9rlbENEek1p2twd9gSYdqSbNPjAUHcLr6gd8fT8y97LK5Mqc_IDHah5pdWgcR750D_9_YiUckjH918wiSTLS29-Fs1SliY__wdez8Pg=w426-h240-k-no",
+    "kgmid": "/g/11g7_mwfb2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "A to Z Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1105 Ballena Cir, Cary, NC 27513",
+    "neighborhood": null,
+    "street": "1105 Ballena Cir",
+    "city": "Cary",
+    "postalCode": "27513",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.atozpharmacycarync.com/",
+    "phone": "(919) 650-3883",
+    "phoneUnformatted": "+19196503883",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7717268,
+      "lng": -78.8067877
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Medical supply store"
+    ],
+    "fid": "0x89acf3c31adebd9d:0xc0c36c9c836c6e4d",
+    "cid": "13890065095216361037",
+    "reviewsCount": 112,
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20to%20Z%20Pharmacy&query_place_id=ChIJnb3eGsPzrIkRTW5sg5xsw8A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOqxvv_TV0cbDBsAHoWQBIaB0cE4woGbFEhXh9-=w493-h240-k-no",
+    "kgmid": "/g/11gtc8jl85",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Wellness Pharmacy and Compounding Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2601 Blue Ridge Rd, Raleigh, NC 27607",
+    "neighborhood": "Northwest Raleigh",
+    "street": "2601 Blue Ridge Rd",
+    "city": "Raleigh",
+    "postalCode": "27607",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.wellnessraleigh.com/",
+    "phone": "(919) 964-5656",
+    "phoneUnformatted": "+19199645656",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.815797,
+      "lng": -78.705768
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89acf42a652cdc01:0x606d45a362028007",
+    "cid": "6948286368128860167",
+    "reviewsCount": 84,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wellness%20Pharmacy%20and%20Compounding%20Center&query_place_id=ChIJAdwsZSr0rIkRB4ACYqNFbWA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrGbLtm_z4Kz9-PdAvQpKDdUtNFTR_bBqO0fGDrapbqPrct3mI1vZafSmpMNe0ePkMh-j4AI2sWvQJg0b-eOyItMVf8osA9IdTpRUwLKJDbaXvxZP66uJmdDlK2juq7Rjs8YLoY=w426-h240-k-no",
+    "kgmid": "/g/1v7tm7k4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Better Life Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5621 Atlantic Ave Suite 103, Raleigh, NC 27615",
+    "neighborhood": "North Raleigh",
+    "street": "5621 Atlantic Ave Suite 103",
+    "city": "Raleigh",
+    "postalCode": "27615",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "phone": "(919) 891-9555",
+    "phoneUnformatted": "+19198919555",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8620136,
+      "lng": -78.6000968
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89ac590db13c1aa3:0xf44a9eb5fe303e63",
+    "cid": "17603056598021848675",
+    "reviewsCount": 140,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.365Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Better%20Life%20Pharmacy&query_place_id=ChIJoxo8sQ1ZrIkRYz4w_rWeSvQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@22.87074910283459,-161.71582772408175,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPeNColfPYc7vnFnzz4xc8xTMXUA2rcXDwSMArt=w408-h544-k-no",
+    "kgmid": "/g/11jfq9tq3w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Glenwood South Pharmacy & Market",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "401 Glenwood Ave, Raleigh, NC 27603",
+    "neighborhood": "North Boylan",
+    "street": "401 Glenwood Ave",
+    "city": "Raleigh",
+    "postalCode": "27603",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://glenwoodsouthpharmacy.com/",
+    "phone": "(919) 856-9502",
+    "phoneUnformatted": "+19198569502",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7851916,
+      "lng": -78.647567
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Health food store",
+      "Market",
+      "Vaporizer store"
+    ],
+    "fid": "0x89ac5f666f2cb8d9:0xa1ca98cd83dbfde6",
+    "cid": "11658298593849900518",
+    "reviewsCount": 118,
+    "imagesCount": 78,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:15:47.847Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "12\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Asian-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Glenwood%20South%20Pharmacy%20%26%20Market&query_place_id=ChIJ2bgsb2ZfrIkR5v3bg82YyqE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@60.874534795447715,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqypFok6nk6QXawt8a0-qCastzxy8Q0vgGyah5uBPNskeGFEFHqbZdqvvoAETCTzw-zRGmpZDFQZmTooTDXgPE_kekZnPnrqMZGVY6BpOEhb5ZUkd5AHqCvH-t07Pz4IJSXCr0lOw=w408-h306-k-no",
+    "kgmid": "/g/11cr_z59jj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "4441 Six Forks Rd STE 110, Raleigh, NC 27609",
+    "neighborhood": "North Hills",
+    "street": "4441 Six Forks Rd STE 110",
+    "city": "Raleigh",
+    "postalCode": "27609",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-4441+six+forks+rd-raleigh-nc-27609/id=16147",
+    "phone": "(919) 787-1155",
+    "phoneUnformatted": "+19197871155",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8407069,
+      "lng": -78.6437885
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac58905b873dbd:0x8799c7357de5b2e1",
+    "cid": "9771059899116401377",
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:16:01.591Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJvT2HW5BYrIkR4bLlfTXHmYc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@25.709198138018778,-171.66271071761585,13z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOG3uIzW1blBHtownn4sTjGsHiDaNhp2xlvvwPj=w525-h240-k-no",
+    "kgmid": "/g/11cn95w46n",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Garner 5th Ave Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1315 5th Ave, Garner, NC 27529, United States",
+    "neighborhood": null,
+    "street": "1315 5th Ave",
+    "city": "Garner",
+    "postalCode": "27529",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.garner5thavenuerx.com/",
+    "phone": "+1 919-747-9482",
+    "phoneUnformatted": "+19197479482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.7080593,
+      "lng": -78.6224161
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac6199c67fbf4f:0x1d23a32fe9c4eb28",
+    "cid": "2099701277465570088",
+    "reviewsCount": 47,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:16:19.372Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Garner%205th%20Ave%20Pharmacy&query_place_id=ChIJT79_xplhrIkRKOvE6S-jIx0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPeTmHFJuIXJ-nlc7J2iD11NpeBRv2jCBjhm8q-=w408-h357-k-no",
+    "kgmid": "/g/11j6sv1ydz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Holly Springs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "648 Holly Springs Rd, Holly Springs, NC 27540, United States",
+    "neighborhood": null,
+    "street": "648 Holly Springs Rd",
+    "city": "Holly Springs",
+    "postalCode": "27540",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.hollyspringspharmacy.com/",
+    "phone": "+1 919-346-6689",
+    "phoneUnformatted": "+19193466689",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.654431,
+      "lng": -78.8251197
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac8e081845a6f3:0xd02dd5e2e8e9ff17",
+    "cid": "15000881104387964695",
+    "reviewsCount": 53,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:16:19.372Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Holly%20Springs%20Pharmacy&query_place_id=ChIJ86ZFGAiOrIkRF__p6OLVLdA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOovnWHbU_kY11oKg78tJy_Rd5nAQxuBKi0MGzV=w408-h306-k-no",
+    "kgmid": "/g/11c3n21292",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Beddingfield Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "95 Springbrook Ave #101, Clayton, NC 27520, United States",
+    "neighborhood": null,
+    "street": "95 Springbrook Ave #101",
+    "city": "Clayton",
+    "postalCode": "27520",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.beddingfielddrugs.com/",
+    "phone": "+1 919-553-6224",
+    "phoneUnformatted": "+19195536224",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.6281866,
+      "lng": -78.5060763
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ac6892396db85b:0x4ca59be302f672ac",
+    "cid": "5522991917349368492",
+    "reviewsCount": 50,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:16:19.372Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beddingfield%20Drugs&query_place_id=ChIJW7htOZJorIkRrHL2AuObpUw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Raleigh%20NC/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Raleigh NC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQFrEinCTby4ngR_ip0fbaPGQ6lnLv5imb-uLiE0qqvaFvxA4XWaip11sC_-RETdxdtZtg0yzEDgGKGALFlAyAHS6-npCVjIu4TKCtBJwh8K6d3P1W-J_SOHXy4rNsr1V9NTfz=w408-h306-k-no",
+    "kgmid": "/g/1tjypl9_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

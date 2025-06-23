@@ -7,6 +7,8 @@ import numpy as np
 from unittest.mock import patch, MagicMock, ANY
 from pathlib import Path
 from typing import Dict, List, Any
+import os
+import tempfile
 
 # Import the module to test
 from src.dedup_self_heal import (
@@ -21,6 +23,7 @@ from src.dedup_self_heal import (
     scrape_pharmacies,
     get_apify_scraper
 )
+from src.dedup_self_heal.merge_and_dedupe import merge_and_dedupe_files
 
 # Sample test data
 @pytest.fixture
@@ -258,3 +261,38 @@ def test_merge_new_pharmacies(sample_pharmacies):
     # The duplicate should keep the higher confidence value
     dup_mask = (result['name'] == duplicate['name']) & (result['address'] == duplicate['address'])
     assert result[dup_mask]['confidence'].iloc[0] == 0.95  # Kept the higher confidence
+
+def test_merge_and_dedupe_files():
+    """Tests the merge_and_dedupe_files function."""
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # Create dummy CSV files
+        csv1_path = os.path.join(tmpdir, "raw1.csv")
+        csv2_path = os.path.join(tmpdir, "raw2.csv")
+        output_path = os.path.join(tmpdir, "merged.csv")
+
+        # placeId '1' is a duplicate
+        df1 = pd.DataFrame([
+            {'placeId': '1', 'name': 'Pharmacy A', 'scrapedAt': '2023-01-01T12:00:00Z'},
+            {'placeId': '2', 'name': 'Pharmacy B', 'scrapedAt': '2023-01-01T12:00:00Z'}
+        ])
+        df1.to_csv(csv1_path, index=False)
+
+        # Keep the newer version of placeId '1'
+        df2 = pd.DataFrame([
+            {'placeId': '1', 'name': 'Pharmacy A V2', 'scrapedAt': '2023-01-02T12:00:00Z'},
+            {'placeId': '3', 'name': 'Pharmacy C', 'scrapedAt': '2023-01-01T12:00:00Z'}
+        ])
+        df2.to_csv(csv2_path, index=False)
+
+        # Run the function
+        merge_and_dedupe_files([os.path.join(tmpdir, "*.csv")], output_path)
+
+        # Check the output
+        assert os.path.exists(output_path)
+        result_df = pd.read_csv(output_path)
+
+        # Assertions
+        assert len(result_df) == 3
+        assert 'Pharmacy A V2' in result_df['name'].values
+        assert 'Pharmacy A' not in result_df['name'].values # The older one should be dropped
+        assert sorted(list(result_df['placeId'])) == ['1', '2', '3']

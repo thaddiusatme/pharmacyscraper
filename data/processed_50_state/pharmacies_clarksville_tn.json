@@ -1,0 +1,2607 @@
+[
+  {
+    "title": "Andy's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "801 N 2nd St, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "801 N 2nd St",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "phone": "(931) 802-5386",
+    "phoneUnformatted": "+19318025386",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5410639,
+      "lng": -87.3656371
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864d8346df59467:0xb36cc3465aa79e11",
+    "cid": "12928923337209912849",
+    "reviewsCount": 42,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.177Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Andy's%20Pharmacy&query_place_id=ChIJZ5T1bTTYZIgREZ6nWkbDbLM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrxJjCdXDljM1YnJJ7QFXdipyxNIiwbjf7CMbHdneMnbj1ZhlqupsXEd-2FYwhBRnCqENA3DwHYkvnmLalpL94mNvcvO5RjgQC160TFznt2cry6HDi7Af2LpQCyP4ElwOJKceE2=w408-h306-k-no",
+    "kgmid": "/g/1tdxlm4z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medsource Scripts",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1849 Madison St, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "1849 Madison St",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://medsourceclarksville.com/",
+    "phone": "(931) 896-2126",
+    "phoneUnformatted": "+19318962126",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5147492,
+      "lng": -87.3057176
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop"
+    ],
+    "fid": "0x8864d9af29f7d215:0x42f3ced671bc1de8",
+    "cid": "4824427046270410216",
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.178Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medsource%20Scripts&query_place_id=ChIJFdL3Ka_ZZIgR6B28cdbO80I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIabVGuMfiV5kTir-GIrdXtAaeV6Hb8RWy3s9N=w455-h240-k-no",
+    "kgmid": "/g/11m_zns2zp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Centerstone Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "511 8th St, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "511 8th St",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://centerstone.org/service/pharmacy/",
+    "phone": "(931) 920-7252",
+    "phoneUnformatted": "+19319207252",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5357645,
+      "lng": -87.3498038
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864d9ad3e9666a9:0xfcc3137df99da925",
+    "cid": "18213422749796116773",
+    "reviewsCount": 20,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.178Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Centerstone%20Pharmacy&query_place_id=ChIJqWaWPq3ZZIgRJamd-X0Tw_w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NPvTniBfviV8TZ20Dg9PwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.62137&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hy9nnx5q",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Town & Country Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1051 S Riverside Dr, Clarksville, TN 37040",
+    "neighborhood": "Greenwood",
+    "street": "1051 S Riverside Dr",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://townandcountrydrugs.com/",
+    "phone": "(931) 645-2494",
+    "phoneUnformatted": "+19316452494",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5100236,
+      "lng": -87.3658613
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864d9eeaa4d2621:0x49e38c7175f75a56",
+    "cid": "5324253603420396118",
+    "reviewsCount": 35,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.178Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Town%20%26%20Country%20Drugs&query_place_id=ChIJISZNqu7ZZIgRVlr3dXGM40k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMWmCucRXqN49gOuRpXKHvY0AGdgxgU9x8hvoPV=w408-h306-k-no",
+    "kgmid": "/g/1tfklxrp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sango Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2622 Madison St A, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "2622 Madison St A",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.sangopharmacy.com/",
+    "phone": "(931) 919-2491",
+    "phoneUnformatted": "+19319192491",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5041871,
+      "lng": -87.2565698
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864de950a18ced7:0xeaaf638be01be4fe",
+    "cid": "16910844578211030270",
+    "reviewsCount": 93,
+    "imagesCount": 103,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.179Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sango%20Pharmacy&query_place_id=ChIJ184YCpXeZIgR_uQb4Itjr-o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZ3nyYYzExqNoo74zC2a39PbjAMH9vbKGu6nvr3WnuZ3OoOyToLH3Rqtk54jdypmZ022xb0SbcUX783ZJ0u8gjoiOq32g9T0bV3071bvGSnUJpqIsts5HvpvkqGePObMfbplBe=w408-h270-k-no",
+    "kgmid": "/g/12mkvn7p3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.92,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Medicine Shoppe",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1500 Madison St, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "1500 Madison St",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.medicineshoppe.com/",
+    "phone": "(931) 552-2552",
+    "phoneUnformatted": "+19315522552",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5185145,
+      "lng": -87.3281606
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Medical Center",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8864d913a547448d:0x922106fb1bcc3d8d",
+    "cid": "10529705079341858189",
+    "reviewsCount": 24,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.179Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Medicine%20Shoppe&query_place_id=ChIJjURHpRPZZIgRjT3MG_sGIZI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lUY1DnhBgZmHuIn6B5bN6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=201.991&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tvm3hkv",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "DIXIE PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "311 Landrum Pl, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "311 Landrum Pl",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.dixierx.com/",
+    "phone": "(931) 241-5688",
+    "phoneUnformatted": "+19312415688",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5197362,
+      "lng": -87.3016085
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Care services"
+    ],
+    "fid": "0x8864deccaad4de33:0x4eb79c9a955a356c",
+    "cid": "5672174443441042796",
+    "reviewsCount": 6,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.179Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DIXIE%20PHARMACY&query_place_id=ChIJM97UqszeZIgRbDValZqct04",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-y7Tx0PTYimC6UNSIMwhJgSwae__MRzg1Qkfc=w562-h240-k-no",
+    "kgmid": "/g/11g6bj8s6z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Warren's Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1808-D Ashland City Rd, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "1808-D Ashland City Rd",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "phone": "(931) 919-2404",
+    "phoneUnformatted": "+19319192404",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5030052,
+      "lng": -87.322314
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x8864d9379a4f3711:0x6d1fe08ca0c9bc58",
+    "cid": "7863250369009794136",
+    "reviewsCount": 19,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:58.179Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Warren's%20Apothecary&query_place_id=ChIJETdPmjfZZIgRWLzJoIzgH20",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@59.485012656044645,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NjE5L4ZoD7rhC4A4Bh2LXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=166.70424&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdcmq1_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dunlop Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "620 Dunlop Ln #110, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "620 Dunlop Ln #110",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.dunloprx.com/",
+    "phone": "(931) 278-6422",
+    "phoneUnformatted": "+19312786422",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5796163,
+      "lng": -87.2715869
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88652082b63d3c71:0x45378dcf1a92f1b0",
+    "cid": "4987611032979698096",
+    "reviewsCount": 30,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dunlop%20Pharmacy&query_place_id=ChIJcTw9toIgZYgRsPGSGs-NN0U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4TLUPnyYO2qk7K2Y74k6A-DPK7xx98MYDjbVy4sL3qAVf5Qb3-_JCuCubTDTwgD7xUDnGG-UNwT5pj0RCkJ8jma7-9OtWAm3Bv5LA2cjLF8WxFfacMndDUO-RvlTWPJa35kW4Qw=w426-h240-k-no",
+    "kgmid": "/g/11clyx3020",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Medicine Shoppe Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1756 State Hwy 48, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "1756 State Hwy 48",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "phone": "(931) 552-2558",
+    "phoneUnformatted": "+19315522558",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.4787866,
+      "lng": -87.3769035
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864da0eaf6ca021:0x5914d986542e2d3d",
+    "cid": "6418994539870956861",
+    "reviewsCount": 28,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Medicine%20Shoppe%20Pharmacy&query_place_id=ChIJIaBsrw7aZIgRPS0uVIbZFFk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FfCWyDpTCXvJ44QCV15zNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.24542&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tmy5stp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Zoren Pharmacy & Gifts",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "588 Fire Station Rd Suite F, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "588 Fire Station Rd Suite F",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "phone": "(931) 542-4632",
+    "phoneUnformatted": "+19315424632",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.519665,
+      "lng": -87.2358549
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Convenience store",
+      "Gift shop",
+      "Handbags shop",
+      "Medical supply store",
+      "Natural goods store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8864dfe8065a1e77:0x44334d3a619c73dc",
+    "cid": "4914356531532428252",
+    "reviewsCount": 6,
+    "imagesCount": 132,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zoren%20Pharmacy%20%26%20Gifts&query_place_id=ChIJdx5aBujfZIgR3HOcYTpNM0Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNibfva07iiwlfKMxFcIuy78Yf-aDNpk0O0I7Kx=w408-h544-k-no",
+    "kgmid": "/g/11fvh81rfh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Bethlehem Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "800 Weatherly Dr, Clarksville, TN 37043",
+    "neighborhood": null,
+    "street": "800 Weatherly Dr",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://stbdrugs.com/",
+    "phone": "(931) 647-6561",
+    "phoneUnformatted": "+19316476561",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.5738935,
+      "lng": -87.285134
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864df5ea6f75d3f:0x7bb7b7a3ed669506",
+    "cid": "8914795902093661446",
+    "reviewsCount": 31,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Bethlehem%20Drugs&query_place_id=ChIJP133pl7fZIgRBpVm7aO3t3s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZkqUeLW6O2A9pKsPhr7BQJXnAKyaW8Oqa995prdhHkqG1Cocjq4LkuougU4c86SEaLJNjREFXuYB6rM9HcDWtSMLuKGGgfl6pvd7iYD6_fGMnOp7LYuLUFIxHEML_v-fZLw0b=w408-h725-k-no",
+    "kgmid": "/g/1262fdn9c",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hilltop Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "400 TN-149, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "400 TN-149",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.thehilltoppharmacy.com/",
+    "phone": "(931) 233-0444",
+    "phoneUnformatted": "+19312330444",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.4679158,
+      "lng": -87.3896995
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864d146c9f2fd71:0x5ad784aec59c6484",
+    "cid": "6545846469580842116",
+    "reviewsCount": 18,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hilltop%20Pharmacy&query_place_id=ChIJcf3yyUbRZIgRhGScxa6E11o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPLkAonkroRvZSaieYgV2mt_HwrIQtz4477m1em=w458-h240-k-no",
+    "kgmid": "/g/11fkttjpry",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "FountainRx at Lenox Village - Compounding and Traditional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6900 Lenox Village Dr Suite 14, Nashville, TN 37211",
+    "neighborhood": "Lenox Village",
+    "street": "6900 Lenox Village Dr Suite 14",
+    "city": "Nashville",
+    "postalCode": "37211",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.fountainrx.com/",
+    "phone": "(615) 864-8990",
+    "phoneUnformatted": "+16158648990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.024869,
+      "lng": -86.7124431
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88647165c884b993:0x3621889306f28100",
+    "cid": "3900548917337686272",
+    "reviewsCount": 22,
+    "imagesCount": 44,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FountainRx%20at%20Lenox%20Village%20-%20Compounding%20and%20Traditional%20Pharmacy&query_place_id=ChIJk7mEyGVxZIgRAIHyBpOIITY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNEPrjKINxOABxe4SLOr6tSb4x1kBxwY7OuhEPd=w408-h271-k-no",
+    "kgmid": "/g/11gnpp8813",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2109 Wilma Rudolph Blvd, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "2109 Wilma Rudolph Blvd",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2109+wilma+rudolph+blvd-clarksville-tn-37040/id=9340",
+    "phone": "(931) 551-8157",
+    "phoneUnformatted": "+19315518157",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5631784,
+      "lng": -87.3116439
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864d8b755523531:0xabea6c9a719c85ab",
+    "cid": "12387833135622817195",
+    "reviewsCount": 33,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJMTVSVbfYZIgRq4WccZps6qs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9wahY8pwGht1P9CAUVp1whm110zO7rpzaOcWx=w525-h240-k-no",
+    "kgmid": "/g/11cn95xy75",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "3315 Guthrie Hwy, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "3315 Guthrie Hwy",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/clarksville-tn-sams-club/6512",
+    "phone": "(931) 552-4602",
+    "phoneUnformatted": "+19315524602",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.6028781,
+      "lng": -87.2768209
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x886520ec80488be7:0xf654a83b35801f7",
+    "cid": "1109374812726755831",
+    "reviewsCount": 14,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJ54tIgOwgZYgR9wFYs4NKZQ8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMGjpot1S0BftftfaXs5ZG60LOC-IOPBW1R8Xc1=w408-h272-k-no",
+    "kgmid": "/g/11rst8gkk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Kroger Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1489 Madison St, Clarksville, TN 37040",
+    "neighborhood": null,
+    "street": "1489 Madison St",
+    "city": "Clarksville",
+    "postalCode": "37040",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.kroger.com/rx/pharmacy/details/026/00544?cid=loc_02600544P_gmb",
+    "phone": "(931) 553-0254",
+    "phoneUnformatted": "+19315530254",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5211928,
+      "lng": -87.3299924
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x8864d90e00b982d5:0x289a6eefd4542bdf",
+    "cid": "2925772884269083615",
+    "reviewsCount": 22,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:40:59.805Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Pharmacy&query_place_id=ChIJ1YK5AA7ZZIgR3ytU1O9umig",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8ujnQfwwL3ChKwhz4mduVf3MJTEVVTwoCbt5Q=w426-h240-k-no",
+    "kgmid": "/g/1ydnwxxzb",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Marcrom's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1277 McArthur St, Manchester, TN 37355",
+    "neighborhood": null,
+    "street": "1277 McArthur St",
+    "city": "Manchester",
+    "postalCode": "37355",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://www.marcromspharmacy.com/",
+    "phone": "(931) 728-1100",
+    "phoneUnformatted": "+19317281100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.4631312,
+      "lng": -86.0874851
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8861687c1b71646d:0x7237c033d9b4d93c",
+    "cid": "8230258172971243836",
+    "reviewsCount": 119,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 4,
+      "threeStar": 7,
+      "fourStar": 9,
+      "fiveStar": 92
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:41:00.664Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marcrom's%20Pharmacy&query_place_id=ChIJbWRxG3xoYYgRPNm02TPAN3I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBDq6AnkqPbEwEl4UdZFcdOG2zo-QArr8P4SvMqe2qQymP6WPpuH8z4r7uLoffKf_X22ALWJWDN-Nv15dY9GF14CpY9MzipIwtTU3x-HNi9FQ-3JJ2YBhesU1n_fwtF-WPU6XY=w506-h240-k-no",
+    "kgmid": "/g/1td7cwpp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1954 Madison St, Clarksville, TN 37043, United States",
+    "neighborhood": null,
+    "street": "1954 Madison St",
+    "city": "Clarksville",
+    "postalCode": "37043",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1954+madison+st-clarksville-tn-37043/id=4313",
+    "phone": "+1 931-552-8108",
+    "phoneUnformatted": "+19315528108",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.5134412,
+      "lng": -87.2957804
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8864deb61a3cd6ab:0x39fc587b91e5d3a2",
+    "cid": "4178311842044957602",
+    "reviewsCount": 47,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:41:01.966Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Friday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJq9Y8GrbeZIgRotPlkXtY_Dk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Clarksville%20TN/@58.095490516641576,-135.84852618621275,9z?hl=en",
+    "searchString": "independent pharmacy Clarksville TN",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPoEJGepM4A3v2jdqP9AR5oBQjVcIk7ya_tmUY=w525-h240-k-no",
+    "kgmid": "/g/11cn9629pt",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

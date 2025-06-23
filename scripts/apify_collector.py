@@ -43,6 +43,7 @@ class ApifyCollector:
         self,
         api_key: Optional[str] = None,
         output_dir: str = "output",
+        cache_dir: str = ".api_cache/apify",
         rate_limit_ms: int = 1000,
         **kwargs,
     ) -> None:
@@ -66,9 +67,11 @@ class ApifyCollector:
         self.api_key: str = token    # Legacy tests access this attribute
         self.rate_limit_ms: int = rate_limit_ms  # public – tests access this
 
-        # Output directory handling
+        # Output and cache directory handling
         self.output_dir: str = output_dir
-        self._create_output_dir()
+        self.cache_dir: str = cache_dir
+        os.makedirs(self.output_dir, exist_ok=True)
+        os.makedirs(self.cache_dir, exist_ok=True)
 
         # Lazily instantiated Apify client.  We do **not** create it immediately so
         # that the unit tests can monkey-patch the constructor before first use.
@@ -273,7 +276,22 @@ class ApifyCollector:
 
     # Helper that performs the **actual** call to the Apify actor via SDK so the
     # tests can monkey-patch the client easily.
+    def _get_cache_path(self, query: str) -> str:
+        """Generate a predictable file path for a given query."""
+        slug = "".join(c for c in query.lower() if c.isalnum() or c in " _-").rstrip()
+        slug = slug.replace(" ", "_")
+        return os.path.join(self.cache_dir, f"{slug}.json")
+
     def _execute_actor(self, search_query: str, max_results: int = 10) -> List[Dict]:
+        # Check cache first
+        cache_path = self._get_cache_path(search_query)
+        if os.path.exists(cache_path):
+            self.logger.info(f"CACHE HIT: Loading results for '{search_query}' from {cache_path}")
+            with open(cache_path, "r", encoding="utf-8") as fh:
+                return json.load(fh)
+
+        self.logger.info(f"CACHE MISS: Executing Apify actor for '{search_query}'")
+
         client = self._get_client()
         # Allow overriding the actor ID via environment variable
         actor_id = os.getenv("APIFY_ACTOR_ID", "nwua9Gu5YrADL7ZDj")
@@ -323,7 +341,7 @@ class ApifyCollector:
             # Quiet polling loop – avoids streaming the actor logs to stdout.
             # ------------------------------------------------------------------
             poll_interval = int(os.getenv("APIFY_POLL_INTERVAL", "5"))
-            max_wait = int(os.getenv("APIFY_MAX_WAIT_SECS", "600"))  # 10 min default
+            max_wait = int(os.getenv("APIFY_MAX_WAIT_SECS", "3600"))  # 1 hour default for large runs
             start_ts = time.time()
             while True:
                 run_details = client.run(run_id).get()
@@ -331,7 +349,10 @@ class ApifyCollector:
                 if status in ("SUCCEEDED", "FAILED", "TIMED-OUT", "ABORTED"):  # finished
                     break
                 if time.time() - start_ts > max_wait:
-                    raise TimeoutError("Apify actor run exceeded max wait time")
+                    elapsed_mins = (time.time() - start_ts) / 60
+                    self.logger.error(f"Actor run {run_id} exceeded max wait time of {max_wait//60} minutes (ran for {elapsed_mins:.1f} minutes)")
+                    raise TimeoutError(f"Apify actor run exceeded max wait time after {elapsed_mins:.1f} minutes")
+                self.logger.info(f"Run status is {status}, polling again in {poll_interval} seconds...")
                 time.sleep(poll_interval)
 
             # ------------------------------------------------------------------
@@ -340,34 +361,46 @@ class ApifyCollector:
             dataset_id = run_details.get("defaultDatasetId")
             
             if not dataset_id:
-                self.logger.error("No dataset ID found in run details")
-                raise Exception("Actor not found")
-
-            dataset = client.dataset(dataset_id)
-            
+                self.logger.error(f"No dataset ID found in run details. Run status: {status}")
+                if status == "FAILED":
+                    raise Exception(f"Apify actor run failed: {run_details.get('statusMessage', 'Unknown error')}")
+                elif status == "TIMED-OUT":
+                    raise Exception("Apify actor run timed out on server side")
+                else:
+                    raise Exception(f"Actor run completed with status {status} but no dataset ID found")
         except Exception as e:
             self.logger.error(f"Error executing Apify actor: {e}")
             raise Exception("Actor not found")
 
-        # Preferred path (newer test-suite) – ``list_items`` -------------------
-        items: List[Dict]
-        if hasattr(dataset, "list_items"):
+        # Process and return results, writing to cache before returning.
+        final_items: List[Dict] = []
+
+        # The Apify client SDK has two methods for retrieving dataset items.
+        # We try the modern `.list_items()` first, then fallback to the legacy
+        # `.iterate_items()` if needed.
+        raw_items = []
+        try:
+            # list_items() returns a an object with an .items property
+            raw_items = dataset.list_items().items
+        except Exception:
+            self.logger.warning("Failed to get items with list_items(), falling back to iterate_items().")
             try:
-                li = dataset.list_items()
-                items_val = getattr(li, "items", None)
-                if isinstance(items_val, list) and items_val:
-                    items_val = self.filter_pharmacy_businesses(items_val)
-                    items_val = cls.filter_chain_pharmacies(items_val)  # remove big chains
-                    return items_val  # type: ignore[return-value]
-            except Exception:
-                # Fallback to iterate_items below
-                pass
+                raw_items = list(dataset.iterate_items())
+            except Exception as e:
+                self.logger.error(f"Could not retrieve dataset items: {e}")
+                return [] # Return empty list if both methods fail
 
-        # Fallback path (legacy test-suite) – ``iterate_items`` ----------------
-        if hasattr(dataset, "iterate_items"):
-            return list(dataset.iterate_items())  # type: ignore[return-value]
+        # Filter and process the raw results
+        if raw_items:
+            filtered_items = self.filter_pharmacy_businesses(raw_items)
+            final_items = self.filter_chain_pharmacies(filtered_items)
 
-        return []
+        # Write the final, processed results to cache
+        with open(cache_path, "w", encoding="utf-8") as fh:
+            json.dump(final_items, fh, ensure_ascii=False, indent=2)
+        self.logger.info(f"CACHE WRITE: Saved {len(final_items)} items for '{search_query}' to {cache_path}")
+
+        return final_items
 
     # ------------------------------------------------------------------
     # Collection helper (multi-query convenience)
