@@ -1,0 +1,773 @@
+[
+  {
+    "title": "LA Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8600 W 3rd St #1, Los Angeles, CA 90048",
+    "neighborhood": "Beverly Grove",
+    "street": "8600 W 3rd St #1",
+    "city": "Los Angeles",
+    "postalCode": "90048",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://lacompounding.com/",
+    "phone": "(310) 362-4122",
+    "phoneUnformatted": "+13103624122",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0733861,
+      "lng": -118.3798234
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Alternative medicine practitioner",
+      "Drug testing service",
+      "Drug store",
+      "Health and beauty shop",
+      "Homeopathic pharmacy",
+      "Skin care clinic",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store",
+      "Weight loss service"
+    ],
+    "fid": "0x80c2b94e01fae5f5:0x43ae09308dc4bc4c",
+    "cid": "4876845550630386764",
+    "reviewsCount": 270,
+    "imagesCount": 68,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T01:27:46.468Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Accepts walk-ins": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LA%20Compounding%20Pharmacy&query_place_id=ChIJ9eX6AU65woARTLzEjTAJrkM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA/@55.316446237835436,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuMlwQ3e3zixKehvHj-yekZDZe-f1jq5bDkCIQ=w408-h394-k-no",
+    "kgmid": "/g/11lqydz2vs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "BioMed Pharmacy & Compounding Los Angeles",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8640 W 3rd St #100, Los Angeles, CA 90048",
+    "neighborhood": "Beverly Grove",
+    "street": "8640 W 3rd St #100",
+    "city": "Los Angeles",
+    "postalCode": "90048",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.mybiomedrx.com/",
+    "phone": "(310) 299-0808",
+    "phoneUnformatted": "+13102990808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0733989,
+      "lng": -118.3813251
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2b952a08c0bfd:0x216a9bd60b6bce69",
+    "cid": "2407908294399872617",
+    "reviewsCount": 19,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T01:27:46.469Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "Paid parking garage": true
+        },
+        {
+          "Paid parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BioMed%20Pharmacy%20%26%20Compounding%20Los%20Angeles&query_place_id=ChIJ_QuMoFK5woARac5rC9abaiE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA/@55.316446237835436,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM4aMYXwG31bAq6h4b_NEy7i-ERx2a3YMd2kfck=w408-h247-k-no",
+    "kgmid": "/g/11b8_zkb70",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.96,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Vine Discount Pharmacy and Medical Supply",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1253 Vine St, Los Angeles, CA 90038",
+    "neighborhood": "Hollywood",
+    "street": "1253 Vine St",
+    "city": "Los Angeles",
+    "postalCode": "90038",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/vine-discount-pharmacy-and-medical-supply-los-angeles-ca-90038/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5601489",
+    "phone": "(323) 957-9446",
+    "phoneUnformatted": "+13239579446",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0940624,
+      "lng": -118.3268805
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80c2bf369618ace7:0x551a01c4dfb202f9",
+    "cid": "6132215787696554745",
+    "reviewsCount": 38,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T01:27:46.470Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vine%20Discount%20Pharmacy%20and%20Medical%20Supply&query_place_id=ChIJ56wYlja_woAR-QKy38QBGlU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA/@55.316446237835436,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqv0lAVkwP1y9fAtVPd30wmtekidfixk21F5I-o1yjf_KtZDNRgXsHDfoIg6UuYFN9-KabsRstcCJ2FwmSm_s9waM5FUSjmlsJMANWxgxUhdlOjB5safhWlzXmUkFjAOgibXi4gwg=w408-h306-k-no",
+    "kgmid": "/g/1tgcmkgh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "United Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1129 S Robertson Blvd, Los Angeles, CA 90035",
+    "neighborhood": "Pico-Robertson",
+    "street": "1129 S Robertson Blvd",
+    "city": "Los Angeles",
+    "postalCode": "90035",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(310) 247-0247",
+    "phoneUnformatted": "+13102470247",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0562653,
+      "lng": -118.3839148
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2b95cfeab889b:0x546dc65f6b5ce7bf",
+    "cid": "6083736784772851647",
+    "reviewsCount": 49,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T01:27:46.470Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=United%20Pharmacy&query_place_id=ChIJm4ir_ly5woARv-dca1_GbVQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA/@55.316446237835436,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZK2FxOhc-VRag_jotuvDQBNm4iol3EzBD5r2k4JwHrlTK_Z6V6M2uYBJD9KlVKcQ2sg4dvm1PF0E5WvF2NNYIPZrwSdMxrHXpZMLy6_wbbyxF1LT1zu0Cj8InIRbB03v1Rn6VBQ=w408-h544-k-no",
+    "kgmid": "/g/1thl5ppn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "TFC Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4914 1/2 W Slauson Ave, Los Angeles, CA 90056",
+    "neighborhood": null,
+    "street": "4914 1/2 W Slauson Ave",
+    "city": "Los Angeles",
+    "postalCode": "90056",
+    "state": "CA",
+    "countryCode": "US",
+    "website": "https://www.tfcpharmacy.com/",
+    "phone": "(323) 348-4205",
+    "phoneUnformatted": "+13233484205",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.987101,
+      "lng": -118.363218
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x80c2b765e52e742f:0x48c307274434f5f6",
+    "cid": "5243042256418829814",
+    "reviewsCount": 33,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T01:27:46.470Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TFC%20Pharmacy%20%26%20Compounding&query_place_id=ChIJL3Qu5WW3woAR9vU0RCcHw0g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Los%20Angeles%20CA/@55.316446237835436,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Los Angeles CA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPmHtHDIQLQDCu2wAey_eblcHLx7nlAREkQ8e84=w408-h280-k-no",
+    "kgmid": "/g/11b7ck0fv8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

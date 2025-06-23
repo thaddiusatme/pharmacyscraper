@@ -1,3 +1,24 @@
+CHAIN_PHARMACIES = {
+    'cvs', 'walgreens', 'rite aid', 'walmart', 'target', 'costco', 'sams club',
+    'kroger', 'publix', 'safeway', 'giant', 'stop & shop', 'wegmans', 'hannaford',
+    'meijer', 'hy-vee', 'albertsons', 'vons', 'pavilions', 'harris teeter',
+    'food lion', 'winn-dixie', 'heb', 'ralphs', 'fry\'s', 'smith\'s', 'fred meyer',
+    'qfc', 'king soopers', 'duane reade', 'riteaid', 'wal-mart', 'wal mart',
+    'walmart pharmacy', 'cvs pharmacy', 'walgreens pharmacy', 'rite aid pharmacy',
+    'riteaid pharmacy', 'cvs/pharmacy', 'cvs store', 'walmart neighborhood market',
+}
+
+# Hospital/clinic/health system keywords (expand as needed)
+HOSPITAL_KEYWORDS = {
+    'hospital', 'clinic', 'medical center', 'va', 'veterans', 'kaiser', 'permanente',
+    'health system', 'healthcare system', 'health care system', 'regional health',
+    'university health', 'children\'s hospital', 'memorial hospital', 'health partners',
+    'providence', 'sutter', 'banner', 'adventist', 'methodist', 'baptist health', 'st ',
+    'saint ', 'ascension', 'mercy', 'integris', 'trinity', 'community health', 'clinic pharmacy',
+    'ihs', 'indian health', 'tribal', 'native', 'anmc', 'anthc', 'army', 'navy', 'air force',
+    'military', 'federal', 'government', 'county hospital', 'city hospital', 'university hospital',
+    'academic medical', 'teaching hospital', 'veterans affairs', 'v.a.', 'v a ', 'va hospital',
+}
 #!/usr/bin/env python3
 """
 Process cached Apify data from 50-state run and run classification
@@ -91,11 +112,32 @@ def process_and_classify_data(cached_data: Dict[str, List[Dict]], output_dir: st
     
     for location, pharmacies in cached_data.items():
         print(f"\nProcessing {location}: {len(pharmacies)} pharmacies")
-        
         classified_pharmacies = []
-        
+        skipped_chains = 0
+        skipped_hospitals = 0
         for i, pharmacy in enumerate(pharmacies):
             try:
+                name = (pharmacy.get('title') or '').lower()
+                # Pre-filter: skip known chains
+                if any(chain in name for chain in CHAIN_PHARMACIES):
+                    pharmacy_with_classification = pharmacy.copy()
+                    pharmacy_with_classification['classification'] = 'chain'
+                    pharmacy_with_classification['is_independent'] = False
+                    pharmacy_with_classification['confidence'] = 1.0
+                    pharmacy_with_classification['source'] = 'rule-based'
+                    classified_pharmacies.append(pharmacy_with_classification)
+                    skipped_chains += 1
+                    continue
+                # Pre-filter: skip known hospitals/clinics/health systems
+                if any(hosp_kw in name for hosp_kw in HOSPITAL_KEYWORDS):
+                    pharmacy_with_classification = pharmacy.copy()
+                    pharmacy_with_classification['classification'] = 'hospital'
+                    pharmacy_with_classification['is_independent'] = False
+                    pharmacy_with_classification['confidence'] = 1.0
+                    pharmacy_with_classification['source'] = 'rule-based'
+                    classified_pharmacies.append(pharmacy_with_classification)
+                    skipped_hospitals += 1
+                    continue
                 # Convert to format expected by classifier
                 pharmacy_dict = {
                     'name': pharmacy.get('title', ''),
@@ -109,25 +151,20 @@ def process_and_classify_data(cached_data: Dict[str, List[Dict]], output_dir: st
                         'lng': pharmacy.get('location', {}).get('lng') if isinstance(pharmacy.get('location'), dict) else None
                     }
                 }
-                
                 # Classify pharmacy
                 print(f"  Classifying {i+1}/{len(pharmacies)}: {pharmacy_dict['name'][:50]}...")
                 classification_result = classifier.classify_pharmacy(pharmacy_dict)
-                
                 # Add classification to pharmacy data
                 pharmacy_with_classification = pharmacy.copy()
                 pharmacy_with_classification.update(classification_result)
-                
                 classified_pharmacies.append(pharmacy_with_classification)
                 total_classified += 1
-                
             except Exception as e:
                 err_msg = f"Failed to classify {pharmacy.get('title', '')}: {e}\n{traceback.format_exc()}"
                 print(f"  [ERROR] {err_msg}")
                 logging.error(err_msg)
                 # Add original pharmacy without classification
                 classified_pharmacies.append(pharmacy)
-            
             total_pharmacies += 1
         
         # Save results for this location
@@ -140,6 +177,8 @@ def process_and_classify_data(cached_data: Dict[str, List[Dict]], output_dir: st
                               if p.get('classification') == 'independent')
         chain_count = sum(1 for p in classified_pharmacies 
                          if p.get('classification') == 'chain')
+        hospital_count = sum(1 for p in classified_pharmacies 
+                         if p.get('classification') == 'hospital')
         error_count = sum(1 for p in classified_pharmacies 
                          if p.get('classification') in ['error', None])
         
@@ -147,11 +186,15 @@ def process_and_classify_data(cached_data: Dict[str, List[Dict]], output_dir: st
             'total': len(classified_pharmacies),
             'independent': independent_count,
             'chain': chain_count,
-            'errors': error_count
+            'hospital': hospital_count,
+            'errors': error_count,
+            'skipped_chains': skipped_chains,
+            'skipped_hospitals': skipped_hospitals
         }
         
         print(f"    ✅ Saved to {location_file}")
-        print(f"    📊 Independent: {independent_count}, Chain: {chain_count}, Errors: {error_count}")
+        print(f"    📊 Independent: {independent_count}, Chain: {chain_count}, Hospital: {hospital_count}, Errors: {error_count}")
+        print(f"    🚫 Skipped (pre-filtered): {skipped_chains} chains, {skipped_hospitals} hospitals/clinics")
     
     # Create summary report
     create_summary_report(results_by_location, output_path, total_pharmacies, total_classified)
@@ -203,43 +246,42 @@ def main():
     parser = argparse.ArgumentParser(description="Process cached Apify data and run classification")
     parser.add_argument("--limit", type=int, help="Limit processing to first N files (for testing)")
     parser.add_argument("--output-dir", default="data/processed_50_state", help="Output directory")
-    parser.add_argument("--skip-existing", action="store_true", help="Skip files that have already been processed")
+    parser.add_argument("--skip-existing", action="store_true", help="Skip files that have already been processed (ignored if --states is used)")
     parser.add_argument("--batch-size", type=int, help="Process all cached files in batches of this size (implies --skip-existing)")
     parser.add_argument("--sleep", type=int, default=0, help="Seconds to sleep between batches (only with --batch-size)")
     parser.add_argument("--auto-batch", action="store_true", help="Automatically process all unprocessed files in batches (implies --skip-existing)")
+    parser.add_argument("--states", type=str, help="Comma-separated list of state abbreviations (e.g. ca,wa,or) to process only those states. Forces a fresh run for those states.")
 
     args = parser.parse_args()
 
-    # Auto-batch mode: process all unprocessed files in batches
-    if args.batch_size or args.auto_batch:
-        batch_size = args.batch_size or 3
-        sleep_time = args.sleep or 0
-        print(f"🚀 Auto-batch mode: processing all unprocessed files in batches of {batch_size} (sleep {sleep_time}s between)")
-        total_processed = 0
-        while True:
-            cached_data = load_cached_data(limit=batch_size, skip_existing=True, output_dir=args.output_dir)
-            if not cached_data:
-                print("✅ All cached files processed!")
-                break
-            print(f"📦 Batch: {len(cached_data)} locations")
-            total_pharmacies = sum(len(pharmacies) for pharmacies in cached_data.values())
-            print(f"🏥 Pharmacies in this batch: {total_pharmacies}")
-            results = process_and_classify_data(cached_data, args.output_dir)
-            total_processed += len(cached_data)
-            print(f"Batch complete. Total locations processed so far: {total_processed}")
-            if sleep_time > 0:
-                print(f"Sleeping {sleep_time}s before next batch...")
-                time.sleep(sleep_time)
-        print("\n🎉 Automated batch processing complete!")
+    # If --states is provided, filter cached files to only those states and force fresh classification
+    if args.states:
+        selected_states = set(s.strip().lower() for s in args.states.split(","))
+        print(f"🔎 Limiting processing to states: {', '.join(selected_states).upper()}")
+        # Load all cached data
+        cached_data = load_cached_data(limit=None, skip_existing=False, output_dir=args.output_dir)
+        # Filter locations by state
+        filtered_data = {}
+        for location, pharmacies in cached_data.items():
+            # location is like 'los_angeles_ca' or 'portland_or'
+            if location.endswith(tuple(f"_{state}" for state in selected_states)):
+                filtered_data[location] = pharmacies
+        if not filtered_data:
+            print(f"❌ No cached data found for states: {', '.join(selected_states).upper()}")
+            return
+        print(f"📦 Found data for {len(filtered_data)} locations in selected states")
+        total_pharmacies = sum(len(pharmacies) for pharmacies in filtered_data.values())
+        print(f"🏥 Total pharmacies to process: {total_pharmacies}")
+        results = process_and_classify_data(filtered_data, args.output_dir)
+        print("\n✅ Processing complete!")
         return
 
-    # Manual/single-batch mode
+    # Manual/single-batch mode (no --states)
     if args.limit:
         print(f"🧪 Running trial with {args.limit} files...")
     else:
         print("🚀 Processing all cached data from 50-state run...")
 
-    # Load cached data, skipping already processed if requested
     cached_data = load_cached_data(limit=args.limit, skip_existing=args.skip_existing, output_dir=args.output_dir)
 
     if not cached_data:
@@ -250,7 +292,6 @@ def main():
     total_pharmacies = sum(len(pharmacies) for pharmacies in cached_data.values())
     print(f"🏥 Total pharmacies to process: {total_pharmacies}")
 
-    # Process and classify
     results = process_and_classify_data(cached_data, args.output_dir)
 
     print("\n✅ Processing complete!")
