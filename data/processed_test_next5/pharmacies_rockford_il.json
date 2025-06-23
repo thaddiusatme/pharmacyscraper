@@ -1,0 +1,2677 @@
+[
+  {
+    "title": "Rock Valley Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "811 S Perryville Rd #109, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "811 S Perryville Rd #109",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://rvcrx.com/",
+    "phone": "(888) 835-2526",
+    "phoneUnformatted": "+18888352526",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2633489,
+      "lng": -88.9811807
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1fpBXfi4CIgRQ-PehW-49dA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b8f85d41fad5:0xd0f5b86f85dee343",
+    "cid": "15057143718309978947",
+    "reviewsCount": 113,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.674Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rock%20Valley%20Compounding%20Pharmacy&query_place_id=ChIJ1fpBXfi4CIgRQ-PehW-49dA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMtGe_gaCm6uWISI0Vv_O0eWnu6n4HO4Nk8jf__=w408-h612-k-no",
+    "kgmid": "/g/1hc8j32gp",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Downtown Discount Drug Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "325 W State St, Rockford, IL 61101",
+    "neighborhood": "Downtown",
+    "street": "325 W State St",
+    "city": "Rockford",
+    "postalCode": "61101",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "http://www.downtowndiscountdrug.com/",
+    "phone": "(815) 962-2166",
+    "phoneUnformatted": "+18159622166",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2718277,
+      "lng": -89.0952655
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808957ff45dd0f9:0x5f5807b78c169b2c",
+    "cid": "6870249716464393004",
+    "reviewsCount": 17,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.676Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 3:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20133\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20133\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Downtown%20Discount%20Drug%20Store&query_place_id=ChIJ-dBd9H-VCIgRLJsWjLcHWF8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYNx5Ajwm_TKAeOji77eVazBV531ue9PNuC9fChVRRftEbCZfDQGogtDf6bWLGhPundKBOuXTyLT-02cD5KoU7qUhW6ukF4l6OpYX1tsxgaVNevmXeznwQDjRsuZnOgvx_Mnn9=w408-h280-k-no",
+    "kgmid": "/g/11c5_9k6cl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "OSF Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5666 E State St Suite 101, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "5666 E State St Suite 101",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www2.osfhealthcare.org/locations/osf-pharmacy-rockford-121786?utm_campaign=gobu&utm_source=google&utm_medium=referral&utm_content=loc",
+    "phone": "(815) 395-6010",
+    "phoneUnformatted": "+18153956010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2695614,
+      "lng": -89.007775
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b9750e550175:0xf8a0365963b5ddf9",
+    "cid": "17915379075232685561",
+    "reviewsCount": 11,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.676Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=OSF%20Pharmacy&query_place_id=ChIJdQFVDnW5CIgR-d21Y1k2oPg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEKpY2A9XlybLDPeAq7DiN1UXBuwK_xkfSHy3B=w408-h306-k-no",
+    "kgmid": "/g/11gj78s5fk",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "5503 E State St, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "5503 E State St",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-5503+e+state+st-rockford-il-61108/id=21184",
+    "phone": "(779) 208-3626",
+    "phoneUnformatted": "+17792083626",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2644239,
+      "lng": -89.0092671
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI1efRJC5CIgR5gcGdjIBapY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b990449f5723:0x966a0132760607e6",
+    "cid": "10838476769460619238",
+    "reviewsCount": 18,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.676Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJI1efRJC5CIgR5gcGdjIBapY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOEL0zzyD_CYElWeKyfetMiLxDrKvRIZSNLvylS=w427-h240-k-no",
+    "kgmid": "/g/11h3g3x3d2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "North Park Prescription Pharm",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7924 N 2nd St, Machesney Park, IL 61115",
+    "neighborhood": null,
+    "street": "7924 N 2nd St",
+    "city": "Machesney Park",
+    "postalCode": "61115",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.northparkrx.com/",
+    "phone": "(815) 633-3431",
+    "phoneUnformatted": "+18156333431",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3389957,
+      "lng": -89.0537859
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bc4d082db283:0x4ff4bc5f704af74",
+    "cid": "360089808837848948",
+    "reviewsCount": 104,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.676Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Park%20Prescription%20Pharm&query_place_id=ChIJg7ItCE28CIgRdK8E98VL_wQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUYu9sZrfixyXksBWcPVMZsSOk9mz6x-aCc2MHn7WYgh13LvLNgIbUg7LkVz6RP3_V8TwpDptlaffcNm9hEN6pTJs6gBd5d9ygHPNgDUbGiZUjmMZw_GixpSINOmraX1qyYtGL=w408-h408-k-no",
+    "kgmid": "/g/1tl1p09_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2642 Charles St, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "2642 Charles St",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/2642-charles-st-rockford-il-61108/storeid=18098?WT.mc_id=LS_GOOGLE_RX_18098",
+    "phone": "(815) 484-2461",
+    "phoneUnformatted": "+18154842461",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2614749,
+      "lng": -89.0536161
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUaL2AAm_CIgRv9NBD5uPkA8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bf0900f6a251:0xf908f9b0f41d3bf",
+    "cid": "1121554203353928639",
+    "reviewsCount": 39,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.676Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJUaL2AAm_CIgRv9NBD5uPkA8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNN3GgD3ELt-q8DixxyKRs_2QFAfp6MyUZ4glqS=w408-h272-k-no",
+    "kgmid": "/g/1thf93y8",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "110 S Alpine Rd, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "110 S Alpine Rd",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/110-s-alpine-rd-rockford-il-61108/storeid=8531?WT.mc_id=LS_GOOGLE_RX_8531",
+    "phone": "(815) 399-1015",
+    "phoneUnformatted": "+18153991015",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2633441,
+      "lng": -89.0283053
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ267PbiW_CIgRZUF5JorVUp0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bf256ecfaedb:0x9d52d58a26794165",
+    "cid": "11336358001372643685",
+    "reviewsCount": 56,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.677Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 to 11:30\u202fAM, 12\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 to 11:30\u202fAM, 12\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 to 11:30\u202fAM, 12\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 to 11:30\u202fAM, 12\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 to 11:30\u202fAM, 12\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 11:30\u202fAM, 12 to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 to 11:30\u202fAM, 12 to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ267PbiW_CIgRZUF5JorVUp0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAIat-xvx1HULYJAOtca65Hmd5CsvVFs2y5_Zz=w408-h272-k-no",
+    "kgmid": "/g/11c1mzcxnm",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6410 E State St, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "6410 E State St",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/6410-e-state-st-rockford-il-61108/storeid=18097?WT.mc_id=LS_GOOGLE_RX_18097",
+    "phone": "(815) 397-2127",
+    "phoneUnformatted": "+18153972127",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2703479,
+      "lng": -88.9919352
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-xpqutC5CIgRLsSjqpY0lEQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b9d0ba6a1afb:0x44943496aaa3c42e",
+    "cid": "4941632512844874798",
+    "reviewsCount": 16,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.677Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ-xpqutC5CIgRLsSjqpY0lEQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOtm18HkWvVgAn-ZiqOYnLguTHfFl9Dr-7fpgDo=w408-h272-k-no",
+    "kgmid": "/g/11qszcd0fg",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3134 11th St, Rockford, IL 61109",
+    "neighborhood": null,
+    "street": "3134 11th St",
+    "city": "Rockford",
+    "postalCode": "61109",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/3134-11th-street-rockford-il-61109/storeid=8529?WT.mc_id=LS_GOOGLE_RX_8529",
+    "phone": "(815) 398-0048",
+    "phoneUnformatted": "+18153980048",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2275216,
+      "lng": -89.0718066
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUQ_Z9XPACIgReuRCqyZvIW0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808c073f5d90f51:0x6d216f26ab42e47a",
+    "cid": "7863688636238324858",
+    "reviewsCount": 16,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.677Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJUQ_Z9XPACIgReuRCqyZvIW0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMs_xveEIs9IsUZpwtLuyHKJMjTH8j95qMEDqdN=w408-h272-k-no",
+    "kgmid": "/g/11c4694jq8",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Meijer Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2013 McFarland Rd, Rockford, IL 61107",
+    "neighborhood": null,
+    "street": "2013 McFarland Rd",
+    "city": "Rockford",
+    "postalCode": "61107",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.meijer.com/shopping/store-locator/192.html?cmpid=LM:Web::::05112021::GooglePharmacy",
+    "phone": "(815) 721-8610",
+    "phoneUnformatted": "+18157218610",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2926948,
+      "lng": -88.9766874
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNTQOhZ-5CIgRqYk3qizptWE",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store",
+      "Drug store"
+    ],
+    "fid": "0x8808b99f850e3435:0x61b5e92caa3789a9",
+    "cid": "7040789970507237801",
+    "reviewsCount": 52,
+    "imagesCount": 47,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Pharmacy&query_place_id=ChIJNTQOhZ-5CIgRqYk3qizptWE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-i9_XQQPfKkqjopclrR4GVqYg5f4jVW1Cnjy1=w408-h272-k-no",
+    "kgmid": "/g/11bw5zn1m9",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6560 E State St, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "6560 E State St",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/6560-e-state-st-rockford-il-61108/storeid=16258?WT.mc_id=LS_GOOGLE_RX_16258",
+    "phone": "(815) 227-9777",
+    "phoneUnformatted": "+18152279777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2703164,
+      "lng": -88.988348
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJkWr5Ov24CIgRwl3BGF8JrXs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b8fd3af96a91:0x7bad095f18c15dc2",
+    "cid": "8911789541677948354",
+    "reviewsCount": 25,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJkWr5Ov24CIgRwl3BGF8JrXs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMMebjMYqJLNsSB7VVQsvkzZMz1TJaHwLUIVVyl=w408-h272-k-no",
+    "kgmid": "/g/1hc1fdf_r",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "301 E State St suite p, Rockford, IL 61104",
+    "neighborhood": null,
+    "street": "301 E State St suite p",
+    "city": "Rockford",
+    "postalCode": "61104",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/rockford-il-pharmacies/301-e-state-st-suite-p-rockford-il-61104/storeid=19003?WT.mc_id=LS_GOOGLE_RX_19003",
+    "phone": "(779) 500-6760",
+    "phoneUnformatted": "+17795006760",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2686298,
+      "lng": -89.0898935
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3VAxnSC_CIgR7J-AJbE1cgc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bf209d3150dd:0x77235b125809fec",
+    "cid": "536550340565180396",
+    "reviewsCount": 3,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ3VAxnSC_CIgR7J-AJbE1cgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOm-AgnbAyxWIOJ8M3MDnmxYlycSOdlbXw6F7ei=w408-h272-k-no",
+    "kgmid": "/g/11vwys_6dr",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2323 Charles St, Rockford, IL 61104",
+    "neighborhood": null,
+    "street": "2323 Charles St",
+    "city": "Rockford",
+    "postalCode": "61104",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2323+charles+st-rockford-il-61104/id=3322",
+    "phone": "(815) 399-1474",
+    "phoneUnformatted": "+18153991474",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2601782,
+      "lng": -89.0585394
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRU6erae_CIgRLQ-Osv6Wbis",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bfa7ad9e4e45:0x2b6e96feb28e0f2d",
+    "cid": "3129604811730587437",
+    "reviewsCount": 29,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJRU6erae_CIgRLQ-Osv6Wbis",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no3cHzR69D5wB1xfUr7XZHxUmElbM5uSQdnLIrYr8QqI-5tSnu2hHUPGZWle6EqMJmVkKgJxzkDwBHKWaAPKZR5nVMGNGk6PU_I93GGb5l0LLROyBEarj5sSA5mMsg7RfB8QZE=w426-h240-k-no",
+    "kgmid": "/g/11cn93bx78",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "7151 Walton St, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "7151 Walton St",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/rockford-il-sams-club/8297",
+    "phone": "(815) 397-4291",
+    "phoneUnformatted": "+18153974291",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.266851,
+      "lng": -88.9769284
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808b8544bbfffdd:0xee9f31a33060c109",
+    "cid": "17194516479284920585",
+    "reviewsCount": 5,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJ3f-_S1S4CIgRCcFgMKMxn-4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP9LtrqlS9dJOi9VNcqdAyUiUUqCZrInE9NxHAS=w408-h272-k-no",
+    "kgmid": "/g/12q4y183n",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy at",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1200 W State St, Rockford, IL 61102",
+    "neighborhood": null,
+    "street": "1200 W State St",
+    "city": "Rockford",
+    "postalCode": "61102",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1200+w+state+st-rockford-il-61102/id=21287",
+    "phone": "(815) 490-1630",
+    "phoneUnformatted": "+18154901630",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2751606,
+      "lng": -89.1082192
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB53ZLpyVCIgRzhz92SLVpak",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808959c2ed99d07:0xa9a5d522d9fd1cce",
+    "cid": "12224411109229927630",
+    "reviewsCount": 17,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.678Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy%20at&query_place_id=ChIJB53ZLpyVCIgRzhz92SLVpak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KaxYoFWqG0wYOoI0Xhoy4w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.96817&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c1xhwpmf",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy at",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "1200 W State St, Rockford, IL 61102",
+    "neighborhood": null,
+    "street": "1200 W State St",
+    "city": "Rockford",
+    "postalCode": "61102",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1200+w+state+st-rockford-il-61102/id=21287",
+    "phone": "(815) 490-1630",
+    "phoneUnformatted": "+18154901630",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.275242,
+      "lng": -89.1081997
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB53ZLpyVCIgRmGDDVFNcNxs",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x8808959c2ed99d07:0x1b375c5354c36098",
+    "cid": "1961137675717271704",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.679Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy%20at&query_place_id=ChIJB53ZLpyVCIgRmGDDVFNcNxs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOp5Psi5XV0qSvGt4zD4uN3xzkMz4isoz4VhroP=w427-h240-k-no",
+    "kgmid": "/g/11cn960cq7",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1145 N Alpine Rd, Rockford, IL 61107",
+    "neighborhood": null,
+    "street": "1145 N Alpine Rd",
+    "city": "Rockford",
+    "postalCode": "61107",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1145+n+alpine+rd-rockford-il-61107/id=9127",
+    "phone": "(815) 398-2443",
+    "phoneUnformatted": "+18153982443",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2803312,
+      "lng": -89.028292
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhwFPvNq-CIgRPQk0LvnLujU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bedabc4f0187:0x35bacbf92e34093d",
+    "cid": "3871631100760820029",
+    "reviewsCount": 10,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.679Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 11\u202fAM, 11:30\u202fAM to 6:45\u202fPM, 7:15 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20136:45\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJhwFPvNq-CIgRPQk0LvnLujU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOocfFhq5ZuWMaOq7cZTkOC8tMbI3GQ4MyvLmv3=w525-h240-k-no",
+    "kgmid": "/g/11cn976ngk",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "2525 S Alpine Rd, Rockford, IL 61108",
+    "neighborhood": null,
+    "street": "2525 S Alpine Rd",
+    "city": "Rockford",
+    "postalCode": "61108",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2525+s+alpine+rd-rockford-il-61108/id=4777",
+    "phone": "(815) 227-9861",
+    "phoneUnformatted": "+18152279861",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2391195,
+      "lng": -89.029498
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5ay_hhS_CIgRyNxFTOQ6khg",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x8808bf1486bface5:0x18923ae44c45dcc8",
+    "cid": "1770542355716627656",
+    "reviewsCount": 46,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:45.679Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u201311\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u201311\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u201311\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u201311\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u201311\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJ5ay_hhS_CIgRyNxFTOQ6khg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@-0.1658560469091287,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrvcO5wgxWtGNX_uOULXOR2Zj6OeGLlbcuumfJVLU4fyV7sLQqF18k1OZQOa5M3GT0ugsWfdqO_mPMhtFm4ADJIWkSDh0rp93LmbFpSDb7LwZI7aZy-c8yzj-GTyJeOTKpvjagx_Q=w426-h240-k-no",
+    "kgmid": "/g/1tdzgk_b",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "UW Health SwedishAmerican Hospital Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1401 E State St, Rockford, IL 61104",
+    "neighborhood": null,
+    "street": "1401 E State St",
+    "city": "Rockford",
+    "postalCode": "61104",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.uwhealth.org/locations/swedishamerican/sah-hospital-pharmacy",
+    "phone": "(779) 696-1130",
+    "phoneUnformatted": "+17796961130",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2656482,
+      "lng": -89.0742058
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfR8V3GW_CIgRAW0qKJKR1AQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8808bf65dc151f7d:0x4d49192282a6d01",
+    "cid": "348063128139492609",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:07:47.735Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=UW%20Health%20SwedishAmerican%20Hospital%20Pharmacy&query_place_id=ChIJfR8V3GW_CIgRAW0qKJKR1AQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Rockford%20IL/@27.61526808287915,-176.13093621205994,12z?hl=en",
+    "searchString": "independent pharmacy Rockford IL",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNl0RsFc9zuZoLPrmh0h3mbkrC3e3X9lzL31h7w=w426-h240-k-no",
+    "kgmid": "/g/11v3myr03r",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

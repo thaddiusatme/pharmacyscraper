@@ -1,0 +1,238 @@
+{
+  "total_locations_processed": 25,
+  "total_pharmacies": 387,
+  "total_classified": 387,
+  "classification_success_rate": "100.0%",
+  "totals": {
+    "independent": 338,
+    "chain": 60,
+    "errors": 0
+  },
+  "by_location": {
+    "buffalo_ny": {
+      "total": 20,
+      "independent": 17,
+      "chain": 1,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 0
+    },
+    "philadelphia_pa": {
+      "total": 20,
+      "independent": 18,
+      "chain": 1,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 1
+    },
+    "chicago_il": {
+      "total": 20,
+      "independent": 18,
+      "chain": 1,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "allentown_pa": {
+      "total": 20,
+      "independent": 14,
+      "chain": 3,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 3,
+      "skipped_hospitals": 2
+    },
+    "naperville_il": {
+      "total": 19,
+      "independent": 14,
+      "chain": 2,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 1
+    },
+    "st_petersburg_fl": {
+      "total": 10,
+      "independent": 9,
+      "chain": 0,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "new_york_ny": {
+      "total": 20,
+      "independent": 17,
+      "chain": 0,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 2
+    },
+    "joliet_il": {
+      "total": 19,
+      "independent": 11,
+      "chain": 8,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 0
+    },
+    "miami_fl": {
+      "total": 10,
+      "independent": 9,
+      "chain": 0,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "pittsburgh_pa": {
+      "total": 19,
+      "independent": 19,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "houston_tx": {
+      "total": 25,
+      "independent": 22,
+      "chain": 1,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 2
+    },
+    "san_antonio_tx": {
+      "total": 20,
+      "independent": 18,
+      "chain": 0,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 2
+    },
+    "aurora_il": {
+      "total": 19,
+      "independent": 10,
+      "chain": 8,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 1
+    },
+    "rockford_il": {
+      "total": 19,
+      "independent": 2,
+      "chain": 14,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 13,
+      "skipped_hospitals": 2
+    },
+    "orlando_fl": {
+      "total": 10,
+      "independent": 9,
+      "chain": 0,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "dallas_tx": {
+      "total": 20,
+      "independent": 19,
+      "chain": 1,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 0
+    },
+    "erie_pa": {
+      "total": 20,
+      "independent": 11,
+      "chain": 6,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 1
+    },
+    "yonkers_ny": {
+      "total": 20,
+      "independent": 19,
+      "chain": 0,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "austin_tx": {
+      "total": 25,
+      "independent": 21,
+      "chain": 1,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 3
+    },
+    "syracuse_ny": {
+      "total": 20,
+      "independent": 7,
+      "chain": 8,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "rochester_ny": {
+      "total": 20,
+      "independent": 9,
+      "chain": 1,
+      "hospital": 10,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "reading_pa": {
+      "total": 18,
+      "independent": 12,
+      "chain": 3,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 3,
+      "skipped_hospitals": 2
+    },
+    "tampa_fl": {
+      "total": 10,
+      "independent": 10,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "jacksonville_fl": {
+      "total": 10,
+      "independent": 9,
+      "chain": 0,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "fort_worth_tx": {
+      "total": 20,
+      "independent": 14,
+      "chain": 1,
+      "hospital": 5,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 3
+    }
+  }
+}

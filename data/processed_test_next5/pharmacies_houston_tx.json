@@ -1,0 +1,3479 @@
+[
+  {
+    "title": "Advance Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2646 S Loop W #330, Houston, TX 77054",
+    "neighborhood": "South Main",
+    "street": "2646 S Loop W #330",
+    "city": "Houston",
+    "postalCode": "77054",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://myadvancepharmacy.com/",
+    "phone": "(713) 661-5711",
+    "phoneUnformatted": "+17136615711",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.6794155,
+      "lng": -95.4208227
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxf8GRifAQIYR9NzdZ14Ef6I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c0274606ffc5:0xa27f045e67dddcf4",
+    "cid": "11709082359702609140",
+    "reviewsCount": 23,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.825Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Advance%20Pharmacy&query_place_id=ChIJxf8GRifAQIYR9NzdZ14Ef6I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhR73iVaogoRqypWNRKIAM5Sg10YrNpOlnyOs-=w408-h408-k-no",
+    "kgmid": "/g/11clsnl4rs",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Apteek Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2900 Weslayan St Suite B, Houston, TX 77027",
+    "neighborhood": "Greenway / Upper Kirby Area",
+    "street": "2900 Weslayan St Suite B",
+    "city": "Houston",
+    "postalCode": "77027",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.apteekpharmacy.com/",
+    "phone": "(832) 307-1678",
+    "phoneUnformatted": "+18323071678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7392967,
+      "lng": -95.442244
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c11b973b4bbf:0x6c44826e34960ead",
+    "cid": "7801503864352804525",
+    "reviewsCount": 231,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apteek%20Pharmacy%20%26%20Compounding&query_place_id=ChIJv0s7lxvBQIYRrQ6WNG6CRGw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0gPha4XmWonZaSgbE-XrfZM2H923a1vRtKuI_=w408-h271-k-no",
+    "kgmid": "/g/11f5d5jj55",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cedra Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1607 S Post Oak Ln, Houston, TX 77056",
+    "neighborhood": "Westside",
+    "street": "1607 S Post Oak Ln",
+    "city": "Houston",
+    "postalCode": "77056",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.cedrapharmacy.com/",
+    "phone": "(713) 621-0621",
+    "phoneUnformatted": "+17136210621",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7511909,
+      "lng": -95.4626294
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Drug store",
+      "Gift shop",
+      "Post office"
+    ],
+    "fid": "0x8640c1440e0363bd:0x39aff5b8481bdf75",
+    "cid": "4156811152918830965",
+    "reviewsCount": 264,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cedra%20Pharmacy&query_place_id=ChIJvWMDDkTBQIYRdd8bSLj1rzk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nougjtcq55Py1M3kKLydkeESobBswGp46_z3ylgOMvnM2IsdzINdJxiqOtGtmUMOYJuk5RMo3UHmxOaR83CGjKkZnQ0IANiQUG8lIaMHBkjpbtBDwe4VNrMXrH7wdQEyMyunsQ=w408-h544-k-no",
+    "kgmid": "/g/1pzqfb4f3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Scott Read Pharmacy | Affordable Generic Drug Store in Houston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "536 Waugh Dr, Houston, TX 77019",
+    "neighborhood": "Montrose",
+    "street": "536 Waugh Dr",
+    "city": "Houston",
+    "postalCode": "77019",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.scottreadrx.com/",
+    "phone": "(832) 649-3142",
+    "phoneUnformatted": "+18326493142",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7604368,
+      "lng": -95.3985564
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c190754d7c3d:0xd77a7436940a9a43",
+    "cid": "15526850443073985091",
+    "reviewsCount": 32,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scott%20Read%20Pharmacy%20%7C%20Affordable%20Generic%20Drug%20Store%20in%20Houston&query_place_id=ChIJPXxNdZDBQIYRQ5oKlDZ0etc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNVAUff6M3AnI-qhtIrCsGNmptlhKRSIyRrFSEM=w408-h306-k-no",
+    "kgmid": "/g/11rsb5q0h9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Trinity Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "19002 Park Row Blvd Suite 101, Houston, TX 77084",
+    "neighborhood": "Northwest Houston",
+    "street": "19002 Park Row Blvd Suite 101",
+    "city": "Houston",
+    "postalCode": "77084",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://alamospecialtyrx.com/trinity-specialty-pharmacy/",
+    "phone": "(832) 295-8070",
+    "phoneUnformatted": "+18322958070",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.790146,
+      "lng": -95.7030852
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZYeANXjZQIYRhjHQ1tWYinY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640d97835808765:0x768a98d5d6d03186",
+    "cid": "8541807687460991366",
+    "reviewsCount": 301,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Trinity%20Specialty%20Pharmacy&query_place_id=ChIJZYeANXjZQIYRhjHQ1tWYinY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVpfnRHGsBPwZwSJu2FwQiUhTGPv_ScNb4vDYkgqploMWaq-tVcqIypzE11Sb-sD2bGtHCDhzcaQWi3mUgS91mRcOUSmDo3Wv8EfTMEVVReH5aa30_4Ip6S3rSUucmsRfaHe5I=w408-h306-k-no",
+    "kgmid": "/g/11kp_qzywz",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Heights-Studewood Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "512 E 11th St Bldg A, Houston, TX 77008",
+    "neighborhood": "Greater Heights",
+    "street": "512 E 11th St Bldg A",
+    "city": "Houston",
+    "postalCode": "77008",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.heightsstudewood.com/",
+    "phone": "(713) 869-2225",
+    "phoneUnformatted": "+17138692225",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7905912,
+      "lng": -95.3926668
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8640c76f894ee6c1:0xd713002c6309e655",
+    "cid": "15497730933352162901",
+    "reviewsCount": 118,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Latino-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heights-Studewood%20Pharmacy&query_place_id=ChIJweZOiW_HQIYRVeYJYywAE9c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO50vdwN5YgWuQVw6fbB6UHzMmlDw2U3zlrt0n7=w408-h306-k-no",
+    "kgmid": "/g/1pxwcc5ms",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Village Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "975 Corbindale Rd, Houston, TX 77024",
+    "neighborhood": "Westside",
+    "street": "975 Corbindale Rd",
+    "city": "Houston",
+    "postalCode": "77024",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.villagecompounding.com/",
+    "phone": "(713) 464-5069",
+    "phoneUnformatted": "+17134645069",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7832647,
+      "lng": -95.5130012
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c4643dcdf0f1:0x58184fd420fcf25b",
+    "cid": "6347911447283823195",
+    "reviewsCount": 50,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Compounding%20Pharmacy&query_place_id=ChIJ8fDNPWTEQIYRW_L8INRPGFg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPq2v0mJkHOvcjEPMYsgT5uH2hjpDY6IbBew4w=w691-h240-k-no",
+    "kgmid": "/g/1td6n0s9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Briargrove Pharmacy & Gifts",
+    "description": "Longtime (since 1968) drugstore offering a pharmacy & medical supplies, plus gifts & cosmetics.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6435 San Felipe St, Houston, TX 77057",
+    "neighborhood": "Westside",
+    "street": "6435 San Felipe St",
+    "city": "Houston",
+    "postalCode": "77057",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.briargroverx.com/",
+    "phone": "(713) 783-5704",
+    "phoneUnformatted": "+17137835704",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7495539,
+      "lng": -95.499286
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Gift shop",
+      "Jewelry store",
+      "Post office",
+      "Stationery store",
+      "Toy store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8640c39355752409:0xfb8ba0d02af14b42",
+    "cid": "18125757941216791362",
+    "reviewsCount": 95,
+    "imagesCount": 148,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.827Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Briargrove%20Pharmacy%20%26%20Gifts&query_place_id=ChIJCSR1VZPDQIYRQkvxKtCgi_s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMV5ttjiHK9pKE4AqcDSpoUePyrZmXxhZgwNnOM=w408-h306-k-no",
+    "kgmid": "/g/1tmqglh4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Texas RxSolutions and Compounding Pharmacy #2",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7505 Fannin St #120, Houston, TX 77054",
+    "neighborhood": "Astrodome Area",
+    "street": "7505 Fannin St #120",
+    "city": "Houston",
+    "postalCode": "77054",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.texasrxsolutions.com/",
+    "phone": "(713) 790-1228",
+    "phoneUnformatted": "+17137901228",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.694552,
+      "lng": -95.401103
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8640c00f1343a39d:0xf6cbeab6fad4bbfa",
+    "cid": "17783565625215728634",
+    "reviewsCount": 5,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Texas%20RxSolutions%20and%20Compounding%20Pharmacy%20%232&query_place_id=ChIJnaNDEw_AQIYR-rvU-rbqy_Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKnXsp8Kz5BublKgFHVWP0bQ3n4BGZF8lQD-vW=w408-h306-k-no",
+    "kgmid": "/g/11clvvx5zq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cypress Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9511 Huffmeister Rd Suite 104, Houston, TX 77095",
+    "neighborhood": null,
+    "street": "9511 Huffmeister Rd Suite 104",
+    "city": "Houston",
+    "postalCode": "77095",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.ccpharmacy.com/",
+    "phone": "(832) 617-0290",
+    "phoneUnformatted": "+18326170290",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.9159921,
+      "lng": -95.6313372
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8640d13b944bdbd5:0x794ef90fca72ada0",
+    "cid": "8741197772989050272",
+    "reviewsCount": 76,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cypress%20Compounding%20Pharmacy&query_place_id=ChIJ1dtLlDvRQIYRoK1yyg_5Tnk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPqVryRt_8F7eAJG_2d95V1trbF95eqITBJfA0h=w408-h290-k-no",
+    "kgmid": "/g/1hm3k_jxg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Alsedra Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9031 Westheimer Rd, Houston, TX 77063",
+    "neighborhood": "Westside",
+    "street": "9031 Westheimer Rd",
+    "city": "Houston",
+    "postalCode": "77063",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(346) 320-4997",
+    "phoneUnformatted": "+13463204997",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7368055,
+      "lng": -95.5236067
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c323105e10f5:0x988c22ed7cecfbe",
+    "cid": "687012449618939838",
+    "reviewsCount": 36,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alsedra%20Pharmacy&query_place_id=ChIJ9RBeECPDQIYRvs_O1y7CiAk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNbVyymrlK26Q58wSk4ShGKvjbuSyRHQXjJY1P0=w408-h272-k-no",
+    "kgmid": "/g/11p06jpl99",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.8,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4040 S Braeswood Blvd, Houston, TX 77025",
+    "neighborhood": "Braeswood",
+    "street": "4040 S Braeswood Blvd",
+    "city": "Houston",
+    "postalCode": "77025",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://medicrxhouston.com/",
+    "phone": "(713) 666-6353",
+    "phoneUnformatted": "+17136666353",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 29.689793,
+      "lng": -95.442981
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c1ce3000f63f:0x30351df84203f6dd",
+    "cid": "3473715639682856669",
+    "reviewsCount": 31,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medic%20Pharmacy&query_place_id=ChIJP_YAMM7BQIYR3fYDQvgdNTA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq5zX93fxGOQkCwx_XHT2p9Phr8HPnhzJDESxcISiB_lqksXArPLaVQcJ6h1iB522QipTlhzuDIB5OA6R0nUdIEYa-M4xls38U0IZyznVlwa17v2GHGDxZbHsKLbGPjsamYZQjmlg=w426-h240-k-no",
+    "kgmid": "/g/1td8zhqy",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Loving Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4406 Airline Dr #2901, Houston, TX 77022",
+    "neighborhood": "Independence Heights",
+    "street": "4406 Airline Dr #2901",
+    "city": "Houston",
+    "postalCode": "77022",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(713) 808-9103",
+    "phoneUnformatted": "+17138089103",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.8298964,
+      "lng": -95.3840058
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640b87abab76d27:0x67a1332ecee46b8c",
+    "cid": "7467305933289581452",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Loving%20Care%20Pharmacy&query_place_id=ChIJJ223unq4QIYRjGvkzi4zoWc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=morwfuip7Xk7eD5KvWorsQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.832882&pitch=0&thumbfov=100",
+    "kgmid": "/g/1ttq2h7c",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Midtown pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Entrance at, 2016 Main St, 965 Gray St STE 104, Houston, TX 77002",
+    "neighborhood": "Midtown",
+    "street": "Entrance at, 2016 Main St, 965 Gray St STE 104",
+    "city": "Houston",
+    "postalCode": "77002",
+    "state": "TX",
+    "countryCode": "US",
+    "phone": "(346) 646-1777",
+    "phoneUnformatted": "+13466461777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7490339,
+      "lng": -95.3716804
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640bf5089508d33:0xe00b1a16d8e7f7fb",
+    "cid": "16144025974670358523",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Midtown%20pharmacy&query_place_id=ChIJM41QiVC_QIYR-_fn2BYaC-A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWcpCRe5ASx1XzKWQ7CKfjDDRBgojzXEzv4_I6=w408-h306-k-no",
+    "kgmid": "/g/11vx1qchjx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "MedX Pharmacy Houston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6918 Corporate Dr Ste B5, Houston, TX 77036",
+    "neighborhood": "Sharpstown",
+    "street": "6918 Corporate Dr Ste B5",
+    "city": "Houston",
+    "postalCode": "77036",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.medxpharm.com/",
+    "phone": "(281) 506-2453",
+    "phoneUnformatted": "+12815062453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7037368,
+      "lng": -95.5521321
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864093db19065d8f:0x6e0fd44d9635c372",
+    "cid": "7930790898520408946",
+    "reviewsCount": 28,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MedX%20Pharmacy%20Houston&query_place_id=ChIJj10GGduTQIYRcsM1lk3UD24",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLAH8q3xd5DzcTtv9rPSlA3p3UgpcLeBY39mHa85yxDCO1Ed458CXJ5NCK1A3-jU5s3ysiIhzTf_spE5lGoL4Gmgopzj8xhakTdyRAb8YyIBrk5niUNteO5ySana9dD3o7cYZ0ow=w408-h285-k-no",
+    "kgmid": "/g/1tmpwc0f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Doyle's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2425 Sunset Blvd, Houston, TX 77005",
+    "neighborhood": "Southampton",
+    "street": "2425 Sunset Blvd",
+    "city": "Houston",
+    "postalCode": "77005",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.doylespharmacy.com/",
+    "phone": "(713) 526-1771",
+    "phoneUnformatted": "+17135261771",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7228398,
+      "lng": -95.4161454
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8640c05fc6c6e411:0x4f7c608d3050c82e",
+    "cid": "5727558985625684014",
+    "reviewsCount": 8,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Doyle's%20Pharmacy&query_place_id=ChIJEeTGxl_AQIYRLshQMI1gfE8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMCAbpDblS5fPXwdeEjxQBVHKJg5J5mvWgpF5CQ=w426-h240-k-no",
+    "kgmid": "/g/1th5cywb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "3317 Montrose Blvd, Houston, TX 77006",
+    "neighborhood": "Montrose",
+    "street": "3317 Montrose Blvd",
+    "city": "Houston",
+    "postalCode": "77006",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3317+montrose+blvd-houston-tx-77006/id=3157",
+    "phone": "(713) 520-7777",
+    "phoneUnformatted": "+17135207777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7428867,
+      "lng": -95.3904864
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpwc-2WO_QIYRMkSipJT89X8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640bf63d93e07a7:0x7ff5fc94a4a24432",
+    "cid": "9220553527458415666",
+    "reviewsCount": 37,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.828Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJpwc-2WO_QIYRMkSipJT89X8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7mUG6YLFau22WCotgZuiwYq5luLVX_-VpY0acxhgHPBoLVJP5Aqn3nscF45jwpI7e-EprZlLKDVb-ZC2_iaoT5n9Y8sL4OFYakm4MtUm0Mkyv_k8-X0pz79hpw1h1M3wSwUrS=w408-h306-k-no",
+    "kgmid": "/g/1tdywrds",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Greenspoint Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "165 Greens Rd, Houston, TX 77060",
+    "neighborhood": "Greater Greenspoint",
+    "street": "165 Greens Rd",
+    "city": "Houston",
+    "postalCode": "77060",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://greenspointpharmacy.com/",
+    "phone": "(281) 872-4177",
+    "phoneUnformatted": "+12818724177",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 29.9543745,
+      "lng": -95.4190738
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c9f364b813f9:0xc81cba7fd907529f",
+    "cid": "14419605165198234271",
+    "reviewsCount": 39,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.829Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Greenspoint%20Pharmacy&query_place_id=ChIJ-RO4ZPPJQIYRn1IH2X-6HMg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noj6PrVuNPBNaOWWs30HDaEbHFamxvI8dJ7BnegSRfGDl9-SuUBcchh_EugGAJnvJlineE2gWRRzFvS-zU9I3UXa2T_xIs-qNT3-2dS19bTbCKYK0jdQiIkPdV-iXvihga326xf=w480-h240-k-no",
+    "kgmid": "/g/1tht1vby",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Empower Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7601 North Sam Houston Pkwy W Ste 100, Houston, TX 77064",
+    "neighborhood": null,
+    "street": "7601 North Sam Houston Pkwy W Ste 100",
+    "city": "Houston",
+    "postalCode": "77064",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.empowerpharmacy.com/?utm_source=gbp&utm_medium=organic&utm_campaign=location-listing-EPHO&y_source=1_MTA0OTA2NjA4Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(877) 562-8577",
+    "phoneUnformatted": "+18775628577",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.9321824,
+      "lng": -95.536074
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab"
+    ],
+    "fid": "0x8640d2205e8296bb:0x6205a6109d5634d3",
+    "cid": "7063234180889851091",
+    "reviewsCount": 11268,
+    "imagesCount": 271,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.829Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Empower%20Pharmacy&query_place_id=ChIJu5aCXiDSQIYR0zRWnRCmBWI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nodUDHfqTIkHkYrb6Ev7_WGrIU9nuCb4Vm5adPPLg8jW9S0U-MqsM2WzKfygwWqeWj-UepAi7gMFWD-DVNpyL2oNToTZ8bjvsOwnGS_ioND6cgS6DnPZJ9xzWgozdmxaat0jd-7=w408-h306-k-no",
+    "kgmid": "/g/119wvgr0b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Southend Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "415 Westheimer Rd #103, Houston, TX 77006",
+    "neighborhood": "Montrose",
+    "street": "415 Westheimer Rd #103",
+    "city": "Houston",
+    "postalCode": "77006",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.southendpharmacystore.com/",
+    "phone": "(855) 414-5356",
+    "phoneUnformatted": "+18554145356",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7442412,
+      "lng": -95.3868592
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Health consultant",
+      "Pharmaceutical lab"
+    ],
+    "fid": "0x8640e7e5ee0dd039:0x705a1753509e89e6",
+    "cid": "8095808926754179558",
+    "reviewsCount": 328,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:13.829Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Southend%20Pharmacy&query_place_id=ChIJOdAN7uXnQIYR5omeUFMXWnA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@13.578075962980616,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojk0yEWw-BUPeG5joMRgsjge-FtUGM5ug298VZGFYFB27oj9UfKYxVFSyxsbDN321w_NHtVmxd6VTpkky9u0TRSkvT1Ofm3gp4GstVA_pHm7sUrnhUptT5UjB0OA5mokzDWXlT=w408-h306-k-no",
+    "kgmid": "/g/1vg_7pb_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fairway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4912 Telephone Rd, Houston, TX 77087",
+    "neighborhood": "Southeast Houston",
+    "street": "4912 Telephone Rd",
+    "city": "Houston",
+    "postalCode": "77087",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(713) 454-0211",
+    "phoneUnformatted": "+17134540211",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.6908394,
+      "lng": -95.2993456
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640bdf09bd080b1:0xadad5b7810adbfff",
+    "cid": "12514759510766501887",
+    "reviewsCount": 104,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:14.088Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fairway%20Pharmacy&query_place_id=ChIJsYDQm_C9QIYR_7-tEHhbra0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@60.17977372574618,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOC_dYS35e5bHJN4OvucKwiRoJ476Zz_uFWKJFM=w426-h240-k-no",
+    "kgmid": "/g/11g875ct00",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "ASP Cares Houston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3009 Fannin St, Houston, TX 77004",
+    "neighborhood": "Midtown",
+    "street": "3009 Fannin St",
+    "city": "Houston",
+    "postalCode": "77004",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://aspcareshouston.com/",
+    "phone": "(832) 500-3565",
+    "phoneUnformatted": "+18325003565",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.741956,
+      "lng": -95.375185
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640e65369e51de5:0x5a96e30f65f32c34",
+    "cid": "6527654365194562612",
+    "reviewsCount": 1159,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:14.089Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ASP%20Cares%20Houston&query_place_id=ChIJ5R3laVPmQIYRNCzzZQ_jllo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@60.17977372574618,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOc3uK4BJRB6n8mYtqReoxQuNYPhuSycPu--vpx=w408-h306-k-no",
+    "kgmid": "/g/11bz__npmk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6630 Southwest Fwy, Houston, TX 77074",
+    "neighborhood": "Sharpstown",
+    "street": "6630 Southwest Fwy",
+    "city": "Houston",
+    "postalCode": "77074",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://pharmacyhouston.com/",
+    "phone": "(713) 266-5425",
+    "phoneUnformatted": "+17132665425",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7171527,
+      "lng": -95.5003725
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c24a1b71a82b:0x99c932d2f7828f9d",
+    "cid": "11081444239798865821",
+    "reviewsCount": 15,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:14.089Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy&query_place_id=ChIJK6hxG0rCQIYRnY-C99IyyZk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@60.17977372574618,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOK1EQGvpKQdT1czV6c7o0CY-QPkHvSfqgIpWsM=w408-h453-k-no",
+    "kgmid": "/g/1wbf_stq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pronto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8635 Long Point Rd C, Houston, TX 77055",
+    "neighborhood": "Spring Branch Central",
+    "street": "8635 Long Point Rd C",
+    "city": "Houston",
+    "postalCode": "77055",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://prontopharmacy.com/",
+    "phone": "(713) 492-2679",
+    "phoneUnformatted": "+17134922679",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.8027694,
+      "lng": -95.5021128
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c4489013daa3:0x7cb9b16a3c5f3096",
+    "cid": "8987409601232056470",
+    "reviewsCount": 44,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:14.089Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pronto%20Pharmacy&query_place_id=ChIJo9oTkEjEQIYRljBfPGqxuXw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@60.17977372574618,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZMYQk9Hhcgtv9qTLLa9zay5LVDGIB73hwqQ4Z=w408-h306-k-no",
+    "kgmid": "/g/11gfdfhngq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Proscript America Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1801 Binz St UNIT 310, Houston, TX 77004",
+    "neighborhood": "Houston Museum District",
+    "street": "1801 Binz St UNIT 310",
+    "city": "Houston",
+    "postalCode": "77004",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://proscriptamerica.com/?utm_source=omg-gbp&utm_medium=weblick",
+    "phone": "(281) 816-6501",
+    "phoneUnformatted": "+12818166501",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 29.7216861,
+      "lng": -95.3820641
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8640c1d1a09b882b:0x7bde9a3a4b348911",
+    "cid": "8925741086655416593",
+    "reviewsCount": 33,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T03:25:14.089Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Proscript%20America%20Pharmacy&query_place_id=ChIJK4iboNHBQIYREYk0Szqa3ns",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Houston%20TX/@60.17977372574618,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Houston TX",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPb3ascFUqt01TLN_1IFXqbp2TitAvFyx30xHey=w426-h240-k-no",
+    "kgmid": "/g/11g0hxc52t",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

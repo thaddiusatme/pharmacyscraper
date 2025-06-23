@@ -1,0 +1,2341 @@
+[
+  {
+    "title": "Fairley's Pharmacy Inc",
+    "description": "Local landmark providing old-fashioned milkshakes, coffee, sodas & medical items since 1914.",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "7206 NE Sandy Blvd, Portland, OR 97213",
+    "neighborhood": "Roseway",
+    "street": "7206 NE Sandy Blvd",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://fairleyspharmacy.com/",
+    "phone": "(503) 284-1159",
+    "phoneUnformatted": "+15032841159",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5483333,
+      "lng": -122.5886111
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Coffee shop"
+    ],
+    "fid": "0x5495a14900cc31a1:0x90b30e3504ccc240",
+    "cid": "10426693183169413696",
+    "reviewsCount": 143,
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.143Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fairley's%20Pharmacy%20Inc&query_place_id=ChIJoTHMAEmhlVQRQMLMBDUOs5A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgYxyxlYL4D7ufbPaXIUnpfQ3zPx5q7Tpu5MTI=w408-h720-k-no",
+    "kgmid": "/g/1tdrf25h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Brooklyn Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3131 SE Milwaukie Ave, Portland, OR 97223",
+    "neighborhood": "Southeast Portland",
+    "street": "3131 SE Milwaukie Ave",
+    "city": "Portland",
+    "postalCode": "97223",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://brooklyn-pharmacyrx.com/",
+    "phone": "(503) 234-8348",
+    "phoneUnformatted": "+15032348348",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5004994,
+      "lng": -122.6543635
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950a7bab040a67:0x7fe3aa6534bbd034",
+    "cid": "9215396614183309364",
+    "reviewsCount": 222,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pharmacy&query_place_id=ChIJZwoEq3sKlVQRNNC7NGWq438",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHz_mPKe3JSoXHSSPAZYYrRQV-c4Q0BYCjjaEkg3WeNSXaW93grl9MLCD5UODKWft-VWA_RJawRZCVrjUG4fX_mGSP7_-daFqEmPio_JmOzfdh_--KVUtYTqhITEaKV1UIppMWjjui5p3U=w408-h474-k-no",
+    "kgmid": "/g/1tgnrcd_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "LECARE Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1619 NE 42nd Ave, Portland, OR 97213",
+    "neighborhood": "Northeast Portland",
+    "street": "1619 NE 42nd Ave",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.lecarepharmacy.com/",
+    "phone": "(971) 358-6888",
+    "phoneUnformatted": "+19713586888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.534809,
+      "lng": -122.6204491
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a177931ced39:0x17d241091dc2be66",
+    "cid": "1716505915391393382",
+    "reviewsCount": 232,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LECARE%20Pharmacy&query_place_id=ChIJOe0ck3ehlVQRZr7CHQlB0hc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9OvxbtOz8bjsYhzL9IydO9SwEgBdQvF4G682XlJ0TeMIpW4AfihEdWyd7O54AcVuwYLV71XdlDNJR7UKIAqsQuhTiQizU5Ipoq5wME9i60LRe77rG3DDKP1k3jyRV6sIgjVwiaQ=w408-h306-k-no",
+    "kgmid": "/g/11nfq1b9vq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "division pharmacy inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10240 NE Halsey St, Portland, OR 97220",
+    "neighborhood": "Northeast Portland",
+    "street": "10240 NE Halsey St",
+    "city": "Portland",
+    "postalCode": "97220",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.divisionpharmacy.com/",
+    "phone": "(503) 261-0303",
+    "phoneUnformatted": "+15032610303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5334321,
+      "lng": -122.5573075
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a1c655555555:0x312969a97280699f",
+    "cid": "3542478758395013535",
+    "reviewsCount": 25,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=division%20pharmacy%20inc&query_place_id=ChIJVVVVVcahlVQRn2mAcqlpKTE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNy1r5OYLCBntG_-yh7Ln8GUWC8Vzjztw0nxFa2=w408-h306-k-no",
+    "kgmid": "/g/11kh1_h0l8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Consonus Oregon Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4560 SE International Way #101, Portland, OR 97222",
+    "neighborhood": "Milwaukie Business - Industrial",
+    "street": "4560 SE International Way #101",
+    "city": "Portland",
+    "postalCode": "97222",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.consonushealth.com/pharmacy",
+    "phone": "(877) 311-1499",
+    "phoneUnformatted": "+18773111499",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4353349,
+      "lng": -122.617064
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495751bca288e53:0xb470bbee3dbe1097",
+    "cid": "13002098756131098775",
+    "reviewsCount": 12,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Consonus%20Oregon%20Pharmacy&query_place_id=ChIJU44oyht1lVQRlxC-Pe67cLQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXS9axAGzgYrRbqGjUiHNNBrXAm1-ACQE6s0jc=w408-h408-k-no",
+    "kgmid": "/g/1tdwvdj3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bowman's Hillsdale Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6256 SW Capitol Hwy, Portland, OR 97239",
+    "neighborhood": "Southwest Portland",
+    "street": "6256 SW Capitol Hwy",
+    "city": "Portland",
+    "postalCode": "97239",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.facebook.com/BOWMANSHILLSDALEPHARMACY",
+    "phone": "(503) 244-7582",
+    "phoneUnformatted": "+15032447582",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4785052,
+      "lng": -122.6936888
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950b00ceadd265:0xd3e2f4b5df1e2d61",
+    "cid": "15268034748708957537",
+    "reviewsCount": 51,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bowman's%20Hillsdale%20Pharmacy&query_place_id=ChIJZdKtzgALlVQRYS0e37X04tM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noz47ntZSitlfJ0Ra1O-1h8FLiD7F9pjhCfscXBx5Oosh2cBEFao15edoayh1rlrc2pf1N71l4E2bg_RqSEzr1zw_WKaq5JO_ftvFG5OBhisQF9LljET8FuTy-k-AGUhUEamOmD0Q=w408-h306-k-no",
+    "kgmid": "/g/11_r_c__9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "NewEra Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1286 SE Holgate Blvd Ste. C2, Portland, OR 97202",
+    "neighborhood": "Southeast Portland",
+    "street": "1286 SE Holgate Blvd Ste. C2",
+    "city": "Portland",
+    "postalCode": "97202",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://newerapharmacy.com/",
+    "phone": "(503) 222-4822",
+    "phoneUnformatted": "+15032224822",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4899427,
+      "lng": -122.6524247
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950a310d00760d:0xa71b72857fbb8ebb",
+    "cid": "12041343946404368059",
+    "reviewsCount": 92,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.145Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NewEra%20Pharmacy&query_place_id=ChIJDXYADTEKlVQRu467f4VyG6c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFWStfwzRSRLvuwv9AMdtioXL8geIKa-O7zoaU=w408-h272-k-no",
+    "kgmid": "/g/1tdcr74z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.93,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Medical Pharmacy | Long Term Care and Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1125 NE 99th Ave, Portland, OR 97220",
+    "neighborhood": "Northeast Portland",
+    "street": "1125 NE 99th Ave",
+    "city": "Portland",
+    "postalCode": "97220",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.gatewaymedicalrx.com/",
+    "phone": "(503) 254-7383",
+    "phoneUnformatted": "+15032547383",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.531033,
+      "lng": -122.562626
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health consultant",
+      "Health counselor",
+      "Medical clinic"
+    ],
+    "fid": "0x5495a17223849e81:0x4d793a6bf2ad366c",
+    "cid": "5582557448409790060",
+    "reviewsCount": 51,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.146Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Medical%20Pharmacy%20%7C%20Long%20Term%20Care%20and%20Compounding%20Pharmacy&query_place_id=ChIJgZ6EI3KhlVQRbDat8ms6eU0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8sb4_yhEdbMl2CWADFJ1UzZWH37jwFa7HKamk=w408-h306-k-no",
+    "kgmid": "/g/1s047m038",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Avita Pharmacy 1027",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2236 SE Belmont St Suite A, Portland, OR 97214",
+    "neighborhood": "Southeast Portland",
+    "street": "2236 SE Belmont St Suite A",
+    "city": "Portland",
+    "postalCode": "97214",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.avitapharmacy.com/",
+    "phone": "(503) 379-0370",
+    "phoneUnformatted": "+15033790370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5162522,
+      "lng": -122.6428119
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a140cf2fd375:0xbbeb14085a5815b2",
+    "cid": "13540938730727544242",
+    "reviewsCount": 39,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.146Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avita%20Pharmacy%201027&query_place_id=ChIJddMvz0ChlVQRshVYWggU67s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYyDtcWKM4LixEpnB9ittPcx9PykU7X1089Pyf=w426-h240-k-no",
+    "kgmid": "/g/11j61bx0py",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy.com",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5253 SE 82nd Ave UNIT 27, Portland, OR 97266",
+    "neighborhood": "Foster - Powell",
+    "street": "5253 SE 82nd Ave UNIT 27",
+    "city": "Portland",
+    "postalCode": "97266",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://pdxpharmacy.com/",
+    "phone": "(503) 477-8453",
+    "phoneUnformatted": "+15034778453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4842142,
+      "lng": -122.5800716
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a022db000001:0x7aaed0bec459002",
+    "cid": "552514539770712066",
+    "reviewsCount": 22,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:29.146Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy.com&query_place_id=ChIJAQAA2yKglVQRApBF7Avtqgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@22.87074910283459,-161.85289204136058,13z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNBG3iFdNi0GMH3X2x3lv-_XMdiq0R_xbV1L3xY=w408-h306-k-no",
+    "kgmid": "/g/11ng7c13gb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Lloyd Central Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2606 NE Broadway suite b, Portland, OR 97232",
+    "neighborhood": "Sullivan's Gulch",
+    "street": "2606 NE Broadway suite b",
+    "city": "Portland",
+    "postalCode": "97232",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.lcrx.com/",
+    "phone": "(503) 281-4161",
+    "phoneUnformatted": "+15032814161",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5348336,
+      "lng": -122.6387352
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a0a8addb3487:0xfc1859b1aaace223",
+    "cid": "18165367716606435875",
+    "reviewsCount": 109,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:31.302Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lloyd%20Central%20Compounding%20Pharmacy&query_place_id=ChIJhzTbraiglVQRI-KsqrFZGPw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@60.17977372574618,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npV3S8Q9mGY1xqg5P3FnU6cjxSKR-tURv9JrM8eq11jSfF10qImZu9gb53_T8fcjEGwGutctrt8Vxnl22sQkFfX7ABDR2KbGmXlWHtiQm5Za40TCh55TgC6CALBXzNyerhV4oQJpw=w426-h240-k-no",
+    "kgmid": "/g/1tdqzf99",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Portland Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1295 Portland Ave Ste 2, Rochester, NY 14621",
+    "neighborhood": "Group 14621",
+    "street": "1295 Portland Ave Ste 2",
+    "city": "Rochester",
+    "postalCode": "14621",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/portlandpharmrx",
+    "phone": "(585) 537-7081",
+    "phoneUnformatted": "+15855377081",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.1897145,
+      "lng": -77.5854485
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89d6b5e163023cf5:0xc2094075d5e48295",
+    "cid": "13981777392992289429",
+    "reviewsCount": 52,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:43.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20133\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Portland%20Pharmacy&query_place_id=ChIJ9TwCY-G11okRlYLk1XVACcI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZh2PLvHlWPMX0g4JEjuFVVuQ8epLPAbYliXWG=w408-h544-k-no",
+    "kgmid": "/g/11p4l8hc2j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Old Town Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "727 W Burnside St, Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "street": "727 W Burnside St",
+    "city": "Portland",
+    "postalCode": "97209",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://centralcityconcern.org/health-care-location/old-town-clinic-health-care/",
+    "phone": "(503) 944-4465",
+    "phoneUnformatted": "+15039444465",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.5232402,
+      "lng": -122.6781474
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUe_qNgALlVQRS_ku47_wv8Q",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950b0036eaef51:0xc4bff0bfe32ef94b",
+    "cid": "14177314858926537035",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:44.225Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Old%20Town%20Clinic%20Pharmacy&query_place_id=ChIJUe_qNgALlVQRS_ku47_wv8Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@60.874534795447715,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_a34rhRaAeRcVPcsklYIrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=103.09303&pitch=0&thumbfov=100",
+    "kgmid": "/g/11w1yng0nj",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Providence Long-Term Care Pharmacy - Portland",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6410 NE Halsey St Suite 400, Portland, OR 97213",
+    "neighborhood": "Northeast Portland",
+    "street": "6410 NE Halsey St Suite 400",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.providence.org/locations/or/long-term-care-pharmacy?ls=location&y_source=1_OTU3NjM0OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(503) 215-5033",
+    "phoneUnformatted": "+15032155033",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5329962,
+      "lng": -122.5972851
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhYuKbyKhlVQR6z7__6oye5o",
+    "categories": [
+      "Pharmacy",
+      "Medical clinic"
+    ],
+    "fid": "0x5495a1226f8a8b85:0x9a7b32aaffff3eeb",
+    "cid": "11131546613997059819",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:44.225Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Providence%20Long-Term%20Care%20Pharmacy%20-%20Portland&query_place_id=ChIJhYuKbyKhlVQR6z7__6oye5o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@60.874534795447715,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPoFPkCIYUS-Ns6pFoJHcpc8t8gbp3AWhGr2k8a=w408-h408-k-no",
+    "kgmid": "/g/11cnchf78m",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Jenna M. Nevills, BS",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1316 SW Washington St, Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "street": "1316 SW Washington St",
+    "city": "Portland",
+    "postalCode": "97205",
+    "state": "Oregon",
+    "countryCode": "US",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.522117,
+      "lng": -122.6848084
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950a03221d7a77:0xf33b6f9ec79ac88b",
+    "cid": "17526725102586742923",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:44.225Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jenna%20M.%20Nevills%2C%20BS&query_place_id=ChIJd3odIgMKlVQRi8iax55vO_M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@60.874534795447715,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0RWGKypeLGdKfrJIAQnOdw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.31781&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdzqvpc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "5420 NE 33rd Ave, Portland, OR 97211",
+    "neighborhood": "Northeast Portland",
+    "street": "5420 NE 33rd Ave",
+    "city": "Portland",
+    "postalCode": "97211",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-5420+ne+33rd+ave-portland-or-97211/id=7119",
+    "phone": "(971) 230-0153",
+    "phoneUnformatted": "+19712300153",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5622959,
+      "lng": -122.6304942
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2YTmN92mlVQRdPz54f0y1Q0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a6dd37e684d9:0xdd532fde1f9fc74",
+    "cid": "996758958531804276",
+    "reviewsCount": 22,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:25:44.225Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ2YTmN92mlVQRdPz54f0y1Q0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@60.874534795447715,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNxCzY3oGbNEA8610DFZkrTNeD0oxpn8b7aQePM=w525-h240-k-no",
+    "kgmid": "/g/11cn95rkq2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Prescription Lab Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6380 E Grant Rd Suite 150, Tucson, AZ 85715",
+    "neighborhood": "La Paloma Academy",
+    "street": "6380 E Grant Rd Suite 150",
+    "city": "Tucson",
+    "postalCode": "85715",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.rxlab.com/",
+    "phone": "(520) 886-1035",
+    "phoneUnformatted": "+15208861035",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.2501147,
+      "lng": -110.8558042
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86d66f802c3683e3:0x5492dddb84bc13f9",
+    "cid": "6094177180680197113",
+    "reviewsCount": 31,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:26:14.845Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prescription%20Lab%20Compounding%20Pharmacy&query_place_id=ChIJ44M2LIBv1oYR-RO8hNvdklQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@33.954544952667874,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzemJE8TNnwpYVo-HdfCei90J4KiwXmDCtWe3S=w408-h408-k-no",
+    "kgmid": "/g/11smms25xk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Accredo Health Group - Tempe, AZ",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2040 W Rio Salado Pkwy Ste. 101B, Tempe, AZ 85281",
+    "neighborhood": null,
+    "street": "2040 W Rio Salado Pkwy Ste. 101B",
+    "city": "Tempe",
+    "postalCode": "85281",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://www.accredo.com/",
+    "phone": "(800) 803-2523",
+    "phoneUnformatted": "+18008032523",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.4318542,
+      "lng": -111.9725659
+    },
+    "totalScore": 1.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b6c4143ba8919:0xc06bf4dea45323ac",
+    "cid": "13865445114867033004",
+    "reviewsCount": 75,
+    "reviewsDistribution": {
+      "oneStar": 69,
+      "twoStar": 4,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:26:15.568Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Accredo%20Health%20Group%20-%20Tempe%2C%20AZ&query_place_id=ChIJGYm6Q0FsK4cRrCNTpN70a8A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@33.954544952667874,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tkvb709",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "United Discount Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5420 N Portland Ave, Oklahoma City, OK 73112",
+    "neighborhood": "Central Oklahoma City",
+    "street": "5420 N Portland Ave",
+    "city": "Oklahoma City",
+    "postalCode": "73112",
+    "state": "Oklahoma",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/united-discount-pharmacy-2-oklahoma-city-ok-73112-2072/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3728120",
+    "phone": "(405) 947-6828",
+    "phoneUnformatted": "+14059476828",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.5260191,
+      "lng": -97.5830052
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87b21aec91447ad5:0xcca1af87ad00d3e",
+    "cid": "921578728265354558",
+    "reviewsCount": 114,
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:27:36.982Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=United%20Discount%20Pharmacy&query_place_id=ChIJ1XpEkewasocRPg3Qevgaygw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Portland%20OR/@39.68245004733214,-99.1509755427839,8z?hl=en",
+    "searchString": "independent pharmacy Portland OR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npRaiOiK4fyRRi-f3k1MhCy5NI5-bS-r78DIhAxiHR-ptBTpKTyyYEGB0DBbf54Bi8OLqpTonUOz96CJvrQ8p0QQXaB97OIpflK_A7UROf1y7AuupWU46l5pXf19Lv3fHp_u-9bVw=w408-h306-k-no",
+    "kgmid": "/g/1thcn8h_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

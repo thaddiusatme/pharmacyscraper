@@ -1,0 +1,2633 @@
+[
+  {
+    "title": "Fort Worth Pharmacy, LLC - Compound Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7833 Oakmont Blvd STE 120, Fort Worth, TX 76132",
+    "neighborhood": null,
+    "street": "7833 Oakmont Blvd STE 120",
+    "city": "Fort Worth",
+    "postalCode": "76132",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://fwpharm.com/",
+    "phone": "(817) 361-9960",
+    "phoneUnformatted": "+18173619960",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.6652498,
+      "lng": -97.4261567
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x864e6d45747df1c1:0x8498b7495efc4c84",
+    "cid": "9554588135220595844",
+    "reviewsCount": 58,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Worth%20Pharmacy%2C%20LLC%20-%20Compound%20Specialty%20Pharmacy&query_place_id=ChIJwfF9dEVtToYRhEz8Xkm3mIQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOswpDQJttX0z05GaY-GWgt-fkjGzaWrPl54laa=w408-h544-k-no",
+    "kgmid": "/g/1tf_t86y",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Next to US MD Clinic, 5505 S Hulen St, Fort Worth, TX 76132",
+    "neighborhood": "Overton South",
+    "street": "Next to US MD Clinic, 5505 S Hulen St",
+    "city": "Fort Worth",
+    "postalCode": "76132",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://mygatewaypharmacy.com/",
+    "phone": "(682) 400-3366",
+    "phoneUnformatted": "+16824003366",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.6685335,
+      "lng": -97.3994079
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e6d355d6cd85d:0xb6c8214245b8960b",
+    "cid": "13170813678766298635",
+    "reviewsCount": 18,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.976Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Pharmacy&query_place_id=ChIJXdhsXTVtToYRC5a4RUIhyLY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noEK_Nz5-4Ma7-uTKq8IHLAOf9CeWf6c4j3fg8jDZ-_F7t-m720Edg9tYveMRmsqQVnsd4Md-3bpsNCpNsWvXnO2MnZ_phlicMQWJ2Z1MotB7FWTYD-YsNgfh290MW_TNhMBwoE=w408-h260-k-no",
+    "kgmid": "/g/11pcsmkks1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Forest Hill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3403 Mansfield Hwy, Fort Worth, TX 76119",
+    "neighborhood": "Glen Park",
+    "street": "3403 Mansfield Hwy",
+    "city": "Fort Worth",
+    "postalCode": "76119",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.foresthillpharm.com/pharmacy-our-location",
+    "phone": "(817) 887-9434",
+    "phoneUnformatted": "+18178879434",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.681605,
+      "lng": -97.2751692
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI7eJRftvToYRv69W78eh_hY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e6ffb4589b723:0x16fea1c7ef56afbf",
+    "cid": "1656939593004920767",
+    "reviewsCount": 25,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.976Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Forest%20Hill%20Pharmacy&query_place_id=ChIJI7eJRftvToYRv69W78eh_hY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWWAfDL9dx6LEEdy4_JRPDxjJkFYnmEoZJcVNfrGsGK9sS-KXRBedRYNE4QgnJmxT3kOWBzJwBaCF7eOouE39fPFDRkhyi_nYGyZeZEmxITG08U0pKjF7BxqGP8pzJy8aCB_ff=w408-h544-k-no",
+    "kgmid": "/g/11g0k23b08",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Best Value Country Day Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6020A Harris Pkwy, Fort Worth, TX 76132",
+    "neighborhood": null,
+    "street": "6020A Harris Pkwy",
+    "city": "Fort Worth",
+    "postalCode": "76132",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.mybestvaluerx.com/",
+    "phone": "(817) 738-0722",
+    "phoneUnformatted": "+18177380722",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.6608152,
+      "lng": -97.4207973
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK1sTFUFtToYR6BtvTkosf44",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e6d4115135b2b:0x8e7f2c4a4e6f1be8",
+    "cid": "10267974373083126760",
+    "reviewsCount": 78,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.976Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Value%20Country%20Day%20Pharmacy&query_place_id=ChIJK1sTFUFtToYR6BtvTkosf44",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noZhn_dad9lUvWgRTCSVy59jrO67crNBohPQSag5vnLW6Oqm31WCHMCbIREvwZybTToEWJruWagE5Y7f127apGm3X84nqID1ywQof0Jn8El6oVkilEwQb-RLUawebtPIyZQDA9ACw=w408-h883-k-no",
+    "kgmid": "/g/1tfshtd4",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Beach Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7630 N Beach St #170, Fort Worth, TX 76137",
+    "neighborhood": "Summerbrook",
+    "street": "7630 N Beach St #170",
+    "city": "Fort Worth",
+    "postalCode": "76137",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/beach-street-pharmacy-fort-worth-tx-76137/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=4542949",
+    "phone": "(817) 427-8774",
+    "phoneUnformatted": "+18174278774",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8788938,
+      "lng": -97.2889924
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x864dd86d9d65d057:0xcd56d13e9cd3cee9",
+    "cid": "14796243692621647593",
+    "reviewsCount": 35,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.977Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beach%20Street%20Pharmacy&query_place_id=ChIJV9BlnW3YTYYR6c7TnD7RVs0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L44H-jWlqXFDJyQxsKw9UQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.28839&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wn3420_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Texas Health Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7413 Pebble Dr, Fort Worth, TX 76118",
+    "neighborhood": null,
+    "street": "7413 Pebble Dr",
+    "city": "Fort Worth",
+    "postalCode": "76118",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.thcpharmacy.com/",
+    "phone": "(817) 595-9770",
+    "phoneUnformatted": "+18175959770",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.7934042,
+      "lng": -97.219213
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e7977ecb90451:0xb18ab70c835fc9e8",
+    "cid": "12793238955870898664",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.977Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Health%20Care%20Pharmacy&query_place_id=ChIJUQS57Hd5ToYR6Mlfgwy3irE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Q5LHZo2awTuN9_Fha_toYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=353.28394&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdzgdjc",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Meadowbrook Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6624 Meadowbrook Dr, Fort Worth, TX 76112",
+    "neighborhood": "Handley",
+    "street": "6624 Meadowbrook Dr",
+    "city": "Fort Worth",
+    "postalCode": "76112",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/meadowbrook-pharmacy-fort-worth-tx-76112/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=4553346",
+    "phone": "(817) 451-6900",
+    "phoneUnformatted": "+18174516900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.745702,
+      "lng": -97.215209
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x864e7bae417df49f:0xc6982957043680e1",
+    "cid": "14310233269679325409",
+    "reviewsCount": 71,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.977Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Meadowbrook%20Pharmacy&query_place_id=ChIJn_R9Qa57ToYR4YA2BFcpmMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noi1z4ROT0RLIvs8cM-D_N3ZpoJvLHgQkA0uMeywFq_0T6wCN9ipMG4_VZZiSBLGPEIimeGCMIHmVZHdXgIXhuyyU5IUoevACJHUgpq2kD9VEmtSf6yeKRbkBEAB_hpC5t47qFU6A=w408-h725-k-no",
+    "kgmid": "/g/1tk682kq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Perrone Legend Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3921 Benbrook Blvd, Fort Worth, TX 76116",
+    "neighborhood": "Bomber Heights",
+    "street": "3921 Benbrook Blvd",
+    "city": "Fort Worth",
+    "postalCode": "76116",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(817) 738-2135",
+    "phoneUnformatted": "+18177382135",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7131861,
+      "lng": -97.4447695
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x864e0d2e444013a9:0x920d11e55d6adc10",
+    "cid": "10524087581047184400",
+    "reviewsCount": 105,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.977Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Perrone%20Legend%20Pharmacy&query_place_id=ChIJqRNARC4NToYRENxqXeURDZI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no6pR_zCBUKht7woxErPrypAmoS8ESy2UoX246YeSQV4oFnP8TiN1C-48w0U98LidDyS2KL1fz4n8IPWeaT2M0u6hqDHF7lw5Dy6Ru7_jxjZ_J5xOa-DJz_Pa1YILwYonQBAJ4F=w506-h240-k-no",
+    "kgmid": "/g/1tfmnt38",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Daniel Drug Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3409 W 7th St, Fort Worth, TX 76107",
+    "neighborhood": null,
+    "street": "3409 W 7th St",
+    "city": "Fort Worth",
+    "postalCode": "76107",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.danieldrug.com/",
+    "phone": "(817) 332-6386",
+    "phoneUnformatted": "+18173326386",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7511288,
+      "lng": -97.3669524
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Delivery service",
+      "Health and beauty shop",
+      "Health insurance agency",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Medical laboratory",
+      "Medical supply store",
+      "Veterinary pharmacy",
+      "Weight loss service"
+    ],
+    "fid": "0x864e73e9f161fc4b:0xf19e9689d83f8658",
+    "cid": "17410518728243643992",
+    "reviewsCount": 57,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.977Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Daniel%20Drug%20Inc&query_place_id=ChIJS_xh8elzToYRWIY_2ImWnvE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSQhQ1jMy9JPIGn-EZ2aBwr-CWikbF29L7gcuT=w408-h272-k-no",
+    "kgmid": "/g/1tr7jsz8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Encore Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Medical City Fort Worth, 800 8th Ave #130, Fort Worth, TX 76104",
+    "neighborhood": null,
+    "street": "Medical City Fort Worth, 800 8th Ave #130",
+    "city": "Fort Worth",
+    "postalCode": "76104",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.encorepharmacy.net/",
+    "phone": "(817) 335-5712",
+    "phoneUnformatted": "+18173355712",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7362367,
+      "lng": -97.3442127
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e717bb3ff36d1:0x79e9d62bdb02298",
+    "cid": "549049252000572056",
+    "reviewsCount": 36,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Encore%20Pharmacy&query_place_id=ChIJ0Tb_s3txToYRmCKwvWKdngc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b0gewlKGuMKtYzV1F_VTdQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=4.611424&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf02wyg",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Better Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8615 S Hulen St #115, Fort Worth, TX 76123",
+    "neighborhood": null,
+    "street": "8615 S Hulen St #115",
+    "city": "Fort Worth",
+    "postalCode": "76123",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://betterhealthfw.com/?utm_source=google&utm_medium=gmb",
+    "phone": "(682) 708-3499",
+    "phoneUnformatted": "+16827083499",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.616355,
+      "lng": -97.3877038
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x864e6d371863c075:0x6771f11964df5995",
+    "cid": "7454003949643717013",
+    "reviewsCount": 160,
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Better%20Health%20Pharmacy&query_place_id=ChIJdcBjGDdtToYRlVnfZBnxcWc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOVmjfjEvSSpbw9IiQ1Atb64zW_XkrL7KGte21v=w408-h306-k-no",
+    "kgmid": "/g/11fmyr5zbn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Best Value Ridglea Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5932 Lovell Ave, Fort Worth, TX 76107",
+    "neighborhood": null,
+    "street": "5932 Lovell Ave",
+    "city": "Fort Worth",
+    "postalCode": "76107",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://mybestvaluerx.com/",
+    "phone": "(817) 737-6655",
+    "phoneUnformatted": "+18177376655",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7315472,
+      "lng": -97.4131923
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqR_kPBlzToYRsdoyVrrUtdM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e73193ce41fa9:0xd3b5d4ba5632dab1",
+    "cid": "15255333209562602161",
+    "reviewsCount": 63,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Value%20Ridglea%20Drug&query_place_id=ChIJqR_kPBlzToYRsdoyVrrUtdM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPBQYohZ7ffghiVu3kVP-JT1Sd-qHP6OTn4l7sG=w478-h240-k-no",
+    "kgmid": "/g/1tj3lh6j",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Lake Worth Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4701 Boat Club Rd SUITE 115, Fort Worth, TX 76135",
+    "neighborhood": "Neighbors of Jinkens Heights/Crestridge",
+    "street": "4701 Boat Club Rd SUITE 115",
+    "city": "Fort Worth",
+    "postalCode": "76135",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/lake-worth-pharmacy-fort-worth-tx-76135/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=4534322",
+    "phone": "(817) 237-7877",
+    "phoneUnformatted": "+18172377877",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.82457,
+      "lng": -97.420944
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x864e7523aa8155c7:0x7a761eac506ed848",
+    "cid": "8824274245311715400",
+    "reviewsCount": 52,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Worth%20Pharmacy&query_place_id=ChIJx1WBqiN1ToYRSNhuUKwedno",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqNwRGwVMr7BCnGkgm4-laQtvvYFmz07R7YtmC=w408-h306-k-no",
+    "kgmid": "/g/1tfk07sy",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Southfork Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2901 Acme Brick Plaza #204, Fort Worth, TX 76109",
+    "neighborhood": null,
+    "street": "2901 Acme Brick Plaza #204",
+    "city": "Fort Worth",
+    "postalCode": "76109",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.southforkpharmacyrx.com/",
+    "phone": "(817) 918-7441",
+    "phoneUnformatted": "+18179187441",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7091872,
+      "lng": -97.4099236
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e73f0fdf740ff:0x12b16a7109aa972f",
+    "cid": "1346974797286512431",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Southfork%20Pharmacy&query_place_id=ChIJ_0D3_fBzToYRL5eqCXFqsRI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO15-1h8UnmDf_FQrwLZ4JopKPzRoPmOh91S6Hh=w408-h408-k-no",
+    "kgmid": "/g/11tfgfdyn9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Macprince Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6080 S Hulen St #320, Fort Worth, TX 76132",
+    "neighborhood": null,
+    "street": "6080 S Hulen St #320",
+    "city": "Fort Worth",
+    "postalCode": "76132",
+    "state": "Texas",
+    "countryCode": "US",
+    "phone": "(682) 250-2229",
+    "phoneUnformatted": "+16822502229",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.6586943,
+      "lng": -97.4029307
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e6da571c1d187:0x79fd0642b188f909",
+    "cid": "8790188931213228297",
+    "reviewsCount": 6,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Macprince%20Pharmacy&query_place_id=ChIJh9HBcaVtToYRCfmIsUIG_Xk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPXmt9_rW1rXpBdmJ_SCMb96_TsqrfBZKIVgxQD=w408-h544-k-no",
+    "kgmid": "/g/11ll9zx3bp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ridgmar Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2524 Mall Cir, Fort Worth, TX 76116",
+    "neighborhood": null,
+    "street": "2524 Mall Cir",
+    "city": "Fort Worth",
+    "postalCode": "76116",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/ridgmar-pharmacy-fort-worth-tx-76116/",
+    "phone": "(817) 737-7377",
+    "phoneUnformatted": "+18177377377",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7388366,
+      "lng": -97.4343351
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x864e735ac347553f:0x19e47a3f34a65c24",
+    "cid": "1865750557523074084",
+    "reviewsCount": 26,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ridgmar%20Pharmacy&query_place_id=ChIJP1VHw1pzToYRJFymND965Bk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCv0lqdCFfiRHdoX190iPepclyWeNDenDiErrv26dWV6anF-90U4YSThVzkEskXUnNe5BcMqJPhRY5QTtlrt-SSN6MYMI2WJLBaP8bsovhQu7Lg6h1d9fFHgB9S8lLn6l-PIw=w408-h410-k-no",
+    "kgmid": "/g/11c3k6kzzz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mira Vista Apothecary and Mercantile",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7033 Bryant Irvin Rd Ste 300, Fort Worth, TX 76132",
+    "neighborhood": "Quail Ridge Estates",
+    "street": "7033 Bryant Irvin Rd Ste 300",
+    "city": "Fort Worth",
+    "postalCode": "76132",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "http://www.miravistaapothecary.com/",
+    "phone": "(817) 292-3800",
+    "phoneUnformatted": "+18172923800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.6476396,
+      "lng": -97.4278599
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e6d307c9edb37:0xd354f044d0a8767d",
+    "cid": "15228060418395633277",
+    "reviewsCount": 83,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.978Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mira%20Vista%20Apothecary%20and%20Mercantile&query_place_id=ChIJN9uefDBtToYRfXao0ETwVNM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiaFG5A5HVlrP-88i5J_qISzNIXEy1pWnIgkda=w408-h544-k-no",
+    "kgmid": "/g/11gg5bvlk9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AHF Pharmacy - Fort Worth",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "400 N Beach St ste 102, Fort Worth, TX 76111",
+    "neighborhood": null,
+    "street": "400 N Beach St ste 102",
+    "city": "Fort Worth",
+    "postalCode": "76111",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(817) 831-1814",
+    "phoneUnformatted": "+18178311814",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7697075,
+      "lng": -97.2868623
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e70c9df5e0bd5:0x6df771396a695d3",
+    "cid": "495245410049627603",
+    "reviewsCount": 15,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.979Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Pharmacy%20-%20Fort%20Worth&query_place_id=ChIJ1Qte38lwToYR05WmlhN33wY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqqqumWRRRFAKgUjLgBW21jwa16C2eXZmIUUdvaUnhME90uPE8Aq960o8n6dRfNXv0BGwU2cXq3RYs7fmcbKQ3VCvTBAiugN2V-Pcib9qa12p5QyUHsT8KlkAV8qfbGyoMV06EMTg=w408-h276-k-no",
+    "kgmid": "/g/1q6b2vcf2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hall's Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "708 Pennsylvania Ave, Fort Worth, TX 76104",
+    "neighborhood": "Bricktown",
+    "street": "708 Pennsylvania Ave",
+    "city": "Fort Worth",
+    "postalCode": "76104",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.hallsspecialtyrx.com/",
+    "phone": "(682) 841-3061",
+    "phoneUnformatted": "+16828413061",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7386015,
+      "lng": -97.3321602
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x864e7172fa9afdc5:0x7e126396ad90fbc7",
+    "cid": "9084432897167915975",
+    "reviewsCount": 59,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.979Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hall's%20Specialty%20Pharmacy&query_place_id=ChIJxf2a-nJxToYRx_uQrZZjEn4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMa5y2xVBIwI2hNZBDjvcfV08Gd2pA00BIfyqUC=w408-h306-k-no",
+    "kgmid": "/g/1tf5l19l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "A&P Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2329 N Riverside Dr, Fort Worth, TX 76111",
+    "neighborhood": "Springdale",
+    "street": "2329 N Riverside Dr",
+    "city": "Fort Worth",
+    "postalCode": "76111",
+    "state": "Texas",
+    "countryCode": "US",
+    "website": "https://www.appharmacyfortworth.com/",
+    "phone": "(682) 841-3769",
+    "phoneUnformatted": "+16828413769",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7943611,
+      "lng": -97.3023742
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x864e7723ea04287d:0x776a1d147b76636",
+    "cid": "537795125740791350",
+    "reviewsCount": 50,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:42:54.979Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%26P%20Pharmacy&query_place_id=ChIJfSgE6iN3ToYRNma3R9Ghdgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fort%20Worth%20TX/@20.113638632385012,145.3123183,12z?hl=en",
+    "searchString": "independent pharmacy Fort Worth TX",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMN9H1slO40SbZokTLoorviliCjLw63vQ9FA6c=w408-h306-k-no",
+    "kgmid": "/g/1vrqb0yk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]
