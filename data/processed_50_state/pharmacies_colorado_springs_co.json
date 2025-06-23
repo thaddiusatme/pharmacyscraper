@@ -239,7 +239,7 @@
     "kgmid": "/g/1tdnlk_s",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
@@ -454,8 +454,8 @@
     "kgmid": "/g/1tmk8yz9",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -577,8 +577,8 @@
     "kgmid": "/g/1tfh5350",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": true,
-    "confidence": 0.9,
+    "is_compounding": false,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -704,7 +704,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -899,7 +899,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1001,10 +1001,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sn0Gl8Dbfja4gkA_egqYxg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=310.41876&pitch=0&thumbfov=100",
     "kgmid": "/g/11qh5h0nrp",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1108,10 +1108,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fKm0HsqVgMdykbjdZoxjRg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.1851&pitch=0&thumbfov=100",
     "kgmid": "/g/11trp9zc31",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   }

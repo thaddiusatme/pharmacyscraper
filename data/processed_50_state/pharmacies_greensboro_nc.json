@@ -1105,7 +1105,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1439,7 +1439,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1548,10 +1548,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN2nff7bZIsSAV69KRiQTRdqjKnnqn7MTqjoHoV=w408-h271-k-no",
     "kgmid": "/g/11rtqn6d39",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1758,10 +1758,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWsJC6EV0ThcZlqOZnrATevx5xsKJRA53QVczq=w408-h408-k-no",
     "kgmid": "/g/11xf0yz9nb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1872,10 +1872,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z6IwuKawtxudbxqSZJVsDA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=43.1394&pitch=0&thumbfov=100",
     "kgmid": "/g/11b7j_w630",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1902,7 +1902,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJd__PrtgeU4gR8TQwqFkrFvM",
     "categories": [
       "Pharmacy"
     ],
@@ -2038,10 +2038,8 @@
     "kgmid": "/g/11cn94s4bf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2065,7 +2063,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJxqBmpcfU4gRd9JkvLW-6qI",
     "categories": [
       "Pharmacy"
     ],
@@ -2183,10 +2181,8 @@
     "kgmid": "/g/11g0mrvhts",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Greensboro Pharmacy",

@@ -168,7 +168,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "White Drug Pharmacy",
@@ -286,12 +287,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKeXrgjEuGSR5fR5Sps60EfacMEIb7paahjRwC=w408-h304-k-no",
     "kgmid": "/g/1tj4yc72",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Keycare Pharmacy",
@@ -407,12 +409,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LT2GONC1Ta5a94WrgfT_Rw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.013911&pitch=0&thumbfov=100",
     "kgmid": "/g/11jt6fxp_n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Minot Air Force Base Pharmacy",
@@ -434,7 +437,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl4nthzvf3lIRX2Sf-nkwezk",
     "categories": [
       "Pharmacy"
     ],
@@ -537,12 +540,10 @@
     "rank": 4,
     "isAdvertisement": false,
     "kgmid": "/g/11bwy_v2hh",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -566,7 +567,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_yo-trIr31IRVDs2T7q_O3M",
     "categories": [
       "Pharmacy"
     ],
@@ -684,10 +685,8 @@
     "kgmid": "/g/11c467rd_k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "G and G Pharmacy",
@@ -794,7 +793,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Thrifty White Pharmacy",
@@ -920,7 +920,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Market Pharmacy",
@@ -991,7 +992,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Medicine Shoppe",
@@ -1015,7 +1017,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJ8f9jzD8q31IR_olV556b4MI",
     "categories": [
       "Pharmacy"
     ],
@@ -1066,12 +1068,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=W_xzRoFtFR0r3ANQoyngOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.29358&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfssjtz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Trinity South Ridge Family Medicine",
@@ -1095,7 +1095,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVWV4Kwr31IRIWiJHkN4O6Y",
     "categories": [
       "Pharmacy"
     ],
@@ -1135,12 +1135,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9nMW3gnYCMqa8xB1857t7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=174.92134&pitch=0&thumbfov=100",
     "kgmid": "/g/11k46d9kh4",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Trinity Health Outpatient Pharmacy",
@@ -1163,7 +1161,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsyLtkl8r31IROVjYn8czr3Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1257,12 +1255,10 @@
     "rank": 3,
     "isAdvertisement": false,
     "kgmid": "/g/11kpr2zmrn",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Dakota Drug",
@@ -1314,7 +1310,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Aasen Drug",
@@ -1442,9 +1439,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Drayton Drug",
@@ -1556,7 +1554,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Altru Family Medicine Residency Pharmacy",
@@ -1679,12 +1678,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MEiYrlzWNLtKK-v1QcwuZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.72583&pitch=0&thumbfov=100",
     "kgmid": "/g/1hm57qlj7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Linson Pharmacy",
@@ -1816,7 +1816,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Dakota Pharmacy",
@@ -1949,7 +1950,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   },
   {
     "title": "Feldmann Ellen",
@@ -2050,6 +2052,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "minot_nd"
   }
 ]

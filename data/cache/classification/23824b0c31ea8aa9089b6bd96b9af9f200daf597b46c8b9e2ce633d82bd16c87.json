@@ -1,0 +1,6 @@
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.98,
+    "explanation": "The pharmacy is associated with the Nebraska VA (Veterans Affairs) healthcare system, which is a government medical facility. This affiliation classifies it as a hospital pharmacy rather than an independent or chain retail pharmacy. There is no indication of compounding services."
+}

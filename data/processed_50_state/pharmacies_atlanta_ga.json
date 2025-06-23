@@ -137,7 +137,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.7,
     "source": "perplexity",
     "method": "llm"
   },
@@ -254,7 +254,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.7,
     "source": "perplexity",
     "method": "llm"
   },
@@ -371,7 +371,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -490,7 +490,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -623,7 +623,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrUIihQsc9YgRXPHgC_yrYRQ",
     "categories": [
       "Pharmacy",
       "Pharmaceutical company"
@@ -721,12 +721,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npIA6fLJD6A9sflHzT2lhTtPUDHfLF215R4Uvq6nWKy9YpwyyS6N-4HBlJDPOa-pHIXyMQU0DD2YE6NChxu_CchN0753oPQOOde-KfhNMITAw7W7QhO_0YXKVIUPxtWlJ7yH_fz=w408-h306-k-no",
     "kgmid": "/g/1260xrbvp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Wender & Roberts Pharmacy",
@@ -1638,7 +1636,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1763,7 +1761,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },

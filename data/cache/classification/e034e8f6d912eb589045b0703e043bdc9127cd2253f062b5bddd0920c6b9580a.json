@@ -1,0 +1,6 @@
+{
+    "classification": "not_a_pharmacy",
+    "is_compounding": false,
+    "confidence": 0.95,
+    "explanation": "The name 'DOD Serum Repository' and address suggest a government (Department of Defense) facility focused on serum storage or research, not a retail or hospital pharmacy serving the public or patients. The 'Pharmacy' category may be a misclassification or refer to a specialized function not aligned with standard pharmacy operations."
+}

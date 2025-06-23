@@ -126,7 +126,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Highland Drugs",
@@ -229,7 +230,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Market Street Pharmacy",
@@ -332,9 +334,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Del Norte Pharmacy of Santa Fe",
@@ -429,7 +432,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Pharmaca Integrative Pharmacy",
@@ -490,12 +494,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8xAe7oAm2unkbDWp4HQVqw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=34.217052&pitch=0&thumbfov=100",
     "kgmid": "/g/11t_h4k6vc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Medly Pharmacy (Formerly Pharmaca Integrative Pharmacy)",
@@ -584,12 +589,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrZyNE-RqkLv9udMafGuquDSE2qIFJjWCnOunhwmQ87kGzJHljAA2HKE9wB6d7ExlYFW_Z4SRYRC6yv7AfutaXL9o_K9pAnPCocFPOnWccBYVVPQzLMbXx0A3Af2H8WAU_uUgRW0g=w408-h544-k-no",
     "kgmid": "/g/11f1081k19",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Pharmacy Services Unit",
@@ -659,12 +665,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ynnlpbe75FmtryzAGSwQBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.848135&pitch=0&thumbfov=100",
     "kgmid": "/g/1w3471q9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Southwest Care Center Pharmacy",
@@ -688,7 +695,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC_wCtI5QGIcRCqP948lgHOw",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -766,12 +773,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrlGPxUGdNBCdB5F_T4kPUTHh4JioiyGhTlysJ=w408-h354-k-no",
     "kgmid": "/g/1pzt8j1kz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CHRISTUS St. Vincent Pharmacy",
@@ -872,12 +877,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRnEVwMDEv3jC3R-0B9SHn7ZeT0dCfbL4gm8kn=w408-h271-k-no",
     "kgmid": "/g/1tw_nq94",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "Albertsons Market Pharmacy",
@@ -901,7 +907,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB3hsYr1QGIcRGjXiPQPbdGQ",
     "categories": [
       "Pharmacy"
     ],
@@ -979,10 +985,8 @@
     "kgmid": "/g/1ptybt2x0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1006,7 +1010,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJa1spoIVQGIcRGyFuz5YHA1w",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1138,10 +1142,8 @@
     "kgmid": "/g/1ptz5rjj9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Market Pharmacy",
@@ -1165,7 +1167,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-wLM3EtaGIcRrsYTZ0Yggug",
     "categories": [
       "Pharmacy"
     ],
@@ -1243,10 +1245,8 @@
     "kgmid": "/g/1tlc8jb8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -1270,7 +1270,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg6JO73xaGIcRQEdq6ko4qv0",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1400,10 +1400,8 @@
     "kgmid": "/g/1yfh_jtvd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1427,7 +1425,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw9vPPBRQGIcR11fKdJmFt6k",
     "categories": [
       "Pharmacy"
     ],
@@ -1536,10 +1534,8 @@
     "kgmid": "/g/11c475c2js",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1563,7 +1559,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPQSazmBaGIcRaekLyWm9RxY",
     "categories": [
       "Pharmacy"
     ],
@@ -1684,10 +1680,8 @@
     "kgmid": "/g/11c468bgj3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1712,7 +1706,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJi0R0_5ZQGIcRkRp-_0cDBpo",
     "categories": [
       "Pharmacy"
     ],
@@ -1842,10 +1836,8 @@
     "kgmid": "/g/11cn95zlcj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1871,7 +1863,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDTGolRVQGIcRIYIu-p1aD6c",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2054,10 +2046,8 @@
     "kgmid": "/g/1td7tn0v",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2082,7 +2072,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHZBWMblbGIcRyVSmuRusGak",
     "categories": [
       "Pharmacy"
     ],
@@ -2212,10 +2202,8 @@
     "kgmid": "/g/11cn976ndh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Blende Drug",
@@ -2347,7 +2335,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "santa_fe_nm"
   },
   {
     "title": "La Familia Health Pharmacy",
@@ -2371,7 +2360,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3R69RgBRGIcRlLPgyJQ0CtI",
     "categories": [
       "Pharmacy"
     ],
@@ -2564,11 +2553,9 @@
     "rank": 8,
     "isAdvertisement": false,
     "kgmid": "/g/11vybyyv_9",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

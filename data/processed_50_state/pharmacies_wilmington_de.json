@@ -131,7 +131,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "CONCORD PHARMACY",
@@ -269,7 +270,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Family Pharmacy",
@@ -385,7 +387,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Ivira Pharmacy",
@@ -504,9 +507,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Express Discount Pharmacy",
@@ -652,7 +656,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Ivira Pharmacy",
@@ -773,9 +778,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "ChristianaCare Retail Pharmacy at Wilmington Hospital",
@@ -799,7 +805,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJS8mWED79xokR-iAkSXmqkO0",
     "categories": [
       "Pharmacy"
     ],
@@ -882,12 +888,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP9B2xMuln_1xBJLIY1Z6-SR16m6G-uTv-0lKOy=w426-h240-k-no",
     "kgmid": "/g/1ptwz8ky4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "People's Pharmacy",
@@ -994,7 +998,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Unioncare Pharmacy",
@@ -1108,7 +1113,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Miller Road Pharmacy",
@@ -1237,7 +1243,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1262,7 +1269,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvVIwaj_9xokRTXw6rJS8RtI",
     "categories": [
       "Pharmacy"
     ],
@@ -1351,10 +1358,8 @@
     "kgmid": "/g/11fxc0r29k",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Darley Pharmacy",
@@ -1476,12 +1481,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noglPKP4xJhkHZE7TocqF_6YF8dGXDm3_kHyerNbYesmKrO6yjUIjbzZwcx9namdSyykvxD0iak80Y9MpfcMXCMpqgOvTkFp6pqzjsdA-fWDICy0_5p_5H2fS7yiRTrZ1hU45Z54A=w408-h725-k-no",
     "kgmid": "/g/1tj342md",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Synergy RX Express Pharmacy",
@@ -1602,9 +1608,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "Cape Fear Pharmacy & Compounding Center",
@@ -1746,7 +1753,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "First State Pharmacy",
@@ -1769,7 +1777,7 @@
     "totalScore": 5,
     "permanentlyClosed": true,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVeHSqajkxokRlvmv-_s6C1k",
     "categories": [
       "Pharmacy"
     ],
@@ -1801,12 +1809,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4not2wxMlBMz2mcMyx8xsZSp-i0_QR9JWJOJPPDEo0DVSariqQ4T8OrABN0NKUQf04epnS-rjOwhqaEvzIt-3eJmW6RrCC_S2FyXLzAcoHAklDEyP_OSEbUeGX44eM0bA-q7-5rT=w408-h306-k-no",
     "kgmid": "/g/1264gwdml",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1831,7 +1837,7 @@
     "totalScore": 1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ38_1LQ_9xokRqViYilfhXuA",
     "categories": [
       "Pharmacy"
     ],
@@ -1886,10 +1892,8 @@
     "kgmid": "/g/11lzd4tj_v",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1913,7 +1917,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcQIBKN37xokR-8-eol5codE",
     "categories": [
       "Pharmacy"
     ],
@@ -2026,10 +2030,8 @@
     "kgmid": "/g/11t53nn396",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -2053,7 +2055,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ__-PYNTixokRdQE8b8_eTqw",
     "categories": [
       "Pharmacy"
     ],
@@ -2157,10 +2159,8 @@
     "kgmid": "/g/1th0nw22",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "ayala pharma",
@@ -2223,7 +2223,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wilmington_de"
   },
   {
     "title": "CVS Pharmacy",
@@ -2247,7 +2248,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqxa3HhT9xokRQEhbx_ZnabU",
     "categories": [
       "Pharmacy"
     ],
@@ -2368,9 +2369,7 @@
     "kgmid": "/g/1hc1x1vgc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

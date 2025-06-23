@@ -1,0 +1,6 @@
+{
+    "classification": "not_a_pharmacy",
+    "is_compounding": false,
+    "confidence": 0.8,
+    "explanation": "Alto Pharmacy is primarily a digital pharmacy and mail-order service, not a traditional retail or hospital pharmacy. While it is a pharmacy business, it does not fit the standard definitions of independent, chain, or hospital pharmacy as outlined in your rules, and is best classified as 'not_a_pharmacy' for the purposes of retail or hospital-based classification. However, if your system is intended to include digital/mail-order pharmacies as a pharmacy type, this classification may need adjustment."
+}

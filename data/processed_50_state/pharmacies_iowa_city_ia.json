@@ -22,7 +22,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJe-YUI0Bq5IcRcoHCIYoD20s",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -149,12 +149,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvkubny3wvQ4iNfQMJtKjZvKWBprm7QtSya2Vv_wqQOnp1wSncCCpj5uPDUNIPANVDSbGIgYuAbUeKR0l_No24dyQjMzaV0pRIQq2R3sNA0Bll-iY-YKA40sSywdzJI0Xwoxw4=w408-h270-k-no",
     "kgmid": "/g/1tksnxwq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Towncrest Wellness Apothecary",
@@ -178,7 +176,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5zFuI0Bq5IcR00TIoAAIdF4",
     "categories": [
       "Pharmacy"
     ],
@@ -255,12 +253,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMAsfvtPZwQ2QNv4vwcuW21RtNmpbXoTHt9Vq1u=w408-h306-k-no",
     "kgmid": "/g/1tdmfff3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hartig Drug",
@@ -385,10 +381,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq324DBvCwxYnt6aRsM-bRPedijdkb3OxXNLtKUTVf6_My2NYjfcPjCN3bb8j0hpIMThQGnYzPSUAV95LcmaAosNUVqkhU0A-Lq1zRl72s50BMXiHwsZVKYlB7IINtM0rDTbE0=w408-h544-k-no",
     "kgmid": "/g/1tfwkxkn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -506,7 +502,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhbzUTUBq5IcRfF3mPH1gKs8",
     "categories": [
       "Pharmacy"
     ],
@@ -621,10 +617,8 @@
     "kgmid": "/g/11c4682ml2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -648,7 +642,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaagIpWpq5IcRHGRU3dPaFwc",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -764,10 +758,8 @@
     "kgmid": "/g/1pty9wtsd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -792,7 +784,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHVN5cc9B5IcRPpNV7dW-WyQ",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -878,10 +870,8 @@
     "kgmid": "/g/11fnyp6tl2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "University of Iowa College of Pharmacy",
@@ -1077,10 +1067,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq4ivYfl093NuuScF6VmqgHJ4wKmNHLDkcbZ0hAbGo8aqjhfLrFCh8VWMQ8LuTlkrrpNkp30m_kd1BViZwpnN2Qrx6Gk0oOkBVmoiKvOkkEJ9SZh-EdA1vWNEvZzv68MPTMhzP=w408-h306-k-no",
     "kgmid": "/g/11c5gcb82l",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1107,7 +1097,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_U4qwGpq5IcRqz3hkFCJvEM",
     "categories": [
       "Pharmacy"
     ],
@@ -1243,10 +1233,8 @@
     "kgmid": "/g/11cn96d21p",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1270,7 +1258,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIQqbXfxp5IcRDXECoCCsDEo",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1386,10 +1374,8 @@
     "kgmid": "/g/11c1ngnmrj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Spring City Pharmacy LLC",
@@ -1553,7 +1539,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIQOpT61r5IcRUz53bCaLFCE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1666,10 +1652,8 @@
     "kgmid": "/g/11r6zc1c9f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Dutch Mill Pharmacy",

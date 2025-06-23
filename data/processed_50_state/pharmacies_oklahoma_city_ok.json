@@ -129,7 +129,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.96,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -285,8 +285,8 @@
     "kgmid": "/g/11sbc0f44f",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -918,7 +918,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1031,7 +1031,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1267,7 +1267,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.8,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1648,7 +1648,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2246,7 +2246,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.96,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2651,7 +2651,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

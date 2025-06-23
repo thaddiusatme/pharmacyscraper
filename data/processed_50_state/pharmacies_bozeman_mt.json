@@ -168,7 +168,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Bozeman Health Highland Park Pharmacy",
@@ -192,7 +193,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx_io4_JERVMR48RWKP5hajE",
     "categories": [
       "Pharmacy"
     ],
@@ -272,12 +273,10 @@
     "rank": 2,
     "isAdvertisement": false,
     "kgmid": "/g/1tk1mnkd",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Billings Clinic Bozeman Community Pharmacy",
@@ -301,7 +300,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYcczQchHRVMR8MBE1kKqk4s",
     "categories": [
       "Pharmacy"
     ],
@@ -375,12 +374,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXJVioTS9FHgYiXYBD4UuOtOjZK_gJlP_Ei0AL=w408-h271-k-no",
     "kgmid": "/g/11sf2c7nxk",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Price Rite Drug and Medical Equipment",
@@ -506,7 +503,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Community Health Partners - Bozeman CHP Pharmacy",
@@ -530,7 +528,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ37cl-dNFRVMR9PQYpHhW3g0",
     "categories": [
       "Pharmacy"
     ],
@@ -613,12 +611,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOTESzMwrHWDifJvxoO8p3d0ClncVWn74w10FtT=w408-h272-k-no",
     "kgmid": "/g/11kb_q1wh9",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -642,7 +638,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg5trcTNERVMRNiIe87moRkU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -772,10 +768,8 @@
     "kgmid": "/g/11cjgczmms",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Western Drug of Bozeman",
@@ -897,9 +891,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "MSU-Student Health Service Pharmacy",
@@ -922,7 +917,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKYmu6gNFRVMRNxJL3VoUYbA",
     "categories": [
       "Pharmacy"
     ],
@@ -990,12 +985,10 @@
     "rank": 8,
     "isAdvertisement": false,
     "kgmid": "/g/11pwd299zv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1019,7 +1012,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_R-cp7FFRVMRTD1OJ2cZNzE",
     "categories": [
       "Pharmacy"
     ],
@@ -1143,10 +1136,8 @@
     "kgmid": "/g/11c468ny7r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -1170,7 +1161,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJP1kV8LFFRVMR3XZl2W1E6Co",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1276,10 +1267,8 @@
     "kgmid": "/g/1ptzf_djq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rosauers Pharmacy",
@@ -1389,9 +1378,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1415,7 +1405,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJE4i6T0xERVMRaQwWgXjFX5g",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1521,10 +1511,8 @@
     "kgmid": "/g/1tlzzvj5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1548,7 +1536,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXSCjazlERVMRRa_ai2gFHsY",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1664,10 +1652,8 @@
     "kgmid": "/g/1hf1nx4vd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Specialty Pharmacy",
@@ -1775,12 +1761,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrr0eYxZ9uImPjVwudnxm3S7fFFoP8UR61uJwnIwFUfd0Zj-PyHFKCNIn14C50PREcd1V13XHIr4133kPNQy8T86tek9JPOSHD-BwYrlC_zS1PDYR_NtQutsGGpz-2Kq20jxpuKWg=w408-h544-k-no",
     "kgmid": "/g/11g4bf0bxc",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Option Care Health",
@@ -1804,7 +1791,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7UGVFyNERVMRCCLfpzmJ6VQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1876,12 +1863,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQpBSyCdO97vtx0VzEDGOVX3NbmTb4s4EyPm9oJ54ECYn4DxfkrZHJRnQpqaQjLEtKvj16BmRMyrVZeh-lLtZAJ18rf5Vtm6CFr09Mg5HAgMp3TbMCwB9gZqilGeP-Ml59KiY=w408-h544-k-no",
     "kgmid": "/g/11f1vnw6mj",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1907,7 +1892,7 @@
     "totalScore": 1.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh42ydLJFRVMRR2AEKvL55RY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2123,10 +2108,8 @@
     "kgmid": "/g/1thhk539",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Missoula Pharmacy, INC.",
@@ -2263,7 +2246,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Bozeman Health Big Sky Medical Center Pharmacy",
@@ -2287,7 +2271,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYX-Z-SAQUFMR3TSxzG2yS6A",
     "categories": [
       "Pharmacy"
     ],
@@ -2365,12 +2349,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5AconE1E30C_Ke_l2fM4wA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=90.161545&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdgphgy",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2510,7 +2492,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   },
   {
     "title": "Western Drug",
@@ -2627,6 +2610,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bozeman_mt"
   }
 ]

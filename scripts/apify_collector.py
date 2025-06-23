@@ -45,6 +45,7 @@ class ApifyCollector:
         output_dir: str = "output",
         cache_dir: str = ".api_cache/apify",
         rate_limit_ms: int = 1000,
+        use_cache: bool = True,
         **kwargs,
     ) -> None:
         # Accept deprecated/alternate ``api_token`` via kwargs while keeping the
@@ -66,6 +67,7 @@ class ApifyCollector:
         self.api_token: str = token  # Keep for forward-compatibility
         self.api_key: str = token    # Legacy tests access this attribute
         self.rate_limit_ms: int = rate_limit_ms  # public – tests access this
+        self.use_cache: bool = use_cache
 
         # Output and cache directory handling
         self.output_dir: str = output_dir
@@ -88,12 +90,17 @@ class ApifyCollector:
     def _get_client(self):
         """Return – and memoise – an ``ApifyClient`` instance."""
         if self._client is None:
-            # Prefer the module-level *ApifyClient* alias – this makes it easier
-            # for the test-suite to monkey-patch ``scripts.apify_collector.ApifyClient``.
-            client_cls = globals().get("ApifyClient", None)
-            if client_cls is None:
-                client_cls = apify_client.ApifyClient  # pragma: no cover – fallback
-            self._client = client_cls(self.api_token)
+            try:
+                from apify_client import ApifyClient
+
+                # Use the token stored during initialization to ensure the correct
+                # key is used, rather than re-reading from the environment.
+                self._client = ApifyClient(self.api_token)
+            except ImportError as exc:  # pragma: no cover
+                raise RuntimeError(
+                    "Apify client not installed. Please run "
+                    "'pip install apify-client'"
+                ) from exc
         return self._client
 
     def _create_output_dir(self) -> None:
@@ -285,7 +292,7 @@ class ApifyCollector:
     def _execute_actor(self, search_query: str, max_results: int = 10) -> List[Dict]:
         # Check cache first
         cache_path = self._get_cache_path(search_query)
-        if os.path.exists(cache_path):
+        if self.use_cache and os.path.exists(cache_path):
             self.logger.info(f"CACHE HIT: Loading results for '{search_query}' from {cache_path}")
             with open(cache_path, "r", encoding="utf-8") as fh:
                 return json.load(fh)
@@ -372,29 +379,36 @@ class ApifyCollector:
             self.logger.error(f"Error executing Apify actor: {e}")
             raise Exception("Actor not found")
 
-        # Process and return results, writing to cache before returning.
-        final_items: List[Dict] = []
-
         # The Apify client SDK has two methods for retrieving dataset items.
         # We try the modern `.list_items()` first, then fallback to the legacy
-        # `.iterate_items()` if needed.
+        # `.iterate_items()`.
         raw_items = []
+        dataset_client = client.dataset(dataset_id)
         try:
             # list_items() returns a an object with an .items property
-            raw_items = dataset.list_items().items
+            self.logger.info(f"Attempting to fetch results with list_items() for dataset {dataset_id}")
+            raw_items = dataset_client.list_items().items
         except Exception:
-            self.logger.warning("Failed to get items with list_items(), falling back to iterate_items().")
+            self.logger.warning(f"Failed to get items with list_items() for dataset {dataset_id}, falling back to iterate_items().")
             try:
-                raw_items = list(dataset.iterate_items())
+                raw_items = list(dataset_client.iterate_items())
             except Exception as e:
-                self.logger.error(f"Could not retrieve dataset items: {e}")
+                self.logger.error(f"Could not retrieve dataset items from {dataset_id} with any method: {e}")
                 return [] # Return empty list if both methods fail
 
         # Filter and process the raw results
+        final_items: List[Dict] = []
         if raw_items:
             filtered_items = self.filter_pharmacy_businesses(raw_items)
             final_items = self.filter_chain_pharmacies(filtered_items)
 
+        # Save to cache if enabled
+        if self.use_cache:
+            self.logger.info(f"CACHE WRITE: Saving {len(final_items)} results for '{search_query}' to {cache_path}")
+            self._save_results(final_items, cache_path)
+
+        return final_items
+        
         # Write the final, processed results to cache
         with open(cache_path, "w", encoding="utf-8") as fh:
             json.dump(final_items, fh, ensure_ascii=False, indent=2)

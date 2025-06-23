@@ -159,7 +159,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Lloyd's Pharmacy",
@@ -279,7 +280,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "West Seventh Pharmacy",
@@ -303,7 +305,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX7p6d_sq9ocRHFEXEkhLbvE",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -409,12 +411,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqLJDaUYk7TqCgs3WxmDFerEBWOH5hxv-S25yB_FYkJhHHGwWr81-zWlbW-mC4qhsYPMeOR3fSu24skc8W50_mVByFQY1rXONviSOFbze3WPG6zZIevsyrbX4pdpAbuWyZrWshFMg=w408-h306-k-no",
     "kgmid": "/g/1tgyx85_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Etel Pharmacy",
@@ -562,7 +562,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Fairview Pharmacy - Highland Park",
@@ -686,12 +687,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9QiTruX5fwGLbbXAE-5v3b9DAdM05D7Yu8VlLGdiTHb42EHoCI3sGznlkrSbsWVrQJFswIczDopHB7YGXCm6PCG6-02v18h5Fdmb_Cvpey_asvoGg89nK31Xy9IEZd-GR9jNc=w408-h306-k-no",
     "kgmid": "/g/1tfqgc60",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Wellness Pharmacy",
@@ -787,9 +789,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Express Pharmacy",
@@ -856,7 +859,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Como Pharmacy",
@@ -965,7 +969,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -990,7 +995,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvYN7GTAq9ocRfkVUyNl8ZoE",
     "categories": [
       "Pharmacy"
     ],
@@ -1126,10 +1131,8 @@
     "kgmid": "/g/11cn93y9xc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Setzer Pharmacy & Gift Center",
@@ -1260,7 +1263,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Phalen Family Pharmacy Ltd",
@@ -1388,7 +1392,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "BRIGHTLY PHARMACY CARE",
@@ -1496,7 +1501,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Cub Pharmacy",
@@ -1607,7 +1613,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Allina Health United Pharmacy",
@@ -1631,7 +1638,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8S0k1rAq9ocRnetcWHJWmZc",
     "categories": [
       "Pharmacy"
     ],
@@ -1705,12 +1712,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrEQ8-3bsVce_vE62FQpfnIOHgfSPFNrgJmKoU=w426-h240-k-no",
     "kgmid": "/g/1tftrnd8",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "United Community Pharmacy",
@@ -1827,7 +1832,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Seward Pharmacy",
@@ -1969,7 +1975,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   },
   {
     "title": "Medicine Chest Pharmacy",
@@ -1993,7 +2000,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIYBCnunQslIRIgAMwtdyzqY",
     "categories": [
       "Pharmacy"
     ],
@@ -2106,12 +2113,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMo64n-kCQ7jXunqwbwwsHGxSmoJdcHWZVvcl-O=w408-h272-k-no",
     "kgmid": "/g/1vxdxy6z",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2135,7 +2140,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3cEHGGcq9ocR4rhbUBkEOVQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2250,10 +2255,8 @@
     "kgmid": "/g/1v26mnyp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Independent Pharmacy Co-Op",
@@ -2304,8 +2307,9 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "saint_paul_mn"
   }
 ]

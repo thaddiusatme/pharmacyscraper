@@ -127,12 +127,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no63NpQZLfy4ArM5HQDrfGMyHPsqGUtvtJ14Vy04MKyBTdOkyxf5_9wZn4qCtsqE0xhvrS6li-MyaaZb3zwfuKBllfDr0v3_h-HXIIa_LG3wG8Aw0upwF1WtI5TPFPpdHqM91bf=w426-h240-k-no",
     "kgmid": "/g/1wz537dq",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Cornerstone Pharmacy and Compounding",
@@ -262,12 +262,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP5svPseg9b-tsUhUDhnXM9vnQZ76rq044meITl=w408-h544-k-no",
     "kgmid": "/g/113fgbjx9",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "River Valley Specialty Pharmacy",
@@ -291,7 +291,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ11ecrmah0ocRWHDFr1BjZUI",
     "categories": [
       "Pharmacy"
     ],
@@ -379,12 +379,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMyI9qQaBrsTk11oFJU1nuSe2bON8YnpokDmHmU=w408-h408-k-no",
     "kgmid": "/g/11krb3085f",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Heartland Pharmacy",
@@ -511,12 +509,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwm_sNpIoALYcCB92zw_p9DzhiW8NuNRFvL7t-=w426-h240-k-no",
     "kgmid": "/g/11c57snx03",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Remedy Drug",
@@ -652,12 +650,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xoao4MXzCmY2mj5P4F7cLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.85887&pitch=0&thumbfov=100",
     "kgmid": "/g/1233b5xzg",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Arch Street Pharmacy & Compounding Center",
@@ -778,12 +776,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wqRe0I1L9elxzi9TEcXxGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.1716&pitch=0&thumbfov=100",
     "kgmid": "/g/1yh8029h0",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "The Pharmacy at Wellington",
@@ -940,12 +938,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNl4wqbBbw-MbJySJhkDgIUkmy3rzh-U8uRwTfK=w408-h298-k-no",
     "kgmid": "/g/11bw64qmm5",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Cornerstone Pharmacy at Chenal",
@@ -1097,7 +1095,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJay_9Mmyj0ocR2252EEW3p8A",
     "categories": [
       "Pharmacy"
     ],
@@ -1234,12 +1232,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNkq73Lyn5RmQJgr0zqtvFePdGUrzqaDKG2JV_k=w408-h272-k-no",
     "kgmid": "/g/1tgwn6yc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tanglewood Drug Store",
@@ -1506,7 +1502,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2296,7 +2292,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJv_ZQOMqm0ocR9fsOyb-2Ty8",
     "categories": [
       "Pharmacy"
     ],
@@ -2423,12 +2419,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdT5dtLJ_xvaaKBkqVsCMOts5_KBAM8ZLGLwys=w408-h306-k-no",
     "kgmid": "/g/1thffzty",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Express Rx",
@@ -2489,7 +2483,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },

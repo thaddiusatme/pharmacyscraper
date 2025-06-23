@@ -251,7 +251,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -834,7 +834,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.98,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1277,7 +1277,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7T4Id7OxU4gRvWLCPhKzGzw",
     "categories": [
       "Pharmacy",
       "Health and beauty shop"
@@ -1352,12 +1352,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i6GUsv9WAqSlfzkjFIUlyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=98.51288&pitch=0&thumbfov=100",
     "kgmid": "/g/11r4ly0_bs",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "McNeill's Pharmacy",
@@ -1420,7 +1418,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1446,7 +1444,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2YqOS4uuU4gRpjJtKEguerI",
     "categories": [
       "Pharmacy"
     ],
@@ -1558,10 +1556,8 @@
     "kgmid": "/g/11c468k2ck",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "MLK Pharmacy",
@@ -1701,7 +1697,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ43nbzCeuU4gRDW6uzo_fXz8",
     "categories": [
       "Pharmacy"
     ],
@@ -1778,12 +1774,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no57EtJp52ELGKDIOS8y2fhWPLGDhHDXbRW1JhZh5bVrde0PZeENS6EdXi2pYAF-T7nz2d0swWmNw33hT-dzUR1YEBgwDxondGhr-NJpP8hLm8T7G5k9B6uJo5IrSxIie1rdz-D=w408-h306-k-no",
     "kgmid": "/g/11b6vqtt6h",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy",
@@ -1865,7 +1859,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2476,7 +2470,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ37yqpt6wU4gRXKQqfgvQf4s",
     "categories": [
       "Pharmacy"
     ],
@@ -2601,9 +2595,7 @@
     "kgmid": "/g/11c467j077",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

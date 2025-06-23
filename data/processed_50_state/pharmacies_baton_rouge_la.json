@@ -67,7 +67,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -178,10 +178,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhZr72SDlIYaXSjr-liZdMEBQEAp8XgtqZtIQf=w408-h258-k-no",
     "kgmid": "/g/11b6gdjy_1",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -621,7 +621,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -989,7 +989,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1862,7 +1862,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWabqH6-mJoYR4peJnW6Cr3Q",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1971,10 +1971,8 @@
     "kgmid": "/g/11cjkvmxnr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Apothecare Pharmacy",
@@ -2115,7 +2113,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq8PEUJGlJoYR0sLFdH8hoW8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2224,10 +2222,8 @@
     "kgmid": "/g/1tgxtxqd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "O'Donovan Pharmacy",
@@ -2251,7 +2247,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtwn2lqSlJoYR4xO6W8BP0fU",
     "categories": [
       "Pharmacy"
     ],
@@ -2337,11 +2333,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqstouNWTSL_24O5mRFKP3rIeuGtaCorv8FIjdzw75SB0niyvQmztpiygpTLcklShj7TbBBQl9O9TxrZI-uMSskw3Eoy7tW3nRK2nFrUf_b08V1OgH5rViTe_-FsgWy3bj0qsa7=w408-h725-k-no",
     "kgmid": "/g/11ghnpw92x",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

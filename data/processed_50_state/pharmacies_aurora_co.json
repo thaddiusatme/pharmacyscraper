@@ -125,8 +125,8 @@
     "kgmid": "/g/11s47ymmtj",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -260,8 +260,8 @@
     "kgmid": "/g/11hnd9cvfs",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -391,8 +391,8 @@
     "kgmid": "/g/11k5047k6l",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.85,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -494,8 +494,8 @@
     "kgmid": "/g/11bbrqvn0w",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -588,7 +588,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -613,7 +613,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": true,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4QvcLEJ9bIcRGHzc0DtqVK8",
     "categories": [
       "Pharmacy"
     ],
@@ -664,12 +664,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no7VrkcxSgHw0HNcM5VJ2Uh8sZeapb5BSFep7zeLnpMU_EaGXvpi0-7kObT8Q14QmtqoVcrSEwChyUXO05hvr-6eCOOOewU0KKufj8fYhMEzf6waBuUj-noshLGuY30Mz0ktG-T=w408-h306-k-no",
     "kgmid": "/g/1hc2mpf2r",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -968,8 +966,8 @@
     "kgmid": "/g/11w9z31106",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.9,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1066,7 +1064,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source": "perplexity",
     "method": "llm"
   }

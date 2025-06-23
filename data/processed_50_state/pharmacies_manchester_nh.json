@@ -185,9 +185,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   },
   {
     "title": "Rite Aid",
@@ -212,7 +213,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWyQTsytP4okRgyKzPhCmHSc",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -388,10 +389,8 @@
     "kgmid": "/g/1v8x35tk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -414,7 +413,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgdxsJ3tP4okR-qE2XS1ThSc",
     "categories": [
       "Pharmacy"
     ],
@@ -548,10 +547,8 @@
     "kgmid": "/g/11sw0x6cg_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "pill pack",
@@ -631,7 +628,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   },
   {
     "title": "Rite Aid",
@@ -656,7 +654,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZbyJEDpP4okRyVXx0N4_Q2s",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -802,10 +800,8 @@
     "kgmid": "/g/1tlnffyy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -829,7 +825,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaRpKXzNJ4okRy5Be1L_04Ww",
     "categories": [
       "Pharmacy"
     ],
@@ -950,10 +946,8 @@
     "kgmid": "/g/11c462qc60",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Elliot Pharmacy at River's Edge",
@@ -1104,12 +1098,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrjPnDqWdFF4hEN-8tsOAjyJ6rCUTpZvcOXeDrM4HkzynPnV5HaF7xglp7l_MqCg_5qHiOw85DBgMQ6Rkrm0uqWTdx-xqZjuH3CjX1JOI-CWwzdCVTcesxr7dU4qagg-kcFPmKOyg=w408-h1027-k-no",
     "kgmid": "/g/1q67fky65",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   },
   {
     "title": "CVS Pharmacy",
@@ -1133,7 +1128,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJdYNbRBxP4okRF3tlhhL7oIw",
     "categories": [
       "Pharmacy"
     ],
@@ -1248,10 +1243,8 @@
     "kgmid": "/g/11jgcp00ck",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1275,7 +1268,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6T5DJwBP4okRtTi8Ck_5cug",
     "categories": [
       "Pharmacy"
     ],
@@ -1387,10 +1380,8 @@
     "kgmid": "/g/11c460f9n5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1414,7 +1405,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJr1D66K5P4okRddBhbfIHSdg",
     "categories": [
       "Pharmacy"
     ],
@@ -1485,10 +1476,8 @@
     "kgmid": "/g/11fd67hb1r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1513,7 +1502,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh2Ni4ONO4okRl9tCg2-UliE",
     "categories": [
       "Pharmacy"
     ],
@@ -1646,10 +1635,8 @@
     "kgmid": "/g/11cn94gkgq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1674,7 +1661,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN2bYIApP4okR_ba9gflNvKA",
     "categories": [
       "Pharmacy"
     ],
@@ -1801,10 +1788,8 @@
     "kgmid": "/g/11qs0xq8t9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1828,7 +1813,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJofMxQzpP4okRjmgoR5ZwLt0",
     "categories": [
       "Pharmacy"
     ],
@@ -1899,10 +1884,8 @@
     "kgmid": "/g/11b7ztnz13",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -1926,7 +1909,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH1t_dWFP4okRev5JxGcxyg0",
     "categories": [
       "Pharmacy"
     ],
@@ -2022,10 +2005,8 @@
     "kgmid": "/g/1jkxg28wt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -2049,7 +2030,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpZJD66lP4okRBZdW-1iuFI0",
     "categories": [
       "Pharmacy"
     ],
@@ -2145,10 +2126,8 @@
     "kgmid": "/g/11b65j6px6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -2172,7 +2151,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrzldJ5BO4okRl8tUy8ILvlY",
     "categories": [
       "Pharmacy"
     ],
@@ -2268,10 +2247,8 @@
     "kgmid": "/g/11b6cmkrc6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "ApothiCare 360 Compounding Pharmacy",
@@ -2408,7 +2385,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2548,7 +2526,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   },
   {
     "title": "Oakhurst Pharmacy",
@@ -2572,7 +2551,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLbDNzGIhVIgRi8PKwaxYziA",
     "categories": [
       "Pharmacy"
     ],
@@ -2688,12 +2667,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMW5JBXcWKr-qIXb6On-gxzvWwYhrWphEyo5Nk8=w408-h306-k-no",
     "kgmid": "/g/11fqzyhw_g",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Skenderian Apothecary",
@@ -2821,6 +2798,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "manchester_nh"
   }
 ]

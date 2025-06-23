@@ -134,7 +134,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "406 Clinic Pharmacy",
@@ -158,7 +159,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbdtxvXfOXVMRYmgrGOQO2ss",
     "categories": [
       "Pharmacy"
     ],
@@ -249,12 +250,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noayzVf6QBR2Pt54x7uCV2pOKaLdR4UDmiwnsYS7_MK5KNepFTSPaGva3cKkt1LdwoU55p3GZzpS6G9t1MhbAy00QC0JlNFLpQx_YaqB5Z3o7EgHn5bCuLi4J3Ke_pTodz4BCvJ_g=w408-h544-k-no",
     "kgmid": "/g/11hbj8h1r2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Montana RX Compounders",
@@ -361,7 +360,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Palmer's Drug",
@@ -493,7 +493,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Pinnacle Compounding",
@@ -594,9 +595,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Osco Pharmacy",
@@ -619,7 +621,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCQXc3oTNXVMRnpYhgAV1gaQ",
     "categories": [
       "Pharmacy"
     ],
@@ -661,10 +663,8 @@
     "kgmid": "/g/11fkmzwbpv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Health Service Pharmacy",
@@ -688,7 +688,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiS6c-TLMXVMRPT2u2hdDWbQ",
     "categories": [
       "Pharmacy"
     ],
@@ -757,12 +757,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NY1GqIqEvWdzmganOduUnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=13.333996&pitch=0&thumbfov=100",
     "kgmid": "/g/11ph1hbcyc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Broadway Pharmacy",
@@ -860,12 +858,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZrOGTZZVpMzCZ4hkzQewNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.85962&pitch=0&thumbfov=100",
     "kgmid": "/g/1tfvgwsj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Yoke's Fresh Market Reserve Pharmacy",
@@ -966,9 +965,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Osco Pharmacy",
@@ -991,7 +991,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ6t1xy_MXVMRC5yspX2mb-I",
     "categories": [
       "Pharmacy"
     ],
@@ -1078,10 +1078,8 @@
     "kgmid": "/g/11k5lsl57c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Granite Pharmacy",
@@ -1217,7 +1215,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Eastgate Drug",
@@ -1324,7 +1323,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Credena Health Pharmacy at Providence Saint Patrick Hospital",
@@ -1348,7 +1348,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV_qaRALPXVMR-iCBAs5cUoY",
     "categories": [
       "Pharmacy"
     ],
@@ -1437,12 +1437,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZUHbj5G82fJJcJhJRhK1lYwJFNZtYha9Pvovv=w408-h408-k-no",
     "kgmid": "/g/11h5dgs7sq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rosauers Pharmacy",
@@ -1551,9 +1549,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "CVS Pharmacy",
@@ -1577,7 +1576,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMZaJx8HNXVMR6OjPUIQPDdk",
     "categories": [
       "Pharmacy"
     ],
@@ -1701,10 +1700,8 @@
     "kgmid": "/g/11c461chh3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1728,7 +1725,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3Y30e0HOXVMRIwBPbctTCAg",
     "categories": [
       "Pharmacy"
     ],
@@ -1839,10 +1836,8 @@
     "kgmid": "/g/1tf_h24h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Prescription Assist",
@@ -1939,7 +1934,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Yoke's Fresh Market Pharmacy on Broadway",
@@ -2051,12 +2047,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppRwZQdhDmhUGJ8gnfinRqHSVoDaR7gUylMLxwI3K4MuJ9Skpfncs9yEMXOkwFi7trUePshUcW6obLBOJze7xnjYU6LrdKMBIfuAeflD1xadsh0LzRSDXv2n3VJrB2oziwFm0=w426-h240-k-no",
     "kgmid": "/g/11b7vxssmj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "missoula_mt"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -2080,7 +2077,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmU2hxEHOXVMRjm8EfZr5pWU",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2186,10 +2183,8 @@
     "kgmid": "/g/1tgc95hr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Northwest CHC Pharmacy on Hwy 2",
@@ -2213,7 +2208,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSX_okBepZlMRE4k_rMNwJ4I",
     "categories": [
       "Pharmacy"
     ],
@@ -2314,11 +2309,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmdq9MxNQCamSiu0HFwvjyT8Kv4kha5NKes_migTd2H7RovCgjxcyPEh8dbBm1GZzGE1pB8nHR7Xw6PbW8qvjdWkJdqZAaJTqObUjAhVn-gFNsrBi8zAfExTUHAsac9lXCzXAt4A=w739-h240-k-no",
     "kgmid": "/g/1jkxm4ppw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

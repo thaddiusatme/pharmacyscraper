@@ -21,7 +21,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj_aoX3mgx4kRaFR7hBZ98q8",
     "categories": [
       "Pharmacy",
       "Health consultant",
@@ -129,12 +129,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noA6Mp9yXSllHwlW1rVTBcOCqS4gUYfFxHVDKD5lDEq8bnAS4Vcr2m7jae2IEYzUmJ5J1zNJKx-jvUGD_PkSWxWTFM39N0-0dWtmMIHLcPT5C6KUZqOo6RziI6FMtzbM4_uvfA=w426-h240-k-no",
     "kgmid": "/g/12m96yj97",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -159,7 +157,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHcQBfmugx4kRCf4uzS8-FKk",
     "categories": [
       "Pharmacy"
     ],
@@ -289,10 +287,8 @@
     "kgmid": "/g/11cn96r_fh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Giant Pharmacy",
@@ -316,7 +312,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR5zYFPMKx4kRrkGQA9Kc7i4",
     "categories": [
       "Pharmacy"
     ],
@@ -403,10 +399,8 @@
     "kgmid": "/g/11b674q8xw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -430,7 +424,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgxXl_fAKx4kRiN8vOVJjuu0",
     "categories": [
       "Pharmacy"
     ],
@@ -548,10 +542,8 @@
     "kgmid": "/g/11c463ly2q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -575,7 +567,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0T5SUcmhx4kRblAurZS1I2A",
     "categories": [
       "Pharmacy"
     ],
@@ -673,10 +665,8 @@
     "kgmid": "/g/11lv7y3tlc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -701,7 +691,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK1Ze2N4Lx4kRVauslghfE3U",
     "categories": [
       "Pharmacy"
     ],
@@ -834,10 +824,8 @@
     "kgmid": "/g/11cn96r_fp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ACME Markets Pharmacy",
@@ -968,9 +956,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -995,7 +984,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJEWgTgJoKx4kRn32CDU19OaY",
     "categories": [
       "Pharmacy"
     ],
@@ -1122,10 +1111,8 @@
     "kgmid": "/g/11cn951vh7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1151,7 +1138,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlRHCm_EKx4kRHUVXfXOSy74",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1368,10 +1355,8 @@
     "kgmid": "/g/11b7hkcnqr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1395,7 +1380,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfyK85T-gx4kREmj6FX0HOHo",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1505,10 +1490,8 @@
     "kgmid": "/g/1tngr7th",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1531,7 +1514,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ03vKicKhx4kR0yQjvyhviuo",
     "categories": [
       "Pharmacy"
     ],
@@ -1662,10 +1645,8 @@
     "kgmid": "/g/11svtsrf1y",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Prices Corner Pharmacy",
@@ -1799,7 +1780,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Rite Aid",
@@ -1824,7 +1806,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ99ElHXKgx4kRARcdjDdn-vU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1997,10 +1979,8 @@
     "kgmid": "/g/1tn06rxx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Darley Pharmacy",
@@ -2127,7 +2107,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Middletown Pharmacy",
@@ -2255,7 +2236,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Middletown Pharmacy & Wellness",
@@ -2380,7 +2362,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Forest Pharmacy",
@@ -2404,7 +2387,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK-Bklhx9x4kRQyIgwJR7VMg",
     "categories": [
       "Pharmacy"
     ],
@@ -2509,12 +2492,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIXbzFD5m2VeddHwGFCR4sr48KFe2SVKxB9_fL=w408-h307-k-no",
     "kgmid": "/g/11rjbwvs92",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Matt's Local Pharmacy",
@@ -2643,7 +2624,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   },
   {
     "title": "Rocky Hill Community Pharmacy",
@@ -2763,8 +2745,9 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "middletown_de"
   }
 ]

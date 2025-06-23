@@ -126,7 +126,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Sav-on Pharmacy",
@@ -201,7 +202,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Super Health Pharmacy Crofton",
@@ -224,7 +226,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWbtzgS8Hx4kRbAMXVOuYpqg",
     "categories": [
       "Pharmacy"
     ],
@@ -323,12 +325,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQDxiGa4eA9sAPbxYlAczCo5EGS6tyGsW0zELr=w426-h240-k-no",
     "kgmid": "/g/11nck_pbl_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Willey Pharmacy",
@@ -421,9 +421,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Ivira Pharmacy",
@@ -529,9 +530,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -556,7 +558,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJy6ekAkQHx4kRFS-yiw_KaV8",
     "categories": [
       "Pharmacy"
     ],
@@ -689,10 +691,8 @@
     "kgmid": "/g/11l2f55l_b",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -716,7 +716,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJA3iap6AHx4kRr1Rs187I7po",
     "categories": [
       "Pharmacy"
     ],
@@ -834,10 +834,8 @@
     "kgmid": "/g/11c462ttvq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -862,7 +860,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcbAwKpkHx4kR3T7sXMlaAA8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1002,10 +1000,8 @@
     "kgmid": "/g/1tnjkjlg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1031,7 +1027,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6zmWZOMGx4kRRCXFm38YH7M",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1248,10 +1244,8 @@
     "kgmid": "/g/1tf58vwt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1276,7 +1270,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJL4EduooHx4kRE-grJ7at3y0",
     "categories": [
       "Pharmacy"
     ],
@@ -1403,10 +1397,8 @@
     "kgmid": "/g/11cn95xy9f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Giant Pharmacy",
@@ -1430,7 +1422,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJEVGREuUGx4kR8NehKB4f3YY",
     "categories": [
       "Pharmacy"
     ],
@@ -1525,10 +1517,8 @@
     "kgmid": "/g/1tk68n1w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1552,7 +1542,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJG-4mxsQHx4kRcyzvcmTX9Ss",
     "categories": [
       "Pharmacy"
     ],
@@ -1683,10 +1673,8 @@
     "kgmid": "/g/11v15hl0nv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ACME Markets Pharmacy",
@@ -1819,7 +1807,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Rite Aid",
@@ -1843,7 +1832,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": true,
-    "placeId": null,
+    "placeId": "ChIJL7P4lOgAx4kRqhd0q3RJjrY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1914,10 +1903,8 @@
     "kgmid": "/g/1tdv_vkr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1941,7 +1928,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJY1d5b6gHx4kRu9Y1AVcpySA",
     "categories": [
       "Pharmacy"
     ],
@@ -2075,10 +2062,8 @@
     "kgmid": "/g/11v1b5kw1p",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2104,7 +2089,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ04N6oqAHx4kRSOUrSEpn0ks",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2318,10 +2303,8 @@
     "kgmid": "/g/1pty7lljq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sixth Avenue Medical Pharmacy",
@@ -2449,9 +2432,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   },
   {
     "title": "Safeway Pharmacy",
@@ -2475,7 +2459,7 @@
     "totalScore": 2.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2-5hVomHYlMRyaNIUpTIn7A",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2581,10 +2565,8 @@
     "kgmid": "/g/1ptx779db",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Owl Pharmacy",
@@ -2711,8 +2693,9 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bear_de"
   }
 ]

@@ -1,0 +1,74 @@
+[
+    {
+        "placeId": "ChIJC8-By0GUNFMR9Fee-BCXPLg",
+        "classification": "hospital",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJHeBjk5-VNFMR1CrXY-piAGA",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJr7byMyqUNFMRaQ3mb9o5XHc",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.95,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJ0aMW59GVNFMR3rpcENPHBNk",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.98,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJl78kQK2VNFMRkT7DBIEbDOg",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJVcUMcc6VNFMRdPHuKI7eJIQ",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.98,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJQcYoEdOVNFMRIUBJYie_zdQ",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJC5Z-OUCUNFMRe3s4tkSpWTU",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.85,
+        "source": "perplexity",
+        "method": "llm"
+    }
+]

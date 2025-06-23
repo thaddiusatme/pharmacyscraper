@@ -667,7 +667,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx8QnbNaZ7ocRz1tJnUsCC_Q",
     "categories": [
       "Pharmacy"
     ],
@@ -736,12 +736,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWLSJFid6kOdl9MJ3TTlgmQ4SVoYY8Vywt27Ct=w408-h272-k-no",
     "kgmid": "/g/11h_7b7dv5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UnityPoint Health - Iowa Methodist Medical Center Outpatient Pharmacy",
@@ -765,7 +763,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJS_fudVmZ7ocR83sfdHa_xFo",
     "categories": [
       "Pharmacy"
     ],
@@ -834,12 +832,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPueuEtjUQLnwR_5RCfV1NqZw15gpdk0DKs3WA=w408-h408-k-no",
     "kgmid": "/g/11jftq2tv5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -864,7 +860,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjdrDuh-Z7ocRNNDVXUeoVdM",
     "categories": [
       "Pharmacy"
     ],
@@ -948,10 +944,8 @@
     "kgmid": "/g/11f08r5gdh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Methodist Outpatient Pharmacy",
@@ -975,7 +969,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrbVWBLKZ7ocRAKU5NZp-Oek",
     "categories": [
       "Pharmacy"
     ],
@@ -1049,12 +1043,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=839CaZD3YeKkOO0QXegDjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.57234&pitch=0&thumbfov=100",
     "kgmid": "/g/11rzcpjwnt",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1079,7 +1071,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_zZ-37KQ7ocRhFFWz7episI",
     "categories": [
       "Pharmacy"
     ],
@@ -1204,10 +1196,8 @@
     "kgmid": "/g/11b77gv5gm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1232,7 +1222,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6RZ1n8CZ7ocRG_Lrz_a87cc",
     "categories": [
       "Pharmacy"
     ],
@@ -1365,10 +1355,8 @@
     "kgmid": "/g/11b77b7swd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "PharmServ Staffing",
@@ -1466,7 +1454,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDdYXBACZ7ocR95RRR7kzKT8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1579,10 +1567,8 @@
     "kgmid": "/g/11g6q_g8w0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1607,7 +1593,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJoeRuOFyf7ocRfyUpUBVCTrU",
     "categories": [
       "Pharmacy"
     ],
@@ -1737,10 +1723,8 @@
     "kgmid": "/g/11y6774qgv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Broadlawns Pharmacy",
@@ -1841,10 +1825,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsS-nXpodys1-mMUofAVyMdxFquD08ObgxGgtP=w409-h240-k-no",
     "kgmid": "/g/11fktzjgmm",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1964,7 +1948,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1991,7 +1975,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ58CCoRmc7ocRcjk7ttyRCxU",
     "categories": [
       "Pharmacy"
     ],
@@ -2118,10 +2102,8 @@
     "kgmid": "/g/11cn93hgxg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -2145,7 +2127,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJc9QjOfSf7ocRGuEpgEN09PI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2253,10 +2235,8 @@
     "kgmid": "/g/11h_s1xl1x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2281,7 +2261,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2cgPUBIn7IcRQkxHNs0zvzc",
     "categories": [
       "Pharmacy"
     ],
@@ -2389,9 +2369,7 @@
     "kgmid": "/g/1tgcym5c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

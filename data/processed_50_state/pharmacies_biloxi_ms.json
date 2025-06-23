@@ -589,7 +589,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIfGNzusOnIgR-ZyuRqHVhCE",
     "categories": [
       "Pharmacy"
     ],
@@ -653,12 +653,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npe2mU467nYSXUq1dy40wizWT_vqkwPPaIPNEBlBFEOdbc54Vr-Uuicn1ZPrc5PJsbcyKd1PbMDkIvKgAYYrE_Z01Q8xVfP3nLxzsiVV9H0e_0jBBsD38dvTEmCgUIWIojNcVOv1A=w408-h544-k-no",
     "kgmid": "/g/1tj2p7bc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Coastal Family Health Center Biloxi Pharmacy",
@@ -751,10 +749,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NTksQRixNAUB887Krv_UwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.48676&pitch=0&thumbfov=100",
     "kgmid": "/g/11mn1k8znn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1020,10 +1018,10 @@
     "rank": 9,
     "isAdvertisement": false,
     "kgmid": "/g/113hxxtcr",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1297,7 +1295,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq6pq5qYRnIgRiXJVf2jT2qc",
     "categories": [
       "Pharmacy"
     ],
@@ -1427,10 +1425,8 @@
     "kgmid": "/g/11r8ydywg_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Doctor's Specialty Pharmacy, LLC",
@@ -2253,7 +2249,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkxXLwsBy04kRnHe9J2HZdvU",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -2332,11 +2328,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHBhcXkal9rcdQNA5r3Xowp5jZ5GdKYjc_IHr7CtZGxc5eS6ebWzLLneYcTOWpeI2hXZAngJIYxfwHML6P8Fex32Megn-zFfpn3oBPpTI468yAC_c1Lw2WUx0XTNedZvmt88I=w521-h240-k-no",
     "kgmid": "/g/1tlvqj0d",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

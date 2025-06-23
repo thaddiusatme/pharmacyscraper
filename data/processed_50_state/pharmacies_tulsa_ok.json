@@ -266,7 +266,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -428,7 +428,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJezbG-32StocRSGh38We5Ot0",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -536,12 +536,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrOPNDhwNvkzuDB6OHwRmJPYsZnC4Hm6MeAATxsEMN40X-sLfCrezQKiBSENsNzU8nsw4A4jcG_Y_xk9PGnwJ9a-cFPmKr6t94a8E0QQr0KxTj0kfDEDHAXlqikMlBk2XcIOlvUzw=w408-h544-k-no",
     "kgmid": "/g/12q4x0vz2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Saffa Compounding Pharmacy",
@@ -1348,7 +1346,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1374,7 +1372,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMSR3u9vttocRzC0m9iB4_4A",
     "categories": [
       "Pharmacy"
     ],
@@ -1457,12 +1455,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOevHtYfAUuit10nmodJNt-KPLJZAbdpUmsL9eN=w408-h408-k-no",
     "kgmid": "/g/11sg5xnj0_",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Apothecary Shoppe",
@@ -1728,7 +1724,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1754,7 +1750,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJvUGpxHnrtocRSmZYFYoHrX4",
     "categories": [
       "Pharmacy"
     ],
@@ -1844,12 +1840,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOoqgmqcXntUz8EEOajmx9T-WCtFDltwHpsEOZ_=w408-h271-k-no",
     "kgmid": "/g/1tkp5h7j",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Equity Pharmacy",
@@ -2093,10 +2087,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rzBDrw4ZxovkBU9wJ_QQpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=274.13174&pitch=0&thumbfov=100",
     "kgmid": "/g/1263v3ldy",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2310,7 +2304,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-XvCv0WTtocRmMK3EIB17CU",
     "categories": [
       "Pharmacy",
       "Medical laboratory"
@@ -2402,12 +2396,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOStgOfwxDMZxOhMqjs0qYzXVOMSWBQ91siWGdT=w408-h306-k-no",
     "kgmid": "/g/11h11c564z",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tulsa County Pharmacy",
@@ -2503,10 +2495,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOox2mguNTNRnHxsMPPqgOBFCH5ij3m5kJYaJY2=w408-h271-k-no",
     "kgmid": "/g/11bt_jpczk",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   }

@@ -117,7 +117,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Beacon Pharmacy Inc",
@@ -271,7 +272,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "ASH Pharmacy",
@@ -398,7 +400,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Compare Quality Pharmacy",
@@ -523,7 +526,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Eterna Pharmacy",
@@ -596,7 +600,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "EssentialRx Pharmacy",
@@ -757,7 +762,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Worcester Pharmacy",
@@ -913,7 +919,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Wells Healthcare Pharmacy",
@@ -937,7 +944,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHUVbx2QH5IkRcsfG_Wfe98I",
     "categories": [
       "Pharmacy"
     ],
@@ -1016,12 +1023,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNO2Y9xyqPzJ8CzZ6Mgl3ps9iPe55N4UKRmcVvD=w408-h725-k-no",
     "kgmid": "/g/11kqfq2d0l",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1046,7 +1051,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmSErDYII5IkRgfH_jEvILqE",
     "categories": [
       "Pharmacy"
     ],
@@ -1136,10 +1141,8 @@
     "kgmid": "/g/11csbfct00",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1163,7 +1166,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-zptqCMH5IkRtWTa-qFBXbI",
     "categories": [
       "Pharmacy"
     ],
@@ -1234,10 +1237,8 @@
     "kgmid": "/g/11jr6k30l9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prescott Pharmacy - LTC",
@@ -1371,7 +1372,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Trang Pharmacy",
@@ -1503,9 +1505,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Legitmedshop",
@@ -1616,12 +1619,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMewT223jFzU8GxPlTfUymMsGjfhJv6DfaKFY0Q=w429-h240-k-no",
     "kgmid": "/g/11g0j6jqdf",
-    "classification": "not_a_pharmacy",
-    "is_independent": false,
+    "classification": "independent",
+    "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "worcester_ma"
   },
   {
     "title": "Genoa Healthcare",
@@ -1645,7 +1649,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJO-lFoi0H5IkRMrU3ipyMJFI",
     "categories": [
       "Pharmacy"
     ],
@@ -1711,10 +1715,8 @@
     "kgmid": "/g/11j3sczpgl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1738,7 +1740,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBRESYxIE5IkRGKJlK2w59Gk",
     "categories": [
       "Pharmacy"
     ],
@@ -1856,10 +1858,8 @@
     "kgmid": "/g/11c462tw86",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Market 32 Pharmacy",
@@ -1883,7 +1883,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiZxyBYgH5IkR54Ar38l3Ye4",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1972,10 +1972,8 @@
     "kgmid": "/g/11b6c3skrl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "UMass Memorial Medical Center - Prescription Center Pharmacy",
@@ -1999,7 +1997,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYwgFd5EH5IkRoEya3GYHDuk",
     "categories": [
       "Pharmacy"
     ],
@@ -2076,12 +2074,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6s-RQganqu96BMOOjJCgkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.5394845&pitch=0&thumbfov=100",
     "kgmid": "/g/11dxdzttn7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2105,7 +2101,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2XJbnw4G5IkRdpeTUAFOPMw",
     "categories": [
       "Pharmacy"
     ],
@@ -2223,10 +2219,8 @@
     "kgmid": "/g/11c468nzmw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2250,7 +2244,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDaS6FJsG5IkR6AsshxcHsuE",
     "categories": [
       "Pharmacy"
     ],
@@ -2371,10 +2365,8 @@
     "kgmid": "/g/11c468ps57",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -2399,7 +2391,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLXxGHKsH5IkRpP3KrvbSB-U",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2508,9 +2500,7 @@
     "kgmid": "/g/1thtqlz3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

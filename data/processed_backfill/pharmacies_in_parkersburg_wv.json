@@ -1,0 +1,1276 @@
+[
+  {
+    "title": "Cardinal Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3376 Staunton Turnpike, Parkersburg, WV 26104",
+    "neighborhood": null,
+    "street": "3376 Staunton Turnpike",
+    "city": "Parkersburg",
+    "postalCode": "26104",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "phone": "(681) 588-0540",
+    "phoneUnformatted": "+16815880540",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2215706,
+      "lng": -81.5053623
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8849b3848e87074b:0xb5e3c573d0945aac",
+    "cid": "13106536441789569708",
+    "reviewsCount": 16,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:30:19.755Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u201312\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cardinal%20Pharmacy&query_place_id=ChIJSweHjoSzSYgRrFqU0HPF47U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@60.874534795447715,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0maOKxqT4DXpY5tbHS4MpdIYcxJ_EEqtMZRHF=w408-h305-k-no",
+    "kgmid": "/g/11t4vjd1f8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "in_parkersburg_wv"
+  },
+  {
+    "title": "Cox Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2012 Garfield Ave Suite 3, Parkersburg, WV 26101",
+    "neighborhood": null,
+    "street": "2012 Garfield Ave Suite 3",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "http://coxfamilypharmacy.com/",
+    "phone": "(304) 893-9100",
+    "phoneUnformatted": "+13048939100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2813006,
+      "lng": -81.5515011
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88484b739d8b6ed9:0xf4da913cbef78f03",
+    "cid": "17643574180265299715",
+    "reviewsCount": 33,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:30:19.756Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cox%20Family%20Pharmacy&query_place_id=ChIJ2W6LnXNLSIgRA4_3vjyR2vQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@60.874534795447715,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqgCL8fUec-bzVLEBbMpydi5y232aQgN9yuzhCtFcWbTjlBv2m5KC1kf-toO56-K-0c5z3UyJljZGOL1vj-RsM_M4dCiIzIXIN1mD0ZQZ5bjgj0UHHJjy2ElGWR4bhitg-XOfMS=w408-h906-k-no",
+    "kgmid": "/g/11clvd1j4c",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "in_parkersburg_wv"
+  },
+  {
+    "title": "Parkersburg Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "226 3rd St, Parkersburg, IA 50665",
+    "neighborhood": null,
+    "street": "226 3rd St",
+    "city": "Parkersburg",
+    "postalCode": "50665",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "http://www.parkersburgpharmacy.com/",
+    "phone": "(319) 346-1970",
+    "phoneUnformatted": "+13193461970",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.577878,
+      "lng": -92.786953
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f021e632b5fae7:0xc1d1f7feef591836",
+    "cid": "13966216593761966134",
+    "reviewsCount": 12,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:30:58.929Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parkersburg%20Pharmacy&query_place_id=ChIJ5_q1MuYh8IcRNhhZ7_730cE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@48.27430768932854,-99.1509755427839,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr20PayzLVC2ZN8eU-xqIWXxQSuv2sPCSiMfHFR109r319NFRmdSv7JwVZ7We69_LcoafJx9PdisJCozzjBwfBj4Z2-RNLOfSqunZnqZBYjnh9sbqv_uNMoAVmqZRxbUrWJrLe5iQ=w408-h270-k-no",
+    "kgmid": "/g/1v27w196",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "in_parkersburg_wv"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1800 Broadway Ave, Parkersburg, WV 26101",
+    "neighborhood": null,
+    "street": "1800 Broadway Ave",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/parkersburg-wv-pharmacies/1800-broadway-ave-parkersburg-wv-26101/storeid=6276?WT.mc_id=LS_GOOGLE_RX_6276",
+    "phone": "(304) 485-4533",
+    "phoneUnformatted": "+13044854533",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2371751,
+      "lng": -81.5415219
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ29LLwOtMSIgRUxgXLqdFutU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484cebc0cbd2db:0xd5ba45a72e171853",
+    "cid": "15400698460081952851",
+    "reviewsCount": 10,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:11.160Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ29LLwOtMSIgRUxgXLqdFutU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@19.332203365393863,-155.16346403159915,11z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqZVXfCVEtP76bYsz5m9ExxXRjLN34GULrpfihfaRXy2UswHXxB2QrCRGvNA4DninbppSIrR4hNfLB113oDNGFPo1JFloVKPpcKXuEoeQNJqmZ_cAGrbJNiuXWihaUja0gD823C=w519-h240-k-no",
+    "kgmid": "/g/11c468k1yz",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2121 E Seventh St, Parkersburg, WV 26101, United States",
+    "neighborhood": null,
+    "street": "2121 E Seventh St",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "+1 304-485-0800",
+    "phoneUnformatted": "+13044850800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2695315,
+      "lng": -81.5204694
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlYOJWldLSIgRIG0LWbChu70",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b575a898395:0xbdbba1b0590b6d20",
+    "cid": "13671698872593509664",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJlYOJWldLSIgRIG0LWbChu70",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UtFuKzg1U2rnkaQ3NKY8gQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=351.99017&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gnrg3kq5",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Cox Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "110 Gihon Village, Parkersburg, WV 26101, United States",
+    "neighborhood": null,
+    "street": "110 Gihon Village",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "http://coxfamilypharmacy.com/",
+    "phone": "+1 304-485-4501",
+    "phoneUnformatted": "+13044854501",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2317722,
+      "lng": -81.5455198
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88484ce8b00e4b71:0xa0f2bc71de0fb27f",
+    "cid": "11597539187675345535",
+    "reviewsCount": 14,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cox%20Family%20Pharmacy&query_place_id=ChIJcUsOsOhMSIgRf7IP3nG88qA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n0EApG326zf1JGYfgNkImA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=280.09644&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td4f7b5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.93,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "in_parkersburg_wv"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1605 Seventh St, Parkersburg, WV 26101, United States",
+    "neighborhood": null,
+    "street": "1605 Seventh St",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/parkersburg-wv-pharmacies/1605-7th-street-parkersburg-wv-26101/storeid=6274?WT.mc_id=LS_GOOGLE_RX_6274",
+    "phone": "+1 304-485-5428",
+    "phoneUnformatted": "+13044855428",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2673962,
+      "lng": -81.5331579
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbwjfE1xLSIgR5kAIzQu5zvI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b5c13df086f:0xf2ceb90bcd0840e6",
+    "cid": "17496125062716604646",
+    "reviewsCount": 19,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.818Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJbwjfE1xLSIgR5kAIzQu5zvI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOhilB3qK5J_yR_btfXnkFpB9a-viq4Qz1WZbBl=w408-h272-k-no",
+    "kgmid": "/g/11c46825zw",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Camden Clark Outpatient Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "800 Garfield Ave, Parkersburg, WV 26101, United States",
+    "neighborhood": null,
+    "street": "800 Garfield Ave",
+    "city": "Parkersburg",
+    "postalCode": "26101",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://wvumedicine.org/camden-clark/services/pharmacy/",
+    "phone": "+1 304-424-2120",
+    "phoneUnformatted": "+13044242120",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 39.2698652,
+      "lng": -81.5593243
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b523d411889:0xe11a3e81729692af",
+    "cid": "16220345733622436527",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.818Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Camden%20Clark%20Outpatient%20Pharmacy&query_place_id=ChIJiRhBPVJLSIgRr5KWcoE-GuE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VKMjHwvVV7QYAwqkQO-eqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.6790236&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q3mvck3m",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "in_parkersburg_wv"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4418 Emerson Ave, Parkersburg, WV 26104, United States",
+    "neighborhood": null,
+    "street": "4418 Emerson Ave",
+    "city": "Parkersburg",
+    "postalCode": "26104",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/parkersburg-wv-pharmacies/4418-emerson-avenue-parkersburg-wv-26104/storeid=6281?WT.mc_id=LS_GOOGLE_RX_6281",
+    "phone": "+1 304-485-3245",
+    "phoneUnformatted": "+13044853245",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2924772,
+      "lng": -81.5239594
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpXCjNC5LSIgRRgLPrep8CXI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b2e34a370a5:0x72097ceaadcf0246",
+    "cid": "8217236342494396998",
+    "reviewsCount": 9,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.818Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJpXCjNC5LSIgRRgLPrep8CXI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMeJOGthcv5uVeKPIO8N-MUmoKC2n1tnNUfQUN2=w408-h272-k-no",
+    "kgmid": "/g/11c467qbmr",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3400 Dudley Ave, Parkersburg, WV 26104, United States",
+    "neighborhood": null,
+    "street": "3400 Dudley Ave",
+    "city": "Parkersburg",
+    "postalCode": "26104",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3400+dudley+ave-parkersburg-wv-26104/id=19848",
+    "phone": "+1 304-428-0946",
+    "phoneUnformatted": "+13044280946",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2865856,
+      "lng": -81.5337211
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQDAmD5LSIgRFvUYzUVw4pw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b3e98c00001:0x9ce27045cd18f516",
+    "cid": "11304721459749385494",
+    "reviewsCount": 1,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:31:44.818Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJAQDAmD5LSIgRFvUYzUVw4pw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20in%20Parkersburg,%20WV/@45.410355141996405,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy in Parkersburg, WV",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNm0Tu5zMxEAze4bK9b0zkElsn-SK2s8ZQD9lXf=w525-h240-k-no",
+    "kgmid": "/g/11r3snmxz9",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

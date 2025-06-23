@@ -1026,7 +1026,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1142,7 +1142,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2030,10 +2030,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npu6soa3zadLmlA8EDsEAESApK81SiIHdACdS0LJD3OMo7cjL9y4DD1WiVAcWouAd1rrnol9HpxQpsHEwNszcpiPYp_anJ1BVl2v4SPUEn1MtGp7rZY_uzfu9G9lgGYYXEtFMdMOSF8KSmV=w408-h544-k-no",
     "kgmid": "/g/11c31775yb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2153,10 +2153,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMI-O104ym-UqLxLsn_d5Oh6ZfyHjj3chz2oKso=w426-h240-k-no",
     "kgmid": "/g/11c53cxr4p",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2182,7 +2182,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAQZox5rbJIgRokNby3rdQ78",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -2350,10 +2350,8 @@
     "kgmid": "/g/1td0bkh0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prestige Pharmacy",
@@ -2569,10 +2567,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7KO28DLqvViT0zD7OeY1dbF_Yot56EqUxwEHW=w426-h240-k-no",
     "kgmid": "/g/11c53qmmm4",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   }

@@ -21,7 +21,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtSIeICr8wokRB-z0knuI1QA",
     "categories": [
       "Pharmacy"
     ],
@@ -151,12 +151,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOcTt4ZN09_E3b8ury3W7nuveW8UL8bMJgoqm6m=w408-h544-k-no",
     "kgmid": "/g/11hdb1ygvn",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Irving Pharmacy",
@@ -281,7 +279,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Paterson Pharmacy",
@@ -411,7 +410,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Steigner's Pharmacy",
@@ -514,7 +514,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Sheefa Pharmacy Paterson",
@@ -667,9 +668,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Pharmacy Plus & Surgical Supplies",
@@ -811,9 +813,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Mainfair Pharmacy",
@@ -928,9 +931,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Family care pharmacy",
@@ -1043,7 +1047,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Grand Street Pharmacy",
@@ -1188,7 +1193,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Pharmacy Express",
@@ -1325,7 +1331,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "International Drugs Pharmacy",
@@ -1440,9 +1447,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Hospital Pharmacy",
@@ -1466,7 +1474,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfVLMxzv8wokRxH8xw1QSoWY",
     "categories": [
       "Pharmacy",
       "Addiction treatment center",
@@ -1563,12 +1571,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npcVpWS1TT1Y73UWVcFJXVHsBRI-V-HCajP3e2dGxZgoA4YPImpDceEolDRW9vdMtyyXeXjdCjOxvOOprbekco8Y7qz0mrvVvnkCE-7MheTEUApwSPMQ2BO_pe39JD6o_fLJWF8=w408-h306-k-no",
     "kgmid": "/g/1tcv2cv2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Park Ave Pharmacy",
@@ -1699,7 +1705,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Vital Plus Pharmacy",
@@ -1848,7 +1855,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "La Nueva Mercedes Pharmacy",
@@ -1986,7 +1994,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "FABIO'S PHARMACY",
@@ -2110,9 +2119,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Downtown Pharmacy",
@@ -2233,7 +2243,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Farmacia Del Pueblo II LLC",
@@ -2347,7 +2358,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Saimz Pharmacy",
@@ -2444,9 +2456,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   },
   {
     "title": "Billstra Pharmacy",
@@ -2560,6 +2573,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "paterson_nj"
   }
 ]

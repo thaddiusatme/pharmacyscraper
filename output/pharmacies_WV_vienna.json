@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2300 Grand Central Ave, Vienna, WV 26105",
+    "neighborhood": null,
+    "street": "2300 Grand Central Ave",
+    "city": "Vienna",
+    "postalCode": "26105",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2300+grand+central+ave-vienna-wv-26105/id=19614",
+    "phone": "(304) 295-4573",
+    "phoneUnformatted": "+13042954573",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.3218682,
+      "lng": -81.5513016
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm04NEeBLSIgRGKIHFWHOO1U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484be0110d4e9b:0x553bce611507a218",
+    "cid": "6141729433209774616",
+    "reviewsCount": 23,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:16:43.651Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJm04NEeBLSIgRGKIHFWHOO1U",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@52.14797767021313,-177.3132206483257,11z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zx9KVQCfgbKywjesyMcCUg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.25806&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fctbht_0"
+  },
+  {
+    "title": "Bond's Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "800 Grand Central Mall, Vienna, WV 26105",
+    "neighborhood": null,
+    "street": "800 Grand Central Mall",
+    "city": "Vienna",
+    "postalCode": "26105",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "http://www.bondsdrug.com/",
+    "phone": "(304) 295-7356",
+    "phoneUnformatted": "+13042957356",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2977788,
+      "lng": -81.5542301
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk6uXoAZLSIgRixDxEJZJXuI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484b06a097ab93:0xe25e499610f1108b",
+    "cid": "16311555809260671115",
+    "reviewsCount": 11,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:16:43.653Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bond's%20Drug&query_place_id=ChIJk6uXoAZLSIgRixDxEJZJXuI",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@52.14797767021313,-177.3132206483257,11z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8tMo3W8YcibfzzD8gHpFO40bx5yWU0iG4ARI=w408-h304-k-no",
+    "kgmid": "/g/11f11lg3lf"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "1100 Grand Central Ave, Vienna, WV 26105",
+    "neighborhood": null,
+    "street": "1100 Grand Central Ave",
+    "city": "Vienna",
+    "postalCode": "26105",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/vienna-wv-sams-club/6373",
+    "phone": "(304) 295-5675",
+    "phoneUnformatted": "+13042955675",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.3099739,
+      "lng": -81.5510151
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-469dvtKSIgRs3JQ1SIa_DI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88484afb76bd8efb:0x32fc1a22d55072b3",
+    "cid": "3673840132937511603",
+    "reviewsCount": 6,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:16:43.653Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJ-469dvtKSIgRs3JQ1SIa_DI",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@52.14797767021313,-177.3132206483257,11z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP_F7mILlUpvtQA0saQtJLD2soZIdI152_6Epzv=w408-h272-k-no",
+    "kgmid": "/g/11b86qp5jm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "701 Grand Central Ave, Vienna, WV 26105",
+    "neighborhood": null,
+    "street": "701 Grand Central Ave",
+    "city": "Vienna",
+    "postalCode": "26105",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/1782-vienna-wv/pharmacy/?veh=seo_loc",
+    "phone": "(304) 422-3526",
+    "phoneUnformatted": "+13044223526",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.306419,
+      "lng": -81.5537231
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYbj5Dv1KSIgRYMZUMzQk3_8",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88484afd0ef9b861:0xffdf24343354c660",
+    "cid": "18437495206096193120",
+    "reviewsCount": 15,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:16:43.654Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJYbj5Dv1KSIgRYMZUMzQk3_8",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@52.14797767021313,-177.3132206483257,11z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-uJxg1cwfLD_Fu_mpQabAF5c3hI-tmjHh_Nh6=w408-h306-k-no",
+    "kgmid": "/g/1tdvv_j2"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "2300 Grand Central Ave, Vienna, WV 26105",
+    "neighborhood": null,
+    "street": "2300 Grand Central Ave",
+    "city": "Vienna",
+    "postalCode": "26105",
+    "state": "West Virginia",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2300+grand+central+ave-vienna-wv-26105/id=19614",
+    "phone": "(304) 295-4573",
+    "phoneUnformatted": "+13042954573",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.321854,
+      "lng": -81.5512997
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo6O2QLFLSIgROE-XY7-QYus",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x88484bb140b6a3a3:0xeb6290bf63974f38",
+    "cid": "16961278298314723128",
+    "reviewsCount": 13,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:17:13.561Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–9 PM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–9 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJo6O2QLFLSIgROE-XY7-QYus",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@23.639477062114782,-164.63145827430117,13z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPuQHdeer46IeA9F-ytYB9ts4zutooAxNwPferk=w408-h408-k-no",
+    "kgmid": "/g/11nlcj95h9"
+  },
+  {
+    "title": "Eastern State Hospital",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4601 Ironbound Rd, Williamsburg, VA 23188",
+    "neighborhood": null,
+    "street": "4601 Ironbound Rd",
+    "city": "Williamsburg",
+    "postalCode": "23188",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "https://dbhds.virginia.gov/facilities/esh/",
+    "phone": "(757) 253-5161",
+    "phoneUnformatted": "+17572535161",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 37.2904095,
+      "lng": -76.7363125
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE7REEN2LsIkRX2MUnjBX0o0",
+    "categories": [
+      "Pharmacy",
+      "Psychiatric hospital"
+    ],
+    "fid": "0x89b08bdd1044b413:0x8dd257309e14635f",
+    "cid": "10219326370779259743",
+    "reviewsCount": 47,
+    "reviewsDistribution": {
+      "oneStar": 26,
+      "twoStar": 3,
+      "threeStar": 0,
+      "fourStar": 5,
+      "fiveStar": 13
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:18:26.242Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eastern%20State%20Hospital&query_place_id=ChIJE7REEN2LsIkRX2MUnjBX0o0",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npx9XajJOUEQLXp96hFtygEdNV7BFXju_dhzA8SZRXeKqEceI4UF7wWRuaU8hvTXXIxLteregS4R1IOCG1hKjobX7kVaCXnHVevwQSVb_UTkabb6sxWOIfwCuAQ1otk3nSbPRZz=w408-h272-k-no",
+    "kgmid": "/m/0bqt34"
+  },
+  {
+    "title": "Vienna Rexall Drug Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "150 Maple Ave W, Vienna, VA 22180, United States",
+    "neighborhood": "Hunter Mill District",
+    "street": "150 Maple Ave W",
+    "city": "Vienna",
+    "postalCode": "22180",
+    "state": "Virginia",
+    "countryCode": "US",
+    "website": "http://www.viennarexall.com/",
+    "phone": "+1 703-938-7111",
+    "phoneUnformatted": "+17039387111",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.899889,
+      "lng": -77.2665188
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEzV4d8hLtokR-wc0IDBxuiM",
+    "categories": [
+      "Pharmacy",
+      "Chemist"
+    ],
+    "fid": "0x89b64bc877783513:0x23ba7130203407fb",
+    "cid": "2574494588508309499",
+    "reviewsCount": 89,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T06:18:52.890Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vienna%20Rexall%20Drug%20Center&query_place_id=ChIJEzV4d8hLtokR-wc0IDBxuiM",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacies%20in%20Vienna,%20WV%20in%20Vienna,%20WV/@39.68245004733214,-76.98739394329682,8z?hl=en",
+    "searchString": "pharmacies in Vienna, WV in Vienna, WV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqomMocj6xIRpuB1ieuCoJnXEvIAKtoQMI5X7N0x1E8l-Go0D-wIb0DxRCu1X0zDahOkOdatT-XN-XG6qLl_QKHpC0WuBfdReMHPtsxFVcppMtfaz12igfRwG47zOzWM-1gHRCE=w426-h240-k-no",
+    "kgmid": "/g/1vp74nr4"
+  }
+]

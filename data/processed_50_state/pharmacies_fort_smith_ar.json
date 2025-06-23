@@ -360,7 +360,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -762,7 +762,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJn-4_SkFNyocRAtZ3jHbgtBk",
     "categories": [
       "Pharmacy"
     ],
@@ -889,10 +889,8 @@
     "kgmid": "/g/11cn96g150",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "MediSav Homecare Pharmacy",
@@ -1187,7 +1185,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgb37L75MyocRjFxaZgJckzY",
     "categories": [
       "Pharmacy"
     ],
@@ -1445,12 +1443,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO6iwLWRE7RARZaoSU9fR4zMZWhXY76Mg5I2Zxl=w426-h240-k-no",
     "kgmid": "/g/1v3dsnjv",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1475,7 +1471,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAUed0siyy4cRhcus4rT1gZk",
     "categories": [
       "Pharmacy"
     ],
@@ -1586,10 +1582,8 @@
     "kgmid": "/g/1td0y_mn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Joseph A. Korkames, PD",
@@ -1808,7 +1802,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1944,7 +1938,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2092,7 +2086,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlaKs_8lMyocRzeJhvJ2qF6g",
     "categories": [
       "Pharmacy"
     ],
@@ -2219,10 +2213,8 @@
     "kgmid": "/g/11cn95pt9t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Carl's Pharmacy",

@@ -244,7 +244,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -355,7 +355,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -620,7 +620,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -729,7 +729,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -877,7 +877,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu_amtEfN-YgRe2cpOsz_b-4",
     "categories": [
       "Pharmacy"
     ],
@@ -958,10 +958,8 @@
     "kgmid": "/g/11g21s8dy1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Peach Orchard Drugs",
@@ -1090,7 +1088,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1115,7 +1113,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKWBeK2_M-YgRBKvyYQLlRmk",
     "categories": [
       "Pharmacy"
     ],
@@ -1147,12 +1145,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fyu2Tm7qExW9rr_u8Pa6aw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.121012&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdpsj03",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1177,7 +1173,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBU2MtGrM-YgREWXJiXdNxS8",
     "categories": [
       "Pharmacy"
     ],
@@ -1229,10 +1225,8 @@
     "kgmid": "/g/11wvkxt516",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Wellstar Pharmacy",
@@ -1333,10 +1327,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4xA6uzIrDOJdadCE0lIsXQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.87311&pitch=0&thumbfov=100",
     "kgmid": "/g/11wvlyg772",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1362,7 +1356,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-W5CJ0nM-YgRAk-j_B-4Si0",
     "categories": [
       "Pharmacy"
     ],
@@ -1483,10 +1477,8 @@
     "kgmid": "/g/11c462qbg_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1510,7 +1502,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMxpMU1LS-YgR6ZVjrjIp6Hc",
     "categories": [
       "Pharmacy"
     ],
@@ -1616,10 +1608,8 @@
     "kgmid": "/g/1tcz9537",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Wellstar Pharmacy",
@@ -1714,10 +1704,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=145UZijTY8-SLp_OuLqqBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=202.85268&pitch=0&thumbfov=100",
     "kgmid": "/g/11ybdzh0wq",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1743,7 +1733,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjT2WyDnO-YgRhtmaNOrTGOQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1864,10 +1854,8 @@
     "kgmid": "/g/11c4615fm1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1891,7 +1879,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX0WgWDfQ-YgRiCsYVb4WCB0",
     "categories": [
       "Pharmacy"
     ],
@@ -2012,10 +2000,8 @@
     "kgmid": "/g/11c469d7bj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Custom Pharmacy",
@@ -2277,7 +2263,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   }

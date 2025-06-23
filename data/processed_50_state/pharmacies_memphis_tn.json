@@ -915,10 +915,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq1jXr2Rk4BfjzC2yowpNog5LnpYBGCMu0IXIP5rXo_qZVL6nA5RR7AqnAF-9sbEbjTyjjlS6ev_Z65z7Dfvx3YPKnvlVeg7tEzDedxgrz6Q-zXJZTqFbrJVzCwSAPdvjuXgWa5=w408-h723-k-no",
     "kgmid": "/g/1tj2crvb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -944,7 +944,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVVVVQqcf4gR48gpvN31qgc",
     "categories": [
       "Pharmacy"
     ],
@@ -1018,12 +1018,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cA0gVrSXCGplQxoSBBucsg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.719357&pitch=0&thumbfov=100",
     "kgmid": "/g/11ftnj71r1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Friends for All - Pharmacy",
@@ -1381,7 +1379,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf5jbLFiDf4gROQjdZV_MM6g",
     "categories": [
       "Pharmacy"
     ],
@@ -1455,12 +1453,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RIsi3-tQzKoLwnXhHrZFMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=89.504585&pitch=0&thumbfov=100",
     "kgmid": "/g/11c67ryp45",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "First Pharmacy Services of Park Ave",
@@ -1484,7 +1480,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnVHVScSEf4gRH53UZkqYqp8",
     "categories": [
       "Pharmacy"
     ],
@@ -1562,12 +1558,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CSZ23SbyTNrPtunjupTDbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.35153&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdzxh1b",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Entrustrx",
@@ -1633,7 +1627,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1795,7 +1789,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2ylJs9-Af4gRanUQ-We1kh4",
     "categories": [
       "Pharmacy"
     ],
@@ -1869,12 +1863,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOE2ASE3ghyoiLJuBdpiQaNGrbjkYSaxtmT_knGqiT3x9WVC4A3eBOZvcimEz5V9jiJo0Zg8WF9bWwBC13WtL-RbxatW1YKFP1lQ4AMCO81a5SjzVoJ0_nrGUegEVjyu9IsHRW=w408-h306-k-no",
     "kgmid": "/g/11f3xt41sd",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "The Rx Shoppe",
@@ -2140,7 +2132,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ--NVHq6Af4gRc1HlHe58-5U",
     "categories": [
       "Pharmacy"
     ],
@@ -2258,10 +2250,8 @@
     "kgmid": "/g/11c468w717",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2286,7 +2276,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl0muz6mAf4gRiJbtPlyFrKs",
     "categories": [
       "Pharmacy"
     ],
@@ -2428,9 +2418,7 @@
     "kgmid": "/g/11cn949vk9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

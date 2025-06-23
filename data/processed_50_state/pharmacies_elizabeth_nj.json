@@ -128,7 +128,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Camacho Pharmacy",
@@ -255,7 +256,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Bert's Pharmacy",
@@ -369,7 +371,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Vencer Care",
@@ -440,7 +443,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Westminster Pharmacy",
@@ -568,7 +572,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Alexandria Pharmacy",
@@ -681,7 +686,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Horowitz Supremo Pharmacy",
@@ -799,7 +805,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "St. Peter PHARMACY",
@@ -920,7 +927,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Community Pharmacy",
@@ -1039,9 +1047,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Elizabeth Pharmacy",
@@ -1166,7 +1175,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Legacy Drugstore",
@@ -1276,7 +1286,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "South Broad Pharmacy",
@@ -1409,7 +1420,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Formula Rx",
@@ -1537,10 +1549,11 @@
     "kgmid": "/g/11vxpqy5ts",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.9,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Union Care Pharmacy",
@@ -1648,7 +1661,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1673,7 +1687,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJyoH3a1SwokRpxI3azCVyBQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1811,10 +1825,8 @@
     "kgmid": "/g/11cn9647ns",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Morris Avenue Pharmacy",
@@ -1944,7 +1956,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Bergen Pharmacy",
@@ -2048,7 +2061,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Downtown Pharmacy",
@@ -2173,7 +2187,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "iCareRx Pharmacy",
@@ -2317,9 +2332,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   },
   {
     "title": "Crossroads Pharmacy",
@@ -2427,6 +2443,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "elizabeth_nj"
   }
 ]

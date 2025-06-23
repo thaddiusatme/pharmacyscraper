@@ -20,7 +20,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJUt8rdqGmYcR6JJKouLybRI",
     "categories": [
       "Pharmacy"
     ],
@@ -94,12 +94,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WwZLrEG0mK0RFA1NMK7isw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.2152&pitch=0&thumbfov=100",
     "kgmid": "/g/11h1j3h2cf",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "U Save Pharmacy",
@@ -228,9 +226,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Super Saver Pharmacy at Five Points",
@@ -347,7 +346,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Midwest LTC Pharmacy",
@@ -371,7 +371,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6wbcXJWGmYcRoP9REvkjD0k",
     "categories": [
       "Pharmacy"
     ],
@@ -450,12 +450,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0xck1iwRYlwzIO8Gg3lOdIAqT2mhOX4JeywFl=w408-h516-k-no",
     "kgmid": "/g/1v16qtf1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ben Pharmacy",
@@ -556,7 +554,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "U-Save Pharmacy Northwest",
@@ -731,7 +730,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -756,7 +756,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJY1t7tMaGmYcR_Uj5_zCjdcI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -909,10 +909,8 @@
     "kgmid": "/g/1pv5_j26f",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "U-Save Pharmacy South",
@@ -1040,7 +1038,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Island Prescription Center",
@@ -1177,7 +1176,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Franklin Drug",
@@ -1280,7 +1280,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "CVS Pharmacy",
@@ -1304,7 +1305,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCzPrqPSGmYcR0CgIfTxAd7Q",
     "categories": [
       "Pharmacy"
     ],
@@ -1419,10 +1420,8 @@
     "kgmid": "/g/11c469nx7x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1447,7 +1446,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb_rtKfWGmYcRnqmCHoJyc5U",
     "categories": [
       "Pharmacy"
     ],
@@ -1580,10 +1579,8 @@
     "kgmid": "/g/11cn95b32b",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -1609,7 +1606,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2RT1sfSGmYcRk1qsxnqvvJA",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1822,10 +1819,8 @@
     "kgmid": "/g/1yj4k3d4q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Norbert M. Wenzl, RP",
@@ -1921,12 +1916,13 @@
     "rank": 7,
     "isAdvertisement": false,
     "kgmid": "/g/1tg3blzn",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Megan M. Mumm, PharmD",
@@ -2017,12 +2013,13 @@
     "rank": 10,
     "isAdvertisement": false,
     "kgmid": "/g/1td9f7qm",
-    "classification": "not_a_pharmacy",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "grand_island_ne"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2047,7 +2044,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh2OKHNyGmYcRu-VuBlB7GUU",
     "categories": [
       "Pharmacy"
     ],
@@ -2180,9 +2177,7 @@
     "kgmid": "/g/11cn949vj_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

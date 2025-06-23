@@ -1228,7 +1228,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyZ91-wIXnIgR6IwH8I9OF3M",
     "categories": [
       "Pharmacy"
     ],
@@ -1319,12 +1319,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4TxptKy2jhz58p9u0QeOqP21wEZwBN1f26JmR=w408-h340-k-no",
     "kgmid": "/g/11hz_xdp3x",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lyman Pharmacy",
@@ -1465,7 +1463,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbfD1EBw-nIgRYzYEEqhaCxc",
     "categories": [
       "Pharmacy"
     ],
@@ -1595,10 +1593,8 @@
     "kgmid": "/g/11cn95rkpf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Taylor-Harris Drug Store",
@@ -1784,10 +1780,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GwZG_r3bbX9Uy5ZmYo2RkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.92096&pitch=0&thumbfov=100",
     "kgmid": "/g/11l32gsb9n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1882,10 +1878,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZLv8Wc_MpVbX_G5EcZqByoISXya7vM1smVmfBcHwkPk19D4ea9rHTNZ9gTBHNT1jiffTY89R_3Sjm3uftKTzqTeqMjG_VvhVdNkiFm0mShSGUltbJZwEsohoC8cwL-FIbGruqZg=w408-h544-k-no",
     "kgmid": "/g/11c5_3xh8n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1983,7 +1979,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo0puU2Y9nIgR_JAaTZ2SIfs",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -2069,10 +2065,8 @@
     "kgmid": "/g/11jqhvp5z7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Daniel T. Day, R",
@@ -2197,7 +2191,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ__8_OQM-nIgRNa2xSg0psHs",
     "categories": [
       "Pharmacy"
     ],
@@ -2309,10 +2303,8 @@
     "kgmid": "/g/11rgbpqmpf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2336,7 +2328,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHYdGZNYXnIgRpXwQYWm0nic",
     "categories": [
       "Pharmacy"
     ],
@@ -2451,9 +2443,7 @@
     "kgmid": "/g/11c45_tcp2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

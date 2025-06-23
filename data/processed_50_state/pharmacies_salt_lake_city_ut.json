@@ -121,7 +121,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Medicine Market Compounding Pharmacy",
@@ -245,7 +246,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Southeast Pharmacy",
@@ -268,7 +270,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJn9F6yTdgUocR2mifgFAIvzs",
     "categories": [
       "Pharmacy"
     ],
@@ -356,12 +358,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GvvuZ3G_a04VA4l5fStk3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.23764&pitch=0&thumbfov=100",
     "kgmid": "/g/1v29chnz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Red Rock Pharmacy",
@@ -441,7 +441,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Jolley's Compounding Pharmacy",
@@ -586,7 +587,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "University Pharmacy",
@@ -759,7 +761,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Gibsons Pharmacy & Compounding",
@@ -890,7 +893,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Olive Pharmacy",
@@ -1024,7 +1028,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "The Pharmacy at Jolley\u2019s Corner",
@@ -1152,7 +1157,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Medical Center Pharmacy",
@@ -1176,7 +1182,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMwXbNmP1UocRr8FBMiv_j-A",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1279,12 +1285,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEefheQYRjUdosBmTGdb6S-5En8HxPK9dSNrqE=w408-h306-k-no",
     "kgmid": "/g/1tdylpqq",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tuyet's Pharmacy",
@@ -1419,9 +1423,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "HRx Pharmacy",
@@ -1544,7 +1549,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "CREEK PHARMACY",
@@ -1672,7 +1678,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "CVS Pharmacy",
@@ -1696,7 +1703,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI31UZ3GLUocRx1g9ydx1FBA",
     "categories": [
       "Pharmacy"
     ],
@@ -1814,10 +1821,8 @@
     "kgmid": "/g/11ghscx3mz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Oquirrh Mountain Pharmacy",
@@ -1945,7 +1950,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Meier's Pharmacy",
@@ -2074,7 +2080,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Oquirrh Mountain Pharmacy West Valley",
@@ -2098,7 +2105,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV8mH-kmNUocRFQhESBdA4kA",
     "categories": [
       "Pharmacy"
     ],
@@ -2202,12 +2209,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNp8IkLosF8eadLoj7_QWhIO6Q6QIILdfWcApwY=w408-h306-k-no",
     "kgmid": "/g/11rmwb_0xh",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Shared Pharmacy",
@@ -2260,7 +2265,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Strive Compounding Pharmacy",
@@ -2386,7 +2392,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   },
   {
     "title": "Mountain View Pharmacy",
@@ -2558,6 +2565,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "salt_lake_city_ut"
   }
 ]

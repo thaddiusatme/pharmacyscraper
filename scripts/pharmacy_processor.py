@@ -16,8 +16,10 @@ from typing import List, Dict, Any, Optional, Tuple
 from dataclasses import dataclass, asdict
 from openpyxl.styles import PatternFill, Font, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
+import re
 
 # Define chain pharmacy identifiers
+# Raw chain/hospital keywords (lower-case). Duplicates allowed here for readability.
 CHAIN_PHARMACIES = {
     'cvs', 'walgreens', 'rite aid', 'walmart', 'target', 'costco', 'sams club',
     'kroger', 'publix', 'safeway', 'giant', 'stop & shop', 'wegmans', 'hannaford',
@@ -26,6 +28,15 @@ CHAIN_PHARMACIES = {
     'qfc', 'king soopers', 'duane reade', 'riteaid', 'wal-mart', 'wal mart',
     'walmart pharmacy', 'cvs pharmacy', 'walgreens pharmacy', 'rite aid pharmacy',
     'riteaid pharmacy', 'cvs/pharmacy', 'cvs store', 'walmart neighborhood market',
+    'genoa', 'genoa healthcare', 'medicine shoppe', 'the medicine shoppe',
+    'sams club', 'sams club pharmacy', 'shaws', 'shaws pharmacy',
+    'medicap', 'medicap pharmacy', 'carrs', 'carrs pharmacy',
+    'longs drugs', 'longs drugs pharmacy', 'savon', 'savon pharmacy',
+    'alto pharmacy', 'kinney', 'kinney drugs', 'kinney drugs pharmacy',
+    "sam's club", "sam's", "shaw's", "sav-on", 'sam club', 'sams', 'shaw', 'sav on', 
+    'sams club', 'sams club pharmacy',
+    'shaws', 'shaws pharmacy',
+    'savon', 'savon pharmacy',
     # Hospital and medical facility identifiers
     'hospital', 'medical center', 'health system', 'health center', 'clinic',
     'va pharmacy', 'veterans administration', 'veterans affairs', 'va medical',
@@ -35,6 +46,10 @@ CHAIN_PHARMACIES = {
     'anmc', 'anthc', 'native', 'tribal', 'indian health', 'ihs',
     'kaiser', 'permanente', 'hmo', 'health maintenance'
 }
+
+# Build a normalized set (lowercase, remove punctuation/extra spaces) for fast substring checks
+_normalize = lambda s: re.sub(r'[^a-z0-9]+', ' ', s.lower()).strip()
+NORMALIZED_CHAIN_KWS = {_normalize(k) for k in CHAIN_PHARMACIES}
 
 # Define styles
 HEADER_FILL = PatternFill(start_color='D7E4BC', end_color='D7E4BC', fill_type='solid')
@@ -357,89 +372,37 @@ def main():
     import argparse
     
     parser = argparse.ArgumentParser(description='Process pharmacy data and generate Excel report')
-    parser.add_argument('--input-dir', default='data/processed_50_state',
-                       help='Directory containing pharmacy JSON files')
+    parser.add_argument('--input-dirs', nargs='+', required=True,
+                       help='One or more directories containing pharmacy JSON files')
     parser.add_argument('--output-file', 
                        default=f'independent_pharmacies_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx',
                        help='Output Excel file path')
     
     args = parser.parse_args()
     
-    print(f"Loading pharmacy data from: {args.input_dir}")
-    pharmacies = load_pharmacies(args.input_dir)
-    print(f"Found {len(pharmacies)} pharmacies before deduplication")
+    all_pharmacies = []
+    for directory in args.input_dirs:
+        print(f"Loading pharmacy data from: {directory}")
+        pharmacies_from_dir = load_pharmacies(directory)
+        print(f"Found {len(pharmacies_from_dir)} pharmacies in {directory}")
+        all_pharmacies.extend(pharmacies_from_dir)
+
+    print(f"\nFound a total of {len(all_pharmacies)} pharmacies before deduplication")
     
-    pharmacies = deduplicate_pharmacies(pharmacies)
-    print(f"After deduplication: {len(pharmacies)} pharmacies")
+    deduplicated_pharmacies = deduplicate_pharmacies(all_pharmacies)
+    print(f"After deduplication: {len(deduplicated_pharmacies)} pharmacies")
     
-    # Filter out pharmacies without state or with empty state
-    original_count = len(pharmacies)
+    # Filter out chain pharmacies and pharmacies with invalid states
+    independent_pharmacies = filter_chain_pharmacies(deduplicated_pharmacies)
     
-    # First, clean up state names
-    for pharm in pharmacies:
-        if pharm and pharm.state:
-            # Clean up the state name
-            state = pharm.state.strip().title()
-            
-            # Convert full state names to abbreviations
-            state_abbreviations = {
-                'alabama': 'AL', 'alaska': 'AK', 'arizona': 'AZ', 'arkansas': 'AR', 'california': 'CA',
-                'colorado': 'CO', 'connecticut': 'CT', 'delaware': 'DE', 'florida': 'FL', 'georgia': 'GA',
-                'hawaii': 'HI', 'idaho': 'ID', 'illinois': 'IL', 'indiana': 'IN', 'iowa': 'IA',
-                'kansas': 'KS', 'kentucky': 'KY', 'louisiana': 'LA', 'maine': 'ME', 'maryland': 'MD',
-                'massachusetts': 'MA', 'michigan': 'MI', 'minnesota': 'MN', 'mississippi': 'MS',
-                'missouri': 'MO', 'montana': 'MT', 'nebraska': 'NE', 'nevada': 'NV', 'new hampshire': 'NH',
-                'new jersey': 'NJ', 'new mexico': 'NM', 'new york': 'NY', 'north carolina': 'NC',
-                'north dakota': 'ND', 'ohio': 'OH', 'oklahoma': 'OK', 'oregon': 'OR', 'pennsylvania': 'PA',
-                'rhode island': 'RI', 'south carolina': 'SC', 'south dakota': 'SD', 'tennessee': 'TN',
-                'texas': 'TX', 'utah': 'UT', 'vermont': 'VT', 'virginia': 'VA', 'washington': 'WA',
-                'west virginia': 'WV', 'wisconsin': 'WI', 'wyoming': 'WY',
-                'district of columbia': 'DC', 'washington dc': 'DC', 'puerto rico': 'PR',
-                'virgin islands': 'VI', 'guam': 'GU', 'american samoa': 'AS', 'northern mariana islands': 'MP'
-            }
-            
-            # Convert to title case for matching
-            state_lower = state.lower()
-            if state_lower in state_abbreviations:
-                pharm.state = state_abbreviations[state_lower]
-            elif len(state) == 2 and state.isalpha():
-                pharm.state = state.upper()
-    
-    # Now filter out any remaining invalid states
-    valid_states = {
-        'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI', 'ID', 'IL', 'IN', 'IA',
-        'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
-        'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT',
-        'VA', 'WA', 'WV', 'WI', 'WY', 'DC', 'PR', 'VI', 'GU', 'AS', 'MP'
-    }
-    
-    # First filter by valid states
-    valid_pharmacies = [p for p in pharmacies if p and p.state and p.state.upper() in valid_states]
-    if removed := len(pharmacies) - len(valid_pharmacies):
-        print(f"Removed {removed} pharmacies with invalid or missing state information")
-    
-    if not valid_pharmacies:
-        print("No valid pharmacies found with state information")
-        return []
-        
-    # Now filter out chain pharmacies
-    original_count = len(valid_pharmacies)
-    independent_pharmacies = []
-    
-    for pharm in valid_pharmacies:
-        # Check if it's a chain pharmacy
-        pharm_name = (pharm.name or "").lower()
-        is_chain = any(chain in pharm_name for chain in CHAIN_PHARMACIES)
-        pharm.is_independent = not is_chain
-        
-        if pharm.is_independent:
-            independent_pharmacies.append(pharm)
-    
-    if removed := original_count - len(independent_pharmacies):
-        print(f"Removed {removed} chain pharmacies")
-    print(f"Found {len(independent_pharmacies)} independent pharmacies")
-    
-    return independent_pharmacies
+    if not independent_pharmacies:
+        print("\nNo valid independent pharmacies found. Exiting.")
+        return
+
+    # Generate Excel report
+    print(f"\nGenerating Excel report: {args.output_file}")
+    create_excel_report(independent_pharmacies, args.output_file)
+    print(f"Report generated successfully: {args.output_file}")
 
 def filter_chain_pharmacies(pharmacies: List[Pharmacy]) -> List[Pharmacy]:
     """Filter out chain pharmacies and return only independent ones.
@@ -513,8 +476,9 @@ def filter_chain_pharmacies(pharmacies: List[Pharmacy]) -> List[Pharmacy]:
     
     for pharm in valid_pharmacies:
         # Check if it's a chain pharmacy
-        pharm_name = (pharm.name or "").lower()
-        is_chain = any(chain in pharm_name for chain in CHAIN_PHARMACIES)
+        raw_name = pharm.name or ""
+        name_norm = _normalize(raw_name)
+        is_chain = any(kw and kw in name_norm for kw in NORMALIZED_CHAIN_KWS)
         pharm.is_independent = not is_chain
         
         if pharm.is_independent:
@@ -526,67 +490,7 @@ def filter_chain_pharmacies(pharmacies: List[Pharmacy]) -> List[Pharmacy]:
     
     return independent_pharmacies
 
-def main():
-    import argparse
-    
-    # Parse command line arguments
-    parser = argparse.ArgumentParser(description='Process pharmacy data and generate Excel report')
-    parser.add_argument('--input-dir', type=str, default='data/processed_50_state',
-                      help='Directory containing the JSON files (default: data/processed_50_state)')
-    parser.add_argument('--output-file', type=str, default=f'independent_pharmacies_{datetime.now().strftime("%Y%m%d_%H%M%S")}.xlsx',
-                      help='Output Excel file name (default: independent_pharmacies_YYYYMMDD_HHMMSS.xlsx)')
-    args = parser.parse_args()
-    
-    # Load and process pharmacies
-    print(f"Loading pharmacy data from: {args.input_dir}")
-    pharmacies = load_pharmacies(args.input_dir)
-    
-    if not pharmacies:
-        print("No pharmacy data found. Exiting.")
-        return
-    
-    print(f"Found {len(pharmacies)} pharmacies before filtering")
-    
-    # Filter out chain pharmacies
-    pharmacies = filter_chain_pharmacies(pharmacies)
-    
-    if not pharmacies:
-        print("No independent pharmacies found. Exiting.")
-        return
-    
-    # Deduplicate pharmacies
-    pharmacies = deduplicate_pharmacies(pharmacies)
-    print(f"After deduplication: {len(pharmacies)} pharmacies")
-    
-    # Generate Excel report
-    print(f"Generating Excel report: {args.output_file}")
-    create_excel_report(pharmacies, args.output_file)
-    
-    print("\nStates with fewer than 25 pharmacies:")
-    state_counts = {}
-    for pharm in pharmacies:
-        state_counts[pharm.state] = state_counts.get(pharm.state, 0) + 1
-    
-    for state, count in sorted(state_counts.items()):
-        if count < 25:
-            print(f"  {state}: {count} pharmacies")
-    
-    print(f"\nReport generated successfully: {args.output_file}")
-    
-    # Print states with less than 25 pharmacies
-    state_counts = {}
-    for pharm in pharmacies:
-        if pharm and pharm.state:  # Additional safety check
-            state_counts[pharm.state] = state_counts.get(pharm.state, 0) + 1
-    
-    low_states = {state: count for state, count in state_counts.items() if count < 25}
-    if low_states:
-        print("\n\033[91mStates with fewer than 25 pharmacies:")
-        for state, count in sorted(low_states.items()):
-            print(f"  {state}: {count} pharmacies")
-        print("\033[0m")  # Reset color
-    
-    print(f"\nReport generated successfully: {args.output_file}")
+
 
 if __name__ == "__main__":
     main()

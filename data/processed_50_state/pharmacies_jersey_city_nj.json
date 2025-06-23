@@ -125,7 +125,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Hudson Pharmacy",
@@ -255,7 +256,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "CITY CARE PHARMACY",
@@ -396,7 +398,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Horizon Pharmacy",
@@ -522,7 +525,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Royal Care Pharmacy of Jersey City",
@@ -704,7 +708,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Grand St. Pharmacy",
@@ -840,7 +845,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Lasani Pharmacy",
@@ -966,7 +972,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Life Care Pharmacy",
@@ -1092,9 +1099,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Bergen Road Pharmacy",
@@ -1228,7 +1236,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Jersey City Pharmacy",
@@ -1348,12 +1357,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUQ02RLgFfU5_ibNpFiqgpdW6sszZWxX9XTR9pR0VKjkMx_nyoTsGmelUAkBx7HwiE_u9bvfmbgcW0ZzLriUk568oXTSYhNu4sxyREDj2ddg-FzvZoG6LpFpo-AzjljAuAi3rD=w468-h240-k-no",
     "kgmid": "/g/11b6p7kzf3",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Hook Pharmacy",
@@ -1474,7 +1484,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "UMR Pharmacy & Surgical",
@@ -1582,7 +1593,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Clear Cities Pharmacy",
@@ -1719,9 +1731,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "JERSEY MEDS PHARMACY",
@@ -1831,9 +1844,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Norman's Pharmacy",
@@ -1953,7 +1967,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Healthy Living Rx",
@@ -1976,7 +1991,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNURqZtJQwokRaC9eUTtPMTc",
     "categories": [
       "Pharmacy"
     ],
@@ -2069,12 +2084,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPrUr-Nf9568qMLVz24Ie0ONbBuqtWWpZYXYlen=w408-h306-k-no",
     "kgmid": "/g/11b62x2b4y",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mastrolia Pharmacy",
@@ -2229,9 +2242,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.92,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Galaxy Pharmacy",
@@ -2354,9 +2368,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "Prescription Shoppe",
@@ -2484,7 +2499,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   },
   {
     "title": "SIP Pharmacy by Apotheco Pharmacy",
@@ -2606,8 +2622,9 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "jersey_city_nj"
   }
 ]

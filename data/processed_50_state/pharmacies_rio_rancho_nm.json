@@ -147,7 +147,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "CVS Pharmacy",
@@ -171,7 +172,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3RKJ5uhwIocRd4jGiS4PjpQ",
     "categories": [
       "Pharmacy"
     ],
@@ -292,10 +293,8 @@
     "kgmid": "/g/11bx5p_w65",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Market Pharmacy",
@@ -319,7 +318,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ1bfqRb5wIocROZiTDVBjWQY",
     "categories": [
       "Pharmacy"
     ],
@@ -397,10 +396,8 @@
     "kgmid": "/g/11cjkvmxnq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Smith's Pharmacy",
@@ -424,7 +421,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJhfTAaOhwIocRuuAbEbVa0HQ",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -551,10 +548,8 @@
     "kgmid": "/g/1yfjfv5pb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -579,7 +574,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_1rJEelwIocRdeOh3M_559w",
     "categories": [
       "Pharmacy"
     ],
@@ -712,10 +707,8 @@
     "kgmid": "/g/11cn951vhq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -741,7 +734,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw14lnOlwIocR1Gu2RrRqTrM",
     "categories": [
       "Drug store"
     ],
@@ -978,10 +971,8 @@
     "kgmid": "/g/1v7tlvcq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1006,7 +997,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq2-42pl6IocRWd6H_t5iZoI",
     "categories": [
       "Pharmacy"
     ],
@@ -1136,10 +1127,8 @@
     "kgmid": "/g/11cn94tsnm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1163,7 +1152,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLVPDoGpwIocRDPrh4rjh264",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1282,10 +1271,8 @@
     "kgmid": "/g/1hfdnnz8w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1311,7 +1298,7 @@
     "totalScore": 2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpwi6I-lwIocRqSLQc82dVMQ",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1520,10 +1507,8 @@
     "kgmid": "/g/1wtbvbmp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Arnett Local Pharmacy & Compounding",
@@ -1654,7 +1639,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "Contigo Compounding Pharmacy",
@@ -1773,7 +1759,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "John's Pharmacy",
@@ -1909,7 +1896,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "Menaul Compounding Pharmacy",
@@ -2032,7 +2020,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "Modern Alchemist Compounding Pharmacy",
@@ -2056,7 +2045,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZygnF4B1IocRbk0idxDIFgI",
     "categories": [
       "Pharmacy"
     ],
@@ -2152,12 +2141,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN06GXRCdyFsF1JMENiHEuWxnZSVMIPWvwnMBNM=w421-h240-k-no",
     "kgmid": "/g/11kzkl9p5c",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy Plus",
@@ -2289,9 +2276,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2316,7 +2304,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ25Mde1Z4IocRQ_gDYaAAbN4",
     "categories": [
       "Pharmacy"
     ],
@@ -2446,10 +2434,8 @@
     "kgmid": "/g/11cn96mysr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ASP Cares",
@@ -2512,6 +2498,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "rio_rancho_nm"
   }
 ]

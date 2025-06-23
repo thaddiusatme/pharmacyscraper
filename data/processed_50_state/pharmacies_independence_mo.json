@@ -316,7 +316,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk_XxNIziwIcRDhFibzbh8KQ",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -427,10 +427,8 @@
     "kgmid": "/g/1hdzvq6zs",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "AuBurn Pharmacy",
@@ -553,7 +551,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -685,7 +683,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -847,7 +845,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf-hoIr7iwIcReDfc9davhig",
     "categories": [
       "Pharmacy"
     ],
@@ -968,10 +966,8 @@
     "kgmid": "/g/11c467qb4t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -995,7 +991,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQzBbm14CwYcRR_F3hQaLhes",
     "categories": [
       "Pharmacy"
     ],
@@ -1116,10 +1112,8 @@
     "kgmid": "/g/11c46bfj8m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1144,7 +1138,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKWMNk5XiwIcR-lbSJcxtbps",
     "categories": [
       "Pharmacy"
     ],
@@ -1271,10 +1265,8 @@
     "kgmid": "/g/11cn96r_f7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sterling Pharmacy",
@@ -1503,7 +1495,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.98,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1530,7 +1522,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8Vg5ShYdwYcR9-LreLXf1ok",
     "categories": [
       "Pharmacy"
     ],
@@ -1636,10 +1628,8 @@
     "kgmid": "/g/1td4kn2g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Price Chopper Pharmacy",
@@ -1751,7 +1741,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.96,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1777,7 +1767,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRR1qNS_9wIcRU58CM2pafc0",
     "categories": [
       "Pharmacy"
     ],
@@ -1889,10 +1879,8 @@
     "kgmid": "/g/11c468k1jn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1916,7 +1904,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk5FJFakCwYcR8MYsKkhYjhY",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2032,10 +2020,8 @@
     "kgmid": "/g/1hdz67z0_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2060,7 +2046,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuRUI6K4CwYcRijHPkmzfrAc",
     "categories": [
       "Pharmacy"
     ],
@@ -2184,10 +2170,8 @@
     "kgmid": "/g/11cnbm1qq_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rockhill Pharmacy",
@@ -2427,7 +2411,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJsbPWDtr8wIcRQJGPTLtHGJE",
     "categories": [
       "Pharmacy"
     ],
@@ -2557,10 +2541,8 @@
     "kgmid": "/g/11cn9ck_70",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2586,7 +2568,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMR59Ib7iwIcRH2Z2bFmIuOs",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2802,9 +2784,7 @@
     "kgmid": "/g/1td0bg6v",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

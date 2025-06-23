@@ -573,7 +573,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -689,7 +689,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -814,7 +814,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1061,7 +1061,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJb4z-KGZryYcR3HcO3w38QTE",
     "categories": [
       "Pharmacy"
     ],
@@ -1176,10 +1176,8 @@
     "kgmid": "/g/11c462yf79",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Collier Drug-Willow Creek",
@@ -1348,7 +1346,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN9wvUmZryYcRuLkhEYH_tTI",
     "categories": [
       "Pharmacy"
     ],
@@ -1475,10 +1473,8 @@
     "kgmid": "/g/11cn9665yc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Lowell Pharmacy",
@@ -1780,7 +1776,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJd_Q7M2FryYcRmy-R16a979o",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1896,10 +1892,8 @@
     "kgmid": "/g/11g_0hfk0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Debbie's Family Pharmacy",
@@ -2062,7 +2056,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxSC6gmhryYcRK_a_RWNzqG4",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2275,10 +2269,8 @@
     "kgmid": "/g/11bc7qt7zj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2353,9 +2345,7 @@
     "externalId": null,
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

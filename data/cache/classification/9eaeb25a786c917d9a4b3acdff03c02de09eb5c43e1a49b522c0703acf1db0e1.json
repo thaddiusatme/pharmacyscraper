@@ -1,0 +1,6 @@
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.95,
+    "explanation": "The pharmacy is named 'Specialty Pharmacy' and is located at an address associated with Billings Clinic, a known medical center. The website URL is part of billingsclinic.com, indicating it is affiliated with a hospital or health system rather than an independent or chain retail pharmacy. There is no indication of compounding services in the name or categories."
+}

@@ -632,7 +632,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYarLmQysPIgRdLggaQgWIsA",
     "categories": [
       "Pharmacy",
       "Medical clinic"
@@ -711,12 +711,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqxz8v6LG-J6NbF7DEKsIZFhgk6K1UtT216V5tSwXrTqVShVPRTKYB8Y1wjPdxlKLIpjDw7a2_mp5VCbTm648obWRmZpB85g3X6FadjCQKEckuTUSebRADetjCKefHfkgt9IK4Hlw=w408-h544-k-no",
     "kgmid": "/g/1pp2tl8h_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -740,7 +738,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiXBQ_8-vPIgRg9lawQRKQjM",
     "categories": [
       "Pharmacy"
     ],
@@ -849,10 +847,8 @@
     "kgmid": "/g/11c46824wr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1121,7 +1117,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWzo4_rSvPIgROJl_dFJkxIo",
     "categories": [
       "Pharmacy"
     ],
@@ -1236,10 +1232,8 @@
     "kgmid": "/g/11c462ttr7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Plymouth City Pharmacy",
@@ -1531,7 +1525,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1557,7 +1551,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-XjQYkCuPIgRsRvFMYVonuo",
     "categories": [
       "Pharmacy"
     ],
@@ -1666,10 +1660,8 @@
     "kgmid": "/g/11c0rh05d5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1693,7 +1685,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ5V3POYmvPIgRP5GCRcrkcKc",
     "categories": [
       "Pharmacy"
     ],
@@ -1774,10 +1766,8 @@
     "kgmid": "/g/11ghdq_8r8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Meijer Pharmacy",
@@ -1802,7 +1792,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3SKwOh-wPIgRcfPHLrW4kI0",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -1978,10 +1968,8 @@
     "kgmid": "/g/1tflgxcz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Arbor Lakes Pharmacy",
@@ -2135,7 +2123,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ13XVFTaxPIgRf0Qik56DqLE",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -2299,10 +2287,8 @@
     "kgmid": "/g/1tnbltdb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2327,7 +2313,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_Ydol0CuPIgR1DF8auMrVus",
     "categories": [
       "Pharmacy"
     ],
@@ -2454,10 +2440,8 @@
     "kgmid": "/g/11cn9k662c",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Jensen's Community Pharmacy.",
@@ -2589,7 +2573,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   }

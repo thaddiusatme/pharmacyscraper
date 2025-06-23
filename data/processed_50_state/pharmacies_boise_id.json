@@ -131,7 +131,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Customedica Pharmacy Boise (North End)",
@@ -295,10 +296,11 @@
     "kgmid": "/g/11csb3g7pr",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Mountain Care Pharmacy",
@@ -424,7 +426,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Tandem Pharmacy",
@@ -498,7 +501,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Ivermectin For Humans",
@@ -575,7 +579,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Guardian Pharmacy of Boise",
@@ -681,7 +686,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "St. Luke's Specialty Pharmacy",
@@ -782,12 +788,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bIEjX-8booBxP8I48rT63g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=152.46202&pitch=0&thumbfov=100",
     "kgmid": "/g/11sbt6pt_9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Terry Reilly Health Services Pharmacy - Boise",
@@ -811,7 +818,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD4SnrCr5rlQRhQt0utUXLYE",
     "categories": [
       "Pharmacy"
     ],
@@ -888,12 +895,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-5-KUMGObwopjCO3y8kHSAgUJXx4nueiSvdO4=w408-h272-k-no",
     "kgmid": "/g/11rwzsstym",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Portico Pharmacy",
@@ -1025,9 +1030,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "St. Luke's Retail Pharmacy: Boise, Bannock St",
@@ -1137,12 +1143,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WcXefI1O_mTbq2oea6KtTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=28.828651&pitch=0&thumbfov=100",
     "kgmid": "/g/11gyf80zh9",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Full Circle Health - Emerald Pharmacy",
@@ -1166,7 +1173,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMemp_TJXrlQR_Dv9RXNL6f0",
     "categories": [
       "Pharmacy"
     ],
@@ -1235,12 +1242,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOIyO2mGwy9Iv1Uc-DSkyzaXJIIHhB4FNnVZp2=w408-h393-k-no",
     "kgmid": "/g/11sczvqnl5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Connect Pharmaceuticals",
@@ -1313,9 +1318,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.7,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "CVS Pharmacy",
@@ -1339,7 +1345,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFap8so9XrlQR2ri0oZS3Dc8",
     "categories": [
       "Pharmacy"
     ],
@@ -1460,10 +1466,8 @@
     "kgmid": "/g/11fjs6zj63",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "The Prescription Pad",
@@ -1614,7 +1618,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Customedica Pharmacy Eagle",
@@ -1765,10 +1770,11 @@
     "kgmid": "/g/1tf23t9p",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Connect Pharmaceuticals",
@@ -1880,7 +1886,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1904,7 +1911,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ14ix31r4rlQRmkIW3ZDojBM",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2013,10 +2020,8 @@
     "kgmid": "/g/1tflm4l4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hollis Family Rx",
@@ -2136,9 +2141,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.93,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   },
   {
     "title": "Reddish Pharmacy",
@@ -2258,9 +2264,10 @@
     "kgmid": "/g/1v3hzq3v",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "boise_id"
   }
 ]

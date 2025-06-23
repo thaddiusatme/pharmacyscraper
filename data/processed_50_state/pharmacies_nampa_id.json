@@ -117,10 +117,11 @@
     "kgmid": "/g/1v3hzq3v",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "St. Luke's Retail Pharmacy: Nampa",
@@ -227,12 +228,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYQQYokHEYDC2zp9yl1BzkDvuBkrxpBY7MLP58=w408-h332-k-no",
     "kgmid": "/g/11gyf813f5",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Vic's Family Pharmacy",
@@ -365,7 +367,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Vic's Family Pharmacy - Midland Blvd",
@@ -496,7 +499,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Full Circle Health - Nampa Pharmacy",
@@ -520,7 +524,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFcfVPqZLrlQR47QKdbTr6p8",
     "categories": [
       "Pharmacy"
     ],
@@ -589,12 +593,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWa4f9ag37c7U93CYN13MyfkDD1dpv97MqEydN=w408-h306-k-no",
     "kgmid": "/g/11tnlbb077",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sav-On Pharmacy",
@@ -705,9 +707,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Terry Reilly Health Services Pharmacy - Nampa",
@@ -731,7 +734,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX4SiqGZMrlQRd5RpPIUUAaQ",
     "categories": [
       "Pharmacy"
     ],
@@ -810,12 +813,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPErpbJxG9ipbZajdI1TFhB-YQrYC2YEOFX2ggP=w408-h272-k-no",
     "kgmid": "/g/11f30dw0jt",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -840,7 +841,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVdfqXG1MrlQRRbgbxwwS-DA",
     "categories": [
       "Pharmacy"
     ],
@@ -976,10 +977,8 @@
     "kgmid": "/g/11cn96r_d_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -1003,7 +1002,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg_voPWJMrlQREdoOb8prraw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1125,10 +1124,8 @@
     "kgmid": "/g/1pv608pz_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1153,7 +1150,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIco4ML9MrlQRMrUPm3n4Su0",
     "categories": [
       "Pharmacy"
     ],
@@ -1259,10 +1256,8 @@
     "kgmid": "/g/1tf9y451",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1286,7 +1281,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJs6d6gnJMrlQRKPoGDBrV8xI",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1395,10 +1390,8 @@
     "kgmid": "/g/1tsyjxxx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "TRHS Pharmacy",
@@ -1495,12 +1488,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y50rZE1-6sXdD7ntYIYoaQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=354.24277&pitch=0&thumbfov=100",
     "kgmid": "/g/1v830v3n",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Med Now Pharmacy",
@@ -1598,12 +1592,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7Hi7ggQM5TPsz1EDX3InxlaIQtUHu2ZYgTHIk3jni5T--ZdXblip6Br3eUnHLvZxXrF3EFbEsYZSOTsHamOR4KhzyzFQ4cJ1YS7cXJ5gT1PYu_nSDUbMVszxwo03m8cZO-7O9Wg=w408-h905-k-no",
     "kgmid": "/g/11h_cl97ry",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1628,7 +1623,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJC80YDJpMrlQRL_ZbhtBPFI8",
     "categories": [
       "Pharmacy"
     ],
@@ -1755,10 +1750,8 @@
     "kgmid": "/g/11cn96myr6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1782,7 +1775,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7-63OKJLrlQR94D9yxmSV_E",
     "categories": [
       "Pharmacy"
     ],
@@ -1848,10 +1841,8 @@
     "kgmid": "/g/11vqhpr73p",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.8,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1876,7 +1867,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl39svllJrlQRV61s5_jlsvo",
     "categories": [
       "Pharmacy"
     ],
@@ -1961,10 +1952,8 @@
     "kgmid": "/g/11q3_qcnk3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1988,7 +1977,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ8e22RlpJrlQRzlkcm4N7Ro0",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2097,10 +2086,8 @@
     "kgmid": "/g/11cjkvx7k8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mountain Care Pharmacy",
@@ -2233,7 +2220,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   },
   {
     "title": "Custom Rx Pharmacy",
@@ -2370,6 +2358,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "nampa_id"
   }
 ]

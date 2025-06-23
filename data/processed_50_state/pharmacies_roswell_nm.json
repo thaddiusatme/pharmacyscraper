@@ -121,7 +121,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "Albertsons Market Pharmacy",
@@ -145,7 +146,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpzsUWitp4oYRD9LPZRSxzoQ",
     "categories": [
       "Pharmacy"
     ],
@@ -229,10 +230,8 @@
     "kgmid": "/g/1tghq0l7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -258,7 +257,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0Y5NRrdv4oYRlv_GiIvkLBY",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -469,10 +468,8 @@
     "kgmid": "/g/11gnnx80kx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Market Pharmacy",
@@ -496,7 +493,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJO6z2xcVu4oYRIqp-qu2nbVg",
     "categories": [
       "Pharmacy"
     ],
@@ -583,10 +580,8 @@
     "kgmid": "/g/11cs3khv6n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -612,7 +607,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj0M3hqZv4oYRi3K9mT6IQbk",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -823,10 +818,8 @@
     "kgmid": "/g/1tq6dygn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -850,7 +843,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJi87qvgxv4oYROKO542yZH4Q",
     "categories": [
       "Pharmacy"
     ],
@@ -962,10 +955,8 @@
     "kgmid": "/g/11fj852k12",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -990,7 +981,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJb3GdCtp4oYRaM1iy0dAaDw",
     "categories": [
       "Pharmacy"
     ],
@@ -1120,10 +1111,8 @@
     "kgmid": "/g/11cn94mbbd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1148,7 +1137,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR8pA1_xu4oYRROGbZXodaeg",
     "categories": [
       "Pharmacy"
     ],
@@ -1278,10 +1267,8 @@
     "kgmid": "/g/11cn976nfk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1305,7 +1292,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJ2eQKQ524oYRS1cRxt-vSGk",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1418,10 +1405,8 @@
     "kgmid": "/g/11r8_w505",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -1550,7 +1535,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "Walgreens",
@@ -1576,7 +1562,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJcUHCStp4oYR2WZYh1098Ec",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1787,10 +1773,8 @@
     "kgmid": "/g/1tj1sjqj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Red Apple Pharmacy",
@@ -1930,9 +1914,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "The Medicine Shop",
@@ -1996,12 +1981,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VWc6jrUSrdklQaDs1qDpNA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=355.7193&pitch=0&thumbfov=100",
     "kgmid": "/g/1tcvjjxf",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "Kelley Nutrition",
@@ -2105,12 +2091,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-zrHxBO-o1ZsHj7peRoAFA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=34.352264&pitch=0&thumbfov=100",
     "kgmid": "/g/1tmxrghd",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "ApothiCare 360 Compounding Pharmacy",
@@ -2247,7 +2234,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "Roden-Smith Pharmacy",
@@ -2399,7 +2387,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "roswell_nm"
   },
   {
     "title": "CVS Pharmacy",
@@ -2474,9 +2463,7 @@
     "externalId": null,
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

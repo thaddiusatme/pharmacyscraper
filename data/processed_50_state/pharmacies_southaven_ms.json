@@ -128,7 +128,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMcQ4Y-6Lf4gRuzkid8IOGtc",
     "categories": [
       "Pharmacy",
       "Doctor",
@@ -216,12 +216,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtEhVSZ92HgKsWBx9RfRZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=271.52585&pitch=0&thumbfov=100",
     "kgmid": "/g/1261ldptp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Advance Pharmacy Solutions",
@@ -243,7 +241,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPYpCQ-aJf4gRllvVJxW_4xE",
     "categories": [
       "Pharmacy"
     ],
@@ -312,12 +310,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WSfCMW3g1w7uF8K7uz1CiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.05728&pitch=0&thumbfov=100",
     "kgmid": "/g/1wb8vg3r",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -341,7 +337,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSZuO-O-Jf4gROb1tvkZDcu0",
     "categories": [
       "Pharmacy"
     ],
@@ -459,10 +455,8 @@
     "kgmid": "/g/11c460bhzc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Mike's Pharmacy",
@@ -612,7 +606,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-ZeTtpqJf4gR_XjAJ55yqCc",
     "categories": [
       "Pharmacy"
     ],
@@ -742,10 +736,8 @@
     "kgmid": "/g/11px6gjgp6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -899,7 +891,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJN1gJ0Hxi1YcRpnwp9KFkn2Y",
     "categories": [
       "Pharmacy"
     ],
@@ -1032,10 +1024,8 @@
     "kgmid": "/g/11cn96kxsv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1059,7 +1049,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJGzH4Qm6Lf4gRpUIQUxJ1TxU",
     "categories": [
       "Pharmacy"
     ],
@@ -1180,10 +1170,8 @@
     "kgmid": "/g/11c467wlt1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "GetWell Pharmacy #3100 of Olive Branch",
@@ -1315,10 +1303,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrohve5jaZb6eL8ogh50jyjzSBKx3Wsjr3SFiiU9X9KXnyAN4T83fnNj1s8S3UFqO3yUxSIyEwUk1Nvj0tFjQgSgfasFNXcTUtrUPJp7Ia65JVecUEvU1C35OPR4VEn_km1rxd1=w408-h541-k-no",
     "kgmid": "/g/11fll6kv0y",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1344,7 +1332,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAQDAzxKOf4gRk7J-QVoXD9A",
     "categories": [
       "Pharmacy"
     ],
@@ -1384,12 +1372,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3M05mT8hdDyz_VYetjPRqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.496866&pitch=0&thumbfov=100",
     "kgmid": "/g/11kc8m9fxj",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Kroger Pharmacy",
@@ -1413,7 +1399,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJO5HnWUWJf4gR39IaIL4KSZE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1575,10 +1561,8 @@
     "kgmid": "/g/1tfjlwxm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Phipps Pharmacy",
@@ -1740,7 +1724,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1865,7 +1849,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrza_iM2Jf4gRabv7IQleZXk",
     "categories": [
       "Pharmacy"
     ],
@@ -1995,10 +1979,8 @@
     "kgmid": "/g/11cnbm1qpr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -2022,7 +2004,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCa2XvPyJf4gRp_bejlKGJno",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2141,10 +2123,8 @@
     "kgmid": "/g/1hf21882h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Haven Drugs",

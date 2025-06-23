@@ -14,20 +14,26 @@ class Classifier:
     Classifies pharmacies using a combination of rules and a Perplexity API client.
     """
 
-    def __init__(self, perplexity_client_or_api_key=None, cache_dir: Optional[str] = "data/cache/classification"):
+    def __init__(self, perplexity_client_or_api_key=None, cache_dir: Optional[str] = "data/cache/classification", force_reclassification: bool = False):
         """
         Initializes the Classifier.
 
         Args:
             perplexity_client_or_api_key: Either a PerplexityClient instance or an API key string.
             cache_dir: The directory to store cache files for the Perplexity client (only used if creating new client).
+            force_reclassification: If True, ignores cached results and re-queries the API.
         """
         if isinstance(perplexity_client_or_api_key, PerplexityClient):
             # Use the provided PerplexityClient instance
             self.perplexity_client = perplexity_client_or_api_key
+            self.perplexity_client.force_reclassification = force_reclassification
         else:
             # Create a new PerplexityClient with the provided api_key (or None)
-            self.perplexity_client = PerplexityClient(api_key=perplexity_client_or_api_key, cache_dir=cache_dir)
+            self.perplexity_client = PerplexityClient(
+                api_key=perplexity_client_or_api_key, 
+                cache_dir=cache_dir, 
+                force_reclassification=force_reclassification
+            )
         # Simple rule-based check for major chains
         self.chain_keywords = ['cvs', 'walgreens', 'rite aid', 'walmart', 'costco', 'kroger', 'safeway', 'albertsons']
 

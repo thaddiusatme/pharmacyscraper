@@ -106,7 +106,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Value Pharmacy",
@@ -236,7 +237,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Monicos Pharmacy",
@@ -419,7 +421,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Community Care Pharmacy",
@@ -544,7 +547,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Tango Pharmacy",
@@ -696,7 +700,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Elite Rx Compounding Pharmacy and Wellness Store",
@@ -822,7 +827,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Always Your Pharmacy",
@@ -970,7 +976,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Alto Pharmacy",
@@ -1123,12 +1130,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUjBxGrYISfoPHQd2BxLu0d5FfZs-CU-eoqK5Z=w408-h306-k-no",
     "kgmid": "/g/11j79shs2_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Vegas Pharmacy",
@@ -1255,9 +1263,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Apotheco Pharmacy Choice Las Vegas",
@@ -1382,7 +1391,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Vesper Specialty Pharmacy",
@@ -1531,7 +1541,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "West Cheyenne Pharmacy",
@@ -1555,7 +1566,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfdh2zAeVyIARpx2GGqApBIE",
     "categories": [
       "Pharmacy"
     ],
@@ -1666,12 +1677,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFrOqyTHsbikljP0ZnPO7vqshbukoLKWONghX8zKN8tNBer2-cCJ4hZ4qVVpuYw1z3cSVX9alXB3uSyjMxLuLbbA7dwW8db5XimknsudoCjNt_LRUbvmoz1h-_0qhAaXq1ENtE=w408-h544-k-no",
     "kgmid": "/g/11gg65z3kg",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "All In One Pharmacy",
@@ -1788,9 +1797,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "AHF Pharmacy - Las Vegas",
@@ -1899,7 +1909,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "ACRX Specialty Pharmacy",
@@ -2030,7 +2041,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Meta Pharmacy Services",
@@ -2159,7 +2171,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Aaron Pharmacy Inc",
@@ -2281,7 +2294,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "A Pharmacy",
@@ -2349,7 +2363,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   },
   {
     "title": "Smith's Pharmacy",
@@ -2373,7 +2388,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjWJ6GszryIARlQhcJCY-oZM",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2538,10 +2553,8 @@
     "kgmid": "/g/1tf60krx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sahara Specialty Pharmacy",
@@ -2673,6 +2686,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "north_las_vegas_nv"
   }
 ]

@@ -978,7 +978,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHTzpXJzpwIcRKpTpUPtP5_I",
     "categories": [
       "Pharmacy"
     ],
@@ -1063,12 +1063,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMl8jro1CsmaqnKeGI_EP0lJr0OWceJkQJGLGSS=w426-h240-k-no",
     "kgmid": "/g/11fz9x7cw8",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "iPharma Community Pharmacy",
@@ -1271,7 +1269,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1420,7 +1418,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2022,7 +2020,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ48IaW7qUwIcRVMfOF0AS3BA",
     "categories": [
       "Pharmacy",
       "Nutritionist",
@@ -2150,12 +2148,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIkHl4z4WAVskBVukE_FLBDrTTJnJ_JhEzqKJS=w408-h306-k-no",
     "kgmid": "/g/1tlz_q2n",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mt. Vernon HomeTown Pharmacy",
@@ -2428,7 +2424,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

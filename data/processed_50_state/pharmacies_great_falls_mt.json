@@ -169,7 +169,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Plaza United Pharmacy",
@@ -281,7 +282,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Alluvion Health Pharmacy",
@@ -305,7 +307,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcb4unOk3QlMRZjsAcb1e7M0",
     "categories": [
       "Pharmacy"
     ],
@@ -374,12 +376,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNPKG-8ZnwZUDbjbRetpCxXyownw9Wbjb5IxkKD=w408-h306-k-no",
     "kgmid": "/g/11s6j3v8cb",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "PharMerica \u2013 Montana",
@@ -476,7 +476,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Public Drug Co.",
@@ -597,9 +598,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Smith's Pharmacy",
@@ -623,7 +625,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbyGMx0BIQlMRmecdfI1XIAE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -750,10 +752,8 @@
     "kgmid": "/g/1yfh_j2f0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "PharMerica- Great Falls, MT (Formerly Big Sky Managed Care)",
@@ -870,7 +870,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "CVS Pharmacy",
@@ -894,7 +895,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3-KWM7s3QlMRIjijJwhI9vE",
     "categories": [
       "Pharmacy"
     ],
@@ -1012,10 +1013,8 @@
     "kgmid": "/g/11c462tv85",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1040,7 +1039,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJy76FGB84QlMRog5kWmoU50w",
     "categories": [
       "Pharmacy"
     ],
@@ -1170,10 +1169,8 @@
     "kgmid": "/g/11cn93lgxz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1197,7 +1194,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVS-aMx84QlMRNub3X1m83yQ",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1306,10 +1303,8 @@
     "kgmid": "/g/1tnmrc_0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albertsons Pharmacy",
@@ -1333,7 +1328,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpeuyGaU3QlMRSYJ9C_j4iK8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1439,10 +1434,8 @@
     "kgmid": "/g/1vm7b3hp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1468,7 +1461,7 @@
     "totalScore": 2.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOXZjTIYPLYcRzBjHiPhO4Jw",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1686,10 +1679,8 @@
     "kgmid": "/g/1tgwn4y7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Taylor Drug",
@@ -1832,7 +1823,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Walgreens",
@@ -1858,7 +1850,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQdXhEDh9UocRS-5RcHip9JE",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2072,10 +2064,8 @@
     "kgmid": "/g/1tyzzgjj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bloomfield Drug Store",
@@ -2204,9 +2194,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.92,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   },
   {
     "title": "Walgreens",
@@ -2232,7 +2223,7 @@
     "totalScore": 2.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD9wbQ1hPVVMRCg6O03DHkkU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2451,10 +2442,8 @@
     "kgmid": "/g/1tghp7ss",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Crestwood Pharmacy",
@@ -2576,6 +2565,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "great_falls_mt"
   }
 ]

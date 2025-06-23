@@ -143,7 +143,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Pharmacy Express in Tower Plaza",
@@ -274,9 +275,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Precision Compounding Pharmacy",
@@ -416,7 +418,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "J Kohll RX Compounding",
@@ -573,7 +576,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Redlers LTC Pharmacy",
@@ -680,9 +684,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "ViaRx Pharmacy",
@@ -835,9 +840,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Neighborhood LTC Pharmacy",
@@ -945,7 +951,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Atlas RX Pharmacy",
@@ -1073,7 +1080,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1097,7 +1105,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJt4NoCDKMk4cRaQ-s_c7n0M8",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1218,10 +1226,8 @@
     "kgmid": "/g/1hf00lcv4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medicine Man Pharmacy",
@@ -1370,7 +1376,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Baker's Pharmacy",
@@ -1522,12 +1529,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMRTl7u90zCcaJlF88eZfsTfFvaka1VqxEtSJAu=w426-h240-k-no",
     "kgmid": "/g/1td72hg8",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -1656,7 +1664,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Oak Creek Pharmacy Llc",
@@ -1751,9 +1760,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "CHI Health Pharmacy (Immanuel Hospital)",
@@ -1777,7 +1787,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl8CCx1WSk4cRnk8ZV2dhkNM",
     "categories": [
       "Pharmacy"
     ],
@@ -1864,12 +1874,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMmxuht4-SriYRczD8VOjz7z7KF7P2XqjlJThqN=w426-h240-k-no",
     "kgmid": "/g/1wg5yhq5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Nebraska Medicine Pharmacy at Lauritzen Outpatient Center",
@@ -1967,12 +1975,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7C_UecAC1z5rGF8iMqtQlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.127121&pitch=0&thumbfov=100",
     "kgmid": "/g/11fj5np5yw",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "CHI Health Pharmacy (132nd and W Center)",
@@ -1996,7 +2005,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCcrYALLzk4cRhhrl5dcHLR0",
     "categories": [
       "Pharmacy"
     ],
@@ -2081,12 +2090,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN8ZjcOKsuHPTWQc6aeQkJDm7I9KlJCS9DngvyJ=w441-h240-k-no",
     "kgmid": "/g/1pv615t2q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Baker's Pharmacy",
@@ -2238,12 +2245,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOT_li2_ElYHgvsVQZ28t3qe0YEVNyZWz5iKlNE=w426-h240-k-no",
     "kgmid": "/g/11cjg91mdv",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "OneWorld Pharmacy",
@@ -2358,12 +2366,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOTI7mNgN0GHnwn3MDn9SGJYXJ0uw7ILVzQT_1ZBg9WTFk6Yw1RhHIBwmRyLPKXIkfmq9RtcPMLYdtOW5JB4ijyvGCgS81K3nHbTH_PHPGyH4SI9Aybr1FC4rIASPB7zOtViG6=w408-h333-k-no",
     "kgmid": "/g/1vfzfp1q",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   },
   {
     "title": "Nebraska Medicine Centralized Services",
@@ -2431,11 +2440,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ELfbsijEVz0GaWYRbDfSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=285.86163&pitch=0&thumbfov=100",
     "kgmid": "/g/11w38b40sq",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "omaha_ne"
   }
 ]

@@ -175,7 +175,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Longs Drugs Pharmacy",
@@ -299,7 +300,8 @@
     "is_compounding": false,
     "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Longs Drugs",
@@ -478,9 +480,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -609,7 +612,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Longs Drugs Pharmacy",
@@ -746,9 +750,10 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.98,
+    "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Walmart Pharmacy",
@@ -772,7 +777,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCw2rhA1mAHwRP6uZ6aAewx4",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -888,10 +893,8 @@
     "kgmid": "/g/1wbrx_cy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Times Pharmacy Waimalu",
@@ -1009,7 +1012,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   },
   {
     "title": "Longs Drugs",
@@ -1218,8 +1222,9 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "pearl_city_hi"
   }
 ]

@@ -154,12 +154,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMWgUHtE9zDgyYsIyl4q1HkULqTNoaBNGgrwC5x=w426-h240-k-no",
     "kgmid": "/g/1tctlf98",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "We Care Products",
@@ -249,7 +250,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "Essentia Health-West Duluth Pharmacy",
@@ -273,7 +275,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw6f8_rRNrlIRpVqqYd9Buho",
     "categories": [
       "Pharmacy"
     ],
@@ -359,12 +361,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPPKHclQ3CNfK73_1ZOt2Fat954omtwM0veUvE=w427-h240-k-no",
     "kgmid": "/g/1tfmhg3w",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Falk's Pharmacies",
@@ -473,7 +473,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "Duluth pharmacy",
@@ -662,9 +663,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "Center For American Indian Resources Pharmacy",
@@ -756,12 +758,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrC-KA0XA7J4vkyi1DpNqYH9l5Y0vto5eyNPF6okjpmMcNzvIGtCnr-Z01T5rU_Cg8ec1CCVQtelIvNOjw9Ygt6Y7qK8mN4SUFj6TDwkWnHBxaCCiHfHc3BzVl4uPZg754tDdH4MQ=w408-h240-k-no-pi0-ya254.00002-ro-0-fo100",
     "kgmid": "/g/11rvjthzrj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "White Drug Pharmacy",
@@ -879,12 +882,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKeXrgjEuGSR5fR5Sps60EfacMEIb7paahjRwC=w408-h304-k-no",
     "kgmid": "/g/1tj4yc72",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -909,7 +913,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz-lEhzVMrlIRgkD2N5Y9ddo",
     "categories": [
       "Pharmacy"
     ],
@@ -1048,10 +1052,8 @@
     "kgmid": "/g/11cn931vlx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Duluth 3rd Street Pharmacy (Building F)",
@@ -1075,7 +1077,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfSpiFcdSrlIR-xhpVBLJbPE",
     "categories": [
       "Pharmacy"
     ],
@@ -1167,12 +1169,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1TJsEVrqG25ZW6UAdj-erqvXaWjxDjN6UaxY3AUsIiUMFKbJbzyJafpth3yq4Qm7qF1LtdwJEREpIeW-faCRxVW83vhfyaABT0iaJgTVzVTTWOXZMUcvSh3U3l3pPZEaKFK04=w408-h725-k-no",
     "kgmid": "/g/11c3k6g35z",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare Duluth",
@@ -1196,7 +1196,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJReZ9rdZSrlIRW-U0g7jU10U",
     "categories": [
       "Pharmacy",
       "Doctor"
@@ -1268,10 +1268,8 @@
     "kgmid": "/g/1tvgtzz2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Duluth 2nd Street Pharmacy (Building B)",
@@ -1295,7 +1293,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH_6MihhTrlIR48YmqleIwiw",
     "categories": [
       "Pharmacy"
     ],
@@ -1372,12 +1370,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EktPMrTRbMmSMp4WRinbsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.9729&pitch=0&thumbfov=100",
     "kgmid": "/g/11v5981_hz",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -1401,7 +1397,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJe_gY2LNTrlIR5YvYK3IcQbw",
     "categories": [
       "Pharmacy"
     ],
@@ -1467,10 +1463,8 @@
     "kgmid": "/g/11fd67c9fm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Duluth 1st Street Pharmacy (Building A)",
@@ -1494,7 +1488,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj6uuqL5SrlIRuyy_pN4h2Wk",
     "categories": [
       "Pharmacy"
     ],
@@ -1583,12 +1577,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMeJuBOmWBYkjcx5eMM4DXbBbndZHCSiLXScdat=w425-h240-k-no",
     "kgmid": "/g/1261vbjl4",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Miller Hill Pharmacy",
@@ -1612,7 +1604,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ6w2FS5azr1IRwcN4j4zbEfM",
     "categories": [
       "Pharmacy"
     ],
@@ -1689,12 +1681,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqkZlCl8Mw12OV8e5SVX_4ctBqO-O3iiUcj1N8aYypnNxtC7JwmslEAYIVwghWorP3objxYQ9jevl9lylamp5YnNOioHS3_wybnyJxI9_RuDCn9zXxVuF2LhE-tm9jmhDGtHpV=w458-h240-k-no",
     "kgmid": "/g/11s900k3s3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Lakewalk Pharmacy",
@@ -1718,7 +1708,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJh0xiOdZSrlIR-sC4xUYm2LM",
     "categories": [
       "Pharmacy"
     ],
@@ -1807,12 +1797,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-kfiHgeate5fD_zgq0YLcNxcR90qvxO8fhKg3=w512-h240-k-no",
     "kgmid": "/g/1hc6jgxxm",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1837,7 +1825,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBYZh-NBSrlIRJXu9MJw_bG4",
     "categories": [
       "Pharmacy"
     ],
@@ -1976,10 +1964,8 @@
     "kgmid": "/g/11cn941zr1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2003,7 +1989,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ87gKjS6zr1IR6AX5yPitI18",
     "categories": [
       "Pharmacy"
     ],
@@ -2106,10 +2092,8 @@
     "kgmid": "/g/1hc0xlcyc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Essentia Health-Lakeside Pharmacy",
@@ -2133,7 +2117,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAepWG2err1IRD5HCsZrUluQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2225,12 +2209,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN3rCTs2SnDZzds97D-V7LaSblk_lNE5qUmPp0c=w428-h240-k-no",
     "kgmid": "/g/12hrmfth7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Cub Pharmacy",
@@ -2341,7 +2323,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   },
   {
     "title": "LTC Prescription Providers",
@@ -2465,6 +2448,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "duluth_mn"
   }
 ]

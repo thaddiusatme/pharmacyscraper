@@ -1,0 +1,6 @@
+{
+    "classification": "hospital",
+    "is_compounding": false,
+    "confidence": 0.95,
+    "explanation": "Miller Drug is listed on the Northern Light Health system website, indicating it is affiliated with a health system and thus classified as a hospital pharmacy. There is no indication from the name, categories, or website that it is a compounding pharmacy."
+}

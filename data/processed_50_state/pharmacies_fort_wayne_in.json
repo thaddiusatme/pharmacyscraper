@@ -85,7 +85,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -111,7 +111,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ84sbcqr8FYgRN4Iwe4nIqWY",
     "categories": [
       "Pharmacy"
     ],
@@ -213,12 +213,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNnkbu3KCalyTKFlxyCyU8TO0lDbjFpLF20B-RT=w408-h544-k-no",
     "kgmid": "/g/11bwhb4ks2",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fort Wayne Custom Rx",
@@ -358,7 +356,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.92,
     "source": "perplexity",
     "method": "llm"
   },
@@ -525,7 +523,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmeof8u7mFYgRGnrr8z_oeAM",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -693,10 +691,8 @@
     "kgmid": "/g/1vnnj_pr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Meijer Pharmacy",
@@ -720,7 +716,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXx-BvCoHFogRcLpYh9kJttA",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -882,10 +878,8 @@
     "kgmid": "/g/11sx08nct9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Parkview Outpatient Pharmacy",
@@ -949,10 +943,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrYSBv-_fcTJ-VFC1KG1UdeT91dTynJ8TI5ULZay-vCNUTVsPoXPk23_uMGPOtBsV6_K7MuhTSywwctA-v18WC4VRdQqJ6ubZtoJ-DQ_dULbj1WqESZsIMQXqMKJspJ7QBWvbI=w408-h544-k-no",
     "kgmid": "/g/11gjnrh5p6",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -978,7 +972,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJH78svYj-FYgRnGc4UiuhoHU",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -1129,10 +1123,8 @@
     "kgmid": "/g/1ptwcnj_x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Parkview Outpatient Pharmacy",
@@ -1196,10 +1188,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrxy-9-LPmbbATMEtkUALoVDzAEQEMoz7krJi47SCx2PzGxtI4fMPcXLW1KBKFl_mZm0jxC3KiNbJC3O8dftv_DlAUPzuIq77Yc50TdfcjAhxXgJqWsTFGOM2EwxOoq7Pp_bCg=w408-h544-k-no",
     "kgmid": "/g/11vhrs25f2",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1225,7 +1217,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJA6K_sFnmFYgRaHg4u_S8Lo4",
     "categories": [
       "Pharmacy"
     ],
@@ -1337,10 +1329,8 @@
     "kgmid": "/g/11c468bfs1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1365,7 +1355,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIf5JkojdFYgR68dgh_oDaIs",
     "categories": [
       "Pharmacy"
     ],
@@ -1495,10 +1485,8 @@
     "kgmid": "/g/11cn95zldv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1523,7 +1511,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIxxSPfXlFYgRzXK_zZ3Ww-c",
     "categories": [
       "Pharmacy"
     ],
@@ -1650,10 +1638,8 @@
     "kgmid": "/g/11cn95zlfy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1678,7 +1664,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJUQ-8jZflFYgRomhQ9ezoKTQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1808,10 +1794,8 @@
     "kgmid": "/g/11f5q9gq31",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1835,7 +1819,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJnY-6BZ7iFYgRggpjFeJNnf8",
     "categories": [
       "Pharmacy"
     ],
@@ -1950,10 +1934,8 @@
     "kgmid": "/g/11c4673qyp",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Kellstrom Pharmacy",
@@ -2233,7 +2215,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },

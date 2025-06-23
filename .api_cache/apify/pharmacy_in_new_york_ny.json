@@ -1,0 +1,1081 @@
+[
+  {
+    "title": "New York City Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "206 1st Ave, New York, NY 10009",
+    "neighborhood": "Manhattan",
+    "street": "206 1st Ave",
+    "city": "New York",
+    "postalCode": "10009",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.nycprx.com/",
+    "phone": "(212) 253-8686",
+    "phoneUnformatted": "+12122538686",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7302143,
+      "lng": -73.9830656
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvYOo_51ZwokRcAqBgoEZR5U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2599dffa883bd:0x9547198182810a70",
+    "cid": "10756594279028689520",
+    "reviewsCount": 80,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.020Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20City%20Pharmacy&query_place_id=ChIJvYOo_51ZwokRcAqBgoEZR5U",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaC8WCd5IGJabYlelfHz7RlxtSAIykFTdXEQ1bEVNLKaaV3Gr-TxtT2dRIHOEJq4vr73O_sECNTbpopz37KzOxUDL8F0PuPfJITKTJ-C0f7oe50Ban76j_UW5m3RHzGf0GToo=w408-h544-k-no",
+    "kgmid": "/g/1trvmbs8"
+  },
+  {
+    "title": "Village Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "407 Bleecker St, New York, NY 10014",
+    "neighborhood": "Manhattan",
+    "street": "407 Bleecker St",
+    "city": "New York",
+    "postalCode": "10014",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://villageapothecary.com/",
+    "phone": "(212) 807-7566",
+    "phoneUnformatted": "+12128077566",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7362096,
+      "lng": -74.0050286
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFZvam5RZwokRFTN9DvQICqs",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c259949bda9b15:0xab0a08f40e7d3315",
+    "cid": "12324673174560912149",
+    "reviewsCount": 169,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.022Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Apothecary&query_place_id=ChIJFZvam5RZwokRFTN9DvQICqs",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJFpfj4f9J4RgWoT_5xYVAa0MXRHxkMeFxX1jO=w408-h446-k-no",
+    "kgmid": "/g/1tg_x_mh"
+  },
+  {
+    "title": "Southbridge Pharmacy Inc.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "80 Beekman St, New York, NY 10038",
+    "neighborhood": "Manhattan",
+    "street": "80 Beekman St",
+    "city": "New York",
+    "postalCode": "10038",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 786-5840",
+    "phoneUnformatted": "+12127865840",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7090301,
+      "lng": -74.0041472
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL6ZXLPJbwokRsoW9du9AVAo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25bf22c57a62f:0xa5440ef76bd85b2",
+    "cid": "744291235656467890",
+    "reviewsCount": 64,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.022Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 8:30 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Southbridge%20Pharmacy%20Inc.&query_place_id=ChIJL6ZXLPJbwokRsoW9du9AVAo",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNB0A0Gktv9rOGdISJ7GtG-Hw3XU1YZPHHFz-GN=w408-h306-k-no",
+    "kgmid": "/g/11ln1vhy58"
+  },
+  {
+    "title": "Danny's Pharmacy II",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "110 W End Ave, New York, NY 10023",
+    "neighborhood": "Manhattan",
+    "street": "110 W End Ave",
+    "city": "New York",
+    "postalCode": "10023",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.dannyspharmacy2.com/",
+    "phone": "(212) 362-0000",
+    "phoneUnformatted": "+12123620000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7748695,
+      "lng": -73.9877319
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2RIvRCRZwokRtDvBSiNAPCk",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Fax service",
+      "Herbal medicine store",
+      "Notary public",
+      "Surgical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c25924442f12d9:0x293c40234ac13bb4",
+    "cid": "2971320374479895476",
+    "reviewsCount": 90,
+    "imagesCount": 72,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.023Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid parking garage": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Danny's%20Pharmacy%20II&query_place_id=ChIJ2RIvRCRZwokRtDvBSiNAPCk",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOma8DeF27vOYQtGzfQk1146hB25D0x0RauUaqB=w408-h544-k-no",
+    "kgmid": "/g/11fd73y8m9"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "51 W 51st St, New York, NY 10019",
+    "neighborhood": "Manhattan",
+    "street": "51 W 51st St",
+    "city": "New York",
+    "postalCode": "10019",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/",
+    "phone": "(212) 582-8525",
+    "phoneUnformatted": "+12125828525",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7600803,
+      "lng": -73.9785751
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVbf2R_lYwokRzR4kPPxtY1Q",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c258f947f6b755:0x54636dfc3c241ecd",
+    "cid": "6080824851988487885",
+    "reviewsCount": 51,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.023Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 11 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJVbf2R_lYwokRzR4kPPxtY1Q",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np9HylZvH1LBnqe0X7XouJDwWiaHthDtpROa64GD3ffRYFfqxjSMqhQeMg8RhIq-FLom3vn_OEizsUZo8H36IG71tM_hpM5YB3djlPYW2YR1vJP9wKBpPCLI4-h9gU5FZHh-YXm=w408-h408-k-no",
+    "kgmid": "/g/11tfnhh9yg"
+  },
+  {
+    "title": "Manhattan Apothecary by Apotheco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "147 W 35th St, New York, NY 10001",
+    "neighborhood": "Manhattan",
+    "street": "147 W 35th St",
+    "city": "New York",
+    "postalCode": "10001",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.apothecopharmacy.com/location/manhattan-apothecary/?utm_source=GMBlisting&utm_medium=organic",
+    "phone": "(212) 302-0600",
+    "phoneUnformatted": "+12123020600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7514224,
+      "lng": -73.9891642
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf1HjBqxZwokRjc-A4_4BzyU",
+    "categories": [
+      "Pharmacy",
+      "Wellness center"
+    ],
+    "fid": "0x89c259ac06e3517f:0x25cf01fee380cf8d",
+    "cid": "2724398493832630157",
+    "reviewsCount": 866,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.023Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Apothecary%20by%20Apotheco%20Pharmacy&query_place_id=ChIJf1HjBqxZwokRjc-A4_4BzyU",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMuOPf2Ok15PVwvJsUqqTI6kR4aKO9HnRjXHP8z=w408-h257-k-no",
+    "kgmid": "/g/11f_2n_120"
+  },
+  {
+    "title": "Broadway Chemists",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2350 Broadway, New York, NY 10024",
+    "neighborhood": "Manhattan",
+    "street": "2350 Broadway",
+    "city": "New York",
+    "postalCode": "10024",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.broadwaychemists.com/",
+    "phone": "(212) 877-0888",
+    "phoneUnformatted": "+12128770888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7878474,
+      "lng": -73.9764372
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLxuBHYRYwokRcvynwC0-7y0",
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Drug store"
+    ],
+    "fid": "0x89c258841d811b2f:0x2def3e2dc0a7fc72",
+    "cid": "3309932617367288946",
+    "reviewsCount": 58,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.023Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Chemists&query_place_id=ChIJLxuBHYRYwokRcvynwC0-7y0",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPiPW-MSTmFG5tlGDGKxQfl17nSg9RgpF2kHbqK=w408-h633-k-no",
+    "kgmid": "/g/1pzx8sr66"
+  },
+  {
+    "title": "Gallery Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "131 E 60th St, New York, NY 10022",
+    "neighborhood": "Manhattan",
+    "street": "131 E 60th St",
+    "city": "New York",
+    "postalCode": "10022",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 838-6765",
+    "phoneUnformatted": "+12128386765",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7631557,
+      "lng": -73.967874
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6r2e-9YwokRP4i8YcJFub8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c258ef7bf6aaab:0xbfb945c261bc883f",
+    "cid": "13815150033101424703",
+    "reviewsCount": 122,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-23T05:16:43.023Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gallery%20Drug&query_place_id=ChIJq6r2e-9YwokRP4i8YcJFub8",
+    "searchPageUrl": "https://www.google.com/maps/search/pharmacy%20in%20New%20York,%20NY/@21.814956946324113,-159.37245853628502,12z?hl=en",
+    "searchString": "pharmacy in New York, NY",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHcvHE2aAaozmbtD8jZiR8tKZL0D_UYuzldZLHv-MNJuKOpxUJoMM5dEeJi3rGljBT2D-Jyu3C_V4IpjqsBJXDVIjFilKy1eWPeXPS7gToRDsBwa4F6DFG2Cw9oK0uOAsZgFlr=w408-h306-k-no",
+    "kgmid": "/g/11sd1qj4l2"
+  }
+]

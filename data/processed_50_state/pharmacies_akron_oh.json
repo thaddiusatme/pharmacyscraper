@@ -441,7 +441,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -715,7 +715,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -985,7 +985,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBXAGA8YpMYgRLLEc2TG5WLI",
     "categories": [
       "Pharmacy"
     ],
@@ -1100,10 +1100,8 @@
     "kgmid": "/g/11c467_rd9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1128,7 +1126,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPeguOSTWMIgRNk1lHlm-rPg",
     "categories": [
       "Pharmacy"
     ],
@@ -1215,10 +1213,8 @@
     "kgmid": "/g/11gbpgpt_1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Acme Fresh Market Pharmacy",
@@ -1324,7 +1320,7 @@
     "classification": "chain",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1349,7 +1345,7 @@
     "totalScore": 4.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJydVvFUYnMYgRCqwaZRO3gQg",
     "categories": [
       "Pharmacy"
     ],
@@ -1440,12 +1436,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7Ouepqoq4wWzE-d0uOIyfQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.0764&pitch=0&thumbfov=100",
     "kgmid": "/g/11t_rwkr52",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1469,7 +1463,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK0La89goMYgRjD8nS8az_5s",
     "categories": [
       "Pharmacy"
     ],
@@ -1581,10 +1575,8 @@
     "kgmid": "/g/11c462ttqg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1608,7 +1600,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbXLl0LjXMIgRCzqdJrX-iSg",
     "categories": [
       "Pharmacy"
     ],
@@ -1715,10 +1707,8 @@
     "kgmid": "/g/11fv4fhtt9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1742,7 +1732,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqXa_lhgoMYgRcw43Pj_XHM8",
     "categories": [
       "Pharmacy"
     ],
@@ -1854,10 +1844,8 @@
     "kgmid": "/g/11c4694hj7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Akron Children's Pharmacy",
@@ -1950,10 +1938,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO0KjDUSl5iepD1sYsaqiwY3_PXLP2M9t_C_jnU=w427-h240-k-no",
     "kgmid": "/g/1tr9p1p6",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2097,7 +2085,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyeoZaLHXMIgR53SRWQI6kmg",
     "categories": [
       "Pharmacy"
     ],
@@ -2224,10 +2212,8 @@
     "kgmid": "/g/11cn95rkr_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2252,7 +2238,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJUc-uH_4oMYgRW7lZzTne8SQ",
     "categories": [
       "Pharmacy"
     ],
@@ -2356,9 +2342,7 @@
     "kgmid": "/g/11f65hw2pr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

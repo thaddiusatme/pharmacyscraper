@@ -1100,7 +1100,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0Tx1bSSGVogRkQglDHoRMJg",
     "categories": [
       "Pharmacy"
     ],
@@ -1203,10 +1203,8 @@
     "kgmid": "/g/1thzplxh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Food Lion Pharmacy",
@@ -1230,7 +1228,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJU8IU82WIVogRyqckTYJeWwQ",
     "categories": [
       "Pharmacy",
       "Grocery store"
@@ -1307,10 +1305,8 @@
     "kgmid": "/g/11cm0vbysq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Tega Cay Pharmacy",
@@ -1471,7 +1467,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ73KFp_-JVogRQFrWf-C9BiM",
     "categories": [
       "Pharmacy"
     ],
@@ -1586,10 +1582,8 @@
     "kgmid": "/g/11f66s9ryc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Redec pharmacy",
@@ -1723,7 +1717,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1874,7 +1868,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZ0sEnZKJVogRk5Ft7GS4R0U",
     "categories": [
       "Pharmacy"
     ],
@@ -1992,10 +1986,8 @@
     "kgmid": "/g/11f66r_mwm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Fort Mill Pharmacy",
@@ -2145,7 +2137,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJTLL_uGIVogRBj4HSaRInYU",
     "categories": [
       "Pharmacy"
     ],
@@ -2281,10 +2273,8 @@
     "kgmid": "/g/11cn96myrd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Congress Street Pharmacy",

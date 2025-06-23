@@ -734,10 +734,10 @@
     "rank": 5,
     "isAdvertisement": false,
     "kgmid": "/g/1tfz0wss",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.97,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1220,10 +1220,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdg9AlyFyD7JAx8UMj-_iYDAJCmXtH0M995UuMD7X6e3gBwPAr_v7V7CNMU_Y9PgqvoG62_ozYcDmPVYyu-90aemWfw6BOKFSeC157lDtGM3HOgJ4k_D0tBgZhsocfPnrgxzJx=w408-h725-k-no",
     "kgmid": "/g/11nx1k5jhn",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1441,7 +1441,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.8,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1467,7 +1467,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJKaQSG8LMjIgRzgz_HACN7pQ",
     "categories": [
       "Pharmacy"
     ],
@@ -1588,10 +1588,8 @@
     "kgmid": "/g/11c466t_br",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Janus RX",
@@ -1918,10 +1916,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OnDnqw7OCdmf5jiZrBQp2Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=67.95533&pitch=0&thumbfov=100",
     "kgmid": "/g/11lky5pqnx",
-    "classification": "chain",
+    "classification": "not_a_pharmacy",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2021,10 +2019,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oln7VAAA5RG1wxBgKQ6xcw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=189.86063&pitch=0&thumbfov=100",
     "kgmid": "/g/11bzv1m8nb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2050,7 +2048,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk53vg00t84gRXXmORYfADzk",
     "categories": [
       "Pharmacy"
     ],
@@ -2124,12 +2122,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IpsDFsVxMO_b31tcY1n3DQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.53969&pitch=0&thumbfov=100",
     "kgmid": "/g/11c7t1sxkr",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Thomas Drugs",

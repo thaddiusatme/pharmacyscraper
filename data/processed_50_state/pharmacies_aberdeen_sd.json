@@ -258,7 +258,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 State St, Aberdeen",
@@ -364,12 +365,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOTcpB8hKHNNvVXOB5u-q0gMMBxJhtLjWDwiDLp=w408-h306-k-no",
     "kgmid": "/g/1tfgp1dj",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.97,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Avera Pharmacy \u2014 Aberdeen \u2014 6th Ave SE",
@@ -484,12 +486,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOPy5crA5-QDHfuqDEik0Qop6tLmjyofHsQeDRp=w408-h306-k-no",
     "kgmid": "/g/1jgltnl7q",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Family Drug - 6th Ave, Aberdeen",
@@ -605,9 +608,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Kessler's Pharmacy",
@@ -743,7 +747,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Aberdeen Pharmacy",
@@ -854,7 +859,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Family Drug - 3rd Ave, Aberdeen",
@@ -966,12 +972,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XT6QGe2ojrw_6RzzBjB_XQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=317.12585&pitch=0&thumbfov=100",
     "kgmid": "/g/11pz82w48p",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Walmart Pharmacy",
@@ -995,7 +1002,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaVYSaOpE0lIRStKyhW4P3tc",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1111,10 +1118,8 @@
     "kgmid": "/g/11r8mmkmz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy Drive Thru",
@@ -1183,7 +1188,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Distribution Center",
@@ -1272,7 +1278,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Pharmacy Sanford",
@@ -1401,7 +1408,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Avera Long-Term Care Pharmacy",
@@ -1497,12 +1505,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUS1tQXur5LvFvUpFOQC1hTPL_70DymvTp53eh=w408-h306-k-no",
     "kgmid": "/g/11bvt538xb",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Pharmacy Sanford",
@@ -1604,7 +1613,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lewis Drug",
@@ -1666,12 +1676,13 @@
     "rank": 5,
     "isAdvertisement": false,
     "kgmid": "/g/11vwg8_f7_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   },
   {
     "title": "Lynn's Dakotamart Pharmacy - Belle Fourche",
@@ -1801,6 +1812,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "aberdeen_sd"
   }
 ]

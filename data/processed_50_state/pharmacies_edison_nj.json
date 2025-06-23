@@ -122,7 +122,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Kennedy Pharmacy",
@@ -256,7 +257,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Loving Care Pharmacy",
@@ -424,7 +426,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Jersey Pharmacy",
@@ -526,7 +529,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Bonhamtown Pharmacy",
@@ -689,7 +693,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Bell Pharmacy",
@@ -829,7 +834,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Star Pharmacy",
@@ -955,9 +961,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Faithful Pharmacy",
@@ -1072,7 +1079,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Omnicare Inc",
@@ -1096,7 +1104,7 @@
     "totalScore": 2.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkdc2usXJw4kRgkVwjrvCge4",
     "categories": [
       "Pharmacy"
     ],
@@ -1138,10 +1146,8 @@
     "kgmid": "/g/1260_55fm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Oak Tree Drugs",
@@ -1263,9 +1269,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "LG Pharmacy",
@@ -1391,7 +1398,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Zoe's Cardsmart Pharmacy",
@@ -1571,7 +1579,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "PKS Compounding",
@@ -1665,7 +1674,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "YFCC Pharmacy",
@@ -1809,7 +1819,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Devine's Pharmacy",
@@ -1954,7 +1965,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "MyPharmacy",
@@ -2108,7 +2120,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "Peter Pan Pharmacy",
@@ -2241,7 +2254,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   },
   {
     "title": "CVS Pharmacy",
@@ -2265,7 +2279,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJkwAjR27Iw4kRh-DGDNuaucA",
     "categories": [
       "Pharmacy"
     ],
@@ -2398,10 +2412,8 @@
     "kgmid": "/g/11c46djlxy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sayreville Pharmacy",
@@ -2536,6 +2548,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "edison_nj"
   }
 ]

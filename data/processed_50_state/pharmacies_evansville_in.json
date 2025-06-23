@@ -490,8 +490,8 @@
     "kgmid": "/g/1tf5ldbf",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -517,7 +517,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJV3i7FmYrbogReYjLGkXEv1A",
     "categories": [
       "Pharmacy"
     ],
@@ -591,12 +591,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMcnalI_VQVFsbUBhs4_gKK4xEDE0hJ5CwuUnyz=w408-h326-k-no",
     "kgmid": "/g/11mvrch929",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Evansville Hometown Pharmacy",
@@ -620,7 +618,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJa2pibDQxBogRbhSKXwYggO0",
     "categories": [
       "Pharmacy",
       "Gift shop",
@@ -713,12 +711,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqvNJEIeohRvouvjMU0F-h8DeWyLGD8_z3nuWrt2BF8p5qqh38an9K-0_dlv4eeEZl7IFYCJ7dw9VBgr8UgPDm1zUVsssQf2e6F8-4mA6ChtsMnTorKzW3drw_zBJpl7FnrdNzn=w408-h306-k-no",
     "kgmid": "/g/11b81vmg7_",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Paul's Pharmacy East",
@@ -848,7 +844,7 @@
     "kgmid": "/g/11c3q48fn2",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -987,7 +983,7 @@
     "kgmid": "/g/1tdwwfkj",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
+    "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
@@ -1112,7 +1108,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJaZ-T94gqbogRfyiinkz-guc",
     "categories": [
       "Pharmacy"
     ],
@@ -1230,10 +1226,8 @@
     "kgmid": "/g/11c4615f_8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pauls LTC pharmacy",
@@ -1335,7 +1329,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1361,7 +1355,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJU7EFEKwrbogR575JovC9e50",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -1534,10 +1528,8 @@
     "kgmid": "/g/11fz0wppmc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Deaconess Family Pharmacy - Deaconess Midtown Campus",
@@ -1635,10 +1627,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPilKN7e3jN0rYZm8Ig2Onza4NUjdoSNIzcUXah=w601-h240-k-no",
     "kgmid": "/g/1264blnhw",
-    "classification": "chain",
+    "classification": "hospital",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1664,7 +1656,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJr1Y9VQPVcYgRCc3ElqVJ8N4",
     "categories": [
       "Pharmacy"
     ],
@@ -1776,10 +1768,8 @@
     "kgmid": "/g/11c4634bj0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1804,7 +1794,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJec73H2YrbogRkt49vXytXDI",
     "categories": [
       "Pharmacy"
     ],
@@ -1910,10 +1900,8 @@
     "kgmid": "/g/1tg_b72m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1938,7 +1926,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj4pFliUrbogRuvSAi8SoKXk",
     "categories": [
       "Pharmacy"
     ],
@@ -2074,10 +2062,8 @@
     "kgmid": "/g/11cn93ddlj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Perry Brian E",
@@ -2166,8 +2152,8 @@
     "kgmid": "/g/1tf3c8v4",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2291,8 +2277,8 @@
     "kgmid": "/g/11bxc80bhm",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

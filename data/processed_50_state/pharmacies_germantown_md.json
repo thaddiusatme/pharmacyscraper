@@ -150,7 +150,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPSexO9MttokRmZV2tJPo1fs",
     "categories": [
       "Pharmacy"
     ],
@@ -237,10 +237,8 @@
     "kgmid": "/g/1hd_fz0cl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -264,7 +262,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9QxGRYErtokR_uqRnwJRfeY",
     "categories": [
       "Pharmacy"
     ],
@@ -367,10 +365,8 @@
     "kgmid": "/g/1ts304gj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -394,7 +390,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJS5CpDhUstokRFEJzc_dKTzw",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -508,10 +504,8 @@
     "kgmid": "/g/1td1wb3z",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -535,7 +529,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLZbkqIkstokRX2NOnIaPaZY",
     "categories": [
       "Pharmacy"
     ],
@@ -659,10 +653,8 @@
     "kgmid": "/g/11c468w6nm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Germantown Pharmacy",
@@ -1280,7 +1272,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1426,7 +1418,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJIxHdw3UstokRzOZGLVGRtkU",
     "categories": [
       "Pharmacy"
     ],
@@ -1516,10 +1508,8 @@
     "kgmid": "/g/11b7wc4hh4",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Vashan Compounding Pharmacy",
@@ -1543,7 +1533,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJE4cKErDSt4kRhhh_eFgI9Zw",
     "categories": [
       "Pharmacy"
     ],
@@ -1656,12 +1646,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFSO_eOR8CkG_brIogzDVuQm6sfzOTuMN6XZob=w408-h306-k-no",
     "kgmid": "/g/1ttq2_k1",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1685,7 +1673,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJPTIsCM0ttokR659SIw1OiCU",
     "categories": [
       "Pharmacy"
     ],
@@ -1800,10 +1788,8 @@
     "kgmid": "/g/11f68c_kx_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1828,7 +1814,7 @@
     "totalScore": 1.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVVVlQWsstokRfCmanjHG__s",
     "categories": [
       "Pharmacy"
     ],
@@ -1947,10 +1933,8 @@
     "kgmid": "/g/11r3smtnnx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Giant Pharmacy",
@@ -1974,7 +1958,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJtVwNeoQrtokRmF1e03TGr2I",
     "categories": [
       "Pharmacy"
     ],
@@ -2061,10 +2045,8 @@
     "kgmid": "/g/11hd54knlv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Shady Grove Pharmacy",
@@ -2360,7 +2342,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJo73LlhYstokRwprjfS5ZM34",
     "categories": [
       "Pharmacy"
     ],
@@ -2447,10 +2429,8 @@
     "kgmid": "/g/1tmqh28p",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Rollins Care Pharmacy LLC",

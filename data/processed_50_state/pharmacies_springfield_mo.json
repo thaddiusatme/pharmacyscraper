@@ -496,10 +496,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noNixQSRuHqtTW_6vz4BrKuLAZi_h8AF3qcj3avZXaXJMBjN0YA5paZk_E02K40S9QR_du43oTF6_ZR8yuhfpWTQ9TXsA5Lq40bOgZW9kNXn7OhGwjI-M16mPzVWeJwKmYz2LJbmg=w408-h541-k-no",
     "kgmid": "/g/11kpg7k3k8",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -659,7 +659,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJu1M0nUNjz4cR2uv4TpeGvOU",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -749,12 +749,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPq6u4X8ToFprGADsVZFycDs0Z5RJF_w16HW-7w=w408-h408-k-no",
     "kgmid": "/g/1hc2x6kcj",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Integrity Pharmacy",
@@ -1110,7 +1108,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJVUV_6ERjz4cRSJHKwykc6Fs",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -1203,12 +1201,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUR-zpMa7zJTZHJ_KuRVmnV8IfWjRK3h-sMXRTLaLEUjec-T2z8RwNXaJ5F-qGaLZL4W2W8AfDE58FcqEWP3pk_uqdMVPEIEsFwoMkKfCFzeMRtNl8FmZ7mZwhctcedNpoTlq3dw=w408-h725-k-no",
     "kgmid": "/g/1v3h_h_t",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Orchard Hills Pharmacy",
@@ -1368,7 +1364,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDxWloyFjz4cRhDj3FKjAmQs",
     "categories": [
       "Pharmacy"
     ],
@@ -1477,10 +1473,8 @@
     "kgmid": "/g/11c4675d35",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Battlefield Pharmacy",
@@ -1644,7 +1638,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJF6kdDMdjz4cRNbo5AAehluk",
     "categories": [
       "Pharmacy"
     ],
@@ -1725,10 +1719,8 @@
     "kgmid": "/g/11ghdq_z_q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Mercy Pharmacy - Smith Glynn Callaway",
@@ -1752,7 +1744,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-03PDXJkz4cR_0VQcEjfTvQ",
     "categories": [
       "Pharmacy",
       "Medical supply store"
@@ -1853,12 +1845,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOveMLD9xfdX7vEzQYO7-GZmXzaVGhcV4xQpTr8MCAYAV0-prko-N7FHSuuMa943_jLpjizAtjIWkO5bxjQfUtwb1qvPkPqQJtwKjaDGPXwV0WkPlL-CWrZDnJDfL1DpjbcqNF=w408-h544-k-no",
     "kgmid": "/g/1hc2fdy3r",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Grove Pharmacy Glenstone -- CLOSED, now APO Pharmacy",
@@ -1970,8 +1960,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2mEtF8ki4e3UvxSZoGMFJLYjHwPCrXNWFawKDGQZgSHnZWejjb5mhDzfJvnY6FMaPPlRFzlOmqKYEyv9H5x6eW8-tRt4g6s4uVvujahmxkIlxa9RD9VVX3hJKSHKWEbbwr8K12g=w408-h1187-k-no",
     "kgmid": "/g/11f5qt9th7",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
@@ -2086,10 +2076,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOenGd-SIn37GuFyZ5XhzCSnh7_xsKt-kk60kxj=w426-h240-k-no",
     "kgmid": "/g/1vxzb4k6",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2231,7 +2221,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3fIlD7hjz4cRScG4-isFj0U",
     "categories": [
       "Pharmacy"
     ],
@@ -2355,10 +2345,8 @@
     "kgmid": "/g/11cn93sp4t",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy at Jordan Valley Community Health Center",
@@ -2383,7 +2371,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfeotSuNiz4cR3hoJTHIVSAE",
     "categories": [
       "Pharmacy"
     ],
@@ -2519,9 +2507,7 @@
     "kgmid": "/g/11dzw8bfhh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

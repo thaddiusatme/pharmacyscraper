@@ -114,7 +114,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Riverside Pharmacy Inc",
@@ -203,7 +204,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Bailey's Pharmacy",
@@ -306,7 +308,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Hartford Pharmacy II",
@@ -412,7 +415,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Genoa Healthcare",
@@ -436,7 +440,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJWR_BVZdT5okR5jO7A2CFLjc",
     "categories": [
       "Pharmacy"
     ],
@@ -502,10 +506,8 @@
     "kgmid": "/g/11gy3fzs5s",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Health Care Pharmacy",
@@ -529,7 +531,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJX_P0Mx9T5okRukOfQ9V8hkk",
     "categories": [
       "Pharmacy"
     ],
@@ -625,12 +627,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOjdvWoeM9neQ5FpaxLl6ehCnnDvW6116a5vcQ=w408-h416-k-no",
     "kgmid": "/g/11dxxpyyft",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Maple Pharmacy",
@@ -756,9 +756,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Genoa Healthcare",
@@ -782,7 +783,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx7vnKL5V5okRIa1k8DU_Vxo",
     "categories": [
       "Pharmacy"
     ],
@@ -866,10 +867,8 @@
     "kgmid": "/g/11fd67q43n",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy at Blue Back",
@@ -1007,7 +1006,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Community Care Pharmacy",
@@ -1078,7 +1078,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Arrow Pharmacy",
@@ -1207,7 +1208,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "West Hartford Apothecary",
@@ -1231,7 +1233,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFb4OsKCt54kRQp2EzWw74j4",
     "categories": [
       "Pharmacy"
     ],
@@ -1341,12 +1343,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVQwSS61lwzTspNZii7yAPOfg6fwsMPFEtsbSINHRmzhctoDdWYETjobdxxQRuYC4GCKP1YDsFMWCELfTejSf2vtKKQuLyQRRbJW_VOR_p2B8xlKG-KZ4WsfhWFCHYtjcoTlKmSg=w408-h543-k-no",
     "kgmid": "/g/11smv50krw",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hartford Hospital Community Pharmacy",
@@ -1369,7 +1369,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwULvMElT5okRKbcJTbVQcb4",
     "categories": [
       "Pharmacy"
     ],
@@ -1433,12 +1433,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qGFfumTPfsXqnV1TvtQSHA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.60764&pitch=0&thumbfov=100",
     "kgmid": "/g/11q9s8x7v3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Suburban pharmacy",
@@ -1512,7 +1510,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "The Medicine Shoppe Pharmacy",
@@ -1536,7 +1535,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJc_bzZ7ms54kR7KjgC0Ra_xg",
     "categories": [
       "Pharmacy"
     ],
@@ -1627,12 +1626,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzCvTNa0O20SvqlIgI3div7D9MkiFSe7FxIyVpMtTxNU3b0hAcz-wOTQ2qINRjS5SH7V4rKmaHXC-Ir83kjrcL9SE0psE29eYsO40O2s2RyaRMS4lYjt0CMdeHXuuNm4kSzVjXvA=w408-h408-k-no",
     "kgmid": "/g/1tnhzb_3",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "St. Francis Pharmacy",
@@ -1737,7 +1734,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "First Choice Health Center Pharmacy",
@@ -1761,7 +1759,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJSaCymXdU5okRtWCMAlRljRo",
     "categories": [
       "Pharmacy"
     ],
@@ -1843,12 +1841,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-2_1WJGDepVhvUT6cqmhl898Zjqmzx7IdwTHG=w408-h544-k-no",
     "kgmid": "/g/11nfygn563",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Arrow Prescription Center",
@@ -1945,7 +1941,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "hartford_ct"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1970,7 +1967,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl4EIOBNT5okR9yVEWbitW0w",
     "categories": [
       "Pharmacy"
     ],
@@ -2060,10 +2057,8 @@
     "kgmid": "/g/11b8c2tnr8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -2085,7 +2080,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmWMW3n9T5okRJXAjmcngNcc",
     "categories": [
       "Pharmacy"
     ],
@@ -2141,9 +2136,7 @@
     "kgmid": "/g/11ydlt416_",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

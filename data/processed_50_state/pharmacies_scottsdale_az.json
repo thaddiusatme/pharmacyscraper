@@ -91,8 +91,8 @@
     "kgmid": "/g/1tctg214",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.9,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -221,8 +221,8 @@
     "kgmid": "/g/1tdp0ycv",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -635,8 +635,8 @@
     "kgmid": "/g/12xpzyslx",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1116,8 +1116,8 @@
     "kgmid": "/g/1vq9mrhc",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1285,8 +1285,8 @@
     "kgmid": "/g/11g8xkbshq",
     "classification": "independent",
     "is_independent": true,
-    "is_compounding": true,
-    "confidence": 0.95,
+    "is_compounding": false,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   }

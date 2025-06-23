@@ -21,7 +21,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK-Bklhx9x4kRQyIgwJR7VMg",
     "categories": [
       "Pharmacy"
     ],
@@ -126,12 +126,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIXbzFD5m2VeddHwGFCR4sr48KFe2SVKxB9_fL=w408-h307-k-no",
     "kgmid": "/g/11rjbwvs92",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Dover Community Pharmacy",
@@ -266,7 +264,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_de"
   },
   {
     "title": "Rodney Village Pharmacy",
@@ -386,7 +385,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_de"
   },
   {
     "title": "Bayhealth Community Pharmacy, Kent Campus",
@@ -410,7 +410,7 @@
     "totalScore": 4.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7-K8GFRjx4kR1SG1O6yayZY",
     "categories": [
       "Pharmacy"
     ],
@@ -500,12 +500,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMpMAcVFS3NfNkpSy16m804cyOFGaJroXo3xuI8=w408-h244-k-no",
     "kgmid": "/g/1tg82f2r",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Camden Pharmacy",
@@ -650,9 +648,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.93,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_de"
   },
   {
     "title": "Walgreens",
@@ -676,7 +675,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJuZHMGal8x4kRrQQGBXHAQ8k",
     "categories": [
       "Drug store"
     ],
@@ -730,10 +729,8 @@
     "kgmid": "/g/11vyqgfvsr",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -862,7 +859,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_de"
   },
   {
     "title": "Walgreens Specialty Pharmacy at Eden Hill Medical Center",
@@ -887,7 +885,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYz2RG6l8x4kRB7azMF8Azoc",
     "categories": [
       "Pharmacy"
     ],
@@ -1017,10 +1015,8 @@
     "kgmid": "/g/1tdzs2t6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1043,7 +1039,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJcYi03Q59x4kRNwBvEC73dVE",
     "categories": [
       "Pharmacy"
     ],
@@ -1177,10 +1173,8 @@
     "kgmid": "/g/11v1bpsvnq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1204,7 +1198,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ82fYh1h7x4kRSQWMQh3rMIs",
     "categories": [
       "Pharmacy"
     ],
@@ -1316,10 +1310,8 @@
     "kgmid": "/g/11c475c1pw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1343,7 +1335,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDes7SqVkx4kRmpPfcLDQnzo",
     "categories": [
       "Pharmacy"
     ],
@@ -1461,10 +1453,8 @@
     "kgmid": "/g/11fy_d8jyf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1488,7 +1478,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2yFFDCh7x4kR8WaIZBf9yG4",
     "categories": [
       "Pharmacy"
     ],
@@ -1619,10 +1609,8 @@
     "kgmid": "/g/11kqtgtn3w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1647,7 +1635,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJa4gT6lh7x4kRyR1qXBPVbf4",
     "categories": [
       "Pharmacy"
     ],
@@ -1772,10 +1760,8 @@
     "kgmid": "/g/11cn951vkl",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1800,7 +1786,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJRRsJagJlx4kRMLUrCghqZFM",
     "categories": [
       "Pharmacy"
     ],
@@ -1930,10 +1916,8 @@
     "kgmid": "/g/11synq9dfv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1958,7 +1942,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7xpGd6Rkx4kRmf1DkEfmNa4",
     "categories": [
       "Pharmacy"
     ],
@@ -2064,10 +2048,8 @@
     "kgmid": "/g/1vvdw5b9",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -2093,7 +2075,7 @@
     "totalScore": 2.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk-6Yilh7x4kRmzUzzl5v3fI",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2307,10 +2289,8 @@
     "kgmid": "/g/1vxw96wt",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Safeway Pharmacy",
@@ -2334,7 +2314,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk1Ks6aFkx4kR0RtYo7uGUwA",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -2440,10 +2420,8 @@
     "kgmid": "/g/1tfpw715",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -2469,7 +2447,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD5dR6lh7x4kRuK03Aqud2vk",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2680,10 +2658,8 @@
     "kgmid": "/g/1tgq7m9m",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "ayala pharma",
@@ -2746,6 +2722,7 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_de"
   }
 ]

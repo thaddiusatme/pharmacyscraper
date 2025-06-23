@@ -77,7 +77,8 @@ class PerplexityClient:
         api_key: Optional[str] = None,
         model_name: Optional[str] = None,
         rate_limit: int = 20,
-        cache_dir: Optional[str] = "data/cache/classification"
+        cache_dir: Optional[str] = "data/cache/classification",
+        force_reclassification: bool = False
     ):
         """
         Initializes the PerplexityClient.
@@ -103,6 +104,7 @@ class PerplexityClient:
         
         self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
+        self.force_reclassification = force_reclassification
         
         self.cache_dir = Path(cache_dir) if cache_dir else None
         if self.cache_dir:
@@ -131,19 +133,21 @@ class PerplexityClient:
         cache_key = _generate_cache_key(pharmacy_data, model_to_use)
         cache_file = self.cache_dir / f"{cache_key}.json"
 
-        # Check if cache file exists and is valid
-        if cache_file.exists():
+        # If force_reclassification is False, check cache
+        if not self.force_reclassification and cache_file.exists():
             try:
                 with open(cache_file, 'r') as f:
                     cached_result = json.load(f)
                 logger.info(f"CACHE HIT for pharmacy: {pharmacy_data.get('title', 'N/A')}")
-                return cached_result  # Success: return cached data
+                return cached_result
             except (json.JSONDecodeError, IOError) as e:
-                # Corrupt file: log and proceed to re-fetch
                 logger.warning(f"Failed to read cache file {cache_file}: {e}. Re-fetching.")
 
-        # Cache MISS (file doesn't exist or was corrupt)
-        logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+        if self.force_reclassification:
+            logger.info(f"CACHE IGNORED (force_reclassification=True) for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+        else:
+            logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+        
         result = self._make_api_call(pharmacy_data, model_to_use)
 
         # Write to cache if the API call was successful

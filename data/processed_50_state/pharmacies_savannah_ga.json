@@ -141,12 +141,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9-x-vmLy0b6n-4Pzs26pMr7sDW5BN6cqg3HqI=w408-h272-k-no",
     "kgmid": "/g/11c0pjn_pw",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Compounding Solutions-Savannah Pharmacy and Wellness",
@@ -170,7 +170,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJx43w0Ox1-4gRnfHN4XbetMY",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -268,12 +268,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJz86mGRvjCILo4IiQDH3Ml4vWg_twPMXUJvJE=w408-h306-k-no",
     "kgmid": "/g/1th297tm",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Coastal Compounding Pharmacy",
@@ -383,12 +381,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqEOYtSpKCzaNQm_ZqA5Mix9e2NnZ-dLRx_gRQoh7dsz7uNG9turndme2gJtltfgiAE6vP0kyjV2Xc3Hrcd7y-wwX2b45KS8VW6K75Zag8Jxg5k-UXjBWt24ompkH1IuPnS3wWXKQ=w408-h306-k-no",
     "kgmid": "/g/1tfmd2gf",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Georgetown Drug Company",
@@ -528,12 +526,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRpxJ_lIKI-Ltz9HvhtI_UcY-f4JbW5aP5_65p=w408-h277-k-no",
     "kgmid": "/g/1tksjnj7",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Village Walk Pharmacy",
@@ -651,12 +649,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noec0QjZGKUW0xysgyy0Jzc-kxdjGcZ4_e_mqPsyvGTJFf-0xpRJzI3OOFXTSSKIcTpOcSCSFwEnyiLGmn7soAipsatW-bBW9aVP1b8fukGruEiAfkeDI0SRHUJ9Vw-hasog4s=w408-h544-k-no",
     "kgmid": "/g/1tfwqtxk",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Lo Cost Pharmacy",
@@ -680,7 +678,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJiS4L0ex1-4gRQrt0bjcJp5Y",
     "categories": [
       "Pharmacy"
     ],
@@ -802,12 +800,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIJ-eubSFSZiKmiL8nOxROQRJF6hocPINacE8=w408-h306-k-no",
     "kgmid": "/g/1pp2x5nh3",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Health Delivery Pharmacy",
@@ -951,12 +947,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM8oIfdJ24YcSs0-zjpbDuB84N_cZyF2fKgCTdX=w408-h306-k-no",
     "kgmid": "/g/11f2wjzh5s",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Quick RX Drugs, Inc.",
@@ -1068,12 +1064,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYVrUBDA5ZyPymfKYRGvKASO209OXs057hXLNW=w425-h240-k-no",
     "kgmid": "/g/1tddt194",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Nightingale Pharmacy,Inc",
@@ -1186,12 +1182,12 @@
     "rank": 9,
     "isAdvertisement": false,
     "kgmid": "/g/11rc7trtq9",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Janus RX",
@@ -1289,12 +1285,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_eBwUuBFpeWX1bgILlE7Pg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.60819&pitch=0&thumbfov=100",
     "kgmid": "/g/11sghq3vxy",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Medical Center Pharmacy",
@@ -1318,7 +1314,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ3QMpKPB1-4gR-QTN5be-PPU",
     "categories": [
       "Pharmacy"
     ],
@@ -1401,12 +1397,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC7KuFqdc2bFFS7JiaMEuZNaAxEknDcN93typb=w658-h240-k-no",
     "kgmid": "/g/1tvtc5yd",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "RXVIP Concierge",
@@ -1469,12 +1463,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xq8F8rIb3QSDRfoiqtFSOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.84654&pitch=0&thumbfov=100",
     "kgmid": "/g/11pkk97h9x",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Genoa Healthcare",
@@ -1563,12 +1557,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F80GJxWHyholaU866Cjq8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.96893&pitch=0&thumbfov=100",
     "kgmid": "/g/11bwfkh9pf",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Diversified Pharmacy Group",
@@ -1626,12 +1620,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TZExFOwEFI4MPt-u0Fwexw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=276.03387&pitch=0&thumbfov=100",
     "kgmid": "/g/1tl1p95q",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "Savannah Rx",
@@ -1655,7 +1649,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJB9VcNT51-4gRI74d2yATImo",
     "categories": [
       "Pharmacy"
     ],
@@ -1738,12 +1732,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMg-zDuW7NcgT70fRtFB6sJ_rJ8P74l8gvUicZY=w408-h271-k-no",
     "kgmid": "/g/11s_z4z10y",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Southcoast Pharmacy",
@@ -1767,7 +1759,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK5XqrMl1-4gRoo3W01nJ8-s",
     "categories": [
       "Pharmacy"
     ],
@@ -1844,12 +1836,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rcVa941U35Gomp1HFmuX9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.403772&pitch=0&thumbfov=100",
     "kgmid": "/g/11by_gw131",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Candler Prescription Center at Candler Hospital",
@@ -1873,7 +1863,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmxvDsJN1-4gRMHZOVtrIsUc",
     "categories": [
       "Pharmacy"
     ],
@@ -1956,12 +1946,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kUqCGvvwzYKIgqx_zI9g6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.5243&pitch=0&thumbfov=100",
     "kgmid": "/g/1tmy5xn6",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Patirica A. Willmann, MS",
@@ -2008,12 +1996,12 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J94kbjSPHDgRD60PBdntGg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=120.94077&pitch=0&thumbfov=100",
     "kgmid": "/g/1tdgw7ly",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
   },
   {
     "title": "CVS Pharmacy",
@@ -2037,7 +2025,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJlX2ycGae-4gRv-a5y6DAc2Q",
     "categories": [
       "Pharmacy"
     ],
@@ -2150,12 +2138,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMesbbPQC9gfKMMVR5mUxdRNyx_T9-gQFAKXEWC=w408-h272-k-no",
     "kgmid": "/g/11c4682n5f",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -2179,7 +2165,7 @@
     "totalScore": 4.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR3HQymkK-4gRbzYBY0nvt8Q",
     "categories": [
       "Pharmacy"
     ],
@@ -2298,11 +2284,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNDhP5fPmWzoFbFX-8VgGSby19-UWuHQkSClByR=w408-h272-k-no",
     "kgmid": "/g/11c468nzc9",
-    "classification": "error",
-    "is_independent": null,
-    "is_compounding": null,
-    "confidence": 0.0,
-    "source": "error",
-    "method": "api_failure"
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

@@ -98,7 +98,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -836,7 +836,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1414,7 +1414,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1536,7 +1536,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1883,7 +1883,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJd8M4N0aLOIgRP8kwK5dDAiI",
     "categories": [
       "Pharmacy",
       "Drug store"
@@ -1987,12 +1987,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZYdzaSIf8N261Zvy-oOhEdnu6IFwVc6s4FLIbtOFaJR-VMC4Nslq9GOsyUzlYSQn8Kf0qleFofLqyeUnmu5JvnIzwQSqG4gyePrzCXIVNqyzO10Kn4S9FxK0USgBiww3ghCOrcg=w532-h240-k-no",
     "kgmid": "/g/11bw61y60h",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Buckeye Pharmacy",
@@ -2118,7 +2116,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.93,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2218,10 +2216,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7tDtmHCsNLq1N_40BdPzL7DrFd_rgkJWLMxudbyIhB4sDPKH_tMUrMMoCHvw1Z-g7DeyROHuKQS6WSckvUqDY805GPC_oRvEjW6yCOdlihYHvOFO2GeneF_jK7qxiaCUladnu=w408-h544-k-no",
     "kgmid": "/g/1tt1hww_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.99,
     "source": "perplexity",
     "method": "llm"
   },

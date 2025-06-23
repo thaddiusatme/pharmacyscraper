@@ -21,7 +21,7 @@
     "totalScore": 2.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxSG2BEvWzFIR5UNYs1iX-Wk",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -137,10 +137,8 @@
     "kgmid": "/g/1t_wn_q2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Genoa Healthcare",
@@ -164,7 +162,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJD3lyZq_XzFIRVfDtmhY_y7k",
     "categories": [
       "Pharmacy"
     ],
@@ -235,10 +233,8 @@
     "kgmid": "/g/1tdmdjvw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Brown Clinic Pharmacy",
@@ -261,7 +257,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0-eJ3M7XzFIRXOzzAx40W-E",
     "categories": [
       "Pharmacy"
     ],
@@ -377,12 +373,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwL5cvvIIVVHyYaXHztjRJ5qFUs_h1lUjjgSVD=w408-h271-k-no",
     "kgmid": "/g/12m96z8c8",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Prairie Lakes Campus Pharmacy",
@@ -483,12 +477,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PndbLOMpvhiI1q2qu0ZsQw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.110358&pitch=0&thumbfov=100",
     "kgmid": "/g/1tj7dq3f",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Deidra J. Vangilder, PharmD",
@@ -575,12 +570,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sAzzm1p_PZkqCXyBr3hPEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=225.25969&pitch=0&thumbfov=100",
     "kgmid": "/g/1td71nhg",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -604,7 +600,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJR-HnYpDXzFIRuHCobmoQuEY",
     "categories": [
       "Pharmacy"
     ],
@@ -758,10 +754,8 @@
     "kgmid": "/g/11n6rkgf3h",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -785,7 +779,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJJXyhpf7WzFIRClV36CuGkR4",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -904,10 +898,8 @@
     "kgmid": "/g/1hf4r81bf",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "County Drug",
@@ -1029,7 +1021,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Lynn's Dakotamart",
@@ -1208,7 +1201,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Lynn's Dakotamart Pharmacy - Belle Fourche",
@@ -1338,7 +1332,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Neuhauser Pharmacy",
@@ -1480,7 +1475,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Hoey Apothecary",
@@ -1626,7 +1622,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Forward Pharmacy",
@@ -1740,7 +1737,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Cross Plains Pharmacy",
@@ -1877,7 +1875,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Forward Pharmacy Cottage Grove",
@@ -2017,7 +2016,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   },
   {
     "title": "Lynns Dakotamart Pharmacy - Hot Springs",
@@ -2135,6 +2135,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "watertown_sd"
   }
 ]

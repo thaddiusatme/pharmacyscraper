@@ -21,7 +21,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJOwU44-KW4okRQjpt1wnPy74",
     "categories": [
       "Pharmacy"
     ],
@@ -136,10 +136,8 @@
     "kgmid": "/g/11c46b9m1w",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "The Herbal Path, A Natural Pharmacy",
@@ -275,7 +273,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "Kenneth A. Isaacs, BS",
@@ -334,7 +333,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -359,7 +359,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj-rmP2iX4okRuz1vBgWDBqI",
     "categories": [
       "Pharmacy"
     ],
@@ -486,10 +486,8 @@
     "kgmid": "/g/11cn93n182",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -513,7 +511,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJpcOEaZu_4okRBGs7wtgHrXc",
     "categories": [
       "Pharmacy"
     ],
@@ -609,10 +607,8 @@
     "kgmid": "/g/1v3kp1xg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -636,7 +632,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYSSIkWiX4okRa8u-W-z8HsM",
     "categories": [
       "Pharmacy"
     ],
@@ -740,10 +736,8 @@
     "kgmid": "/g/11r8tnlfn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -769,7 +763,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJue3t-uKW4okRj3BRNPEMeVs",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -986,10 +980,8 @@
     "kgmid": "/g/1tdyxc8j",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1013,7 +1005,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ2979vbeX4okRYm4UmZ31HiY",
     "categories": [
       "Pharmacy"
     ],
@@ -1144,10 +1136,8 @@
     "kgmid": "/g/11kqt5mcrz",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid",
@@ -1172,7 +1162,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJMb843WyX4okRTX9hw0wDFh8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1315,10 +1305,8 @@
     "kgmid": "/g/1wrgl4y8",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1344,7 +1332,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJncUQNGiX4okRQFk9GSS6u3o",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1552,10 +1540,8 @@
     "kgmid": "/g/1tzgkn86",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -1695,7 +1681,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1719,7 +1706,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJwZzvdquZ4okRT7RFoeHUybs",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1838,10 +1825,8 @@
     "kgmid": "/g/1tjh0ckb",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1865,7 +1850,7 @@
     "totalScore": 4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqUSz4l22j4ARfkpsB4UTgyo",
     "categories": [
       "Pharmacy"
     ],
@@ -1976,10 +1961,8 @@
     "kgmid": "/g/1tcvjb60",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Ken's Pharmacy",
@@ -2093,9 +2076,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "V-Care Pharmacy of NH",
@@ -2281,7 +2265,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "Wingate's Pharmacy",
@@ -2415,7 +2400,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   },
   {
     "title": "Fisherville Pharmacy",
@@ -2546,6 +2532,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "dover_nh"
   }
 ]

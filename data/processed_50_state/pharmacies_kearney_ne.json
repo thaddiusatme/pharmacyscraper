@@ -117,7 +117,8 @@
     "is_compounding": true,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Grand Central Pharmacy",
@@ -239,7 +240,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Valley Pharmacy Inc",
@@ -367,9 +369,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Family Fresh Market Pharmacy",
@@ -516,7 +519,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Medicap Pharmacy",
@@ -636,12 +640,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPK2esmBmjhYNMcKd1F7J3T-P_103Z7RkJtfHQg=w412-h240-k-no",
     "kgmid": "/g/1tgx2jcx",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "ABC Drug & Gift",
@@ -764,12 +769,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfofMcHNxTUi5g9Xmhy92d0tH4spEaaC1cL5SCRpbdwTtCiFHtxf3JLD6jvfTo2eqw3YRS4bawsYWaXPz6GtaudyMCwskuo7CdhU9gVtfaKyaY1DbTJk0hrr-ZZajzluUCZ1-W=w426-h240-k-no",
     "kgmid": "/g/1tksj949",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "U Save Pharmacy",
@@ -903,7 +909,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "CVS Pharmacy",
@@ -928,7 +935,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ-VqH-IlOmYcRF1m7pLqKQgg",
     "categories": [
       "Pharmacy"
     ],
@@ -1042,10 +1049,8 @@
     "kgmid": "/g/1tddsprm",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hy-Vee Pharmacy",
@@ -1069,7 +1074,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJK5OERGJPmYcRqVR8ri57hdg",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -1171,10 +1176,8 @@
     "kgmid": "/g/11j7ylx7tq",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1199,7 +1202,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJz0lN_L1OmYcRcvHEdyDianI",
     "categories": [
       "Pharmacy"
     ],
@@ -1335,10 +1338,8 @@
     "kgmid": "/g/11cn93v788",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -1364,7 +1365,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJf16bDL5OmYcRFeSiBqsOrb8",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1570,10 +1571,8 @@
     "kgmid": "/g/1w4f8lzc",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1597,7 +1596,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZQWLS2FOmYcRXQn5HdsfJWM",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1713,10 +1712,8 @@
     "kgmid": "/g/1hc2jyjm7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Bemis Drug",
@@ -1844,7 +1841,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Independence Drug",
@@ -1947,7 +1945,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Ryan Pharmacy",
@@ -2067,9 +2066,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   },
   {
     "title": "Good Life Pharmacy- Ord",
@@ -2197,6 +2197,7 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "kearney_ne"
   }
 ]

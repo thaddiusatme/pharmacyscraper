@@ -219,7 +219,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Loft Chemists",
@@ -327,7 +328,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "DailyMed Pharmacy",
@@ -458,7 +460,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Unity Pharmacy - Bridgeport",
@@ -581,9 +584,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Bridgeport Pharmacy",
@@ -727,7 +731,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Bridgeport Community Pharmacy, LLC.",
@@ -847,9 +852,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "BridgeCare Pharmacy",
@@ -960,7 +966,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Hancock Pharmacy II",
@@ -1078,9 +1085,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Hancock Pharmacy",
@@ -1203,7 +1211,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "CVS Pharmacy",
@@ -1227,7 +1236,7 @@
     "totalScore": 4.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJFxBFceoO6IkR4Hd4KByfX_0",
     "categories": [
       "Pharmacy"
     ],
@@ -1339,10 +1348,8 @@
     "kgmid": "/g/11c468w694",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "St Vincent's Outpatient Pharmacy",
@@ -1366,7 +1373,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJmd_i0doO6IkR5ngeCbiXiSg",
     "categories": [
       "Pharmacy"
     ],
@@ -1440,12 +1447,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPq1OeY79wY5AZCKio54YePphO2Y-muwX6K41dz=w408-h255-k-no",
     "kgmid": "/g/1tf7t4zp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Bridgeport Family Pharmacy",
@@ -1580,7 +1585,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Stop & Shop Pharmacy",
@@ -1604,7 +1610,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ0eMC1doO6IkR_bdmsj38q9s",
     "categories": [
       "Pharmacy"
     ],
@@ -1688,10 +1694,8 @@
     "kgmid": "/g/11b66j62jw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Specialty Pharmacy",
@@ -1716,7 +1720,7 @@
     "totalScore": 4.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJQzL6NXoP6IkRNHFsYlaPG_Y",
     "categories": [
       "Pharmacy"
     ],
@@ -1800,10 +1804,8 @@
     "kgmid": "/g/11g078tc9x",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Albion hancock pharmacy",
@@ -1958,7 +1960,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Madison Pharmacy with Drive Thru",
@@ -2166,7 +2169,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2192,7 +2196,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJyRlnPGwO6IkR7WaXohtkxmk",
     "categories": [
       "Pharmacy"
     ],
@@ -2391,10 +2395,8 @@
     "kgmid": "/g/1thpxw62",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Community Pharmacy",
@@ -2447,7 +2449,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "bridgeport_ct"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -2473,7 +2476,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxcmwqMMO6IkR66D17ekQIdU",
     "categories": [
       "Pharmacy"
     ],
@@ -2675,9 +2678,7 @@
     "kgmid": "/g/1vgw9nr0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

@@ -139,7 +139,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "Northeast Pharmacy",
@@ -163,7 +164,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJrYySYe1q4okRkLdEfDw4MP4",
     "categories": [
       "Pharmacy"
     ],
@@ -243,12 +244,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HFVAGhmBPobSoDoduR5gWg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.14662&pitch=0&thumbfov=100",
     "kgmid": "/g/1tmqscff",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "PharMerica - Concord, NH",
@@ -341,7 +340,8 @@
     "is_compounding": false,
     "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "Genoa Healthcare",
@@ -365,7 +365,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq8TPyotr4okRxRAY1nV7wFw",
     "categories": [
       "Pharmacy"
     ],
@@ -436,10 +436,8 @@
     "kgmid": "/g/11fj477cpx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "HealthDirect Pharmacy Services",
@@ -462,7 +460,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbShRDmlq4okRftQQ8blCUU8",
     "categories": [
       "Pharmacy"
     ],
@@ -523,12 +521,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNsHxmiF3Yk8cpLtL_PRJh3qU_gYMVkZQtNhDQn=w725-h240-k-no",
     "kgmid": "/g/11d_yb5d84",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -553,7 +549,7 @@
     "totalScore": 4.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ89Wb_c1r4okR-sx3WJQ-3DE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -659,10 +655,8 @@
     "kgmid": "/g/1vhlz5s7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fisherville Pharmacy",
@@ -793,7 +787,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -933,7 +928,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "CVS Pharmacy",
@@ -957,7 +953,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ_w6Tkktq4okRz4_9nHAi8eY",
     "categories": [
       "Pharmacy"
     ],
@@ -1075,10 +1071,8 @@
     "kgmid": "/g/11c468k168",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1102,7 +1096,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJDeL9RoZq4okR07_MKcFBGGo",
     "categories": [
       "Pharmacy"
     ],
@@ -1220,10 +1214,8 @@
     "kgmid": "/g/11c467wksw",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -1248,7 +1240,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ75-CdtNr4okR4B8_f4Dq7ks",
     "categories": [
       "Pharmacy"
     ],
@@ -1357,10 +1349,8 @@
     "kgmid": "/g/1thsgybh",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Sam's Club Pharmacy",
@@ -1489,7 +1479,8 @@
     "is_compounding": false,
     "confidence": 0.99,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1514,7 +1505,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJZSl8-0tq4okRIHhK1f45idA",
     "categories": [
       "Pharmacy"
     ],
@@ -1644,10 +1635,8 @@
     "kgmid": "/g/11cnbm6z07",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1672,7 +1661,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ4yRkdehq4okR_dOsGpWwjAI",
     "categories": [
       "Pharmacy"
     ],
@@ -1847,10 +1836,8 @@
     "kgmid": "/g/11gbnq03vk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Rite Aid Pharmacy",
@@ -1874,7 +1861,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJHT9metxr4okRiGpQb9-Efq0",
     "categories": [
       "Pharmacy"
     ],
@@ -2005,10 +1992,8 @@
     "kgmid": "/g/11sw17s7j5",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Hannaford Pharmacy",
@@ -2032,7 +2017,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbfGicPFq4okRkqsgD7wR-CU",
     "categories": [
       "Pharmacy"
     ],
@@ -2128,10 +2113,8 @@
     "kgmid": "/g/12643fhrk",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Medicine Store",
@@ -2185,7 +2168,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "concord_nh"
   },
   {
     "title": "Rite Aid",
@@ -2209,7 +2193,7 @@
     "totalScore": 3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJl7-LjM9r4okRlhUbmjM1zcU",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -2309,9 +2293,7 @@
     "kgmid": "/g/11y7fnkjts",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

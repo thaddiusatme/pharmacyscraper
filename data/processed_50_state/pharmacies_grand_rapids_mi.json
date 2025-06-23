@@ -150,7 +150,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -356,7 +356,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -631,10 +631,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WXT3OBCw2jxfqB4JlKxrMg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=103.46761&pitch=0&thumbfov=100",
     "kgmid": "/g/1tcxvvrj",
-    "classification": "chain",
+    "classification": "not_a_pharmacy",
     "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.95,
+    "confidence": 0.85,
     "source": "perplexity",
     "method": "llm"
   },
@@ -660,7 +660,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJj6BpbuqtGYgRUkvPcD0C7bM",
     "categories": [
       "Pharmacy"
     ],
@@ -729,12 +729,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDMPJQ0hc0ywbYnwvIO-GAzi2oVL-BWPv9iFaq=w824-h240-k-no",
     "kgmid": "/g/11b67m391q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Janus Pharmacy",
@@ -1094,7 +1092,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJr0MGj7GtGYgRik7B3TuVUfU",
     "categories": [
       "Pharmacy"
     ],
@@ -1181,10 +1179,8 @@
     "kgmid": "/g/11c58nlzdd",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Kay Pharmacy",
@@ -1812,8 +1808,8 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhOZgjL3QVqJ4GgerkNjZIJtpGsdGfnPAeTMxl=w408-h272-k-no",
     "kgmid": "/g/11f0wl_s5s",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
@@ -1841,7 +1837,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJBy4KasitGYgRBdTgiY8cw2E",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -2008,10 +2004,8 @@
     "kgmid": "/g/11bxjlpljj",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Meijer Pharmacy",
@@ -2035,7 +2029,7 @@
     "totalScore": 2.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJW0gXmO6yGYgRkvp24hXbwQc",
     "categories": [
       "Pharmacy",
       "Medical supply store",
@@ -2211,10 +2205,8 @@
     "kgmid": "/g/1tff3n7s",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Forest Hills Pharmacy",
@@ -2238,7 +2230,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJfw4f9mRSGIgRyKJqkBOmBvU",
     "categories": [
       "Pharmacy"
     ],
@@ -2365,11 +2357,9 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrVRUvaOIlt2CCZim_ZbjL73CEwin73rXv1lw9AfmWLK5NumQK4pcnhyQEDAGYVuwIECviJC0gvqL4M4x7Dl1fdcI8d97Hwv-yJ-Bl3V1FO5RgVzmM3X5c_z1U0Xlh1xLDazwNqYA=w408-h544-k-no",
     "kgmid": "/g/1th0nhz5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

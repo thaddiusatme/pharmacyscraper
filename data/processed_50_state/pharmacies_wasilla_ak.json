@@ -152,7 +152,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Carrs Pharmacy",
@@ -280,12 +281,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noEzmQmJ9Swm0kshzK8lxcaqnAe2rzdewuUS4j_WYE8F2EJdplmbnS64jTxTghQtCIxLwfrMwlDh3NKxWBzx-9wktp92jFHnnIYlGDGZHtT2HVpoc4IfigxhRpsTUVcLt7E0B-N-Q=w408-h725-k-no",
     "kgmid": "/g/1tgg9pzw",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Fred Meyer Pharmacy",
@@ -309,7 +311,7 @@
     "totalScore": 3.8,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ7wJyCxneyFYRrfLsp9feSbE",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -436,10 +438,8 @@
     "kgmid": "/g/1tdsjj0g",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.98,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -464,7 +464,7 @@
     "totalScore": 2.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJYfP3PhneyFYR_n2rZUjN2ZI",
     "categories": [
       "Pharmacy"
     ],
@@ -600,10 +600,8 @@
     "kgmid": "/g/11cn93zw5q",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -628,7 +626,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJk-vC1BjeyFYRnIS-AAZ-sM8",
     "categories": [
       "Pharmacy"
     ],
@@ -742,10 +740,8 @@
     "kgmid": "/g/113hy1njv",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Geneva Woods Pharmacy",
@@ -796,9 +792,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Benteh Nuutah Valley Native Primary Care Center Pharmacy",
@@ -821,7 +818,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJNw6LLADfyFYR2Zeni0eIBUQ",
     "categories": [
       "Pharmacy"
     ],
@@ -884,12 +881,10 @@
     "rank": 6,
     "isAdvertisement": false,
     "kgmid": "/g/11w858tr_q",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens",
@@ -915,7 +910,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJU4TCw3_eyFYRTGM6gPCKkXs",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1121,10 +1116,8 @@
     "kgmid": "/g/1tfrghgg",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Susitna Mediset Services",
@@ -1186,7 +1179,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Walmart Pharmacy",
@@ -1210,7 +1204,7 @@
     "totalScore": 3.2,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJg35x0L3gyFYREcyjwhLYE70",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -1329,10 +1323,8 @@
     "kgmid": "/g/1thz1dcy",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Carrs Pharmacy",
@@ -1460,12 +1452,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN6OJQb6ivJPKGRAc60Whp_OQHUgPNn2K1in_AV=w426-h240-k-no",
     "kgmid": "/g/1261dg5__",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Bernie's Pharmacy",
@@ -1603,7 +1596,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Anchorage Native Primary Care Center Pharmacy",
@@ -1626,7 +1620,7 @@
     },
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJI2G5BleXyFYRnPwg8Bq7kLw",
     "categories": [
       "Pharmacy"
     ],
@@ -1695,12 +1689,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=prRSt6LfGfRXFuzAxYTb5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.249943&pitch=0&thumbfov=100",
     "kgmid": "/g/11fnqk0xd0",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Ron's Apothecary Shoppe",
@@ -1793,7 +1785,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Family Pharmacy",
@@ -1901,7 +1894,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Soldotna Professional Pharmacy",
@@ -2041,7 +2035,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Carrs Pharmacy",
@@ -2172,12 +2167,13 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noAk5-oa_xypEdG1WrNLGlmTdYmOw73CEGleopt81-1gQrIGzr2hlMffkyjDGcP_iWzqDqUu1pSUlrBBI6HVkTjiy_91SniZU7jVAg069lwNSh-EF4IHuRz27ExA1blfzfBegnU=w408-h544-k-no",
     "kgmid": "/g/1ptw_tnz_",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.95,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "wasilla_ak"
   },
   {
     "title": "Walmart Pharmacy",
@@ -2201,7 +2197,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJw9O7Z5nsyFYREwkHQDSlgRQ",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2317,9 +2313,7 @@
     "kgmid": "/g/1hf05nd8v",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   }
 ]

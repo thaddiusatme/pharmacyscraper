@@ -21,7 +21,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJXeumCWxyykwRY4F7RSnEd6w",
     "categories": [
       "Pharmacy"
     ],
@@ -95,12 +95,10 @@
     "rank": 1,
     "isAdvertisement": false,
     "kgmid": "/g/1td4zgsp",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Shaw's Pharmacy",
@@ -124,7 +122,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq-XIhoVwykwRfG6YPFBEK44",
     "categories": [
       "Pharmacy",
       "Drug store",
@@ -230,10 +228,8 @@
     "kgmid": "/g/1tgp9x9r",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.95,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "CVS",
@@ -259,7 +255,7 @@
     "totalScore": 3.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ75LB_4RwykwRds8mi0Gbcj0",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -445,10 +441,8 @@
     "kgmid": "/g/11b6txtcl0",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "CVS Pharmacy",
@@ -472,7 +466,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ75LB_4RwykwRxmEB9qvFN0o",
     "categories": [
       "Pharmacy"
     ],
@@ -584,10 +578,8 @@
     "kgmid": "/g/11c463lxj2",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "PENRO Specialty Compounding",
@@ -638,9 +630,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "Lakeside Pharmacy",
@@ -847,7 +840,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "Vermont Family Pharmacy",
@@ -978,7 +972,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1003,7 +998,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJleNT_elvykwRjKdgI3BdNhI",
     "categories": [
       "Pharmacy"
     ],
@@ -1122,10 +1117,8 @@
     "kgmid": "/g/11qsp0zcbx",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy - Fanny Allen, University of Vermont Medical Center",
@@ -1149,7 +1142,7 @@
     "totalScore": 3.9,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJAfRDF6hwykwRRsRxfBcVw6s",
     "categories": [
       "Pharmacy"
     ],
@@ -1218,12 +1211,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-SyGRi-YUbQMhXBRhIa0qZEHWsG_DBW-wH4R5pITYykO2NMvdlnTJc0_kFl9mVw104X3_4N2ixUGLrUU1RI8axvVRjGhvmtOAHptvLrY-NVP6CWteZwLPtWQrNo8UX687Kmk=w408-h240-k-no-pi-10-ya60.000004-ro-0-fo100",
     "kgmid": "/g/11dxhzv1gr",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "FREEDOM PHARMACY",
@@ -1355,9 +1346,10 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "Walgreens",
@@ -1383,7 +1375,7 @@
     "totalScore": 3.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJqwfP_YhvykwRRtmtJtFJD3E",
     "categories": [
       "Drug store",
       "Beauty supply store",
@@ -1591,10 +1583,8 @@
     "kgmid": "/g/11fswlwkx1",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Pharmacy - 1 South Prospect, University of Vermont Medical Center",
@@ -1618,7 +1608,7 @@
     "totalScore": 3.5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJCfJ4oF56ykwRDBhbZGG1X_I",
     "categories": [
       "Pharmacy"
     ],
@@ -1697,12 +1687,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjoiezD8hD3yKX8VGPPKdwLkjuqy8beVz7BEVOGnl8VRu3VuWUjo7xbhZh5FIA5G3ShOm-f0yymuHI_qesAR8i3ZVmzfv7IG_Uu8CdhJC3Vk5cKry6VgzPXndd2p905D7gP31_eg=w408-h240-k-no-pi-0-ya2.0100057-ro-0-fo100",
     "kgmid": "/g/1txnp2c5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Community Health Centers - Pharmacy",
@@ -1726,7 +1714,7 @@
     "totalScore": 4.7,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
     "categories": [
       "Pharmacy"
     ],
@@ -1836,12 +1824,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxshF8GR5o3d6fLp2QFCzLipKdVj5YsLknG6Ga=w426-h240-k-no",
     "kgmid": "/g/11kryg5_mc",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Fairfax Pharmacy",
@@ -1952,7 +1938,8 @@
     "is_compounding": false,
     "confidence": 0.85,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "CVS Pharmacy",
@@ -1976,7 +1963,7 @@
     "totalScore": 3.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJLfwLUP1p5okRMxbIKAorTck",
     "categories": [
       "Pharmacy"
     ],
@@ -2097,10 +2084,8 @@
     "kgmid": "/g/11c46bfhz7",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Valley Independent Pharmacy",
@@ -2240,7 +2225,8 @@
     "is_compounding": false,
     "confidence": 0.9,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   },
   {
     "title": "Department of Pharmacology - University of Vermont",
@@ -2304,6 +2290,7 @@
     "is_compounding": false,
     "confidence": 1.0,
     "source": "perplexity",
-    "method": "llm"
+    "method": "llm",
+    "query_location": "colchester_vt"
   }
 ]

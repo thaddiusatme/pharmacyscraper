@@ -374,7 +374,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": true,
-    "confidence": 0.95,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -516,7 +516,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJjfg3Hxp7PIgRxGUrLONIDxI",
     "categories": [
       "Pharmacy"
     ],
@@ -650,12 +650,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPkgXiN3v8H7pfN7d5itRE-YaZ-l4qvMfCo-l_p=w408-h544-k-no",
     "kgmid": "/g/11sz4bv4qd",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Community Discount Pharmacy",
@@ -1315,7 +1313,7 @@
     "totalScore": 5,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJbfUuy5l_PIgRomMmToiiX-0",
     "categories": [
       "Pharmacy"
     ],
@@ -1394,12 +1392,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN--eY9IjHUAkmiGZSq_iBxUiHAXb-gYqT2XVwD=w408-h306-k-no",
     "kgmid": "/g/11wj767q7b",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.9,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Monroe Pharmacy",
@@ -1533,7 +1529,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2377,7 +2373,7 @@
     "totalScore": 3.4,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJW6eMozd4PIgR0EaadkIrAu8",
     "categories": [
       "Pharmacy"
     ],
@@ -2495,9 +2491,7 @@
     "kgmid": "/g/11f_4d03l3",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]

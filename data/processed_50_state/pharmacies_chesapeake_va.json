@@ -664,7 +664,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -737,7 +737,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -902,7 +902,7 @@
     "totalScore": 4.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJq0AqrJkJuYkROJ3JiCk4BQo",
     "categories": [
       "Pharmacy"
     ],
@@ -1054,12 +1054,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO4Zy55aU1LH0CW2bHYC3HmfsfuM-cFtYoXCaHx=w408-h544-k-no",
     "kgmid": "/g/11jc9nlct5",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Walgreens Pharmacy",
@@ -1085,7 +1083,7 @@
     "totalScore": 2.1,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJEck_coJbwokRCaNOPwrNS5U",
     "categories": [
       "Pharmacy"
     ],
@@ -1246,10 +1244,8 @@
     "kgmid": "/g/1tdcbqtn",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
     "confidence": 1.0,
-    "source": "perplexity",
-    "method": "llm"
+    "source": "rule-based"
   },
   {
     "title": "Proprium Pharmacy",
@@ -1356,7 +1352,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1462,10 +1458,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr_47uYyDXjBHPBWV0fxAznSlLsS612wDlz7EEWT82HB4rADh5Iuyg3eipASK284mzr_r0YEzJNWlszNzWIidsCFEF8vGZZdPjHU9nEjzU-CUH1FtriGeWEwtqz6bOuyItUBucM=w408-h306-k-no",
     "kgmid": "/g/11j4s_1v7q",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "hospital",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.98,
     "source": "perplexity",
     "method": "llm"
   },
@@ -1491,7 +1487,7 @@
     "totalScore": 4.6,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJ9f__WGuVuokRxV0L2xx0DMo",
     "categories": [
       "Pharmacy"
     ],
@@ -1580,12 +1576,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=75LgWiZT4E6fasolIcA9LQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=19.75732&pitch=0&thumbfov=100",
     "kgmid": "/g/11clt7tsl7",
-    "classification": "independent",
-    "is_independent": true,
-    "is_compounding": false,
-    "confidence": 0.85,
-    "source": "perplexity",
-    "method": "llm"
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
   },
   {
     "title": "Bayview SRC Pharmacy",
@@ -1718,7 +1712,7 @@
     "classification": "independent",
     "is_independent": true,
     "is_compounding": false,
-    "confidence": 0.85,
+    "confidence": 0.9,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2277,10 +2271,10 @@
     "isAdvertisement": false,
     "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noP0quvjmEVRjXPoPsf_0wU81eo3RN2e5W3yHYNCx4XwcTP2EH8tiBu6oDBkLL3nblmRhctg2eVcK8vHsW7L7B_XCG5ffIfo7DTydei8n1md72e_44q5jy6-qfm4xJcEi7kOkHq=w408-h306-k-no",
     "kgmid": "/g/1wfcq0yr",
-    "classification": "independent",
-    "is_independent": true,
+    "classification": "chain",
+    "is_independent": false,
     "is_compounding": false,
-    "confidence": 0.9,
+    "confidence": 0.95,
     "source": "perplexity",
     "method": "llm"
   },
@@ -2399,7 +2393,7 @@
     "totalScore": 3.3,
     "permanentlyClosed": false,
     "temporarilyClosed": false,
-    "placeId": null,
+    "placeId": "ChIJgWubdcC8uokRe2e2XeRQRF0",
     "categories": [
       "Pharmacy",
       "Herbal medicine store",
@@ -2515,9 +2509,7 @@
     "kgmid": "/g/1v4ptxl6",
     "classification": "chain",
     "is_independent": false,
-    "is_compounding": false,
-    "confidence": 0.99,
-    "source": "perplexity",
-    "method": "llm"
+    "confidence": 1.0,
+    "source": "rule-based"
   }
 ]
