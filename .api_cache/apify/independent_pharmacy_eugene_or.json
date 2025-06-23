@@ -1,0 +1,2510 @@
+[
+  {
+    "title": "Broadway Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1515 Oak St, Eugene, OR 97401",
+    "neighborhood": "Downtown",
+    "street": "1515 Oak St",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://broadwayapothecary.com/",
+    "phone": "(888) 644-9352",
+    "phoneUnformatted": "+18886449352",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0430537,
+      "lng": -123.0910103
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS0rHEkEewVQRcxWM2d2YEO4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11e4112c74a4b:0xee1098ddd98c1573",
+    "cid": "17154379059259250035",
+    "reviewsCount": 42,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.579Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Apothecary&query_place_id=ChIJS0rHEkEewVQRcxWM2d2YEO4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq_yLMPLhhqOiJASRw7wiag6WcV9EDoxUJVc4pQ95iWc7VCNC0PlPPBFmj4sJczz0IxbQMocz1lrrs5c0lhruLwv5LIrkbXuB92dkMXturKPkaS405mpis-B_4J8JVg2ryn_Lv_A=w960-h240-k-no",
+    "kgmid": "/g/1tg6k8fx"
+  },
+  {
+    "title": "River Road Health Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "884 River Rd, Eugene, OR 97404",
+    "neighborhood": null,
+    "street": "884 River Rd",
+    "city": "Eugene",
+    "postalCode": "97404",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://oregonhealthmart.com/",
+    "phone": "(541) 636-3522",
+    "phoneUnformatted": "+15416363522",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0763695,
+      "lng": -123.1203442
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB64lb-sdwVQRiDNLFcGRt5M",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11deb6f25ae07:0x93b791c1154b3388",
+    "cid": "10644136502785422216",
+    "reviewsCount": 88,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.580Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=River%20Road%20Health%20Mart&query_place_id=ChIJB64lb-sdwVQRiDNLFcGRt5M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPMtXewetsdd6VXmSfBWRGK7ZlyIuiKWG7FN8Q=w648-h240-k-no",
+    "kgmid": "/g/1xgrmnw_"
+  },
+  {
+    "title": "Tracktown pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1373 Olive St, Eugene, OR 97401",
+    "neighborhood": "West Eugene",
+    "street": "1373 Olive St",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.tracktownpharmacy.com/",
+    "phone": "(541) 844-7270",
+    "phoneUnformatted": "+15418447270",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0444336,
+      "lng": -123.093931
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYdl9Dl8fwVQRH_Ly7yXm_GA",
+    "categories": [
+      "Pharmacy",
+      "Delivery service",
+      "Drug testing service",
+      "Drug store",
+      "STD testing service",
+      "Travel clinic",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54c11f5f0e7dd961:0x60fce625eff2f21f",
+    "cid": "6988713772386021919",
+    "reviewsCount": 22,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.581Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Asian-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "American Sign Language": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tracktown%20pharmacy&query_place_id=ChIJYdl9Dl8fwVQRH_Ly7yXm_GA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLJzdy-VFODH82bYgI8R-UkcB26NJiQGLsKU9J=w408-h307-k-no",
+    "kgmid": "/g/11y3v8mnvq"
+  },
+  {
+    "title": "NW Pharmaceutical Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "911 Country Club Rd, Eugene, OR 97401",
+    "neighborhood": "Cal Young",
+    "street": "911 Country Club Rd",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.nwpcoregonrx.com/",
+    "phone": "(541) 431-7377",
+    "phoneUnformatted": "+15414317377",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0660103,
+      "lng": -123.0955572
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_c3NJxMewVQR6OMEgrj520s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11e1327cdcdfd:0x4bdbf9b88204e3e8",
+    "cid": "5466237143594886120",
+    "reviewsCount": 18,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.581Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NW%20Pharmaceutical%20Compounding&query_place_id=ChIJ_c3NJxMewVQR6OMEgrj520s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2gFRHmQ7PG0WkSW2NFOHNA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.851456&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgp9_nt"
+  },
+  {
+    "title": "Managed Healthcare Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1750 Willow Creek Cir, Eugene, OR 97402",
+    "neighborhood": "Western",
+    "street": "1750 Willow Creek Cir",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.managedhealthcarepharmacy.com/",
+    "phone": "(541) 744-1641",
+    "phoneUnformatted": "+15417441641",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.038913,
+      "lng": -123.1818161
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxyaAkTAcwVQRXYJ7RSt6hQI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11c30918026c7:0x2857a2b457b825d",
+    "cid": "181685686246277725",
+    "reviewsCount": 34,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.581Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Managed%20Healthcare%20Pharmacy&query_place_id=ChIJxyaAkTAcwVQRXYJ7RSt6hQI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfh_r4KpmMT1zlEuspDv0QirKUiwx-Z4g7c41U=w408-h306-k-no",
+    "kgmid": "/g/1tmgc4lb"
+  },
+  {
+    "title": "BHS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1455 Westec Dr, Eugene, OR 97402",
+    "neighborhood": "Western",
+    "street": "1455 Westec Dr",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.bhspharmacy.com/",
+    "phone": "(877) 832-7032",
+    "phoneUnformatted": "+18778327032",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0459303,
+      "lng": -123.1830171
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ61VO6wUcwVQR8WunOQYLUgA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11c05eb4e55eb:0x520b0639a76bf1",
+    "cid": "23093069455256561",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.581Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BHS%20Pharmacy&query_place_id=ChIJ61VO6wUcwVQR8WunOQYLUgA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mmm7jjlIds07FPtxazn2Dg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.22763&pitch=0&thumbfov=100",
+    "kgmid": "/g/1pp2x9037"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "145 E 18th Ave, Eugene, OR 97401",
+    "neighborhood": "Downtown",
+    "street": "145 E 18th Ave",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/or/eugene/145-e-18th-ave.html",
+    "phone": "(541) 683-9684",
+    "phoneUnformatted": "+15416839684",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0407303,
+      "lng": -123.0906982
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP8lqFkQewVQRIaOJiK7CYqE",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54c11e44166ac93f:0xa162c2ae8889a321",
+    "cid": "11629071242694861601",
+    "reviewsCount": 92,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.581Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 4 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJP8lqFkQewVQRIaOJiK7CYqE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSjFEEb6zwRSQfNDDkM3F6qo10eCaR-WFu-CJw76YEvCiMPxekfZ9iD96HjWEHi2eY-GwMK5u4c5S6-m4X2AnQh0qhpcQC0TcrxgxmHc7js2jm0QF_g1cSnu96WUBP2_vW713cCg=w408-h343-k-no",
+    "kgmid": "/g/1tjdr1j3"
+  },
+  {
+    "title": "Hirons Drug",
+    "description": "Retail chain specializing in greeting cards, gift wrap, ornaments & gifts for all occasions.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1950 Franklin Blvd, Eugene, OR 97403",
+    "neighborhood": null,
+    "street": "1950 Franklin Blvd",
+    "city": "Eugene",
+    "postalCode": "97403",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://hironsdrug.com/",
+    "phone": "(541) 344-5268",
+    "phoneUnformatted": "+15413445268",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0450614,
+      "lng": -123.0640493
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3zy0iCUewVQRDfkw1l5AJZY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11e2588b43cdf:0x9625405ed630f90d",
+    "cid": "10819124455892121869",
+    "reviewsCount": 119,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.582Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hirons%20Drug&query_place_id=ChIJ3zy0iCUewVQRDfkw1l5AJZY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFfPYTf_9TF9NaqCXdW-WxEO-vceVmkpOk5yPTupujCvCeR89VAuJBwJVhvdMEQwjM7kJidZ6b_9HXajBwskoG4zNNop0FYSv5TfExbaOmt3TGM5yrH0OB1Zq_Ce_SDfcRawOT=w408-h306-k-no",
+    "kgmid": "/g/1v4k6794"
+  },
+  {
+    "title": "Hirons Drug",
+    "description": "Retail chain specializing in greeting cards, gift wrap, ornaments & gifts for all occasions.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "185 E 18th Ave, Eugene, OR 97401",
+    "neighborhood": "Downtown",
+    "street": "185 E 18th Ave",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://stores.hallmark.com/or/eugene/hirons-drug-eugene-or-019529.html",
+    "phone": "(541) 344-4832",
+    "phoneUnformatted": "+15413444832",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0407055,
+      "lng": -123.0901115
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnXWIHUQewVQRj9xVbag6QwE",
+    "categories": [
+      "Pharmacy",
+      "Christmas store",
+      "Gift shop",
+      "Gift wrap store",
+      "Novelty store",
+      "Paper store",
+      "Picture frame shop",
+      "Scrapbooking store",
+      "Stationery store"
+    ],
+    "fid": "0x54c11e441d88759d:0x1433aa86d55dc8f",
+    "cid": "90980912540802191",
+    "reviewsCount": 360,
+    "imagesCount": 209,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.582Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hirons%20Drug&query_place_id=ChIJnXWIHUQewVQRj9xVbag6QwE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2mTygUs9J8YsIGsWoMu5ilif-QayvH_aGZqQiZ0k--_K8qizqEndu4nqKdzBZ0D0WDfa5lbRcSn-N2k5i1k3MWGgz96NGZDhT5qZ_UHttaUyuptzM8JhZa0LNdfitwxoL_oA=w426-h240-k-no",
+    "kgmid": "/g/1tgj8k1y"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4575 W 11th Ave, Eugene, OR 97402",
+    "neighborhood": "Western",
+    "street": "4575 W 11th Ave",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/eugene-or-pharmacies/4575-w-11th-ave-eugene-or-97402/storeid=16744?WT.mc_id=LS_GOOGLE_RX_16744",
+    "phone": "(541) 684-4589",
+    "phoneUnformatted": "+15416844589",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.049021,
+      "lng": -123.1713564
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp1AH1RscwVQRcr8TsoiqjQo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11c1bd50750a7:0xa8daa88b213bf72",
+    "cid": "760451416175394674",
+    "reviewsCount": 95,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.582Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJp1AH1RscwVQRcr8TsoiqjQo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMr2ydAD-21Y8xDp3oVAtw17Cp-4kzaQlyWyO2I=w408-h272-k-no",
+    "kgmid": "/g/1tpn28xq"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3333 W 11th Ave, Eugene, OR 97402",
+    "neighborhood": "Western",
+    "street": "3333 W 11th Ave",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00417?cid=loc_70100417P_gmb",
+    "phone": "(541) 484-3013",
+    "phoneUnformatted": "+15414843013",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0492758,
+      "lng": -123.1431123
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5TBzw2sewVQRIYeeZBDCJak",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54c11e6bc37330e5:0xa925c210649e8721",
+    "cid": "12188361342211491617",
+    "reviewsCount": 99,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.582Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJ5TBzw2sewVQRIYeeZBDCJak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbXFyRGV2mOLYxxMohcZaLuP5bWQlyShDGwQwfARYd9cQoCkIlIAb48NtEM-O1Yhg_qCVRYDZ0GwQPtOzxlGGPpgbK4GLnqZUynt0pBTYf1obno5yoo4FEx4d7Vd2cPXvmUCYm=w431-h240-k-no",
+    "kgmid": "/g/1ptvvttbb"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "311 Coburg Rd, Eugene, OR 97401",
+    "neighborhood": "Harlow",
+    "street": "311 Coburg Rd",
+    "city": "Eugene",
+    "postalCode": "97401",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/or/eugene/311-coburg-rd.html",
+    "phone": "(541) 342-7893",
+    "phoneUnformatted": "+15413427893",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0645754,
+      "lng": -123.073791
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzdlpCP3hwFQRrBmmHd7-vNo",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54c0e1fd0869d9cd:0xdabcfede1da619ac",
+    "cid": "15761753025823513004",
+    "reviewsCount": 47,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.582Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 4 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJzdlpCP3hwFQRrBmmHd7-vNo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqkP9mYXKybNWtXSZWfOZvUwEv9HbkKmGfdmt_3HxFLlj7jO0WAwuEqjNz8fc4B1lC6l_jdmhyz6udIKCHtyhfZZqLfKwMXNqGiqHdh-Hm9BD-tJuGGeqZDuxRHqOMRZN4Y3496=w426-h240-k-no",
+    "kgmid": "/g/11cjkvmkp6"
+  },
+  {
+    "title": "Rite Aid Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "57 W 29th Ave, Eugene, OR 97405",
+    "neighborhood": "College Hill",
+    "street": "57 W 29th Ave",
+    "city": "Eugene",
+    "postalCode": "97405",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/or/eugene/57-west-29th-avenue.html",
+    "phone": "(541) 342-7648",
+    "phoneUnformatted": "+15413427648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0264708,
+      "lng": -123.0938799
+    },
+    "totalScore": 1.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVVWVHlUewVQRJqkeLZup1QE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11e551e955555:0x1d5a99b2d1ea926",
+    "cid": "132198248019306790",
+    "reviewsCount": 42,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.583Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–6 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid%20Pharmacy&query_place_id=ChIJVVWVHlUewVQRJqkeLZup1QE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq05J5jZE8LJQO3e7yi8WZDpvtIOQqSvq-leAnN9tUUGqUOGRFNJlJ50MUtbyp2w0sFDk9seXODNYWQCp2KrrdCEI6_KrqMevEI1p1K0MwkTnG2PLwVqD4ajw-2rLGDnl-qUVU=w408-h725-k-no",
+    "kgmid": "/g/11f005xbjc"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1675 W 18th Ave, Eugene, OR 97402",
+    "neighborhood": "West Eugene",
+    "street": "1675 W 18th Ave",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/or/eugene/1675-w-18th-ave.html",
+    "phone": "(541) 485-9269",
+    "phoneUnformatted": "+15414859269",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0414835,
+      "lng": -123.1168082
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg4mi22EewVQRxP_J5VZMEWk",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54c11e61dba28983:0x69114c56e5c9ffc4",
+    "cid": "7570916384692633540",
+    "reviewsCount": 27,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.583Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 4 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJg4mi22EewVQRxP_J5VZMEWk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@45.410355141996405,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNeD7u_zQ2CIqaRYmtumBNdHGI96dSdXboZo8_C=w426-h240-k-no",
+    "kgmid": "/g/11bztzsbm_"
+  },
+  {
+    "title": "Bi-Mart Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1680 W 18th Ave, Eugene, OR 97402",
+    "neighborhood": "Friendly",
+    "street": "1680 W 18th Ave",
+    "city": "Eugene",
+    "postalCode": "97402",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.bimart.com/",
+    "phone": "(541) 342-5581",
+    "phoneUnformatted": "+15413425581",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0394822,
+      "lng": -123.1167474
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfeaJh4oewVQR3PExCG00hKw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54c11e8a8789e67d:0xac84346d0831f1dc",
+    "cid": "12431118514342982108",
+    "reviewsCount": 29,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:54.757Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bi-Mart%20Pharmacy&query_place_id=ChIJfeaJh4oewVQR3PExCG00hKw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@69.9064287015676,-140.45172212891654,9z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVOZLrjcQ9AstFF4sN24QYWy9XqdJp7KTJ0sAHgHUnm659iEFL3lJr6Wm3VCVSCv-zfC-43EVkbqOEYJTQN3MLSsO17JzU0G2IcFJlZemG5Coix4vuXW9ASWcsJDGUFpZ0St4=w408-h544-k-no",
+    "kgmid": "/g/1jkw8ggcx"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "3075 Hilyard St, Eugene, OR 97405",
+    "neighborhood": "Southeast Eugene",
+    "street": "3075 Hilyard St",
+    "city": "Eugene",
+    "postalCode": "97405",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/or/eugene/3075-hilyard-st.html",
+    "phone": "(541) 687-4241",
+    "phoneUnformatted": "+15416874241",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0231027,
+      "lng": -123.0809061
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIXtyiK4fwVQRhiojGB6km88",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54c11fae88727b21:0xcf9ba41e18232a86",
+    "cid": "14959731036402166406",
+    "reviewsCount": 36,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:56.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 4 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJIXtyiK4fwVQRhiojGB6km88",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@60.447283950000006,-172.6715933,12z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOwby9YZ8FXotJaeP1CZvy7LtC8tEDr0HFrd9mhPwN-iTyHdFC-tXnqzBlO1JIpFz0CAy_VxU5wgP4R9l-VAEAS5ICWbI8tAAGXVd84gQG90bueZCrLWi3oam4SSwD2umahQW-NA=w408-h394-k-no",
+    "kgmid": "/g/11h0ltgdg"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "57 W 29th Ave, Eugene, OR 97405",
+    "neighborhood": "South Hills",
+    "street": "57 W 29th Ave",
+    "city": "Eugene",
+    "postalCode": "97405",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/or/eugene/57-west-29th-avenue.html",
+    "phone": "(541) 342-7648",
+    "phoneUnformatted": "+15413427648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0263342,
+      "lng": -123.0936805
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3__FIVUewVQRwoqV9SdmfnM",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x54c11e5521c5ffdf:0x737e6627f5958ac2",
+    "cid": "8322201483237231298",
+    "reviewsCount": 140,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:29:59.301Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJ3__FIVUewVQRwoqV9SdmfnM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@42.54640259466427,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNYE_j92kZ-dkjygw2x2sO6lRngW222yHkM0_B6Eic6rVHUxX_osW-wiDajVSs0qe0SgBtwXoMCOazmBjwl6GaFsu1SK-YDPsOglsmm9yJA0a38w1cRZc6kur3EHn-6iXRgrVB=w408-h306-k-no",
+    "kgmid": "/g/1tffjhm4"
+  },
+  {
+    "title": "Westside Pharmacy (NonCompounding Retail Pharmacy)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "359 SW Century Dr, Bend, OR 97702",
+    "neighborhood": "Century West",
+    "street": "359 SW Century Dr",
+    "city": "Bend",
+    "postalCode": "97702",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.westsidebendrx.com/",
+    "phone": "(541) 323-3777",
+    "phoneUnformatted": "+15413233777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0457805,
+      "lng": -121.3316946
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR5087NDHuFQRmqLk1DSXUUs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54b8c7d0ec3c9d47:0x4b519734d4e4a29a",
+    "cid": "5427285279124005530",
+    "reviewsCount": 95,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 6,
+      "threeStar": 5,
+      "fourStar": 3,
+      "fiveStar": 59
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:00.060Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12:30 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Westside%20Pharmacy%20(NonCompounding%20Retail%20Pharmacy)&query_place_id=ChIJR5087NDHuFQRmqLk1DSXUUs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@42.54640259466427,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNUF9whFrOl97L-vXh-Dzjmk8mPiPcwbnMAtdN=w408-h544-k-no",
+    "kgmid": "/g/1z449xkct"
+  },
+  {
+    "title": "Sky Lakes Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2865 Daggett Ave, Klamath Falls, OR 97601",
+    "neighborhood": null,
+    "street": "2865 Daggett Ave",
+    "city": "Klamath Falls",
+    "postalCode": "97601",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.skylakes.org/",
+    "phone": "(541) 882-6311",
+    "phoneUnformatted": "+15418826311",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.2531897,
+      "lng": -121.7851746
+    },
+    "locatedIn": "Sky Lakes Medical Center- Emergency Room",
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJzVacyH3UyFQRDV7UFspRfsw",
+    "categories": [
+      "Pharmacy",
+      "General practitioner",
+      "Hospital",
+      "Medical Center",
+      "General hospital"
+    ],
+    "fid": "0x54c8d47dc89c56cd:0xcc7e51ca16d45e0d",
+    "cid": "14735304959211101709",
+    "reviewsCount": 337,
+    "reviewsDistribution": {
+      "oneStar": 153,
+      "twoStar": 15,
+      "threeStar": 18,
+      "fourStar": 32,
+      "fiveStar": 119
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:00.060Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Sky Lakes Medical Center- Emergency Room": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Lakes%20Medical%20Center&query_place_id=ChIJzVacyH3UyFQRDV7UFspRfsw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Eugene%20OR/@42.54640259466427,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Eugene OR",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqBA4qrVp1GO4soPSvkUBEhTpHIwVswLZmdZojWRggpKvmO1rgctbrlhE-NaFZ3A5iqomDuEujB2NCmWPWWrekfQPbp35V_vSbyab-AGTPduh9rfuYBWSWuFeEloqv7tIArJsYbyw=w426-h240-k-no",
+    "kgmid": "/m/0gx13jb"
+  }
+]

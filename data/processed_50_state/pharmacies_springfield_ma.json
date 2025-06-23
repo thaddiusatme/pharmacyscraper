@@ -1,0 +1,2228 @@
+[
+  {
+    "title": "Springfield Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2547 Main St, Springfield, MA 01107",
+    "neighborhood": "Memorial Square",
+    "street": "2547 Main St",
+    "city": "Springfield",
+    "postalCode": "01107",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.springfieldpharmacyonline.com/",
+    "phone": "(413) 266-3462",
+    "phoneUnformatted": "+14132663462",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1136145,
+      "lng": -72.6048901
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e798c4401715:0xa64df96e5900f75e",
+    "cid": "11983508435837712222",
+    "reviewsCount": 26,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.642Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Springfield%20Pharmacy&query_place_id=ChIJFRdAxJjn5okRXvcAWW75TaY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2roN-SsPEwzAx38YIgFLoWjPtz6h_krASTuXb=w408-h544-k-no",
+    "kgmid": "/g/11hy9l63t_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mylyfe Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1111 Elm St Suite 12, West Springfield, MA 01089",
+    "neighborhood": null,
+    "street": "1111 Elm St Suite 12",
+    "city": "West Springfield",
+    "postalCode": "01089",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.mylyfe.health/",
+    "phone": "(844) 469-5933",
+    "phoneUnformatted": "+18444695933",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1188998,
+      "lng": -72.6283239
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e1775913b387:0xec2867ad8df5577a",
+    "cid": "17016965187128088442",
+    "reviewsCount": 1,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mylyfe%20Specialty%20Pharmacy&query_place_id=ChIJh7MTWXfh5okRelf1ja1nKOw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhoGlGZuni-7jaMp7ijbClT2fzXQhCyhtGR4Bb=w408-h408-k-no",
+    "kgmid": "/g/11qgb9hskc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Louis & Clark Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "155 Brookdale Dr, Springfield, MA 01151",
+    "neighborhood": "East Springfield",
+    "street": "155 Brookdale Dr",
+    "city": "Springfield",
+    "postalCode": "01151",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.lcdrug.com/",
+    "phone": "(413) 781-2996",
+    "phoneUnformatted": "+14137812996",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1457599,
+      "lng": -72.5266446
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6dd634a146461:0xe490a066f31318a2",
+    "cid": "16469840201319127202",
+    "reviewsCount": 40,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Louis%20%26%20Clark%20Pharmacy&query_place_id=ChIJYWQUSmPd5okRohgT82agkOQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrIOpQnOObtnjhqG-g6vitkmbhNHbbmEHWyU9m1r0-N6RBHeNzkCk6uy090T7mZ2k4FyrV_2Y2MuAainkoOH0Uu_AFV4CkROCJ9KyHfac0ML3KUUM70qFJfji0CWC-4n00sWgvk5g=w408-h306-k-no",
+    "kgmid": "/g/11b7qv8k6b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Caring Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "377 Belmont Ave, Springfield, MA 01108",
+    "neighborhood": "The X",
+    "street": "377 Belmont Ave",
+    "city": "Springfield",
+    "postalCode": "01108",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://caringpharmacy.net/",
+    "phone": "(413) 342-4238",
+    "phoneUnformatted": "+14133424238",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.087475,
+      "lng": -72.563908
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e65eccd459db:0xf943f672edd5a947",
+    "cid": "17961470712360577351",
+    "reviewsCount": 31,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Caring%20Pharmacy&query_place_id=ChIJ21nUzF7m5okRR6nV7XL2Q_k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7D5JtiyKr4J09HZCXtZtqA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=52.282177&pitch=0&thumbfov=100",
+    "kgmid": "/g/1t_wqct0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy Amanecer",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "95 Frank B Murray St, Springfield, MA 01103",
+    "neighborhood": "Metro Center",
+    "street": "95 Frank B Murray St",
+    "city": "Springfield",
+    "postalCode": "01103",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "phone": "(413) 333-5445",
+    "phoneUnformatted": "+14133335445",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1072642,
+      "lng": -72.59306
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e787e54c7039:0xf8e31531ec8cfa9d",
+    "cid": "17934201445285690013",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Amanecer&query_place_id=ChIJOXBM5Yfn5okRnfqM7DEV4_g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kY6yNPMD9g20wdIzo4_DUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=125.264854&pitch=0&thumbfov=100",
+    "kgmid": "/g/11t4txpj5h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Building 105, 1 Federal St Building 102-2, Springfield, MA 01105",
+    "neighborhood": "McKnight",
+    "street": "Building 105, 1 Federal St Building 102-2",
+    "city": "Springfield",
+    "postalCode": "01105",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(413) 372-8676",
+    "phoneUnformatted": "+14133728676",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1097286,
+      "lng": -72.5764861
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e763cc59f5e5:0x282e6bd9d6bf7c7d",
+    "cid": "2895370193800756349",
+    "reviewsCount": 3,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJ5fVZzGPn5okRfXy_1tlrLig",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "kgmid": "/g/11smd_3r3v",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Stop & Shop Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1277 Liberty St, Springfield, MA 01104",
+    "neighborhood": "Liberty Heights",
+    "street": "1277 Liberty St",
+    "city": "Springfield",
+    "postalCode": "01104",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://pharmacy.stopandshop.com/ma/springfield/1277-liberty-street?y_source=1_MTEyMTM2ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(413) 732-7040",
+    "phoneUnformatted": "+14137327040",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.13749,
+      "lng": -72.582119
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e763779c38bd:0x95f941b3c1f23c07",
+    "cid": "10806741021161044999",
+    "reviewsCount": 4,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:08.643Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%20Pharmacy&query_place_id=ChIJvTicd2Pn5okRBzzywbNB-ZU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@63.653579074253855,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9gykEI-BwSfVuQ4Pa3FiUoNAVjAzcifXks7kA=w408-h272-k-no",
+    "kgmid": "/g/1tzlz_c6",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "615-621 Belmont Ave, Springfield, MA 01108, United States",
+    "neighborhood": "The X",
+    "street": "615-621 Belmont Ave",
+    "city": "Springfield",
+    "postalCode": "01108",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/springfield-ma-pharmacies/615-621-belmont-avenue-springfield-ma-01108/storeid=1130?WT.mc_id=LS_GOOGLE_RX_1130",
+    "phone": "+1 413-732-2998",
+    "phoneUnformatted": "+14137322998",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.0862105,
+      "lng": -72.5553692
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e644a77fdafd:0xf9309cdbfba73ccb",
+    "cid": "17956024182959979723",
+    "reviewsCount": 22,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:13.467Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ_dp_p0Tm5okRyzyn-9ucMPk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNBBoY6uXAdVv3zH2Pani4wsT7DasAwU5dRW_kM=w408-h272-k-no",
+    "kgmid": "/g/11c461rsnb",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Airline Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "309 East St, Springfield, MA 01104",
+    "neighborhood": "East Springfield",
+    "street": "309 East St",
+    "city": "Springfield",
+    "postalCode": "01104",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "phone": "(413) 737-7456",
+    "phoneUnformatted": "+14137377456",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.1426713,
+      "lng": -72.5557654
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6dd634a146461:0x5a4f98c7436bf42a",
+    "cid": "6507587968170718250",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Airline%20Drug&query_place_id=ChIJYWQUSmPd5okRKvRrQ8eYT1o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iiWNbS6XHFqqlQSo0sp5Fg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.682295&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b6bbw1mm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "600 State St, Springfield, MA 01109",
+    "neighborhood": "McKnight",
+    "street": "600 State St",
+    "city": "Springfield",
+    "postalCode": "01109",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/springfield-ma-pharmacies/600-state-st-springfield-ma-01109/storeid=4471?WT.mc_id=LS_GOOGLE_RX_4471",
+    "phone": "(413) 736-0351",
+    "phoneUnformatted": "+14137360351",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1099838,
+      "lng": -72.5728288
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e7068edb9c95:0x6c4870d5596a598d",
+    "cid": "7802610416049871245",
+    "reviewsCount": 43,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJlZzbjgbn5okRjVlqWdVwSGw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMjHDeVZltVI07HPhwK1kykH1HMU_VCJRaf42lo=w408-h272-k-no",
+    "kgmid": "/g/11c4682n7w",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Baystate Pharmacy - Springfield - High Street",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "140 High St, Springfield, MA 01105",
+    "neighborhood": "Six Corners",
+    "street": "140 High St",
+    "city": "Springfield",
+    "postalCode": "01105",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.baystatehealth.org/locations/high-street-health-center/baystate-pharmacy",
+    "phone": "(413) 794-9960",
+    "phoneUnformatted": "+14137949960",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1054826,
+      "lng": -72.5794945
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e702c92bf9cb:0xd160c48c116a7e15",
+    "cid": "15087274857557818901",
+    "reviewsCount": 6,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baystate%20Pharmacy%20-%20Springfield%20-%20High%20Street&query_place_id=ChIJy_kryQLn5okRFX5qEYzEYNE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPlm4zimgHoHGH-OHthaStOxahzl2WuRikLT7r0=w426-h240-k-no",
+    "kgmid": "/g/12632md91",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mercy Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "299 Carew St, Springfield, MA 01104",
+    "neighborhood": "Liberty Heights",
+    "street": "299 Carew St",
+    "city": "Springfield",
+    "postalCode": "01104",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.mercycares.com/mercy-rx",
+    "phone": "(413) 452-6337",
+    "phoneUnformatted": "+14134526337",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.1155812,
+      "lng": -72.5929962
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e722cb88fe21:0x7c0eca1e79cff6ba",
+    "cid": "8939304542618515130",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mercy%20Community%20Pharmacy&query_place_id=ChIJIf6IyyLn5okRuvbPeR7KDnw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c6_yH4Zr8jlxEj4rGdmB8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.91203&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfcjsv8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Leader Drug Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "300 Birnie Ave # 101, Springfield, MA 01107",
+    "neighborhood": "Memorial Square",
+    "street": "300 Birnie Ave # 101",
+    "city": "Springfield",
+    "postalCode": "01107",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "phone": "(413) 736-5649",
+    "phoneUnformatted": "+14137365649",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.1210155,
+      "lng": -72.611206
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e733b680011f:0x8f1b3dafa65076fb",
+    "cid": "10311903596413744891",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Leader%20Drug%20Store&query_place_id=ChIJHwGAtjPn5okR-3ZQpq89G48",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t5l8IZnvJ7DPJ6vH64dKiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=90.2549&pitch=0&thumbfov=100",
+    "kgmid": "/g/12607vf84",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Baystate Pharmacy - Springfield - Chestnut Street",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "759 Chestnut St, Springfield, MA 01199",
+    "neighborhood": "Liberty Heights",
+    "street": "759 Chestnut St",
+    "city": "Springfield",
+    "postalCode": "01199",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.baystatehealth.org/locations/baystate-medical-center/pharmacy",
+    "phone": "(413) 794-3291",
+    "phoneUnformatted": "+14137943291",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1216158,
+      "lng": -72.6037013
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e7d0e16abaf9:0x382b4bc101f89572",
+    "cid": "4047411982456362354",
+    "reviewsCount": 13,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baystate%20Pharmacy%20-%20Springfield%20-%20Chestnut%20Street&query_place_id=ChIJ-bpq4dDn5okRcpX4AcFLKzg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npdIu-s6qjEsQr4dCRdfrpTUrbhZ6XQAyJZeC1vMY8EJTNfseTaa-uDSxJ2QbpE_ZLzaVxOWzVEH9F4bXVwychErmXuiyjPsXmlUmWzjrUE8h7kqEPvjb9T1vCcLABnCo-Z1mz0Zg=w408-h306-k-no",
+    "kgmid": "/g/11bbwxbg1_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Baystate Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3300 Main St Flr 1, Springfield, MA 01107",
+    "neighborhood": "Memorial Square",
+    "street": "3300 Main St Flr 1",
+    "city": "Springfield",
+    "postalCode": "01107",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.baystatehealth.org/locations/tolosky-center/specialty-pharmacy",
+    "phone": "(855) 865-5432",
+    "phoneUnformatted": "+18558655432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1229554,
+      "lng": -72.6100348
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e7f9fe642e35:0xd9c0cb8df510dda8",
+    "cid": "15690764912321158568",
+    "reviewsCount": 18,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baystate%20Specialty%20Pharmacy&query_place_id=ChIJNS5k_vnn5okRqN0Q9Y3LwNk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOyS70lEGByDUdHu0BVGKlVt9vpk0SXF8zHHiet=w426-h240-k-no",
+    "kgmid": "/g/11bbrltj80",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Springfield Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "284 High St, Holyoke, MA 01040",
+    "neighborhood": "Downtown",
+    "street": "284 High St",
+    "city": "Holyoke",
+    "postalCode": "01040",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://springfieldpharmacyonline.com/",
+    "phone": "(413) 261-6664",
+    "phoneUnformatted": "+14132616664",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.2060824,
+      "lng": -72.6082559
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6dd969b779ed5:0x6a6c681def66abdb",
+    "cid": "7668618743284935643",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Springfield%20Pharmacy&query_place_id=ChIJ1Z53m5bd5okR26tm7x1obGo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OZaCXZTsCqHmSAVS6tryOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=138.00262&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lgh8nc2y",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "619 Chestnut St, Springfield, MA 01107",
+    "neighborhood": "Memorial Square",
+    "street": "619 Chestnut St",
+    "city": "Springfield",
+    "postalCode": "01107",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-619+chestnut+st-springfield-ma-01107/id=16537",
+    "phone": "(413) 271-9990",
+    "phoneUnformatted": "+14132719990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.117307,
+      "lng": -72.6018723
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e7254a9196f5:0xeb1396b0e561c202",
+    "cid": "16939048309977367042",
+    "reviewsCount": 12,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:42.237Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJ9ZaRSiXn5okRAsJh5bCWE-s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@62.99917890220563,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNt8lIrNJCuIJq9EWLoU8cvwsO3o_hJ-gA9HPuF=w427-h240-k-no",
+    "kgmid": "/g/11f08s3j3n",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "501 Sumner Ave, Springfield, MA 01108, United States",
+    "neighborhood": "The X",
+    "street": "501 Sumner Ave",
+    "city": "Springfield",
+    "postalCode": "01108",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-501+sumner+ave-springfield-ma-01108/id=3736",
+    "phone": "+1 413-746-1563",
+    "phoneUnformatted": "+14137461563",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.085671,
+      "lng": -72.557812
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e65c96aa7b33:0x1c2911ae1cf91b6",
+    "cid": "126823284163449270",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:43.344Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Friday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2\u202fAM to 1:30\u202fam"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fam\u20131:30\u202fam"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJM3uqllzm5okRtpHP4RqRwgE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@65.73786228335844,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNRy22mt2BfE9cVe4O4RCtQG9Rzl9bkAKZX5wgB=w525-h240-k-no",
+    "kgmid": "/g/11g8cyxbyl",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Baystate Pharmacy - Springfield - Plainfield Street",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "380 Plainfield St, Springfield, MA 01107, United States",
+    "neighborhood": "Brightwood",
+    "street": "380 Plainfield St",
+    "city": "Springfield",
+    "postalCode": "01107",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.baystatehealth.org/locations/brightwood-health-center-centro-de-salud/baystate-pharmacy",
+    "phone": "+1 413-794-9442",
+    "phoneUnformatted": "+14137949442",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.1171979,
+      "lng": -72.6144701
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e6e75a9105f095:0x81ea7e952e66117",
+    "cid": "585089622164791575",
+    "reviewsCount": 3,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:40:43.344Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baystate%20Pharmacy%20-%20Springfield%20-%20Plainfield%20Street&query_place_id=ChIJlfAFkVrn5okRF2HmUumnHgg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@65.73786228335844,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4EQ_-4_binbY1ZMhfU1w2Wg3bxvY2MzAfKpUq=w426-h240-k-no",
+    "kgmid": "/g/11fm15tr9f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:41:32.411Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springfield%20MA/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Springfield MA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

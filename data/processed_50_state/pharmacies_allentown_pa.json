@@ -1,0 +1,2600 @@
+[
+  {
+    "title": "Rittersville Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1316 Hanover Ave, Allentown, PA 18109",
+    "neighborhood": "Rittersville",
+    "street": "1316 Hanover Ave",
+    "city": "Allentown",
+    "postalCode": "18109",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://rittersvillerx.com/",
+    "phone": "(484) 201-2390",
+    "phoneUnformatted": "+14842012390",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6178875,
+      "lng": -75.4347686
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Diagnostic center",
+      "Medical Center",
+      "Medical supply store",
+      "Pharmaceutical products wholesaler",
+      "Store",
+      "Surgical products wholesaler",
+      "Surgical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c43945029d4e3f:0x51319f5eae455a80",
+    "cid": "5850632619930507904",
+    "reviewsCount": 43,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.546Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rittersville%20Pharmacy&query_place_id=ChIJP06dAkU5xIkRgFpFrl6fMVE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIBZvNWa6-BsM0pIoMp1QutpP-2rh8P7IuBooO=w408-h306-k-no",
+    "kgmid": "/g/11s8yqt117",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Allentown Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "416 Tilghman St, Allentown, PA 18102",
+    "neighborhood": "Jordan Heights",
+    "street": "416 Tilghman St",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "(610) 351-1900",
+    "phoneUnformatted": "+16103511900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6131073,
+      "lng": -75.4705144
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c439775369801d:0xbae7d7d5895e965e",
+    "cid": "13467970522807440990",
+    "reviewsCount": 60,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.547Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Allentown%20Pharmacy&query_place_id=ChIJHYBpU3c5xIkRXpZeidXX57o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPobtd4IGxvuL5X986iK1F2DNwQdP96uJwEC2fg=w408-h271-k-no",
+    "kgmid": "/g/1th5dhx2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "New Liberty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1606 W Allen St, Allentown, PA 18102",
+    "neighborhood": null,
+    "street": "1606 W Allen St",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://www.newlibertypharmacy.com/",
+    "phone": "(610) 437-8800",
+    "phoneUnformatted": "+16104378800",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.6049857,
+      "lng": -75.4942197
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43988ec91e089:0x9417407506cf73f",
+    "cid": "666941794590455615",
+    "reviewsCount": 31,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.547Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Liberty%20Pharmacy&query_place_id=ChIJieCR7Ig5xIkRP_dsUAd0QQk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqoEYCAedYdJ5bNuP9oMOYkkk8qsaTh-c0nTV6h_KU87JAM0pJNu-W0RLrLBd7HsSpMRL_5UHSs1UYiuTRntq_Y5YRKw0375Plpk1uXlYBnn29E1ohvJn5_BcqLOcx6lGrmXVs=w426-h240-k-no",
+    "kgmid": "/g/124yct3xs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dorneyville Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3330 Hamilton Blvd, Allentown, PA 18103",
+    "neighborhood": null,
+    "street": "3330 Hamilton Blvd",
+    "city": "Allentown",
+    "postalCode": "18103",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://www.dorneyvillepharmacy.com/",
+    "phone": "(610) 437-4600",
+    "phoneUnformatted": "+16104374600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5781841,
+      "lng": -75.5244166
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab"
+    ],
+    "fid": "0x89c43a770151363f:0x5a086d8ccbff0003",
+    "cid": "6487555714712535043",
+    "reviewsCount": 50,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.547Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": false
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dorneyville%20Pharmacy&query_place_id=ChIJPzZRAXc6xIkRAwD_y4xtCFo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npbMK4sFMIgjl4pjRJNXrFd83hxOcKQIvZuZLl8QZ72-lnvo4gU4S1jk4hD1Y8ZFbrtf1Eg_2q46QJL4bSawJKD9qSreFe2fpzo35EhIU_1IGyxgBileK_D2m2MvLcwMrLU7pA3=w408-h306-k-no",
+    "kgmid": "/g/1tp286ck",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Lehigh Discount Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1444 Hamilton St suite #1, Allentown, PA 18102",
+    "neighborhood": null,
+    "street": "1444 Hamilton St suite #1",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "(610) 351-1800",
+    "phoneUnformatted": "+16103511800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5974866,
+      "lng": -75.4873666
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43a2967184613:0xf649ae5e68a07159",
+    "cid": "17746907527135654233",
+    "reviewsCount": 28,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Discount%20Drugs%20Pharmacy&query_place_id=ChIJE0YYZyk6xIkRWXGgaF6uSfY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ULLmKfTV9CHlBVR1hKPxlg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.775964&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f0kvhqk8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Lehigh Valley Pharmacy Services Specialty Division",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2024 Lehigh St Suite 600, Allentown, PA 18103",
+    "neighborhood": null,
+    "street": "2024 Lehigh St Suite 600",
+    "city": "Allentown",
+    "postalCode": "18103",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "(610) 402-2748",
+    "phoneUnformatted": "+16104022748",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5739959,
+      "lng": -75.4815001
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43b76c872f459:0x12511ea5e6e3eacc",
+    "cid": "1319869863688399564",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Valley%20Pharmacy%20Services%20Specialty%20Division&query_place_id=ChIJWfRyyHY7xIkRzOrj5qUeURI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RmnfbO22vq4hcOVQuXlx6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=303.8313&pitch=0&thumbfov=100",
+    "kgmid": "/g/11k0727p68",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Lehigh Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "207 N 6th St, Allentown, PA 18102",
+    "neighborhood": "Jordan Heights",
+    "street": "207 N 6th St",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "(484) 221-9299",
+    "phoneUnformatted": "+14842219299",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.605884,
+      "lng": -75.4710336
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c4394b0dd9d439:0x60234441eb6c576e",
+    "cid": "6927455701739263854",
+    "reviewsCount": 33,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lehigh%20Community%20Pharmacy&query_place_id=ChIJOdTZDUs5xIkRblds60FEI2A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKDgjsZWubZ8tw-uSSskxwMx4k2aNFiozVI_2F=w672-h240-k-no",
+    "kgmid": "/g/11fwj9z7_5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Parkway Plaza Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1471 Lehigh St Unit 28, Allentown, PA 18103",
+    "neighborhood": null,
+    "street": "1471 Lehigh St Unit 28",
+    "city": "Allentown",
+    "postalCode": "18103",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://theparkwayplazapharmacy.com/",
+    "phone": "(484) 443-6337",
+    "phoneUnformatted": "+14844436337",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5780107,
+      "lng": -75.4789254
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c43b360c7c2d5d:0x2a7c56549c0689f9",
+    "cid": "3061416768100010489",
+    "reviewsCount": 14,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parkway%20Plaza%20Pharmacy&query_place_id=ChIJXS18DDY7xIkR-YkGnFRWfCo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2IMT7kogrH_MBkx6bs14FZYJbOqvGfTZKypXy=w408-h472-k-no",
+    "kgmid": "/g/11khy0y6jb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Americus Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "723 N 19th St, Allentown, PA 18104",
+    "neighborhood": "West End Theatre District",
+    "street": "723 N 19th St",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://americuspharmacy.com/",
+    "phone": "(610) 437-4874",
+    "phoneUnformatted": "+16104374874",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6057734,
+      "lng": -75.5011735
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c4398ba9992c8d:0xa4deaf7262cfee64",
+    "cid": "11880125772868873828",
+    "reviewsCount": 4,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Americus%20Pharmacy&query_place_id=ChIJjSyZqYs5xIkRZO7PYnKv3qQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHz30QzfDTvkxFvfb756v9IH4OSnlxBBAPGESN=w426-h240-k-no",
+    "kgmid": "/g/1td9x1rk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Emmaus Avenue Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1932 S 4th St STE A, Allentown, PA 18103",
+    "neighborhood": null,
+    "street": "1932 S 4th St STE A",
+    "city": "Allentown",
+    "postalCode": "18103",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "(484) 860-3227",
+    "phoneUnformatted": "+14848603227",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5792106,
+      "lng": -75.4555784
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43bc6e13266cf:0x34c195f6a6c62a94",
+    "cid": "3801484447069907604",
+    "reviewsCount": 8,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Emmaus%20Avenue%20Pharmacy&query_place_id=ChIJz2Yy4cY7xIkRlCrGpvaVwTQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOERnRjyRF7vmozf7fiY7w9ckENVWOYgFSoWfUA=w426-h240-k-no",
+    "kgmid": "/g/11n26fggf8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.8,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "UNIVERSAL RX PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "161 Tilghman St, Allentown, PA 18102",
+    "neighborhood": "6th Ward",
+    "street": "161 Tilghman St",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://universalrxpharmacy.com/",
+    "phone": "(610) 351-5041",
+    "phoneUnformatted": "+16103515041",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6156811,
+      "lng": -75.4629911
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c439ef7e7809af:0x750afd68e3d314ad",
+    "cid": "8433831879145362605",
+    "reviewsCount": 16,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=UNIVERSAL%20RX%20PHARMACY&query_place_id=ChIJrwl4fu85xIkRrRTT42j9CnU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPw7FxyeYfhshfXIKlxXwHSuADvYYL3g4AJbQfi=w408-h306-k-no",
+    "kgmid": "/g/11swfsj77d",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "VALLEY DISCOUNT PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "324 N 7th St, Allentown, PA 18102",
+    "neighborhood": "7th Street",
+    "street": "324 N 7th St",
+    "city": "Allentown",
+    "postalCode": "18102",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://www.valleydiscountrx.com/",
+    "phone": "(484) 202-7777",
+    "phoneUnformatted": "+14842027777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6070611,
+      "lng": -75.4741678
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c4397a33809843:0x1f858b66f825a85b",
+    "cid": "2271374861444425819",
+    "reviewsCount": 30,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=VALLEY%20DISCOUNT%20PHARMACY&query_place_id=ChIJQ5iAM3o5xIkRW6gl-GaLhR8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5SbaXRGsmt6YAqOkQVuQzM1XxiapS3XnbXigv=w426-h240-k-no",
+    "kgmid": "/g/11c6cy_dst",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Express Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1727 Liberty St UNIT 2, Allentown, PA 18104",
+    "neighborhood": "West End Theatre District",
+    "street": "1727 Liberty St UNIT 2",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/express-care-pharmacy-allentown-pa-18104/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3998690",
+    "phone": "(610) 351-2273",
+    "phoneUnformatted": "+16103512273",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6035132,
+      "lng": -75.4968524
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c43989c04ef41f:0x5a683bbbe2bebd17",
+    "cid": "6514522539140496663",
+    "reviewsCount": 7,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Express%20Care%20Pharmacy&query_place_id=ChIJH_ROwIk5xIkRF72-4rs7aFo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-Xim_GfPT5upKz5x92BdNfk_kpNRLQZ-zbeSu=w408-h306-k-no",
+    "kgmid": "/g/11bbx0z6l5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicap\u00ae Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5924 Tilghman St Suite A, Allentown, PA 18104",
+    "neighborhood": null,
+    "street": "5924 Tilghman St Suite A",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://www.medicap.com/",
+    "phone": "(610) 336-9033",
+    "phoneUnformatted": "+16103369033",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5910208,
+      "lng": -75.5923032
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c4311423e56a09:0x57b3c26687a88d93",
+    "cid": "6319608447749361043",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:33:56.549Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicap%C2%AE%20Pharmacy&query_place_id=ChIJCWrlIxQxxIkRk42oh2bCs1c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@16.879597252440885,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O9VMVV1fpA8jYNGr8Zci1w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.41826&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfff3_g",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Luke's HomeStar Pharmacy Services - Allentown",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "South Tower, 1736 Hamilton St First Floor, Allentown, PA 18104",
+    "neighborhood": "Union Terrace",
+    "street": "South Tower, 1736 Hamilton St First Floor",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://www.slhn.org/locations/stlukes-homestar-pharmacy-services-allentown",
+    "phone": "(610) 628-7577",
+    "phoneUnformatted": "+16106287577",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5959853,
+      "lng": -75.4930008
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43a25f6eaaaab:0x3ad7711b582f8d35",
+    "cid": "4239981936450178357",
+    "reviewsCount": 15,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:00.315Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Luke's%20HomeStar%20Pharmacy%20Services%20-%20Allentown&query_place_id=ChIJq6rq9iU6xIkRNY0vWBtx1zo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@20.73781128834407,145.10027158935802,13z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGY6270hGsfpdrGguhhrsEXTWkmzxBdhDlweCf=w426-h240-k-no",
+    "kgmid": "/g/11ckqm22l0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "GIANT Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3015 W Emaus Ave, Allentown, PA 18103",
+    "neighborhood": null,
+    "street": "3015 W Emaus Ave",
+    "city": "Allentown",
+    "postalCode": "18103",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://pharmacy.giantfoodstores.com/pa/allentown/3015-w.-emmaus-ave.?y_source=1_MTIxMzUyNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(610) 791-9588",
+    "phoneUnformatted": "+16107919588",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5591897,
+      "lng": -75.4825942
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43afe30597029:0xcf302a7100c6f750",
+    "cid": "14929479429565904720",
+    "reviewsCount": 14,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:02.990Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GIANT%20Pharmacy&query_place_id=ChIJKXBZMP46xIkRUPfGAHEqMM8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@20.609250162781358,144.82605873688064,13z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noK7srFl0KcJTplz-Hd5KKb9D8-G8iOJOiPSS71zjNfyhFpw9rcYjtpasKj-pmlfW-e0XcVLZIotFan89J74diPELJjJkgQcYkliOZRYVwvLm6xsLO-NETZ3PFFjTD48KgnjGSY=w426-h240-k-no",
+    "kgmid": "/g/1tdm988l",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "GIANT Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3070 Tilghman St, Allentown, PA 18104",
+    "neighborhood": null,
+    "street": "3070 Tilghman St",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://pharmacy.giantfoodstores.com/pa/allentown/3070-tilghman-st.?y_source=1_MTIxMzUyNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(610) 351-2091",
+    "phoneUnformatted": "+16103512091",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5961779,
+      "lng": -75.5252067
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43a07a5d941d9:0x1d4addc4701ca490",
+    "cid": "2110743211140752528",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:02.990Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GIANT%20Pharmacy&query_place_id=ChIJ2UHZpQc6xIkRkKQccMTdSh0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@20.609250162781358,144.82605873688064,13z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nosbMTJcpGb6s-u67UsgjXJSLnc7n7Y96AYOgXRvqJY1rIeln7k46bKia7OEDtGPLbXnAssnstqZWyvNC8w_EvmB8TEmazE3nXHBnJLZHKwRuYiT3rIb5WJbajXv7mqB6de4CPl=w408-h544-k-no",
+    "kgmid": "/g/11b6ctm7l8",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Phoebe Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6520 Stonegate Dr # 100, Allentown, PA 18106, United States",
+    "neighborhood": null,
+    "street": "6520 Stonegate Dr # 100",
+    "city": "Allentown",
+    "postalCode": "18106",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://phoebepharmacy.org/",
+    "phone": "+1 610-794-5380",
+    "phoneUnformatted": "+16107945380",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5965378,
+      "lng": -75.6060905
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c431427e730ded:0x17fa9ba1384a3042",
+    "cid": "1727864523786432578",
+    "reviewsCount": 8,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:15.921Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Phoebe%20Pharmacy&query_place_id=ChIJ7Q1zfkIxxIkRQjBKOKGb-hc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@51.81411644999999,-178.90571689665146,11z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9tXXwd28UPqTCzIVACcWWRdvorA2uxCxD3rVE=w426-h240-k-no",
+    "kgmid": "/g/1tcz97zr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rapid Rx Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1131 Hamilton St, Allentown, PA 18101",
+    "neighborhood": "Hamilton District",
+    "street": "1131 Hamilton St",
+    "city": "Allentown",
+    "postalCode": "18101",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://www.rapidrxpharma.com/",
+    "phone": "(610) 707-5510",
+    "phoneUnformatted": "+16107075510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.5998073,
+      "lng": -75.480958
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c43bf968481971:0x8fb0676023c29fbe",
+    "cid": "10353889205939249086",
+    "reviewsCount": 9,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:19.810Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rapid%20Rx%20Pharmacy&query_place_id=ChIJcRlIaPk7xIkRvp_CI2BnsI8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@62.99917890220563,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPj6gWeD-XEOCrPfJUgRZNtTXcX8S4HMrutun0u=w408-h306-k-no",
+    "kgmid": "/g/11scnvmh3w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1702 Tilghman St, Allentown, PA 18104",
+    "neighborhood": "West End Theatre District",
+    "street": "1702 Tilghman St",
+    "city": "Allentown",
+    "postalCode": "18104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1702+w+tilghman+st-allentown-pa-18104/id=5715",
+    "phone": "(610) 435-3605",
+    "phoneUnformatted": "+16104353605",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.6053677,
+      "lng": -75.4970089
+    },
+    "locatedIn": "Walgreens",
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c439890d3fef05:0x82311fa720e79836",
+    "cid": "9381314301461502006",
+    "reviewsCount": 156,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:34:19.810Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJBe8_DYk5xIkRNpjnIKcfMYI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Allentown%20PA/@62.99917890220563,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Allentown PA",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEorsQicDXQiIYxjgqvdOqbC3hkHGHZXMA-8M3=w525-h240-k-no",
+    "kgmid": "/g/1tf9zc80",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

@@ -1,0 +1,1134 @@
+[
+  {
+    "title": "The Pharmacy At Midtown",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1800 McFarland Blvd E #334, Tuscaloosa, AL 35404",
+    "neighborhood": null,
+    "street": "1800 McFarland Blvd E #334",
+    "city": "Tuscaloosa",
+    "postalCode": "35404",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "http://pharmacymidtown.com/",
+    "phone": "(205) 752-0627",
+    "phoneUnformatted": "+12057520627",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.1938598,
+      "lng": -87.5287894
+    },
+    "locatedIn": "Tuscaloosa Midtown Village",
+    "plusCode": "5FVC+GF Tuscaloosa, Alabama",
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKRGvwzOoiIgR0Vy8ZF7fQRI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8888a833c3af1129:0x1241df5e64bc5cd1",
+    "cid": "1315578162678881489",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 19
+    },
+    "imagesCount": 4,
+    "imageCategories": [
+      "All",
+      "By owner",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2025-06-22T04:10:03.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "15th Street Pharmacy",
+        "reviewsCount": 39,
+        "totalScore": 4.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Northport Pharmacy",
+        "reviewsCount": 36,
+        "totalScore": 4.6
+      },
+      {
+        "category": "People also search for",
+        "title": "Jann's Pharmacy",
+        "reviewsCount": 26,
+        "totalScore": 4.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Tuscaloosa Drug 5 Points",
+        "reviewsCount": 16,
+        "totalScore": 4.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Tuscaloosa Drug Company (Capstone location)",
+        "reviewsCount": 18,
+        "totalScore": 4.6
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "prescription",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%20At%20Midtown&query_place_id=ChIJKRGvwzOoiIgR0Vy8ZF7fQRI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@65.04310121365691,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOOGmEE3vvfyuthmCTJZE9d0DHLM3t53oxVdr87=w408-h271-k-no",
+    "kgmid": "/g/1tt1h_1t"
+  },
+  {
+    "title": "15th Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "445 15th St E, Tuscaloosa, AL 35401",
+    "neighborhood": null,
+    "street": "445 15th St E",
+    "city": "Tuscaloosa",
+    "postalCode": "35401",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "http://www.dutchpharmacy.net/15thstreetpharmacy/",
+    "phone": "(205) 345-3180",
+    "phoneUnformatted": "+12053453180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.1970398,
+      "lng": -87.530918
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcaEaLi6oiIgRNMHcSUMm8SE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8888a82e2e1aa171:0x21f1264349dcc134",
+    "cid": "2445778143082758452",
+    "reviewsCount": 39,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:10:34.171Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=15th%20Street%20Pharmacy&query_place_id=ChIJcaEaLi6oiIgRNMHcSUMm8SE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@52.537401959029296,-168.0708977851393,9z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPcn11Oi6wTk6GZAnEdtDhOcOeihnKB0jigFsnk=w408-h271-k-no",
+    "kgmid": "/g/1q5gmp3vc"
+  },
+  {
+    "title": "Jann's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1825 McFarland N Blvd # 200, Tuscaloosa, AL 35406",
+    "neighborhood": null,
+    "street": "1825 McFarland N Blvd # 200",
+    "city": "Tuscaloosa",
+    "postalCode": "35406",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://jannspharmacy.com/",
+    "phone": "(205) 752-2045",
+    "phoneUnformatted": "+12057522045",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.2362189,
+      "lng": -87.5500794
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk69pb00dhogRDex5mZ8E6tg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88861d4d6f69af93:0xd8ea049f9979ec0d",
+    "cid": "15630310540263943181",
+    "reviewsCount": 26,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:10:34.171Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jann's%20Pharmacy&query_place_id=ChIJk69pb00dhogRDex5mZ8E6tg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@52.537401959029296,-168.0708977851393,9z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noOOOvTLu7if4YFQfOChfg1CuzsfQtCbKa4F4pH5is-4UyCaUaCNHd0DKScL_TLpbXKgRUisaiEu2j2b_-s9KWXDKkJahdoiJh04foRpwuuZb71d_t2VB-GWgoVASeloc0x9V8=w408-h306-k-no",
+    "kgmid": "/g/11b7d_mcg_"
+  },
+  {
+    "title": "Boone's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "850 Tuscaloosa St, Greensboro, AL 36744, United States",
+    "neighborhood": null,
+    "street": "850 Tuscaloosa St",
+    "city": "Greensboro",
+    "postalCode": "36744",
+    "state": "Alabama",
+    "countryCode": "US",
+    "phone": "+1 334-624-7151",
+    "phoneUnformatted": "+13346247151",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.702406,
+      "lng": -87.5958387
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg3kBlMj0hYgRy-9BNeMegDw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8885f4c894017983:0x3c801ee33541efcb",
+    "cid": "4359518400494563275",
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:20.504Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boone's%20Pharmacy&query_place_id=ChIJg3kBlMj0hYgRy-9BNeMegDw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@31.09059240533574,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aknvPaF3mr0dbqAn4ouYtQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=263.11566&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bw5m9hb5"
+  },
+  {
+    "title": "Dallas Avenue Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1402 W Dallas Ave, Selma, AL 36701, United States",
+    "neighborhood": null,
+    "street": "1402 W Dallas Ave",
+    "city": "Selma",
+    "postalCode": "36701",
+    "state": "Alabama",
+    "countryCode": "US",
+    "phone": "+1 334-872-3255",
+    "phoneUnformatted": "+13348723255",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.4028464,
+      "lng": -87.0573047
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP679ngQGj4gRVwxaMIeX-B0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888f06049efdae3f:0x1df89787305a0c57",
+    "cid": "2159642628211739735",
+    "reviewsCount": 17,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:20.504Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Avenue%20Pharmacy&query_place_id=ChIJP679ngQGj4gRVwxaMIeX-B0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@31.09059240533574,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np0W4rGOh9oKV49U7gNs17BiGFoTpO1oYv-Ygd9SVqC9ECbtExb_HTN_VA9LHcuy2iUERCEdIGskKCGD0iQzAMouRIZmcJV3rAeMVR0ytD0cuvHnQqhFa2F4EUqwwmkNvUeJ7yJTw=w408-h259-k-no",
+    "kgmid": "/g/1tqnmdr4"
+  },
+  {
+    "title": "Dunkin's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7700 AL-69, Tuscaloosa, AL 35405",
+    "neighborhood": null,
+    "street": "7700 AL-69",
+    "city": "Tuscaloosa",
+    "postalCode": "35405",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://dutchpharmacy.net/locations/dunkins-pharmacy/",
+    "phone": "(205) 345-4410",
+    "phoneUnformatted": "+12053454410",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.1361092,
+      "lng": -87.5459491
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ75p1C_sBhogRzcm6pj6B00M",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888601fb0b759aef:0x43d3813ea6bac9cd",
+    "cid": "4887392126712334797",
+    "reviewsCount": 19,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:27.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dunkin's%20Pharmacy&query_place_id=ChIJ75p1C_sBhogRzcm6pj6B00M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNAnwrbmhtJIlm0B9TcjIqWQAg70zHj7pzvuxHB=w408-h306-k-no",
+    "kgmid": "/g/1v9gw71s"
+  },
+  {
+    "title": "Northport Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "909 McFarland Blvd, Northport, AL 35476",
+    "neighborhood": null,
+    "street": "909 McFarland Blvd",
+    "city": "Northport",
+    "postalCode": "35476",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://www.northportpharmacy.com/",
+    "phone": "(205) 339-5800",
+    "phoneUnformatted": "+12053395800",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 33.2365202,
+      "lng": -87.5670414
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJK7xz4zIdhogRxNQvqJOdYOo",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88861d32e373bc2b:0xea609d93a82fd4c4",
+    "cid": "16888671860146820292",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 4,
+      "fiveStar": 29
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:28.785Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northport%20Pharmacy&query_place_id=ChIJK7xz4zIdhogRxNQvqJOdYOo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qXsEBr3bpwrKiIlr75a0bQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.77647&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgcn19h"
+  },
+  {
+    "title": "Tuscaloosa Drug Company (Capstone location)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1236 McFarland Blvd NE, Tuscaloosa, AL 35406",
+    "neighborhood": null,
+    "street": "1236 McFarland Blvd NE",
+    "city": "Tuscaloosa",
+    "postalCode": "35406",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "http://www.tuscaloosadrugcompany.com/",
+    "phone": "(205) 469-9669",
+    "phoneUnformatted": "+12054699669",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.2296123,
+      "lng": -87.5346205
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq66_JAGoiIgRbxY9AB_YQxw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8888a80124bfaeab:0x1c43d81f003d166f",
+    "cid": "2036709084161185391",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:28.786Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tuscaloosa%20Drug%20Company%20(Capstone%20location)&query_place_id=ChIJq66_JAGoiIgRbxY9AB_YQxw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tvDeCQcK_0qF0Ziq1KrWQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.21992&pitch=0&thumbfov=100",
+    "kgmid": "/g/1pp2wydkv"
+  },
+  {
+    "title": "Tuscaloosa Drug 5 Points",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4301 Veterans Memorial Pkwy, Tuscaloosa, AL 35404",
+    "neighborhood": null,
+    "street": "4301 Veterans Memorial Pkwy",
+    "city": "Tuscaloosa",
+    "postalCode": "35404",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://tuscaloosadrugcompany.com/",
+    "phone": "(205) 248-2220",
+    "phoneUnformatted": "+12052482220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.1966261,
+      "lng": -87.4797337
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPwzUCeeoiIgRQUfyngKYq_Q",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8888a8e709d40c3f:0xf4ab98029ef24741",
+    "cid": "17630352303295973185",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 15
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:11:28.786Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tuscaloosa%20Drug%205%20Points&query_place_id=ChIJPwzUCeeoiIgRQUfyngKYq_Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Tuscaloosa%20AL/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Tuscaloosa AL",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOm4Ed2RTR4woDsHWClljPMyddYssk7zhQJNGcN=w408-h271-k-no",
+    "kgmid": "/g/1pp2tz8w5"
+  }
+]

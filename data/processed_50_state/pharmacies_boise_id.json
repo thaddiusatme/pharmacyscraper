@@ -1,0 +1,2266 @@
+[
+  {
+    "title": "Medsync Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "801 S Vista Ave, Boise, ID 83705",
+    "neighborhood": "Boise Bench",
+    "street": "801 S Vista Ave",
+    "city": "Boise",
+    "postalCode": "83705",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://medsyncrx.com/",
+    "phone": "(208) 364-7777",
+    "phoneUnformatted": "+12083647777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.5969156,
+      "lng": -116.2140028
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54aef863f911c675:0x5a9ef8b781acfef",
+    "cid": "408120623548256239",
+    "reviewsCount": 85,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:29.697Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medsync%20Pharmacy&query_place_id=ChIJdcYR-WP4rlQR788aeIvvqQU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@60.17977372574618,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPOUIW-2LjlOAj3YQEviZLAzVWaIzUypJvcenfvuog7h2ZesbSMkjZitwTXkjtbIgZrCmJNwPw6ppj7CWEszQ_1etR1e4apnLxGg4IIebvYnjhOTk9UYcm_3OWTnzxpSgL-9I=w493-h240-k-no",
+    "kgmid": "/g/11bw2gjn06",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Customedica Pharmacy Boise (North End)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1915 W State St, Boise, ID 83702",
+    "neighborhood": "Veterans Park",
+    "street": "1915 W State St",
+    "city": "Boise",
+    "postalCode": "83702",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://www.customedica.com/",
+    "phone": "(208) 515-2211",
+    "phoneUnformatted": "+12085152211",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6255332,
+      "lng": -116.2146795
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Gift shop",
+      "Greeting card shop",
+      "Sports nutrition store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54aef8dc7ff3c6f1:0x24fc9af4e1464f88",
+    "cid": "2665175456038670216",
+    "reviewsCount": 56,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:29.699Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Customedica%20Pharmacy%20Boise%20(North%20End)&query_place_id=ChIJ8cbzf9z4rlQRiE9G4fSa_CQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@60.17977372574618,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMIXFHbpKsbkdziSeoS83viTqVbkU3ZlJZAfkXd=w408-h272-k-no",
+    "kgmid": "/g/11csb3g7pr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mountain Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "286 N Maple Grove Rd, Boise, ID 83704",
+    "neighborhood": "West Boise",
+    "street": "286 N Maple Grove Rd",
+    "city": "Boise",
+    "postalCode": "83704",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://mtncarerx.com/?utm_source=google&utm_medium=website&utm_campaign=gmb",
+    "phone": "(208) 287-4667",
+    "phoneUnformatted": "+12082874667",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6073221,
+      "lng": -116.2928982
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae566590fe5423:0x3bee0722492d0772",
+    "cid": "4318396936532854642",
+    "reviewsCount": 413,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:29.699Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "1 to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "In-store shopping": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mountain%20Care%20Pharmacy&query_place_id=ChIJI1T-kGVWrlQRcgctSSIH7js",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@60.17977372574618,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOkosyzu4i4gUVT7CLi1agaX4JcdmpyNEzkqI6EV9Wz10lQ-dtCjBMEAE2yLgdUgQjim8NHp8g9JK9Fyp6x4GPX4barjpR_6HAS2r-jshdXDkxaBzOMHNTVSI0s--i9Sh092w5AA=w408-h544-k-no",
+    "kgmid": "/g/1tt1sdws",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Tandem Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1020 W Main St Suite 100 C, Boise, ID 83702, United States",
+    "neighborhood": "Downtown",
+    "street": "1020 W Main St Suite 100 C",
+    "city": "Boise",
+    "postalCode": "83702",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://withtandem.com/",
+    "phone": "+1 208-254-0154",
+    "phoneUnformatted": "+12082540154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6174347,
+      "lng": -116.2063739
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54aef95f6702e34d:0x8ea8210e0016451f",
+    "cid": "10279502493487875359",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.362Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tandem%20Pharmacy&query_place_id=ChIJTeMCZ1_5rlQRH0UWAA4hqI4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mBMXiegwwI_FZXPXGlukOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=158.43443&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ksnxdh69",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ivermectin For Humans",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": null,
+    "website": "https://ivermectinforhumans.org/",
+    "phone": "+1 208-994-3046",
+    "phoneUnformatted": "+12089943046",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.3557431,
+      "lng": -97.7988879
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Service establishment"
+    ],
+    "fid": "0xacfc5d4071b8ab87:0x61f5a317496e1e8a",
+    "cid": "7058727311384649354",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ivermectin%20For%20Humans&query_place_id=ChIJh6u4cUBd_KwRih5uSRej9WE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-vQvuzVbFRvIm-H7_Gk36PYxzAVKzLH3LKwrR=w408-h270-k-no",
+    "kgmid": "/g/11vrxf_vj9",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Guardian Pharmacy of Boise",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8455 W Emerald St, Boise, ID 83704, United States",
+    "neighborhood": "West Boise",
+    "street": "8455 W Emerald St",
+    "city": "Boise",
+    "postalCode": "83704",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://guardianpharmacy.com/idaho-boise/",
+    "phone": "+1 208-323-0067",
+    "phoneUnformatted": "+12083230067",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6110557,
+      "lng": -116.2877321
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4057535d3a0f0959:0xdac583566d3fe8d9",
+    "cid": "15764150477903620313",
+    "reviewsCount": 26,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Guardian%20Pharmacy%20of%20Boise&query_place_id=ChIJWQkPOl1TV0AR2eg_bVaDxdo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMckoB2J-Et3ul5BGH2igi7KVbKrMlDzL8cVnZx=w648-h240-k-no",
+    "kgmid": "/g/1tdfsw0z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Luke's Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11801 W Executive Dr, Boise, ID 83713, United States",
+    "neighborhood": "West Boise",
+    "street": "11801 W Executive Dr",
+    "city": "Boise",
+    "postalCode": "83713",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.stlukesonline.org/health-services/service-groups/pharmacy/specialty-pharmacy-services-for-complex-medications",
+    "phone": "+1 208-205-7779",
+    "phoneUnformatted": "+12082057779",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6088374,
+      "lng": -116.3294545
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae57dcadf4f887:0x9f0ec7d4e4c40cfd",
+    "cid": "11461317818889538813",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Luke's%20Specialty%20Pharmacy&query_place_id=ChIJh_j0rdxXrlQR_QzE5NTHDp8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bIEjX-8booBxP8I48rT63g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=152.46202&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sbt6pt_9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Terry Reilly Health Services Pharmacy - Boise",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "300 S 23rd St, Boise, ID 83702, United States",
+    "neighborhood": null,
+    "street": "300 S 23rd St",
+    "city": "Boise",
+    "postalCode": "83702",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://www.trhs.org/",
+    "phone": "+1 208-318-1396",
+    "phoneUnformatted": "+12083181396",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6196851,
+      "lng": -116.2172275
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54aef92aaca7840f:0x812d17d5ba740b85",
+    "cid": "9308122211568323461",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Terry%20Reilly%20Health%20Services%20Pharmacy%20-%20Boise&query_place_id=ChIJD4SnrCr5rlQRhQt0utUXLYE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-5-KUMGObwopjCO3y8kHSAgUJXx4nueiSvdO4=w408-h272-k-no",
+    "kgmid": "/g/11rwzsstym",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Portico Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3355 E Louise Dr, Meridian, ID 83642, United States",
+    "neighborhood": "West Boise",
+    "street": "3355 E Louise Dr",
+    "city": "Meridian",
+    "postalCode": "83642",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://www.porticopharmacy.com/",
+    "phone": "+1 208-288-4341",
+    "phoneUnformatted": "+12082884341",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6028874,
+      "lng": -116.3530207
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae56a8fbf3604b:0xa7407b034f95a168",
+    "cid": "12051767856993771880",
+    "reviewsCount": 62,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Portico%20Pharmacy&query_place_id=ChIJS2Dz-6hWrlQRaKGVTwN7QKc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nos6cby_3skk4fD4KTzbEq1sJgZinTwwEdWnMMrmCKUBKpvqAkTqqMQd-TJ_UxF69kVZrMJsUmkRL3EB7NGvk6Rvp9p5VlEc1YDfyX8dyaPdJApLdJe9xqzzdzY8ZAGvBE71BM=w408-h306-k-no",
+    "kgmid": "/g/1vd75n28",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Luke's Retail Pharmacy: Boise, Bannock St",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "190 E Bannock St, Boise, ID 83712, United States",
+    "neighborhood": null,
+    "street": "190 E Bannock St",
+    "city": "Boise",
+    "postalCode": "83712",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.stlukesonline.org/communities-and-locations/facilities/pharmacies/st-lukes-retail-pharmacy-boise",
+    "phone": "+1 208-381-4353",
+    "phoneUnformatted": "+12083814353",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6127523,
+      "lng": -116.1923716
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54aef9af87699571:0x452876850c27094e",
+    "cid": "4983363301492066638",
+    "reviewsCount": 27,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Luke's%20Retail%20Pharmacy%3A%20Boise%2C%20Bannock%20St&query_place_id=ChIJcZVph6_5rlQRTgknDIV2KEU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WcXefI1O_mTbq2oea6KtTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=28.828651&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gyf80zh9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Full Circle Health - Emerald Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6565 W Emerald St, Boise, ID 83704, United States",
+    "neighborhood": "Boise Bench",
+    "street": "6565 W Emerald St",
+    "city": "Boise",
+    "postalCode": "83704",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.fullcircleidaho.org/patients/pharmacy/",
+    "phone": "+1 208-514-2512",
+    "phoneUnformatted": "+12085142512",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6116929,
+      "lng": -116.2631925
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae5732fda9e931:0xfde94b7345fd3bfc",
+    "cid": "18296237919636896764",
+    "reviewsCount": 13,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Full%20Circle%20Health%20-%20Emerald%20Pharmacy&query_place_id=ChIJMemp_TJXrlQR_Dv9RXNL6f0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOIyO2mGwy9Iv1Uc-DSkyzaXJIIHhB4FNnVZp2=w408-h393-k-no",
+    "kgmid": "/g/11sczvqnl5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Connect Pharmaceuticals",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": null,
+    "phone": "+1 208-593-0133",
+    "phoneUnformatted": "+12085930133",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.811534,
+      "lng": -116.3438185
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Service establishment"
+    ],
+    "fid": "0xa082155cc028653:0xa6136ef39ba20d2d",
+    "cid": "11967030627420736813",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Connect%20Pharmaceuticals&query_place_id=ChIJU4YCzFUhCAoRLQ2im_NuE6Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "kgmid": "/g/11nns7slfw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7402 W Fairview Ave, Boise, ID 83704, United States",
+    "neighborhood": "West Bench",
+    "street": "7402 W Fairview Ave",
+    "city": "Boise",
+    "postalCode": "83704",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/boise-id-pharmacies/7402-west-fairview-ave-boise-id-83704/storeid=11169?WT.mc_id=LS_GOOGLE_RX_11169",
+    "phone": "+1 208-375-4670",
+    "phoneUnformatted": "+12083754670",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.619976,
+      "lng": -116.2749614
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae578fb27caa15:0xcf0db794a1b4b8da",
+    "cid": "14919782989544339674",
+    "reviewsCount": 46,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:46:39.363Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJFap8so9XrlQR2ri0oZS3Dc8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@69.9064287015676,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiG3_yMnoL41SWpRDGORrDp9w3fF6H80irxA7V=w408-h272-k-no",
+    "kgmid": "/g/11fjs6zj63",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Prescription Pad",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1620 N Whitley Dr, Fruitland, ID 83619",
+    "neighborhood": null,
+    "street": "1620 N Whitley Dr",
+    "city": "Fruitland",
+    "postalCode": "83619",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.rxpadonline.com/",
+    "phone": "(208) 452-7075",
+    "phoneUnformatted": "+12084527075",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0263238,
+      "lng": -116.9224946
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54af8ff282d476bb:0xe106752e671d9284",
+    "cid": "16214776350552986244",
+    "reviewsCount": 84,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.523Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Prescription%20Pad&query_place_id=ChIJu3bUgvKPr1QRhJIdZy51BuE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJQr-hSk4rZRqDJHRbktD0iHwZyZUpqIK3BuXr=w408-h276-k-no",
+    "kgmid": "/g/11b6b5k518",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Customedica Pharmacy Eagle",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "149 W State St #101, Eagle, ID 83616",
+    "neighborhood": null,
+    "street": "149 W State St #101",
+    "city": "Eagle",
+    "postalCode": "83616",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://www.customedica.com/",
+    "phone": "(208) 939-8008",
+    "phoneUnformatted": "+12089398008",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6948502,
+      "lng": -116.3558286
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Boutique",
+      "Drug store",
+      "Gift shop",
+      "Greeting card shop",
+      "Sports nutrition store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54afaaa57fc25b49:0x4f51526ff12a6fb3",
+    "cid": "5715440042850807731",
+    "reviewsCount": 127,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.524Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Customedica%20Pharmacy%20Eagle&query_place_id=ChIJSVvCf6Wqr1QRs28q8W9SUU8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNu75zvRwVZECCKn99KXgiP3jaczl0VTT_vwDv2=w408-h272-k-no",
+    "kgmid": "/g/1tf23t9p",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Connect Pharmaceuticals",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "44 N Fisher Park Way, Eagle, ID 83616",
+    "neighborhood": null,
+    "street": "44 N Fisher Park Way",
+    "city": "Eagle",
+    "postalCode": "83616",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "http://connectrx.health/",
+    "phone": "(208) 593-0133",
+    "phoneUnformatted": "+12085930133",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.695921,
+      "lng": -116.393886
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54afabe5e92db53f:0x4ee2a8eb5e867bab",
+    "cid": "5684291408551639979",
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.524Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Connect%20Pharmaceuticals&query_place_id=ChIJP7Ut6eWrr1QRq3uGXuuo4k4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP__OehJmWJx4J_ArtTX40bm7OyevmZ3NVL1yT1=w823-h240-k-no",
+    "kgmid": "/g/11nnl86gh9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1219 S Broadway Ave, Boise, ID 83706",
+    "neighborhood": "Boise State University District",
+    "street": "1219 S Broadway Ave",
+    "city": "Boise",
+    "postalCode": "83706",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/id/boise/1219-s-broadway-ave.html",
+    "phone": "(208) 433-9905",
+    "phoneUnformatted": "+12084339905",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.5977336,
+      "lng": -116.1956978
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54aef85adfb188d7:0x138ce890dd16429a",
+    "cid": "1408756492342280858",
+    "reviewsCount": 32,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.524Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJ14ix31r4rlQRmkIW3ZDojBM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokjtUX63X5RO1uYqVEg95S1B2cFZs79sRF5BMw4eFsANJMZDm0pbavuRrwHvhxD2XJhifB9JYTEE1fvJuzmT7iSzDHrcjuWZ_B7-hykTfOiF2Nft0SaDCZP9fNwKiyyWMrVbwyIQ=w426-h240-k-no",
+    "kgmid": "/g/1tflm4l4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hollis Family Rx",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "845 S Substation Rd, Emmett, ID 83617",
+    "neighborhood": null,
+    "street": "845 S Substation Rd",
+    "city": "Emmett",
+    "postalCode": "83617",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://hollisfamilypharmacy.com/",
+    "phone": "(208) 369-4510",
+    "phoneUnformatted": "+12083694510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.8673372,
+      "lng": -116.4732395
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54af093110b1884d:0x3c50eb60914d55a3",
+    "cid": "4346232440399680931",
+    "reviewsCount": 71,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.524Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hollis%20Family%20Rx&query_place_id=ChIJTYixEDEJr1QRo1VNkWDrUDw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNUgCzODjAhfE20J4_2mMyqaf_9kQaT2KjxUEGw4XIUPViZ7vxe1wITZhzY5LOP_IAfCq7x-5wGq0ScFnuZzCdkKXsj3vLpRJJ4WmZizXK7E8VfCYzIwWAgfPbC3xsuKtSA19AfQ=w408-h544-k-no",
+    "kgmid": "/g/11fpgkdm80",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.93,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Reddish Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "215 E Hawaii Ave #100, Nampa, ID 83686",
+    "neighborhood": null,
+    "street": "215 E Hawaii Ave #100",
+    "city": "Nampa",
+    "postalCode": "83686",
+    "state": "Idaho",
+    "countryCode": "US",
+    "website": "https://www.reddishpharmacy.com/",
+    "phone": "(208) 466-7823",
+    "phoneUnformatted": "+12084667823",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.554544,
+      "lng": -116.570748
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54ae4bfc31df129d:0xfe0d9df6c79230da",
+    "cid": "18306461743566696666",
+    "reviewsCount": 95,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:47:02.524Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Reddish%20Pharmacy&query_place_id=ChIJnRLfMfxLrlQR2jCSx_adDf4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Boise%20ID/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Boise ID",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C8wK0cKzGbj9c5DTIPZaWQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=352.6699&pitch=0&thumbfov=100",
+    "kgmid": "/g/1v3hzq3v",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

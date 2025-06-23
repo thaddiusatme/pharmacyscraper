@@ -1,0 +1,2558 @@
+[
+  {
+    "title": "Atlantic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2815 W Lake Mead Blvd Suite 109, North Las Vegas, NV 89032",
+    "neighborhood": null,
+    "street": "2815 W Lake Mead Blvd Suite 109",
+    "city": "North Las Vegas",
+    "postalCode": "89032",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://atlanticpharmacylv.com/",
+    "phone": "(702) 847-6675",
+    "phoneUnformatted": "+17028476675",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.196548,
+      "lng": -115.1780313
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ__9PxCTCyIARpyW-tyUsRTI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c224c44fffff:0x32452c25b7be25a7",
+    "cid": "3622350015797536167",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.357Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Atlantic%20Pharmacy&query_place_id=ChIJ__9PxCTCyIARpyW-tyUsRTI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rq8Xmtswx3l0XEeE_SjhwQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=171.23701&pitch=0&thumbfov=100",
+    "kgmid": "/g/11n012n5kz"
+  },
+  {
+    "title": "Value Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4921 W Craig Rd, Las Vegas, NV 89130",
+    "neighborhood": "Rancho",
+    "street": "4921 W Craig Rd",
+    "city": "Las Vegas",
+    "postalCode": "89130",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 331-0449",
+    "phoneUnformatted": "+17023310449",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.2376951,
+      "lng": -115.2101234
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCTNuGc7ryIARBLkuOy8CKXk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8ebce196e3309:0x7929022f3b2eb904",
+    "cid": "8730511754514053380",
+    "reviewsCount": 18,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.358Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Value%20Pharmacy&query_place_id=ChIJCTNuGc7ryIARBLkuOy8CKXk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noqZjoh4Upf7SV_oAqwELt_LW9GtUWW5Qla5HSit40nBmLEtIQRNg5VOtQZ3RF_vb8fQIyAZ6YFOZUHctL4Jo8TAKs4JN5t2W1ONsq1FqX3f9lvSWspf5xkfEpYly5jczVC-QjZ=w408-h544-k-no",
+    "kgmid": "/g/11qypy481x"
+  },
+  {
+    "title": "Monicos Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2701 N Tenaya Wy #120, Las Vegas, NV 89128",
+    "neighborhood": "Twin Lakes",
+    "street": "2701 N Tenaya Wy #120",
+    "city": "Las Vegas",
+    "postalCode": "89128",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.monicospharmacy.com/",
+    "phone": "(702) 505-4898",
+    "phoneUnformatted": "+17025054898",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.209638,
+      "lng": -115.2502384
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp2Oo5CvryIAREuwdHgUYO6c",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8eb2be4a863a7:0xa73b18051e1dec12",
+    "cid": "12050251638219074578",
+    "reviewsCount": 57,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Latino-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Monicos%20Pharmacy&query_place_id=ChIJp2Oo5CvryIAREuwdHgUYO6c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGyFwZh5dYk6mL3853Clpm1A93Ipckh5wViuTB=w408-h407-k-no",
+    "kgmid": "/g/11hn4j3dv1"
+  },
+  {
+    "title": "Community Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1820 E Lake Mead Blvd suite: N, North Las Vegas, NV 89030",
+    "neighborhood": null,
+    "street": "1820 E Lake Mead Blvd suite: N",
+    "city": "North Las Vegas",
+    "postalCode": "89030",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 631-1100",
+    "phoneUnformatted": "+17026311100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1966808,
+      "lng": -115.1213671
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJceLGyOHCyIARih8H0G7zxPg",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80c8c2e1c8c6e271:0xf8c4f36ed0071f8a",
+    "cid": "17925720074103496586",
+    "reviewsCount": 46,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Care%20Pharmacy&query_place_id=ChIJceLGyOHCyIARih8H0G7zxPg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjTEwWvSBh9H1IPjhJvcL--kSNE2-apr56eAPGy4netzWYbmSm8-Q0_pXNqCu-KtUmSlMHbNeNj3UflqeKGg28pqy2u6c245oDmJmW7kfH5K6oQK43NbdCuhd5Kt5Fee7hPX2AOA=w408-h509-k-no",
+    "kgmid": "/g/11b5plc4vk"
+  },
+  {
+    "title": "Tango Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4090 W Craig Rd #101, North Las Vegas, NV 89032",
+    "neighborhood": null,
+    "street": "4090 W Craig Rd #101",
+    "city": "North Las Vegas",
+    "postalCode": "89032",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.tangopharmacy.com/",
+    "phone": "(702) 636-2054",
+    "phoneUnformatted": "+17026362054",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.2394924,
+      "lng": -115.195074
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOYzorRjqyIARmT3rLlbMmso",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health and beauty shop",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store",
+      "Wholesale drugstore"
+    ],
+    "fid": "0x80c8ea18ade88c39:0xca9acc562eeb3d99",
+    "cid": "14599205812601306521",
+    "reviewsCount": 29,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tango%20Pharmacy&query_place_id=ChIJOYzorRjqyIARmT3rLlbMmso",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAb2xnZMb0ojec-kc2LHUJdzZE571n0Ly79h8E=w426-h240-k-no",
+    "kgmid": "/g/11g6_l076l"
+  },
+  {
+    "title": "Elite Rx Compounding Pharmacy and Wellness Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4845 S Rainbow Blvd STE 403, Las Vegas, NV 89103",
+    "neighborhood": null,
+    "street": "4845 S Rainbow Blvd STE 403",
+    "city": "Las Vegas",
+    "postalCode": "89103",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.eliterxlv.com/",
+    "phone": "(702) 538-9388",
+    "phoneUnformatted": "+17025389388",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1009676,
+      "lng": -115.2446881
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ45D4v-7HyIARK5xtryKcfWU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c7eebff890e3:0x657d9c22af6d9c2b",
+    "cid": "7313173042705570859",
+    "reviewsCount": 18,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elite%20Rx%20Compounding%20Pharmacy%20and%20Wellness%20Store&query_place_id=ChIJ45D4v-7HyIARK5xtryKcfWU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRTkDMNwVXd0_Q_V1VBIYihbTYE-Y6UiKgbh05y6UBMUl1BUlDN5FetyCMlGfYr_aAPeWPg5x634EPOdTDctaOltuOoowUy5A9SkNtQIDK1HhXZGqezn7BjBZ2DJkyXbauNjk=w408-h544-k-no",
+    "kgmid": "/g/11y5tzbfcn"
+  },
+  {
+    "title": "Always Your Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "821 N Lamb Blvd #5, Las Vegas, NV 89110",
+    "neighborhood": "East Las Vegas",
+    "street": "821 N Lamb Blvd #5",
+    "city": "Las Vegas",
+    "postalCode": "89110",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 462-2205",
+    "phoneUnformatted": "+17024622205",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1784194,
+      "lng": -115.0797312
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh5u_dr_dyIARsW4GDr5UwE0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8ddbf76bf9b87:0x4dc054be0e066eb1",
+    "cid": "5602571111704719025",
+    "reviewsCount": 7,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "11 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Always%20Your%20Pharmacy&query_place_id=ChIJh5u_dr_dyIARsW4GDr5UwE0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN_4D6kPBFOmMrcUlyXpyAZnBIXRyj_pc4dCeAn=w408-h306-k-no",
+    "kgmid": "/g/11t_w8qtvr"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "600 Pilot Rd Ste A, Las Vegas, NV 89119",
+    "neighborhood": null,
+    "street": "600 Pilot Rd Ste A",
+    "city": "Las Vegas",
+    "postalCode": "89119",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0683156,
+      "lng": -115.150917
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJe4tknQ3FyIAR65dcarJXFmE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c50d9d648b7b:0x611657b26a5c97eb",
+    "cid": "6995875494966892523",
+    "reviewsCount": 328,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.359Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 3 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "6 AM–9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6 AM–9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6 AM–9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6 AM–9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6 AM–9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7 AM–6 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJe4tknQ3FyIAR65dcarJXFmE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOUjBxGrYISfoPHQd2BxLu0d5FfZs-CU-eoqK5Z=w408-h306-k-no",
+    "kgmid": "/g/11j79shs2_"
+  },
+  {
+    "title": "Vegas Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8352 W Warm Springs Rd Suite #330, Las Vegas, NV 89113",
+    "neighborhood": null,
+    "street": "8352 W Warm Springs Rd Suite #330",
+    "city": "Las Vegas",
+    "postalCode": "89113",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.thedocsnv.com/services/vegas-pharmacy/",
+    "phone": "(702) 410-5620",
+    "phoneUnformatted": "+17024105620",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0563098,
+      "lng": -115.2738958
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRbOTSkHHyIARCKWtvwvm93E",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c7414a93b345:0x71f7e60bbfada508",
+    "cid": "8212285383668245768",
+    "reviewsCount": 14,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vegas%20Pharmacy&query_place_id=ChIJRbOTSkHHyIARCKWtvwvm93E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPC3I6gVf3Bsg-l7RzfYM2eetG5TxgcHr7Ir0tf=w426-h240-k-no",
+    "kgmid": "/g/11pb94w75t"
+  },
+  {
+    "title": "Apotheco Pharmacy Choice Las Vegas",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7915 W Sahara Ave #103, Las Vegas, NV 89117",
+    "neighborhood": "West Sahara",
+    "street": "7915 W Sahara Ave #103",
+    "city": "Las Vegas",
+    "postalCode": "89117",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.apothecopharmacy.com/location/apotheco-pharmacy-choice-las-vegas/",
+    "phone": "(702) 487-5207",
+    "phoneUnformatted": "+17024875207",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1427174,
+      "lng": -115.2636837
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGZkUML7AyIARfN7M5rmzNv8",
+    "categories": [
+      "Pharmacy",
+      "Dermatologist"
+    ],
+    "fid": "0x80c8c0be30149919:0xff36b3b9e6ccde7c",
+    "cid": "18390083739436506748",
+    "reviewsCount": 287,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apotheco%20Pharmacy%20Choice%20Las%20Vegas&query_place_id=ChIJGZkUML7AyIARfN7M5rmzNv8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlWeRovujG5DN91PbqQBb7kaJXnw8FpyxZ3HWK=w408-h250-k-no",
+    "kgmid": "/g/11cnnwkhcc"
+  },
+  {
+    "title": "Vesper Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4225 S Eastern Ave #16, Las Vegas, NV 89119",
+    "neighborhood": null,
+    "street": "4225 S Eastern Ave #16",
+    "city": "Las Vegas",
+    "postalCode": "89119",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.vesperrx.com/",
+    "phone": "(702) 333-4377",
+    "phoneUnformatted": "+17023334377",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1125126,
+      "lng": -115.1194648
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_awCox_FyIAR9wwKPEothTk",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80c8c51fa302acfd:0x39852d4a3c0a0cf7",
+    "cid": "4144768828922531063",
+    "reviewsCount": 44,
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vesper%20Specialty%20Pharmacy&query_place_id=ChIJ_awCox_FyIAR9wwKPEothTk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCeia4B4otnWGzj9rgaRnaTlEwI6vErO-TywDX=w408-h306-k-no",
+    "kgmid": "/g/11dyf4m9b0"
+  },
+  {
+    "title": "West Cheyenne Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3350 Novat St suite 110, Las Vegas, NV 89129",
+    "neighborhood": "Lone Mountain",
+    "street": "3350 Novat St suite 110",
+    "city": "Las Vegas",
+    "postalCode": "89129",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.westcheyennepharmacy.com/",
+    "phone": "(702) 395-3004",
+    "phoneUnformatted": "+17023953004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.2212931,
+      "lng": -115.3284491
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfdh2zAeVyIARpx2GGqApBIE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c89507cc76d87d:0x810429a01a861da7",
+    "cid": "9296601298416049575",
+    "reviewsCount": 42,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Asian-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=West%20Cheyenne%20Pharmacy&query_place_id=ChIJfdh2zAeVyIARpx2GGqApBIE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqFrOqyTHsbikljP0ZnPO7vqshbukoLKWONghX8zKN8tNBer2-cCJ4hZ4qVVpuYw1z3cSVX9alXB3uSyjMxLuLbbA7dwW8db5XimknsudoCjNt_LRUbvmoz1h-_0qhAaXq1ENtE=w408-h544-k-no",
+    "kgmid": "/g/11gg65z3kg"
+  },
+  {
+    "title": "All In One Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2080 E Flamingo Rd, Las Vegas, NV 89119",
+    "neighborhood": null,
+    "street": "2080 E Flamingo Rd",
+    "city": "Las Vegas",
+    "postalCode": "89119",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://legalpharmaceutics.com/",
+    "phone": "(702) 697-6501",
+    "phoneUnformatted": "+17026976501",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1153391,
+      "lng": -115.1246948
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg1FyIuLEyIARZlDenXk6bEg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c4e222725183:0x486c3a799dde5066",
+    "cid": "5218610362229608550",
+    "reviewsCount": 52,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=All%20In%20One%20Pharmacy&query_place_id=ChIJg1FyIuLEyIARZlDenXk6bEg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np1LMz4oiReFXdcvGMl9CQH9CYgOw9TmCGgF2_ujWad4Oljt0WZIoLJd-4w9muSwCmoJaw8Vs8K3GSbyC4t8v1mxZowrED9Vs7xtw0yrFQwwRS2NsuZFV0c1EPgDxzUuQlKWtl7=w426-h240-k-no",
+    "kgmid": "/g/1tdw3rw3"
+  },
+  {
+    "title": "AHF Pharmacy - Las Vegas",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3201 S Maryland Pkwy Ste 218, Las Vegas, NV 89109",
+    "neighborhood": null,
+    "street": "3201 S Maryland Pkwy Ste 218",
+    "city": "Las Vegas",
+    "postalCode": "89109",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(702) 826-5310",
+    "phoneUnformatted": "+17028265310",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1317178,
+      "lng": -115.1378939
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1yweJYvEyIARqS18kI88djQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c48b251e2cd7:0x34763c8f907c2da9",
+    "cid": "3780275524526157225",
+    "reviewsCount": 18,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Pharmacy%20-%20Las%20Vegas&query_place_id=ChIJ1yweJYvEyIARqS18kI88djQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOvs7fhCGpSOn2QdOVovXsiVcAsXj2b6-bmsw5a=w426-h240-k-no",
+    "kgmid": "/g/11f105h2j4"
+  },
+  {
+    "title": "ACRX Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8440 W Lake Mead Blvd # 103, Las Vegas, NV 89128",
+    "neighborhood": "South Shores",
+    "street": "8440 W Lake Mead Blvd # 103",
+    "city": "Las Vegas",
+    "postalCode": "89128",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://acrxpharmacy.com/",
+    "phone": "(702) 800-6448",
+    "phoneUnformatted": "+17028006448",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1994215,
+      "lng": -115.2782669
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWUW_FrfqyIARtDQl5eccFnc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8eab716bf4559:0x77161ce7e52534b4",
+    "cid": "8581077922308502708",
+    "reviewsCount": 55,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ACRX%20Specialty%20Pharmacy&query_place_id=ChIJWUW_FrfqyIARtDQl5eccFnc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqp3VjlKevkaKa907uDJiWWwSm7_qas3Yra4tT_9I9eLdc-8WNrNC95qv1GdKVpKFYtO_S4g0xLuxu0VsyF4xLpL7iOdrZCBF1gEjOl1xJ2zv-P1rh_YqwhMr_5t5Yj-Y81jYc6og=w408-h356-k-no",
+    "kgmid": "/g/11f0wmb0wx"
+  },
+  {
+    "title": "Meta Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8352 W Warm Springs Rd #120, Las Vegas, NV 89113",
+    "neighborhood": null,
+    "street": "8352 W Warm Springs Rd #120",
+    "city": "Las Vegas",
+    "postalCode": "89113",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.metapharmacyservices.com/",
+    "phone": "(702) 754-0172",
+    "phoneUnformatted": "+17027540172",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0563461,
+      "lng": -115.2739272
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp5-lRPLHyIARzsGsIYjzW3M",
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab"
+    ],
+    "fid": "0x80c8c7f244a59fa7:0x735bf38821acc1ce",
+    "cid": "8312505303248454094",
+    "reviewsCount": 49,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.360Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Meta%20Pharmacy%20Services&query_place_id=ChIJp5-lRPLHyIARzsGsIYjzW3M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOf4ljfAb1oDZLLHdWqLjs8DgXfBeSSgPFDjXN9=w408-h613-k-no",
+    "kgmid": "/g/11clfk54x1"
+  },
+  {
+    "title": "Aaron Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2465 Reynolds Ave Suite 204, North Las Vegas, NV 89030",
+    "neighborhood": null,
+    "street": "2465 Reynolds Ave Suite 204",
+    "city": "North Las Vegas",
+    "postalCode": "89030",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(775) 372-8344",
+    "phoneUnformatted": "+17753728344",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1905758,
+      "lng": -115.1166072
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJB91ZQXnDyIARSMJ-Dbc_WFA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c3794159dd07:0x50583fb70d7ec248",
+    "cid": "5789447376422748744",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.361Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aaron%20Pharmacy%20Inc&query_place_id=ChIJB91ZQXnDyIARSMJ-Dbc_WFA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_QShVPjTen3jdEp64Ginxg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=329.2952&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j7fzn55l"
+  },
+  {
+    "title": "A Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2820 W Charleston Blvd #8, Las Vegas, NV 89102",
+    "neighborhood": "Rancho Oakey",
+    "street": "2820 W Charleston Blvd #8",
+    "city": "Las Vegas",
+    "postalCode": "89102",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(702) 646-1100",
+    "phoneUnformatted": "+17026461100",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.1598785,
+      "lng": -115.1801805
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI8KUDufDyIARo6AAH-l1yZg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8c3e70e94c223:0x98c975e91f00a0a3",
+    "cid": "11009460408191852707",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.361Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20Pharmacy&query_place_id=ChIJI8KUDufDyIARo6AAH-l1yZg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5MLSgQfbiyl3DIbjU1e6IQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=286.44803&pitch=0&thumbfov=100",
+    "kgmid": "/g/1xtf1vld"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4700 W Ann Rd, North Las Vegas, NV 89031",
+    "neighborhood": null,
+    "street": "4700 W Ann Rd",
+    "city": "North Las Vegas",
+    "postalCode": "89031",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00361?cid=loc_70600361P_gmb",
+    "phone": "(702) 395-7510",
+    "phoneUnformatted": "+17023957510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.26292,
+      "lng": -115.2057695
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjWJ6GszryIARlQhcJCY-oZM",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80c8ebcc1a7a628d:0x93a13e26245c0895",
+    "cid": "10637852128365512853",
+    "reviewsCount": 21,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.361Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJjWJ6GszryIARlQhcJCY-oZM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMT82PFUN7VaBko0ePF2VD6q-5M6tZYyBx5cM1G=w426-h240-k-no",
+    "kgmid": "/g/1tf60krx"
+  },
+  {
+    "title": "Sahara Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2585 S Nellis Blvd Ste 3, Las Vegas, NV 89121",
+    "neighborhood": null,
+    "street": "2585 S Nellis Blvd Ste 3",
+    "city": "Las Vegas",
+    "postalCode": "89121",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.saharapharmacy.org/",
+    "phone": "(702) 912-0080",
+    "phoneUnformatted": "+17029120080",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1431375,
+      "lng": -115.066066
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHyJrXRTbyIARilrTQDAjGEs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c8db145d6b221f:0x4b18233040d35a8a",
+    "cid": "5411113642438646410",
+    "reviewsCount": 13,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:44:56.361Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sahara%20Specialty%20Pharmacy&query_place_id=ChIJHyJrXRTbyIARilrTQDAjGEs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Las%20Vegas%20NV/@69.21166763186608,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy North Las Vegas NV",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipONEahbZtBVOaAdn1qXPnfHlI8MFyhSa5PzeFPI=w408-h306-k-no",
+    "kgmid": "/g/11tfbz33dg"
+  }
+]

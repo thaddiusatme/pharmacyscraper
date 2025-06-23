@@ -1,0 +1,2542 @@
+[
+  {
+    "title": "True Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "623 Beltline Blvd, Columbia, SC 29205",
+    "neighborhood": null,
+    "street": "623 Beltline Blvd",
+    "city": "Columbia",
+    "postalCode": "29205",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://truerxsc.com/",
+    "phone": "(803) 849-1500",
+    "phoneUnformatted": "+18038491500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.9925673,
+      "lng": -80.9800858
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88f8bb4a2b408da5:0xba5688e0ad0c9f95",
+    "cid": "13427069837609050005",
+    "reviewsCount": 28,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.487Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        },
+        {
+          "Accepts walk-ins": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=True%20Pharmacy&query_place_id=ChIJpY1AK0q7-IgRlZ8MreCIVro",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNJ7fd4cJWYD9r8pMrKlNhCdNY2TrcGSKNpB-u0=w408-h408-k-no",
+    "kgmid": "/g/11jq01dqt8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hawthorne Laurel Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2761 Laurel St, Columbia, SC 29204",
+    "neighborhood": null,
+    "street": "2761 Laurel St",
+    "city": "Columbia",
+    "postalCode": "29204",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://hawthornesc.com/",
+    "phone": "(803) 254-2761",
+    "phoneUnformatted": "+18032542761",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0153354,
+      "lng": -81.0112627
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a5385a74db99:0xb64095db24d2cb1d",
+    "cid": "13132661281860537117",
+    "reviewsCount": 35,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.489Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hawthorne%20Laurel%20Pharmacy&query_place_id=ChIJmdt0Wjil-IgRHcvSJNuVQLY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOGPoP52VH0r7us60c-WperdEX13lqdmHH8kLHz=w408-h273-k-no",
+    "kgmid": "/g/11cnbh96mv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Landy's Pharmacy & Gifts",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "835 Sparkleberry Ln, Columbia, SC 29229",
+    "neighborhood": null,
+    "street": "835 Sparkleberry Ln",
+    "city": "Columbia",
+    "postalCode": "29229",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.landyspharmacy.com/",
+    "phone": "(803) 567-3107",
+    "phoneUnformatted": "+18035673107",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.1006634,
+      "lng": -80.8563376
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop"
+    ],
+    "fid": "0x88f8ab9fb63c69bd:0x22aa8cbbbdafeed7",
+    "cid": "2497963681299558103",
+    "reviewsCount": 65,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.490Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Landy's%20Pharmacy%20%26%20Gifts&query_place_id=ChIJvWk8tp-r-IgR1-6vvbuMqiI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOuJolpY4ySJQbVTvWgK-dZ4axhYyYpCIZiBLeX=w408-h306-k-no",
+    "kgmid": "/g/11bt_923td",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Vistara Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6323B N Main St, Columbia, SC 29203",
+    "neighborhood": null,
+    "street": "6323B N Main St",
+    "city": "Columbia",
+    "postalCode": "29203",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://vistararx.com/",
+    "phone": "(803) 766-6075",
+    "phoneUnformatted": "+18037666075",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0632529,
+      "lng": -81.0092383
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a5c96fc78b17:0x37d671581a3bf466",
+    "cid": "4023527940313314406",
+    "reviewsCount": 20,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.490Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Hindi": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vistara%20Pharmacy&query_place_id=ChIJF4vHb8ml-IgRZvQ7Glhx1jc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMKmNsuAnWNl5M0svVb_0Gr90FVy5youAYeBu0=w408-h306-k-no",
+    "kgmid": "/g/11qrq4g1q0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Finklin Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3800-A N Main St, Columbia, SC 29203",
+    "neighborhood": null,
+    "street": "3800-A N Main St",
+    "city": "Columbia",
+    "postalCode": "29203",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "phone": "(803) 735-0525",
+    "phoneUnformatted": "+18037350525",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0354598,
+      "lng": -81.0414489
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Drug store"
+    ],
+    "fid": "0x88f8a4faf8d1114f:0x1ce9e0c247fbd54f",
+    "cid": "2083443427671528783",
+    "reviewsCount": 12,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.490Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Finklin%20Pharmacy&query_place_id=ChIJTxHR-Pqk-IgRT9X7R8Lg6Rw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOXXgXCkYheW-8mSZKCaGpAlosZ-9gtP57lMQgI=w408-h271-k-no",
+    "kgmid": "/g/1tj22dcj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Soda City Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "380 St Andrews Rd, Columbia, SC 29210",
+    "neighborhood": null,
+    "street": "380 St Andrews Rd",
+    "city": "Columbia",
+    "postalCode": "29210",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "phone": "(803) 441-1028",
+    "phoneUnformatted": "+18034411028",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0439213,
+      "lng": -81.1420741
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a34da76a7ffd:0xc519715ec7bea095",
+    "cid": "14202507551781593237",
+    "reviewsCount": 14,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.491Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Soda%20City%20Pharmacy%20%26%20Compounding&query_place_id=ChIJ_X9qp02j-IgRlaC-x15xGcU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwhj7spVxjUXIaMGarCPPp00Mt0evEZ5yDaNXw=w408-h271-k-no",
+    "kgmid": "/g/11p5mm0d41",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AHF Pharmacy - Columbia",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3025 Farrow Rd, Columbia, SC 29203",
+    "neighborhood": null,
+    "street": "3025 Farrow Rd",
+    "city": "Columbia",
+    "postalCode": "29203",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(803) 509-5676",
+    "phoneUnformatted": "+18035095676",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0290765,
+      "lng": -81.0261946
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a51ec91efa99:0xbf4d35c34f882e2d",
+    "cid": "13784733147420175917",
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.491Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Pharmacy%20-%20Columbia&query_place_id=ChIJmfoeyR6l-IgRLS6IT8M1Tb8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPCkRlSXimVXoLxfqxSx2jrhxer72PeFCR5ZGf_=w426-h240-k-no",
+    "kgmid": "/g/11b6c0ccnv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dottie's Pharmacy Columbia",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1628 Charleston Hwy, West Columbia, SC 29169",
+    "neighborhood": null,
+    "street": "1628 Charleston Hwy",
+    "city": "West Columbia",
+    "postalCode": "29169",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://dotspharmacy.com/",
+    "phone": "(803) 849-1777",
+    "phoneUnformatted": "+18038491777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.968977,
+      "lng": -81.0783912
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store"
+    ],
+    "fid": "0x88f8bd0155bf54d9:0xae28c5c4310ddcc4",
+    "cid": "12549497808095141060",
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.491Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dottie's%20Pharmacy%20Columbia&query_place_id=ChIJ2VS_VQG9-IgRxNwNMcTFKK4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npG96mDCo0Whgw2spgFE4I1MjSjhILnyrwCaQFkCJY65QWy0Ulcj5suPXX2EMMWi5b9vw3RguIuTASbFo1cAnh2z-Z4wAy7DUAMcs9aNLShXZF-RzpeXWDjUHjrpZAPpHeoyCfSZA=w408-h544-k-no",
+    "kgmid": "/g/11fmz7cnl5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Five Points Cooperative Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1228 Harden St, Columbia, SC 29204",
+    "neighborhood": "Waverly",
+    "street": "1228 Harden St",
+    "city": "Columbia",
+    "postalCode": "29204",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.ecchc.org/Locations/FivePointsCooperativePharmacy",
+    "phone": "(803) 748-0482",
+    "phoneUnformatted": "+18037480482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0071556,
+      "lng": -81.019176
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a5d6d4011e71:0x8eddb77189401932",
+    "cid": "10294586021500688690",
+    "reviewsCount": 14,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.491Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Five%20Points%20Cooperative%20Pharmacy&query_place_id=ChIJcR4B1Nal-IgRMhlAiXG33Y4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO4KDZtWOO252w0KVqDonQDx2PIMsqNMHsXiGaI=w408-h272-k-no",
+    "kgmid": "/g/11h23wwf1f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sunset Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "101 Professional Dr, West Columbia, SC 29169",
+    "neighborhood": null,
+    "street": "101 Professional Dr",
+    "city": "West Columbia",
+    "postalCode": "29169",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.sunset-pharmacy.com/",
+    "phone": "(803) 794-6440",
+    "phoneUnformatted": "+18037946440",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.0024794,
+      "lng": -81.1064825
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8bcce659a0cdd:0xcc6d51eae4fdb9fb",
+    "cid": "14730520025504791035",
+    "reviewsCount": 38,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.492Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sunset%20Pharmacy&query_place_id=ChIJ3QyaZc68-IgR-7n95OpRbcw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrghWnAWnsSgvC0h7Kr5a5PW5NgjFmVIuxgEgaEZMOnXuB8ZlC_3yW0MK_H7V5_dMsJx31Kb5Oc-PedA_iZouTkUuS64pTAmdii5eXnup5_0dl4OuCz8zpyy6LBiPfxu8TvTR-W=w408-h306-k-no",
+    "kgmid": "/g/1tfvz_kc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicine Mart Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1300 Sunset Blvd, West Columbia, SC 29169",
+    "neighborhood": null,
+    "street": "1300 Sunset Blvd",
+    "city": "West Columbia",
+    "postalCode": "29169",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://medicinemartwc.com/",
+    "phone": "(803) 791-7043",
+    "phoneUnformatted": "+18037917043",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.998617,
+      "lng": -81.080471
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88f8bca8d0f45b7f:0x4f4d4369086a7a4",
+    "cid": "357143601287178148",
+    "reviewsCount": 70,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.492Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicine%20Mart%20Pharmacy&query_place_id=ChIJf1v00Ki8-IgRpKeGkDbU9AQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kQgVXcS0gGjhuIhkEPaGwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.9226127&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgn5lkt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Vistara Pharmacy Columbia",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1120 Sparkleberry Ln Ext D, Columbia, SC 29223",
+    "neighborhood": null,
+    "street": "1120 Sparkleberry Ln Ext D",
+    "city": "Columbia",
+    "postalCode": "29223",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://vistarawecare.wixsite.com/vistara",
+    "phone": "(803) 680-4714",
+    "phoneUnformatted": "+18036804714",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.1173984,
+      "lng": -80.8862141
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8ab91d493ae59:0x19a65743a01902ad",
+    "cid": "1848260645042586285",
+    "reviewsCount": 21,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.492Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vistara%20Pharmacy%20Columbia&query_place_id=ChIJWa6T1JGr-IgRrQIZoENXphk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-BNJSmy4WbSXhtU0XKgYqu-b0dZqA0FMs4XZI-lEXtYC7jGuGujXKX9GpW2z6cZAxS3UQyqI9kwf3VVjn9mWzHoD6gKx7bycCk__ouIHbiJzzRUZgQY3Vbb5UveD6dj08I8nc=w408-h306-k-no",
+    "kgmid": "/g/11l2y1bk7b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pine Ridge Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "634 A Pine Ridge Dr, West Columbia, SC 29172",
+    "neighborhood": null,
+    "street": "634 A Pine Ridge Dr",
+    "city": "West Columbia",
+    "postalCode": "29172",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.pineridgerx.com/",
+    "phone": "(803) 955-3404",
+    "phoneUnformatted": "+18039553404",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.9096604,
+      "lng": -81.1087899
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88f8be9aac40344b:0xa114195812da0025",
+    "cid": "11606930005704704037",
+    "reviewsCount": 47,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.492Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pine%20Ridge%20Pharmacy&query_place_id=ChIJSzRArJq--IgRJQDaElgZFKE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7oN0TSB4y5HLKDSb8AliiOAVrKC8JVyiQq_4c=w408-h306-k-no",
+    "kgmid": "/g/1tf8tz1h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4 Harbison Way, Columbia, SC 29212",
+    "neighborhood": null,
+    "street": "4 Harbison Way",
+    "city": "Columbia",
+    "postalCode": "29212",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(803) 731-0203",
+    "phoneUnformatted": "+18037310203",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0730156,
+      "lng": -81.1458481
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a392be553e6b:0x97606c4a1a5101d6",
+    "cid": "10907837363016237526",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.492Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJaz5VvpKj-IgR1gFRGkpsYJc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3NyU4EA5pqCPXJNdGsXX0w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=136.29547&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gt_vpm50",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Triangle Pharmacy & Home Medical Equipment",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1239 D Ave, West Columbia, SC 29169",
+    "neighborhood": null,
+    "street": "1239 D Ave",
+    "city": "West Columbia",
+    "postalCode": "29169",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.trianglepharmacysc.com/",
+    "phone": "(803) 794-4840",
+    "phoneUnformatted": "+18037944840",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.9836565,
+      "lng": -81.073126
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store",
+      "Vitamin & supplements store",
+      "Wheelchair store"
+    ],
+    "fid": "0x88f8bb607e05af3b:0xa21acdb3e0431dc6",
+    "cid": "11680874755984137670",
+    "reviewsCount": 42,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:23.493Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Triangle%20Pharmacy%20%26%20Home%20Medical%20Equipment&query_place_id=ChIJO68FfmC7-IgRxh1D4LPNGqI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@58.79025158634311,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN_bUDajjaV3tLhSjAtF3NE2v-cQxcySwi0N2MX=w408-h306-k-no",
+    "kgmid": "/g/1tj4hxh9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Carolina Pharmacy Network",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1350 Browning Rd # 100, Columbia, SC 29210",
+    "neighborhood": null,
+    "street": "1350 Browning Rd # 100",
+    "city": "Columbia",
+    "postalCode": "29210",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://scrx.org/join-scpha-now/carolina-pharmacy-network/",
+    "phone": "(803) 772-4974",
+    "phoneUnformatted": "+18037724974",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.039843,
+      "lng": -81.1105171
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a31af8396fdf:0x4acfa463a59815e3",
+    "cid": "5390708026872698339",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:48.895Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carolina%20Pharmacy%20Network&query_place_id=ChIJ3285-Bqj-IgR4xWYpWOkz0o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@25.832780861981217,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iGN3jm7fxPeDiJYHIeVxPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=97.56815&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgfxgxf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hawthorne Taylor Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1520-A Taylor St, Columbia, SC 29201",
+    "neighborhood": "Midtown - Downtown",
+    "street": "1520-A Taylor St",
+    "city": "Columbia",
+    "postalCode": "29201",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.hawthornesc.com/",
+    "phone": "(803) 256-3440",
+    "phoneUnformatted": "+18032563440",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0081537,
+      "lng": -81.0298475
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical equipment supplier"
+    ],
+    "fid": "0x88f8a52a172fb0f3:0x5c95557de5c7c693",
+    "cid": "6671332422233605779",
+    "reviewsCount": 160,
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:48.895Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hawthorne%20Taylor%20Pharmacy&query_place_id=ChIJ87AvFyql-IgRk8bH5X1VlVw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@25.832780861981217,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPvwad6lh_CmEFkYruwqP8i6WIM1EezlKeB7wto=w408-h306-k-no",
+    "kgmid": "/g/1vp700mb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "True Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "634 Pine Ridge Dr, West Columbia, SC 29172",
+    "neighborhood": null,
+    "street": "634 Pine Ridge Dr",
+    "city": "West Columbia",
+    "postalCode": "29172",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.truecompounding.net/",
+    "phone": "(803) 888-2990",
+    "phoneUnformatted": "+18038882990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.9096604,
+      "lng": -81.1087899
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88f8bf4c4f69c6cd:0x2093f19d043d22b4",
+    "cid": "2347485487473435316",
+    "reviewsCount": 5,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:48.896Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=True%20Compounding&query_place_id=ChIJzcZpT0y_-IgRtCI9BJ3xkyA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@25.832780861981217,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNKrc-8R1qGdmyU5V0XqlKbQyQ0MEOKt4774RZA=w408-h271-k-no",
+    "kgmid": "/g/11qzdc3zlc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "SC Home RX",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "111 Doctors Cir, Columbia, SC 29203",
+    "neighborhood": null,
+    "street": "111 Doctors Cir",
+    "city": "Columbia",
+    "postalCode": "29203",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.schomerx.com/",
+    "phone": "(803) 454-0194",
+    "phoneUnformatted": "+18034540194",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.0313686,
+      "lng": -81.0353653
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f8a4d46ed7e2eb:0xcfd59bd68cd1a468",
+    "cid": "14976047481678308456",
+    "reviewsCount": 9,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:48.896Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SC%20Home%20RX&query_place_id=ChIJ6-LXbtSk-IgRaKTRjNab1c8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@25.832780861981217,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWs12ffqo94L8LyYL3C4MrUHwdSrCtn34DpXsN=w408-h272-k-no",
+    "kgmid": "/g/11cn0_pfcd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Columbia, SC 29208",
+    "neighborhood": "Midtown - Downtown",
+    "street": null,
+    "city": "Columbia",
+    "postalCode": "29208",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 33.9953591,
+      "lng": -81.0296251
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "University"
+    ],
+    "fid": "0x88f8bad64b83a451:0xb6a5402c87363112",
+    "cid": "13160996046051356946",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:34:48.896Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy&query_place_id=ChIJUaSDS9a6-IgREjE2hyxApbY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Columbia%20SC/@25.832780861981217,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy Columbia SC",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i84BrmDGoe440C2NyGQtyA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=226.35347&pitch=0&thumbfov=100",
+    "kgmid": "/g/1jky73bw4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.6,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

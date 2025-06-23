@@ -1,0 +1,2706 @@
+[
+  {
+    "title": "Ken's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "36 Elm St, Manchester, NH 03101",
+    "neighborhood": "Bakersville",
+    "street": "36 Elm St",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://kens-pharmacy.com/",
+    "phone": "(603) 622-4300",
+    "phoneUnformatted": "+16036224300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9749072,
+      "lng": -71.4633728
+    },
+    "plusCode": "XGFP+XM Manchester, New Hampshire",
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlwUqt8VO4okR3zYL4Ga0C_g",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24ec5b72a0597:0xf80bb466e00b36df",
+    "cid": "17873577900088440543",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 37
+    },
+    "imagesCount": 3,
+    "imageCategories": [
+      "All",
+      "Street View & 360°"
+    ],
+    "scrapedAt": "2025-06-22T08:46:37.148Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Genoa Healthcare",
+        "reviewsCount": 14,
+        "totalScore": 4.1
+      },
+      {
+        "category": "People also search for",
+        "title": "Elliot Pharmacy at River's Edge",
+        "reviewsCount": 61,
+        "totalScore": 4
+      },
+      {
+        "category": "People also search for",
+        "title": "Rite Aid",
+        "reviewsCount": 125,
+        "totalScore": 3
+      },
+      {
+        "category": "People also search for",
+        "title": "Walgreens Pharmacy",
+        "reviewsCount": 15,
+        "totalScore": 3.5
+      },
+      {
+        "category": "People also search for",
+        "title": "Walmart Pharmacy",
+        "reviewsCount": 32,
+        "totalScore": 3.6
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "prescriptions",
+        "count": 6
+      },
+      {
+        "title": "name",
+        "count": 6
+      },
+      {
+        "title": "chain",
+        "count": 4
+      },
+      {
+        "title": "insurance",
+        "count": 4
+      },
+      {
+        "title": "prices",
+        "count": 4
+      }
+    ],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "questionsAndAnswers": {
+      "question": "Have the store hours changed? I came here during there posted open hours and they were closed.\nLove this place, just wanted to have the correct store hours for future visits.",
+      "answers": [
+        {
+          "answer": "They are open from 8am to 7 pm Monday thru Friday and Saturday 9am to 1 pm",
+          "answeredBy": {}
+        }
+      ],
+      "askDate": "3 years ago",
+      "askedBy": {}
+    },
+    "url": "https://www.google.com/maps/search/?api=1&query=Ken's%20Pharmacy&query_place_id=ChIJlwUqt8VO4okR3zYL4Ga0C_g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@0.4020297624282646,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGa_Gx04qlOJjrr5YpSQL6EdqguioH2bnEBg4M5sdGPyUK5Tb0mUeKDWeeg5VAs5vvZ1WcwOPprAM5OZ9IxCl93f8aCfn35oOyLrBbztdNpFIzhvUT2s_GpQYeTxoi4nPHODA1=w408-h544-k-no",
+    "kgmid": "/g/1ts3m69w"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "122 McGregor St #4, Manchester, NH 03102",
+    "neighborhood": "West Side",
+    "street": "122 McGregor St #4",
+    "city": "Manchester",
+    "postalCode": "03102",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/manchester/122-mcgregor-street.html",
+    "phone": "(603) 627-3822",
+    "phoneUnformatted": "+16036273822",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.992273,
+      "lng": -71.474447
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWyQTsytP4okRgyKzPhCmHSc",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e24f2bb313245b:0x271da6103eb32283",
+    "cid": "2818591530505413251",
+    "reviewsCount": 149,
+    "imagesCount": 45,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.420Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 AM–1:30 PM"
+        }
+      ],
+      "Rite Aid Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJWyQTsytP4okRgyKzPhCmHSc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouAJhgrXcbo9HK74Goqs1N_3bpg160TZM0hJPmOrhIh5fz-PQEVgXwx1Q0psuuVN7Jtlcu0jMy6CJUOe7sxXjTK07Ftt0tbKv75pRM-0x79_FbfPJwW36-j7T3pZpf5G6cGDkaYQ=w426-h240-k-no",
+    "kgmid": "/g/1v8x35tk"
+  },
+  {
+    "title": "Rite Aid Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "122 McGregor St #4, Manchester, NH 03102",
+    "neighborhood": "West Side",
+    "street": "122 McGregor St #4",
+    "city": "Manchester",
+    "postalCode": "03102",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/manchester/122-mcgregor-street.html",
+    "phone": "(603) 627-3822",
+    "phoneUnformatted": "+16036273822",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9924775,
+      "lng": -71.4744309
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgdxsJ3tP4okR-qE2XS1ThSc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f7b276cdc81:0x2785532d5d36a1fa",
+    "cid": "2847773793684201978",
+    "reviewsCount": 0,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid%20Pharmacy&query_place_id=ChIJgdxsJ3tP4okR-qE2XS1ThSc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNJmBwb3uQgJVV2MrHlSqxVWeIU71caZ2m5NauB=w408-h406-k-no",
+    "kgmid": "/g/11sw0x6cg_"
+  },
+  {
+    "title": "pill pack",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "540 Commercial St, Manchester, NH 03101",
+    "neighborhood": "Downtown",
+    "street": "540 Commercial St",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.pillpack.com/",
+    "phone": "(855) 745-5725",
+    "phoneUnformatted": "+18557455725",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.9895991,
+      "lng": -71.4688429
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD1EbxiRP4okRX-exZWUR6s8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f24c61b510f:0xcfea116565b1e75f",
+    "cid": "14981806237596903263",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=pill%20pack&query_place_id=ChIJD1EbxiRP4okRX-exZWUR6s8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K15GM2l85d1yiZ_J6OPhTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=289.30716&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f08qhsxl"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "1631 Elm St, Manchester, NH 03101",
+    "neighborhood": "Downtown",
+    "street": "1631 Elm St",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/manchester/1631-elm-street.html",
+    "phone": "(603) 623-4393",
+    "phoneUnformatted": "+16036234393",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.001876,
+      "lng": -71.463859
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZbyJEDpP4okRyVXx0N4_Q2s",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e24f3a1089bc65:0x6b433fded0f155c9",
+    "cid": "7729091611718669769",
+    "reviewsCount": 125,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJZbyJEDpP4okRyVXx0N4_Q2s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npa2hkQ1E-8IKvODHaMgroSvlfIVwbJsOAQZjCA9Pbi23W1CZ03t-izZ3mwcIUwSJ8BhmY1vkLC9GvqbkbTl3JGosMtOJCc9hpZRnhIMtBlploEQ9gwMG6H8FAJRAKdR8TjL_vo3w=w408-h725-k-no",
+    "kgmid": "/g/1tlnffyy"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "432 S Main St, Manchester, NH 03102",
+    "neighborhood": "West Side",
+    "street": "432 S Main St",
+    "city": "Manchester",
+    "postalCode": "03102",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/manchester-nh-pharmacies/432-s-main-st-manchester-nh-03102/storeid=7932?WT.mc_id=LS_GOOGLE_RX_7932",
+    "phone": "(603) 623-3532",
+    "phoneUnformatted": "+16036233532",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9764458,
+      "lng": -71.4785885
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaRpKXzNJ4okRy5Be1L_04Ww",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e249335f4a1a69:0x6ce1f4bfd45e90cb",
+    "cid": "7845821130595012811",
+    "reviewsCount": 24,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJaRpKXzNJ4okRy5Be1L_04Ww",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN10NnwB2e0eize_9MTeZTqDACNjl_vzTweH_fR=w408-h272-k-no",
+    "kgmid": "/g/11c462qc60"
+  },
+  {
+    "title": "Elliot Pharmacy at River's Edge",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "175 Queen City Ave, Manchester, NH 03101",
+    "neighborhood": "Bakersville",
+    "street": "175 Queen City Ave",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.elliotpharmacy.com/",
+    "phone": "(603) 663-5678",
+    "phoneUnformatted": "+16036635678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9736658,
+      "lng": -71.4677033
+    },
+    "locatedIn": "Elliot Home Medical Equipment",
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA3kzu8hO4okRmcjZp5KVi4A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24ec8bb337903:0x808b9592a7d9c899",
+    "cid": "9262661515731388569",
+    "reviewsCount": 61,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Elliot Home Medical Equipment": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–4:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–4:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–4:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–4:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–4:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elliot%20Pharmacy%20at%20River's%20Edge&query_place_id=ChIJA3kzu8hO4okRmcjZp5KVi4A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrjPnDqWdFF4hEN-8tsOAjyJ6rCUTpZvcOXeDrM4HkzynPnV5HaF7xglp7l_MqCg_5qHiOw85DBgMQ6Rkrm0uqWTdx-xqZjuH3CjX1JOI-CWwzdCVTcesxr7dU4qagg-kcFPmKOyg=w408-h1027-k-no",
+    "kgmid": "/g/1q67fky65"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "788 S Willow St, Manchester, NH 03103",
+    "neighborhood": null,
+    "street": "788 S Willow St",
+    "city": "Manchester",
+    "postalCode": "03103",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/manchester-nh-pharmacies/788-s-willow-st-across-from-burlington-coat-factory-manchester-nh-03103/storeid=200?WT.mc_id=LS_GOOGLE_RX_200",
+    "phone": "(603) 668-4637",
+    "phoneUnformatted": "+16036684637",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9647109,
+      "lng": -71.4444332
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdYNbRBxP4okRF3tlhhL7oIw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f1c445b8375:0x8ca0fb1286657b17",
+    "cid": "10133375218566396695",
+    "reviewsCount": 13,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJdYNbRBxP4okRF3tlhhL7oIw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOB3ILoISs947sew8HDhnw0M3SoNxPF8LnSjudE=w408-h272-k-no",
+    "kgmid": "/g/11jgcp00ck"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "250 Mammoth Rd, Manchester, NH 03109",
+    "neighborhood": "Hallsville",
+    "street": "250 Mammoth Rd",
+    "city": "Manchester",
+    "postalCode": "03109",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/manchester-nh-pharmacies/271-mammoth-road-manchester-nh-03109/storeid=2257?WT.mc_id=LS_GOOGLE_RX_2257",
+    "phone": "(603) 623-3995",
+    "phoneUnformatted": "+16036233995",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9816713,
+      "lng": -71.4323043
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6T5DJwBP4okRtTi8Ck_5cug",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f0027433ee9:0xe872f94f0abc38b5",
+    "cid": "16749724082022135989",
+    "reviewsCount": 32,
+    "imagesCount": 39,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ6T5DJwBP4okRtTi8Ck_5cug",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlbkOgzaZfEeMJWxsSnaaTD_vCcqi-7yfziIh8=w408-h272-k-no",
+    "kgmid": "/g/11c460f9n5"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2 Wall St #102, Manchester, NH 03101",
+    "neighborhood": "Downtown",
+    "street": "2 Wall St #102",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(603) 509-2106",
+    "phoneUnformatted": "+16035092106",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9941027,
+      "lng": -71.4636939
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr1D66K5P4okRddBhbfIHSdg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24faee8fa50af:0xd84907f26d61d075",
+    "cid": "15584996723290919029",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJr1D66K5P4okRddBhbfIHSdg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i9wB4XnAuOnQCjvTvvG7oA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.10703&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fd67hb1r"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "606 Valley St, Manchester, NH 03103",
+    "neighborhood": "Hallsville",
+    "street": "606 Valley St",
+    "city": "Manchester",
+    "postalCode": "03103",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-606+valley+st-manchester-nh-03103/id=4689",
+    "phone": "(603) 668-7924",
+    "phoneUnformatted": "+16036687924",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9817807,
+      "lng": -71.44758
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh2Ni4ONO4okRl9tCg2-UliE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24ee3e0626387:0x2196946f8342db97",
+    "cid": "2420285056422697879",
+    "reviewsCount": 15,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJh2Ni4ONO4okRl9tCg2-UliE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXXlZ9lZSZsr7zLj72wAvqfy7kXylAbO3r0UBUznlnHZP2euMLPd5gbLg6JH_0kP3wOGOwjOOJK24GJ-jsDZ9KSYJJ0X-uRZc6GfNyhYPtpe3UR0aMwjCL6uGwXtCW99gvRBfj=w408-h272-k-no",
+    "kgmid": "/g/11cn94gkgq"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "227 S Main St, Manchester, NH 03102",
+    "neighborhood": "West Side",
+    "street": "227 S Main St",
+    "city": "Manchester",
+    "postalCode": "03102",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-227+s+main+st-manchester-nh-03102/id=3900",
+    "phone": "(603) 666-8538",
+    "phoneUnformatted": "+16036668538",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9800346,
+      "lng": -71.4769716
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN2bYIApP4okR_ba9gflNvKA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f0a20d86637:0xa0bc4df981bdb6fd",
+    "cid": "11582218075708962557",
+    "reviewsCount": 4,
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJN2bYIApP4okR_ba9gflNvKA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq3rTXtYpC_QcgEhLb7t7nEEMyJNClm9IN7mPoGz6vtoHv9MW0PHzEju8VaEHpYROzMorznAdtXRiwc_410l-psIWIz4W6Oa5vHli2_vEavkPtedigw8DkrxOe-gAqL9WExq5mn=w408-h544-k-no",
+    "kgmid": "/g/11qs0xq8t9"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1555 Elm St suite a, Manchester, NH 03101",
+    "neighborhood": "Downtown",
+    "street": "1555 Elm St suite a",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(603) 606-5920",
+    "phoneUnformatted": "+16036065920",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.0004128,
+      "lng": -71.4638406
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJofMxQzpP4okRjmgoR5ZwLt0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f3a4331f3a1:0xdd2e70964728688e",
+    "cid": "15937799922051999886",
+    "reviewsCount": 14,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 12:30 to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 12:30 to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 12:30 to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 12:30 to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 12:30 to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJofMxQzpP4okRjmgoR5ZwLt0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=13EC8mtB1ij2R8-dEe-ezA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=78.22509&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b7ztnz13"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "140 Bicentennial Dr, Manchester, NH 03104",
+    "neighborhood": "South Hooksett",
+    "street": "140 Bicentennial Dr",
+    "city": "Manchester",
+    "postalCode": "03104",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/manchester/8177",
+    "phone": "(603) 644-2204",
+    "phoneUnformatted": "+16036442204",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.0209291,
+      "lng": -71.4492849
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH1t_dWFP4okRev5JxGcxyg0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24f61757f5b1f:0xdca3167c449fe7a",
+    "cid": "993660989533191802",
+    "reviewsCount": 8,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 2 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJH1t_dWFP4okRev5JxGcxyg0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJ0TAO_y7otMQRuQMvWhzW002ebY2sXm6i--WjMVw5rFlKxsF5zOC4s22vFXSYorLkd9Gg-y_yNouoLAOl8ylCl95JDR5sDfowFvWvPaQ1-olv68xExu3Z84T6zfMKpmESo2jr0w=w408-h361-k-no",
+    "kgmid": "/g/1jkxg28wt"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "859 Hanover St, Manchester, NH 03104",
+    "neighborhood": "Hallsville",
+    "street": "859 Hanover St",
+    "city": "Manchester",
+    "postalCode": "03104",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/manchester/8178",
+    "phone": "(603) 627-4354",
+    "phoneUnformatted": "+16036274354",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.985356,
+      "lng": -71.4285024
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpZJD66lP4okRBZdW-1iuFI0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24fa9eb4392a5:0x8d14ae58fb569705",
+    "cid": "10165941956079163141",
+    "reviewsCount": 22,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJpZJD66lP4okRBZdW-1iuFI0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqTn2Z6Ew6DS7ciMKyhC7VFBQ2PuD7cpLd-CjGlbEnL9GOlZMetTNwwXbcLXOpviNqNqvyhDk3aeYqCZlV256w-6dfH_9eyS3QnVo8v1c8Jn7mIKDcjk3iG8lr5DebrAY-HetoH=w408-h544-k-no",
+    "kgmid": "/g/11b65j6px6"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "201 John E Devine Dr, Manchester, NH 03103",
+    "neighborhood": null,
+    "street": "201 John E Devine Dr",
+    "city": "Manchester",
+    "postalCode": "03103",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/manchester/8164",
+    "phone": "(603) 626-1233",
+    "phoneUnformatted": "+16036261233",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9579229,
+      "lng": -71.4422353
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrzldJ5BO4okRl8tUy8ILvlY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24e90275d39af:0x56be0bc2cb54cb97",
+    "cid": "6250446264099720087",
+    "reviewsCount": 14,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:36.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 2 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJrzldJ5BO4okRl8tUy8ILvlY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDcqfJJHXpv2GrdeC93YT0_t_JuG0L-I6n2fRBfEjwvGv-mjX8XbgITOcNBZUUJ6oIvuvnw9fCPqnIeUSlmALP1RIOCGVBwbrep_KzwF3e-ckuM7AmWTscpQO6hmyT6RreCd_v=w426-h240-k-no",
+    "kgmid": "/g/11b6cmkrc6"
+  },
+  {
+    "title": "ApothiCare 360 Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6631 Orion Dr #112, Fort Myers, FL 33912",
+    "neighborhood": null,
+    "street": "6631 Orion Dr #112",
+    "city": "Fort Myers",
+    "postalCode": "33912",
+    "state": "Florida",
+    "countryCode": "US",
+    "website": "http://www.apothicare360.com/",
+    "phone": "(239) 690-7700",
+    "phoneUnformatted": "+12396907700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 26.5457221,
+      "lng": -81.8480882
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5eu3L0EV24gRsdDeEPoBcIk",
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88db15412fb7ebe5:0x897001fa10ded0b1",
+    "cid": "9903417754124210353",
+    "reviewsCount": 38,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:42.425Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ApothiCare%20360%20Compounding%20Pharmacy&query_place_id=ChIJ5eu3L0EV24gRsdDeEPoBcIk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@28.22663985800361,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq8MzUXzaJCj0MkQBufgVZYCGuhqqNPfc2bpOB3hT-TBLSYj27CfU_Si612lFN5WxpTlzjjaHhcg8dE-AGEUfqK8iQBjAAXKib7eHf4j8ktlAjAI2u8-25wj6OwHsHqZ_PMW0Tl=w408-h271-k-no",
+    "kgmid": "/g/1pyqjs0t6"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJndKJCVehs0wR0ayJimKAQO0",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:47:46.228Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950"
+  },
+  {
+    "title": "Oakhurst Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1630 Oakhurst Commons Dr Suite 206, Charlotte, NC 28205",
+    "neighborhood": "Oakhurst",
+    "street": "1630 Oakhurst Commons Dr Suite 206",
+    "city": "Charlotte",
+    "postalCode": "28205",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.oakhurstrxnc.com/",
+    "phone": "(980) 273-1810",
+    "phoneUnformatted": "+19802731810",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.1938423,
+      "lng": -80.7821631
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLbDNzGIhVIgRi8PKwaxYziA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88542162cccdb02d:0x20ce58acc1cac38b",
+    "cid": "2363924353424999307",
+    "reviewsCount": 77,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:50:10.775Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oakhurst%20Pharmacy&query_place_id=ChIJLbDNzGIhVIgRi8PKwaxYziA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@35.14935231795051,-80.8222754,13z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMW5JBXcWKr-qIXb6On-gxzvWwYhrWphEyo5Nk8=w408-h306-k-no",
+    "kgmid": "/g/11fqzyhw_g"
+  },
+  {
+    "title": "Skenderian Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1613 Cambridge St, Cambridge, MA 02138, United States",
+    "neighborhood": "Mid-Cambridge",
+    "street": "1613 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.skenderianapothecary.com/",
+    "phone": "+1 617-354-5600",
+    "phoneUnformatted": "+16173545600",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3748898,
+      "lng": -71.108973
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaVbn-EV344kR3FD6DLGH7VI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37745f8e75669:0x52ed87b10cfa50dc",
+    "cid": "5975581475087208668",
+    "reviewsCount": 70,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:50:21.702Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Skenderian%20Apothecary&query_place_id=ChIJaVbn-EV344kR3FD6DLGH7VI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Manchester%20NH/@42.38843610060976,-71.10070220921138,14z?hl=en",
+    "searchString": "independent pharmacy Manchester NH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUyQ4fIdVEkz8jZ12uKNNq-UIwoDW0iSwHOHXGZiauTJ-m3-Qm_htccr1E8TEiLrHhSIdUAdOAxQ3dc0mWqz7-g-6FeNk7DdUbEVDP1YN3WQRzEjYvqP9jhXrvJWwBehM0hYPT=w408-h305-k-no",
+    "kgmid": "/g/1tj9c_vt"
+  }
+]

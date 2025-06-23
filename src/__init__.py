@@ -8,16 +8,12 @@ This package provides functionality to classify and verify independent pharmacie
 
 __version__ = "0.1.0"
 
-from .classification.classifier import (
-    classify_pharmacy,
-    rule_based_classify,
-    batch_classify_pharmacies,
-    classify  # For backward compatibility
+from .classification import (
+    Classifier,
+    PerplexityClient
 )
 
 __all__ = [
-    'classify_pharmacy',
-    'rule_based_classify',
-    'batch_classify_pharmacies',
-    'classify'
+    "Classifier",
+    "PerplexityClient",
 ]

@@ -1,0 +1,31 @@
+{
+  "total_locations_processed": 3,
+  "total_pharmacies": 49,
+  "total_classified": 49,
+  "classification_success_rate": "100.0%",
+  "totals": {
+    "independent": 44,
+    "chain": 5,
+    "errors": 0
+  },
+  "by_location": {
+    "scottsdale_az": {
+      "total": 10,
+      "independent": 10,
+      "chain": 0,
+      "errors": 0
+    },
+    "orem_ut": {
+      "total": 19,
+      "independent": 14,
+      "chain": 5,
+      "errors": 0
+    },
+    "fort_worth_tx": {
+      "total": 20,
+      "independent": 20,
+      "chain": 0,
+      "errors": 0
+    }
+  }
+}

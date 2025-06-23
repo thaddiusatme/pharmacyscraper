@@ -1,0 +1,2686 @@
+[
+  {
+    "title": "Shaw's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "55 Crystal Ave, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "55 Crystal Ave",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.shaws.com/nh/derry/55-crystal-ave.html",
+    "phone": "(603) 437-9654",
+    "phoneUnformatted": "+16034379654",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8912914,
+      "lng": -71.3235444
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89e253a88ffb6ed1:0x9eed71c7d51077",
+    "cid": "44734119260000375",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.615Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaw's%20Pharmacy&query_place_id=ChIJ0W77j6hT4okRdxDVx3HtngA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMHXhqrwgNiceZ3UOb2KQfPjzl6m62RApWB7sXi=w426-h240-k-no",
+    "kgmid": "/g/1w6r98qh",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "48 E Broadway, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "48 E Broadway",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/derry-nh-pharmacies/48-e-broadway-corner-of-east-broadway-and-crystal-ave-derry-nh-03038/storeid=593?WT.mc_id=LS_GOOGLE_RX_593",
+    "phone": "(603) 434-2600",
+    "phoneUnformatted": "+16034342600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8825195,
+      "lng": -71.3237443
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e2530584b6d813:0xe81204e7ac766275",
+    "cid": "16722433759457469045",
+    "reviewsCount": 26,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJE9i2hAVT4okRdWJ2rOcEEug",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAV8wjMLiyNuD3h1fM27LeFnYTPHU02qtx1uhD=w408-h272-k-no",
+    "kgmid": "/g/11c467bt52",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "V-Care Pharmacy of NH",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1B Commons Dr UNIT 10, Londonderry, NH 03053",
+    "neighborhood": "Londonderry",
+    "street": "1B Commons Dr UNIT 10",
+    "city": "Londonderry",
+    "postalCode": "03053",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://myvcarepharmacy.com/",
+    "phone": "(603) 314-8387",
+    "phoneUnformatted": "+16033148387",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8679361,
+      "lng": -71.3500159
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e2536d527c574d:0xccd5de83e05282eb",
+    "cid": "14759948011762254571",
+    "reviewsCount": 26,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=V-Care%20Pharmacy%20of%20NH&query_place_id=ChIJTVd8Um1T4okR64JS4IPe1cw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqDxUVqAJVt2S5KsQItJZHcOmjouTLaBJ2SWBKK1e2orqMdTnZJGUdDIalJEvhbf40BzBGncqDtSY5q19BtOGQoxVKSGTkDj1m0gE28G-gpvaK8MR1LttLatjaDXKHYKUEluIN4=w408-h306-k-no",
+    "kgmid": "/g/11rr_xx_1w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10 Tsienneto Rd, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "10 Tsienneto Rd",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(603) 965-0255",
+    "phoneUnformatted": "+16039650255",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8979685,
+      "lng": -71.3234505
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e253e038f7c75b:0x50b06e41bda3a16a",
+    "cid": "5814268347568857450",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJW8f3OOBT4okRaqGjvUFusFA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wp6NND2iAksoUH38B6tkRQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.3358&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gnrfz6yx",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rite Aid Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "20 Crystal Ave, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "20 Crystal Ave",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/derry/20-crystal-avenue.html",
+    "phone": "(603) 437-9799",
+    "phoneUnformatted": "+16034379799",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8841653,
+      "lng": -71.3255314
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e2530b8b992903:0x80aecb036a3ad658",
+    "cid": "9272571898330011224",
+    "reviewsCount": 1,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid%20Pharmacy&query_place_id=ChIJAymZiwtT4okRWNY6agPLroA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYtKCeHtBM5osrZQCUo0LKE6FjJr6efF6RFJGC=w408-h406-k-no",
+    "kgmid": "/g/11kqm98h9_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Osco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": null,
+    "city": "Derry",
+    "postalCode": null,
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "phone": "(603) 437-9654",
+    "phoneUnformatted": "+16034379654",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.8915396,
+      "lng": -71.3238824
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e253a864dd393b:0x55d5839c1778ea5c",
+    "cid": "6184994369695181404",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Osco%20Pharmacy&query_place_id=ChIJOzndZKhT4okRXOp4F5yD1VU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ObtbDTDURB1l2nAIlKXM0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=50.26941&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h3mv___2",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "20 Crystal Ave, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "20 Crystal Ave",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/derry/20-crystal-avenue.html",
+    "phone": "(603) 437-9799",
+    "phoneUnformatted": "+16034379799",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.884168,
+      "lng": -71.3254523
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e25305d6490555:0x823cb869606ae77d",
+    "cid": "9384578486261966717",
+    "reviewsCount": 42,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJVQVJ1gVT4okRfedqYGm4PII",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr0qHyOwya3c-Vy5I3P-_oWeWw7X5vVRG6qRhjMrYWnVnmbywgsGUCmzKnO1DdhiXigPxK_HXEwhLjAqI0yVaHewaET-ayfCJLU8-NKGLjcUo6Avx2CYmFIZdbLHwRVJxt2KTy1Ag=w408-h306-k-no",
+    "kgmid": "/g/1tdqpngj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "35 Manchester Rd, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "35 Manchester Rd",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/nh/derry/8016",
+    "phone": "(603) 421-2596",
+    "phoneUnformatted": "+16034212596",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.900369,
+      "lng": -71.3372819
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e25252c1255555:0x7baeff20f8a83c7b",
+    "cid": "8912341229688601723",
+    "reviewsCount": 7,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJVVUlwVJS4okRezyo-CD_rns",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVUp9ICaFFtYwBBAE2cEwc_7fAOBHXa5bISvuxH6H7djRFRIhxn9vsCHKv_QsbV_HwBiAR2-aeipTG_D5xZdEnvlZN9cv6p_j019V_xbJRIWGiOj8v-yMIWAfWLDMcyBdhSE2Y=w408-h306-k-no",
+    "kgmid": "/g/12hk2n_bw",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "48 E Broadway, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "48 E Broadway",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/derry-nh-pharmacies/48-e-broadway-corner-of-east-broadway-and-crystal-ave-derry-nh-03038/storeid=593?WT.mc_id=LS_GOOGLE_FS_593",
+    "phone": "(603) 434-2600",
+    "phoneUnformatted": "+16034342600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8825194,
+      "lng": -71.3237451
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x89e25307104fee29:0x49715fd7836d8ffd",
+    "cid": "5292116416364646397",
+    "reviewsCount": 75,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.618Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJKe5PEAdT4okR_Y9tg9dfcUk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrEX4U7Chg4JWvdB0M85EflhdPZExXW0Hedci7lyktw68vx8kml20TCKvmvJdVdWAOW2XpGxHveZFEqqlI56EZZin4Mbm-MG-_HguyN6x5EDi3TQvD8G8eB4eTr47WfYxFbV_0nEA=w408-h544-k-no",
+    "kgmid": "/g/1vvyz276",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "11 Ashleigh Dr, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "11 Ashleigh Dr",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/1753-derry-nh/pharmacy/?veh=seo_loc",
+    "phone": "(603) 434-4898",
+    "phoneUnformatted": "+16034344898",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.902128,
+      "lng": -71.3257904
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89e25252d69ee935:0x81105b8f3741b4bd",
+    "cid": "9300033901185578173",
+    "reviewsCount": 24,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:10.618Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJNeme1lJS4okRvbRBN49bEIE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9EG65rXeZfZuErV6YTUCTTIwdWZo2KrZHSdWp=w408-h306-k-no",
+    "kgmid": "/g/1tkmnkfd",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ken's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "36 Elm St, Manchester, NH 03101",
+    "neighborhood": "Bakersville",
+    "street": "36 Elm St",
+    "city": "Manchester",
+    "postalCode": "03101",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://kens-pharmacy.com/",
+    "phone": "(603) 622-4300",
+    "phoneUnformatted": "+16036224300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.9749072,
+      "lng": -71.4633728
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e24ec5b72a0597:0xf80bb466e00b36df",
+    "cid": "17873577900088440543",
+    "reviewsCount": 39,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:13.813Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ken's%20Pharmacy&query_place_id=ChIJlwUqt8VO4okR3zYL4Ga0C_g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@59.485012656044645,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noGa_Gx04qlOJjrr5YpSQL6EdqguioH2bnEBg4M5sdGPyUK5Tb0mUeKDWeeg5VAs5vvZ1WcwOPprAM5OZ9IxCl93f8aCfn35oOyLrBbztdNpFIzhvUT2s_GpQYeTxoi4nPHODA1=w408-h544-k-no",
+    "kgmid": "/g/1ts3m69w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rite Aid Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "52 Rockingham Rd, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "52 Rockingham Rd",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/derry/52-rockingham-road.html",
+    "phone": "(603) 432-2505",
+    "phoneUnformatted": "+16034322505",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8748337,
+      "lng": -71.3140716
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e25380c1de449f:0xfcbff81bcc5dd503",
+    "cid": "18212548216386082051",
+    "reviewsCount": 2,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:15.264Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid%20Pharmacy&query_place_id=ChIJn0TewYBT4okRA9VdzBv4v_w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@45.410355141996405,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM3zQI630yoAokSzv9BDu97IdLz6QPOMlcKisVT=w408-h406-k-no",
+    "kgmid": "/g/11v15f282q",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "52 Rockingham Rd, Derry, NH 03038",
+    "neighborhood": "Derry",
+    "street": "52 Rockingham Rd",
+    "city": "Derry",
+    "postalCode": "03038",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/nh/derry/52-rockingham-road.html",
+    "phone": "(603) 432-2505",
+    "phoneUnformatted": "+16034322505",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.874829,
+      "lng": -71.314084
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e253132e4431fd:0xe8b6bfbb5c75a65a",
+    "cid": "16768801073991624282",
+    "reviewsCount": 39,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:15.264Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJ_TFELhNT4okRWqZ1XLu_tug",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@45.410355141996405,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOunKLnEZN1LQNZ_BzrYmgmm1j9jRn8z7HG5qYS=w408-h406-k-no",
+    "kgmid": "/g/1tlc91wz",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Derry Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1304 Derry St, Harrisburg, PA 17104, United States",
+    "neighborhood": null,
+    "street": "1304 Derry St",
+    "city": "Harrisburg",
+    "postalCode": "17104",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "phone": "+1 717-547-6219",
+    "phoneUnformatted": "+17175476219",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.2634682,
+      "lng": -76.8683576
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c8c19d664897ab:0xf094318b54f6439a",
+    "cid": "17335535340151522202",
+    "reviewsCount": 17,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:55:24.084Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Derry%20Street%20Pharmacy&query_place_id=ChIJq5dIZp3ByIkRmkP2VIsxlPA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@33.954544952667874,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFt3a_xti_X5m8M9Q3dazMLq6pMQrBbsjwnm0Y=w408-h246-k-no",
+    "kgmid": "/g/11h0bp_3l5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:56:02.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@-14.611623824485415,-168.22432190257456,13z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Wingate's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "129 Main St, Nashua, NH 03060",
+    "neighborhood": null,
+    "street": "129 Main St",
+    "city": "Nashua",
+    "postalCode": "03060",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://www.wingatespharmacy.com/",
+    "phone": "(603) 882-9733",
+    "phoneUnformatted": "+16038829733",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.7616943,
+      "lng": -71.465923
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3b0d7f985a1c3:0x353effa36bdeb6a1",
+    "cid": "3836785009920751265",
+    "reviewsCount": 58,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:57:06.216Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wingate's%20Pharmacy&query_place_id=ChIJw6GF-dew44kRobbea6P_PjU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@42.9749072,-71.4633728,10.551933259268344z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaUUMqKBcYh-WDiFslhUDM_3oVsQdKlMUNk-d_WVnL3ZqsVGaxJfDMsMUlOvFkHTAeFImPBVd0lMgUa1ofWtr2PJoAgym6RXRZGvOvVt0UPGDHgRipXkhtbIA4mslXLAHmB-D5MA=w408-h306-k-no",
+    "kgmid": "/g/1v27whyt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "177 Mammoth Rd, Londonderry, NH 03053",
+    "neighborhood": null,
+    "street": "177 Mammoth Rd",
+    "city": "Londonderry",
+    "postalCode": "03053",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/londonderry-nh-pharmacies/177-mammoth-road-corner-of-route-102-londonderry-nh-03053/storeid=2420?WT.mc_id=LS_GOOGLE_RX_2420",
+    "phone": "(603) 432-2657",
+    "phoneUnformatted": "+16034322657",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.847315,
+      "lng": -71.3626752
+    },
+    "locatedIn": "CVS",
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3ad46469e45d3:0x40aad9d6fd2f6adc",
+    "cid": "4659776281862171356",
+    "reviewsCount": 45,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:57:06.217Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ00WeRkat44kR3Gov_dbZqkA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@42.9749072,-71.4633728,10.551933259268344z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNAo_qqQWA4mwtrlchMIIke9JbMmcGFYJbB4Om7=w408-h272-k-no",
+    "kgmid": "/g/1td8_3xp",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Salem Neighborhood Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "32 Stiles Rd Unit 102C, Salem, NH 03079",
+    "neighborhood": null,
+    "street": "32 Stiles Rd Unit 102C",
+    "city": "Salem",
+    "postalCode": "03079",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "http://salemneighborhoodpharmacy.com/",
+    "phone": "(603) 458-6944",
+    "phoneUnformatted": "+16034586944",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.7730439,
+      "lng": -71.2507749
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3ab16898f91e3:0x8541db8ccaf7c34e",
+    "cid": "9602197278277747534",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:57:06.217Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Salem%20Neighborhood%20Pharmacy&query_place_id=ChIJ45GPiRar44kRTsP3yozbQYU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Derry%20NH/@42.9749072,-71.4633728,10.551933259268344z?hl=en",
+    "searchString": "independent pharmacy Derry NH",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9kGkPp3DuudZhgEKTYEA6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=258.19238&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sjw54vsm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

@@ -1,0 +1,2341 @@
+[
+  {
+    "title": "The Pharmacy at Desoto",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7601 Southcrest Pkwy Suite 100, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "7601 Southcrest Pkwy Suite 100",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.thepharmacyatdesoto.com/",
+    "phone": "(662) 253-8206",
+    "phoneUnformatted": "+16622538206",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9701262,
+      "lng": -89.9981057
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHxvzzQKJf4gRL50JenSa6sw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f8902cdf31b1f:0xccea9a747a099d2f",
+    "cid": "14765784153341926703",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.106Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%20at%20Desoto&query_place_id=ChIJHxvzzQKJf4gRL50JenSa6sw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rHz9nv9TKpV3mbBW6q_pfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=80.26189&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vjhrx96r"
+  },
+  {
+    "title": "First Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5185 Getwell Rd, Southaven, MS 38671",
+    "neighborhood": "Snowden District",
+    "street": "5185 Getwell Rd",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://firstpharmacyservices.com/",
+    "phone": "(662) 349-3300",
+    "phoneUnformatted": "+16623493300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9357816,
+      "lng": -89.93742
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMcQ4Y-6Lf4gRuzkid8IOGtc",
+    "categories": [
+      "Pharmacy",
+      "Doctor",
+      "Medical clinic"
+    ],
+    "fid": "0x887f8bee6338c431:0xd71a0ec2772239bb",
+    "cid": "15499717295934159291",
+    "reviewsCount": 23,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.107Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=First%20Pharmacy%20Services&query_place_id=ChIJMcQ4Y-6Lf4gRuzkid8IOGtc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtEhVSZ92HgKsWBx9RfRZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=271.52585&pitch=0&thumbfov=100",
+    "kgmid": "/g/1261ldptp"
+  },
+  {
+    "title": "Advance Pharmacy Solutions",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7420 Guthrie Dr # 109, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "7420 Guthrie Dr # 109",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(662) 536-0384",
+    "phoneUnformatted": "+16625360384",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.9680619,
+      "lng": -89.9893158
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPYpCQ-aJf4gRllvVJxW_4xE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f89e643428a3d:0x11e3bf1527d55b96",
+    "cid": "1289084015941606294",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.107Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Advance%20Pharmacy%20Solutions&query_place_id=ChIJPYpCQ-aJf4gRllvVJxW_4xE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WSfCMW3g1w7uF8K7uz1CiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.05728&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wb8vg3r"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "55 Goodman Rd W, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "55 Goodman Rd W",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/southaven-ms-pharmacies/55-goodman-road-west-southaven-ms-38671/storeid=8955?WT.mc_id=LS_GOOGLE_RX_8955",
+    "phone": "(662) 349-1102",
+    "phoneUnformatted": "+16623491102",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.962165,
+      "lng": -89.9906238
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSZuO-O-Jf4gROb1tvkZDcu0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f89eff88e9b49:0xed724346be6dbd39",
+    "cid": "17109811905455570233",
+    "reviewsCount": 31,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.107Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJSZuO-O-Jf4gROb1tvkZDcu0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNV6vXdR2f82PLpsGlPeLhdazY0a7GEL_kXigC=w408-h272-k-no",
+    "kgmid": "/g/11c460bhzc"
+  },
+  {
+    "title": "Mike's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9065 Sandidge Center Cove A, Olive Branch, MS 38654",
+    "neighborhood": null,
+    "street": "9065 Sandidge Center Cove A",
+    "city": "Olive Branch",
+    "postalCode": "38654",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(662) 892-8448",
+    "phoneUnformatted": "+16628928448",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.9474194,
+      "lng": -89.8294333
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ65r9qSGSf4gRQ4yC_VGKNVk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f9221a9fd9aeb:0x59358a51fd828c43",
+    "cid": "6428196127891426371",
+    "reviewsCount": 71,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.107Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mike's%20Pharmacy&query_place_id=ChIJ65r9qSGSf4gRQ4yC_VGKNVk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JiFJNRPF4Q_nvPAUbaqtPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.96136&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c59x_vcx"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1011 Goodman Rd E, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "1011 Goodman Rd E",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1011+goodman+rd+e-southaven-ms-38671/id=5396",
+    "phone": "(662) 349-6787",
+    "phoneUnformatted": "+16623496787",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9621727,
+      "lng": -89.9711312
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ZeTtpqJf4gR_XjAJ55yqCc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f899ab69397f9:0x27a8729e27c078fd",
+    "cid": "2857659987163904253",
+    "reviewsCount": 10,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.107Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ-ZeTtpqJf4gR_XjAJ55yqCc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP17C7TgIpeR2YfObkSYtyk3q2azwx7Pm_kTlc=w525-h240-k-no",
+    "kgmid": "/g/11px6gjgp6"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "465 Goodman Rd E, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "465 Goodman Rd E",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/southaven-ms-sams-club/4740",
+    "phone": "(662) 349-3740",
+    "phoneUnformatted": "+16623493740",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9595904,
+      "lng": -89.9820567
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiZtqRuOJf4gRotTyvngQZZc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f89e3466a9b89:0x97651078bef2d4a2",
+    "cid": "10909143783160599714",
+    "reviewsCount": 9,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJiZtqRuOJf4gRotTyvngQZZc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-RAfLoJ0DauUacKFbdBPLLhv1RXIDD0Ug_Sv1=w408-h272-k-no",
+    "kgmid": "/g/1hc4y6br4"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1065 Main St, Southaven, MS 38671",
+    "neighborhood": "West End",
+    "street": "1065 Main St",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1065+main+st-southaven-ms-38671/id=9013",
+    "phone": "(662) 393-8527",
+    "phoneUnformatted": "+16623938527",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9913702,
+      "lng": -90.0087247
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN1gJ0Hxi1YcRpnwp9KFkn2Y",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87d5627cd0095837:0x669f64a1f4297ca6",
+    "cid": "7394739759914515622",
+    "reviewsCount": 10,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–1:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1:30 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJN1gJ0Hxi1YcRpnwp9KFkn2Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP0lVGoHbQVLvOkmFIx8O9Uv8l-ov1VYjenqgbe=w525-h240-k-no",
+    "kgmid": "/g/11cn96kxsv"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2955 Church Rd E, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "2955 Church Rd E",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/southaven-ms-pharmacies/2955-church-road-east-southaven-ms-38671/storeid=8994?WT.mc_id=LS_GOOGLE_RX_8994",
+    "phone": "(662) 349-7375",
+    "phoneUnformatted": "+16623497375",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9326464,
+      "lng": -89.9375295
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGzH4Qm6Lf4gRpUIQUxJ1TxU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f8b6e42f8311b:0x154f7512531042a5",
+    "cid": "1535574719520064165",
+    "reviewsCount": 12,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJGzH4Qm6Lf4gRpUIQUxJ1TxU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYKSyNhvFqESaV3HAmHBVWcjJwrhUBFcuKJ9Dp=w408-h272-k-no",
+    "kgmid": "/g/11c467wlt1"
+  },
+  {
+    "title": "GetWell Pharmacy #3100 of Olive Branch",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8831 Goodman Rd, Olive Branch, MS 38654",
+    "neighborhood": null,
+    "street": "8831 Goodman Rd",
+    "city": "Olive Branch",
+    "postalCode": "38654",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.getwell-pharmacy.com/",
+    "phone": "(662) 404-8989",
+    "phoneUnformatted": "+16624048989",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.96181,
+      "lng": -89.8335108
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQA0Y-2Rf4gRr2MfadrfKTY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f91ed63340001:0x3629dfda691f63af",
+    "cid": "3902896681252774831",
+    "reviewsCount": 44,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=GetWell%20Pharmacy%20%233100%20of%20Olive%20Branch&query_place_id=ChIJAQA0Y-2Rf4gRr2MfadrfKTY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrohve5jaZb6eL8ogh50jyjzSBKx3Wsjr3SFiiU9X9KXnyAN4T83fnNj1s8S3UFqO3yUxSIyEwUk1Nvj0tFjQgSgfasFNXcTUtrUPJp7Ia65JVecUEvU1C35OPR4VEn_km1rxd1=w408-h541-k-no",
+    "kgmid": "/g/11fll6kv0y"
+  },
+  {
+    "title": "First Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6888 Goodman Rd, Olive Branch, MS 38654",
+    "neighborhood": null,
+    "street": "6888 Goodman Rd",
+    "city": "Olive Branch",
+    "postalCode": "38654",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.firstpharmacyservices.com/contact.html",
+    "phone": "(662) 349-3300",
+    "phoneUnformatted": "+16623493300",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.9635969,
+      "lng": -89.8687086
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQDAzxKOf4gRk7J-QVoXD9A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f8e12cfc00001:0xd00f175a417eb293",
+    "cid": "14992227360952988307",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=First%20Pharmacy%20Services&query_place_id=ChIJAQDAzxKOf4gRk7J-QVoXD9A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3M05mT8hdDyz_VYetjPRqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.496866&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kc8m9fxj"
+  },
+  {
+    "title": "Kroger Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "3095 Goodman Rd E, Southaven, MS 38672",
+    "neighborhood": "Snowden District",
+    "street": "3095 Goodman Rd E",
+    "city": "Southaven",
+    "postalCode": "38672",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.kroger.com/rx/pharmacy/details/025/00464?cid=loc_02500464P_gmb",
+    "phone": "(662) 536-3743",
+    "phoneUnformatted": "+16625363743",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9608185,
+      "lng": -89.9349521
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO5HnWUWJf4gR39IaIL4KSZE",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x887f894559e7913b:0x91490abe201ad2df",
+    "cid": "10468910620498121439",
+    "reviewsCount": 33,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8 AM–1 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8 AM–1 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8 AM–1 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8 AM–1 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8 AM–1 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM–1 PM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Pharmacy&query_place_id=ChIJO5HnWUWJf4gR39IaIL4KSZE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNNtZ5_k_V-4G8OH8iimK6f9O6pTaUKC2wMTWlW=w408-h257-k-no",
+    "kgmid": "/g/1tfjlwxm"
+  },
+  {
+    "title": "Phipps Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "25 Physician's Ln, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "25 Physician's Ln",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.phippspharmacy.com/",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9600957,
+      "lng": -89.9893938
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfcV2FfCJf4gRmom0hQr-ivk",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x887f89f01576c57d:0xf98afe0a85b4899a",
+    "cid": "17981463783376456090",
+    "reviewsCount": 65,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:25.108Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Phipps%20Pharmacy&query_place_id=ChIJfcV2FfCJf4gRmom0hQr-ivk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@59.39147286325086,-146.19139048096207,12z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP7GRMMkTkkf7H4qb_U-l-MMMut0W3CFVL1PzqY=w408-h306-k-no",
+    "kgmid": "/g/1tx47tgg"
+  },
+  {
+    "title": "Entrustrx",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4284 New Getwell Rd, Memphis, TN 38118",
+    "neighborhood": null,
+    "street": "4284 New Getwell Rd",
+    "city": "Memphis",
+    "postalCode": "38118",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "website": "http://entrustrx.com/",
+    "phone": "(855) 394-2930",
+    "phoneUnformatted": "+18553942930",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 35.0372999,
+      "lng": -89.9354549
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm_U5wqeIf4gRW-qdQ-tE_ak",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f88a7c239f59b:0xa9fd44eb439dea5b",
+    "cid": "12249022338760043099",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:29.093Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Entrustrx&query_place_id=ChIJm_U5wqeIf4gRW-qdQ-tE_ak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@63.653579074253855,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NuO2lpD_II5o6qWApuVJZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=73.21085&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ggvy5v1k"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8791 Northwest Dr, Southaven, MS 38671, United States",
+    "neighborhood": "West End",
+    "street": "8791 Northwest Dr",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "+1 877-498-9347",
+    "phoneUnformatted": "+18774989347",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9890201,
+      "lng": -90.0053458
+    },
+    "totalScore": 2.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD1AduteJf4gRTjwxok04-3A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f89d7ba1d500f:0x70fb384da2313c4e",
+    "cid": "8141162657487076430",
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:47.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJD1AduteJf4gRTjwxok04-3A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@57.40072944694004,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPyIYXl0rYAXptB3nm14fmL32juV_C0zckL7NvB5Q2NuqkfPFH3kE1-3bVkbS1L2zgyoY_c0dFn-lf7uqxiwIjPeKgemIkCyQvyCCblYB-jFhP48XiEWdDfTRpU1qlgX3wwtDM=w408-h306-k-no",
+    "kgmid": "/g/11ck9_p8k3"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "££",
+    "categoryName": "Pharmacy",
+    "address": "35 Stateline Rd W, Southaven, MS 38671, United States",
+    "neighborhood": "West End",
+    "street": "35 Stateline Rd W",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-35+stateline+rd+w-southaven-ms-38671/id=4455",
+    "phone": "+1 662-342-2906",
+    "phoneUnformatted": "+16623422906",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9912285,
+      "lng": -89.9905103
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrza_iM2Jf4gRabv7IQleZXk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f89cd88bf36af:0x79655e0921fbbb69",
+    "cid": "8747501244554918761",
+    "reviewsCount": 10,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:15:47.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive-through": [
+        {
+          "day": "Monday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 am–1:30 pm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJrza_iM2Jf4gRabv7IQleZXk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@57.40072944694004,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM2dWUkJaoVBC0ZGqU5L4OtRq3PHvZBAAFD175E=w525-h240-k-no",
+    "kgmid": "/g/11cnbm1qpr"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "6811 Southcrest Pkwy, Southaven, MS 38671",
+    "neighborhood": null,
+    "street": "6811 Southcrest Pkwy",
+    "city": "Southaven",
+    "postalCode": "38671",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/848-southaven-ms/pharmacy/?veh=seo_loc",
+    "phone": "(662) 349-9242",
+    "phoneUnformatted": "+16623499242",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 34.9602224,
+      "lng": -89.9964651
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCa2XvPyJf4gRp_bejlKGJno",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x887f89fcbc97ad09:0x7a2686528edef6a7",
+    "cid": "8801870210884630183",
+    "reviewsCount": 12,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:16:04.464Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJCa2XvPyJf4gRp_bejlKGJno",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@39.68245004733214,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNc05njdr-jNOVn7lJvXXJ3BPxInKuice4htS7N=w408-h306-k-no",
+    "kgmid": "/g/1hf21882h"
+  },
+  {
+    "title": "Haven Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1699 NY-112 Suite C, Medford, NY 11763",
+    "neighborhood": null,
+    "street": "1699 NY-112 Suite C",
+    "city": "Medford",
+    "postalCode": "11763",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/profile.php?id=100069732930475",
+    "phone": "(631) 289-6888",
+    "phoneUnformatted": "+16312896888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7994338,
+      "lng": -73.0048749
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtUQtmK9I6IkROeBXbsQv9nU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e848af982d44b5:0x75f62fc46e57e039",
+    "cid": "8500033867419738169",
+    "reviewsCount": 63,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:16:35.684Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Haven%20Drugs&query_place_id=ChIJtUQtmK9I6IkROeBXbsQv9nU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@39.68245004733214,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPznW-TgU1ADsguMEYt2BJwSN7-HeNK3HYkjHaC=w408-h544-k-no",
+    "kgmid": "/g/1tfz14bx"
+  },
+  {
+    "title": "Plaza Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3024 Covington Pike # 5, Memphis, TN 38128",
+    "neighborhood": null,
+    "street": "3024 Covington Pike # 5",
+    "city": "Memphis",
+    "postalCode": "38128",
+    "state": "Tennessee",
+    "countryCode": "US",
+    "phone": "(901) 779-7930",
+    "phoneUnformatted": "+19017797930",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.2080968,
+      "lng": -89.8937449
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3YB5wuGDf4gR4cpv-QC3jxk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x887f83e1c27980dd:0x198fb700f96fcae1",
+    "cid": "1841891987430558433",
+    "reviewsCount": 26,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:16:48.641Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Pharmacy&query_place_id=ChIJ3YB5wuGDf4gR4cpv-QC3jxk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Southaven%20MS/@33.954544952667874,-89.6522977144323,8z?hl=en",
+    "searchString": "independent pharmacy Southaven MS",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5aXPDqTAe8klEJe5RVgU72M3F1Lnt5VZmkP9C9KuWzxl-EZKW7Ks6Fn8rMGV4Pu5f3yNafgg4QfS0NHSemOOiBUee9wY80jeHhZFB4wMrZVQzqKMNyNhbYif8TLPprRgNSXQ=w493-h240-k-no",
+    "kgmid": "/g/11lkh6d4qg"
+  }
+]

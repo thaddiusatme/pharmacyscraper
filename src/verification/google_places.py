@@ -104,9 +104,9 @@ def verify_pharmacy(pharmacy: Dict, gmaps: googlemaps.Client | None = None) -> D
             # record usage even if empty – we did perform a call
             credit_tracker.record_usage(_COST_PER_LOOKUP, operation="google_places_zero")
             return {
-                "verified": False,
+                "is_address_verified": False,
                 "verification_confidence": 0.0,
-                "google_place_id": None,
+                "verified_google_place_id": None,
             }
 
         best = candidates[0]
@@ -149,9 +149,9 @@ def verify_pharmacy(pharmacy: Dict, gmaps: googlemaps.Client | None = None) -> D
         credit_tracker.record_usage(_COST_PER_LOOKUP, operation="google_places")
 
         return {
-            "verified": verified,
+            "is_address_verified": verified,
             "verification_confidence": round(confidence, 3),
-            "google_place_id": place_id,
+            "verified_google_place_id": place_id,
         }
 
     except Exception as exc:  # noqa: BLE001 – capture any network / quota errors
@@ -159,9 +159,9 @@ def verify_pharmacy(pharmacy: Dict, gmaps: googlemaps.Client | None = None) -> D
         # Still count cost because request likely went out or will on retry
         credit_tracker.record_usage(_COST_PER_LOOKUP, operation="google_places_error")
         return {
-            "verified": False,
+            "is_address_verified": False,
             "verification_confidence": 0.0,
-            "google_place_id": None,
+            "verified_google_place_id": None,
         }
 
 

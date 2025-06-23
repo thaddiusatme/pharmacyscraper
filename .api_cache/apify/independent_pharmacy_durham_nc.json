@@ -1,0 +1,2052 @@
+[
+  {
+    "title": "Central Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2609 N Duke St Bldg 103, Durham, NC 27704",
+    "neighborhood": "Interstate 85 Corridor",
+    "street": "2609 N Duke St Bldg 103",
+    "city": "Durham",
+    "postalCode": "27704",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://centralpharmacync.com/",
+    "phone": "(919) 220-5121",
+    "phoneUnformatted": "+19192205121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0319647,
+      "lng": -78.9075757
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJscFshL_jrIkREMc4GngxXz0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace3bf846cc1b1:0x3d5f31781a38c710",
+    "cid": "4422307751006881552",
+    "reviewsCount": 39,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.668Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Central%20Pharmacy&query_place_id=ChIJscFshL_jrIkREMc4GngxXz0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npM_thL0MRQnUECeXSpyc5JYE8_SK9ewLfLJkKEFiX9m3CUuRTjt6UA4pP4fuSN_I-n7J8sRXFhxgBWpq5AFjnUIcDxZ0fCY6A9Sg2Ndy8zZHryPKT94NcOoF5ncPZDU5iUG2WmOQ=w408-h306-k-no",
+    "kgmid": "/g/1tdvl118"
+  },
+  {
+    "title": "Durham Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5826 Fayetteville Rd #105, Durham, NC 27713",
+    "neighborhood": null,
+    "street": "5826 Fayetteville Rd #105",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.durhampharmacy.net/",
+    "phone": "(919) 224-1234",
+    "phoneUnformatted": "+19192241234",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.920684,
+      "lng": -78.929642
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmapuJqvorIkRdzM57FYcpI0",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical clinic",
+      "Pharmaceutical company"
+    ],
+    "fid": "0x89ace8ab266eaa99:0x8da41c56ec393377",
+    "cid": "10206313815184323447",
+    "reviewsCount": 210,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Durham%20Pharmacy&query_place_id=ChIJmapuJqvorIkRdzM57FYcpI0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0lFEDyuz2DgLB0KAJWkNEvmGTZzng2aIrj0ZV=w426-h240-k-no",
+    "kgmid": "/g/11f01z3dn9"
+  },
+  {
+    "title": "Josefs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3421 N Roxboro St, Durham, NC 27704",
+    "neighborhood": "Interstate 85 Corridor",
+    "street": "3421 N Roxboro St",
+    "city": "Durham",
+    "postalCode": "27704",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.josefspharmacy.com/",
+    "phone": "(919) 680-1540",
+    "phoneUnformatted": "+19196801540",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0347818,
+      "lng": -78.892769
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgZ7-7aTjrIkR12R9isOOnUQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace3a4edfe9e81:0x449d8ec38a7d64d7",
+    "cid": "4944264936415913175",
+    "reviewsCount": 34,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Josefs%20Pharmacy&query_place_id=ChIJgZ7-7aTjrIkR12R9isOOnUQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNOo-c0YzNcgdDcJm7SZZP62AUu6_TAX058uNJ5=w408-h247-k-no",
+    "kgmid": "/g/11b6zjvzkl"
+  },
+  {
+    "title": "Central Compounding Center South",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6224 Fayetteville Rd STE 104, Durham, NC 27713",
+    "neighborhood": null,
+    "street": "6224 Fayetteville Rd STE 104",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.centralcompounding.com/",
+    "phone": "(919) 484-7600",
+    "phoneUnformatted": "+19194847600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9134056,
+      "lng": -78.9339524
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ21jQBbLorIkRnf1Fvmujedk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace8b205d058db:0xd979a36bbe45fd9d",
+    "cid": "15670736061561437597",
+    "reviewsCount": 83,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Central%20Compounding%20Center%20South&query_place_id=ChIJ21jQBbLorIkRnf1Fvmujedk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMfebs0hawmvFEG4ydaKDFE2eGuDgLvwDjmF0Dt=w408-h282-k-no",
+    "kgmid": "/g/1tfz0zyd"
+  },
+  {
+    "title": "Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2726 Croasdaile Dr STE 104, Durham, NC 27705",
+    "neighborhood": "Croasdaile Farm Master",
+    "street": "2726 Croasdaile Dr STE 104",
+    "city": "Durham",
+    "postalCode": "27705",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "phone": "(919) 383-7495",
+    "phoneUnformatted": "+19193837495",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0300189,
+      "lng": -78.9380507
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg8dnEmfhrIkRYh-yns87Elw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace1671267c783:0x5c123bcf9eb21f62",
+    "cid": "6634430963976904546",
+    "reviewsCount": 26,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clinic%20Pharmacy&query_place_id=ChIJg8dnEmfhrIkRYh-yns87Elw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPPZ_ZD130gNv_wuqvQ0uHc_5H1oYx2JElHlfZH=w408-h304-k-no",
+    "kgmid": "/g/1tdqcft3"
+  },
+  {
+    "title": "Triangle Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1700 East, NC-54, Durham, NC 27713",
+    "neighborhood": "Parkwood",
+    "street": "1700 East, NC-54",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "NC",
+    "countryCode": "US",
+    "website": "https://trianglepharmacy54.com/",
+    "phone": "(919) 544-1711",
+    "phoneUnformatted": "+19195441711",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9021415,
+      "lng": -78.903628
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6rq_mrvrIkRzyoWdOLEZuE",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89acef6afeeaaaab:0xe166c4e274162acf",
+    "cid": "16241885583047535311",
+    "reviewsCount": 16,
+    "imagesCount": 78,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Triangle%20Pharmacy&query_place_id=ChIJq6rq_mrvrIkRzyoWdOLEZuE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDe0VVhCc60GH3supRXfhTB8Hc8pPWUjD0eZHQ=w408-h306-k-no",
+    "kgmid": "/g/11h1j3cyjz"
+  },
+  {
+    "title": "Gurley's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "114 W Main St, Durham, NC 27701",
+    "neighborhood": "Downtown",
+    "street": "114 W Main St",
+    "city": "Durham",
+    "postalCode": "27701",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.gurleyspharmacy.com/",
+    "phone": "(919) 688-8978",
+    "phoneUnformatted": "+19196888978",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9954572,
+      "lng": -78.9009643
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaZCp5G3krIkRdrY9a1KD6fw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace46de4a99069:0xfce983526b3db676",
+    "cid": "18224241757141186166",
+    "reviewsCount": 189,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gurley's%20Pharmacy&query_place_id=ChIJaZCp5G3krIkRdrY9a1KD6fw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqdNHmf4eTDyufxsIZOyxMIXqyarDJMwsTLQWeDt6E1eM6CR4BpgrTlgcyx54EnvuDxTbStUKQROakl7amOqp4XozJ3EzKmKr1OKiytylbD-pa5Tg_j4xied4SG9WEiwNNLyr9F=w408-h306-k-no",
+    "kgmid": "/g/1tkkvrg3"
+  },
+  {
+    "title": "Southpoint Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6216 Fayetteville Rd Suite 105, Durham, NC 27713",
+    "neighborhood": null,
+    "street": "6216 Fayetteville Rd Suite 105",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.southpointpharmacync.com/",
+    "phone": "(919) 908-0200",
+    "phoneUnformatted": "+19199080200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9138374,
+      "lng": -78.9338825
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAznmMgvprIkRjYJyEqHTuhg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace90b32e63903:0x18bad3a11272828d",
+    "cid": "1781969291331142285",
+    "reviewsCount": 126,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.670Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Southpoint%20Pharmacy&query_place_id=ChIJAznmMgvprIkRjYJyEqHTuhg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNyMvdz_dySpj_Z1vdaIyQNRC-1RlYvPHeUkfr9=w408-h544-k-no",
+    "kgmid": "/g/11f8l3kmbm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2816 Erwin Rd Ste 105, Durham, NC 27705",
+    "neighborhood": null,
+    "street": "2816 Erwin Rd Ste 105",
+    "city": "Durham",
+    "postalCode": "27705",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2816+erwin+rd-durham-nc-27705/id=16313",
+    "phone": "(919) 282-5553",
+    "phoneUnformatted": "+19192825553",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0066675,
+      "lng": -78.9477311
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV0E8JbTmrIkRFdcloxeK_NE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace6b4253c4157:0xd1fc8a17a325d715",
+    "cid": "15131120682184070933",
+    "reviewsCount": 23,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.671Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJV0E8JbTmrIkRFdcloxeK_NE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2yf7j7dcx6PfH3Vd_haBAKULOZ5ZFQkU7qezuF9TTRW4dzQsAQBR5mX9wcKQ07c8rDBr4w892z-JSsN9AfnPYz6KZWcOEnSXsHCvT-fLEkgDI7AHCn0sG9SUxO0LSP7Z8QJ4=w408-h306-k-no",
+    "kgmid": "/g/11c3kqyhgv"
+  },
+  {
+    "title": "Morrisville Pharmacy and Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3500 Davis Drive Market Place Shopping Center, 3520 Davis Dr, Morrisville, NC 27560",
+    "neighborhood": null,
+    "street": "3500 Davis Drive Market Place Shopping Center, 3520 Davis Dr",
+    "city": "Morrisville",
+    "postalCode": "27560",
+    "state": "NC",
+    "countryCode": "US",
+    "website": "http://www.compoundingpharmacies.org/morrisville-pharmacy-compounding/",
+    "phone": "(919) 463-7990",
+    "phoneUnformatted": "+19194637990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.8175087,
+      "lng": -78.8460754
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu2A8W_DtrIkRml0fXYNt7xI",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x89acedf05b3c60bb:0x12ef6d835d1f5d9a",
+    "cid": "1364429623087029658",
+    "reviewsCount": 56,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.671Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Morrisville%20Pharmacy%20and%20Compounding&query_place_id=ChIJu2A8W_DtrIkRml0fXYNt7xI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohH7xas0O1pbRELhC6ieUIKajQmuM-WYzBNiUMg5YOyExpC8xEAkWGiTJWHZgumotkmBiUJLavL5o6aoQSYqVu_yJboQwYx8a8giDixQUs_9_J385IrxL5u1CyainrxtXuAn4Q=w408-h725-k-no",
+    "kgmid": "/g/1tgwbscd"
+  },
+  {
+    "title": "Apotheco Pharmacy Durham",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4900 NC-55 #160, Durham, NC 27713",
+    "neighborhood": null,
+    "street": "4900 NC-55 #160",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.apothecopharmacy.com/",
+    "phone": "(919) 679-9027",
+    "phoneUnformatted": "+19196799027",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.898325,
+      "lng": -78.8983969
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7Rc6VizvrIkR0PUeQuDWEu8",
+    "categories": [
+      "Pharmacy",
+      "Dermatologist"
+    ],
+    "fid": "0x89acef2c563a17ed:0xef12d6e0421ef5d0",
+    "cid": "17227067783315912144",
+    "reviewsCount": 312,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.671Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apotheco%20Pharmacy%20Durham&query_place_id=ChIJ7Rc6VizvrIkR0PUeQuDWEu8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOr4xbVenuSXK11L97NWJBdwmyzw1Q1bFujMVeh=w408-h409-k-no",
+    "kgmid": "/g/11jcnskm3g"
+  },
+  {
+    "title": "PruittHealth Pharmacy Services (Durham)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4024 Stirrup Creek Dr Suite 120, Durham, NC 27703",
+    "neighborhood": null,
+    "street": "4024 Stirrup Creek Dr Suite 120",
+    "city": "Durham",
+    "postalCode": "27703",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.pruitthealth.com/microsite/facilityid506?utm_source=GMB&utm_medium=WebsiteClick&utm_campaign=Durham&utm_content=PHPSD1",
+    "phone": "(800) 390-2906",
+    "phoneUnformatted": "+18003902906",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9161397,
+      "lng": -78.8439231
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1x4iDVblrIkRsNR4rDLCSuY",
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x89ace5560d221ed7:0xe64ac232ac78d4b0",
+    "cid": "16594289299897767088",
+    "reviewsCount": 4,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.671Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PruittHealth%20Pharmacy%20Services%20(Durham)&query_place_id=ChIJ1x4iDVblrIkRsNR4rDLCSuY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "kgmid": "/g/1ttphrwl"
+  },
+  {
+    "title": "Carolina Behavioral Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4102 Ben Franklin Blvd, Durham, NC 27704",
+    "neighborhood": null,
+    "street": "4102 Ben Franklin Blvd",
+    "city": "Durham",
+    "postalCode": "27704",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "phone": "(919) 972-7719",
+    "phoneUnformatted": "+19199727719",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0448385,
+      "lng": -78.8973943
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ5RE1LLLjrIkRSnMncX1PGYM",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89ace3b22c3511e5:0x83194f7d7127734a",
+    "cid": "9446669093574243146",
+    "reviewsCount": 16,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:26.671Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carolina%20Behavioral%20Care%20Pharmacy&query_place_id=ChIJ5RE1LLLjrIkRSnMncX1PGYM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@69.21166763186608,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrx_WxkbcumyKtGF6Tdh9U2hIi9Rr8WfPSP1G5H-IKeCUmswDhSdxneUY6A_pNLCo4EsVoNvMuOKElk9ihysIZCWjdccBN_ACmiOGbC_SwH4IxVpUC-Z3T4nhSrHqhJrP-1DvPuzQ=w408-h306-k-no",
+    "kgmid": "/g/11clvfsmc6"
+  },
+  {
+    "title": "Kerr Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3905 N Roxboro St, Durham, NC 27704",
+    "neighborhood": "Stadium Heights",
+    "street": "3905 N Roxboro St",
+    "city": "Durham",
+    "postalCode": "27704",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "http://www.kerrdrug.com/north-carolina-store-location/durham-north-duke-st-nc-kerr-drug-store/",
+    "phone": "(919) 477-2148",
+    "phoneUnformatted": "+19194772148",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0425241,
+      "lng": -78.9013733
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWQi4FLXjrIkRR4S0pkkVKA8",
+    "categories": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Photo lab",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89ace3b514b80859:0xf281549a6b48447",
+    "cid": "1092146315710989383",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:38.720Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kerr%20Drug&query_place_id=ChIJWQi4FLXjrIkRR4S0pkkVKA8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@61.56929586514925,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eboHevk7DDjTlgG-Qbvy4A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=249.55663&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdcxz8q"
+  },
+  {
+    "title": "Benjamin H. Smith, PharmD",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4220 N Roxboro St 2nd floor, Durham, NC 27704",
+    "neighborhood": null,
+    "street": "4220 N Roxboro St 2nd floor",
+    "city": "Durham",
+    "postalCode": "27704",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.dukehealth.org/find-doctors-physicians/benjamin-h-smith-pharmd?utm_source=google&utm_medium=local&utm_campaign=evergreen",
+    "phone": "(919) 471-8344",
+    "phoneUnformatted": "+19194718344",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0488539,
+      "lng": -78.9019708
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ8jsLq7jrIkRjw15wHP3qXI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace3ae2eecc867:0x72a9f773c0790d8f",
+    "cid": "8262407067910344079",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:38.720Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Benjamin%20H.%20Smith%2C%20PharmD&query_place_id=ChIJZ8jsLq7jrIkRjw15wHP3qXI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@61.56929586514925,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMhV1gC1da-Kncyw0cjSwoeMpKHKIe85r8LHORA=w408-h612-k-no",
+    "kgmid": "/g/11q_nzh241"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "€€",
+    "categoryName": "Pharmacy",
+    "address": "6405 Fayetteville Rd, Durham, NC 27713, United States",
+    "neighborhood": null,
+    "street": "6405 Fayetteville Rd",
+    "city": "Durham",
+    "postalCode": "27713",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-6405+fayetteville+rd-durham-nc-27713/id=7317",
+    "phone": "+1 919-544-6430",
+    "phoneUnformatted": "+19195446430",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 35.9115238,
+      "lng": -78.933559
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm9iIO7LorIkRZJF0y4NM8z8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89ace8b23b88d89b:0x3ff34c83cb749164",
+    "cid": "4608110972667990372",
+    "reviewsCount": 54,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:18:45.772Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2 AM to 12 am"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Friday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2 am–1:30 am"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2 am–1:30 am"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJm9iIO7LorIkRZJF0y4NM8z8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@28.22663985800361,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrFeeYbt58pze9agJU4dmgCXsUv4e2ob1ST7p3=w525-h240-k-no",
+    "kgmid": "/g/11cn95w44s"
+  },
+  {
+    "title": "Harris Teeter Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2107 Hillsborough Rd, Durham, NC 27705, United States",
+    "neighborhood": "Old West Durham",
+    "street": "2107 Hillsborough Rd",
+    "city": "Durham",
+    "postalCode": "27705",
+    "state": "North Carolina",
+    "countryCode": "US",
+    "website": "https://www.harristeeter.com/rx/pharmacy/details/097/00394?cid=loc_09700394P_gmb",
+    "phone": "+1 919-286-1508",
+    "phoneUnformatted": "+19192861508",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.0097666,
+      "lng": -78.9242018
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq6rqXP_jrIkRyGMLVaRtZ7o",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x89ace3ff5ceaaaab:0xba676da4550b63c8",
+    "cid": "13431824966224667592",
+    "reviewsCount": 6,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:19:24.630Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 2 PM, 2:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 2 PM, 2:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 2 PM, 2:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 2 PM, 2:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 2 PM, 2:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM, 2:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 2 PM, 2:30 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Harris%20Teeter%20Pharmacy&query_place_id=ChIJq6rqXP_jrIkRyGMLVaRtZ7o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Durham%20NC/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Durham NC",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNHXokYRr2uM6h9mVD7w1gUsyPCvPK51PoS16gP=w408-h408-k-no",
+    "kgmid": "/g/11pwd2bvys"
+  }
+]

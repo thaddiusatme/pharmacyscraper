@@ -1,0 +1,2202 @@
+[
+  {
+    "title": "Bestcare Pharmacy Medical",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "504 Springfield Ave, Newark, NJ 07103",
+    "neighborhood": "Central Ward",
+    "street": "504 Springfield Ave",
+    "city": "Newark",
+    "postalCode": "07103",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 596-0060",
+    "phoneUnformatted": "+19735960060",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7319275,
+      "lng": -74.2027147
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn6bfKERTwokRIdgMqNKgkEQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2534428dfa69f:0x4490a0d2a80cd821",
+    "cid": "4940625617848424481",
+    "reviewsCount": 8,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.201Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bestcare%20Pharmacy%20Medical&query_place_id=ChIJn6bfKERTwokRIdgMqNKgkEQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oq-xs_ObtItOct4yK3wYHQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.18262&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tcyybby"
+  },
+  {
+    "title": "Penn Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "95 Ferry St, Newark, NJ 07105",
+    "neighborhood": "Ironbound",
+    "street": "95 Ferry St",
+    "city": "Newark",
+    "postalCode": "07105",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.pennrxnj.com/",
+    "phone": "(973) 732-9181",
+    "phoneUnformatted": "+19737329181",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7308073,
+      "lng": -74.1613977
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTXLL_uNTwokR-AgIUdx2Dak",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c253e3fecb724d:0xa90d76dc510808f8",
+    "cid": "12181523255731423480",
+    "reviewsCount": 182,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.202Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Penn%20Pharmacy&query_place_id=ChIJTXLL_uNTwokR-AgIUdx2Dak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMy9edggYpI4sdWUXOUw69FFTVx5XWgm5tp9Vig=w408-h306-k-no",
+    "kgmid": "/g/11jt2g_wth"
+  },
+  {
+    "title": "Newark Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "751 Broadway, Newark, NJ 07104",
+    "neighborhood": "North Broadway",
+    "street": "751 Broadway",
+    "city": "Newark",
+    "postalCode": "07104",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 481-2400",
+    "phoneUnformatted": "+19734812400",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7755073,
+      "lng": -74.1586017
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDxJ_-k1UwokRXeT7JgQpsSI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2544dfa7f120f:0x22b1290426fbe45d",
+    "cid": "2499824365977986141",
+    "reviewsCount": 28,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.202Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Newark%20Community%20Pharmacy&query_place_id=ChIJDxJ_-k1UwokRXeT7JgQpsSI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=swE-HG-inCjdf5UIxQMHMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=114.909584&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tglzx5f"
+  },
+  {
+    "title": "Vida Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "203 Ferry St, Newark, NJ 07105",
+    "neighborhood": "Ironbound",
+    "street": "203 Ferry St",
+    "city": "Newark",
+    "postalCode": "07105",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.vidarxpharmacy.com/",
+    "phone": "(973) 589-3936",
+    "phoneUnformatted": "+19735893936",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7281386,
+      "lng": -74.1561029
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2-mnrZFTwokRZGsoq8rWXAY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25391ada7e9db:0x65cd6caab286b64",
+    "cid": "458477428028238692",
+    "reviewsCount": 32,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.202Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vida%20Pharmacy&query_place_id=ChIJ2-mnrZFTwokRZGsoq8rWXAY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFKJVgP6rYdSEmR-4jKh-x9nqo3lKB1InWHnVNsbO03c8vXeTAptH9svw8TQSPYpoxnn3WsqbCprhihv1eS9cS_jJBDyi59DULI-TQjXRv44FB34khSfYRyKTe52DGZpYiXoCV=w408-h306-k-no",
+    "kgmid": "/g/11skv5_d03"
+  },
+  {
+    "title": "Community Pride Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "393 Central Ave, Newark, NJ 07103",
+    "neighborhood": "University Heights",
+    "street": "393 Central Ave",
+    "city": "Newark",
+    "postalCode": "07103",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.communitypridepharmacy.com/",
+    "phone": "(973) 988-9800",
+    "phoneUnformatted": "+19739889800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7472444,
+      "lng": -74.1882996
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpb_qt3JVwokRKS18VWstL4c",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25572b7eabfa5:0x872f2d6b557c2d29",
+    "cid": "9741054458044624169",
+    "reviewsCount": 60,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.202Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Pride%20Pharmacy&query_place_id=ChIJpb_qt3JVwokRKS18VWstL4c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noy3fx3A99jZiIRVyOa5Rc-c3AljS-C2zBC4tJ_ty7q7aymPkSc8Z38a-TI7yGHL3tTtdBNIn7XvZoGAB2fonZrdrDUwpQGpoEBUQesMSFWkx24XQdWTLIWKrBJLWKFGiLmjcC2=w408-h306-k-no",
+    "kgmid": "/g/11stnhj1vw"
+  },
+  {
+    "title": "D Allegros Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "252 Walnut St, Newark, NJ 07105",
+    "neighborhood": "Ironbound",
+    "street": "252 Walnut St",
+    "city": "Newark",
+    "postalCode": "07105",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 344-8663",
+    "phoneUnformatted": "+19733448663",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7270039,
+      "lng": -74.1634213
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJx4Gw5tTwokRxSAepidTxP8",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c2539bc3061e27:0xffc45327a61e20c5",
+    "cid": "18429947004862734533",
+    "reviewsCount": 21,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.202Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=D%20Allegros%20Pharmacy&query_place_id=ChIJJx4Gw5tTwokRxSAepidTxP8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JNHiM3MyWl13QwSRxZGzBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=215.70491&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfzc2l8"
+  },
+  {
+    "title": "Campus Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "195 Central Ave, Newark, NJ 07103",
+    "neighborhood": "University Heights",
+    "street": "195 Central Ave",
+    "city": "Newark",
+    "postalCode": "07103",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://campuspharmacynj.com/",
+    "phone": "(973) 824-8664",
+    "phoneUnformatted": "+19738248664",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7444705,
+      "lng": -74.1784613
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ63FGQIJUwokRWc88SuPYWr4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25482404671eb:0xbe5ad8e34a3ccf59",
+    "cid": "13716514085824941913",
+    "reviewsCount": 176,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Campus%20Pharmacy&query_place_id=ChIJ63FGQIJUwokRWc88SuPYWr4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npusu6bbLIoH_6SIZIdmUB4fJc-hgp0VVq5xstCsKGYB5tMyDeRfFsvDuvgA2FiLBqnY2RO8vbgP8uuutBDlft-Gqm2DocJmEg98nrJ0r-Czuxcrwop4rml5vu3G8D0HDKB-Bmt=w408-h306-k-no",
+    "kgmid": "/g/1tf2yq7r"
+  },
+  {
+    "title": "Gateway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 Gateway Ctr C125, Newark, NJ 07102",
+    "neighborhood": "Central Ward",
+    "street": "1 Gateway Ctr C125",
+    "city": "Newark",
+    "postalCode": "07102",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.pharmacynewark.com/",
+    "phone": "(973) 732-6900",
+    "phoneUnformatted": "+19737326900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7344571,
+      "lng": -74.1657213
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPeVDhYNTwokRHxR935w9qok",
+    "categories": [
+      "Pharmacy",
+      "Health food store",
+      "Herb shop",
+      "Natural goods store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c253838543e53d:0x89aa3d9cdf7d141f",
+    "cid": "9919808873210647583",
+    "reviewsCount": 80,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Pharmacy&query_place_id=ChIJPeVDhYNTwokRHxR935w9qok",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr3QZrN3V9OwYq43j3Qs_9gIfN2seFMXXIIqRyo2GDnxQOJYqasr167pM3NpYqMae7M6mlIGTseXNTlCXqRqNCZzW9BTmN8u7PzSohGVOLzmkZtS98u01aGzltWFj8_GoBQH4A=w408-h306-k-no",
+    "kgmid": "/g/1pp2txhwt"
+  },
+  {
+    "title": "Apollo Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "130 Summer Ave, Newark, NJ 07104",
+    "neighborhood": "Seventh Avenue",
+    "street": "130 Summer Ave",
+    "city": "Newark",
+    "postalCode": "07104",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.apollopharmacynj.com/",
+    "phone": "(973) 350-6155",
+    "phoneUnformatted": "+19733506155",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.75546,
+      "lng": -74.173591
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpZh0pYlUwokRt5OiaVuoJjg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25489a57498a5:0x3826a85b69a293b7",
+    "cid": "4046106425806721975",
+    "reviewsCount": 49,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apollo%20Specialty%20Pharmacy&query_place_id=ChIJpZh0pYlUwokRt5OiaVuoJjg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhJroLhwTrHWR0ZejNduicpayUVeHNiIvlnE_e=w485-h240-k-no",
+    "kgmid": "/g/11g9gf3rdv"
+  },
+  {
+    "title": "Fourth Avenue Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "329 Roseville Ave, Newark, NJ 07107",
+    "neighborhood": "Upper Roseville",
+    "street": "329 Roseville Ave",
+    "city": "Newark",
+    "postalCode": "07107",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.fourthavepharmacy.com/",
+    "phone": "(973) 483-3872",
+    "phoneUnformatted": "+19734833872",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7621402,
+      "lng": -74.1874258
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_xNqcZNUwokRwmMoARlNScE",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Notary public",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c25493716a13ff:0xc1494d19012863c2",
+    "cid": "13927748092408914882",
+    "reviewsCount": 28,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fourth%20Avenue%20Pharmacy&query_place_id=ChIJ_xNqcZNUwokRwmMoARlNScE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHsZHaD1HtDjGygiVuuTzQQwXqGTDBBGbdwsfi=w408-h306-k-no",
+    "kgmid": "/g/1tr7dq20"
+  },
+  {
+    "title": "Newark Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "635 Market St # 1c, Newark, NJ 07105",
+    "neighborhood": "East Ferry",
+    "street": "635 Market St # 1c",
+    "city": "Newark",
+    "postalCode": "07105",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/newark-pharmacy-newark-nj-07105/",
+    "phone": "(973) 993-7510",
+    "phoneUnformatted": "+19739937510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7310143,
+      "lng": -74.1501911
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_1Yc_Y9TwokRK20ldC_HQIg",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c2538ffd1c56ff:0x8840c72f74256d2b",
+    "cid": "9818066194293681451",
+    "reviewsCount": 11,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Newark%20Pharmacy&query_place_id=ChIJ_1Yc_Y9TwokRK20ldC_HQIg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipObP75TLMEiuF0hHHzDUyHWHswq7yqJGWYJNAD5=w408-h544-k-no",
+    "kgmid": "/g/11lgkvy0bk"
+  },
+  {
+    "title": "Medamor Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "75 1st St, Newark, NJ 07107",
+    "neighborhood": "University Heights",
+    "street": "75 1st St",
+    "city": "Newark",
+    "postalCode": "07107",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 900-6990",
+    "phoneUnformatted": "+19739006990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7483459,
+      "lng": -74.1875735
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPxPurTxVwokRq7IJajLhSyk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2553cadee133f:0x294be1326a09b2ab",
+    "cid": "2975719585451979435",
+    "reviewsCount": 81,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medamor%20Pharmacy&query_place_id=ChIJPxPurTxVwokRq7IJajLhSyk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHMfSGzXVM1AQho5ze1ZQ5jhLRfMYU_A5siyZ9wcxF0WIGJ26UCFfuvJtT6NVjh5YinQyXrLO3qryS2hNtjoqY7LvP0sj_qEE13Naqi7HToD8Pk5G3EPvLkItGTQwp6ontqYQG=w408-h544-k-no",
+    "kgmid": "/g/11p9_s9p_h"
+  },
+  {
+    "title": "LiveWell Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "83 Mt Vernon Pl, Newark, NJ 07106",
+    "neighborhood": "Upper Vailsburg",
+    "street": "83 Mt Vernon Pl",
+    "city": "Newark",
+    "postalCode": "07106",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "phone": "(973) 581-3950",
+    "phoneUnformatted": "+19735813950",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7366456,
+      "lng": -74.2408705
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4RXyH62tw4kRDVQs0i4rtac",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c3adad1ff215e1:0xa7b52b2ed22c540d",
+    "cid": "12084612655213204493",
+    "reviewsCount": 6,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.203Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–3 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LiveWell%20Pharmacy&query_place_id=ChIJ4RXyH62tw4kRDVQs0i4rtac",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq32s4r9uSZsrAHItcW8_8M46L4Lv0WSAVU77lRUDn2l4oqSxefoh0HqmIHP1GOeq1dxalztIjhYplJY3tAV7cHFv-maCE2vGPZBXw3MXT_iBxHnZqHaiXKYc4CUxy8Vv6HuFwY=w408-h306-k-no",
+    "kgmid": "/g/11tf_knzp_"
+  },
+  {
+    "title": "Bergen Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "90 Bergen St SUITE 1600, Newark, NJ 07103",
+    "neighborhood": "University Heights",
+    "street": "90 Bergen St SUITE 1600",
+    "city": "Newark",
+    "postalCode": "07103",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.bergenrx.com/",
+    "phone": "(973) 972-1960",
+    "phoneUnformatted": "+19739721960",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7414886,
+      "lng": -74.1912884
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt_oaA2FTwokRaLIREIvEvUU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25361031afab7:0x45bdc48b1011b268",
+    "cid": "5025388860764435048",
+    "reviewsCount": 46,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bergen%20Pharmacy&query_place_id=ChIJt_oaA2FTwokRaLIREIvEvUU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUgbryVFLLkrWpRE_Ok-rB3JzvJWxKgJF0lYsUo4MLDzXmc5MoDz7Y6wdqegCm7RpEUahaLDM05Gj8SDSaLcDpBDwUemepzVcSmFvTfCv_9fSPUk23UrhZdpKuNDByDULHnnwHUQ=w408-h408-k-no",
+    "kgmid": "/g/1tt0s0p8"
+  },
+  {
+    "title": "Liss Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "794 Mt Prospect Ave, Newark, NJ 07104",
+    "neighborhood": "Forest Hill",
+    "street": "794 Mt Prospect Ave",
+    "city": "Newark",
+    "postalCode": "07104",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.lisspharmacy.com/",
+    "phone": "(973) 483-4749",
+    "phoneUnformatted": "+19734834749",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7793581,
+      "lng": -74.1641281
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFzjxQVNUwokR5RJYJOss0Fc",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical equipment supplier",
+      "Surgical supply store"
+    ],
+    "fid": "0x89c2545341f13817:0x57d02ceb245812e5",
+    "cid": "6327606864894235365",
+    "reviewsCount": 90,
+    "imagesCount": 77,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Liss%20Pharmacy&query_place_id=ChIJFzjxQVNUwokR5RJYJOss0Fc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMk270q8_r8xrFbElA8Jl_OxctQteIY8rpla60a=w408-h264-k-no",
+    "kgmid": "/g/1tp_79c2"
+  },
+  {
+    "title": "Branch Brook Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "917 Franklin Ave, Newark, NJ 07107",
+    "neighborhood": "Upper Roseville",
+    "street": "917 Franklin Ave",
+    "city": "Newark",
+    "postalCode": "07107",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://branchbrookpharmacy.com/",
+    "phone": "(973) 412-7300",
+    "phoneUnformatted": "+19734127300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7808301,
+      "lng": -74.1751212
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm037QP5UwokRyEHt4zq960I",
+    "categories": [
+      "Pharmacy",
+      "First aid station",
+      "Health consultant",
+      "Local medical services",
+      "Medical Center",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c254fe40fb4d9b:0x42ebbd3ae3ed41c8",
+    "cid": "4822155886659977672",
+    "reviewsCount": 21,
+    "imagesCount": 83,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Branch%20Brook%20Pharmacy&query_place_id=ChIJm037QP5UwokRyEHt4zq960I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZ3lTFcKB13F-kFGDdWbDRlXgEWoZThCXVEYsf=w408-h544-k-no",
+    "kgmid": "/g/1tgb880x"
+  },
+  {
+    "title": "pharmacy Inc.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "24 Court St, Newark, NJ 07102",
+    "neighborhood": "Central Ward",
+    "street": "24 Court St",
+    "city": "Newark",
+    "postalCode": "07102",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://partners-in-aging-llc.jimdosite.com/",
+    "phone": "(862) 772-0442",
+    "phoneUnformatted": "+18627720442",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7307908,
+      "lng": -74.176801
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhz9UMHdTwokRoO1ejhh4g-k",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2537730543f87:0xe98378188e5eeda0",
+    "cid": "16826424679649439136",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=pharmacy%20Inc.&query_place_id=ChIJhz9UMHdTwokRoO1ejhh4g-k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1J10etOjqn3ghnPeF4FN1g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=203.86694&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cs6jw8tk"
+  },
+  {
+    "title": "CCN Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "268 Dr Martin Luther King Jr Blvd, Newark, NJ 07102",
+    "neighborhood": "University Heights",
+    "street": "268 Dr Martin Luther King Jr Blvd",
+    "city": "Newark",
+    "postalCode": "07102",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.coordinatedcarenetwork.com/",
+    "phone": "(862) 237-7297",
+    "phoneUnformatted": "+18622377297",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7441688,
+      "lng": -74.1743451
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyTQIoYFUwokRLPL2iH8t4Eg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25481a10834c9:0x48e02d7f88f6f22c",
+    "cid": "5251247191295980076",
+    "reviewsCount": 6,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 4 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 4 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CCN%20Pharmacy&query_place_id=ChIJyTQIoYFUwokRLPL2iH8t4Eg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqfp_1XM3AhEIIZww3s4cCalp3fMczhU1EvlHvvCV4JUirQRSVKwkfNZqQ6hJ8s0_YlJeNYGg7Stnc3BSj1nOHw21sI11YThAiFx5kx4XiKaRWWhreKECeMZCAw6gmF1rzVwFjEmQ=w408-h306-k-no",
+    "kgmid": "/g/1hc37hxqf"
+  },
+  {
+    "title": "Kings Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "33 Park Ave, Newark, NJ 07104",
+    "neighborhood": "Seventh Avenue",
+    "street": "33 Park Ave",
+    "city": "Newark",
+    "postalCode": "07104",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "http://www.kingsrxpharmacy.com/",
+    "phone": "(973) 482-1556",
+    "phoneUnformatted": "+19734821556",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7555643,
+      "lng": -74.1744893
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ46WJD4lUwokRDsDWV8-ge_A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c254890f89a5e3:0xf07ba0cf57d6c00e",
+    "cid": "17328620803630481422",
+    "reviewsCount": 32,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:05:28.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kings%20Pharmacy&query_place_id=ChIJ46WJD4lUwokRDsDWV8-ge_A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Newark%20NJ/@45.410355141996405,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Newark NJ",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zdxq4cqe4jWbyh7r54xwOQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.621918&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdn4_y1"
+  }
+]

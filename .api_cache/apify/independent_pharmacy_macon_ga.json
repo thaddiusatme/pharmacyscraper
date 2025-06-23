@@ -1,0 +1,2361 @@
+[
+  {
+    "title": "Orthogeorgia Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3708 Northside Dr, Macon, GA 31210",
+    "neighborhood": null,
+    "street": "3708 Northside Dr",
+    "city": "Macon",
+    "postalCode": "31210",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.orthogeorgiapharmacy.com/",
+    "phone": "(478) 750-2802",
+    "phoneUnformatted": "+14787502802",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.89512,
+      "lng": -83.6913734
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJS0tcBMf484gRSS3rqkmUYDM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3f8c7045c4b4b:0x33609449aaeb2d49",
+    "cid": "3702121937819610441",
+    "reviewsCount": 22,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.228Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Orthogeorgia%20Pharmacy&query_place_id=ChIJS0tcBMf484gRSS3rqkmUYDM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JcHXu6J1rXTNLbklAxMNkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.79825&pitch=0&thumbfov=100",
+    "kgmid": "/g/12q4t8dn5"
+  },
+  {
+    "title": "Powell's Northside Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "440 Charter Blvd #1107, Macon, GA 31210",
+    "neighborhood": null,
+    "street": "440 Charter Blvd #1107",
+    "city": "Macon",
+    "postalCode": "31210",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/powells-northside-pharmacy-macon-ga-31210/",
+    "phone": "(478) 474-6767",
+    "phoneUnformatted": "+14784746767",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8717372,
+      "lng": -83.6937675
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJc_BddyP584gR3jW7ObZzB1Y",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3f923775df073:0x560773b639bb35de",
+    "cid": "6199050638588589534",
+    "reviewsCount": 13,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Powell's%20Northside%20Pharmacy&query_place_id=ChIJc_BddyP584gR3jW7ObZzB1Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ifeJNsnmxFnx7fktjr0q7w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=106.24458&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfg8hs1"
+  },
+  {
+    "title": "Zebulon Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6451 Zebulon Rd Suite B, Macon, GA 31220",
+    "neighborhood": null,
+    "street": "6451 Zebulon Rd Suite B",
+    "city": "Macon",
+    "postalCode": "31220",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://zebulonpharmacy.com/contact-us/",
+    "phone": "(478) 254-3255",
+    "phoneUnformatted": "+14782543255",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8807853,
+      "lng": -83.7744131
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg7d5fJT384gRN3Hxusshm8Y",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3f7947c79b783:0xc69b21cbbaf17137",
+    "cid": "14311069399798346039",
+    "reviewsCount": 24,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zebulon%20Pharmacy&query_place_id=ChIJg7d5fJT384gRN3Hxusshm8Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOHJ6hCHIE8PAlJLVFz7nf_G-u7EEcrgQoP8iug=w408-h484-k-no",
+    "kgmid": "/g/11vj3r1mdg"
+  },
+  {
+    "title": "Medicap Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1381 Pio Nono Ave, Macon, GA 31204",
+    "neighborhood": null,
+    "street": "1381 Pio Nono Ave",
+    "city": "Macon",
+    "postalCode": "31204",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.medicap.com/",
+    "phone": "(478) 742-1448",
+    "phoneUnformatted": "+14787421448",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.8324762,
+      "lng": -83.6631479
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJO_Atwqb-84gRLs9kbignDVY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fea6c22df03b:0x560d27286e64cf2e",
+    "cid": "6200655316563316526",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicap%20Pharmacy&query_place_id=ChIJO_Atwqb-84gRLs9kbignDVY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9EPXG79KYCcHRJ2WczQAsQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=276.69135&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wyc550f"
+  },
+  {
+    "title": "Powells Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4839 Bloomfield Rd, Macon, GA 31206",
+    "neighborhood": null,
+    "street": "4839 Bloomfield Rd",
+    "city": "Macon",
+    "postalCode": "31206",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.powellspharmacymacon.com/",
+    "phone": "(478) 781-1213",
+    "phoneUnformatted": "+14787811213",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8073043,
+      "lng": -83.7069849
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtV5RYLj784gRfoGOEgpqf2s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fbb860515eb5:0x6b7f6a0a128e817e",
+    "cid": "7746026475594088830",
+    "reviewsCount": 31,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Powells%20Pharmacy&query_place_id=ChIJtV5RYLj784gRfoGOEgpqf2s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrlFtxCGpWlvwVjpjKEnjMrsHiSDhc5ivV7pj6=w408-h272-k-no",
+    "kgmid": "/g/1tmxrvvk"
+  },
+  {
+    "title": "PharMerica – Macon, GA",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3378 Brookdale Ave # H, Macon, GA 31204",
+    "neighborhood": null,
+    "street": "3378 Brookdale Ave # H",
+    "city": "Macon",
+    "postalCode": "31204",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://pharmerica.com/",
+    "phone": "(800) 558-0899",
+    "phoneUnformatted": "+18005580899",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8530672,
+      "lng": -83.6797876
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI-YYdDX584gREdaxY2whYi8",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3f9357418e623:0x2f62216c63b1d611",
+    "cid": "3414328216913040913",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMerica%20%E2%80%93%20Macon%2C%20GA&query_place_id=ChIJI-YYdDX584gREdaxY2whYi8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "kgmid": "/g/1hc1fkb_m"
+  },
+  {
+    "title": "Scott's Pharmacy #1",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "635 Pio Nono Ave, Macon, GA 31204",
+    "neighborhood": null,
+    "street": "635 Pio Nono Ave",
+    "city": "Macon",
+    "postalCode": "31204",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://scottspharmacy1.com/",
+    "phone": "(478) 742-3098",
+    "phoneUnformatted": "+14787423098",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8406448,
+      "lng": -83.6628048
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6274R7v-84gRbaAIy4GloxM",
+    "categories": [
+      "Pharmacy",
+      "Diabetes equipment supplier",
+      "Nutritionist",
+      "Orthopedic shoe store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x88f3febb47f86eeb:0x13a3a581cb08a06d",
+    "cid": "1415156684800172141",
+    "reviewsCount": 68,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scott's%20Pharmacy%20%231&query_place_id=ChIJ6274R7v-84gRbaAIy4GloxM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJiLF8SPNzKRXhyH0iZ4bSA8fKmqi8FWXo0-PQ=w408-h306-k-no",
+    "kgmid": "/g/1td5s32d"
+  },
+  {
+    "title": "Macon Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4683 Log Cabin Dr, Macon, GA 31204",
+    "neighborhood": null,
+    "street": "4683 Log Cabin Dr",
+    "city": "Macon",
+    "postalCode": "31204",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://maconpharmacy.com/",
+    "phone": "(478) 812-8980",
+    "phoneUnformatted": "+14788128980",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.818156,
+      "lng": -83.7098034
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf7tOis_784gRsVlYge9kEvE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fbcf8a4ebb7f:0xf11264ef815859b1",
+    "cid": "17371057692551436721",
+    "reviewsCount": 39,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Macon%20Pharmacy&query_place_id=ChIJf7tOis_784gRsVlYge9kEvE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOVpo2vq0b3hsfkuksI3esByaTnszFvSsxR00bd=w408-h305-k-no",
+    "kgmid": "/g/11dzx601l2"
+  },
+  {
+    "title": "Medical Arts Pharmacy- Macon",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1193 Forsyth St, Macon, GA 31201",
+    "neighborhood": null,
+    "street": "1193 Forsyth St",
+    "city": "Macon",
+    "postalCode": "31201",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "(478) 746-8331",
+    "phoneUnformatted": "+14787468331",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8363839,
+      "lng": -83.6398831
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4_rbe4b-84gRk0WQW0GM7sU",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88f3fe867bdbfae3:0xc5ee8c415b904593",
+    "cid": "14262491282265884051",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.230Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medical%20Arts%20Pharmacy-%20Macon&query_place_id=ChIJ4_rbe4b-84gRk0WQW0GM7sU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CZv6AhWlv3J9XCPPmNJwqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.1485&pitch=0&thumbfov=100",
+    "kgmid": "/g/1jkyz2rzm"
+  },
+  {
+    "title": "Mike's Medical Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1377 Pio Nono Ave, Macon, GA 31204",
+    "neighborhood": null,
+    "street": "1377 Pio Nono Ave",
+    "city": "Macon",
+    "postalCode": "31204",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://sites.google.com/view/www-mikesmedicalpharmacy-com/home",
+    "phone": "(478) 755-9098",
+    "phoneUnformatted": "+14787559098",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.832917,
+      "lng": -83.6629819
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJm7gtwqb-84gR72ci69y2Wis",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88f3fea6c22db89b:0x2b5ab6dceb2267ef",
+    "cid": "3124010351488821231",
+    "reviewsCount": 17,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.231Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mike's%20Medical%20Pharmacy&query_place_id=ChIJm7gtwqb-84gR72ci69y2Wis",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPbmAvkuhkRzdzxeLl3chNFTcqKKgE21rNUKlYZ=w408-h290-k-no",
+    "kgmid": "/g/11clvh3873"
+  },
+  {
+    "title": "U Save It Pharmacy Georgia Ave",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1425 Georgia Ave Suite 102, Macon, GA 31201",
+    "neighborhood": null,
+    "street": "1425 Georgia Ave Suite 102",
+    "city": "Macon",
+    "postalCode": "31201",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://usaveitpharmacy.com/",
+    "phone": "(478) 309-1777",
+    "phoneUnformatted": "+14783091777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8409191,
+      "lng": -83.6427004
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsQfPON7_84gRZEF7tvuK3V0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3ffde38cf07b1:0x5ddd8afbb67b4164",
+    "cid": "6763715029083308388",
+    "reviewsCount": 10,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.231Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U%20Save%20It%20Pharmacy%20Georgia%20Ave&query_place_id=ChIJsQfPON7_84gRZEF7tvuK3V0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNK6YV7wArJAo5mifYj2ebP8sco6eHhjKM9gnXs=w408-h544-k-no",
+    "kgmid": "/g/11nt2mzp18"
+  },
+  {
+    "title": "Graves Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "770 Pine St Suite 100, Macon, GA 31201",
+    "neighborhood": null,
+    "street": "770 Pine St Suite 100",
+    "city": "Macon",
+    "postalCode": "31201",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/graves-pharmacy-macon-ga-31201/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1124089",
+    "phone": "(478) 745-0476",
+    "phoneUnformatted": "+14787450476",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8338376,
+      "lng": -83.6352586
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJa6TXYf-84gRfMJftcXJ0Qg",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88f3fe875d93ae25:0x8d1c9c5b55fc27c",
+    "cid": "635510873424642684",
+    "reviewsCount": 41,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.231Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Graves%20Pharmacy&query_place_id=ChIJJa6TXYf-84gRfMJftcXJ0Qg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no_fLIJFX0VEjSO6p2nrjcEpR2cFUZ53o8a61BxOTe97K2PMFp_vDTzjAfQhe5TKy_AqPR7Xeo8mWZWfXezE39bqpyLNhEdX_KbKKFqrC2DMW0TLsau54aeQbI-azozdCTRQH8=w408-h725-k-no",
+    "kgmid": "/g/1td_j2cw"
+  },
+  {
+    "title": "The Pharmacy Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "308 Coliseum Dr #120, Macon, GA 31217",
+    "neighborhood": null,
+    "street": "308 Coliseum Dr #120",
+    "city": "Macon",
+    "postalCode": "31217",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.gacancer.com/",
+    "phone": "(478) 741-8599",
+    "phoneUnformatted": "+14787418599",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.8449427,
+      "lng": -83.6186426
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFRrB3mv-84gR5UQFDYvvkHI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fe6bdec11a15:0x7290ef8b0d0544e5",
+    "cid": "8255361497468060901",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.231Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%20Center&query_place_id=ChIJFRrB3mv-84gR5UQFDYvvkHI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLAB89TIAkK5drZ3BV4isPGV1LC2JE7l5VoSzrRqbteqFWTb9N-3m8RL4lqVFuct4I_wftOVy4O_b0AyrKg-LABXii8d5AZVcUsuTr9gvHHtRfYaeSbbW_lHR47Zzyt8vMZvxiLA=w408-h544-k-no",
+    "kgmid": "/g/11h3vbt43t"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4585 Hartley Bridge Rd, Macon, GA 31216",
+    "neighborhood": null,
+    "street": "4585 Hartley Bridge Rd",
+    "city": "Macon",
+    "postalCode": "31216",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/macon-ga-pharmacies/4585-hartley-bridge-rd-macon-ga-31216/storeid=7504?WT.mc_id=LS_GOOGLE_RX_7504",
+    "phone": "(478) 781-9818",
+    "phoneUnformatted": "+14787819818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7447868,
+      "lng": -83.7221551
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN-swqdX684gRl3fmjG588T0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fad5a930eb37:0x3df17c6e8ce67797",
+    "cid": "4463485519953033111",
+    "reviewsCount": 9,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:47.231Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJN-swqdX684gRl3fmjG588T0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@55.96892542797799,-157.61151869094473,13z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOjLWZMvsAsTJnrOYfmDfhMnXEUdozCqzQpmlj=w408-h272-k-no",
+    "kgmid": "/g/11c46cdhs4"
+  },
+  {
+    "title": "U Save It Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3576 Pio Nono Ave, Macon, GA 31206",
+    "neighborhood": null,
+    "street": "3576 Pio Nono Ave",
+    "city": "Macon",
+    "postalCode": "31206",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "http://www.usaveitpharmacy.com/",
+    "phone": "(478) 781-1565",
+    "phoneUnformatted": "+14787811565",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.7984737,
+      "lng": -83.6649658
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHwllR27884gRMj0xmAoqDgk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fc6e4765091f:0x90e2a0a98313d32",
+    "cid": "652505221006703922",
+    "reviewsCount": 20,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:03:50.774Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U%20Save%20It%20Pharmacy%20Inc&query_place_id=ChIJHwllR27884gRMj0xmAoqDgk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@58.095490516641576,-136.9993251718887,9z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr-S8JiQxT7HnR8hleu-fSYk7V73PU4OX2F568W6Ir7IwdTSx2TNj1ew5QPCDxAO2Lm8LEFfR1hQJuK5Ri9eSQAI1HQPGI6lwO0MBZtMpGVyHUddR4cvnf7ECpuhBxtM3JOD7EWvg=w408-h240-k-no-pi0-ya358.88742-ro-0-fo100",
+    "kgmid": "/g/1ttphqrp"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1271 Gray Hwy, Macon, GA 31211",
+    "neighborhood": null,
+    "street": "1271 Gray Hwy",
+    "city": "Macon",
+    "postalCode": "31211",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/macon-ga-pharmacies/1271-gray-highway-macon-ga-31211/storeid=7212?WT.mc_id=LS_GOOGLE_RX_7212",
+    "phone": "(478) 743-6979",
+    "phoneUnformatted": "+14787436979",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8589845,
+      "lng": -83.6146821
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsVYF6Uf-84gRbIcpMxAYxnk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fe47e90556b1:0x79c618103329876c",
+    "cid": "8774727381834893164",
+    "reviewsCount": 38,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:04:26.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 AM to 1:30 PM, 2 PM to 12 AM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJsVYF6Uf-84gRbIcpMxAYxnk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@63.96402929632397,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuMPqBejaSBUadwJTD1i18dPWEYLXcrcgt79Vg=w408-h272-k-no",
+    "kgmid": "/g/11c466t_x0"
+  },
+  {
+    "title": "Express RX Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "743 Shurling Dr, Macon, GA 31211",
+    "neighborhood": null,
+    "street": "743 Shurling Dr",
+    "city": "Macon",
+    "postalCode": "31211",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "(478) 742-3020",
+    "phoneUnformatted": "+14787423020",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8593608,
+      "lng": -83.6116979
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgZzhJjj-84gRzHAp4EAg5p4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fe3826e19c81:0x9ee62040e02970cc",
+    "cid": "11449874565646872780",
+    "reviewsCount": 16,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:04:26.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as veteran-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Express%20RX%20Pharmacy&query_place_id=ChIJgZzhJjj-84gRzHAp4EAg5p4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@63.96402929632397,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPN7ztarn335Hu9vCSXMCE1_ZG7MJecwyWOS6IC=w408-h544-k-no",
+    "kgmid": "/g/1tgwbr8b"
+  },
+  {
+    "title": "Coliseum Park Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "380 Hospital Dr #175a, Macon, GA 31217",
+    "neighborhood": null,
+    "street": "380 Hospital Dr #175a",
+    "city": "Macon",
+    "postalCode": "31217",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.coliseumpharmacy-ga.com/",
+    "phone": "(478) 745-5431",
+    "phoneUnformatted": "+14787455431",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.847344,
+      "lng": -83.6179257
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA5771Wv-84gRLtH2AV_zbQI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3fe6bd5fb9e03:0x26df35f01f6d12e",
+    "cid": "175063549917712686",
+    "reviewsCount": 11,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:04:26.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Coliseum%20Park%20Professional%20Pharmacy&query_place_id=ChIJA5771Wv-84gRLtH2AV_zbQI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@63.96402929632397,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN1IWiMQISK5pr0ERBLadB-zq6FwKU5ERC3XIXn=w408-h272-k-no",
+    "kgmid": "/g/1td4_pwy"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1615 Forest Hill Rd, Macon, GA 31210",
+    "neighborhood": null,
+    "street": "1615 Forest Hill Rd",
+    "city": "Macon",
+    "postalCode": "31210",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/macon-ga-pharmacies/1615-forest-hill-rd-macon-ga-31210/storeid=4545?WT.mc_id=LS_GOOGLE_RX_4545",
+    "phone": "(478) 477-6648",
+    "phoneUnformatted": "+14784776648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8997442,
+      "lng": -83.7028067
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQTvhlJT484gRzNAHip36csg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f3f89494e13b41:0xc872fa9d8a07d0cc",
+    "cid": "14443882509463179468",
+    "reviewsCount": 20,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:04:26.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 2 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM, 2 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM, 2 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJQTvhlJT484gRzNAHip36csg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@63.96402929632397,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO41ZTfGKvO8t9lRLre_QNfREg4TrnRvhNp3Rt5=w408-h272-k-no",
+    "kgmid": "/g/11c4758l1z"
+  },
+  {
+    "title": "Kroger Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "220 Tom Hill Sr Blvd, Macon, GA 31210",
+    "neighborhood": null,
+    "street": "220 Tom Hill Sr Blvd",
+    "city": "Macon",
+    "postalCode": "31210",
+    "state": "Georgia",
+    "countryCode": "US",
+    "website": "https://www.kroger.com/rx/pharmacy/details/011/00378?cid=loc_01100378P_gmb",
+    "phone": "(478) 474-7597",
+    "phoneUnformatted": "+14784747597",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8986958,
+      "lng": -83.691439
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ58r_f7f484gRPlWrjVpkdps",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x88f3f8b77fffcae7:0x9b76645a8dab553e",
+    "cid": "11202251463217337662",
+    "reviewsCount": 30,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:04:26.870Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1 PM, 1:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 PM, 1:30 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM, 1:30 to 5 PM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Pharmacy&query_place_id=ChIJ58r_f7f484gRPlWrjVpkdps",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Macon%20GA/@63.96402929632397,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Macon GA",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsTZw5ujlQhuhmpABbUphN1Lfx1mEJwHtFHjTa=w408-h257-k-no",
+    "kgmid": "/g/11cjg91mct"
+  }
+]

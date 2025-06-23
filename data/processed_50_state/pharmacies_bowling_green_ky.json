@@ -1,0 +1,2523 @@
+[
+  {
+    "title": "Sheldon's Express Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "760 Campbell Ln #121, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "760 Campbell Ln #121",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://www.sheldonsrx.com/",
+    "phone": "(270) 782-6337",
+    "phoneUnformatted": "+12707826337",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.962294,
+      "lng": -86.463239
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e919341c76a7:0x84e341aba71a8fce",
+    "cid": "9575569438218555342",
+    "reviewsCount": 44,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.993Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheldon's%20Express%20Pharmacy&query_place_id=ChIJp3YcNBnpZYgRzo8ap6tB44Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npwiq9lvzBogzivLYsTEzQT4aXwKp14LNLRqIQ19H9_B8U5dGiCwrINfTq-O_RmjFO4x4QFHsIKZ84vPgY8laIhyFm55OuIULBSbvvagERFQgB4-YBcvng2kmRZDsEW343xo-pr=w426-h240-k-no",
+    "kgmid": "/g/1tdpbbrk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CDS #10 Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1308 Ashley Cir, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "1308 Ashley Cir",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.cds10.com/",
+    "phone": "(270) 781-5661",
+    "phoneUnformatted": "+12707815661",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9687569,
+      "lng": -86.437407
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e8bec05ba03b:0xc5474c551e688fe7",
+    "cid": "14215414677284360167",
+    "reviewsCount": 32,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CDS%20%2310%20Pharmacy&query_place_id=ChIJO6BbwL7oZYgR549oHlVMR8U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMORCKnQUQklwkrA5Vers4Je57K2nueFKanyImV=w408-h544-k-no",
+    "kgmid": "/g/1ts3lyqz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sheldon\u2019s Express Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8439 Nashville Rd, Bowling Green, KY 42101",
+    "neighborhood": null,
+    "street": "8439 Nashville Rd",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://www.sheldonsrx.com/",
+    "phone": "(270) 936-6080",
+    "phoneUnformatted": "+12709366080",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8946724,
+      "lng": -86.5209232
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865c1c82fcd496b:0x8b6633d22aebd886",
+    "cid": "10044772996652718214",
+    "reviewsCount": 23,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheldon%E2%80%99s%20Express%20Pharmacy&query_place_id=ChIJa0nNL8jBZYgRhtjrKtIzZos",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPaEZceRC9Kf5lpWpmL2AjUuaMe6Qi_2OdcEABO=w408-h315-k-no",
+    "kgmid": "/g/11hf00xr6_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Trinh Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1530 Campbell Ln, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "1530 Campbell Ln",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "phone": "(270) 782-5823",
+    "phoneUnformatted": "+12707825823",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.9514409,
+      "lng": -86.4403792
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e8f3aa5b5855:0xad86a2c52802c3c9",
+    "cid": "12503860383104287689",
+    "reviewsCount": 37,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Trinh%20Pharmacy&query_place_id=ChIJVVhbqvPoZYgRycMCKMWihq0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fynnuti68Ki4cmWnB7m57g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.809072&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g71hlrkq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "201 Park St, Bowling Green, KY 42101",
+    "neighborhood": null,
+    "street": "201 Park St",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://www.clinicpharmacybg.com/",
+    "phone": "(270) 781-3095",
+    "phoneUnformatted": "+12707813095",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.9968814,
+      "lng": -86.4301884
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865ef4fe3f53773:0xfc61e7445a86c64e",
+    "cid": "18186071051061347918",
+    "reviewsCount": 12,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clinic%20Pharmacy&query_place_id=ChIJczf140_vZYgRTsaGWkTnYfw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YvYA3NlOg45QufmoYmviwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.68842&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfntrbm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ely Drugs of Bowling Green",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4863 Scottsville Rd, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "4863 Scottsville Rd",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.elydrugs.com/",
+    "phone": "(270) 467-5225",
+    "phoneUnformatted": "+12704675225",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.92895,
+      "lng": -86.413155
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e7dbcdb998af:0x376fbc12d9c8b25",
+    "cid": "249663636478135077",
+    "reviewsCount": 39,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ely%20Drugs%20of%20Bowling%20Green&query_place_id=ChIJr5i5zdvnZYgRJYucLcH7dgM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNCeRwIkyly5EWt3CqEAheCSRa4bTamA8zLgbxE=w408-h487-k-no",
+    "kgmid": "/g/1trsyrkl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hines Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1340 KY-185, Bowling Green, KY 42101",
+    "neighborhood": null,
+    "street": "1340 KY-185",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "phone": "(270) 842-4341",
+    "phoneUnformatted": "+12708424341",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0084693,
+      "lng": -86.442039
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8865e3731220a137:0x60292d36e2931b2c",
+    "cid": "6929119215438994220",
+    "reviewsCount": 24,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hines%20Pharmacy&query_place_id=ChIJN6EgEnPjZYgRLBuT4jYtKWA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noi_tkQpgtILMARebrIVEx9PcdSgrJZ9CC8nIwmjybfGHp__qmppnurwmiW6W962PVJq4jhdqmOmUld8MkBGvWvPXvMYvQ8Qgaf2lM344vz5fyLbb59K5zdooh7FbXJowb6MA5u=w408-h451-k-no",
+    "kgmid": "/g/11b88p78vt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Riverside Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "825 E 2nd Ave STE A1, Bowling Green, KY 42101",
+    "neighborhood": null,
+    "street": "825 E 2nd Ave STE A1",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://medcenterhealth.org/location/riverside-pharmacy/",
+    "phone": "(270) 780-2650",
+    "phoneUnformatted": "+12707802650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9951891,
+      "lng": -86.4284168
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865ef503ceb5285:0xd8a94f68ae3e9a58",
+    "cid": "15612096894275066456",
+    "reviewsCount": 28,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.994Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Riverside%20Pharmacy&query_place_id=ChIJhVLrPFDvZYgRWJo-rmhPqdg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMmmOQDS4ssLvLUZ15ESkzurh6V2MkM6YZsHRXN=w408-h268-k-no",
+    "kgmid": "/g/1tykw3mx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicine Arts Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "818 U.S. 31 W Bypass, Bowling Green, KY 42101",
+    "neighborhood": null,
+    "street": "818 U.S. 31 W Bypass",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://www.medicinearts.com/",
+    "phone": "(270) 843-3202",
+    "phoneUnformatted": "+12708433202",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.984968,
+      "lng": -86.4321615
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e8b3144ba469:0x86f63012c883d9c9",
+    "cid": "9725013302584793545",
+    "reviewsCount": 22,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.995Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicine%20Arts%20Pharmacy&query_place_id=ChIJaaRLFLPoZYgRydmDyBIw9oY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-wEqZXCqLPMSVgayITXeQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=169.36505&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tnjk9by",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Meijer Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1676 Westpark Dr, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "1676 Westpark Dr",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.meijer.com/shopping/store-locator/272.html?cmpid=LM:Web::::05112021::GooglePharmacy",
+    "phone": "(270) 495-6710",
+    "phoneUnformatted": "+12704956710",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.955853,
+      "lng": -86.4380755
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store",
+      "Drug store"
+    ],
+    "fid": "0x8865e891bc8ed863:0xd149f534a6c17628",
+    "cid": "15080854433711617576",
+    "reviewsCount": 33,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:10.995Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Meijer%20Pharmacy&query_place_id=ChIJY9iOvJHoZYgRKHbBpjT1SdE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@64.34834014395538,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppFDf3rwpAq6gQ6VaTck7brSEpCKOwKORz8VetqFCbHk3cIMZA8Gh4b73Te-8ROaxymrwD4fDf17iAAgVPBvgSXRWMWLiiGMrxkeHxGTJAe_uxrv1d2sFiJmg0mn-D1kU5UaA=w408-h306-k-no",
+    "kgmid": "/g/11b6xbk5f3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hines Pharmacy at Wkoa",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "165 Natchez Trace Ave, Bowling Green, KY 42103, United States",
+    "neighborhood": null,
+    "street": "165 Natchez Trace Ave",
+    "city": "Bowling Green",
+    "postalCode": "42103",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://stores.healthmart.com/hinespharmacyatwkoa/our_pharmacy.aspx",
+    "phone": "+1 270-796-1818",
+    "phoneUnformatted": "+12707961818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9670695,
+      "lng": -86.401158
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8865e614f17cd211:0x6e1ca5c2463761f3",
+    "cid": "7934398897340244467",
+    "reviewsCount": 6,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:25.078Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hines%20Pharmacy%20at%20Wkoa&query_place_id=ChIJEdJ88RTmZYgR82E3RsKlHG4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@63.240391500735214,-171.58644731733034,11z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tgwbn5g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sheldon's Express Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "843 Fairview Ave, Bowling Green, KY 42101, United States",
+    "neighborhood": null,
+    "street": "843 Fairview Ave",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://www.sheldonsrx.com/",
+    "phone": "+1 270-842-4515",
+    "phoneUnformatted": "+12708424515",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9911129,
+      "lng": -86.4334373
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Chemist"
+    ],
+    "fid": "0x8865ef4c102d326d:0xc6a94ce3f8cf5a10",
+    "cid": "14315057432589457936",
+    "reviewsCount": 117,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:31.863Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheldon's%20Express%20Pharmacy&query_place_id=ChIJbTItEEzvZYgREFrP-ONMqcY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@56.705968377238506,-135.84852618621275,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM5tBsjSz4OdhPGEXAYdfFDgyIkH0V9pxd1TM7a=w408-h315-k-no",
+    "kgmid": "/g/1tj80q92",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Springhill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2305 Russellville Rd, Bowling Green, KY 42101, United States",
+    "neighborhood": null,
+    "street": "2305 Russellville Rd",
+    "city": "Bowling Green",
+    "postalCode": "42101",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.springhillpharmacybg.com/",
+    "phone": "+1 270-796-3909",
+    "phoneUnformatted": "+12707963909",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.971818,
+      "lng": -86.4774103
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e93ed4c3242d:0x61e2e662eb6ec1d5",
+    "cid": "7053453278946705877",
+    "reviewsCount": 36,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:19:31.863Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12\u202fam"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6\u202fAM, 9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Springhill%20Pharmacy&query_place_id=ChIJLSTD1D7pZYgR1cFu62Lm4mE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@56.705968377238506,-135.84852618621275,9z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNcBJORPLFeeZzBtc29aiTCq6AZnSLEy3bsQ23t=w408-h306-k-no",
+    "kgmid": "/g/1tql5j1l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bowling Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "314 Treuhaft Blvd, Barbourville, KY 40906",
+    "neighborhood": null,
+    "street": "314 Treuhaft Blvd",
+    "city": "Barbourville",
+    "postalCode": "40906",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://bowlingpharmacy.net/",
+    "phone": "(606) 546-2210",
+    "phoneUnformatted": "+16065462210",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8495573,
+      "lng": -83.8688194
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x885cbeed391e203b:0x94426f57f9c6c3a6",
+    "cid": "10683223689719628710",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 20
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:20:13.545Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bowling%20Family%20Pharmacy&query_place_id=ChIJOyAeOe2-XIgRpsPG-VdvQpQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@36.81849750000001,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqh9bKhurXLWms6GjzW6g2EojjnTRMDil2XpytmM8n_aOzJyarzjQxGpubg1ZJKgMk3v1Ntd-3V8Lr5RS0mjLVC0-L29-J4uqfVosVPkgVYzKYWqJG0Et1OIKpNA-sXZhv7Rr78Q=w408-h306-k-no",
+    "kgmid": "/g/1tfx5mc4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sheldon's Express Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5575 Scottsville Rd, Bowling Green, KY 42104",
+    "neighborhood": null,
+    "street": "5575 Scottsville Rd",
+    "city": "Bowling Green",
+    "postalCode": "42104",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "http://sheldonsexpresspharmacy.com/",
+    "phone": "(270) 715-0650",
+    "phoneUnformatted": "+12707150650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.9192665,
+      "lng": -86.4091132
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8865e7e7df3227c5:0x777dd4793a81232b",
+    "cid": "8610271679739929387",
+    "reviewsCount": 43,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:20:40.609Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheldon's%20Express%20Pharmacy&query_place_id=ChIJxScy3-fnZYgRKyOBOnnUfXc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@39.68245004733214,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KbWX6fhAQY9gdtcnPIl2zA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=141.94826&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bzt2djkm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cave City Prescription Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "101 S Dixie Hwy, Cave City, KY 42127",
+    "neighborhood": null,
+    "street": "101 S Dixie Hwy",
+    "city": "Cave City",
+    "postalCode": "42127",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.cavecityrxcenter.com/",
+    "phone": "(270) 773-2252",
+    "phoneUnformatted": "+12707732252",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.1349419,
+      "lng": -85.9563106
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x886618cf274b2cc1:0x92aaea17704a3bf5",
+    "cid": "10568516861967350773",
+    "reviewsCount": 17,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:21:06.456Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cave%20City%20Prescription%20Center&query_place_id=ChIJwSxLJ88YZogR9TtKcBfqqpI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@36.81849750000001,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-5OgOla1kGWxzgjiMS8zFyQAkcjxndHobUjeDWteVcweu5BMzQcJKmXSM8h7o6AgGFFOlqVJj9sKgeAqFi3V_oQ8MPzzYTjaSPByxSQEh5KCyOnYbC07L9S9xBB9dGsEkJNe_bg=w408-h306-k-no",
+    "kgmid": "/g/1tdzb4hk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PharMerica \u2013 Glasgow, KY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "301 Industrial Dr, Glasgow, KY 42141",
+    "neighborhood": null,
+    "street": "301 Industrial Dr",
+    "city": "Glasgow",
+    "postalCode": "42141",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://pharmerica.com/",
+    "phone": "(800) 727-5514",
+    "phoneUnformatted": "+18007275514",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0003421,
+      "lng": -85.9401664
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x886616252923f98b:0x66b22efbf1e184d0",
+    "cid": "7400028797352903888",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:21:06.456Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMerica%20%E2%80%93%20Glasgow%2C%20KY&query_place_id=ChIJi_kjKSUWZogR0ITh8fsusmY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@36.81849750000001,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EhQrPdnh_JtfU4HXRT5Ckg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=136.21106&pitch=0&thumbfov=100",
+    "kgmid": "/g/1v940t2d",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Green River Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "50 Dillon St, Liberty, KY 42539",
+    "neighborhood": null,
+    "street": "50 Dillon St",
+    "city": "Liberty",
+    "postalCode": "42539",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/green-river-pharmacy-liberty-ky-42539/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1833323",
+    "phone": "(606) 787-2100",
+    "phoneUnformatted": "+16067872100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.3230551,
+      "lng": -84.9261423
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8842a8f80d993827:0x3fdc0a3c9c6e783e",
+    "cid": "4601564174704605246",
+    "reviewsCount": 35,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:21:06.457Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Green%20River%20Pharmacy&query_place_id=ChIJJziZDfioQogRPnhunDwK3D8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@36.81849750000001,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOee02xtkmYqxZolmT00a1IpXJhUQ-DFWKj8Voy7rWjEh8imYN_EJO308feQwLgaKI2WzMe-le0aAHk9b28VC5NBEQpKXDnklovzJHfneLinPIXa7Cr_AVFuehXfnU4dL8qtQ=w408-h725-k-no",
+    "kgmid": "/g/12605d7wk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ely Drugs Medical Supply",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "415 Happy Valley Rd, Glasgow, KY 42141",
+    "neighborhood": null,
+    "street": "415 Happy Valley Rd",
+    "city": "Glasgow",
+    "postalCode": "42141",
+    "state": "Kentucky",
+    "countryCode": "US",
+    "website": "https://www.elydrugs.com/",
+    "phone": "(270) 651-8359",
+    "phoneUnformatted": "+12706518359",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0047988,
+      "lng": -85.9115266
+    },
+    "locatedIn": "Ely Home Infusion",
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88663d9884196b43:0xd5d59013cefc0008",
+    "cid": "15408380114869420040",
+    "reviewsCount": 72,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:21:06.457Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Ely Home Infusion": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ely%20Drugs%20Medical%20Supply&query_place_id=ChIJQ2sZhJg9ZogRCAD8zhOQ1dU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bowling%20Green%20KY/@36.81849750000001,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Bowling Green KY",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOc01lKDSzGXSMocovJcy7bXyGReW_DcTajyhtn=w408-h306-k-no",
+    "kgmid": "/g/1vc6f3xs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

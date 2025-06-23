@@ -1,0 +1,2397 @@
+[
+  {
+    "title": "Walt's Family Pharmacy North Charleston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8983 University Blvd, North Charleston, SC 29406",
+    "neighborhood": null,
+    "street": "8983 University Blvd",
+    "city": "North Charleston",
+    "postalCode": "29406",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.waltsfamilypharmacy.com/",
+    "phone": "(843) 628-3330",
+    "phoneUnformatted": "+18436283330",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.9743862,
+      "lng": -80.0611846
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store"
+    ],
+    "fid": "0x88fe61a27799f821:0x851e9474eb4e96",
+    "cid": "37469794868088470",
+    "reviewsCount": 36,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.535Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walt's%20Family%20Pharmacy%20North%20Charleston&query_place_id=ChIJIfiZd6Jh_ogRlk7rdJQehQA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npW0olZX1BT9zZLGJH3J58sU2BMS65hcSKCJCtBOUXqppSobzK33HbKgxyVyjtmEfj2KoPm8b2RVVYZNeZaPoaWUIMldiLnum5BE0yTpNWRcVeNplfOPKcLfHf7gTmjSkrPTV06=w425-h240-k-no",
+    "kgmid": "/g/1q2wg2k8b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Park Circle Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4412 Spruill Ave Suite C, North Charleston, SC 29405",
+    "neighborhood": "Park Circle",
+    "street": "4412 Spruill Ave Suite C",
+    "city": "North Charleston",
+    "postalCode": "29405",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://parkcirclepharmacy.com/",
+    "phone": "(843) 806-1299",
+    "phoneUnformatted": "+18438061299",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8754676,
+      "lng": -79.9799469
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beer store",
+      "Convenience store",
+      "Drug store",
+      "Greeting card shop",
+      "Medical equipment supplier",
+      "Soft drinks shop",
+      "Sunglasses store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x88fe65a65f4cc567:0xa8259aabd387b01",
+    "cid": "757266277205572353",
+    "reviewsCount": 83,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.537Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Park%20Circle%20Pharmacy&query_place_id=ChIJZ8VMX6Zl_ogRAXs4vapZggo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO0wA-IxUbj3CeA5j2NTEXkYLmoZQ8R9HFCENeo=w419-h240-k-no",
+    "kgmid": "/g/11t9wts10w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Stride Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3471 W Montague Ave, North Charleston, SC 29418",
+    "neighborhood": null,
+    "street": "3471 W Montague Ave",
+    "city": "North Charleston",
+    "postalCode": "29418",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "phone": "(843) 531-5187",
+    "phoneUnformatted": "+18435315187",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8630892,
+      "lng": -80.0240377
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe63c32c30e035:0x756f044fecceda51",
+    "cid": "8461986966174358097",
+    "reviewsCount": 22,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.537Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stride%20Pharmacy&query_place_id=ChIJNeAwLMNj_ogRUdrO7E8Eb3U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7tqOL4jQiO3qhZ1FV9PL3Ks9pzzaLht5OmiIu=w426-h240-k-no",
+    "kgmid": "/g/11jlw5bh64",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Plantation Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "776 Daniel Ellis Dr # 2C, Charleston, SC 29412",
+    "neighborhood": null,
+    "street": "776 Daniel Ellis Dr # 2C",
+    "city": "Charleston",
+    "postalCode": "29412",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://plantationpharmacy.com/",
+    "phone": "(843) 795-9554",
+    "phoneUnformatted": "+18437959554",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.7473468,
+      "lng": -79.9685916
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical supply store"
+    ],
+    "fid": "0x88fe79747195b861:0xd0d3c7daf4a2d655",
+    "cid": "15047590523196069461",
+    "reviewsCount": 40,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Plantation%20Pharmacy&query_place_id=ChIJYbiVcXR5_ogRVdai9NrH09A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nohaPzHuCrRTSedM9SmRA0QAO_pyKZ5Wy_qgePX0nIYSCQsW4HDa1POkKWDSFE58J72wQD4NsHRBUCiHeOCwu6a7qra_zpwN4bV_LZp4ZXvrXKB3FXCmi9L4GtaILF9A3WlX2OE3w=w408-h544-k-no",
+    "kgmid": "/g/1tjyvgbw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Pharmacy Club",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "846 St Andrews Blvd Suite A, Charleston, SC 29407",
+    "neighborhood": "West Ashley",
+    "street": "846 St Andrews Blvd Suite A",
+    "city": "Charleston",
+    "postalCode": "29407",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.thepharmacyclubchs.com/",
+    "phone": "(843) 718-3738",
+    "phoneUnformatted": "+18437183738",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7918012,
+      "lng": -79.9879767
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe7bd8a96ecc91:0x4caf7004dcb909b0",
+    "cid": "5525758433992182192",
+    "reviewsCount": 30,
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%20Club&query_place_id=ChIJkcxuqdh7_ogRsAm53ARwr0w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMw115YkKDPeLQKMUpwv5nebn0EKWMwvYsJVP9k=w408-h544-k-no",
+    "kgmid": "/g/11sn_2c31h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Avita Pharmacy 1056",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5064 Rivers Ave Suite 201, North Charleston, SC 29406",
+    "neighborhood": null,
+    "street": "5064 Rivers Ave Suite 201",
+    "city": "North Charleston",
+    "postalCode": "29406",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.avitapharmacy.com/",
+    "phone": "(864) 990-0242",
+    "phoneUnformatted": "+18649900242",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8859522,
+      "lng": -80.0087275
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe65330dab700f:0x6fd1f5a4d9d7d98b",
+    "cid": "8057491296720771467",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avita%20Pharmacy%201056&query_place_id=ChIJD3CrDTNl_ogRi9nX2aT10W8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yxn3yZld-F7hjdM1tFLKgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=65.589096&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vlnhnjvz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Holy City Pharmacy, LLC James Island",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "354 Folly Rd Bldg 1, Charleston, SC 29412",
+    "neighborhood": null,
+    "street": "354 Folly Rd Bldg 1",
+    "city": "Charleston",
+    "postalCode": "29412",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "phone": "(843) 762-8155",
+    "phoneUnformatted": "+18437628155",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7591821,
+      "lng": -79.9733422
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe79a855f8e6a9:0xc6b2269478fc6488",
+    "cid": "14317548584491050120",
+    "reviewsCount": 20,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Holy%20City%20Pharmacy%2C%20LLC%20James%20Island&query_place_id=ChIJqeb4Vah5_ogRiGT8eJQmssY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNSC23lYCizUoiQjPKQjIzI63ZOk7DYbJ8a9PFy=w408-h242-k-no",
+    "kgmid": "/g/11frps8q_k",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dottie's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "325 Folly Rd Suite 305, Charleston, SC 29412",
+    "neighborhood": null,
+    "street": "325 Folly Rd Suite 305",
+    "city": "Charleston",
+    "postalCode": "29412",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.dotspharmacy.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=4231863",
+    "phone": "(843) 501-9500",
+    "phoneUnformatted": "+18435019500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7604488,
+      "lng": -79.9754906
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x88fe797b1468474f:0x7e724004e9651af",
+    "cid": "569463461622731183",
+    "reviewsCount": 100,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dottie's%20Pharmacy&query_place_id=ChIJT0doFHt5_ogRr1GWTgAk5wc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np61eBIhwcqWkCOsPofgtIH6zbwztGaqt427IsWV4McAKB-YYCeQUpRcnj3xQrjU-Oar3NtLI5q1AfI5Py6a2ojSxFoHLt2bMONORSoUnLTsA7s5q1G2r2SXb4k5DFl97e8S_Q=w408-h377-k-no",
+    "kgmid": "/g/1yg4d_k1g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Johns Island Pharmacy and Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3133 Maybank Hwy, Johns Island, SC 29455",
+    "neighborhood": null,
+    "street": "3133 Maybank Hwy",
+    "city": "Johns Island",
+    "postalCode": "29455",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.plantationpharmacy.com/",
+    "phone": "(843) 789-4777",
+    "phoneUnformatted": "+18437894777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.734248,
+      "lng": -80.0547366
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe7fb90655c2cf:0xbc9a5499087bd59c",
+    "cid": "13590267841792955804",
+    "reviewsCount": 17,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Johns%20Island%20Pharmacy%20and%20Compounding&query_place_id=ChIJz8JVBrl__ogRnNV7CJlUmrw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Kw0OL32ZjM-BA3VMEBPIeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.13344&pitch=0&thumbfov=100",
+    "kgmid": "/g/11spnb_d53",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Plantation Pharmacy At Wappoo",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "531 Wappoo Rd #58, Charleston, SC 29407",
+    "neighborhood": "West Ashley",
+    "street": "531 Wappoo Rd #58",
+    "city": "Charleston",
+    "postalCode": "29407",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.plantationpharmacy.com/locations/west-ashley",
+    "phone": "(843) 556-1994",
+    "phoneUnformatted": "+18435561994",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.7870629,
+      "lng": -80.02081
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe7c121c6e5bdd:0xbaca4b00c9cfda2d",
+    "cid": "13459652903108074029",
+    "reviewsCount": 37,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.539Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Plantation%20Pharmacy%20At%20Wappoo&query_place_id=ChIJ3VtuHBJ8_ogRLdrPyQBLyro",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrALeJWtpe4xK0OOr4Jo3cWtH0qxahYZM1qo3clnanx64pmdrI1WaCOAqShWRK6vkvhQZiubkLX1E4cmONmgN_2UyXhxnlDKZTLEoXal5vec4tlhb7ptKM2ITVem-NHa61yxb365A=w408-h544-k-no",
+    "kgmid": "/g/1tg9n_8b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Focus: Meds Pharmacy and Wellness",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2000 Sam Rittenberg Blvd Suite 134, Charleston, SC 29407",
+    "neighborhood": "West Ashley",
+    "street": "2000 Sam Rittenberg Blvd Suite 134",
+    "city": "Charleston",
+    "postalCode": "29407",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.focusmedspharmacy.com/",
+    "phone": "(843) 818-4638",
+    "phoneUnformatted": "+18438184638",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.7947501,
+      "lng": -80.0289152
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe7c6ae676dba7:0xb664166cf21348a3",
+    "cid": "13142654269747579043",
+    "reviewsCount": 39,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.539Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20136:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20136:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20136:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20136:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20136:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Focus%3A%20Meds%20Pharmacy%20and%20Wellness&query_place_id=ChIJp9t25mp8_ogRo0gT8mwWZLY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqMEw8Smxe82_3C_MMtRdrwfgblzlBioPIK8a78Gv9TQqlpdX3TEOKZeF0htvomhQZaTOyRvgde3eK9ZZIEP22bHbN-or4VU89PscR3ZAsVD4h6nok0OSvu05zLKG3pEuvO5e0=w408-h306-k-no",
+    "kgmid": "/g/11g8v5qxcl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Herold's Pharmacy West Ashley",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2057 Charlie Hall Blvd suite c, Charleston, SC 29414",
+    "neighborhood": "West Ashley",
+    "street": "2057 Charlie Hall Blvd suite c",
+    "city": "Charleston",
+    "postalCode": "29414",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.heroldspharmacy.com/",
+    "phone": "(843) 637-3037",
+    "phoneUnformatted": "+18436373037",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8155851,
+      "lng": -80.0421773
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Drug store",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Mobility equipment supplier",
+      "Soft drinks shop",
+      "Sunglasses store",
+      "Wine store"
+    ],
+    "fid": "0x88fe7c581e17b06f:0x145a16c41d8c9dbb",
+    "cid": "1466509660227673531",
+    "reviewsCount": 64,
+    "imagesCount": 65,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:31.539Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Herold's%20Pharmacy%20West%20Ashley&query_place_id=ChIJb7AXHlh8_ogRu52MHcQWWhQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@65.00037634152156,-168.0057016382483,13z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noLVSaxyiz-eb6OdspbBG8j9uGqycK33K6xeiXOsn4NYqgBlfd9dlZgypNnXB7QZxA9p2mpD6t7Kg6Dbq0TtNGUgpXfFFTpEdlaxlYWwa4fvhQo0aI0L1A5qXsMd9qcbMOoihdn1w=w408-h306-k-no",
+    "kgmid": "/g/1tf6147m",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "TPC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9275-A Medical Plaza Dr, North Charleston, SC 29406, United States",
+    "neighborhood": null,
+    "street": "9275-A Medical Plaza Dr",
+    "city": "North Charleston",
+    "postalCode": "29406",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.tpcpharmacy.com/",
+    "phone": "+1 843-266-6095",
+    "phoneUnformatted": "+18432666095",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.9743799,
+      "lng": -80.0734618
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe613f2e97adf5:0x51aa3188057f343c",
+    "cid": "5884570323390510140",
+    "reviewsCount": 8,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:36.377Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TPC%20Pharmacy&query_place_id=ChIJ9a2XLj9h_ogRPDR_BYgxqlE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@6.019223325287878,-161.94054322060833,12z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=agNQG_V0NfKEdfnVhAO7nQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=159.97006&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ghlwydzg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "8395 Dorchester Rd, North Charleston, SC 29418, United States",
+    "neighborhood": null,
+    "street": "8395 Dorchester Rd",
+    "city": "North Charleston",
+    "postalCode": "29418",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-8395+dorchester+rd-north+charleston-sc-29418/id=6076",
+    "phone": "+1 843-207-1578",
+    "phoneUnformatted": "+18432071578",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.9131235,
+      "lng": -80.1075327
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe89d2ee1bbe1f:0xf18b88ef755b6022",
+    "cid": "17405155746950897698",
+    "reviewsCount": 10,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:36.377Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJH74b7tKJ_ogRImBbde-Ii_E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@6.019223325287878,-161.94054322060833,12z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMTqLVysGcPWwZiSYOC-2Crw1raY-gIpygz6Oj0=w525-h240-k-no",
+    "kgmid": "/g/11cn94ny__",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5215 Ashley Phosphate Rd, North Charleston, SC 29418, United States",
+    "neighborhood": null,
+    "street": "5215 Ashley Phosphate Rd",
+    "city": "North Charleston",
+    "postalCode": "29418",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/north-charleston-sc-pharmacies/5215-ashley-phosphate-rd-north-charleston-sc-29418/storeid=7537?WT.mc_id=LS_GOOGLE_RX_7537",
+    "phone": "+1 843-767-4500",
+    "phoneUnformatted": "+18437674500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.9140453,
+      "lng": -80.106521
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe89d3aca744ad:0x2522374f11e6768",
+    "cid": "167235121334609768",
+    "reviewsCount": 44,
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:53.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJrUSnrNOJ_ogRaGce8XQjUgI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@56.01120730753697,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN9kBNNCrslpT_46UWjn4SO3l_TgYCpKIykLXZ_=w408-h272-k-no",
+    "kgmid": "/g/11c4615ghr",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Optum Infusion Pharmacy and Infusion Suite",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5895 Core Rd Suite 407, North Charleston, SC 29406, United States",
+    "neighborhood": null,
+    "street": "5895 Core Rd Suite 407",
+    "city": "North Charleston",
+    "postalCode": "29406",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.optum.com/en/business/providers/pharmacy/infusion-pharmacy.html",
+    "phone": "+1 800-334-3464",
+    "phoneUnformatted": "+18003343464",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.9003598,
+      "lng": -80.024757
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe630014687b8b:0xf65ffa9ea71b5ab2",
+    "cid": "17753183815433149106",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:35:53.075Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Optum%20Infusion%20Pharmacy%20and%20Infusion%20Suite&query_place_id=ChIJi3toFABj_ogRslobp576X_Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@56.01120730753697,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3mw6OIFPN50yu_ETTCdZzA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.44453&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wn7w75wj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Intramed Plus",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4995 Lacross Rd #1200, North Charleston, SC 29406",
+    "neighborhood": null,
+    "street": "4995 Lacross Rd #1200",
+    "city": "North Charleston",
+    "postalCode": "29406",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "http://www.intramedplus.com/?utm_source=GMBlisting&utm_medium=organic",
+    "phone": "(843) 763-2080",
+    "phoneUnformatted": "+18437632080",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8802111,
+      "lng": -80.0158023
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Home health care service"
+    ],
+    "fid": "0x88fe7c7229e80a59:0x3c4bfcd0ea9f39de",
+    "cid": "4344844239748676062",
+    "reviewsCount": 8,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:36:22.188Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Intramed%20Plus&query_place_id=ChIJWQroKXJ8_ogR3jmf6tD8Szw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@70.60118977126913,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFXt1LEcFdFYcaX53L4sPUw2zBf2zuCMJTJbM4=w408-h272-k-no",
+    "kgmid": "/g/1tdzgvv4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1506 E Montague Ave, North Charleston, SC 29405",
+    "neighborhood": null,
+    "street": "1506 E Montague Ave",
+    "city": "North Charleston",
+    "postalCode": "29405",
+    "state": "South Carolina",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/north-charleston-sc-pharmacies/1506-east-montague-ave-north-charleston-sc-29405/storeid=3977?WT.mc_id=LS_GOOGLE_RX_3977",
+    "phone": "(843) 554-8867",
+    "phoneUnformatted": "+18435548867",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.8822715,
+      "lng": -79.9931414
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88fe649661bc7e39:0x33ca89e6f5e5c5ef",
+    "cid": "3731946866290836975",
+    "reviewsCount": 24,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:36:22.188Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJOX68YZZk_ogR78Xl9eaJyjM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20North%20Charleston%20SC/@70.60118977126913,-162.31690285675955,9z?hl=en",
+    "searchString": "independent pharmacy North Charleston SC",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMsNHrty1IXM7UZmorPbDqaDT9P2nSbrxQmcgq8=w408-h272-k-no",
+    "kgmid": "/g/11c460jhl0",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

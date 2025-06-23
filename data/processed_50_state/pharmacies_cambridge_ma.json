@@ -1,0 +1,2569 @@
+[
+  {
+    "title": "Skenderian Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1613 Cambridge St, Cambridge, MA 02138",
+    "neighborhood": "Mid-Cambridge",
+    "street": "1613 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.skenderianapothecary.com/",
+    "phone": "(617) 354-5600",
+    "phoneUnformatted": "+16173545600",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3748898,
+      "lng": -71.108973
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37745f8e75669:0x52ed87b10cfa50dc",
+    "cid": "5975581475087208668",
+    "reviewsCount": 70,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:09.650Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Skenderian%20Apothecary&query_place_id=ChIJaVbn-EV344kR3FD6DLGH7VI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqUyQ4fIdVEkz8jZ12uKNNq-UIwoDW0iSwHOHXGZiauTJ-m3-Qm_htccr1E8TEiLrHhSIdUAdOAxQ3dc0mWqz7-g-6FeNk7DdUbEVDP1YN3WQRzEjYvqP9jhXrvJWwBehM0hYPT=w408-h305-k-no",
+    "kgmid": "/g/1tj9c_vt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Inman Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1414 Cambridge St, Cambridge, MA 02139",
+    "neighborhood": "Mid-Cambridge",
+    "street": "1414 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02139",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.inmanpharmacy.com/",
+    "phone": "(617) 876-4868",
+    "phoneUnformatted": "+16178764868",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3736781,
+      "lng": -71.1015213
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3774c74670cb3:0x1d10e0dc6d3ee76a",
+    "cid": "2094421064057546602",
+    "reviewsCount": 46,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:09.651Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Inman%20Pharmacy&query_place_id=ChIJswxndEx344kRauc-bdzgEB0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWUsCEdk2GYs-uPZSFa-xY4KpMtx4HIxtkglDbG-SDwFtd-0VCFb24X4mdRFYA8nPOx52zQeBv2r4uj-zbg6PI2mGeTfazDQSHJEywTFvYqDSp9agOiwMQ71i32RndedY-mTE8=w408-h306-k-no",
+    "kgmid": "/g/1tgw60sh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "36 White St, Cambridge, MA 02140",
+    "neighborhood": "Porter Square",
+    "street": "36 White St",
+    "city": "Cambridge",
+    "postalCode": "02140",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/36-white-street-cambridge-ma-02140/storeid=717?WT.mc_id=LS_GOOGLE_RX_717",
+    "phone": "(617) 876-5519",
+    "phoneUnformatted": "+16178765519",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3888772,
+      "lng": -71.1189443
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3773d087ade75:0xd2da29ba508f86fa",
+    "cid": "15193502173080028922",
+    "reviewsCount": 37,
+    "imagesCount": 42,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:09.651Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJdd56CD1344kR-oaPULop2tI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMiUcsJ7OsL2nhhmlE04VxAVpmbj8_pgOtupMkZ=w408-h272-k-no",
+    "kgmid": "/g/11c460f90r",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Star Market Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "699 Mt Auburn St, Cambridge, MA 02138",
+    "neighborhood": "West Cambridge",
+    "street": "699 Mt Auburn St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.starmarket.com/ma/cambridge/699-mt-auburn-st.html",
+    "phone": "(617) 661-9337",
+    "phoneUnformatted": "+16176619337",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3752787,
+      "lng": -71.1490591
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89e37783093c2a03:0x2a4d062cf41905cc",
+    "cid": "3048099312943302092",
+    "reviewsCount": 3,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:09.651Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Market%20Pharmacy&query_place_id=ChIJAyo8CYN344kRzAUZ9CwGTSo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@33.954544952667874,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPgsP4b-eUOHBpaTlkkQbgAz8T3NNjP50OB3udo=w426-h240-k-no",
+    "kgmid": "/g/11ckkqw9m1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CHA Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "163 Gore St, Cambridge, MA 02141, United States",
+    "neighborhood": "East Cambridge",
+    "street": "163 Gore St",
+    "city": "Cambridge",
+    "postalCode": "02141",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.challiance.org/cha-services/pharmacy-at-cha.aspx",
+    "phone": "+1 617-499-6690",
+    "phoneUnformatted": "+16174996690",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3727797,
+      "lng": -71.0853641
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e370b9d9a4a8c7:0xc11d0458de79a86e",
+    "cid": "13915283203380848750",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:34.537Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHA%20Pharmacy&query_place_id=ChIJx6ik2blw44kRbqh53lgEHcE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@39.68245004733214,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wroiMzSHryO2QiQamjT61w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.616507&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g8y9g9k7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CHA Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1493 Cambridge St, Cambridge, MA 02139",
+    "neighborhood": "Mid-Cambridge",
+    "street": "1493 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02139",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.challiance.org/cha-services/pharmacy-at-cha",
+    "phone": "(617) 665-1438",
+    "phoneUnformatted": "+16176651438",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3744977,
+      "lng": -71.1044039
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e377494b5a4c05:0x583eb5948951381f",
+    "cid": "6358719373457307679",
+    "reviewsCount": 34,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHA%20Pharmacy&query_place_id=ChIJBUxaS0l344kRHzhRiZS1Plg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qlh4U5_uRdeJQiaIMN9hbw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=12.703007&pitch=0&thumbfov=100",
+    "kgmid": "/g/11c3tpg4kc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "624 Massachusetts Ave, Cambridge, MA 02139",
+    "neighborhood": "Cambridgeport",
+    "street": "624 Massachusetts Ave",
+    "city": "Cambridge",
+    "postalCode": "02139",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/624-massachusetts-ave-cambridge-ma-02139/storeid=1002?WT.mc_id=LS_GOOGLE_RX_1002",
+    "phone": "(617) 876-7868",
+    "phoneUnformatted": "+16178767868",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3650877,
+      "lng": -71.1035803
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37756ab428c35:0xbc4831fb198153fb",
+    "cid": "13567148831988077563",
+    "reviewsCount": 25,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJNYxCq1Z344kR-1OBGfsxSLw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAU-iHycyzeB-mOMrolkDVBUWAEOhd-OCnSlLT=w408-h272-k-no",
+    "kgmid": "/g/11c468fss4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Osco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "699 Mt Auburn St, Cambridge, MA 02138",
+    "neighborhood": "West Cambridge",
+    "street": "699 Mt Auburn St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.starmarket.com/ma/cambridge/699-mt-auburn-st.html",
+    "phone": "(617) 661-9337",
+    "phoneUnformatted": "+16176619337",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3753306,
+      "lng": -71.1487264
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e377839ed09f7b:0xdc946939982d0148",
+    "cid": "15894444680984461640",
+    "reviewsCount": 10,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Osco%20Pharmacy&query_place_id=ChIJe5_QnoN344kRSAEtmDlplNw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRGg4OAv1t3KKYO2EMjliULERAZZyY901Pp7mgusN9GER3suSxTPzSzxj8ZEm2Tj5qABusHw0BBrOogsf-TxShB5h5NZMWSzZ5zgXg5sxO24CsXtoVFmDnRQ9164WEFlcFCyOC=w426-h240-k-no",
+    "kgmid": "/g/1tc_xm95",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6 John F. Kennedy St, Cambridge, MA 02138",
+    "neighborhood": "Riverside",
+    "street": "6 John F. Kennedy St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/6-jfk-street-cambridge-ma-02138/storeid=240?WT.mc_id=LS_GOOGLE_RX_240",
+    "phone": "(617) 354-4420",
+    "phoneUnformatted": "+16173544420",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3732123,
+      "lng": -71.119384
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37742b1ab9847:0x74598db736c530f",
+    "cid": "523992999960269583",
+    "reviewsCount": 26,
+    "imagesCount": 42,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJR5irsUJ344kRD1Nsc9uYRQc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7WfI4dVx1xRIPtyr6WV-MG0PgNOXs0FWZLPz4=w408-h272-k-no",
+    "kgmid": "/g/11c469nwz3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "225 Cambridge St, Cambridge, MA 02141",
+    "neighborhood": "East Cambridge",
+    "street": "225 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02141",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/225-cambridge-st-cambridge-ma-02141/storeid=10891?WT.mc_id=LS_GOOGLE_RX_10891",
+    "phone": "(617) 528-2109",
+    "phoneUnformatted": "+16175282109",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3712601,
+      "lng": -71.0796433
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e371532bd5f921:0xe65bd078bc1f99eb",
+    "cid": "16599090068574935531",
+    "reviewsCount": 37,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJIfnVK1Nx44kR65kfvHjQW-Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYz1ANSYSbZUTmUiuNH5-DwL_Pou_QTzb9tqU4=w408-h272-k-no",
+    "kgmid": "/g/11h0ycn32h",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "330 River St, Cambridge, MA 02139",
+    "neighborhood": "Cambridgeport",
+    "street": "330 River St",
+    "city": "Cambridge",
+    "postalCode": "02139",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-330+river+st-cambridge-ma-02139/id=19487",
+    "phone": "(617) 492-9030",
+    "phoneUnformatted": "+16174929030",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3616493,
+      "lng": -71.1139366
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e379e20bc9d7b7:0x2681e1baf969a77f",
+    "cid": "2774747038601553791",
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJt9fJC-J544kRf6dp-brhgSY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO1qb57rj3TVIyXmI4lQROai09_x2UJwMFRUEau=w525-h240-k-no",
+    "kgmid": "/g/11vyr1vhy1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "215 Alewife Brook Pkwy, Cambridge, MA 02138",
+    "neighborhood": "Cambridge Highlands",
+    "street": "215 Alewife Brook Pkwy",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/215-alewife-brook-parkway-cambridge-ma-02138/storeid=1022?WT.mc_id=LS_GOOGLE_RX_1022",
+    "phone": "(617) 661-6422",
+    "phoneUnformatted": "+16176616422",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3899962,
+      "lng": -71.1438304
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3770a168758c9:0x65f6734e62b5cc5d",
+    "cid": "7347186622602267741",
+    "reviewsCount": 23,
+    "imagesCount": 37,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:42.854Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJyViHFgp344kRXcy1Yk5z9mU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@15.950682338564983,145.98964455624315,13z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN0-RVYgUuNCR3Vk-TC60diDYRKfnofWRz_wCAX=w408-h272-k-no",
+    "kgmid": "/g/11bwn4sfdc",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Canadian Pharmacy Medstore",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "840 Memorial Dr, Cambridge, MA 02139, United States",
+    "neighborhood": "Riverside",
+    "street": "840 Memorial Dr",
+    "city": "Cambridge",
+    "postalCode": "02139",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.ceruleanrx.com/",
+    "phone": "+1 774-301-8007",
+    "phoneUnformatted": "+17743018007",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.3631407,
+      "lng": -71.1151393
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3775f4afff651:0x11327ee496affb94",
+    "cid": "1239192367726066580",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:48.948Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Canadian%20Pharmacy%20Medstore&query_place_id=ChIJUfb_Sl9344kRlPuvluR-MhE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@67.82214549246302,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ykTtfph7mRTbQtY9tGqj7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.13843&pitch=0&thumbfov=100",
+    "kgmid": "/g/11v5jkr9nk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rebecca C. Wilcox, BS",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1613 Cambridge St, Cambridge, MA 02138, United States",
+    "neighborhood": "Mid-Cambridge",
+    "street": "1613 Cambridge St",
+    "city": "Cambridge",
+    "postalCode": "02138",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "phone": "+1 617-354-5600",
+    "phoneUnformatted": "+16173545600",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.374948,
+      "lng": -71.1089458
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37745f8e00cad:0x457520b882f0dd1a",
+    "cid": "5004942537735068954",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:42:48.948Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rebecca%20C.%20Wilcox%2C%20BS&query_place_id=ChIJrQzg-EV344kRGt3wgrggdUU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@67.82214549246302,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ThLKsFFT7ilkF9EL4fkyPw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=11.7894125&pitch=0&thumbfov=100",
+    "kgmid": "/g/1hc3krpdm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy Services at Boston Medical Center \u2013 Brighton",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "736 Cambridge St, Brighton, MA 02135",
+    "neighborhood": "Brighton",
+    "street": "736 Cambridge St",
+    "city": "Brighton",
+    "postalCode": "02135",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.bmchealthsystem.org/bmc-brighton",
+    "phone": "(617) 789-3000",
+    "phoneUnformatted": "+16177893000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3489271,
+      "lng": -71.1476565
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3783578e565ad:0xe9352061dd644981",
+    "cid": "16804373189301127553",
+    "reviewsCount": 2,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:23.758Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Services%20at%20Boston%20Medical%20Center%20%E2%80%93%20Brighton&query_place_id=ChIJrWXleDV444kRgUlk3WEgNek",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsXPzg1WFEyrwg1YFNM4frp_ClmBciSXN8oDCW=w408-h285-k-no",
+    "kgmid": "/g/1tj6vv6g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Maida Pharmacy Compounding and Wellness",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "121 Massachusetts Ave #127, Arlington, MA 02474",
+    "neighborhood": null,
+    "street": "121 Massachusetts Ave #127",
+    "city": "Arlington",
+    "postalCode": "02474",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.maidapharmacy.com/",
+    "phone": "(781) 643-7840",
+    "phoneUnformatted": "+17816437840",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4041071,
+      "lng": -71.1397912
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e37701e3f0dd0f:0x4360b6b339ec343b",
+    "cid": "4855081279192577083",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:24.433Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Maida%20Pharmacy%20Compounding%20and%20Wellness&query_place_id=ChIJD93w4wF344kROzTsObO2YEM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOkNfqxShZAfsPNs0YEbgp5lBBUODGJxKSlesda=w426-h240-k-no",
+    "kgmid": "/g/1vlqr6k1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gary Drug Co.",
+    "description": "Enduring, family-run pharmacy offering medical & beauty supplies, plus wheelchair sales & rentals.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "59 Charles St, Boston, MA 02114",
+    "neighborhood": "Beacon Hill",
+    "street": "59 Charles St",
+    "city": "Boston",
+    "postalCode": "02114",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.garydrug.com/",
+    "phone": "(617) 227-0023",
+    "phoneUnformatted": "+16172270023",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3577638,
+      "lng": -71.0701236
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Medical supply store",
+      "Wheelchair rental service",
+      "Wheelchair store"
+    ],
+    "fid": "0x89e3709ee6e09685:0xd1c20ee17f5cf8ed",
+    "cid": "15114659661076035821",
+    "reviewsCount": 54,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 47
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:24.433Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gary%20Drug%20Co.&query_place_id=ChIJhZbg5p5w44kR7fhcf-EOwtE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqH-Fzzsb24vCQ1tqxYwCjAUnKdmRf4bKAlwCsh62foDPRJ-Bu_oczuiuuzgN8Ys2NtH_FXX1E4q-SPr4xi5FyGyyAIuBJ9xE4E9F1gyJ4vLxhx4GFEXN8sJvfJ-uwaMMEMF2bO=w408-h306-k-no",
+    "kgmid": "/g/1tfrnbrp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "BRIGHTON PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1690 Commonwealth Ave, Brighton, MA 02135",
+    "neighborhood": "Brighton",
+    "street": "1690 Commonwealth Ave",
+    "city": "Brighton",
+    "postalCode": "02135",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "phone": "(617) 322-0077",
+    "phoneUnformatted": "+16173220077",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3412646,
+      "lng": -71.1463986
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e378483a6c9fd5:0xdb0ecacf6bc4a968",
+    "cid": "15784776736195258728",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 8
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:24.434Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BRIGHTON%20PHARMACY&query_place_id=ChIJ1Z9sOkh444kRaKnEa8_KDts",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP16SjQ5kf_XlmmvxSe-ubnHTQUjk2yVCFAg72u=w426-h240-k-no",
+    "kgmid": "/g/11b6sc_yb0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Central Pharmacy Boston",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1349 Commonwealth Ave, Boston, MA 02134",
+    "neighborhood": "Allston",
+    "street": "1349 Commonwealth Ave",
+    "city": "Boston",
+    "postalCode": "02134",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://centralpharmacyboston.com/",
+    "phone": "(617) 254-5900",
+    "phoneUnformatted": "+16172545900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3484795,
+      "lng": -71.13578
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e3785c91260085:0x7c10ff3bf3fbcaff",
+    "cid": "8939925893291952895",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:24.434Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Central%20Pharmacy%20Boston&query_place_id=ChIJhQAmkVx444kR_8r78zv_EHw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npx8oDrWMs6l6TSAMiT0zizeod1SYGNc09-6X_DedBHTcVlUBD_HJbP9dWuRp2E3b-lcWiUxVKCWbxuEkH9VW_X4ld4f2Z-YSfmwAGfYEgE7nmY7bCXausjYXEumkIPD0tspZ-W=w408-h306-k-no",
+    "kgmid": "/g/11c1ws5wh5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "36 White St, Cambridge, MA 02140",
+    "neighborhood": "Porter Square",
+    "street": "36 White St",
+    "city": "Cambridge",
+    "postalCode": "02140",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cambridge-ma-pharmacies/36-white-street-cambridge-ma-02140/storeid=717?WT.mc_id=LS_GOOGLE_FS_717",
+    "phone": "(617) 876-5519",
+    "phoneUnformatted": "+16178765519",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.3888772,
+      "lng": -71.1189443
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89e3773da7a0ae23:0xc60452f536df2b53",
+    "cid": "14268620732557634387",
+    "reviewsCount": 164,
+    "reviewsDistribution": {
+      "oneStar": 70,
+      "twoStar": 6,
+      "threeStar": 6,
+      "fourStar": 13,
+      "fiveStar": 69
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:43:24.434Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJI66gpz1344kRUyvfNvVSBMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cambridge%20MA/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cambridge MA",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrqKDObgd9bV23_q8b6mIyE6Cuz-HvoFnoHZvD0-iJ4wbCriufLF0yASbeuCx07BXoZcyHYZbp0pv5sDvB6ZXQ7Rmn2lkmrPFFB22gY-INoCChXcklJek-0DR3NDKNe7mXEMqceFA=w408-h306-k-no",
+    "kgmid": "/g/1hm27fk20",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

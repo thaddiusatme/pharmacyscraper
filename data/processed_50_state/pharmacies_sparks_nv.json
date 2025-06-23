@@ -1,0 +1,2977 @@
+[
+  {
+    "title": "Comm. Hlth Alliance-sparks Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Plaza 800, 2244 Oddie Blvd, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "Plaza 800, 2244 Oddie Blvd",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(775) 997-7303",
+    "phoneUnformatted": "+17759977303",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 39.5466839,
+      "lng": -119.7731887
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809938b09709f1ed:0xd688a5fe5ea68fdb",
+    "cid": "15458788232877477851",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.160Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Comm.%20Hlth%20Alliance-sparks%20Pharmacy&query_place_id=ChIJ7fEJl7A4mYAR24-mXv6liNY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xEJ3vgYhY8fwO_bQJx-hAA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=183.6898&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p_1zgd3h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Valley Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5055 Sun Valley Blvd Suite 210, Sun Valley, NV 89433",
+    "neighborhood": null,
+    "street": "5055 Sun Valley Blvd Suite 210",
+    "city": "Sun Valley",
+    "postalCode": "89433",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.valleydrugstore.com/",
+    "phone": "(775) 200-0945",
+    "phoneUnformatted": "+17752000945",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5761794,
+      "lng": -119.7815296
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8099387c459312c5:0xde2d3e73f72994de",
+    "cid": "16009520918160839902",
+    "reviewsCount": 154,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.162Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Pharmacy&query_place_id=ChIJxRKTRXw4mYAR3pQp93M-Ld4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2V7xcligDEUWT9kwqimsRpvDFeDyWf_OFFUF5=w408-h644-k-no",
+    "kgmid": "/g/11g9nt720r",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1255 Baring Blvd, Sparks, NV 89434",
+    "neighborhood": null,
+    "street": "1255 Baring Blvd",
+    "city": "Sparks",
+    "postalCode": "89434",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00357?cid=loc_70600357P_gmb",
+    "phone": "(775) 359-6900",
+    "phoneUnformatted": "+17753596900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5547184,
+      "lng": -119.7221938
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x80993935aba26529:0x91d3a6eddd2d4a6e",
+    "cid": "10507925896133692014",
+    "reviewsCount": 25,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.162Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJKWWiqzU5mYARbkot3e2m05E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr5Yu_POn3ye81su2Zzx1DlawXwzhyGn29CZT92py_qoZxKyJ6kMYaLtDfq1rBWaTN6l-zmnZOLF8Q_XgY5nbbWwIG2rMLCgcFloSRlKBIKax_fmVuEDrtA9ey2a87AnV0CrF4=w426-h240-k-no",
+    "kgmid": "/g/1yfj6q8kk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5151 Sparks Blvd, Sparks, NV 89436",
+    "neighborhood": null,
+    "street": "5151 Sparks Blvd",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/sparks-nv-pharmacies/5151-sparks-blvd-sparks-nv-89436/storeid=4691?WT.mc_id=LS_GOOGLE_RX_4691",
+    "phone": "(775) 626-7445",
+    "phoneUnformatted": "+17756267445",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5863714,
+      "lng": -119.7250012
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8099390bd804a881:0xb058c7858dd28de7",
+    "cid": "12707125725049818599",
+    "reviewsCount": 33,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.163Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJgagE2As5mYAR543SjYXHWLA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNpduFJfhLLpvQV-KBlVyJl6wiKywoe9wwTshh6=w408-h272-k-no",
+    "kgmid": "/g/11c468860v",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2878 Vista Blvd, Sparks, NV 89434",
+    "neighborhood": null,
+    "street": "2878 Vista Blvd",
+    "city": "Sparks",
+    "postalCode": "89434",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/sparks-nv-pharmacies/2878-vista-blvd-sparks-nv-89434/storeid=3948?WT.mc_id=LS_GOOGLE_RX_3948",
+    "phone": "(775) 356-9708",
+    "phoneUnformatted": "+17753569708",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5566897,
+      "lng": -119.703781
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80993eacc5d2fa5f:0x46a3dec6b883aadd",
+    "cid": "5090156948939320029",
+    "reviewsCount": 17,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.163Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJX_rSxaw-mYAR3aqDuMbeo0Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPfgUSvy1YsH91Y2wAXDTZs6_pkQW2PK285IDS0=w408-h272-k-no",
+    "kgmid": "/g/11c467_sqv",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "680 N McCarran Blvd, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "680 N McCarran Blvd",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/sparks-nv-pharmacies/680-n-mccarran-blvd-mccarran-and-prater-sparks-nv-89431/storeid=8792?WT.mc_id=LS_GOOGLE_RX_8792",
+    "phone": "(775) 359-6808",
+    "phoneUnformatted": "+17753596808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.540738,
+      "lng": -119.7318358
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80993ed010da54bd:0xa10f8b32c2551a93",
+    "cid": "11605647814882040467",
+    "reviewsCount": 32,
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.163Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJvVTaENA-mYARkxpVwjKLD6E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOmNrbC9_DbDm5w3QRXzB_qQltmYPKy7Tpbdl_h=w408-h272-k-no",
+    "kgmid": "/g/11c46b9mzy",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "9705 Pyramid Way, Sparks, NV 89441",
+    "neighborhood": null,
+    "street": "9705 Pyramid Way",
+    "city": "Sparks",
+    "postalCode": "89441",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-9705+pyramid+way-sparks-nv-89441/id=12540",
+    "phone": "(775) 425-9400",
+    "phoneUnformatted": "+17754259400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.6392679,
+      "lng": -119.7121476
+    },
+    "totalScore": 2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8099375b38c53aa9:0x108fe74f3b91c830",
+    "cid": "1193426753764313136",
+    "reviewsCount": 12,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.163Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJqTrFOFs3mYARMMiRO0_njxA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOMxQ82Gvk_Ru6GHmXZyVGpEizsypdRDvQsXPNM=w525-h240-k-no",
+    "kgmid": "/g/11cn941zs7",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Raley's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2895 N McCarran Blvd, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "2895 N McCarran Blvd",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://raleys.com/",
+    "phone": "(775) 353-8818",
+    "phoneUnformatted": "+17753538818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5552586,
+      "lng": -119.7541687
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809938c4d379d995:0x676d4ec746dbcfb8",
+    "cid": "7452699576162308024",
+    "reviewsCount": 14,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.164Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Raley's%20Pharmacy&query_place_id=ChIJldl508Q4mYARuM_bRsdObWc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqoJJ1K3TL6H3LGvsCrL21dq1lHhG6mmpCtSfOAQFL10e4-Q7pylOcsjCE3G3Esp4yuE9-I__MbmGynQJrc3kByeofvH7EvfIhrMIcvGGFnfO4fvudd7bCi5F_I6w8matjXKVSkaw=w408-h393-k-no",
+    "kgmid": "/g/1ptyyzgp4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Raley's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2389 Wingfield Hills Rd, Sparks, NV 89436",
+    "neighborhood": null,
+    "street": "2389 Wingfield Hills Rd",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "http://www.raleys.com/",
+    "phone": "(775) 626-7720",
+    "phoneUnformatted": "+17756267720",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.6078819,
+      "lng": -119.6993575
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80993988ffab6295:0xda9d541a2f361466",
+    "cid": "15752839543049819238",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.164Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Raley's%20Pharmacy&query_place_id=ChIJlWKr_4g5mYARZhQ2LxpUndo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.21166763186608,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-LoVM_q-4tqWd80UbrDf1xyDFO5oaZIFvOuncQTDleBQ96b_RYJibEwDGEsGRRztTNVXV5ni1FBmcny8Q1jjTtaHIN39nrvalJ0ZYKJpFU0WHvCfBiHGF0kj4kT59Ac3fhn09=w408-h544-k-no",
+    "kgmid": "/g/11fz2l7qy8",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.8,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Scolari's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "950 Holman Way, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "950 Holman Way",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "phone": "(775) 358-1515",
+    "phoneUnformatted": "+17753581515",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 39.5502889,
+      "lng": -119.754638
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809938ce2b6ba9af:0x527e6334d6bec204",
+    "cid": "5944297636767908356",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:31.455Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scolari's%20Pharmacy&query_place_id=ChIJr6lrK844mYARBMK-1jRjflI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@67.1273844227615,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=O2ALz7EdSXRYDFjMr6_HDQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=21.377155&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b66fv8zp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2299 Oddie Blvd, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "2299 Oddie Blvd",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2299+oddie+blvd-sparks-nv-89431/id=11227",
+    "phone": "(775) 358-4721",
+    "phoneUnformatted": "+17753584721",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5451352,
+      "lng": -119.7755269
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809938b04f5a4fa7:0xfba37d2e00deb991",
+    "cid": "18132474161260312977",
+    "reviewsCount": 17,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:32.617Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJp09aT7A4mYARkbneAC59o_s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@58.095490516641576,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-qGYokYFm0dTtyFJ7_9xIeO-u0CfKdI4UmUgL=w525-h240-k-no",
+    "kgmid": "/g/11cnbm1qst",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "680 N McCarran Blvd, Sparks, NV 89431",
+    "neighborhood": null,
+    "street": "680 N McCarran Blvd",
+    "city": "Sparks",
+    "postalCode": "89431",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/sparks-nv-pharmacies/680-n-mccarran-blvd-mccarran-and-prater-sparks-nv-89431/storeid=8792?WT.mc_id=LS_GOOGLE_FS_8792",
+    "phone": "(775) 359-6808",
+    "phoneUnformatted": "+17753596808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.540738,
+      "lng": -119.7318358
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x80993ed0174c4a33:0x26576238ddc7f3f4",
+    "cid": "2762784892793648116",
+    "reviewsCount": 154,
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:33.179Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJM0pMF9A-mYAR9PPH3ThiVyY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@54.6216851681339,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nra2WjOz5n_KEuvJC10T675hQvbb7KjFpsXWMD-UkN1YH58iEW0NIku5Cx6NVvyWFnckBHocD4v7KTqwTa-Lfb-sBx4c2vdqtW2rVp7CIEzqZRMZHg_QV-VzWq9kBug_QXaLYza=w426-h240-k-no",
+    "kgmid": "/g/1tfhzvfk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1550 E Lincoln Way, Sparks, NV 89434, United States",
+    "neighborhood": null,
+    "street": "1550 E Lincoln Way",
+    "city": "Sparks",
+    "postalCode": "89434",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/sparks-nv-pharmacies/1550-e-lincoln-way-sparks-nv-89434/storeid=17523?WT.mc_id=LS_GOOGLE_RX_17523",
+    "phone": "+1 775-332-1004",
+    "phoneUnformatted": "+17753321004",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5356879,
+      "lng": -119.7174467
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80993e95a0198419:0x68b750751ba3c19b",
+    "cid": "7545588164587667867",
+    "reviewsCount": 36,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:35.420Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJGYQZoJU-mYARm8GjG3VQt2g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.9064287015676,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFxKfWwuQdhR8P4DQWCuSYifECMY8G7h0wjaU4=w408-h272-k-no",
+    "kgmid": "/g/1vd71kws",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "292 Los Altos Pkwy, Sparks, NV 89436, United States",
+    "neighborhood": null,
+    "street": "292 Los Altos Pkwy",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-292+los+altos+pkwy-sparks-nv-89436/id=9902",
+    "phone": "+1 775-354-0104",
+    "phoneUnformatted": "+17753540104",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5842883,
+      "lng": -119.7399996
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80993900637e3717:0x2b603735b56490e5",
+    "cid": "3125558845211185381",
+    "reviewsCount": 10,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:35.420Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJFzd-YwA5mYAR5ZBktTU3YCs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@69.9064287015676,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDPDztLJkVkMs_Tzk0D20OPryHIbRbftPOYge3Jrzo5nCyml7x5SQU99bfds_wfm4yKIP8NoUOgOT79koz65RH7Tu5O1xZh4j6wTdUF77QCAPztzVXbokDR73rD_0PcWYhn-Chew=w426-h240-k-no",
+    "kgmid": "/g/11cn949vkp",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Independence Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1074 Idaho St Ste 150, Elko, NV 89801",
+    "neighborhood": null,
+    "street": "1074 Idaho St Ste 150",
+    "city": "Elko",
+    "postalCode": "89801",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://independencedrug.com/",
+    "phone": "(775) 264-4747",
+    "phoneUnformatted": "+17752644747",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8369344,
+      "lng": -115.7577507
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80a6072c196133e3:0x9bebb2143819111",
+    "cid": "702204343457255697",
+    "reviewsCount": 13,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.687Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Independence%20Drug&query_place_id=ChIJ4zNhGSwHpoAREZGBQyG7vgk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYudXVV1AFoFJWR1ozAWoGNaUWh2uwlZF7DdTZMHA4Eb3F20SFre6YKIs-FCwfjx-xxgYQtzdrg4wZZO1sHVgHh-N76w_Yp1aJL93VLkoOBJOza9840XyWFs0oDIBHJpNxlmx6=w408-h661-k-no",
+    "kgmid": "/g/11whm7y6hk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "3000 Vista Blvd, Sparks, NV 89436",
+    "neighborhood": null,
+    "street": "3000 Vista Blvd",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3000+vista+blvd-sparks-nv-89436/id=2474",
+    "phone": "(775) 359-7044",
+    "phoneUnformatted": "+17753597044",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5588649,
+      "lng": -119.7047098
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809939531cc8adcd:0x642e50b381386c0c",
+    "cid": "7218795984618810380",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.687Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJza3IHFM5mYARDGw4gbNQLmQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMtA2GjYNyeJDnFoMr0ey5eC7eYVZVUaMoI0Tom=w525-h240-k-no",
+    "kgmid": "/g/11cn93y9w4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2858 Vista Blvd, Sparks, NV 89434",
+    "neighborhood": null,
+    "street": "2858 Vista Blvd",
+    "city": "Sparks",
+    "postalCode": "89434",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/nv/sparks/2858-vista-blvd.html",
+    "phone": "(775) 352-8475",
+    "phoneUnformatted": "+17753528475",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5554779,
+      "lng": -119.7034525
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x80993eacf2403593:0xcd3e1232d9d26c7a",
+    "cid": "14789278235943398522",
+    "reviewsCount": 21,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.688Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:45 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJkzVA8qw-mYARemzS2TISPs0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPTHBCUZkaNo3MNNR5YXO094_ymUAj4JDYntt6E=w426-h240-k-no",
+    "kgmid": "/g/1tj96nxd",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "5065 Pyramid Way, Sparks, NV 89436",
+    "neighborhood": null,
+    "street": "5065 Pyramid Way",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/3729-sparks-nv/pharmacy/?veh=seo_loc",
+    "phone": "(775) 425-9331",
+    "phoneUnformatted": "+17754259331",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.5840611,
+      "lng": -119.7466126
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x809938559663c655:0x794290080624a60b",
+    "cid": "8737704591189386763",
+    "reviewsCount": 27,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.688Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJVcZjllU4mYARC6YkBgiQQnk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNK-xECVO_6kBTHLInTs_YuY06M0jz4LgUs18rg=w408-h306-k-no",
+    "kgmid": "/g/1tdks11f",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "9705 Pyramid Way, Sparks, NV 89441",
+    "neighborhood": null,
+    "street": "9705 Pyramid Way",
+    "city": "Sparks",
+    "postalCode": "89441",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-9705+pyramid+way-sparks-nv-89441/id=12540",
+    "phone": "(775) 425-9400",
+    "phoneUnformatted": "+17754259400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.6391349,
+      "lng": -119.7120548
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x8099375b21a02059:0x91232dd8551efa31",
+    "cid": "10458253166848703025",
+    "reviewsCount": 59,
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.688Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJWSCgIVs3mYARMfoeVdgtI5E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDhg4wgGr76_oSQbh047cZLEZQh0S98ZfeZpUJpjiAvY-VbTGHJfX0rKPoHd1rwXZ58694Ikwsb6srnu-cqueeMuzdZviSU8jM6gWAV4SvKAKnkMOEgFeyqIVBIs7q82mCBbsIvg=w408-h541-k-no",
+    "kgmid": "/g/1tx8tg5_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "3000 Vista Blvd, Sparks, NV 89436",
+    "neighborhood": null,
+    "street": "3000 Vista Blvd",
+    "city": "Sparks",
+    "postalCode": "89436",
+    "state": "Nevada",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3000+vista+blvd-sparks-nv-89436/id=2474",
+    "phone": "(775) 359-7044",
+    "phoneUnformatted": "+17753597044",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.558866,
+      "lng": -119.7047138
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x80993953031f9f8d:0x78d2c84775888bf7",
+    "cid": "8706241238900706295",
+    "reviewsCount": 69,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:45:58.688Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJjZ8fA1M5mYAR94uIdUfI0ng",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sparks%20NV/@42.54640259466427,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Sparks NV",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrxqE8HCypJJvSkoDL5Elr01_Yz0algQ2z0ICh_7tDi6aVO4_Br_UF21t7cp87Eg3w8ErE6pdqFLalxh0O4VipJ2u0Ta4Zpy5FAXtSGrBdNb643ut5QnFBsM1NUSTtVARVjGZI=w408-h725-k-no",
+    "kgmid": "/g/1tlbjtj4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

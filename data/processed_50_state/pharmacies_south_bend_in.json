@@ -1,0 +1,2526 @@
+[
+  {
+    "title": "South Bend Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "54590 N Ironwood Rd, South Bend, IN 46635",
+    "neighborhood": null,
+    "street": "54590 N Ironwood Rd",
+    "city": "South Bend",
+    "postalCode": "46635",
+    "state": "Indiana",
+    "countryCode": "US",
+    "phone": "(574) 968-3717",
+    "phoneUnformatted": "+15749683717",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.7007595,
+      "lng": -86.2160428
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816d280633c8e05:0x4b5fbc62fcf0ab59",
+    "cid": "5431266808968555353",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.884Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=South%20Bend%20Specialty%20Pharmacy&query_place_id=ChIJBY48Y4DSFogRWavw_GK8X0s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_T7x2NHJ7OB28g93pvfYmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=76.09139&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bx9xr0yj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Omnicare Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3006 S Michigan St, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "3006 S Michigan St",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.omnicare.com/",
+    "phone": "(574) 291-9974",
+    "phoneUnformatted": "+15742919974",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.6432672,
+      "lng": -86.2492064
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816ccc917411c45:0xf79a5dacf34eea78",
+    "cid": "17841675871179434616",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.886Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Omnicare%20Pharmacy&query_place_id=ChIJRRxBF8nMFogReOpO86xdmvc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i2N8yexxL-HOVNy6fcMU9Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=87.55915&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tvm3ckw",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The South Bend Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "211 N Eddy St, South Bend, IN 46617",
+    "neighborhood": "Northeast South Bend",
+    "street": "211 N Eddy St",
+    "city": "South Bend",
+    "postalCode": "46617",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "http://southbendclinic.com/",
+    "phone": "(574) 237-9295",
+    "phoneUnformatted": "+15742379295",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.6781584,
+      "lng": -86.2363648
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cd1559602e0d:0xd4db2b87e94fbe17",
+    "cid": "15337900818675252759",
+    "reviewsCount": 15,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.886Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20South%20Bend%20Clinic%20Pharmacy&query_place_id=ChIJDS5gWRXNFogRF75P6Ycr29Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nEz8PnOn4PraeAE8r3KCSw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=185.78568&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b7rnf5bt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "University Commons Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6301 University Commons, South Bend, IN 46635",
+    "neighborhood": null,
+    "street": "6301 University Commons",
+    "city": "South Bend",
+    "postalCode": "46635",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://uc-pharmacy.com/",
+    "phone": "(574) 273-2000",
+    "phoneUnformatted": "+15742732000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7184183,
+      "lng": -86.1949119
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816d24000ca84a1:0xe55322f8b2142ab6",
+    "cid": "16524589909287381686",
+    "reviewsCount": 98,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.886Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=University%20Commons%20Pharmacy&query_place_id=ChIJoYTKAEDSFogRtioUsvgiU-U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP8oLODZjgbE3hsydCvz3L2wPT6L0s6AC1zahE=w408-h306-k-no",
+    "kgmid": "/g/1z4507rp5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1010 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "1010 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1010+e+ireland+rd-south+bend-in-46614/id=3437",
+    "phone": "(574) 299-0154",
+    "phoneUnformatted": "+15742990154",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.628927,
+      "lng": -86.2354417
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store"
+    ],
+    "fid": "0x8816cc981a9498c3:0x3cb3cfd7fac45cd2",
+    "cid": "4374068189638974674",
+    "reviewsCount": 28,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.886Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJw5iUGpjMFogR0lzE-tfPszw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqO-Omr6oJgU2-7_WgW3I6uVHmCJSTj59MylzYmPk9yESl_CehsBfD75XwIy_MsgXRNv1uqsb6bIw9eQlLPbR2bebKqM4gwder3ZZ9-WqPS9jWNFbcE6C8O1w8w5apAbKDY9-aH1A=w408-h544-k-no",
+    "kgmid": "/g/11y3p9c6f3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "2101 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "2101 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-bend-in-pharmacies/2101-east-ireland-rd-south-bend-in-46614/storeid=6487?WT.mc_id=LS_GOOGLE_FS_6487",
+    "phone": "(574) 291-1303",
+    "phoneUnformatted": "+15742911303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6299549,
+      "lng": -86.2144956
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 1.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8816cc887d51b313:0x7f57c3b1f6ba7398",
+    "cid": "9176017934906717080",
+    "reviewsCount": 119,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.886Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20138\u202fPM"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJE7NRfYjMFogRmHO69rHDV38",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqrouzXpUkiD_AC24SCQkiDxJysO7t_pBCS_0B9SEHhzykLvhUD9TXWvPYukVD6-hd0BgkkVabTvK0cFuDTX3jIqZcYqEmcmOVDXwPywZsoh_XbQ04MZpwl7-stbrUtxqpl0fs=w558-h240-k-no",
+    "kgmid": "/g/1tsykt0_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "HEALTHY U RX INC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "201 S William St, South Bend, IN 46601",
+    "neighborhood": "West Washington",
+    "street": "201 S William St",
+    "city": "South Bend",
+    "postalCode": "46601",
+    "state": "Indiana",
+    "countryCode": "US",
+    "phone": "(574) 472-7881",
+    "phoneUnformatted": "+15744727881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6745836,
+      "lng": -86.2564117
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cdf70733657d:0x2c32d2dd152b919b",
+    "cid": "3184839733489144219",
+    "reviewsCount": 25,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=HEALTHY%20U%20RX%20INC&query_place_id=ChIJfWUzB_fNFogRm5ErFd3SMiw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2akq5k-bcZ6XF4K1bUCwmQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=277.4377&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hfjqr8q7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1010 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "1010 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1010+e+ireland+rd-south+bend-in-46614/id=3437",
+    "phone": "(574) 299-0154",
+    "phoneUnformatted": "+15742990154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6289143,
+      "lng": -86.2353373
+    },
+    "locatedIn": "Walgreens Photo",
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cc981a96acc3:0x128e4fe83be699f8",
+    "cid": "1337093998231591416",
+    "reviewsCount": 164,
+    "imagesCount": 50,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJw6yWGpjMFogR-JnmO-hPjhI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzj2gUGvfyDgoR4KeJ52RBEKi0iP25lseebwaqlxrdHLGaUvjN8NfHOio71MC5jPvjs2CxUzwY4rM9HNzgxp6kEnZFXTukTOCC2ilTc_-J9DuU8iZpP04-PopiavZ8UGuaWLUpsw=w408-h306-k-no",
+    "kgmid": "/g/11cn93hgwx",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Martin's Super Market Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "926 Erskine Plz, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "926 Erskine Plz",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.martinsgroceriestogo.com/pharmacy",
+    "phone": "(574) 299-8844",
+    "phoneUnformatted": "+15742998844",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6270348,
+      "lng": -86.2373302
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8816cca2602638ad:0x146657eb78c0aca6",
+    "cid": "1469958997237869734",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Martin's%20Super%20Market%20Pharmacy&query_place_id=ChIJrTgmYKLMFogRpqzAeOtXZhQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gf9yzzbxOEOcUv6sG07RAQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.19643&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tnjv4mg1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Memorial Hospital Outpatient Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "100 E Navarre St Suite 1150, South Bend, IN 46601",
+    "neighborhood": "Near Northwest",
+    "street": "100 E Navarre St Suite 1150",
+    "city": "South Bend",
+    "postalCode": "46601",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://locations.beaconhealthsystem.org/in/south-bend/memorial-team-pharmacy?y_source=1_MjY4NTcwMTctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(574) 647-3534",
+    "phoneUnformatted": "+15746473534",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6830724,
+      "lng": -86.2514562
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cd43a5f2cc35:0x772f7e665accb7b7",
+    "cid": "8588221992493954999",
+    "reviewsCount": 3,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Memorial%20Hospital%20Outpatient%20Pharmacy&query_place_id=ChIJNczypUPNFogRt7fMWmZ-L3c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5gog_ALdchA7rQ3F3JPbQhF1rDH2lDoItOzSm=w408-h408-k-no",
+    "kgmid": "/g/11qh5h6c5g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Beacon Home Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3355 Douglas Rd, South Bend, IN 46635",
+    "neighborhood": null,
+    "street": "3355 Douglas Rd",
+    "city": "South Bend",
+    "postalCode": "46635",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://locations.beaconhealthsystem.org/in/south-bend/beacon-home-care-pharmacy?y_source=1_OTg1NDcwNi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "(574) 647-8550",
+    "phoneUnformatted": "+15746478550",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7099248,
+      "lng": -86.2008538
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816d26e7a2b2703:0xc83cf4f9e42b94ce",
+    "cid": "14428676660300321998",
+    "reviewsCount": 34,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12\u202fPM, 12:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12\u202fPM, 12:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12\u202fPM, 12:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12\u202fPM, 12:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12\u202fPM, 12:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beacon%20Home%20Care%20Pharmacy&query_place_id=ChIJAycrem7SFogRzpQr5Pn0PMg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPNibVoVeOgHgx_ERQuKy8u9Xu7j9vPwmIvZe6Q=w408-h306-k-no",
+    "kgmid": "/g/1td2hj5f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "52482 State Hwy 933, South Bend, IN 46637",
+    "neighborhood": null,
+    "street": "52482 State Hwy 933",
+    "city": "South Bend",
+    "postalCode": "46637",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-52482+indiana+state+route+933-south+bend-in-46637/id=11085",
+    "phone": "(574) 271-0357",
+    "phoneUnformatted": "+15742710357",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7307644,
+      "lng": -86.2496924
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x8816d2d1ecd38f57:0x76a260301ce6f907",
+    "cid": "8548500802462218503",
+    "reviewsCount": 47,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.887Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 12\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201312\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJV4_T7NHSFogRB_nmHDBgonY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM5Bl-2yiB6od4t-8vNcaYBQkj0BPgsA6qJQnboOZi5yCjg8lbV7J_5G4B96bGBykIB_lMVPN9CiAiftEHn2ZhaP9jYG3_W2rskTYcTjDlcxXdoaaFVAoEqofYAqQkxD1z_3Y4=w408-h544-k-no",
+    "kgmid": "/g/1tjbssbg",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2101 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "2101 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-bend-in-pharmacies/2101-east-ireland-rd-south-bend-in-46614/storeid=6487?WT.mc_id=LS_GOOGLE_RX_6487",
+    "phone": "(574) 291-1303",
+    "phoneUnformatted": "+15742911303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6299549,
+      "lng": -86.2144956
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cc62c076fc2b:0x6a8687f669ed17a0",
+    "cid": "7675972107308439456",
+    "reviewsCount": 23,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.888Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJK_x2wGLMFogRoBftafaHhmo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOajsyR4I_XfZNnrgMK1xAefiJJ4Oree-JdRjrK=w408-h272-k-no",
+    "kgmid": "/g/11c463h4rg",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "South Bend Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "101 Willapa Ave, South Bend, WA 98586",
+    "neighborhood": null,
+    "street": "101 Willapa Ave",
+    "city": "South Bend",
+    "postalCode": "98586",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.southbendpharmacy.com/",
+    "phone": "(360) 875-5757",
+    "phoneUnformatted": "+13608755757",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.6658616,
+      "lng": -123.8116547
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop"
+    ],
+    "fid": "0x5493b1a397bea163:0x89109e35813dbbc0",
+    "cid": "9876567935462259648",
+    "reviewsCount": 19,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.888Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=South%20Bend%20Pharmacy&query_place_id=ChIJY6G-l6Oxk1QRwLs9gTWeEIk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNULyxXFskzIJfRY4hs2BAPUl77At0l7ceDZc5UiXqksuFq1v7gox6dN-bi3Tam7MDdrQUUogeZy67qOlalbTbjVauHjOuuR-D5_TAqn2hIIMp3-aWvzxQcY3CeRFq9nWwBzpyJQ=w408-h306-k-no",
+    "kgmid": "/g/1tf6gbn4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1400 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": "Scottsdale",
+    "street": "1400 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-bend-in-pharmacies/1400-e-ireland-rd-south-bend-in-46614/storeid=17021?WT.mc_id=LS_GOOGLE_RX_17021",
+    "phone": "(574) 231-8258",
+    "phoneUnformatted": "+15742318258",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6273845,
+      "lng": -86.2290537
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8816cc8ffe0e1ec9:0xf0226d2519f40c26",
+    "cid": "17303512724427508774",
+    "reviewsCount": 28,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.888Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJyR4O_o_MFogRJgz0GSVtIvA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQMFPk_0bLy361Uawvwt4OtKENJyV6-owFqKNy=w408-h272-k-no",
+    "kgmid": "/g/1thzphsf",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "210 N Main St, Mishawaka, IN 46544",
+    "neighborhood": null,
+    "street": "210 N Main St",
+    "city": "Mishawaka",
+    "postalCode": "46544",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/mishawaka-in-pharmacies/210-n-main-st-mishawaka-in-46544/storeid=6464?WT.mc_id=LS_GOOGLE_FS_6464",
+    "phone": "(574) 259-1130",
+    "phoneUnformatted": "+15742591130",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6624373,
+      "lng": -86.1801824
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8816cdd3fbe68a0b:0x1787cba4a24ea040",
+    "cid": "1695547692686417984",
+    "reviewsCount": 88,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.888Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "UPS Access Point location": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20137\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJC4rm-9PNFogRQKBOoqTLhxc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np4MytRiXo9Lffw1ieTkpKl01xA5p0YDIMvzrxcARF4stzIWM1OHdaZtWQrMyF4lBypz3AOEyoVQMawj_P5P7zsVNVAaUVdHHLqvagfEIm_hgCPaW-arNbdwTth3oHEZiz2Bd4M=w408-h315-k-no",
+    "kgmid": "/g/1tt8cwl2",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Kroger Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1217 E Ireland Rd, South Bend, IN 46614",
+    "neighborhood": null,
+    "street": "1217 E Ireland Rd",
+    "city": "South Bend",
+    "postalCode": "46614",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.kroger.com/rx/pharmacy/details/021/00903?cid=loc_02100903P_gmb",
+    "phone": "(574) 291-0740",
+    "phoneUnformatted": "+15742910740",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.6304681,
+      "lng": -86.2320703
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x8816cc9758227eb7:0xb8822fae8bc22be9",
+    "cid": "13295241476666698729",
+    "reviewsCount": 20,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:16:38.888Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kroger%20Pharmacy&query_place_id=ChIJt34iWJfMFogR6SvCi64vgrg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Bend%20IN/@65.73786228335844,-163.4677018424355,9z?hl=en",
+    "searchString": "independent pharmacy South Bend IN",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMloq4PpxiqrL5OTUeV88PZFVs6uVgq59Dcg4-7=w426-h240-k-no",
+    "kgmid": "/g/1tkf1l9r",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

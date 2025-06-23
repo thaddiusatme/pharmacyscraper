@@ -1,0 +1,1977 @@
+[
+  {
+    "title": "Iman's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2360 E 12th St, Kansas City, MO 64127",
+    "neighborhood": "Northeast Kansas City",
+    "street": "2360 E 12th St",
+    "city": "Kansas City",
+    "postalCode": "64127",
+    "state": "Missouri",
+    "countryCode": "US",
+    "phone": "(816) 569-6310",
+    "phoneUnformatted": "+18165696310",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0991903,
+      "lng": -94.5540803
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0fbc8b1e2a299:0x81fceb9e25d69ecd",
+    "cid": "9366620389495971533",
+    "reviewsCount": 28,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.966Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Iman's%20Pharmacy&query_place_id=ChIJmaLiscj7wIcRzZ7WJZ7r_IE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJfpUdUa5CCZQiLI6-IGCeLnLccDckGcTku3iH=w408-h306-k-no",
+    "kgmid": "/g/11hdp7ry7x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rockhill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4240 SW Trafficway, Kansas City, MO 64111",
+    "neighborhood": "Volker",
+    "street": "4240 SW Trafficway",
+    "city": "Kansas City",
+    "postalCode": "64111",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "https://www.rockhillpharmacy.com/",
+    "phone": "(816) 799-0123",
+    "phoneUnformatted": "+18167990123",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0511146,
+      "lng": -94.5977768
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0efce62dd1789:0x716d4f427d7fb01",
+    "cid": "510829752858704641",
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rockhill%20Pharmacy&query_place_id=ChIJiRfdYs7vwIcRAfvXJ_TUFgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIghuMPIjM6ua4d60EyoggiN0t2EeO-6xZintX=w408-h272-k-no",
+    "kgmid": "/g/11ckqr7sjg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Albers Medical Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4400 Broadway St #106, Kansas City, MO 64111",
+    "neighborhood": "Plaza Westport",
+    "street": "4400 Broadway St #106",
+    "city": "Kansas City",
+    "postalCode": "64111",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://www.alberspharmacy.com/",
+    "phone": "(816) 931-0100",
+    "phoneUnformatted": "+18169310100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.047298,
+      "lng": -94.591809
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0efc6422b75e5:0x22471381c223d156",
+    "cid": "2469964368664842582",
+    "reviewsCount": 41,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albers%20Medical%20Pharmacy&query_place_id=ChIJ5XUrQsbvwIcRVtEjwoETRyI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3xDLVHqg7rfTunGgoEa0HSJiPoQoWqsaBwqk5xXdGtuW9tdGydbU2nUN8aS-ehAHnxfHOba6PuwImRh9qRhYOJcXRz56bQnUQDJHqUIERx23ewtk8yEBYWFOMudc8gFTUZRMe=w426-h240-k-no",
+    "kgmid": "/g/1tg6l1wm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Spalitto's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3801 Independence Ave, Kansas City, MO 64124",
+    "neighborhood": "Northeast Kansas City",
+    "street": "3801 Independence Ave",
+    "city": "Kansas City",
+    "postalCode": "64124",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://www.spalittospharmacy.com/",
+    "phone": "(816) 231-4717",
+    "phoneUnformatted": "+18162314717",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.1055003,
+      "lng": -94.5369434
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c0faf5d4746e19:0x49553a14f01b882e",
+    "cid": "5284193599391238190",
+    "reviewsCount": 115,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spalitto's%20Pharmacy&query_place_id=ChIJGW501PX6wIcRLogb8BQ6VUk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nonvAnzi3a234K9bNsK7hNXrbvq4Nx1WUraz-hQbATWMjZXrv45YuYRyv8FX3RiznwtxFoMlk1yDVIYFjyvoh_Z65Frg1wBMlWyUNd_XSfgKJ4wuth2ZR9HTlbFJVTbylByz61g=w426-h240-k-no",
+    "kgmid": "/g/1tj85c8p",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "KC CARE Health Center - Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3507 Broadway Blvd, Kansas City, MO 64111",
+    "neighborhood": "Hanover Place",
+    "street": "3507 Broadway Blvd",
+    "city": "Kansas City",
+    "postalCode": "64111",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "https://kccare.org/services/pharmacy/",
+    "phone": "(816) 777-2709",
+    "phoneUnformatted": "+18167772709",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0635912,
+      "lng": -94.5900837
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0efd440e99085:0xba2a13c96c24b50c",
+    "cid": "13414556195900142860",
+    "reviewsCount": 14,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.968Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KC%20CARE%20Health%20Center%20-%20Pharmacy&query_place_id=ChIJhZDpQNTvwIcRDLUkbMkTKro",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNx07TArsBwvTspjg1MGH7ZUWFcDk5l1HfnYPPA=w408-h272-k-no",
+    "kgmid": "/g/11kjptcblf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Crown Center Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2450 Grand Blvd, Kansas City, MO 64108",
+    "neighborhood": "Downtown Kansas City",
+    "street": "2450 Grand Blvd",
+    "city": "Kansas City",
+    "postalCode": "64108",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://crowncenter.com/",
+    "phone": "(816) 471-2027",
+    "phoneUnformatted": "+18164712027",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 39.0829871,
+      "lng": -94.5827657
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store"
+    ],
+    "fid": "0x87c0f0157737c5c5:0x408b05d336a8df55",
+    "cid": "4650817444903444309",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Crown%20Center%20Apothecary&query_place_id=ChIJxcU3dxXwwIcRVd-oNtMFi0A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7WgjsBHo74JaH-UqO5HcK6i_QS1wkP9stDEVCeWuLqnqjRBDiBcIPTUr31C9o6RiK5fZDUj-6gOpagw_mGY-x6NB6jVAw441aU1Cx-1wuHgwK2ca_5kRmB70DhKLYMFVw7o0M=w408-h306-k-no",
+    "kgmid": "/g/1vn19174",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Medicine Shoppe Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6523 Parallel Pkwy, Kansas City, KS 66102",
+    "neighborhood": "Coronado",
+    "street": "6523 Parallel Pkwy",
+    "city": "Kansas City",
+    "postalCode": "66102",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.medicineshoppe.com/find-a-pharmacy",
+    "phone": "(913) 788-3344",
+    "phoneUnformatted": "+19137883344",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.1282286,
+      "lng": -94.7303294
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c08cb3a80c553b:0x8be9e1b827c42bc8",
+    "cid": "10081837421902965704",
+    "reviewsCount": 29,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:18.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Medicine%20Shoppe%20Pharmacy&query_place_id=ChIJO1UMqLOMwIcRyCvEJ7jh6Ys",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=occUjVROpsJ8R1KoMk5QCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=186.31456&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfb2j36",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "O'Brien Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5453 W 61st Pl, Mission, KS 66205",
+    "neighborhood": null,
+    "street": "5453 W 61st Pl",
+    "city": "Mission",
+    "postalCode": "66205",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.obrienrx.com/",
+    "phone": "(913) 322-0001",
+    "phoneUnformatted": "+19133220001",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0171242,
+      "lng": -94.6477517
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Homeopathic pharmacy",
+      "Nutritionist",
+      "Pain control clinic"
+    ],
+    "fid": "0x87c0ec2bad66c1df:0x560f2b6450dd5e7d",
+    "cid": "6201222921765871229",
+    "reviewsCount": 37,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:30.527Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=O'Brien%20Pharmacy&query_place_id=ChIJ38FmrSvswIcRfV7dUGQrD1Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@58.095490516641576,-134.6977272005368,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBs1yUQIPBboQmyjSnkbucSu0zL5g0v79Iy3Pb=w408-h272-k-no",
+    "kgmid": "/g/1v1vdqdm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy of Grace",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "721 N 31 St #100, Kansas City, KS 66102",
+    "neighborhood": "Kensington",
+    "street": "721 N 31 St #100",
+    "city": "Kansas City",
+    "postalCode": "66102",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://pharmacyofgrace.org/",
+    "phone": "(913) 953-8260",
+    "phoneUnformatted": "+19139538260",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.1137371,
+      "lng": -94.6636857
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0f379f71dbe1b:0xee123509ea2b482",
+    "cid": "1072177015456707714",
+    "reviewsCount": 34,
+    "imagesCount": 29,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:30.527Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 12:30\u202fPM, 1 to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20of%20Grace&query_place_id=ChIJG74d93nzwIcRgrSinlAj4Q4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@58.095490516641576,-134.6977272005368,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO8M5BJS7JYB4Quy0JlXGgPX0_eLAIy6BZvLaEc=w425-h240-k-no",
+    "kgmid": "/g/11t86wv8mm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Phillips Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2101 NW Platte Rd, Riverside, MO 64150",
+    "neighborhood": null,
+    "street": "2101 NW Platte Rd",
+    "city": "Riverside",
+    "postalCode": "64150",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://www.phillipsfamilypharmacy.com/",
+    "phone": "(816) 569-2125",
+    "phoneUnformatted": "+18165692125",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.167905,
+      "lng": -94.6057468
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0f6e09aeb1541:0x9e36a55ff46af023",
+    "cid": "11400481338276114467",
+    "reviewsCount": 67,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:59:30.527Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Phillips%20Family%20Pharmacy&query_place_id=ChIJQRXrmuD2wIcRI_Bq9F-lNp4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@58.095490516641576,-134.6977272005368,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOiUWQ4t_U_eHMKyFrG6XiygBqCnTc7O73h86gK=w408-h276-k-no",
+    "kgmid": "/g/11b8jd34df",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "LEIGHR PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1170 W Kansas St ste k, Liberty, MO 64068, United States",
+    "neighborhood": null,
+    "street": "1170 W Kansas St ste k",
+    "city": "Liberty",
+    "postalCode": "64068",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://leighrpharmacy.com/",
+    "phone": "+1 816-736-4232",
+    "phoneUnformatted": "+18167364232",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.2451952,
+      "lng": -94.4408003
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c05582e87575b9:0xb8ef3931f38b2413",
+    "cid": "13325932709114749971",
+    "reviewsCount": 44,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:00:33.403Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LEIGHR%20PHARMACY&query_place_id=ChIJuXV16IJVwIcREySL8zE577g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@63.4816040992648,-172.11313138426246,11z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPXrYIT67sv-zURtS5e1myhyK1mrpPxTxOJtxgC=w493-h240-k-no",
+    "kgmid": "/g/11fy_qplk_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "University Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "UH 1, 2101 Charlotte St Suite 150, Kansas City, MO 64108",
+    "neighborhood": "Downtown Kansas City",
+    "street": "UH 1, 2101 Charlotte St Suite 150",
+    "city": "Kansas City",
+    "postalCode": "64108",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "https://www.universityhealthkc.org/services/pharmacy/",
+    "phone": "(816) 404-4200",
+    "phoneUnformatted": "+18164044200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0866891,
+      "lng": -94.5742701
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0f14b7c5eda45:0x20e6c4f7851b654b",
+    "cid": "2370798821226276171",
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:00:48.025Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=University%20Health%20Pharmacy&query_place_id=ChIJRdpefEvxwIcRS2UbhffE5iA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@60.874534795447715,-161.1661038710836,9z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO02Z7Ueqzti3p-Nv-bNQxr1uxxTLfi3-_Y3NEU=w426-h240-k-no",
+    "kgmid": "/g/11r8phk1v4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Stark Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5701 W 119th St Suite 125, Overland Park, KS 66209",
+    "neighborhood": "Menorah Park",
+    "street": "5701 W 119th St Suite 125",
+    "city": "Overland Park",
+    "postalCode": "66209",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://starkpharmacy.com/",
+    "phone": "(913) 345-3800",
+    "phoneUnformatted": "+19133453800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9111135,
+      "lng": -94.6523808
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c0ea197073c011:0x3a0df604a4ba0bb4",
+    "cid": "4183270128701017012",
+    "reviewsCount": 51,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:01:25.115Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stark%20Pharmacy&query_place_id=ChIJEcBzcBnqwIcRtAu6pAT2DTo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@39.68245004733214,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqH-nTLi6aFNk5O7uFaYSjYEMgJH_Yu8Ilx2Ek0xd1HEVOrR1m6W-sgG84sBCMkghBagPBV7YV4Ky9-Zm7QTkEYkcUTMvBvfMMCY82uc2Xtyii6AghOZkmKMFxEyN-V2k_gt7o=w472-h240-k-no",
+    "kgmid": "/g/1tg8k7jz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sterling Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3338 NE Ralph Powell Rd Suite E, Lee's Summit, MO 64064",
+    "neighborhood": null,
+    "street": "3338 NE Ralph Powell Rd Suite E",
+    "city": "Lee's Summit",
+    "postalCode": "64064",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/sterling-retail-kc-lees-summit-mo-64064/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2648131",
+    "phone": "(816) 788-7928",
+    "phoneUnformatted": "+18167887928",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.972508,
+      "lng": -94.360654
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c11c5521f2afef:0xbe62106037b3d3b0",
+    "cid": "13718545420361388976",
+    "reviewsCount": 15,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:01:25.115Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sterling%20Pharmacy&query_place_id=ChIJ76_yIVUcwYcRsNOzN2AQYr4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@39.68245004733214,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgb6iIkCrPWq13tKpdhksTWxTlfV9FX-LnpSuPGDhIZN7a2uQD4iBYkkkYvRUOFoCK66er5kw843a1IPEBf0aOlTE3sfiBz-rP81OxW_r9DCT9a0uVjnGISfq8fqFVnvINEOvx=w408-h725-k-no",
+    "kgmid": "/g/11gfgpg04z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Joseph Medical Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1000 Carondelet Dr # 120, Kansas City, MO 64114",
+    "neighborhood": "Country Lane Estates",
+    "street": "1000 Carondelet Dr # 120",
+    "city": "Kansas City",
+    "postalCode": "64114",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "https://www.stjosephkc.com/Our-Services/Additional-Services/Outpatient-Pharmacy.aspx",
+    "phone": "(816) 943-4879",
+    "phoneUnformatted": "+18169434879",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 38.9358677,
+      "lng": -94.604709
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0e8552efcd08f:0x13040b385fe464a6",
+    "cid": "1370232523382351014",
+    "reviewsCount": 11,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:01:25.115Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Joseph%20Medical%20Center%20Pharmacy&query_place_id=ChIJj9D8LlXowIcRpmTkXzgLBBM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@39.68245004733214,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrQkiTV1-4wqppg7X6UyLAkoUAivMmjpOi81YLirt8zsGzzOa2EdyxmA2o-qHti8wj0oDB73CoUMk4I9zDuOumqRu8q8itbK9RNk4uertbfgTy0KkqJNeJUT7OHdAe_-bOXQAKL=w477-h240-k-no",
+    "kgmid": "/g/1wc31s3_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Saint Luke's South Pharmacy-Mission Farms",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4061 Indian Creek Pkwy ste 120, Overland Park, KS 66207",
+    "neighborhood": "Mission Farms",
+    "street": "4061 Indian Creek Pkwy ste 120",
+    "city": "Overland Park",
+    "postalCode": "66207",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.saintlukeskc.org/locations/saint-lukes-pharmacies?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+    "phone": "(913) 323-4777",
+    "phoneUnformatted": "+19133234777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.933925,
+      "lng": -94.6315926
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0e99c5ce93c1d:0xf2e74ffb50e9942a",
+    "cid": "17503046417611592746",
+    "reviewsCount": 20,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:01:25.115Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Saint%20Luke's%20South%20Pharmacy-Mission%20Farms&query_place_id=ChIJHTzpXJzpwIcRKpTpUPtP5_I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Kansas%20City%20MO/@39.68245004733214,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Kansas City MO",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMl8jro1CsmaqnKeGI_EP0lJr0OWceJkQJGLGSS=w426-h240-k-no",
+    "kgmid": "/g/11fz9x7cw8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

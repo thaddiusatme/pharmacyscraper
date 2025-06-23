@@ -1,0 +1,2148 @@
+[
+  {
+    "title": "Northern Light Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "364 State St, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "364 State St",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Our-System/Northern-Light-Pharmacy/Locations/StateStreet",
+    "phone": "(207) 947-8369",
+    "phoneUnformatted": "+12079478369",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8080049,
+      "lng": -68.7550914
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4b5115e57553:0x1357a2e37da8c8ed",
+    "cid": "1393761707643947245",
+    "reviewsCount": 125,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northern%20Light%20Pharmacy&query_place_id=ChIJU3XlFVFLrkwR7ciofeOiVxM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrG2NSvg_IxV0TAaBQzv_UNk4bmTlOhCnPdGQjYQqiI1bCxHClN_wof-Os15GIesxA2lZRXYqFYunlONV0kBxgNlLTQvjf6KvK2hi3GWhQH5RiTl8oyd1Fzp02P0ZulPBjxE29yw=w408-h306-k-no",
+    "kgmid": "/g/1tc_w5ts",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bangor Drug Company",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "711 Broadway Suite 1, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "711 Broadway Suite 1",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.bangordrug.com/pharmacies/bangor-drug-company-bangor-me-04401/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2010053",
+    "phone": "(207) 922-3849",
+    "phoneUnformatted": "+12079223849",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8251326,
+      "lng": -68.7800045
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cafb56c0f9b9a71:0xa462ad2351789f16",
+    "cid": "11845220337140145942",
+    "reviewsCount": 33,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.532Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "French": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bangor%20Drug%20Company&query_place_id=ChIJcZqbD2y1r0wRFp94USOtYqQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqB3yyZkyWhO_Gg0WrLzuKLJ-sR3sQE4-yg7l-lNM_Hh5GP9AnHtsNFqwBOZcSqil840bgwa92dFoKqVarxjBYOYIh9lYXwFvhD9r2ze4oOPekYLhi-fVhpeYCr-TJ5vNYPltRJ=w408-h306-k-no",
+    "kgmid": "/g/11h75r4v27",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Northern Light Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Webber Building, 417 State St Floor 1, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "Webber Building, 417 State St Floor 1",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Our-System/Northern-Light-Pharmacy/Locations/Riverside",
+    "phone": "(207) 973-8888",
+    "phoneUnformatted": "+12079738888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8075315,
+      "lng": -68.7542073
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4b5547eef14f:0x11852846558dd5c1",
+    "cid": "1262459553095472577",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.532Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northern%20Light%20Pharmacy&query_place_id=ChIJT_HuR1VLrkwRwdWNVUYohRE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrew6NIk2a-jOhCRNMv_rAwCyrqjPHX5dPhKNArS838-lgSjeA4Nia18IGjLBmCsvvypgEhvd5yYQqtnkMR2TwjHqObfplC93PKWbT_1qMdDvXC24Gld0Hwf-p4Db1irH60RScN=w408-h306-k-no",
+    "kgmid": "/g/1tl0wyl9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Northern Light Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Westgate Entrance B, 915 Union St #7, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "Westgate Entrance B, 915 Union St #7",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Our-System/Northern-Light-Pharmacy/Locations/Westgate",
+    "phone": "(207) 973-6788",
+    "phoneUnformatted": "+12079736788",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8146678,
+      "lng": -68.8021114
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4ad407b79333:0xc2d445bbb426a563",
+    "cid": "14038922610904311139",
+    "reviewsCount": 25,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.532Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northern%20Light%20Pharmacy&query_place_id=ChIJM5O3B9RKrkwRY6UmtLtF1MI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7PeTedyHGJX2JUoAo1D3pwTzj05xfDBFAZMfo=w408-h408-k-no",
+    "kgmid": "/g/1tfrrhzv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Shaw's Pharmacy",
+    "description": "Supermarket chain offering meat, produce, staples, deli & bakery items (some with pharmacies).",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "353 Main St, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "353 Main St",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.shaws.com/me/bangor/353-main-st.html",
+    "phone": "(207) 945-6550",
+    "phoneUnformatted": "+12079456550",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.7942438,
+      "lng": -68.7761614
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cae4b68084b778b:0xbca9a42950f1dacb",
+    "cid": "13594577447553194699",
+    "reviewsCount": 24,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaw's%20Pharmacy&query_place_id=ChIJi3dLCGhLrkwRy9rxUCmkqbw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOrCZWVblYlL7dpai55CR6GX1247XcME32UfB9u=w426-h240-k-no",
+    "kgmid": "/g/1vpq6h0f",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Northern Light Pharmacy - Mail Order",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "70 Bennett St, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "70 Bennett St",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Locations/Northern-Light-Pharmacy",
+    "phone": "(207) 275-3300",
+    "phoneUnformatted": "+12072753300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.7886661,
+      "lng": -68.8343086
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4dbced97cd95:0xf3e616ee278186a1",
+    "cid": "17574759807980766881",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northern%20Light%20Pharmacy%20-%20Mail%20Order&query_place_id=ChIJlc2X7bxNrkwRoYaBJ-4W5vM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "kgmid": "/g/11h3t2lz5j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PCHC - Penobscot Community Health Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1012 Union St, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "1012 Union St",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://pchc.com/services/pharmacy/",
+    "phone": "(207) 992-4100",
+    "phoneUnformatted": "+12079924100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8149766,
+      "lng": -68.8091386
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4ad420b8ef8f:0xb6f764b96f6bf85e",
+    "cid": "13184117181751490654",
+    "reviewsCount": 20,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PCHC%20-%20Penobscot%20Community%20Health%20Center%20Pharmacy&query_place_id=ChIJj--4INRKrkwRXvhrb7lk97Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzwhFqX7I9kvm8xItgCN8bsGDV0uolbiONCLp4=w408-h272-k-no",
+    "kgmid": "/g/1wc30vcp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "42 Cedar St, Bangor, ME 04402",
+    "neighborhood": null,
+    "street": "42 Cedar St",
+    "city": "Bangor",
+    "postalCode": "04402",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.genoahealthcare.com/",
+    "phone": "(207) 404-2536",
+    "phoneUnformatted": "+12074042536",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.7968888,
+      "lng": -68.7750285
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4b7ae05f98cb:0x8dc934baca94c03a",
+    "cid": "10216755206533988410",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJy5hf4HpLrkwROsCUyro0yY0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fd_-C590LePjckdNspcReQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=252.3416&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fj47fd2m",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "60 Longview Dr, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "60 Longview Dr",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bangor-me-pharmacies/60-longview-dr-bangor-me-04401/storeid=16975?WT.mc_id=LS_GOOGLE_RX_16975",
+    "phone": "(207) 945-9977",
+    "phoneUnformatted": "+12079459977",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8419534,
+      "lng": -68.7423313
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cafb48f4c099201:0x193cfde667d359d3",
+    "cid": "1818607515577047507",
+    "reviewsCount": 61,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJAZIJTI-0r0wR01nTZ-b9PBk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMO6HK9UsfM6KKkrzBRFgnR85qSh5ScR8pKTtFL=w408-h272-k-no",
+    "kgmid": "/g/1tfrlyg8",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "653 Broadway, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "653 Broadway",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/me/bangor/8107",
+    "phone": "(207) 947-3680",
+    "phoneUnformatted": "+12079473680",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8252029,
+      "lng": -68.7774342
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cafb4cfa7179a69:0xf05b07069ee50c36",
+    "cid": "17319444517000383542",
+    "reviewsCount": 21,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:11.533Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJaZoXp8-0r0wRNgzlngYHW_A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@64.94267025847846,-168.54704213226182,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqixrPpBhbQSUzUy2PIhvoM2XgJJH6WwQVfHSm51LNVR_AKdjDH84wTAYxD8WLw5Qfkfjo5q_JYIgFpl43y1A3WwpPy98NHszA7-8iNLa7ZTAiLbOkB-tI3uHHnzUvqZaCeq-bG=w408-h306-k-no",
+    "kgmid": "/g/1vm_xgt9",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1133 Union St, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "1133 Union St",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/me/bangor/8109",
+    "phone": "(207) 945-3772",
+    "phoneUnformatted": "+12079453772",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8188676,
+      "lng": -68.8122225
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4ad258ed58fb:0x75abfe210d3a67e8",
+    "cid": "8479150141364398056",
+    "reviewsCount": 21,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:13.971Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJ-1jtWNJKrkwR6Gc6DSH-q3U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@66.43262335305997,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWxKMAkRUxF9umIWBJlMQ_urd54P_0uOagETlM2eXZzQtnO_Pm4WMAflgO5iVJgE-MCQrBjwKHnp3ztKSE2C6SnKUYhpvV7ezgq44XTFLC5QxFC0JULxExF5wGfJ-xYedXFYf-=w426-h240-k-no",
+    "kgmid": "/g/1tczdhkr",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sam's Club Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "47 Haskell Rd, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "47 Haskell Rd",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.samsclub.com/local/pharmacy/bangor-me-sams-club/6333",
+    "phone": "(207) 945-9723",
+    "phoneUnformatted": "+12079459723",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.829832,
+      "lng": -68.7374884
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cafb49e5861ae0d:0x541c626658a3d37e",
+    "cid": "6060827390247162750",
+    "reviewsCount": 4,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:24.523Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sam's%20Club%20Pharmacy&query_place_id=ChIJDa5hWJ60r0wRftOjWGZiHFQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@60.17977372574618,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMOeR2SJ2F8i_ugJ1zRt8HSckeIkIHXnCH6PNSI=w408-h272-k-no",
+    "kgmid": "/g/11b66d_k2r",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Miller Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "33 Whiting Hill Rd, Brewer, ME 04412",
+    "neighborhood": null,
+    "street": "33 Whiting Hill Rd",
+    "city": "Brewer",
+    "postalCode": "04412",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Our-System/Northern-Light-Pharmacy/Locations/WhitingHill",
+    "phone": "(207) 947-8369",
+    "phoneUnformatted": "+12079478369",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.770446,
+      "lng": -68.7284553
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cae4cfebc9053b9:0xf844dce6482ee018",
+    "cid": "17889666501434073112",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:29.321Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Miller%20Drug&query_place_id=ChIJuVOQvP5MrkwRGOAuSObcRPg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@-11.259521065084295,-171.1468150485474,13z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PoxGT5Sr3vI9PErsoDsEyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=251.88887&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hzyt7bds",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "900 Stillwater Ave, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "900 Stillwater Ave",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/1856-bangor-me/pharmacy/?veh=seo_loc",
+    "phone": "(207) 947-5811",
+    "phoneUnformatted": "+12079475811",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8399858,
+      "lng": -68.7492866
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cafb48e59797a3d:0xba0e93401741124c",
+    "cid": "13406815044205875788",
+    "reviewsCount": 25,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:10:57.426Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJPXp5WY60r0wRTBJBF0CTDro",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@59.485012656044645,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMhgdQ0PtTFuMWmaqcOyzvcEup41o20y8WU3TMk=w408-h306-k-no",
+    "kgmid": "/g/1tgf7d08",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "706 Broadway, Bangor, ME 04401",
+    "neighborhood": null,
+    "street": "706 Broadway",
+    "city": "Bangor",
+    "postalCode": "04401",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-706+broadway-bangor-me-04401/id=11285",
+    "phone": "(207) 262-0190",
+    "phoneUnformatted": "+12072620190",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.8244475,
+      "lng": -68.7811208
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cafb5f9291d0c4f:0xcd652e031a86073a",
+    "cid": "14800286341287774010",
+    "reviewsCount": 0,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:00.396Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJTwwdKfm1r0wROgeGGgMuZc0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@60.71475349352679,-173.20649518568482,12z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMFfpGTGbFuvWmKPjLLUcSyaVCoUnTtsSAMitcC=w525-h240-k-no",
+    "kgmid": "/g/11y676z4l9",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Wind Gap Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "31 W 1st St, Wind Gap, PA 18091, United States",
+    "neighborhood": null,
+    "street": "31 W 1st St",
+    "city": "Wind Gap",
+    "postalCode": "18091",
+    "state": "Pennsylvania",
+    "countryCode": "US",
+    "website": "http://windgapcommunity.com/",
+    "phone": "+1 610-881-4260",
+    "phoneUnformatted": "+16108814260",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8399277,
+      "lng": -75.297145
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Delivery service",
+      "Medical supply store"
+    ],
+    "fid": "0x89c467542bab0a5f:0x5ddcc330872fce2e",
+    "cid": "6763495353597546030",
+    "reviewsCount": 173,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:13.394Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wind%20Gap%20Community%20Pharmacy&query_place_id=ChIJXwqrK1RnxIkRLs4vhzDD3F0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@39.68245004733214,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOAbNVDvKgG4ZJQKqH9hQYP2dFEEDEyCSHsgmCW=w408-h544-k-no",
+    "kgmid": "/g/11fnc9yrcr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hebert Rexall Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "31 Main St, Van Buren, ME 04785, United States",
+    "neighborhood": "Van Buren",
+    "street": "31 Main St",
+    "city": "Van Buren",
+    "postalCode": "04785",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/hebert-rexall-pharmacy-van-buren-me-04785/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2003387",
+    "phone": "+1 207-868-2242",
+    "phoneUnformatted": "+12078682242",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.1544947,
+      "lng": -67.9321131
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cbcde35c69ee3b7:0x48ca8efba0d54d0a",
+    "cid": "5245161927412632842",
+    "reviewsCount": 21,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:19.987Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hebert%20Rexall%20Pharmacy&query_place_id=ChIJt-OexjXevEwRCk3VoPuOykg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bangor%20ME/@48.27430768932854,-67.48871611494522,8z?hl=en",
+    "searchString": "independent pharmacy Bangor ME",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zEiIYFiFS2uQ-vCwg6BLVA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=233.7803&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tflxhn4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

@@ -1,0 +1,2577 @@
+[
+  {
+    "title": "Bismarck Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1325 57th Ave NE, Bismarck, ND 58503",
+    "neighborhood": null,
+    "street": "1325 57th Ave NE",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.bismarckpharmacy.com/",
+    "phone": "(701) 415-7013",
+    "phoneUnformatted": "+17014157013",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8656287,
+      "lng": -100.7707057
+    },
+    "plusCode": "V68H+7P Bismarck, North Dakota",
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d77939dc32a8ff:0xe45bf83fbe2bbcc1",
+    "cid": "16455018616185404609",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 16
+    },
+    "imagesCount": 6,
+    "imageCategories": [
+      "All",
+      "By owner",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T09:11:12.529Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Gateway Pharmacy North",
+        "reviewsCount": 43,
+        "totalScore": 4.6
+      },
+      {
+        "category": "People also search for",
+        "title": "Costco Pharmacy",
+        "reviewsCount": 13,
+        "totalScore": 4.6
+      },
+      {
+        "category": "People also search for",
+        "title": "Professional Pharmacy",
+        "reviewsCount": 2,
+        "totalScore": 5
+      },
+      {
+        "category": "People also search for",
+        "title": "CVS Pharmacy",
+        "reviewsCount": 16,
+        "totalScore": 2.9
+      },
+      {
+        "category": "People also search for",
+        "title": "Dakota Pharmacy",
+        "reviewsCount": 29,
+        "totalScore": 4.4
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "prices",
+        "count": 3
+      },
+      {
+        "title": "dog",
+        "count": 2
+      },
+      {
+        "title": "prescription",
+        "count": 2
+      },
+      {
+        "title": "questions",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bismarck%20Pharmacy&query_place_id=ChIJ_6gy3Dl511IRwbwrvj_4W-Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@70.60118977126913,-148.50731502864818,9z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYzMwZ_JJXc_DFAI45TTOSczqmEPTa3lnLegr_=w408-h306-k-no",
+    "kgmid": "/g/11qkv6c13q",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Heritage Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "401 N 9th St, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "401 N 9th St",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.heritagerx.org/middakota/",
+    "phone": "+1 701-530-6050",
+    "phoneUnformatted": "+17015306050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8089604,
+      "lng": -100.7780648
+    },
+    "locatedIn": "Essentia Health-Mid Dakota Bismarck 9th St Clinic",
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d7831a066004e3:0x273467d8935b24f5",
+    "cid": "2824997046150964469",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 13
+    },
+    "imagesCount": 2,
+    "imageCategories": [
+      "All",
+      "By owner",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T09:11:29.938Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Dakota Pharmacy",
+        "reviewsCount": 29,
+        "totalScore": 4.4
+      },
+      {
+        "category": "People also search for",
+        "title": "Sanford Bismarck Retail Pharmacy",
+        "reviewsCount": 17,
+        "totalScore": 4.2
+      },
+      {
+        "category": "People also search for",
+        "title": "Bismarck Pharmacy",
+        "reviewsCount": 17,
+        "totalScore": 4.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Mayo Pharmacy",
+        "reviewsCount": 31,
+        "totalScore": 4.7
+      },
+      {
+        "category": "People also search for",
+        "title": "Gateway Pharmacy North",
+        "reviewsCount": 43,
+        "totalScore": 4.6
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "chose",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heritage%20Pharmacy&query_place_id=ChIJ4wRgBhqD11IR9SRbk9hnNCc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@68.51690656216455,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM1twKiCayfo0otKUr8Ya1liWaTUZGBmmKJGIho=w408-h408-k-no",
+    "kgmid": "/g/1tlqpn54",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Medicine Shoppe",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1304 E Boulevard Ave, Bismarck, ND 58501",
+    "neighborhood": null,
+    "street": "1304 E Boulevard Ave",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://bismarck.medicineshoppe.com/",
+    "phone": "(701) 224-0175",
+    "phoneUnformatted": "+17012240175",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8167831,
+      "lng": -100.7720796
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d7830252748aa7:0x7042561a568a28b9",
+    "cid": "8089122551831865529",
+    "reviewsCount": 25,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:11:44.535Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medicine%20Shoppe&query_place_id=ChIJp4p0UgKD11IRuSiKVhpWQnA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@62.95881800455232,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqnUfRArYIbtMIhUTnQ4noHmfeK_7jFOnwx5qDoslYZBKR-98sFiIX5DmQe7pc2iuDW3pytt3RfCcn3jW1r5YRNbXUCJII8jVigaMqpGgciqpo7RmQbC95rfHHXJOgOQoxdtCivCA=w408-h272-k-no",
+    "kgmid": "/g/1tfchdxv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sanford Bismarck Retail Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "300 N 7th St, Bismarck, ND 58501",
+    "neighborhood": null,
+    "street": "300 N 7th St",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.sanfordhealth.org/locations/sanford-health-pharmacy/?yxt_info=sanford-location-584fb91d-e95a-4854-b1a2-7ea05e3b8b8d&y_source=1_MTA2MTkwMDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(701) 323-6099",
+    "phoneUnformatted": "+17013236099",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.807586,
+      "lng": -100.7827131
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783a9a9e02181:0xd9f296e92cd69291",
+    "cid": "15704780778818146961",
+    "reviewsCount": 17,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:11:44.535Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sanford%20Bismarck%20Retail%20Pharmacy&query_place_id=ChIJgSHgqamD11IRkZLWLOmW8tk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@62.95881800455232,-154.26130995702792,9z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPwwpvWdPfUJR0clZ466uCgSXDnTipvwPNyZaTB=w411-h240-k-no",
+    "kgmid": "/g/11gw23c458",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "North Dakota Pharmacy Services Corporation",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1641 Capitol Way, Bismarck, ND 58501",
+    "neighborhood": null,
+    "street": "1641 Capitol Way",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "phone": "(701) 258-4922",
+    "phoneUnformatted": "+17012584922",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8300337,
+      "lng": -100.7669644
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d78251685e808b:0xd518e24e90bf153c",
+    "cid": "15355271756583474492",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:10.178Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Dakota%20Pharmacy%20Services%20Corporation&query_place_id=ChIJi4BeaFGC11IRPBW_kE7iGNU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@59.485012656044645,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Lj1uI8rjM1Ha7swLOqlzNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.7869&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdbkn5z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dakota Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "705 E Main Ave, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "705 E Main Ave",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.dakotarx.com/",
+    "phone": "+1 701-255-1881",
+    "phoneUnformatted": "+17012551881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.805053,
+      "lng": -100.781316
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x52d783165068eaf5:0x6aa409ae7755d6d0",
+    "cid": "7684277509131982544",
+    "reviewsCount": 29,
+    "imagesCount": 44,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakota%20Pharmacy&query_place_id=ChIJ9epoUBaD11IR0NZVd64JpGo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSYwxfHoPQmkE8kuiyLGG6Zf76cYRO8TWXNIGU=w408-h306-k-no",
+    "kgmid": "/g/1tjxf9m3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Pharmacy North",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3101 N 11th St #2, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "3101 N 11th St #2",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.gatewaypharmacy.com/",
+    "phone": "+1 701-224-9521",
+    "phoneUnformatted": "+17012249521",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8397819,
+      "lng": -100.7748149
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d7824baf4f6caf:0x8c08209f6e18a9f0",
+    "cid": "10090350834242595312",
+    "reviewsCount": 43,
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Pharmacy%20North&query_place_id=ChIJr2xPr0uC11IR8KkYbp8gCIw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM2qdMzWqNxItfyd-6xpbnjZaS74HtXa19-Snag=w472-h240-k-no",
+    "kgmid": "/g/1ttq1rwv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mayo Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "303 N 4th St, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "303 N 4th St",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.mayopharmacynd.com/",
+    "phone": "+1 701-223-2424",
+    "phoneUnformatted": "+17012232424",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.807768,
+      "lng": -100.785938
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783138ab7f173:0x53e9a8161477944f",
+    "cid": "6046548787507729487",
+    "reviewsCount": 31,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mayo%20Pharmacy&query_place_id=ChIJc_G3ihOD11IRT5R3FBao6VM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npASRAZbBHlm_8mpFJNeLBctpNdf9V5Jzpnuui4x3WEAWopGEfsZZk9zzAVgaveFDFtIzvrlR5pWL8fhSX4zcQPN1QTsvj3Rw0mCTAZRvOjH_oIg8jWH8SkYZHpimYyaYgivK3CQg=w408-h306-k-no",
+    "kgmid": "/g/1tgfpsl1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Churchill Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1190 W Turnpike Ave, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "1190 W Turnpike Ave",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.churchillpharmacy.com/",
+    "phone": "+1 701-224-0339",
+    "phoneUnformatted": "+17012240339",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8264291,
+      "lng": -100.8128574
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x52d78384d6822b75:0x5f5d3b2e3d7a11d1",
+    "cid": "6871713676223189457",
+    "reviewsCount": 33,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Churchill%20Pharmacy&query_place_id=ChIJdSuC1oSD11IR0RF6PS47XV8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3Tc4S1WPSOuxve-ONQQiwiEvwUFLzYA5qT0on=w408-h306-k-no",
+    "kgmid": "/g/1tknk2mq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Pharmacy South",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "835 S Washington St # 2, Bismarck, ND 58504, United States",
+    "neighborhood": null,
+    "street": "835 S Washington St # 2",
+    "city": "Bismarck",
+    "postalCode": "58504",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.gatewaypharmacy.com/",
+    "phone": "+1 701-223-1656",
+    "phoneUnformatted": "+17012231656",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.7966751,
+      "lng": -100.7922122
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x52d783447283b8c3:0xca8f2fb7d9f563bc",
+    "cid": "14595937384013325244",
+    "reviewsCount": 57,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Pharmacy%20South&query_place_id=ChIJw7iDckSD11IRvGP12bcvj8o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP7zffpee-LqPFkwmU2dpYainYlzGfDuWz3mpwP=w426-h240-k-no",
+    "kgmid": "/g/1whdh_pm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Pharmacy Sunrise",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3103 Yorktown Dr, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "3103 Yorktown Dr",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.gatewaypharmacy.com/",
+    "phone": "+1 701-425-0789",
+    "phoneUnformatted": "+17014250789",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8402873,
+      "lng": -100.7276076
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d782778d3e1a13:0xf17d78a76ffed0e3",
+    "cid": "17401197195763306723",
+    "reviewsCount": 27,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Pharmacy%20Sunrise&query_place_id=ChIJExo-jXeC11IR49D-b6d4ffE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOmBg5cEJ-OBUu48Eh7m4xvsh9oPzJo8ylJNajp=w408-h306-k-no",
+    "kgmid": "/g/11cm0gzs9h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CHI St. Alexius Health Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "310 N 10th St, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "310 N 10th St",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.chistalexiushealth.org/services/pharmacy",
+    "phone": "+1 701-530-6906",
+    "phoneUnformatted": "+17015306906",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8079077,
+      "lng": -100.7776606
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783176556e4f5:0x59d87831b2745f04",
+    "cid": "6474056619187789572",
+    "reviewsCount": 8,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "7:30\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7:30\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7:30\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7:30\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "7:30\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20134\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHI%20St.%20Alexius%20Health%20Community%20Pharmacy&query_place_id=ChIJ9eRWZReD11IRBF90sjF42Fk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOR5EbjjpJmYCcqt0D_9f5B6TiaO3VsGxDyzeTt=w426-h240-k-no",
+    "kgmid": "/g/1tfchdxz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3124 Colorado Ln #400, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "3124 Colorado Ln #400",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "phone": "+1 701-223-6854",
+    "phoneUnformatted": "+17012236854",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8410159,
+      "lng": -100.7517943
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d78269106ef219:0x3db4295113538f6a",
+    "cid": "4446224160314855274",
+    "reviewsCount": 2,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Professional%20Pharmacy&query_place_id=ChIJGfJuEGmC11IRao9TE1EptD0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfRqDcxlD6O9tah1go-jLthn1n32gTlKIcdJQQ=w720-h240-k-no",
+    "kgmid": "/g/1tg4whdw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Dakota PrecisionRx Labs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "705 E Main Ave, Bismarck, ND 58501, United States",
+    "neighborhood": null,
+    "street": "705 E Main Ave",
+    "city": "Bismarck",
+    "postalCode": "58501",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://precisionrxlabs.com/",
+    "phone": "+1 701-222-3360",
+    "phoneUnformatted": "+17012223360",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.805,
+      "lng": -100.7811007
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Laboratory",
+      "Medical laboratory"
+    ],
+    "fid": "0x52d783165068eaf5:0x60a343bcb28074df",
+    "cid": "6963483926572594399",
+    "reviewsCount": 1,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakota%20PrecisionRx%20Labs&query_place_id=ChIJ9epoUBaD11IR33SAsrxDo2A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSQ5RfNIsAWoUqzyfJcmmFvZgkX3cyHInx9fkV=w408-h306-k-no",
+    "kgmid": "/g/1tg9mstw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Thrifty White Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "900 43rd Ave NE, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "900 43rd Ave NE",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.thriftywhite.com/",
+    "phone": "+1 701-258-3736",
+    "phoneUnformatted": "+17012583736",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8535815,
+      "lng": -100.7775105
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783b9aaa831b9:0xbe80c98d68864c2a",
+    "cid": "13727193273406475306",
+    "reviewsCount": 13,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Thrifty%20White%20Pharmacy&query_place_id=ChIJuTGoqrmD11IRKkyGaI3JgL4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nofTSGn_cRkaCY6pKeBbYe76ixaFxGbhCDgN2jIhoKtWaMhOtYelnoyPOkFw4aHkD4C3aENuqY-i3JjY6SntroKJeV9-YByFAjXzM6-5fPmtx6Bw1s3QdyhIgRI8uYe9dh3rUXosg=w408-h259-k-no",
+    "kgmid": "/g/11h35pgxg0",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1225 E Calgary Ave, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "1225 E Calgary Ave",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bismarck-nd-pharmacies/1225-e-calgary-ave-state-street-and-e-calgary-ave-bismarck-nd-58503/storeid=8614?WT.mc_id=LS_GOOGLE_RX_8614",
+    "phone": "+1 701-223-9323",
+    "phoneUnformatted": "+17012239323",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8446511,
+      "lng": -100.7713686
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d78236460d64a9:0x37430276cefa6979",
+    "cid": "3982029204827564409",
+    "reviewsCount": 19,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJqWQNRjaC11IReWn6znYCQzc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPVfWbnJN7LN62j3s6hJFr_YWkGYKwBOYuTmthB=w408-h272-k-no",
+    "kgmid": "/g/11c2pv7wn1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "525 S 3rd St, Bismarck, ND 58504, United States",
+    "neighborhood": null,
+    "street": "525 S 3rd St",
+    "city": "Bismarck",
+    "postalCode": "58504",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bismarck-nd-pharmacies/525-south-3rd-st-bismarck-nd-58504/storeid=8628?WT.mc_id=LS_GOOGLE_RX_8628",
+    "phone": "+1 701-255-1335",
+    "phoneUnformatted": "+17012551335",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8005937,
+      "lng": -100.7871419
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d7833f9b285317:0x8fbdcb9b1cbc45fe",
+    "cid": "10357658585084478974",
+    "reviewsCount": 16,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.996Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJF1Momz-D11IR_kW8HJvLvY8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0lmnSE1JhEcRh48JcmEm-WUajIR5cFCXhYoyO=w408-h272-k-no",
+    "kgmid": "/g/11c460bgrc",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1000 W Century Ave, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "1000 W Century Ave",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "phone": "+1 701-425-0970",
+    "phoneUnformatted": "+17014250970",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8355032,
+      "lng": -100.8090311
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783916e8e6d4d:0x4d39b5538e3fd83e",
+    "cid": "5564678185066420286",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.997Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Professional%20Pharmacy&query_place_id=ChIJTW2ObpGD11IRPtg_jlO1OU0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4CccorjCf3GXw0LRqcymeg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=92.53951&pitch=0&thumbfov=100",
+    "kgmid": "/g/1th81lv4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4916 N Washington St Na, Bismarck, ND 58503, United States",
+    "neighborhood": null,
+    "street": "4916 N Washington St Na",
+    "city": "Bismarck",
+    "postalCode": "58503",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "phone": "+1 701-223-5750",
+    "phoneUnformatted": "+17012235750",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8603248,
+      "lng": -100.7953809
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783d7d4e55555:0xa71e1cbe010a09c5",
+    "cid": "12042094056022084037",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.997Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Professional%20Pharmacy&query_place_id=ChIJVVXl1NeD11IRxQkKAb4cHqc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iY7cVG-2DWpVW2sqQ48FpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=260.0605&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rp4pb9fm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Thrifty White Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1140 E Bismarck Expy, Bismarck, ND 58504, United States",
+    "neighborhood": null,
+    "street": "1140 E Bismarck Expy",
+    "city": "Bismarck",
+    "postalCode": "58504",
+    "state": "North Dakota",
+    "countryCode": "US",
+    "website": "http://www.thriftywhite.com/",
+    "phone": "+1 701-255-7220",
+    "phoneUnformatted": "+17012557220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.7955015,
+      "lng": -100.7741477
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x52d783258609040f:0x652a6d455796691d",
+    "cid": "7289759091442215197",
+    "reviewsCount": 23,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:13:13.997Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Thrifty%20White%20Pharmacy&query_place_id=ChIJDwQJhiWD11IRHWmWV0VtKmU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bismarck%20ND/@46.8656287,-100.7707057,11.454163075307662z?hl=en",
+    "searchString": "independent pharmacy Bismarck ND",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvySjJaycquxDgMYm1LA8RWvf9EH1UArtj29fBQQJyNgXvqkGM38t0QUHFTzNq1Pg0IJ9meWKI-8xZMZdrnmXSb9Qb8vDi5CGf372k8mhiUQcHlaS7sraK_Py9RVcTMFXX2ffdNQ=w408-h544-k-no",
+    "kgmid": "/g/11bzt3ts6j",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]
