@@ -64,6 +64,20 @@ class PerplexityAPIError(Exception):
         super().__init__(f"[{self.error_type}] {self.message}")
 
 
+# Additional exceptions for test compatibility
+class RateLimitError(Exception):
+    """Exception for rate limit exceeded."""
+    pass
+
+class InvalidRequestError(Exception):
+    """Exception for invalid request to Perplexity API."""
+    pass
+
+class ResponseParseError(Exception):
+    """Exception for errors parsing Perplexity API response."""
+    pass
+
+
 class PerplexityClient:
     """
     A client for the Perplexity API, designed for pharmacy classification.
@@ -303,6 +317,19 @@ class PerplexityClient:
                     # Clean up the explanation text
                     data["explanation"] = data["explanation"].strip()
                 
+                                # Attempt to extract explanation text following the JSON block if it was
+                # not included as a key in the JSON itself.  Most of our few-shot
+                # examples show the model returning natural-language explanation *after*
+                # the formatted JSON so we grab any remaining text and store it.
+                if ("explanation" not in data or not data["explanation"]) and end_idx is not None:
+                    explanation_text = content[end_idx + len(end_marker):].strip()
+                    # Remove leading punctuation / whitespace markers
+                    explanation_text = explanation_text.lstrip("\n\r ")
+                    if explanation_text:
+                        data["explanation"] = explanation_text
+                    else:
+                        data["explanation"] = "No explanation provided by the model"
+
                 return data
                 
             except json.JSONDecodeError as json_err:
