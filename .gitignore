@@ -39,10 +39,30 @@ ENV/
 
 # Data files
 *.csv
-*.xlsx
 *.xls
+*.xlsx
 *.db
 *.sqlite3
+
+# Cache directories
+data/cache/
+
+# Output files
+independent_pharmacies_*.xlsx
+reclass_*.xlsx
+*uo_to_mt*.xlsx
+*suspect_pharmacies*.xlsx
+*_capped.xlsx
+*_filtered.xlsx
+*_deduped.xlsx
+*_shortages.xlsx
+
+# Classified backfill data
+data/classified_backfill/
+
+# Temporary/test files
+sample_*.xlsx
+test_*.xlsx
 
 # Logs
 logs/
