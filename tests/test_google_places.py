@@ -64,8 +64,8 @@ def test_verify_success_high_confidence(mock_tracker_ok):
     )
 
     result = gp.verify_pharmacy(dict(_SAMPLE_PHARMACY), gmaps=gmaps)
-    assert result["verified"] is True
-    assert result["google_place_id"] == "abc123"
+    assert result["is_address_verified"] is True
+    assert result["verified_google_place_id"] == "abc123"
     # confidence should be reasonably high (>0.6)
     assert result["verification_confidence"] >= 0.6
 
@@ -85,7 +85,7 @@ def test_verify_low_confidence(mock_tracker_ok):
     )
 
     result = gp.verify_pharmacy(dict(_SAMPLE_PHARMACY), gmaps=gmaps)
-    assert result["verified"] is False
+    assert result["is_address_verified"] is False
     assert result["verification_confidence"] < 0.6
 
 
@@ -93,8 +93,8 @@ def test_verify_api_error(mock_tracker_ok):
     """If Google Maps client errors, verify_pharmacy should fail soft."""
     gmaps = _make_gmaps(raise_exc=True)
     res = gp.verify_pharmacy(dict(_SAMPLE_PHARMACY), gmaps=gmaps)
-    assert res["verified"] is False
-    assert res["google_place_id"] is None
+    assert res["is_address_verified"] is False
+    assert res["verified_google_place_id"] is None
     assert res["verification_confidence"] == 0.0
 
 
