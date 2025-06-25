@@ -14,7 +14,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 from apify_client import ApifyClient
 
 # Import credit tracker
-from src.utils.api_usage_tracker import credit_tracker, CreditLimitExceededError
+from ..utils.api_usage_tracker import credit_tracker, CreditLimitExceededError
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

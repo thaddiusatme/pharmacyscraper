@@ -10,14 +10,14 @@ import pytest
 import json
 from pathlib import Path
 
-from src.classification.classifier import (
+from pharmacy_scraper.classification.classifier import (
     Classifier,
     rule_based_classify,
     classify_pharmacy,
     batch_classify_pharmacies,
     CHAIN_IDENTIFIERS
 )
-from src.classification.perplexity_client import PerplexityClient, PerplexityAPIError
+from pharmacy_scraper.classification.perplexity_client import PerplexityClient, PerplexityAPIError
 
 # Sample pharmacy data for testing
 SAMPLE_PHARMACY = {

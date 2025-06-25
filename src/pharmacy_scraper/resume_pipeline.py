@@ -15,7 +15,7 @@ import logging
 # Add parent directory to path for imports
 sys.path.append(str(Path(__file__).parent.parent))
 
-from src.utils.logger import get_file_logger
+from .utils.logger import get_file_logger
 
 def load_config(config_path: str) -> Dict:
     """Load configuration file"""

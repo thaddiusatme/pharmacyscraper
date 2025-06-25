@@ -6,7 +6,8 @@ import tempfile
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 import pytest
-from src.classification.perplexity_client import PerplexityClient, _generate_cache_key
+
+from pharmacy_scraper.classification.perplexity_client import PerplexityClient, _generate_cache_key
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG)
