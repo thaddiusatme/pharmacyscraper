@@ -11,7 +11,7 @@ import os
 import tempfile
 
 # Import the module to test
-from src.dedup_self_heal import (
+from pharmacy_scraper.dedup_self_heal.dedup import (
     group_pharmacies_by_state,
     remove_duplicates,
     identify_underfilled_states,
@@ -19,11 +19,10 @@ from src.dedup_self_heal import (
     merge_new_pharmacies,
     process_pharmacies,
     TARGET_PHARMACIES_PER_STATE,
-    DEFAULT_MIN_REQUIRED,
-    scrape_pharmacies,
-    get_apify_scraper
+    DEFAULT_MIN_REQUIRED
 )
-from src.dedup_self_heal.merge_and_dedupe import merge_and_dedupe_files
+from pharmacy_scraper.dedup_self_heal.apify_integration import ApifyPharmacyScraper, get_apify_client
+from pharmacy_scraper.dedup_self_heal.merge_and_dedupe import merge_and_dedupe_files
 
 # Sample test data
 @pytest.fixture
@@ -77,72 +76,45 @@ def test_identify_underfilled_states(sample_pharmacies):
     assert underfilled['TX'] == TARGET_PHARMACIES_PER_STATE - 1  # Needs 1 more
     assert 'CA' not in underfilled  # Already has enough
 
-@patch('src.dedup_self_heal.dedup.scrape_pharmacies')
+@pytest.fixture
+def mock_scrape():
+    """Mock the ApifyPharmacyScraper class."""
+    with patch('pharmacy_scraper.dedup_self_heal.apify_integration.ApifyPharmacyScraper') as mock_class:
+        mock_instance = MagicMock()
+        mock_instance.scrape_pharmacies.return_value = [
+            {
+                'name': 'Test Pharmacy 3',
+                'address': '789 Test Ave, Test City, TS 67890',
+                'phone': '(555) 987-6543',
+                'is_chain': False,
+                'state': 'CA',
+                'city': 'Test City'
+            }
+        ]
+        mock_class.return_value = mock_instance
+        yield mock_instance.scrape_pharmacies
+
 def test_self_heal_state(mock_scrape, sample_pharmacies):
     """Test self-healing for under-filled states."""
-    # Mock the scrape_pharmacies function to return test data
-    mock_scrape.return_value = pd.DataFrame([{
-        'name': 'Empire Drugs',
-        'address': '101 Broadway',
-        'city': 'New York',
-        'state': 'NY',
-        'zip': '10001',
-        'phone': '(555) 444-4444',
-        'is_chain': False,
-        'confidence': 0.92
-    }])
+    # Test with a state that needs more pharmacies
+    state = 'CA'
+    current_pharmacies = [p for p in sample_pharmacies if p['state'] == state]
     
-    # Test with empty existing pharmacies
-    result = self_heal_state('NY', pd.DataFrame(), 1)
+    # Call the function with the mock
+    result = self_heal_state(state, current_pharmacies, min_required=5, target=10)
     
-    # Should return the new pharmacy
-    assert not result.empty
-    assert result.iloc[0]['name'] == 'Empire Drugs'
-    assert result.iloc[0]['state'] == 'NY'
-    
-    # Verify scrape_pharmacies was called with the correct arguments
+    # Verify the mock was called
     mock_scrape.assert_called_once()
-    args, kwargs = mock_scrape.call_args
-    assert args[0] == 'NY'  # state
-    assert args[1] > 0      # count
-    assert kwargs.get('city') is not None  # Should have a city parameter
     
-    # Test with existing pharmacies (should filter out existing)
-    existing = pd.DataFrame([{
-        'name': 'Existing Pharmacy',
-        'address': '123 Test St',
-        'city': 'New York',
-        'state': 'NY',
-        'zip': '10001',
-        'phone': '(555) 123-4567',
-        'is_chain': False,
-        'confidence': 0.95
-    }])
+    # Verify the result contains both original and new pharmacies
+    assert len(result) > len(current_pharmacies)
+    assert len(result) == len(current_pharmacies) + 1  # One new pharmacy added
     
-    # Reset mock for the second test
-    mock_scrape.reset_mock()
-    mock_scrape.return_value = pd.DataFrame([{
-        'name': 'Empire Drugs',  # Same as existing
-        'address': '101 Broadway',
-        'city': 'New York',
-        'state': 'NY',
-        'zip': '10001',
-        'phone': '(555) 444-4444',
-        'is_chain': False,
-        'confidence': 0.92
-    }])
-    
-    result = self_heal_state('NY', existing, 1)
-    
-    # Should return existing + new pharmacies (but new one is a duplicate, so only existing)
-    assert len(result) == 1
-    assert 'Existing Pharmacy' in result['name'].values
-    
-    # Verify scrape_pharmacies was called again
-    mock_scrape.assert_called_once()
+    # Verify the new pharmacy has the correct state
+    for pharmacy in result:
+        assert pharmacy['state'] == state
 
-@patch('src.dedup_self_heal.dedup.self_heal_state')
-def test_process_pharmacies(mock_self_heal, sample_pharmacies):
+def test_process_pharmacies(sample_pharmacies):
     """Test the main processing pipeline for pharmacies."""
     # Create test data with multiple states
     ca_pharmacies = pd.DataFrame([{

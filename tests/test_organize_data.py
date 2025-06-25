@@ -11,7 +11,7 @@ from unittest.mock import patch, MagicMock
 import logging
 
 # Import the functions to test
-from scripts.organize_data import (
+from pharmacy_scraper.data_processing.organize_data import (
     setup_directories,
     move_existing_files,
     combine_csv_files,

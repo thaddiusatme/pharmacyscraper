@@ -8,7 +8,7 @@ from unittest.mock import patch, MagicMock, call, ANY
 import apify_client
 
 # Import the collector class
-from scripts.apify_collector import ApifyCollector, run_trial
+from pharmacy_scraper.api.apify_collector import ApifyCollector, run_trial
 
 # Sample test data
 SAMPLE_CONFIG = {
@@ -367,7 +367,7 @@ def test_run_trial_invalid_actor(tmp_path):
         json.dump(config, f)
     
     # Mock the Apify client to raise an exception when the actor is called
-    with patch('scripts.apify_collector.ApifyClient') as mock_client:
+    with patch('pharmacy_scraper.api.apify_collector.ApifyClient') as mock_client:
         # Set up the mock to raise an exception when the actor is called
         mock_actor = MagicMock()
         mock_actor.call.side_effect = Exception("Actor not found")

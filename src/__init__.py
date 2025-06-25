@@ -8,12 +8,10 @@ This package provides functionality to classify and verify independent pharmacie
 
 __version__ = "0.1.0"
 
-from .classification import (
-    Classifier,
-    PerplexityClient
-)
+# Import key components to make them available at the package level
+# Note: Avoid circular imports by not importing from pharmacy_scraper.classification here
+# Importing should be done at the module level when needed
 
 __all__ = [
-    "Classifier",
-    "PerplexityClient",
+    # List of public API
 ]

@@ -5,7 +5,7 @@ import time
 import json
 import pytest
 from unittest.mock import patch, MagicMock, ANY
-from src.classification.perplexity_client import (
+from pharmacy_scraper.classification.perplexity_client import (
     PerplexityClient, 
     RateLimiter,
     PerplexityAPIError,

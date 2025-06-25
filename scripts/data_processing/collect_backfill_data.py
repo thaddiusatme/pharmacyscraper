@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 # Add project root to the Python path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from scripts.apify_collector import ApifyCollector
+from src.api.apify_collector import ApifyCollector
 from src.utils.logger import get_file_logger
 
 # Load environment variables from .env if present

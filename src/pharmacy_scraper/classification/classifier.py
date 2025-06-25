@@ -122,17 +122,64 @@ def query_perplexity(pharmacy: Dict) -> Dict:
     }
 
 
-def classify_pharmacy(pharmacy: Dict, *, use_llm: bool = True) -> Dict:
-    """Orchestrate rule-based + optional LLM; return higher-confidence."""
+# Module-level cache for storing classification results
+_classification_cache = {}
+
+def _get_cache_key(pharmacy: Dict) -> str:
+    """Generate a cache key from pharmacy data."""
+    import json
+    # Create a stable key from the pharmacy data
+    key_data = {
+        'name': pharmacy.get('name', ''),
+        'address': pharmacy.get('address', ''),
+        'phone': pharmacy.get('phone', '')
+    }
+    return json.dumps(key_data, sort_keys=True)
+
+def classify_pharmacy(pharmacy: Dict, *, use_llm: bool = True, cache_dir: Optional[str] = None, **kwargs) -> Dict:
+    """Orchestrate rule-based + optional LLM; return higher-confidence.
+    
+    Args:
+        pharmacy: Dictionary containing pharmacy data
+        use_llm: Whether to use LLM for classification
+        cache_dir: Optional directory for caching results (currently uses in-memory cache only)
+        **kwargs: Additional arguments (ignored)
+        
+    Returns:
+        Dictionary with classification results
+    """
+    # Check cache first
+    cache_key = _get_cache_key(pharmacy)
+    if cache_key in _classification_cache:
+        return _classification_cache[cache_key]
+    
+    # Not in cache, proceed with classification
     rule_res = rule_based_classify(pharmacy)
+    
+    # If LLM is disabled or we have high confidence in rule-based result, return it
     if not use_llm or rule_res["confidence"] >= 0.9:
+        _classification_cache[cache_key] = rule_res
         return rule_res
+    
+    # Use LLM for classification
     llm_res = query_perplexity(pharmacy)
-    return llm_res if llm_res["confidence"] >= rule_res["confidence"] else rule_res
+    
+    # Choose the result with higher confidence and cache it
+    result = llm_res if llm_res["confidence"] >= rule_res["confidence"] else rule_res
+    _classification_cache[cache_key] = result
+    return result
 
 
 def batch_classify_pharmacies(pharmacies: List[Dict], **kwargs) -> List[Dict]:
-    """Apply classify_pharmacy to each input dict."""
+    """Apply classify_pharmacy to each input dict.
+    
+    Args:
+        pharmacies: List of pharmacy dictionaries
+        **kwargs: Additional arguments passed to classify_pharmacy
+        
+    Returns:
+        List of classification result dictionaries
+    """
     return [classify_pharmacy(p, **kwargs) for p in pharmacies]
 
 

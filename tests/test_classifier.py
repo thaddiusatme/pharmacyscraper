@@ -5,23 +5,19 @@ import os
 import sys
 import tempfile
 from pathlib import Path
-
-# Add src directory to Python path
-sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
-
 import pytest
 from unittest.mock import patch, MagicMock
 import pandas as pd
 
-from classification.classifier import (
+from pharmacy_scraper.classification.classifier import (
     classify_pharmacy,
     batch_classify_pharmacies,
     rule_based_classify
 )
 
-# Sample test data
+# Sample test data - using a name that won't trigger any rule-based classifications
 SAMPLE_PHARMACY = {
-    "name": "Test Pharmacy",
+    "name": "Xyz Pharmacy",  # Doesn't match any rule-based patterns
     "address": "123 Test St, Testville",
     "phone": "555-123-4567"
 }
@@ -41,34 +37,37 @@ class TestClassifierCache:
         with tempfile.TemporaryDirectory() as temp_dir:
             yield temp_dir
 
-    @patch('classification.classifier.PerplexityClient')
-    def test_classify_pharmacy_caching(self, MockPerplexityClient, temp_cache_dir):
+    @patch('pharmacy_scraper.classification.classifier.query_perplexity')
+    def test_classify_pharmacy_caching(self, mock_query_perplexity, temp_cache_dir):
         """Test that classify_pharmacy uses the cache for repeated requests."""
-        # Setup mock response
+        # Setup mock response that will be returned by the mock query_perplexity
         mock_response = {
             "is_chain": False,
             "confidence": 0.95,
-            "reason": "Test response"
+            "reason": "Test response",
+            "method": "llm",
+            "source": "perplexity"
         }
-        mock_instance = MockPerplexityClient.return_value
-        mock_instance.classify_pharmacy.return_value = mock_response
+        mock_query_perplexity.return_value = mock_response
         
-        # First call - should call the API
-        result1 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=temp_cache_dir)
+        # First call - should call query_perplexity
+        result1 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=temp_cache_dir, use_llm=True)
         
-        # Second call with same data - should use cache
-        result2 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=temp_cache_dir)
+        # Verify query_perplexity was called once
+        assert mock_query_perplexity.call_count == 1
         
-        # Verify mock was only called once
-        assert mock_instance.classify_pharmacy.call_count <= 2
+        # Second call with same data - should use cache (query_perplexity shouldn't be called again)
+        result2 = classify_pharmacy(SAMPLE_PHARMACY, cache_dir=temp_cache_dir, use_llm=True)
         
-        # Verify results are the same
-        assert result1['is_chain'] == mock_response['is_chain']
-        assert result1['confidence'] == mock_response['confidence']
-        # The reason and method are added by the classifier functions, so we check the final output
-        assert result2['reason'] == mock_response['reason']
+        # Verify query_perplexity was not called again (still only called once)
+        assert mock_query_perplexity.call_count == 1
+        
+        # Verify results are consistent
+        assert result1['is_chain'] == result2['is_chain']
+        assert result1['confidence'] == result2['confidence']
+        assert result1['reason'] == result2['reason']
     
-    @patch('classification.classifier.PerplexityClient')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient')
     def test_batch_classify_pharmacies_caching(self, MockPerplexityClient, temp_cache_dir):
         """Test that batch_classify_pharmacies uses the cache."""
         # Setup mock response to match rule-based fallback confidence
@@ -104,7 +103,7 @@ class TestClassifierCache:
         # Verify results are the same between batches
         assert results1 == results2
     
-    @patch('classification.classifier.PerplexityClient')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient')
     def test_cache_persistence(self, MockPerplexityClient, temp_cache_dir):
         """Test that cache persists between classifier instances."""
         # Setup mock response
@@ -131,28 +130,29 @@ class TestClassifierCache:
         # Verify results are the same
         assert result1 == result2
 
-    @patch('classification.classifier.PerplexityClient')
-    def test_cache_key_uniqueness(self, MockPerplexityClient, temp_cache_dir):
+    @patch('pharmacy_scraper.classification.classifier.query_perplexity')
+    def test_cache_key_uniqueness(self, mock_query_perplexity, temp_cache_dir):
         """Test that different pharmacy data generates different cache keys."""
         # Setup mock response
         mock_response = {
             "is_chain": False,
             "confidence": 0.95,
             "reason": "Test response",
+            "method": "llm",
+            "source": "perplexity"
         }
-        mock_instance = MockPerplexityClient.return_value
-        mock_instance.classify_pharmacy.return_value = mock_response
+        mock_query_perplexity.return_value = mock_response
         
         # Call with first set of data
         pharm1 = {"name": "Pharm A", "address": "123 St"}
-        result1 = classify_pharmacy(pharm1, cache_dir=temp_cache_dir)
+        result1 = classify_pharmacy(pharm1, cache_dir=temp_cache_dir, use_llm=True)
         
         # Call with slightly different data
         pharm2 = {"name": "Pharm A", "address": "124 St"}  # Different address
-        result2 = classify_pharmacy(pharm2, cache_dir=temp_cache_dir)
+        result2 = classify_pharmacy(pharm2, cache_dir=temp_cache_dir, use_llm=True)
         
         # Should have been called twice (different cache keys)
-        assert mock_instance.classify_pharmacy.call_count == 2
+        assert mock_query_perplexity.call_count == 2
         assert result1['confidence'] == result2['confidence']  # Same mock response
 
 class TestClassifierIntegration:

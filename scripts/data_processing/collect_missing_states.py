@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 # Add parent directory to path for imports
 sys.path.append(str(Path(__file__).parent.parent))
 
-from scripts.apify_collector import ApifyCollector
+from src.api.apify_collector import ApifyCollector
 
 # Load environment variables from .env if present
 load_dotenv()

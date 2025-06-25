@@ -1,13 +1,12 @@
-"""Unit tests for Google Places verification helpers.
-"""
+"""Unit tests for Google Places verification helpers."""
 from __future__ import annotations
 
 from unittest.mock import MagicMock, patch
 
 import pytest
 
-from src.verification import google_places as gp
-from src.utils.api_usage_tracker import CreditLimitExceededError
+from pharmacy_scraper.verification import google_places as gp
+from pharmacy_scraper.utils.api_usage_tracker import CreditLimitExceededError
 
 
 _SAMPLE_PHARMACY = {

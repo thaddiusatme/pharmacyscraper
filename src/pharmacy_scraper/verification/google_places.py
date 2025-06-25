@@ -23,7 +23,7 @@ from typing import Dict, List
 import googlemaps  # type: ignore
 
 # Internal utilities
-from src.utils.api_usage_tracker import credit_tracker, CreditLimitExceededError
+from ..utils.api_usage_tracker import credit_tracker, CreditLimitExceededError
 
 logger = logging.getLogger(__name__)
 

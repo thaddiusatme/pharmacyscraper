@@ -15,7 +15,7 @@ builtins.openai = openai_mock
 openai_mock.RateLimitError = Exception  # Simple mock for RateLimitError
 
 # Import the client to test
-from src.classification.perplexity_client import PerplexityClient, PerplexityAPIError, RateLimitError
+from pharmacy_scraper.classification.perplexity_client import PerplexityClient, PerplexityAPIError, RateLimitError, _generate_cache_key
 
 # Test API key for testing
 TEST_API_KEY = "test-api-key"

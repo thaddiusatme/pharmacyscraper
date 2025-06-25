@@ -22,7 +22,7 @@ from tenacity import (
 )
 import openai
 from openai import OpenAI
-from src.config import get_config
+from ..config import get_config
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

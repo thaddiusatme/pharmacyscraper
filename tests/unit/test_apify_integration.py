@@ -15,13 +15,9 @@ import json
 from pathlib import Path
 from dotenv import load_dotenv
 
-# Add project root to path
-import sys
-sys.path.append(str(Path(__file__).parent.parent))
-
 # Import the scraper
-from src.dedup_self_heal.apify_integration import get_apify_client
-from src.utils.api_usage_tracker import credit_tracker
+from pharmacy_scraper.dedup_self_heal.apify_integration import get_apify_client
+from pharmacy_scraper.utils.api_usage_tracker import credit_tracker
 
 # Configure logging
 logging.basicConfig(

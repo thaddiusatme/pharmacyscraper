@@ -26,17 +26,17 @@ from typing import Dict, List, Union
 import pandas as pd
 
 # Phase 1 – data collection
-from scripts.apify_collector import ApifyCollector
+from .api.apify_collector import ApifyCollector
 
 # Phase 1.5 – deduplication / self-healing utilities
-from src.dedup_self_heal.dedup import remove_duplicates
+from .dedup_self_heal.dedup import remove_duplicates
 
 # Phase 2 – classification utilities
-from src.classification.classifier import Classifier
-from src.classification.perplexity_client import PerplexityClient
+from .classification.classifier import Classifier
+from .classification.perplexity_client import PerplexityClient
 
 # Budget / credit tracking
-from src.utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
+from .utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
 
 logger = logging.getLogger("run_pipeline")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
@@ -155,7 +155,7 @@ def run_pipeline(
     # ------------------------------------------------------------------
     if not skip_verification:
         logger.info("Running Google Places verification …")
-        from src.verification.google_places import verify_batch
+        from .verification.google_places import verify_batch
         # Pass the full classified records to the verification function
         verified_records = verify_batch(df_classified.to_dict(orient="records"))
     else:
