@@ -128,6 +128,14 @@ class APICreditTracker:
             'today_used': self._get_daily_used(),
             'last_updated': self.usage_data['last_updated']
         }
+    
+    def get_total_usage(self) -> float:
+        """Get the total number of credits used.
+        
+        Returns:
+            float: Total credits used
+        """
+        return self.usage_data.get('total_used', 0.0)
 
 # Global instance for easy access
 try:

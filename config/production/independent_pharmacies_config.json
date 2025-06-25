@@ -1,0 +1,72 @@
+{
+  "description": "Configuration for collecting independent, non-hospital pharmacies in top 10 cities of a state",
+  "state": "Arizona",
+  "cities": [
+    "Phoenix",
+    "Tucson",
+    "Mesa",
+    "Chandler",
+    "Scottsdale",
+    "Gilbert",
+    "Glendale",
+    "Tempe",
+    "Peoria",
+    "Surprise"
+  ],
+  "search_queries": [
+    {
+      "query": "independent pharmacy",
+      "max_results_per_query": 15,
+      "include_terms": ["pharmacy", "drugstore", "compounding"],
+      "priority": 1
+    },
+    {
+      "query": "local pharmacy",
+      "max_results_per_query": 10,
+      "priority": 2
+    },
+    {
+      "query": "compounding pharmacy",
+      "max_results_per_query": 10,
+      "priority": 3
+    }
+  ],
+  "filtering": {
+    "use_centralized_filters": true,
+    "filter_module": "pharmacy_scraper.config.filters",
+    "min_rating": 3.5,
+    "verify_address": true,
+    "require_phone": true
+  },
+  "api_settings": {
+    "use_caching": true,
+    "cache_ttl_hours": 168,
+    "rate_limit_ms": 1000
+  },
+  "budget": {
+    "max_credits_per_city": 5,
+    "max_total_credits": 50,
+    "warn_at_credits_remaining": 10
+  },
+  "output": {
+    "format": "json",
+    "include_fields": [
+      "name",
+      "address",
+      "city",
+      "state",
+      "zip",
+      "phone",
+      "website",
+      "rating",
+      "is_chain",
+      "is_compounding",
+      "verification_status",
+      "confidence_score"
+    ]
+  },
+  "notifications": {
+    "email_on_completion": false,
+    "email_on_error": true
+  }
+}

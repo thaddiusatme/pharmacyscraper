@@ -70,7 +70,7 @@ def test_response_parsing():
     assert "explanation" in result
     assert "locally owned" in result["explanation"]
 
-@patch('src.classification.perplexity_client.OpenAI')
+@patch('pharmacy_scraper.classification.perplexity_client.OpenAI')
 def test_integration(mock_openai):
     """Test the full classification flow with a mock API response."""
     # Setup mock response
