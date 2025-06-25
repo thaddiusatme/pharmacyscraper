@@ -92,7 +92,8 @@ class PerplexityClient:
         model_name: Optional[str] = None,
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
-        force_reclassification: bool = False
+        force_reclassification: bool = False,
+        openai_client: Optional[OpenAI] = None
     ):
         """
         Initializes the PerplexityClient.
@@ -116,7 +117,11 @@ class PerplexityClient:
         config = get_config()
         self.model = model_name or config.get("perplexity_model", "sonar")
         
-        self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
+        # Use provided OpenAI client or create a new one
+        if openai_client is not None:
+            self.client = openai_client
+        else:
+            self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
         self.force_reclassification = force_reclassification
         
@@ -176,9 +181,17 @@ class PerplexityClient:
 
         return result    
         
-    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str) -> Optional[Dict[str, Any]]:
+    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str, retry_count: int = 3) -> Optional[Dict[str, Any]]:
         """
-        Makes the actual API call to Perplexity.
+        Makes the actual API call to Perplexity with retry logic for rate limits.
+        
+        Args:
+            pharmacy_data: The pharmacy data to classify
+            model: The model to use for classification
+            retry_count: Number of retry attempts remaining
+            
+        Returns:
+            The classification result or None if all retries are exhausted
         """
         pharmacy_name = pharmacy_data.get('title') or pharmacy_data.get('name', 'Unknown')
         logger.info(f"Making Perplexity API call for pharmacy: {pharmacy_name}")
@@ -213,6 +226,15 @@ class PerplexityClient:
                 logger.error(f"❌ Failed to parse response for {pharmacy_name}")
             
             return result
+            
+        except RateLimitError as e:
+            if retry_count > 0:
+                retry_after = 5  # Default wait time in seconds
+                logger.warning(f"Rate limit exceeded for '{pharmacy_name}'. Retrying in {retry_after} seconds... (attempts left: {retry_count})")
+                time.sleep(retry_after)
+                return self._make_api_call(pharmacy_data, model, retry_count - 1)
+            logger.error(f"Rate limit exceeded for '{pharmacy_name}' after retries: {e}")
+            return None
             
         except Exception as e:
             logger.error(f"Perplexity API error for pharmacy '{pharmacy_name}': {e}")
