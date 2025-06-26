@@ -40,7 +40,7 @@ def mock_apify_client():
 @pytest.fixture
 def apify_collector(mock_apify_client):
     """Fixture that returns an ApifyCollector instance with a test API token."""
-    from src.api.apify_collector import ApifyCollector
+    from pharmacy_scraper.api.apify_collector import ApifyCollector
     collector = ApifyCollector(api_token="test-token")
     # Ensure the collector is using our mock client
     collector.client = mock_apify_client

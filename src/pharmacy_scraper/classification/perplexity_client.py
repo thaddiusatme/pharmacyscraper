@@ -22,7 +22,7 @@ from tenacity import (
 )
 import openai
 from openai import OpenAI
-from ..config import get_config
+from pharmacy_scraper.config import get_config
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -93,7 +93,8 @@ class PerplexityClient:
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
-        openai_client: Optional[OpenAI] = None
+        openai_client: Optional[OpenAI] = None,
+        max_retries: int = 3
     ):
         """
         Initializes the PerplexityClient.
@@ -124,6 +125,7 @@ class PerplexityClient:
             self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
         self.force_reclassification = force_reclassification
+        self.max_retries = max_retries
         
         self.cache_dir = Path(cache_dir) if cache_dir else None
         if self.cache_dir:
@@ -147,7 +149,8 @@ class PerplexityClient:
 
         if not self.cache_dir:
             logger.debug("Cache is disabled, calling API directly.")
-            return self._make_api_call(pharmacy_data, model_to_use)
+            prompt = self._generate_prompt(pharmacy_data)
+            return self._call_api(prompt)
 
         cache_key = _generate_cache_key(pharmacy_data, model_to_use)
         cache_file = self.cache_dir / f"{cache_key}.json"
@@ -167,7 +170,8 @@ class PerplexityClient:
         else:
             logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
         
-        result = self._make_api_call(pharmacy_data, model_to_use)
+        prompt = self._generate_prompt(pharmacy_data)
+        result = self._call_api(prompt)
 
         # Write to cache if the API call was successful
         if result:
@@ -181,6 +185,64 @@ class PerplexityClient:
 
         return result    
         
+    def _call_api(self, prompt: str) -> Optional[Dict[str, Any]]:
+        """
+        Makes an API call to the Perplexity API with the given prompt.
+        
+        Args:
+            prompt: The prompt to send to the API.
+            
+        Returns:
+            The parsed response from the API, or None if an error occurs.
+            
+        Raises:
+            RateLimitError: If the rate limit is exceeded after all retries.
+            PerplexityAPIError: For other API errors.
+        """
+        last_exception = None
+        
+        for attempt in range(self.max_retries + 1):
+            try:
+                self.rate_limiter.wait()
+                
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[
+                        {"role": "system", "content": "You are a helpful assistant."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0.7,
+                    max_tokens=1000
+                )
+                
+                # Parse the response
+                if not response.choices or not response.choices[0].message:
+                    raise ResponseParseError("Invalid response format: missing choices or message")
+                
+                content = response.choices[0].message.content
+                try:
+                    return json.loads(content)
+                except json.JSONDecodeError:
+                    # If the response is not valid JSON, try to parse it as a string
+                    return {"response": content}
+                    
+            except Exception as e:
+                last_exception = e
+                if "rate limit" in str(e).lower() and attempt < self.max_retries:
+                    # Exponential backoff
+                    time.sleep(min(2 ** attempt, 10))
+                    continue
+                elif "rate limit" in str(e).lower():
+                    raise RateLimitError(f"Rate limit exceeded after {self.max_retries} retries") from e
+                else:
+                    raise PerplexityAPIError(f"API error: {str(e)}") from e
+        
+        # If we've exhausted all retries
+        if last_exception:
+            raise PerplexityAPIError(f"Failed after {self.max_retries} retries: {str(last_exception)}")
+        
+        return None
+
     def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str, retry_count: int = 3) -> Optional[Dict[str, Any]]:
         """
         Makes the actual API call to Perplexity with retry logic for rate limits.
@@ -193,14 +255,10 @@ class PerplexityClient:
         Returns:
             The classification result or None if all retries are exhausted
         """
-        pharmacy_name = pharmacy_data.get('title') or pharmacy_data.get('name', 'Unknown')
-        logger.info(f"Making Perplexity API call for pharmacy: {pharmacy_name}")
-        
-        self.rate_limiter.wait()
+        # This method is kept for backward compatibility
+        # The actual API call logic has been moved to _call_api
         prompt = self._generate_prompt(pharmacy_data)
-        
-        logger.debug(f"Generated prompt for {pharmacy_name}: {prompt[:200]}...")
-        
+        return self._call_api(prompt)
         try:
             logger.debug(f"API Key prefix in use: {self.api_key[:15] if isinstance(self.api_key, str) and self.api_key else 'No API key'}...")
             logger.debug(f"Base URL: {self.client.base_url}")
