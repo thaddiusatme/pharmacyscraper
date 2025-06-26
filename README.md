@@ -42,6 +42,41 @@ A Python-based tool for scraping and analyzing pharmacy data from various source
    - Google Places API key
    - Other configuration parameters as needed
 
+### Cache Configuration
+
+The system includes a file-based caching system to improve performance and reduce API calls. The cache is enabled by default and stores classification results to avoid redundant API calls.
+
+#### Cache Options
+
+- **Cache Directory**: By default, cache files are stored in `data/cache/classification/`
+- **Cache Control**:
+  - Enable/disable caching by setting `cache_dir` to `None` to disable
+  - Force reclassification with `force_reclassification=True` to bypass cache
+
+Example configuration:
+
+```python
+from pharmacy_scraper.classification import PerplexityClient
+
+# With default cache settings
+client = PerplexityClient(api_key="your_api_key")
+
+# With custom cache directory
+client = PerplexityClient(
+    api_key="your_api_key",
+    cache_dir="/path/to/custom/cache"
+)
+
+# Disable caching
+client = PerplexityClient(api_key="your_api_key", cache_dir=None)
+
+# Force reclassification (bypass cache)
+client = PerplexityClient(
+    api_key="your_api_key",
+    force_reclassification=True
+)
+```
+
 ## Usage
 
 ### Running the Pipeline
