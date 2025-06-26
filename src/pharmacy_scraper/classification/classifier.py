@@ -108,8 +108,8 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
                 source=ClassificationSource.RULE_BASED
             )
 
-    # 2. Compounding pharmacies
-    if "compounding" in name:
+    # 2. Compounding pharmacies - only match whole words to avoid false positives like "Non-Compounding"
+    if _token_match(name, "compounding"):
         return ClassificationResult(
             is_chain=False,
             is_compounding=True,
