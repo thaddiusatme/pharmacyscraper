@@ -54,41 +54,44 @@ class TestRateLimiter:
     
     def test_rate_limiter_with_mocked_time(self, monkeypatch):
         """Test RateLimiter with mocked time to verify sleep behavior."""
-        # Create a mock time function that we can control
-        mock_time = [0.0]  # Start at time 0.0
+        class MockTime:
+            def __init__(self):
+                self._time = 0.0
+            
+            def time(self):
+                return self._time
+                
+            def sleep(self, seconds):
+                self._time += seconds
         
-        def mock_time_func():
-            return mock_time[0]
-            
-        def mock_sleep(seconds):
-            mock_time[0] += seconds
-            
+        mock_time = MockTime()
+        
         # Apply the monkey patches
-        monkeypatch.setattr(time, 'time', mock_time_func)
-        monkeypatch.setattr(time, 'sleep', mock_sleep)
+        monkeypatch.setattr(time, 'time', mock_time.time)
+        monkeypatch.setattr(time, 'sleep', mock_time.sleep)
         
         # Test with 2 requests per second (min_interval = 0.5s)
         requests_per_minute = 120
         limiter = RateLimiter(requests_per_minute)
         
         # First call - no delay expected
-        start_time = mock_time[0]
+        start_time = mock_time.time()
         limiter.wait()
-        elapsed = mock_time[0] - start_time
-        assert elapsed < 0.1  # Should be almost instantaneous
+        elapsed = mock_time.time() - start_time
+        assert elapsed == 0.0, "First call should not sleep"
         
         # Second call immediately after - should sleep for 0.5s
-        start_time = mock_time[0]
+        start_time = mock_time.time()
         limiter.wait()
-        elapsed = mock_time[0] - start_time
-        assert 0.49 <= elapsed <= 0.51  # Should have slept for ~0.5s
+        elapsed = mock_time.time() - start_time
+        assert elapsed == 0.5, f"Expected 0.5s sleep, got {elapsed}s"
         
         # Third call after waiting 0.25s - should sleep for 0.25s
-        mock_time[0] += 0.25
-        start_time = mock_time[0]
+        mock_time._time += 0.25
+        start_time = mock_time.time()
         limiter.wait()
-        elapsed = mock_time[0] - start_time
-        assert 0.24 <= elapsed <= 0.26  # Should have slept for ~0.25s
+        elapsed = mock_time.time() - start_time
+        assert abs(elapsed - 0.25) < 1e-9, f"Expected 0.25s sleep, got {elapsed}s"
     
     def test_rate_limiter_with_negative_rate(self):
         """Test RateLimiter with negative rate limit (should be treated as zero)."""

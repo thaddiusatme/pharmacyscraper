@@ -143,15 +143,26 @@ class TestPerplexityClientEdgeCases:
         assert "confidence" in prompt
     
     @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api')
-    def test_parse_response_error(self, mock_call_api):
+    def test_parse_response_error(self, mock_call_api, tmp_path):
         """Test handling of invalid API response format."""
-        # Setup mock to return invalid response
+        # Setup mock to return None to simulate a parsing error
         mock_call_api.return_value = None
         
-        client = PerplexityClient(api_key="test-key")
+        # Create a client with a fresh cache directory and caching disabled
+        cache_dir = tmp_path / "test_cache"
+        client = PerplexityClient(
+            api_key="test-key",
+            cache_dir=cache_dir,
+            force_reclassification=True  # Ensure we don't use any cached results
+        )
         
-        # classify_pharmacy should handle the error gracefully
+        # classify_pharmacy should return None when _call_api returns None
         result = client.classify_pharmacy(SAMPLE_PHARMACY)
+        
+        # Verify the mock was called
+        mock_call_api.assert_called_once()
+        
+        # The result should be None when API call fails
         assert result is None
     
     @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api')
