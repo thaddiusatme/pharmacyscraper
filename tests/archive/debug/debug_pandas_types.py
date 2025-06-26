@@ -8,7 +8,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 import pandas as pd
 from dotenv import load_dotenv
-from src.classification.perplexity_client import PerplexityClient
+from pharmacy_scraper.classification.perplexity_client import PerplexityClient
 import logging
 
 # Load environment variables

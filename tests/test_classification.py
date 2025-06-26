@@ -46,7 +46,7 @@ def test_llm_classification():
     # Skip if Perplexity API key is not available
     pytest.importorskip("perplexity")
     
-    from src.classification import classify_pharmacy
+    from pharmacy_scraper.classification import classify_pharmacy
     
     # Test independent pharmacy
     result = classify_pharmacy(SAMPLE_PHARMACIES[0])

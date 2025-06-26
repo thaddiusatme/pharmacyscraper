@@ -313,9 +313,9 @@ def test_error_handling(mock_openai, client):
     # Setup mock to raise an error
     mock_openai.chat.completions.create.side_effect = Exception("API error")
     
-    # Should return None on error
-    result = client.classify_pharmacy(SAMPLE_PHARMACY)
-    assert result is None
+    # Should raise PerplexityAPIError on error
+    with pytest.raises(PerplexityAPIError, match="API error:"):
+        client.classify_pharmacy(SAMPLE_PHARMACY)
 
 # Test cache key generation
 @pytest.mark.parametrize(
