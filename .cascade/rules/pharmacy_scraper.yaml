@@ -3,6 +3,7 @@
 # Last Updated: 2025-06-26
 
 # Rule Set for Pharmacy Scraper Project
+version: "1.0.0"
 rules:
   # Template Assistance Rules
   - name: template-assistance
