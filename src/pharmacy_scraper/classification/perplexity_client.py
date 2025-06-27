@@ -95,16 +95,23 @@ class PerplexityClient:
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
         openai_client: Optional[OpenAI] = None,
-        max_retries: int = 3
+        max_retries: int = 3,
+        enable_metrics: bool = True,
+        cache_ttl_seconds: Optional[int] = 7 * 24 * 3600  # 1 week default TTL
     ):
         """
-        Initializes the PerplexityClient.
+        Initializes the PerplexityClient with enhanced error handling and monitoring.
 
         Args:
             api_key: The Perplexity API key. If None, it's read from PERPLEXITY_API_KEY env var.
             model_name: The model to use for classification.
             rate_limit: The number of requests per minute to allow.
             cache_dir: The directory to store cache files. Caching is disabled if None.
+            force_reclassification: If True, bypass cache and force API call.
+            openai_client: Optional pre-configured OpenAI client.
+            max_retries: Maximum number of retry attempts for API calls.
+            enable_metrics: Whether to collect and log cache metrics.
+            cache_ttl_seconds: Time in seconds before cache entries expire. None for no expiration.
         """
         self.api_key = api_key or os.getenv("PERPLEXITY_API_KEY")
         
@@ -128,13 +135,199 @@ class PerplexityClient:
         self.force_reclassification = force_reclassification
         self.max_retries = max_retries
         
+        # Initialize metrics
+        self.enable_metrics = enable_metrics
+        self.cache_ttl_seconds = cache_ttl_seconds
+        self._cache_metrics = {
+            'hits': 0,
+            'misses': 0,
+            'errors': 0,
+            'size': 0,
+            'last_cleaned': time.time()
+        }
+        
+        # Initialize cache
         self.cache_dir = Path(cache_dir) if cache_dir else None
         if self.cache_dir:
-            self.cache_dir.mkdir(parents=True, exist_ok=True)
-            logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
+            try:
+                self.cache_dir.mkdir(parents=True, exist_ok=True)
+                logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
+                self._update_cache_metrics()
+            except (OSError, PermissionError) as e:
+                logger.error(f"Failed to initialize cache directory {cache_dir}: {e}")
+                logger.warning("Caching will be disabled due to initialization error")
+                self.cache_dir = None
         else:
             logger.info("PerplexityClient caching is disabled.")
 
+    def _get_cache_file(self, cache_key: str) -> Path:
+        """Get the full path to a cache file."""
+        return self.cache_dir / f"{cache_key}.json"
+    
+    def _is_cache_valid(self, cache_file: Path) -> bool:
+        """Check if a cache entry is still valid based on TTL."""
+        if not cache_file.exists():
+            return False
+            
+        if self.cache_ttl_seconds is None:
+            return True
+            
+        try:
+            file_mtime = cache_file.stat().st_mtime
+            return (time.time() - file_mtime) < self.cache_ttl_seconds
+        except OSError as e:
+            logger.warning(f"Failed to check cache file {cache_file} mtime: {e}")
+            return False
+    
+    def _read_from_cache(self, cache_file: Path) -> Optional[Dict[str, Any]]:
+        """Read data from cache file with error handling."""
+        try:
+            if not self.cache_dir or not cache_file.exists() or not self._is_cache_valid(cache_file):
+                return None
+                
+            with open(cache_file, 'r') as f:
+                cached_data = json.load(f)
+                
+            # Validate cached data structure
+            if not isinstance(cached_data, dict) or 'data' not in cached_data:
+                logger.warning(f"Invalid cache format in {cache_file}")
+                return None
+                
+            # Check if entry has expired
+            if 'expires_at' in cached_data and cached_data['expires_at'] < time.time():
+                logger.debug(f"Cache entry expired: {cache_file}")
+                return None
+                
+            self._cache_metrics['hits'] += 1
+            return cached_data['data']
+            
+        except (json.JSONDecodeError, OSError) as e:
+            logger.warning(f"Failed to read from cache file {cache_file}: {e}")
+            self._cache_metrics['errors'] += 1
+            return None
+    
+    def _write_to_cache(self, cache_file: Path, data: Dict[str, Any]) -> bool:
+        """Write data to cache file with error handling."""
+        if not self.cache_dir:
+            return False
+            
+        try:
+            # Create cache directory if it doesn't exist
+            self.cache_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Prepare cache entry with metadata
+            cache_entry = {
+                'data': data,
+                'cached_at': time.time(),
+                'version': '1.0'  # For future compatibility
+            }
+            
+            # Add TTL if specified
+            if self.cache_ttl_seconds is not None:
+                cache_entry['expires_at'] = time.time() + self.cache_ttl_seconds
+            
+            # Convert to JSON to validate it's serializable
+            json.dumps(cache_entry)
+            
+            # Write to temporary file first, then rename (atomic operation)
+            temp_file = cache_file.with_suffix('.tmp')
+            with open(temp_file, 'w') as f:
+                json.dump(cache_entry, f, indent=2)
+                
+            # Atomic rename
+            temp_file.replace(cache_file)
+            
+            # Update metrics
+            self._update_cache_metrics()
+            return True
+            
+        except (OSError, TypeError, ValueError) as e:
+            logger.warning(f"Failed to write to cache file {cache_file}: {e}")
+            self._cache_metrics['errors'] += 1
+            # Clean up any temporary file that might be left
+            if 'temp_file' in locals() and temp_file.exists():
+                try:
+                    temp_file.unlink()
+                except OSError:
+                    pass
+            return False
+    
+    def _update_cache_metrics(self):
+        """Update cache metrics including size and hit ratio."""
+        if not self.enable_metrics or not self.cache_dir or not self.cache_dir.exists():
+            return
+            
+        try:
+            # Count cache files and calculate total size
+            cache_files = list(self.cache_dir.glob('*.json'))
+            self._cache_metrics['size'] = sum(f.stat().st_size for f in cache_files if f.is_file())
+            
+            # Log metrics periodically
+            total = self._cache_metrics['hits'] + self._cache_metrics['misses']
+            hit_ratio = (self._cache_metrics['hits'] / total * 100) if total > 0 else 0
+            
+            # Format the metrics string to match test expectations
+            metrics_str = (
+                f"Cache metrics: hits={self._cache_metrics['hits']}, "
+                f"misses={self._cache_metrics['misses']}, "
+                f"size={self._format_bytes(self._cache_metrics['size'])}"
+            )
+            
+            # Log the metrics in a single log message to match test expectations
+            logger.debug(metrics_str)
+            logger.debug(f"Cache hit ratio: {hit_ratio:.1f}%")
+            
+        except Exception as e:
+            logger.warning(f"Failed to update cache metrics: {e}")
+    
+    @staticmethod
+    def _format_bytes(size_bytes: int) -> str:
+        """Format bytes to human-readable string."""
+        for unit in ['B', 'KB', 'MB', 'GB', 'TB']:
+            if size_bytes < 1024.0:
+                return f"{size_bytes:.1f} {unit}"
+            size_bytes /= 1024.0
+        return f"{size_bytes:.1f} PB"
+    
+    def cleanup_expired(self) -> int:
+        """
+        Clean up expired cache entries.
+        
+        Returns:
+            int: Number of entries removed
+        """
+        if not self.cache_dir or not self.cache_ttl_seconds:
+            return 0
+            
+        removed = 0
+        try:
+            for cache_file in self.cache_dir.glob('*.json'):
+                if not self._is_cache_valid(cache_file):
+                    try:
+                        cache_file.unlink()
+                        removed += 1
+                    except OSError as e:
+                        logger.warning(f"Failed to remove expired cache file {cache_file}: {e}")
+            
+            if removed > 0:
+                logger.info(f"Removed {removed} expired cache entries")
+                self._update_cache_metrics()
+                
+        except Exception as e:
+            logger.error(f"Error during cache cleanup: {e}")
+            
+        return removed
+    
+    def get_cache_metrics(self) -> Dict[str, Any]:
+        """
+        Get current cache metrics.
+        
+        Returns:
+            Dict with cache metrics including hits, misses, size, etc.
+        """
+        self._update_cache_metrics()
+        return self._cache_metrics.copy()
+    
     def classify_pharmacy(self, pharmacy_data: Dict[str, Any], model: Optional[str] = None) -> Optional[Dict[str, Any]]:
         """
         Classifies a single pharmacy using the Perplexity API, with optional caching.
@@ -208,43 +401,43 @@ class PerplexityClient:
             - Network timeouts are handled with appropriate retry logic.
         """
         model_to_use = model or self.model
-
+        prompt = self._generate_prompt(pharmacy_data)
+        
+        # If cache is disabled, call API directly
         if not self.cache_dir:
             logger.debug("Cache is disabled, calling API directly.")
-            prompt = self._generate_prompt(pharmacy_data)
             return self._call_api(prompt)
-
+        
+        # Generate cache key and get cache file path
         cache_key = _generate_cache_key(pharmacy_data, model_to_use)
-        cache_file = self.cache_dir / f"{cache_key}.json"
-
-        # If force_reclassification is False, check cache
-        if not self.force_reclassification and cache_file.exists():
-            try:
-                with open(cache_file, 'r') as f:
-                    cached_result = json.load(f)
+        cache_file = self._get_cache_file(cache_key)
+        
+        # Check cache if not forcing reclassification
+        if not self.force_reclassification:
+            cached_result = self._read_from_cache(cache_file)
+            if cached_result is not None:
                 logger.info(f"CACHE HIT for pharmacy: {pharmacy_data.get('title', 'N/A')}")
                 return cached_result
-            except (json.JSONDecodeError, IOError) as e:
-                logger.warning(f"Failed to read cache file {cache_file}: {e}. Re-fetching.")
-
-        if self.force_reclassification:
-            logger.info(f"CACHE IGNORED (force_reclassification=True) for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
         else:
-            logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+            logger.info(f"CACHE IGNORED (force_reclassification=True) for pharmacy: {pharmacy_data.get('title', 'N/A')}")
         
-        prompt = self._generate_prompt(pharmacy_data)
+        # If we get here, we need to call the API
+        self._cache_metrics['misses'] += 1
+        logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
+        
+        # Call the API
         result = self._call_api(prompt)
-
+        
         # Write to cache if the API call was successful
         if result:
-            try:
-                self.cache_dir.mkdir(parents=True, exist_ok=True)
-                with open(cache_file, 'w') as f:
-                    json.dump(result, f, indent=4)
-                logger.debug(f"SUCCESS: Wrote result to cache file: {cache_file}")
-            except IOError as e:
-                logger.error(f"Failed to write to cache file {cache_file}: {e}")
-
+            self._write_to_cache(cache_file, result)
+        
+        # Periodically log metrics and clean up
+        if self.enable_metrics and time.time() - self._cache_metrics['last_cleaned'] > 3600:  # Every hour
+            self.cleanup_expired()
+            self._update_cache_metrics()
+            self._cache_metrics['last_cleaned'] = time.time()
+        
         return result    
         
     def _call_api(self, prompt: str) -> Optional[Dict[str, Any]]:
