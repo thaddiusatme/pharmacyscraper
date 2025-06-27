@@ -224,7 +224,7 @@ environment:
 security:
   secrets_detection: true
   banned_patterns:
-    - "(?:password|secret|api[_-]?key|token)\\s*[=:]",
+    - "(?:password|secret|api[_-]?key|token)\\s*[=:]"
   allowed_domains:
     - "api.apify.com"
     - "maps.googleapis.com"
