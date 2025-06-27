@@ -90,7 +90,16 @@ The classification module is built around the `PerplexityClient` class, which ha
 
 ## Cache System
 
-The cache system is a critical component that significantly improves performance and reduces costs by storing classification results. It's designed to be both efficient and reliable.
+The cache system is a high-performance, thread-safe component that significantly improves response times and reduces API costs by intelligently storing and managing classification results.
+
+### Key Features
+
+- **Configurable Size Limits**: Set maximum cache size in MB
+- **LRU Eviction**: Automatically removes least recently used items when limits are approached
+- **Automatic Cleanup**: Scheduled cleanup of expired entries
+- **Detailed Metrics**: Comprehensive monitoring of cache performance
+- **Thread-Safe**: Designed for concurrent access
+- **Efficient Storage**: Optimized for both memory and disk usage
 
 ### How It Works
 
@@ -98,6 +107,177 @@ The cache system is a critical component that significantly improves performance
    - Pharmacy name/title (normalized)
    - Full address (normalized)
    - Model name
+
+2. **Memory Management**:
+   - Tracks size of each cache entry
+   - Enforces maximum cache size (default: 1GB)
+   - Automatically cleans up when size exceeds 90% of limit
+   - Implements LRU eviction policy
+
+3. **Automatic Maintenance**:
+   - Background thread for periodic cleanup
+   - Automatic removal of expired entries
+   - Size-based eviction when approaching limits
+
+### Cache Configuration
+
+```python
+from pharmacy_scraper.classification import PerplexityClient
+
+# Initialize with custom cache settings
+client = PerplexityClient(
+    api_key="your_api_key",
+    max_cache_size_mb=100,    # 100MB cache limit (default: 1024MB)
+    cleanup_frequency=300,    # Cleanup every 5 minutes (default: 300s)
+    cache_ttl_seconds=604800, # 1 week TTL (default: 1 week)
+    cache_dir="./cache"       # Custom cache directory
+)
+```
+
+### Cache Metrics and Monitoring
+
+The cache system provides comprehensive metrics for monitoring and optimization:
+
+#### Available Metrics
+
+```python
+{
+    'hits': 42,           # Number of successful cache reads
+    'misses': 8,           # Number of cache misses
+    'size': 10485760,      # Current cache size in bytes
+    'max_size': 104857600, # Maximum allowed cache size in bytes (100MB)
+    'errors': 0,           # Number of cache-related errors
+    'expired': 0,          # Number of expired entries
+    'entries': 50,         # Total number of cache entries
+    'evicted': 3,          # Number of entries evicted due to size limits
+    'hit_ratio': 0.84,     # Cache hit ratio (hits / (hits + misses))
+    'last_cleanup': '2025-06-26T18:30:45Z'  # Timestamp of last cleanup
+}
+```
+
+#### Accessing and Analyzing Metrics
+
+```python
+# Get current cache metrics
+metrics = client.get_cache_metrics()
+
+# Basic metrics
+print(f"Cache hit ratio: {metrics['hit_ratio']:.1%}")
+print(f"Cache size: {metrics['size'] / (1024*1024):.1f} / {metrics['max_size'] / (1024*1024):.1f} MB")
+print(f"Entries: {metrics['entries']} (evicted: {metrics.get('evicted', 0)})")
+
+# Check if cache is approaching limits
+if metrics['size'] > metrics['max_size'] * 0.9:
+    print("Warning: Cache is >90% full")
+    
+# Get detailed entry information
+if hasattr(client, 'get_cache_entries'):
+    entries = client.get_cache_entries(limit=5)
+    print("\nMost recent cache entries:")
+    for entry in entries:
+        print(f"- {entry['key']}: {entry['size']/1024:.1f}KB")
+```
+
+#### Monitoring Cache Performance
+
+1. **Logging**: The cache system provides detailed logging at different levels:
+   ```
+   DEBUG - Cache hit for key: abc123 (size: 2.1KB)
+   DEBUG - Cache miss for key: def456
+   DEBUG - Evicted 3 entries (oldest first), new size: 98.5MB
+   INFO  - Cache cleanup complete: removed 5 expired entries, 3 evicted (current: 95/100MB)
+   WARNING - Cache size (99.8MB) exceeds 95% of limit (100MB), performing emergency cleanup
+   ```
+
+2. **Automatic Maintenance**:
+   - **Size-based cleanup**: Triggers when size exceeds 90% of limit
+   - **Time-based cleanup**: Runs at configured `cleanup_frequency` interval
+   - **LRU Eviction**: Removes least recently used items when needed
+   - **TTL Enforcement**: Automatically expires entries based on TTL
+
+3. **Error Handling**: The system includes robust error handling for:
+   - Disk I/O errors (permissions, full disk)
+   - Corrupted cache files (automatic recovery)
+   - JSON serialization issues
+   - Concurrent access conflicts
+   - Network timeouts (for distributed cache)
+
+#### Performance Optimization Tips
+
+1. **Sizing**:
+   - Set `max_cache_size_mb` based on expected working set
+   - Monitor hit ratio; aim for >80% for optimal performance
+   - Adjust TTL based on data volatility
+
+2. **Tuning**:
+   - Increase `cleanup_frequency` for large caches
+   - Use `cache_preload()` for critical paths
+   - Consider `prefetch_related` for batch operations
+
+3. **Troubleshooting**:
+   - High miss rate? Check cache size and TTL
+   - Slow performance? Verify disk I/O and fragmentation
+   - Memory issues? Monitor eviction rates
+
+#### Recommended Monitoring Setup
+
+1. **Alerting**:
+   - Alert when hit ratio drops below 70%
+   - Monitor cache size approaching limits
+   - Track eviction rates for capacity planning
+
+2. **Integration**:
+   - Export metrics to Prometheus/Grafana
+   - Log cache events to centralized logging
+   - Set up dashboards for cache performance
+
+1. **Log Collection**: Use a log aggregation service (e.g., ELK, Datadog) to collect and analyze cache logs
+2. **Alerting**: Set up alerts for:
+   - High error rates
+   - Low cache hit ratio (< 70%)
+   - Rapid cache growth
+3. **Dashboard**: Create a dashboard with:
+   - Cache hit/miss ratio
+   - Total cache size
+   - Number of entries
+   - Error rates
+
+#### Configuration Options
+
+```python
+client = PerplexityClient(
+    cache_dir="./cache",              # Cache directory path
+    cache_ttl_seconds=604800,         # 1 week TTL (None for no expiration)
+    enable_metrics=True,              # Enable cache metrics collection
+    max_cache_size_mb=1024,           # Maximum cache size in MB (optional)
+    cleanup_frequency=3600            # Cleanup interval in seconds (optional)
+)
+```
+
+#### Best Practices for Monitoring
+
+1. **Regular Cleanup**: Schedule regular cache cleanup during off-peak hours
+2. **Size Limits**: Set appropriate size limits based on available disk space
+3. **Retention Policy**: Adjust TTL based on your data freshness requirements
+4. **Error Monitoring**: Monitor error rates and set up alerts for anomalies
+5. **Performance Metrics**: Track cache hit ratio and response times
+
+#### Troubleshooting Cache Issues
+
+1. **High Miss Rate**:
+   - Check if cache is being cleared too frequently
+   - Verify cache directory has proper permissions
+   - Consider increasing cache size if hitting limits
+
+2. **Performance Issues**:
+   - Monitor disk I/O if using slow storage
+   - Consider using a RAM disk for high-performance requirements
+   - Check for too many small files (consider batch operations)
+
+3. **Data Inconsistencies**:
+   - Verify cache invalidation logic
+   - Check for race conditions in concurrent access
+   - Monitor for cache corruption events
    - Classification prompt template (implicitly included in the model name)
 
 2. **Storage Format**: Results are stored as JSON files in the cache directory, with filenames matching the SHA-256 hash.
