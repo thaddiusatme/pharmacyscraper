@@ -5,8 +5,9 @@ import functools
 import json
 import hashlib
 from cachetools import TTLCache
-from typing import Optional
+from typing import Optional, List
 import logging
+from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
@@ -63,3 +64,31 @@ def cache_wrapper(func):
     
     wrapper.clear_cache = clear_cache
     return wrapper
+
+def save_to_cache(data: List[dict], cache_key: str, cache_dir: str) -> None:
+    """Saves data to a JSON file in the cache directory."""
+    cache_path = Path(cache_dir)
+    cache_path.mkdir(parents=True, exist_ok=True)
+    file_path = cache_path / f"{cache_key}.json"
+    try:
+        with open(file_path, 'w') as f:
+            json.dump(data, f, indent=2)
+        logger.debug(f"Saved data to cache: {file_path}")
+    except (IOError, TypeError) as e:
+        logger.warning(f"Failed to save cache file {file_path}: {e}")
+
+def load_from_cache(cache_key: str, cache_dir: str) -> Optional[List[dict]]:
+    """Loads data from a JSON file in the cache directory."""
+    cache_path = Path(cache_dir)
+    file_path = cache_path / f"{cache_key}.json"
+    if not file_path.exists():
+        return None
+    
+    try:
+        with open(file_path, 'r') as f:
+            data = json.load(f)
+        logger.debug(f"Loaded data from cache: {file_path}")
+        return data
+    except (IOError, json.JSONDecodeError) as e:
+        logger.warning(f"Failed to load cache file {file_path}: {e}")
+        return None
