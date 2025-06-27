@@ -2,10 +2,7 @@ name: CI Pipeline
 
 on:
   push:
-    # Run on all branches when pushing to .github/workflows/
-    paths:
-      - '.github/workflows/**'
-    # Run on all branches when pushing to src/ or tests/
+    # Run on all branches when pushing to src/, tests/, or .github/workflows/
     paths:
       - 'src/**'
       - 'tests/**'
@@ -187,5 +184,6 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
           SLACK_TITLE: 'Workflow ${{ job.status }}: ${{ github.workflow }} #${{ github.run_number }}'
-          SLACK_MESSAGE: 'Commit: ${{ github.sha }} on ${{ github.ref_name }} by @${{ github.actor }}
-${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}'
+          SLACK_MESSAGE: |
+            Commit: ${{ github.sha }} on ${{ github.ref_name }} by @${{ github.actor }}
+            ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
