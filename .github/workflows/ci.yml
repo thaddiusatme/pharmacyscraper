@@ -2,12 +2,21 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, develop ]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - '.github/workflows/**'
+      - 'requirements*.txt'
+      - 'pyproject.toml'
+      - 'setup.*'
   pull_request:
-    branches: [ main, master ]
+    branches: [ main, master, develop ]
   schedule:
     # Weekly dependency updates check (runs every Sunday)
     - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Allow manual triggering of the workflow
 
 # Allow manual workflow triggering
 workflow_dispatch:

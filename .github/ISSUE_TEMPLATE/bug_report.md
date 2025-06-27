@@ -1,28 +1,73 @@
 ---
 name: 🐛 Bug Report
-about: Create a report to help us improve
+about: Report an issue with the Pharmacy Scraper
+title: '[BUG] Brief description of the issue'
+labels: 'bug'
 ---
 
-**Describe the bug**
+## 🐞 Bug Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 🔍 Affected Components
+- [ ] Data Collection (Apify)
+- [ ] Classification (Perplexity API)
+- [ ] Deduplication
+- [ ] Self-Healing
+- [ ] Verification System
+- [ ] Documentation
+- [ ] Other (please specify)
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🐜 Steps to Reproduce
+1. Environment setup:
+   - OS: [e.g., macOS 14.0, Ubuntu 22.04]
+   - Python Version: [e.g., 3.9.6]
+   - Branch: [e.g., main, feature/independent-pharmacy-filter]
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+2. Steps to reproduce:
+   ```bash
+   # Example commands that trigger the bug
+   python scripts/run_scraper.py --config config/production.json
+   ```
 
-**Environment (please complete the following information):**
-- OS: [e.g., iOS, Windows, Ubuntu]
-- Python Version: [e.g., 3.9, 3.10]
-- Dependencies: [e.g., requests==2.28.1]
+## 🎯 Expected vs Actual Behavior
+**Expected:**
+- What should happen
 
-**Additional context**
-Add any other context about the problem here.
+**Actual:**
+- What actually happens
+- Include any error messages or stack traces
+
+## 📊 Impact Assessment
+- [ ] Data loss/corruption
+- [ ] Incorrect classification
+- [ ] Performance degradation
+- [ ] API cost implications
+- [ ] Security concern
+
+## 📝 Additional Context
+- Screenshots (if applicable)
+- Related issues/PRs
+- Environment details:
+  - Apify token configured: [Yes/No]
+  - Google Places API key: [Yes/No]
+  - Perplexity API key: [Yes/No]
+
+## ✅ To Reproduce (for developers)
+```python
+# Minimal code to reproduce the issue
+from pharmacy_scraper import PharmacyScraper
+
+# Add test code here
+```
+
+## 📋 Additional Information
+- First occurrence: [Date/Time]
+- Frequency: [Always/Intermittent/Specific conditions]
+- Workarounds (if any):
+
+## 🏷 Labels
+- bug
+- needs-triage
+
+## 🙋‍♂️ Assignee
+@[assignee]
