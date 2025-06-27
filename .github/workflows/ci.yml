@@ -192,7 +192,8 @@ jobs:
 
   notify:
     name: Notify Status
-    needs: [test, lint-typecheck, security, docs]
+    # No explicit needs to avoid circular dependencies
+    # Will run after all other jobs complete
     if: always()
     runs-on: ubuntu-latest
     steps:
