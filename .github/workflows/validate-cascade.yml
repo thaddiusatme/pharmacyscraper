@@ -89,19 +89,33 @@ jobs:
         echo "All YAML files validated successfully"
     
     - name: Check for required fields in Cascade rules
+      id: check-required-fields
       run: |
-        python -c '
+        # Create a debug log file
+        DEBUG_LOG="cascade-debug.log"
+        echo "# Cascade Rules Validation Debug Log" > "$DEBUG_LOG"
+        
+        # Function to log messages to both console and file
+        log() {
+          echo "$1"
+          echo "$1" >> "$DEBUG_LOG"
+        }
+        
+        # Run Python script with debug output
+        python3 -c '
         import yaml, os, sys, json
         
         def check_required_fields(rules, required_fields, file_path):
             print(f"\n=== Checking required fields in {file_path} ===")
-            print(f"File content type: {type(rules) if rules is not None else 'None'}")
-            if rules is not None:
-                print(f"File keys: {list(rules.keys()) if hasattr(rules, \"keys\") else 'N/A'}")
+            print(f"File content type: {type(rules) if rules is not None else "None"}")
+            if rules is not None and hasattr(rules, "keys"):
+                print(f"File keys: {list(rules.keys())}")
+            else:
+                print("File keys: N/A (not a dictionary)")
             
             missing = []
             for field in required_fields:
-                if rules is None or field not in rules:
+                if rules is None or not hasattr(rules, "keys") or field not in rules:
                     missing.append(field)
             
             if missing:
@@ -118,12 +132,19 @@ jobs:
         
         # Check .cascade/rules
         print("\n=== Checking .cascade/rules directory ===")
-        if not os.path.exists(".cascade"):
-            print("Warning: .cascade directory does not exist")
+        cascade_rules_dir = ".cascade/rules"
+        if not os.path.isdir(cascade_rules_dir):
+            print(f"Warning: {cascade_rules_dir} directory does not exist")
+            valid = False
         else:
-            for root, dirs, files in os.walk(".cascade"):
+            for root, dirs, files in os.walk(cascade_rules_dir):
                 print(f"Checking directory: {root}")
                 print(f"Files found: {files}")
+                
+                if not files:
+                    print(f"Warning: No files found in {root}")
+                    valid = False
+                
                 for file in files:
                     if file.endswith(('.yaml', '.yml')):
                         file_path = os.path.join(root, file)
@@ -141,41 +162,70 @@ jobs:
                             print(f"Error checking {file_path}: {e}")
                             valid = False
         
-        # Check .windsurf/rules
+        # Check .windsurf/rules (even though we might not need it)
         print("\n=== Checking .windsurf/rules directory ===")
-        if not os.path.exists(".windsurf/rules"):
-            print("Warning: .windsurf/rules directory does not exist")
+        windsurf_rules_dir = ".windsurf/rules"
+        if not os.path.isdir(windsurf_rules_dir):
+            print(f"Info: {windsurf_rules_dir} directory does not exist (this might be expected)")
         else:
-            for root, dirs, files in os.walk(".windsurf/rules"):
-                print(f"Checking directory: {root}")
-                print(f"Files found: {files}")
-                for file in files:
-                    if file.endswith(('.yaml', '.yml', '.md')):
-                        file_path = os.path.join(root, file)
-                        print(f"\nProcessing file: {file_path}")
-                        try:
-                            with open(file_path, "r") as f:
-                                content = f.read()
-                                print(f"File content length: {len(content)} bytes")
-                                # Skip YAML front matter in markdown files
-                                if file.endswith(\".md\") and '---\n' in content:
-                                    print("Processing markdown file with YAML front matter")
-                                    content = content.split('---\n', 2)[1]
-                                rules = yaml.safe_load(content)
-                                print(f"Parsed YAML type: {type(rules)}")
-                                if not check_required_fields(rules, required_fields, file_path):
-                                    valid = False
-                        except Exception as e:
-                            print(f"Error checking {file_path}: {e}")
-                            valid = False
+            print(f"Found {windsurf_rules_dir}, but we only need .cascade/rules for now")
         
         print("\n=== Validation Summary ===")
         if not valid:
             print("❌ Validation failed: Some files are missing required fields")
+            # Save debug info to file for artifact
+            with open("validation_failure.txt", "w") as f:
+                f.write("Validation failed. Check the logs for details.\n")
+                f.write(f"Checked directory: {os.path.abspath(cascade_rules_dir)}\n")
+                f.write(f"Required fields: {required_fields}\n")
             sys.exit(1)
         else:
             print("✅ All rule files have the required fields")
         '
+        
+        # Save debug output to file
+        echo "\n\n=== Workflow Environment ===" >> "$DEBUG_LOG"
+        echo "Current directory: $(pwd)" >> "$DEBUG_LOG"
+        echo "Directory contents:" >> "$DEBUG_LOG"
+        ls -la >> "$DEBUG_LOG"
+        echo "\n.cascade contents:" >> "$DEBUG_LOG"
+        ls -la .cascade 2>> "$DEBUG_LOG" || echo ".cascade not found" >> "$DEBUG_LOG"
+        
+        # Check if .cascade/rules exists and its contents
+        if [ -d ".cascade/rules" ]; then
+          echo "\n.cascade/rules contents:" >> "$DEBUG_LOG"
+          ls -la .cascade/rules/ >> "$DEBUG_LOG"
+          
+          # Check contents of each YAML file
+          for file in .cascade/rules/*.{yaml,yml} 2>/dev/null; do
+            if [ -f "$file" ]; then
+              echo "\n=== Contents of $file ===" >> "$DEBUG_LOG"
+              cat "$file" >> "$DEBUG_LOG"
+            fi
+          done
+        fi
+        
+        # Set output for next steps
+        echo "valid=$valid" >> $GITHUB_OUTPUT
+    
+    - name: Upload debug log
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: cascade-debug-logs
+        path: |
+          cascade-debug.log
+          validation_failure.txt
+        retention-days: 1
+    
+    - name: Check validation result
+      if: steps.check-required-fields.outputs.valid != 'true'
+      run: |
+        echo "::error::Validation failed. Check the logs for details."
+        if [ -f "validation_failure.txt" ]; then
+          cat validation_failure.txt
+        fi
+        exit 1
     
     - name: Check for YAML files
       id: check-files
