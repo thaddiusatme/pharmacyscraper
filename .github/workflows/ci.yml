@@ -207,18 +207,31 @@ jobs:
       - name: Check if all jobs passed
         if: contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled')
         run: exit 1
+      
+      # Only run Slack notifications if the secret is configured
+      - name: Check for Slack webhook
+        id: check-slack
+        run: |
+          if [ -n "${{ secrets.SLACK_WEBHOOK_URL }}" ]; then
+            echo "slack_configured=true" >> $GITHUB_OUTPUT
+          else
+            echo "Slack webhook not configured, skipping notifications"
+            echo "slack_configured=false" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Send Slack notification
+        if: steps.check-slack.outputs.slack_configured == 'true'
         uses: rtCamp/action-slack-notify@v2
-        if: always()
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL || 'dummy' }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
           SLACK_TITLE: 'Workflow ${{ job.status }}: ${{ github.workflow }} #${{ github.run_number }}'
           SLACK_MESSAGE: 'Commit: ${{ github.sha }} on ${{ github.ref_name }} by @${{ github.actor }}\n${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}'
+      
       - name: Send failure notification
-        if: failure()
+        if: failure() && steps.check-slack.outputs.slack_configured == 'true'
         uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL || 'dummy' }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_MESSAGE: 'Some checks failed for ${{ github.repository }}@${{ github.sha }}'
           SLACK_COLOR: 'danger'
