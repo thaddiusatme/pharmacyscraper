@@ -16,12 +16,14 @@ on:
   schedule:
     # Weekly dependency updates check (runs every Sunday)
     - cron: '0 0 * * 0'
+  # Manual trigger configuration
   workflow_dispatch:
     inputs:
       reason:
         description: 'Reason for running the workflow manually'
         required: false
         default: 'Manual trigger'
+        type: string
 
 # Set environment variables for all jobs
 env:
