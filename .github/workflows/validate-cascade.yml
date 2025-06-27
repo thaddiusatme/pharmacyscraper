@@ -50,8 +50,15 @@ jobs:
     
     - name: Set up validation script
       run: |
+        echo "=== Setting up validation script ==="
         mkdir -p .github/scripts
         chmod +x .github/scripts/validate_cascade.py
+        echo "Script permissions:"
+        ls -la .github/scripts/validate_cascade.py
+        echo "Python version:"
+        python3 --version
+        echo "Python path:"
+        which python3
     
     - name: Validate YAML files
       run: |
