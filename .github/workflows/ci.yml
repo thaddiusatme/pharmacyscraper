@@ -2,7 +2,8 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [ main, master, develop ]
+    # Run on all branches when pushing to .github/workflows/
+    branches: [ main, master, develop, 'feature/*' ]
     paths:
       - 'src/**'
       - 'tests/**'
