@@ -1,0 +1,14 @@
+# Default owners for everything in the repo
+*       @thaddiusatme
+
+# Documentation
+/docs/ @thaddiusatme
+
+# Source code
+/src/ @thaddiusatme
+
+# Tests
+/tests/ @thaddiusatme
+
+# GitHub Actions workflows
+/.github/workflows/ @thaddiusatme
