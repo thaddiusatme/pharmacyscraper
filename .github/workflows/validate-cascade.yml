@@ -91,58 +91,90 @@ jobs:
     - name: Check for required fields in Cascade rules
       run: |
         python -c '
-        import yaml, os, sys
+        import yaml, os, sys, json
         
         def check_required_fields(rules, required_fields, file_path):
+            print(f"\n=== Checking required fields in {file_path} ===")
+            print(f"File content type: {type(rules) if rules is not None else 'None'}")
+            if rules is not None:
+                print(f"File keys: {list(rules.keys()) if hasattr(rules, \"keys\") else 'N/A'}")
+            
             missing = []
             for field in required_fields:
-                if field not in rules:
+                if rules is None or field not in rules:
                     missing.append(field)
+            
             if missing:
                 print(f"✗ {file_path} is missing required fields: {', '.join(missing)}")
                 return False
+            print(f"✓ {file_path} has all required fields")
             return True
         
         required_fields = ["rules", "version"]
         valid = True
         
+        print("\n=== Starting required fields check ===")
+        print(f"Required fields: {required_fields}")
+        
         # Check .cascade/rules
-        for root, _, files in os.walk(".cascade"):
-            for file in files:
-                if file.endswith(('.yaml', '.yml')):
-                    file_path = os.path.join(root, file)
-                    try:
-                        with open(file_path, "r") as f:
-                            rules = yaml.safe_load(f)
-                            if not check_required_fields(rules, required_fields, file_path):
-                                valid = False
-                    except Exception as e:
-                        print(f"Error checking {file_path}: {e}")
-                        valid = False
+        print("\n=== Checking .cascade/rules directory ===")
+        if not os.path.exists(".cascade"):
+            print("Warning: .cascade directory does not exist")
+        else:
+            for root, dirs, files in os.walk(".cascade"):
+                print(f"Checking directory: {root}")
+                print(f"Files found: {files}")
+                for file in files:
+                    if file.endswith(('.yaml', '.yml')):
+                        file_path = os.path.join(root, file)
+                        print(f"\nProcessing file: {file_path}")
+                        try:
+                            with open(file_path, "r") as f:
+                                print(f"Reading file: {file_path}")
+                                content = f.read()
+                                print(f"File content length: {len(content)} bytes")
+                                rules = yaml.safe_load(content)
+                                print(f"Parsed YAML type: {type(rules)}")
+                                if not check_required_fields(rules, required_fields, file_path):
+                                    valid = False
+                        except Exception as e:
+                            print(f"Error checking {file_path}: {e}")
+                            valid = False
         
         # Check .windsurf/rules
-        for root, _, files in os.walk(".windsurf/rules"):
-            for file in files:
-                if file.endswith(('.yaml', '.yml', '.md')):
-                    file_path = os.path.join(root, file)
-                    try:
-                        with open(file_path, "r") as f:
-                            # Skip YAML front matter in markdown files
-                            content = f.read()
-                            if file.endswith('.md'):
-                                if '---\n' in content:
+        print("\n=== Checking .windsurf/rules directory ===")
+        if not os.path.exists(".windsurf/rules"):
+            print("Warning: .windsurf/rules directory does not exist")
+        else:
+            for root, dirs, files in os.walk(".windsurf/rules"):
+                print(f"Checking directory: {root}")
+                print(f"Files found: {files}")
+                for file in files:
+                    if file.endswith(('.yaml', '.yml', '.md')):
+                        file_path = os.path.join(root, file)
+                        print(f"\nProcessing file: {file_path}")
+                        try:
+                            with open(file_path, "r") as f:
+                                content = f.read()
+                                print(f"File content length: {len(content)} bytes")
+                                # Skip YAML front matter in markdown files
+                                if file.endswith(\".md\") and '---\n' in content:
+                                    print("Processing markdown file with YAML front matter")
                                     content = content.split('---\n', 2)[1]
-                            rules = yaml.safe_load(content)
-                            if not check_required_fields(rules, required_fields, file_path):
-                                valid = False
-                    except Exception as e:
-                        print(f"Error checking {file_path}: {e}")
-                        valid = False
+                                rules = yaml.safe_load(content)
+                                print(f"Parsed YAML type: {type(rules)}")
+                                if not check_required_fields(rules, required_fields, file_path):
+                                    valid = False
+                        except Exception as e:
+                            print(f"Error checking {file_path}: {e}")
+                            valid = False
         
+        print("\n=== Validation Summary ===")
         if not valid:
+            print("❌ Validation failed: Some files are missing required fields")
             sys.exit(1)
         else:
-            print("✓ All rule files have the required fields")
+            print("✅ All rule files have the required fields")
         '
     
     - name: Check for YAML files
