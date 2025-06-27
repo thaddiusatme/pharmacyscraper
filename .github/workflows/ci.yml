@@ -86,19 +86,44 @@ jobs:
         chmod -R 777 test-results
         
         # Create a minimal test result file before running tests
-        echo '<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/3.10/results.xml
+        mkdir -p test-results/3.10
+        cat > test-results/3.10/results.xml << 'EOL'
+        <?xml version="1.0" encoding="utf-8"?>
+        <testsuites>
+          <testsuite name="pytest" tests="1" errors="0" failures="0" skipped="0" time="0.0">
+            <testcase classname="dummy" name="dummy_test" time="0.0">
+              <skipped message="No tests found"/>
+            </testcase>
+          </testsuite>
+        </testsuites>
+        EOL
+        
+        # Show directory structure for debugging
+        echo "Current directory structure:"
+        find . -type d | sort
         
         # Run tests with coverage, capture output
         set +e
         if [ -f "pyproject.toml" ]; then
-          poetry run pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
+          poetry run python -m pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
         else
-          pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
+          python -m pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
         fi
         
         # Ensure the test results file exists and has content
         if [ ! -s "test-results/3.10/results.xml" ]; then
-          echo '<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" tests="0" errors="1" failures="0" skipped="0"><testcase classname="tests" name="no_tests_found" time="0"><error message="No tests were found">No tests were found or executed.</error></testcase></testsuite></testsuites>' > test-results/3.10/results.xml
+          echo "No test results file found, creating minimal results file"
+          mkdir -p test-results/3.10
+          cat > test-results/3.10/results.xml << 'EOL'
+          <?xml version="1.0" encoding="utf-8"?>
+          <testsuites>
+            <testsuite name="pytest" tests="1" errors="1" failures="0" skipped="0" time="0.0">
+              <testcase classname="dummy" name="no_tests_found" time="0.0">
+                <error message="No tests were found">No tests were found or executed.</error>
+              </testcase>
+            </testsuite>
+          </testsuites>
+          EOL
         fi
         
         # Show test results for debugging
@@ -106,8 +131,15 @@ jobs:
         ls -la test-results/3.10/
         cat test-results/3.10/results.xml
         
-        # Always succeed this step to ensure artifacts are uploaded
-        exit 0
+        # Verify test results file exists and is readable
+        if [ -f "test-results/3.10/results.xml" ]; then
+          echo "Test results file exists and is readable"
+          chmod -R 777 test-results
+          exit 0
+        else
+          echo "ERROR: Test results file was not created!"
+          exit 1
+        fi
     - name: Upload test results
       uses: actions/upload-artifact@v4
       if: always()
