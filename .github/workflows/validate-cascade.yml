@@ -27,7 +27,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+      with:
+        fetch-depth: 0
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -38,81 +40,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install pyyaml
         
-    - name: Create required directories
-      run: |
-        mkdir -p .cascade/rules
-        mkdir -p .github/scripts
-        
-    - name: Create validation script
-      run: |
-        cat > .github/scripts/validate_cascade.py << 'EOF'
-import os
-import sys
-import yaml
-
-def validate_yaml(file_path):
-    try:
-        with open(file_path, 'r') as f:
-            data = yaml.safe_load(f)
-        
-        print(f"Valid YAML: {file_path}")
-        print(f"  Contains keys: {list(data.keys()) if data else 'empty'}")
-        
-        required_fields = ["rules", "version"]
-        missing = [field for field in required_fields if field not in data]
-        
-        if missing:
-            print(f"Missing required fields: {', '.join(missing)}")
-            return False
-            
-        print("All required fields present")
-        return True
-        
-    except Exception as e:
-        print(f"Error in {file_path}: {str(e)}")
-        return False
-
-def main():
-    if len(sys.argv) < 2:
-        print("Usage: python validate_cascade.py <yaml_file>")
-        return 1
-        
-    file_path = sys.argv[1]
-    if not os.path.isfile(file_path):
-        print(f"Error: File not found: {file_path}")
-        return 1
-        
-    if not validate_yaml(file_path):
-        return 1
-        
-    return 0
-
-if __name__ == "__main__":
-    sys.exit(main())
-EOF
-
-    - name: Create sample rules file if not exists
-      run: |
-        if [ ! -f .cascade/rules/pharmacy_scraper.yaml ]; then
-          cat > .cascade/rules/pharmacy_scraper.yaml << 'EOF'
-# Pharmacy Scraper Cascade Rules
-version: "1.0.0"
-rules:
-  - name: template-assistance
-    description: Provide template-based assistance for common tasks
-    triggers:
-      - intent: create_issue
-        patterns: 
-          - "create (bug|issue|ticket)"
-          - "report a problem"
-          - "found an? (issue|bug)"
-        priority: high
-EOF
-        fi
-
     - name: Validate YAML files
       run: |
         echo "Validating YAML files in .cascade/rules/"
+        
+        # Create rules directory if it doesn't exist
+        mkdir -p .cascade/rules
+        
+        # Validate each YAML file
         for file in .cascade/rules/*.yaml .cascade/rules/*.yml; do
           if [ -f "$file" ]; then
             echo "\nValidating $file"
