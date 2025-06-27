@@ -123,10 +123,9 @@ jobs:
     - uses: actions/checkout@v3
     
     - name: Run Bandit security scanner
-      uses: PyCQA/bandit@1.7.4
-      with:
-        targets: src/
-        args: "-r -c pyproject.toml -f json -o results.json"
+      run: |
+        python -m pip install bandit
+        bandit -r src/ -c pyproject.toml -f json -o results.json
     
     - name: Upload security scan results
       uses: github/codeql-action/upload-sarif@v2
