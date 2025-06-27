@@ -225,3 +225,12 @@ logs/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Project-specific temp files
+.api_cache/
+test_cache/
+test_output/
+test-results/
+*.bak
+coverage_report.txt
+
