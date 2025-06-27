@@ -96,6 +96,63 @@ class APICreditTracker:
             
         return True
     
+    def track_usage(self, service: str, cost: float = 1.0):
+        """Context manager to track API usage with automatic credit deduction.
+        
+        Args:
+            service: Name of the service being used (e.g., 'apify', 'google_places')
+            cost: Cost in credits for this API call
+            
+        Yields:
+            None
+            
+        Raises:
+            CreditLimitExceededError: If the cost would exceed the credit limit
+        """
+        if not self.check_credit_available(cost):
+            raise CreditLimitExceededError(
+                f"Insufficient credits for {service} operation (cost: {cost}). "
+                f"Used {self.usage_data['total_used']}/{self.budget} total, "
+                f"{self._get_daily_used()}/{self.daily_limit} today."
+            )
+            
+        class CreditTrackerContext:
+            def __init__(self, parent, service, cost):
+                self.parent = parent
+                self.service = service
+                self.cost = cost
+                self.start_time = time.time()
+                
+            def __enter__(self):
+                self.parent.record_usage(self.cost, f"{self.service}_api_call")
+                logger.debug(f"Started {self.service} API call (cost: {self.cost})")
+                return self
+                
+            def __exit__(self, exc_type, exc_val, exc_tb):
+                duration = time.time() - self.start_time
+                if exc_type is not None:
+                    logger.error(
+                        f"{self.service} API call failed after {duration:.2f}s: {exc_val}",
+                        exc_info=(exc_type, exc_val, exc_tb)
+                    )
+                else:
+                    logger.debug(f"Completed {self.service} API call in {duration:.2f}s")
+                return False  # Don't suppress exceptions
+                
+        return CreditTrackerContext(self, service, cost)
+        
+    def set_cost_limit(self, service: str, cost: float) -> None:
+        """Set the cost limit for a specific service.
+        
+        Args:
+            service: Name of the service (e.g., 'apify', 'google_places')
+            cost: Cost per API call for this service
+        """
+        if not hasattr(self, '_service_limits'):
+            self._service_limits = {}
+        self._service_limits[service] = cost
+        logger.debug(f"Set cost limit for {service}: ${cost:.4f} per call")
+        
     def record_usage(self, credits_used: float, operation: str = "api_call") -> None:
         """Record API usage.
         
@@ -136,6 +193,17 @@ class APICreditTracker:
             float: Total credits used
         """
         return self.usage_data.get('total_used', 0.0)
+
+    def reset(self):
+        """Reset usage data to its initial state, for testing purposes."""
+        self.usage_data = {
+            'total_used': 0.0,
+            'daily_usage': {},
+            'last_updated': datetime.utcnow().isoformat()
+        }
+        # Overwrite the usage file with the reset state
+        self._save_usage_data()
+        logger.info("API credit tracker has been reset.")
 
 # Global instance for easy access
 try:

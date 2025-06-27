@@ -90,41 +90,66 @@ class PerplexityClient:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: Optional[str] = None,
+        model_name: Optional[str] = "pplx-7b-online",
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
         openai_client: Optional[OpenAI] = None,
         max_retries: int = 3,
         enable_metrics: bool = True,
-        cache_ttl_seconds: Optional[int] = 7 * 24 * 3600  # 1 week default TTL
-    ):
-        """
-        Initializes the PerplexityClient with enhanced error handling and monitoring.
-
+        cache_ttl_seconds: Optional[int] = 7 * 24 * 3600,  # 1 week default TTL
+        max_cache_size_mb: Optional[float] = None,  # Maximum cache size in MB
+        cleanup_frequency: int = 300  # Cleanup every 5 minutes by default
+    ) -> None:
+        """Initialize the PerplexityClient.
+        
         Args:
-            api_key: The Perplexity API key. If None, it's read from PERPLEXITY_API_KEY env var.
-            model_name: The model to use for classification.
-            rate_limit: The number of requests per minute to allow.
-            cache_dir: The directory to store cache files. Caching is disabled if None.
-            force_reclassification: If True, bypass cache and force API call.
-            openai_client: Optional pre-configured OpenAI client.
-            max_retries: Maximum number of retry attempts for API calls.
-            enable_metrics: Whether to collect and log cache metrics.
-            cache_ttl_seconds: Time in seconds before cache entries expire. None for no expiration.
+            api_key: Perplexity API key. If not provided, will try to get from PERPLEXITY_API_KEY env var.
+            model_name: Name of the model to use. Defaults to 'sonar-medium-online'.
+            rate_limit: Maximum number of requests per minute.
+            cache_dir: Directory to store cache files. If None, caching is disabled.
+            force_reclassification: If True, always call the API even if result is in cache.
+            openai_client: Optional OpenAI client instance. If not provided, one will be created.
+            max_retries: Maximum number of retries for API calls.
+            enable_metrics: Whether to enable metrics collection.
+            cache_ttl_seconds: Time-to-live for cache entries in seconds. If None, cache never expires.
+            max_cache_size_mb: Maximum cache size in MB. If None, no size limit is enforced.
+            cleanup_frequency: How often to run cleanup in seconds. Set to 0 to run on every check.
         """
         self.api_key = api_key or os.getenv("PERPLEXITY_API_KEY")
-        
-        # Debug logging to track API key assignment
-        logger.debug(f"PerplexityClient constructor - api_key param: {type(api_key)} = {api_key}")
-        logger.debug(f"PerplexityClient constructor - os.getenv result: {type(os.getenv('PERPLEXITY_API_KEY'))} = {os.getenv('PERPLEXITY_API_KEY', 'NOT_FOUND')}")
-        logger.debug(f"PerplexityClient constructor - self.api_key final: {type(self.api_key)} = {self.api_key}")
-        
         if not self.api_key:
-            raise ValueError("Perplexity API key not found. Set PERPLEXITY_API_KEY environment variable.")
-
-        config = get_config()
-        self.model = model_name or config.get("perplexity_model", "sonar")
+            raise ValueError(
+                "API key must be provided either as an argument or via PERPLEXITY_API_KEY environment variable"
+            )
+            
+        self.model_name = model_name or "sonar-medium-online"
+        self.rate_limit = rate_limit
+        self.force_reclassification = force_reclassification
+        self.max_retries = max_retries
+        self.enable_metrics = enable_metrics
+        self.cache_ttl_seconds = cache_ttl_seconds
+        self.max_cache_size_mb = max_cache_size_mb * 1024 * 1024 if max_cache_size_mb else None  # Convert MB to bytes
+        self.cleanup_frequency = cleanup_frequency
+        
+        # Initialize cache
+        self.cache_dir = Path(cache_dir) if cache_dir else None
+        if self.cache_dir:
+            self.cache_dir.mkdir(parents=True, exist_ok=True)
+            logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
+        
+        # Initialize metrics
+        self._cache_metrics = {
+            'hits': 0,
+            'misses': 0,
+            'errors': 0,
+            'size': 0,  # in bytes
+            'entries': 0,
+            'expired': 0,
+            'last_cleaned': 0
+        }
+        
+        # Update metrics on init
+        self._update_cache_metrics()
         
         # Use provided OpenAI client or create a new one
         if openai_client is not None:
@@ -132,33 +157,6 @@ class PerplexityClient:
         else:
             self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
-        self.force_reclassification = force_reclassification
-        self.max_retries = max_retries
-        
-        # Initialize metrics
-        self.enable_metrics = enable_metrics
-        self.cache_ttl_seconds = cache_ttl_seconds
-        self._cache_metrics = {
-            'hits': 0,
-            'misses': 0,
-            'errors': 0,
-            'size': 0,
-            'last_cleaned': time.time()
-        }
-        
-        # Initialize cache
-        self.cache_dir = Path(cache_dir) if cache_dir else None
-        if self.cache_dir:
-            try:
-                self.cache_dir.mkdir(parents=True, exist_ok=True)
-                logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
-                self._update_cache_metrics()
-            except (OSError, PermissionError) as e:
-                logger.error(f"Failed to initialize cache directory {cache_dir}: {e}")
-                logger.warning("Caching will be disabled due to initialization error")
-                self.cache_dir = None
-        else:
-            logger.info("PerplexityClient caching is disabled.")
 
     def _get_cache_file(self, cache_key: str) -> Path:
         """Get the full path to a cache file."""
@@ -207,11 +205,23 @@ class PerplexityClient:
             return None
     
     def _write_to_cache(self, cache_file: Path, data: Dict[str, Any]) -> bool:
-        """Write data to cache file with error handling."""
+        """Write data to cache file with error handling and size management.
+        
+        Args:
+            cache_file: Path to the cache file
+            data: Data to cache
+            
+        Returns:
+            bool: True if write was successful, False otherwise
+        """
         if not self.cache_dir:
             return False
             
+        temp_file = None
         try:
+            # Check and enforce cache size limits before writing
+            self._check_cache_limits()
+            
             # Create cache directory if it doesn't exist
             self.cache_dir.mkdir(parents=True, exist_ok=True)
             
@@ -219,21 +229,29 @@ class PerplexityClient:
             cache_entry = {
                 'data': data,
                 'cached_at': time.time(),
-                'version': '1.0'  # For future compatibility
+                'version': '1.0',  # For future compatibility
+                'size': 0  # Will be updated after writing
             }
             
             # Add TTL if specified
             if self.cache_ttl_seconds is not None:
                 cache_entry['expires_at'] = time.time() + self.cache_ttl_seconds
             
-            # Convert to JSON to validate it's serializable
-            json.dumps(cache_entry)
-            
             # Write to temporary file first, then rename (atomic operation)
             temp_file = cache_file.with_suffix('.tmp')
+            
+            # First write to get the size
             with open(temp_file, 'w') as f:
                 json.dump(cache_entry, f, indent=2)
-                
+            
+            # Get the actual file size and update the cache entry
+            file_size = temp_file.stat().st_size
+            cache_entry['size'] = file_size
+            
+            # Write again with updated size
+            with open(temp_file, 'w') as f:
+                json.dump(cache_entry, f, indent=2)
+            
             # Atomic rename
             temp_file.replace(cache_file)
             
@@ -241,54 +259,159 @@ class PerplexityClient:
             self._update_cache_metrics()
             return True
             
-        except (OSError, TypeError, ValueError) as e:
+        except (OSError, TypeError, ValueError) as e:  # ValueError catches JSONEncodeError in Python < 3.5
             logger.warning(f"Failed to write to cache file {cache_file}: {e}")
             self._cache_metrics['errors'] += 1
+            return False
+            
+        finally:
             # Clean up any temporary file that might be left
-            if 'temp_file' in locals() and temp_file.exists():
+            if temp_file is not None and temp_file.exists():
                 try:
                     temp_file.unlink()
-                except OSError:
-                    pass
-            return False
+                except OSError as e:
+                    logger.warning(f"Failed to clean up temporary file {temp_file}: {e}")
+    
+    def _check_cache_limits(self):
+        """Check and enforce cache size limits."""
+        if not self.cache_dir or self.max_cache_size_mb is None:
+            return
+            
+        current_time = time.time()
+        
+        # Only check if enough time has passed since last cleanup
+        if self.cleanup_frequency > 0 and \
+           (current_time - self._cache_metrics.get('last_cleaned', 0)) < self.cleanup_frequency:
+            return
+            
+        try:
+            # Get all cache files with their sizes and modification times
+            cache_files = []
+            total_size = 0
+            
+            for file_path in self.cache_dir.glob('*.json'):
+                try:
+                    file_size = file_path.stat().st_size
+                    mtime = file_path.stat().st_mtime
+                    cache_files.append((file_path, mtime, file_size))
+                    total_size += file_size
+                except OSError as e:
+                    logger.warning(f"Error accessing cache file {file_path}: {e}")
+            
+            # Check if we're over the limit
+            if total_size <= self.max_cache_size_mb:
+                return
+                
+            logger.info(f"Cache size {total_size/1024/1024:.2f}MB exceeds limit of {self.max_cache_size_mb/1024/1024:.2f}MB. Cleaning up...")
+            
+            # Sort files by modification time (oldest first)
+            cache_files.sort(key=lambda x: x[1])
+            
+            # Remove oldest files until we're under 90% of the limit
+            target_size = self.max_cache_size_mb * 0.9
+            removed = 0
+            
+            for file_path, _, file_size in cache_files:
+                if total_size <= target_size:
+                    break
+                    
+                try:
+                    file_path.unlink()
+                    total_size -= file_size
+                    removed += 1
+                except OSError as e:
+                    logger.warning(f"Error removing cache file {file_path}: {e}")
+            
+            if removed > 0:
+                logger.info(f"Removed {removed} old cache files. New size: {total_size/1024/1024:.2f}MB")
+                
+            # Update last cleaned time and metrics
+            self._cache_metrics['last_cleaned'] = current_time
+            self._update_cache_metrics()
+            
+        except Exception as e:
+            logger.error(f"Error during cache cleanup: {e}")
+            self._cache_metrics['errors'] += 1
     
     def _update_cache_metrics(self):
-        """Update cache metrics including size and hit ratio."""
+        """Update cache metrics including size, entries, and hit ratio."""
         if not self.enable_metrics or not self.cache_dir or not self.cache_dir.exists():
             return
             
         try:
             # Count cache files and calculate total size
-            cache_files = list(self.cache_dir.glob('*.json'))
-            self._cache_metrics['size'] = sum(f.stat().st_size for f in cache_files if f.is_file())
+            total_size = 0
+            total_entries = 0
+            expired_entries = 0
+            
+            for file_path in self.cache_dir.glob('*.json'):
+                try:
+                    file_size = file_path.stat().st_size
+                    total_size += file_size
+                    total_entries += 1
+                    
+                    # Check if entry is expired
+                    if self.cache_ttl_seconds and (time.time() - file_path.stat().st_mtime) > self.cache_ttl_seconds:
+                        expired_entries += 1
+                        
+                except OSError as e:
+                    logger.warning(f"Failed to stat cache file {file_path}: {e}")
+            
+            # Update metrics
+            self._cache_metrics.update({
+                'size': total_size,
+                'entries': total_entries,
+                'expired': expired_entries
+            })
             
             # Log metrics periodically
-            total = self._cache_metrics['hits'] + self._cache_metrics['misses']
-            hit_ratio = (self._cache_metrics['hits'] / total * 100) if total > 0 else 0
+            total_requests = self._cache_metrics['hits'] + self._cache_metrics['misses']
+            hit_ratio = (self._cache_metrics['hits'] / total_requests * 100) if total_requests > 0 else 0
             
-            # Format the metrics string to match test expectations
-            metrics_str = (
+            logger.debug(
                 f"Cache metrics: hits={self._cache_metrics['hits']}, "
                 f"misses={self._cache_metrics['misses']}, "
-                f"size={self._format_bytes(self._cache_metrics['size'])}"
+                f"size={total_size/1024/1024:.2f}MB, "
+                f"entries={total_entries}, "
+                f"expired={expired_entries}"
             )
-            
-            # Log the metrics in a single log message to match test expectations
-            logger.debug(metrics_str)
             logger.debug(f"Cache hit ratio: {hit_ratio:.1f}%")
             
         except Exception as e:
             logger.warning(f"Failed to update cache metrics: {e}")
     
-    @staticmethod
-    def _format_bytes(size_bytes: int) -> str:
-        """Format bytes to human-readable string."""
-        for unit in ['B', 'KB', 'MB', 'GB', 'TB']:
-            if size_bytes < 1024.0:
-                return f"{size_bytes:.1f} {unit}"
-            size_bytes /= 1024.0
-        return f"{size_bytes:.1f} PB"
-    
+    def _cleanup_expired_entries(self):
+        """Remove expired cache entries."""
+        if not self.cache_dir or self.cache_ttl_seconds is None:
+            return 0
+            
+        current_time = time.time()
+        removed = 0
+        
+        for cache_file in self.cache_dir.glob('*.json'):
+            try:
+                with open(cache_file, 'r') as f:
+                    data = json.load(f)
+                
+                # Check if entry has expired
+                expires_at = data.get('expires_at')
+                if expires_at is not None and current_time > expires_at:
+                    try:
+                        cache_file.unlink()
+                        removed += 1
+                    except OSError as e:
+                        logger.warning(f"Error removing expired cache file {cache_file}: {e}")
+                    
+            except (json.JSONDecodeError, OSError) as e:
+                logger.warning(f"Error reading cache file {cache_file}: {e}")
+                continue
+        
+        if removed > 0:
+            logger.info(f"Removed {removed} expired cache entries")
+            self._update_cache_metrics()
+            
+        return removed
+                
     def cleanup_expired(self) -> int:
         """
         Clean up expired cache entries.
@@ -296,27 +419,7 @@ class PerplexityClient:
         Returns:
             int: Number of entries removed
         """
-        if not self.cache_dir or not self.cache_ttl_seconds:
-            return 0
-            
-        removed = 0
-        try:
-            for cache_file in self.cache_dir.glob('*.json'):
-                if not self._is_cache_valid(cache_file):
-                    try:
-                        cache_file.unlink()
-                        removed += 1
-                    except OSError as e:
-                        logger.warning(f"Failed to remove expired cache file {cache_file}: {e}")
-            
-            if removed > 0:
-                logger.info(f"Removed {removed} expired cache entries")
-                self._update_cache_metrics()
-                
-        except Exception as e:
-            logger.error(f"Error during cache cleanup: {e}")
-            
-        return removed
+        return self._cleanup_expired_entries()
     
     def get_cache_metrics(self) -> Dict[str, Any]:
         """
@@ -328,7 +431,12 @@ class PerplexityClient:
         self._update_cache_metrics()
         return self._cache_metrics.copy()
     
-    def classify_pharmacy(self, pharmacy_data: Dict[str, Any], model: Optional[str] = None) -> Optional[Dict[str, Any]]:
+    def classify_pharmacy(
+        self, 
+        pharmacy_data: Dict[str, Any], 
+        model: Optional[str] = None,
+        cache_dir: Optional[str] = None
+    ) -> Optional[Dict[str, Any]]:
         """
         Classifies a single pharmacy using the Perplexity API, with optional caching.
         
@@ -340,23 +448,23 @@ class PerplexityClient:
         
         Args:
             pharmacy_data: A dictionary containing the pharmacy's details. Should include
-                at minimum a 'name' or 'title' field for logging and cache key generation.
-                Additional fields may be used in the classification prompt.
-                
-            model: The classification model to use. If None, uses the default model
-                specified when initializing the client.
-                
+                         at minimum 'name' and 'address' keys.
+            model: The name of the model to use for classification. If None, uses the
+                  instance's default model.
+            cache_dir: Optional directory path to use for caching. If provided, overrides
+                     the instance's cache directory.
+                     
         Returns:
-            Optional[Dict[str, Any]]: 
-                - If successful: A dictionary containing the classification results with
-                  keys like 'is_chain', 'is_compounding', 'confidence', etc.
-                - If the API call fails or returns an invalid response: None
-                
-        Raises:
-            RateLimitError: If the rate limit is exceeded and all retries are exhausted.
-            PerplexityAPIError: For other API-related errors.
+            A dictionary containing the classification result with keys:
+            - is_chain: bool indicating if the pharmacy is a chain
+            - confidence: float between 0 and 1 indicating confidence
+            - explanation: str with reasoning for the classification
+            - method: str indicating how the classification was determined
+            - model: str indicating which model was used
             
-        Note:
+        Raises:
+            PerplexityAPIError: If the API request fails after all retries
+            ValueError: If the pharmacy data is invalid
             - When caching is enabled (default), successful classifications are cached to
               avoid redundant API calls for the same pharmacy data.
             - Set force_reclassification=True when initializing the client to bypass the cache.

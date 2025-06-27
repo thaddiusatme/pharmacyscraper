@@ -4,12 +4,36 @@ A Python-based tool for scraping and analyzing pharmacy data from various source
 
 ## Features
 
-- **Data Collection**: Scrapes pharmacy data using Apify and Google Places API
-- **Filtering**: Advanced filtering to identify independent pharmacies
-- **Verification**: Address and business verification using Google Places
-- **Deduplication**: Smart duplicate removal and self-healing capabilities
-- **Classification**: AI-powered classification of pharmacies
+### Pipeline Phases
+
+The system processes data through the following phases in order:
+
+1. **Data Collection** (Phase 1)
+   - Scrapes pharmacy data using Apify and Google Places API
+   - Handles rate limiting and API quotas
+   - Implements caching to minimize redundant requests
+
+2. **Deduplication** (Phase 1.5)
+   - Smart duplicate removal using fuzzy matching
+   - Self-healing capabilities for data gaps
+   - Maintains data integrity across sources
+
+3. **Classification** (Phase 2a)
+   - AI-powered classification using Perplexity LLM
+   - Identifies independent vs. chain pharmacies
+   - Implements caching for cost efficiency
+
+4. **Verification** (Phase 2b - Optional)
+   - Address and business verification using Google Places
+   - Ensures data accuracy and completeness
+   - Validates pharmacy details against trusted sources
+
+### Core Capabilities
+
 - **Budget Management**: Tracks and manages API usage and costs
+- **Error Handling**: Robust error recovery and retry mechanisms
+- **Performance**: Optimized for large-scale data processing
+- **Extensibility**: Modular design for easy integration of new data sources
 
 ## Installation
 
