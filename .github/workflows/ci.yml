@@ -82,24 +82,29 @@ jobs:
         pip list
         
         # Create test results directory with full permissions
-        mkdir -p test-results/${{ matrix.python-version }}
+        mkdir -p test-results/3.10
         chmod -R 777 test-results
         
         # Create a minimal test result file before running tests
-        echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
+        echo '<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/3.10/results.xml
         
         # Run tests with coverage, capture output
         set +e
-        poetry run pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/${{ matrix.python-version }}/results.xml -v || true
+        if [ -f "pyproject.toml" ]; then
+          poetry run pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
+        else
+          pytest --cov=src --cov-report=xml:coverage.xml --junitxml=test-results/3.10/results.xml -v || echo "Tests completed with status $?"
+        fi
         
         # Ensure the test results file exists and has content
-        if [ ! -s "test-results/${{ matrix.python-version }}/results.xml" ]; then
-          echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="1" failures="0" skipped="0"><testcase classname="tests" name="no_tests_found" time="0"><error message="No tests were found">No tests were found or executed.</error></testcase></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
+        if [ ! -s "test-results/3.10/results.xml" ]; then
+          echo '<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" tests="0" errors="1" failures="0" skipped="0"><testcase classname="tests" name="no_tests_found" time="0"><error message="No tests were found">No tests were found or executed.</error></testcase></testsuite></testsuites>' > test-results/3.10/results.xml
         fi
         
         # Show test results for debugging
         echo "Test results file contents:"
-        cat test-results/${{ matrix.python-version }}/results.xml
+        ls -la test-results/3.10/
+        cat test-results/3.10/results.xml
         
         # Always succeed this step to ensure artifacts are uploaded
         exit 0
@@ -234,8 +239,6 @@ jobs:
   docs:
     name: Build Documentation
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ env.PYTHON_VERSION }}
@@ -246,52 +249,108 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y make build-essential python3-dev
-    - name: Install documentation dependencies
+    - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install sphinx sphinx-rtd-theme recommonmark
         if [ -f "docs/requirements.txt" ]; then
           pip install -r docs/requirements.txt || echo "Could not install all documentation dependencies, continuing..."
+        fi
     - name: Build documentation
       run: |
-        # Create minimal sphinx config if it doesn't exist
+        set -x  # Enable debug output
+        
+        # Create docs directory if it doesn't exist
         mkdir -p docs
+        
+        # Create a minimal conf.py if it doesn't exist
         if [ ! -f "docs/conf.py" ]; then
-          echo "# Minimal Sphinx config" > docs/conf.py
-          echo "project = 'Pharmacy Scraper'" >> docs/conf.py
-          echo "extensions = ['sphinx.ext.autodoc']" >> docs/conf.py
+          cat > docs/conf.py << 'EOL'
+          # Minimal Sphinx config
+          project = 'Pharmacy Scraper'
+          copyright = '2025, Pharmacy Scraper Team'
+          author = 'Pharmacy Scraper Team'
+          release = '0.1.0'
+          extensions = [
+              'sphinx.ext.autodoc',
+              'sphinx.ext.viewcode',
+              'sphinx.ext.napoleon',
+              'sphinx_rtd_theme'
+          ]
+          templates_path = ['_templates']
+          exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+          html_theme = 'sphinx_rtd_theme'
+          html_static_path = ['_static']
+          html_theme_options = {
+              'collapse_navigation': False,
+              'sticky_navigation': True,
+              'navigation_depth': 4,
+              'includehidden': True,
+              'titles_only': False
+          }
+          EOL
         fi
         
         # Create minimal index.rst if it doesn't exist
         if [ ! -f "docs/index.rst" ]; then
-          echo "Welcome to Pharmacy Scraper's documentation!" > docs/index.rst
-          echo "==========================================" >> docs/index.rst
-          echo "" >> docs/index.rst
-          echo ".. toctree::" >> docs/index.rst
-          echo "   :maxdepth: 2" >> docs/index.rst
-          echo "   :caption: Contents:" >> docs/index.rst
-          echo "" >> docs/index.rst
-          echo "Indices and tables" >> docs/index.rst
-          echo "==================" >> docs/index.rst
-          echo "" >> docs/index.rst
-          echo "* :ref:`genindex`" >> docs/index.rst
-          echo "* :ref:`modindex`" >> docs/index.rst
-          echo "* :ref:`search`" >> docs/index.rst
+          cat > docs/index.rst << 'EOL'
+          .. Pharmacy Scraper documentation master file
+
+          Welcome to Pharmacy Scraper's documentation!
+          ==========================================
+          
+          .. toctree::
+             :maxdepth: 2
+             :caption: Contents:
+          
+          Indices and tables
+          ==================
+          
+          * :ref:`genindex`
+          * :ref:`modindex`
+          * :ref:`search`
+          EOL
         fi
         
-        # Build the docs
+        # Create modules.rst if it doesn't exist
+        if [ ! -f "docs/modules.rst" ]; then
+          echo ".. toctree::" > docs/modules.rst
+          echo "   :maxdepth: 4" >> docs/modules.rst
+          echo "   :caption: Modules:" >> docs/modules.rst
+          echo "" >> docs/modules.rst
+        fi
+        
+        # Build the docs with verbose output
         set +e
-        sphinx-build -b html docs/ docs/_build/html
+        sphinx-build -v -a -E -b html docs/ docs/_build/html
         BUILD_STATUS=$?
-        set -e
         
-        # Ensure the output directory exists
-        mkdir -p docs/_build/html
-        
-        # Create a minimal index.html if the build failed
+        # If build failed, create a minimal index.html
         if [ $BUILD_STATUS -ne 0 ] || [ ! -f "docs/_build/html/index.html" ]; then
           echo "Documentation build failed with status $BUILD_STATUS, creating minimal docs"
-          echo "<html><body><h1>Documentation Build Failed</h1><p>See the CI logs for details.</p></body></html>" > docs/_build/html/index.html
+          mkdir -p docs/_build/html
+          cat > docs/_build/html/index.html << 'EOL'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <meta charset="utf-8">
+              <title>Documentation Build Failed</title>
+              <style>
+                  body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; }
+                  .container { max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #e1e4e8; border-radius: 6px; margin-top: 50px; }
+                  h1 { color: #e74c3c; }
+                  pre { background: #f6f8fa; padding: 16px; border-radius: 6px; overflow-x: auto; }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>Documentation Build Failed</h1>
+                  <p>The documentation failed to build properly. This could be due to missing dependencies or configuration issues.</p>
+                  <p>Please check the build logs for more details.</p>
+              </div>
+          </body>
+          </html>
+          EOL
         fi
         
         # Always exit with success to ensure artifact upload
