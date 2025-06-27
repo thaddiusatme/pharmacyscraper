@@ -25,10 +25,22 @@ env:
   PYTHON_VERSION: '3.10'
   POETRY_VERSION: '1.5.1'
 
+# Set default permissions for the workflow
+permissions:
+  contents: read
+  security-events: write
+  actions: read
+  checks: write
+  statuses: write
+  pull-requests: write
+
 jobs:
   test:
     name: Python ${{ matrix.python-version }}
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
     strategy:
       fail-fast: false
       matrix:
@@ -71,6 +83,8 @@ jobs:
   lint:
     name: Lint and Type Check
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ env.PYTHON_VERSION }}
@@ -91,6 +105,9 @@ jobs:
   security:
     name: Security Scan
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ env.PYTHON_VERSION }}
@@ -118,6 +135,9 @@ jobs:
   dependencies:
     name: Check Dependencies
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python
@@ -142,6 +162,8 @@ jobs:
   docs:
     name: Build Documentation
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ env.PYTHON_VERSION }}
@@ -166,6 +188,9 @@ jobs:
     if: always()
     needs: [test, lint, security, dependencies, docs]
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
     steps:
       - name: Check if all jobs passed
         if: contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled')
