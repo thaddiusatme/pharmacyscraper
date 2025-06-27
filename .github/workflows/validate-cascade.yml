@@ -87,10 +87,6 @@ jobs:
         done
         
         echo "All YAML files validated successfully"
-        
-        if not valid:
-            sys.exit(1)
-        '
     
     - name: Check for required fields in Cascade rules
       run: |
