@@ -57,8 +57,16 @@ jobs:
         version: ${{ env.POETRY_VERSION }}
         virtualenvs-create: true
         virtualenvs-in-project: true
-    - name: Install dependencies
+    - name: Install system dependencies
       run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential python3-dev
+        
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install poetry
+        poetry config virtualenvs.create true
         poetry install --with dev --no-interaction --no-ansi
     - name: Create test results directory
       run: mkdir -p test-results/${{ matrix.python-version }}
@@ -69,10 +77,17 @@ jobs:
         python --version
         pip list
         
+        # Create test results directory if it doesn't exist
+        mkdir -p test-results/${{ matrix.python-version }}
+        
         # Run tests with coverage, capture output
         if ! poetry run pytest --cov=src --cov-report=xml --junitxml=test-results/${{ matrix.python-version }}/results.xml -v; then
           echo "Tests failed, showing test output:"
-          cat test-results/${{ matrix.python-version }}/results.xml || echo "No test results file found"
+          cat test-results/${{ matrix.python-version }}/results.xml 2>/dev/null || echo "No test results file found"
+          # Create a minimal test result file if none exists
+          if [ ! -f "test-results/${{ matrix.python-version }}/results.xml" ]; then
+            echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
+          fi
           exit 1
         fi
     - name: Upload test results
@@ -179,19 +194,53 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: ${{ env.PYTHON_VERSION }}
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y make build-essential python3-dev
     - name: Install documentation dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install sphinx sphinx-rtd-theme
-        pip install -r docs/requirements.txt || echo "Could not install all documentation dependencies, continuing..."
+        pip install sphinx sphinx-rtd-theme recommonmark
+        if [ -f "docs/requirements.txt" ]; then
+          pip install -r docs/requirements.txt || echo "Could not install all documentation dependencies, continuing..."
+        fi
     - name: Build documentation
       run: |
         set -x
         mkdir -p docs/_build/html
+        # Create a minimal conf.py if it doesn't exist
+        if [ ! -f "docs/conf.py" ]; then
+          mkdir -p docs
+          echo "# Minimal Sphinx configuration" > docs/conf.py
+          echo "extensions = ['sphinx.ext.autodoc', 'sphinx.ext.viewcode']" >> docs/conf.py
+          echo "source_suffix = '.rst'" >> docs/conf.py
+          echo "master_doc = 'index'" >> docs/conf.py
+          echo "project = 'Pharmacy Scraper'" >> docs/conf.py
+          echo "copyright = '2025, Pharmacy Scraper Team'" >> docs/conf.py
+          echo "version = '0.1'" >> docs/conf.py
+          echo "release = '0.1.0'" >> docs/conf.py
+          echo "exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']" >> docs/conf.py
+          echo "html_theme = 'alabaster'" >> docs/conf.py
+        fi
+        # Create a minimal index.rst if it doesn't exist
+        if [ ! -f "docs/index.rst" ]; then
+          echo "Welcome to Pharmacy Scraper's documentation!" > docs/index.rst
+          echo "==========================================" >> docs/index.rst
+          echo "" >> docs/index.rst
+          echo ".. toctree::" >> docs/index.rst
+          echo "   :maxdepth: 2" >> docs/index.rst
+          echo "   :caption: Contents:" >> docs/index.rst
+          echo "" >> docs/index.rst
+        fi
+        # Build the docs
         cd docs
         if ! make html; then
           echo "Documentation build failed, showing error log:"
-          cat _build/html/_sources/*.txt || echo "No documentation source files found"
+          cat _build/html/_sources/*.txt 2>/dev/null || echo "No documentation source files found"
+          # Create a minimal index.html to ensure the artifact upload doesn't fail
+          mkdir -p _build/html
+          echo "<html><body><h1>Documentation build failed</h1><p>Check the build logs for details.</p></body></html>" > _build/html/index.html
           exit 1
         fi
     - name: Upload documentation
