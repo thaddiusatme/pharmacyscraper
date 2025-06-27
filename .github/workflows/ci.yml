@@ -69,7 +69,11 @@ jobs:
         poetry config virtualenvs.create true
         poetry install --with dev --no-interaction --no-ansi
     - name: Create test results directory
-      run: mkdir -p test-results/${{ matrix.python-version }}
+      run: |
+        # Create test results directory with full permissions
+        mkdir -p test-results/${{ matrix.python-version }}
+        chmod -R 777 test-results
+        
     - name: Run tests with coverage
       run: |
         set -x  # Enable debug output
@@ -77,18 +81,23 @@ jobs:
         python --version
         pip list
         
-        # Create test results directory if it doesn't exist
+        # Ensure test results directory exists and is writable
         mkdir -p test-results/${{ matrix.python-version }}
+        chmod -R 777 test-results
+        
+        # Create a minimal test result file before running tests
+        echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
         
         # Run tests with coverage, capture output
         if ! poetry run pytest --cov=src --cov-report=xml --junitxml=test-results/${{ matrix.python-version }}/results.xml -v; then
           echo "Tests failed, showing test output:"
           cat test-results/${{ matrix.python-version }}/results.xml 2>/dev/null || echo "No test results file found"
-          # Create a minimal test result file if none exists
-          if [ ! -f "test-results/${{ matrix.python-version }}/results.xml" ]; then
-            echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="0" failures="0" skipped="0"></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
-          fi
           exit 1
+        fi
+        
+        # Ensure the test results file exists and has content
+        if [ ! -s "test-results/${{ matrix.python-version }}/results.xml" ]; then
+          echo '<?xml version="1.0" ?><testsuites><testsuite name="pytest" tests="0" errors="1" failures="0" skipped="0"><testcase classname="tests" name="no_tests_found" time="0"><error message="No tests were found">No tests were found or executed.</error></testcase></testsuite></testsuites>' > test-results/${{ matrix.python-version }}/results.xml
         fi
     - name: Upload test results
       uses: actions/upload-artifact@v4
@@ -161,22 +170,57 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: write
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python
+    - name: Set up Python ${{ env.PYTHON_VERSION }}
       uses: actions/setup-python@v5
       with:
         python-version: ${{ env.PYTHON_VERSION }}
-    - name: Check for outdated dependencies
-      id: outdated
+    - name: Install pip-tools
       run: |
+        python -m pip install --upgrade pip
         pip install pip-tools
-        pip list --outdated --format=json > outdated.json
-        echo "has_outdated=$(jq -r 'if length > 0 then "true" else "false" end' outdated.json)" >> $GITHUB_OUTPUT
+    - name: Generate requirements.txt if not exists
+      run: |
+        if [ ! -f "requirements.txt" ]; then
+          echo "# Auto-generated requirements file" > requirements.txt
+          echo "-e ." >> requirements.txt
+        fi
+    - name: Check for outdated dependencies
+      id: check-deps
+      continue-on-error: true
+      run: |
+        # Create a temporary requirements.in if it doesn't exist
+        if [ ! -f "requirements.in" ]; then
+          grep -v '^\s*#' requirements.txt | grep -v '^\s*$' > requirements.in || echo "No requirements found"
+        fi
+        
+        # Check if we have any requirements to check
+        if [ -s "requirements.in" ]; then
+          # Run pip-compile in check mode
+          pip-compile --upgrade --dry-run --allow-unsafe --generate-hashes --output-file=/dev/null requirements.in || \
+            echo "Dependency check completed with warnings"
+          
+          # Check for outdated packages
+          pip list --outdated --format=json > outdated.json
+          OUTDATED_COUNT=$(jq -r 'length' outdated.json 2>/dev/null || echo "0")
+          echo "outdated_count=${OUTDATED_COUNT}" >> $GITHUB_OUTPUT
+          
+          if [ "$OUTDATED_COUNT" -gt 0 ]; then
+            echo "Found $OUTDATED_COUNT outdated dependencies"
+            echo "has_outdated=true" >> $GITHUB_OUTPUT
+          else
+            echo "No outdated dependencies found"
+            echo "has_outdated=false" >> $GITHUB_OUTPUT
+          fi
+        else
+          echo "No requirements found to check"
+          echo "outdated_count=0" >> $GITHUB_OUTPUT
+          echo "has_outdated=false" >> $GITHUB_OUTPUT
+        fi
     - name: Create issue for outdated dependencies
+      if: steps.check-deps.outputs.has_outdated == 'true' && github.event_name == 'schedule'
       uses: peter-evans/create-issue-from-file@v5
-      if: steps.outdated.outputs.has_outdated == 'true'
       with:
         title: 'Dependency Updates Available'
         content-filepath: ./outdated.json
