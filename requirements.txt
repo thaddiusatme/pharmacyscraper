@@ -16,7 +16,7 @@ google-api-python-client>=2.0.0,<3.0.0
 
 # Data Processing
 python-dateutil>=2.8.2,<3.0.0
-pytz>=2022.1,<2024.0
+pytz>=2022.1,<2026.0
 
 # Caching
 diskcache>=5.6.1,<6.0.0  # For persistent caching
