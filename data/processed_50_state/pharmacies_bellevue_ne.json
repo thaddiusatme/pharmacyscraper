@@ -1,0 +1,2745 @@
+[
+  {
+    "title": "Pharmacy Plus",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1299 156th Ave NE Ste 140, Bellevue, WA 98007",
+    "neighborhood": "Crossroads",
+    "street": "1299 156th Ave NE Ste 140",
+    "city": "Bellevue",
+    "postalCode": "98007",
+    "state": "Washington",
+    "countryCode": "US",
+    "phone": "(425) 644-8887",
+    "phoneUnformatted": "+14256448887",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 47.6214288,
+      "lng": -122.1331841
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906dbaa9c3ad01:0x995307599fac2d0b",
+    "cid": "11048182392382303499",
+    "reviewsCount": 42,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:45.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Plus&query_place_id=ChIJAa3DqbptkFQRCy2sn1kHU5k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@56.64892519166337,-169.76156469074218,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnIH-Z4UPx8enOzxIvNbBH0esPtJJw9-EeMKdgjuZn9JLBADd2oECPljB2fXwsjRbGesZGUQ7oaJvRiMW3zHgkunewE5ccWqvXrtnY-RLPugO_1ct5eA6sHqr2Vv0ziezRqzme=w408-h306-k-no",
+    "kgmid": "/g/1thkrdj4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Custom Prescriptions",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1200 112th Ave NE A102, Bellevue, WA 98004",
+    "neighborhood": "Northwest Bellevue",
+    "street": "1200 112th Ave NE A102",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.rxcustom.com/",
+    "phone": "(425) 289-0347",
+    "phoneUnformatted": "+14252890347",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6218672,
+      "lng": -122.1900447
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906c8cc83fbc75:0x22e11702139af5c9",
+    "cid": "2513315364735743433",
+    "reviewsCount": 37,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:45.505Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Prescriptions&query_place_id=ChIJdbw_yIxskFQRyfWaEwIX4SI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@56.64892519166337,-169.76156469074218,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYcKBN4wbiKM1AqWjKmak4i4P4UGM-FEgqnywy=w408-h276-k-no",
+    "kgmid": "/g/1tx46rd_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13010 NE 20th St #200, Bellevue, WA 98005",
+    "neighborhood": "Wilburton",
+    "street": "13010 NE 20th St #200",
+    "city": "Bellevue",
+    "postalCode": "98005",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6288734,
+      "lng": -122.1662859
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906d778465c3f3:0x96ad95d4290b1f6b",
+    "cid": "10857499015114334059",
+    "reviewsCount": 265,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:45.505Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJ88NlhHdtkFQRax8LKdSVrZY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@56.64892519166337,-169.76156469074218,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ6Z5ptwhI8xzCdlGdg7k8MJmkL6eG_WhtbxEb=w408-h306-k-no",
+    "kgmid": "/g/11j1zcck8j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Beyond Dispensing Pharmacy and Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2206 Longo Dr Suite 209, Bellevue, NE 68005",
+    "neighborhood": null,
+    "street": "2206 Longo Dr Suite 209",
+    "city": "Bellevue",
+    "postalCode": "68005",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "phone": "(402) 509-7474",
+    "phoneUnformatted": "+14025097474",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1567131,
+      "lng": -95.922528
+    },
+    "totalScore": 5,
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879389d7dbed3401:0x6ba5b15d9f451c98",
+    "cid": "7756800948877728920",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:45.505Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beyond%20Dispensing%20Pharmacy%20and%20Compounding&query_place_id=ChIJATTt29eJk4cRmBxFn12xpWs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@56.64892519166337,-169.76156469074218,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v0Hi90Pb4EE0jDdwjWnA5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.16719&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hfzw6pzl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Nebraska Medicine Pharmacy at Bellevue Health Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2510 Bellevue Medical Center Dr Suite 100, Bellevue, NE 68123",
+    "neighborhood": null,
+    "street": "2510 Bellevue Medical Center Dr Suite 100",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.nebraskamed.com/bellevue/pharmacy",
+    "phone": "(402) 595-1156",
+    "phoneUnformatted": "+14025951156",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1372515,
+      "lng": -95.947961
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJBSs3mC7Z5ogRfW_WyA4bHE4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88e6d92e98372b05:0x4e1c1b0ec8d66f7d",
+    "cid": "5628403384619265917",
+    "reviewsCount": 14,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:45.548Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nebraska%20Medicine%20Pharmacy%20at%20Bellevue%20Health%20Center&query_place_id=ChIJBSs3mC7Z5ogRfW_WyA4bHE4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@66.43262335305997,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPaLUYZEo394w0iQ5Ge3YmsTEkhFMwNZY53uii-=w408-h408-k-no",
+    "kgmid": "/g/1hc28vgcj",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CHI Health Pharmacy (Bellevue)",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3308 Samson Way, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "3308 Samson Way",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.chihealth.com/en/services/pharmacy.html",
+    "phone": "+1 402-291-5076",
+    "phoneUnformatted": "+14022915076",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1397089,
+      "lng": -95.9628288
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ8zl_0OmJk4cRJ5WruAmgolU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879389e9d07f39f3:0x55a2a009b8ab9527",
+    "cid": "6170670403064403239",
+    "reviewsCount": 4,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.210Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHI%20Health%20Pharmacy%20(Bellevue)&query_place_id=ChIJ8zl_0OmJk4cRJ5WruAmgolU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMuN5xuzKuN4eSW5eGSt5P3yqHn6LG6T5ZhErvB=w408-h280-k-no",
+    "kgmid": "/g/1vlqqq6y",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "UNMC Physicians Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2501 NE-370, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "2501 NE-370",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "phone": "+1 402-595-1382",
+    "phoneUnformatted": "+14025951382",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.1367302,
+      "lng": -95.948572
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8793883b190ffb67:0xe8fa9019cacc04cb",
+    "cid": "16787889001427895499",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=UNMC%20Physicians%20Pharmacy&query_place_id=ChIJZ_sPGTuIk4cRywTMyhmQ-ug",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aVW9pSX9R9efTjWlRgamLA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.296883&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tcx20b3",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Baker's Pharmacy",
+    "description": "Supermarket chain offering standard departments such as meat, dairy, bakery & deli.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3614 Twin Creek Dr, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "3614 Twin Creek Dr",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.bakersplus.com/rx/pharmacy/details/615/00300?cid=loc_61500300P_gmb",
+    "phone": "+1 402-292-3580",
+    "phoneUnformatted": "+14022923580",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1424514,
+      "lng": -95.9687385
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x879389ec187f6b8f:0xedc2dfe4480194b3",
+    "cid": "17132502104024388787",
+    "reviewsCount": 17,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fam\u20131\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baker's%20Pharmacy&query_place_id=ChIJj2t_GOyJk4cRs5QBSOTfwu0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNWYFC0E2mJJGviXs5mHtTRfX2JN3bi5uZTE5FE=w426-h240-k-no",
+    "kgmid": "/g/1jkw5b8h6",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Baker's Pharmacy",
+    "description": "Supermarket chain offering standard departments such as meat, dairy, bakery & deli.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "801 Galvin Rd S, Bellevue, NE 68005, United States",
+    "neighborhood": null,
+    "street": "801 Galvin Rd S",
+    "city": "Bellevue",
+    "postalCode": "68005",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.bakersplus.com/rx/pharmacy/details/615/00318?cid=loc_61500318P_gmb",
+    "phone": "+1 402-292-0331",
+    "phoneUnformatted": "+14022920331",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1532809,
+      "lng": -95.9157702
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x8793886bc70b4dd5:0xf448ad3b3e81ee44",
+    "cid": "17602509613540961860",
+    "reviewsCount": 14,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fam\u20131\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Baker's%20Pharmacy&query_place_id=ChIJ1U0Lx2uIk4cRRO6BPjutSPQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOK3yBrPQ7JT8cSTRFXbmNaTLiIXh3NO-qZLhoQ=w426-h240-k-no",
+    "kgmid": "/g/1pv08r2d3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3808 Twin Creek Dr, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "3808 Twin Creek Dr",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bellevue-ne-pharmacies/3808-twin-creek-dr-bellevue-ne-68123/storeid=16867?WT.mc_id=LS_GOOGLE_RX_16867",
+    "phone": "+1 402-291-6779",
+    "phoneUnformatted": "+14022916779",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1424298,
+      "lng": -95.9697095
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlzKXMuyJk4cRsHusgA_IEWU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879389ec32973297:0x6511c80f80ac7bb0",
+    "cid": "7282822041343654832",
+    "reviewsCount": 35,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJlzKXMuyJk4cRsHusgA_IEWU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNqdj_YvacPaKhrhR79rAyeqvArRchcIFXbe1ys=w408-h272-k-no",
+    "kgmid": "/g/1tfyf1wz",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1802 Galvin Rd S, Bellevue, NE 68005, United States",
+    "neighborhood": null,
+    "street": "1802 Galvin Rd S",
+    "city": "Bellevue",
+    "postalCode": "68005",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1802+galvin+rd+s-bellevue-ne-68005/id=3694",
+    "phone": "+1 402-291-8400",
+    "phoneUnformatted": "+14022918400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1408876,
+      "lng": -95.9097938
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh3_pIhCIk4cRoNwyGwO-mYA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8793881022e97f87:0x8099be031b32dca0",
+    "cid": "9266646628842003616",
+    "reviewsCount": 42,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 11\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fam\u201311\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fam\u201311\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fam\u201311\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fam\u201311\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fam\u201311\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJh3_pIhCIk4cRoNwyGwO-mYA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPsRE-oCyVXWiNHRKqcRMvvGJkWGYllNLaHOoU3=w525-h240-k-no",
+    "kgmid": "/g/11cn96z5kg",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Clark's Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "15615 NE Bel Red Rd suite b, Bellevue, WA 98008, United States",
+    "neighborhood": "Northeast Bellevue",
+    "street": "15615 NE Bel Red Rd suite b",
+    "city": "Bellevue",
+    "postalCode": "98008",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.clarkspharmacywa.com/",
+    "phone": "+1 425-881-0222",
+    "phoneUnformatted": "+14258810222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.633045,
+      "lng": -122.1308566
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54906d0a9e2d692d:0x6296afc2a2fa9112",
+    "cid": "7104058712716382482",
+    "reviewsCount": 112,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clark's%20Compounding%20Pharmacy&query_place_id=ChIJLWktngptkFQREpH6osKvlmI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMElIHCbmVDLiwys680wVf0-qgcIjisoMCJaqR3=w408-h306-k-no",
+    "kgmid": "/g/1tjkfhlq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "6905 S 36th St, Bellevue, NE 68147, United States",
+    "neighborhood": null,
+    "street": "6905 S 36th St",
+    "city": "Bellevue",
+    "postalCode": "68147",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-6905+s+36th+st-bellevue-ne-68147/id=5540",
+    "phone": "+1 402-734-7592",
+    "phoneUnformatted": "+14027347592",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1903598,
+      "lng": -95.9668898
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTaYAZ0GJk4cRUPGlsNg9Co0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x879389416700a64d:0x8d0a3dd8b0a5f150",
+    "cid": "10163003510000841040",
+    "reviewsCount": 15,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJTaYAZ0GJk4cRUPGlsNg9Co0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMEyAj8f3nW5cBWVUx6RfnCk_kOfX44WPSy3nRp=w525-h240-k-no",
+    "kgmid": "/g/11cn96j088",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Nebraska LTC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3901 Normal Blvd STE 203, Lincoln, NE 68506, United States",
+    "neighborhood": null,
+    "street": "3901 Normal Blvd STE 203",
+    "city": "Lincoln",
+    "postalCode": "68506",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/NebraskaLTCpharmacy/",
+    "phone": "+1 402-328-0231",
+    "phoneUnformatted": "+14023280231",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7907176,
+      "lng": -96.6640895
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8796be3366494563:0xcf19fe3a226672db",
+    "cid": "14923238365907546843",
+    "reviewsCount": 20,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nebraska%20LTC%20Pharmacy&query_place_id=ChIJY0VJZjO-locR23JmIjr-Gc8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP4acMeh7dzVE4S1H3lhHw7AQT6hRnflmZLfJAL=w512-h240-k-no",
+    "kgmid": "/g/1thsrwvg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "2109 Towne Centre Dr, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "2109 Towne Centre Dr",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/3154-bellevue-ne/pharmacy/?veh=seo_loc",
+    "phone": "+1 402-686-2043",
+    "phoneUnformatted": "+14026862043",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.116241,
+      "lng": -95.9427922
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo_xmjjJ2lIcRigtLzllYkDk",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x879476328e66fca3:0x39905859ce4b0b8a",
+    "cid": "4147912399544585098",
+    "reviewsCount": 14,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.211Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJo_xmjjJ2lIcRigtLzllYkDk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNhjqDBdfuwnVy_ts7BTuyRDfHOdR3HQPUMAZUm=w408-h306-k-no",
+    "kgmid": "/g/1hm4rvgy0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "UW Medicine Outpatient Pharmacy at Eastside Specialty Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3100 Northup Way 2nd Floor, Bellevue, WA 98004, United States",
+    "neighborhood": "Northwest Bellevue",
+    "street": "3100 Northup Way 2nd Floor",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.uwmedicine.org/locations/bellevue/outpatient-pharmacy?utm_source=extnet&utm_medium=organic&utm_campaign=website_clicks&y_source=1_MTAxMjY2MTQyNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+    "phone": "+1 206-598-5827",
+    "phoneUnformatted": "+12065985827",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6383034,
+      "lng": -122.1913182
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906d0cf4cfe4cf:0x6921942b3b3dd90e",
+    "cid": "7575498961612298510",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.212Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=UW%20Medicine%20Outpatient%20Pharmacy%20at%20Eastside%20Specialty%20Center&query_place_id=ChIJz-TP9AxtkFQRDtk9OyuUIWk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Bhdk8Dm-AjyXrmc0tjSjqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.230385&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vd61h6_0",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "10504 S 15th St, Bellevue, NE 68123, United States",
+    "neighborhood": null,
+    "street": "10504 S 15th St",
+    "city": "Bellevue",
+    "postalCode": "68123",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/2847-bellevue-ne/pharmacy/?veh=seo_loc",
+    "phone": "+1 402-292-0463",
+    "phoneUnformatted": "+14022920463",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1564577,
+      "lng": -95.9362651
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcU0GhU2Ik4cRTmzrKs53R7k",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8793884d85064d71:0xb94777ce2aeb6c4e",
+    "cid": "13350771347730164814",
+    "reviewsCount": 18,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:49.212Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJcU0GhU2Ik4cRTmzrKs53R7k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@71.29595084097066,-156.56290792837981,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3H_X1AlzBVJw4KjYwoMNAM-Xsrm0lZvcHNpr1=w408-h306-k-no",
+    "kgmid": "/g/1hdzl06nr",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2041 148th Ave NE, Bellevue, WA 98007, United States",
+    "neighborhood": "Crossroads",
+    "street": "2041 148th Ave NE",
+    "city": "Bellevue",
+    "postalCode": "98007",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00023?cid=loc_70100023P_gmb",
+    "phone": "+1 425-865-8593",
+    "phoneUnformatted": "+14258658593",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6287898,
+      "lng": -122.1446702
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp7G-aqhtkFQRHTDbRdWS0kY",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54906da86abeb1a7:0x46d292d545db301d",
+    "cid": "5103302772461875229",
+    "reviewsCount": 33,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:38:53.587Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJp7G-aqhtkFQRHTDbRdWS0kY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@68.51690656216455,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqVpRossJIc3-ukw7R7ogw57ibrDJlvf6m8tcT3aiMbnR3krsMsY7xQwE69stW7LXrn5jWY9OSB-zT2wtMbssQkUdgNXTBol0wAHzWheVMitY61oFJCATq4qhlo998i8hDFziUg-w=w408-h544-k-no",
+    "kgmid": "/g/1hd_bq7m6",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "RxSolutions Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "527 N Washington St, Papillion, NE 68046",
+    "neighborhood": null,
+    "street": "527 N Washington St",
+    "city": "Papillion",
+    "postalCode": "68046",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "http://myrxsolutions.net/",
+    "phone": "(402) 502-6511",
+    "phoneUnformatted": "+14025026511",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1610206,
+      "lng": -96.0426443
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87938a94a9dbfc33:0x91a4abe70ad0cdf",
+    "cid": "655918877530459359",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:07.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Vietnamese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RxSolutions%20Compounding%20Pharmacy&query_place_id=ChIJM_zbqZSKk4cR3wytcL5KGgk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@36.81849750000001,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_tXblb_mgcBxUHrT6pQFIA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=84.89267&pitch=0&thumbfov=100",
+    "kgmid": "/g/11hy9p08pd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bellevue_ne"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "1802 Galvin Rd S, Bellevue, NE 68005",
+    "neighborhood": null,
+    "street": "1802 Galvin Rd S",
+    "city": "Bellevue",
+    "postalCode": "68005",
+    "state": "Nebraska",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1802+galvin+rd+s-bellevue-ne-68005/id=3694",
+    "phone": "(402) 291-8400",
+    "phoneUnformatted": "+14022918400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.1408937,
+      "lng": -95.9098761
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaa3yJxCIk4cRIwfzYsnnVsE",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x8793881027f2ad69:0xc156e7c962f30723",
+    "cid": "13931577349451745059",
+    "reviewsCount": 126,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:39:07.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6\u202fAM to 12\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201311\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fAM\u201312\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJaa3yJxCIk4cRIwfzYsnnVsE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20NE/@36.81849750000001,-76.98739394329682,8z?hl=en",
+    "searchString": "independent pharmacy Bellevue NE",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppZ-vTyFfFtCFCWjc3TgD90luSUstXyKoAnghwpjoztrdeqmb1qMZsL4zlME352lYQAGgfjpdKVXPTPBDu6urRnCvs0I5KkSddu7Cf14Bfs2RiP9Ab5PMS4JAUPwmLBpWXMLrb=w408-h541-k-no",
+    "kgmid": "/g/1wc31rg8",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

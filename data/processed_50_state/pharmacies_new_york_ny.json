@@ -1,0 +1,2645 @@
+[
+  {
+    "title": "New York City Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "206 1st Ave, New York, NY 10009",
+    "neighborhood": "Manhattan",
+    "street": "206 1st Ave",
+    "city": "New York",
+    "postalCode": "10009",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.nycprx.com/",
+    "phone": "(212) 253-8686",
+    "phoneUnformatted": "+12122538686",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7302143,
+      "lng": -73.9830656
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2599dffa883bd:0x9547198182810a70",
+    "cid": "10756594279028689520",
+    "reviewsCount": 80,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.317Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20City%20Pharmacy&query_place_id=ChIJvYOo_51ZwokRcAqBgoEZR5U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqaC8WCd5IGJabYlelfHz7RlxtSAIykFTdXEQ1bEVNLKaaV3Gr-TxtT2dRIHOEJq4vr73O_sECNTbpopz37KzOxUDL8F0PuPfJITKTJ-C0f7oe50Ban76j_UW5m3RHzGf0GToo=w408-h544-k-no",
+    "kgmid": "/g/1trvmbs8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "East Village Prescription Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "41 Avenue A, New York, NY 10009",
+    "neighborhood": "Manhattan",
+    "street": "41 Avenue A",
+    "city": "New York",
+    "postalCode": "10009",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 260-4878",
+    "phoneUnformatted": "+12122604878",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7236345,
+      "lng": -73.9856156
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25982b89130f9:0x2f98d648e4993cf4",
+    "cid": "3429726724803869940",
+    "reviewsCount": 29,
+    "imagesCount": 53,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.318Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=East%20Village%20Prescription%20Center&query_place_id=ChIJ-TCRuIJZwokR9DyZ5EjWmC8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npoGKoYy-VOWaxYoWsXLAohoyfL21mfqBL3hjC7_VulDHxTcnPmbS39u6H4-s-5N0AOfVulhElVh7LdxKhwfBh9F2rz1HzsXmwMljnL9k4DoRiaAy8ZZYU-lR2AH1t-MTWVX-Q=w408-h306-k-no",
+    "kgmid": "/g/1tfjgfx_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "NYC Discount Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1058 1st Ave, New York, NY 10022",
+    "neighborhood": "Manhattan",
+    "street": "1058 1st Ave",
+    "city": "New York",
+    "postalCode": "10022",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://nycdiscountpharmacy.godaddysites.com/",
+    "phone": "(212) 832-7200",
+    "phoneUnformatted": "+12128327200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7586287,
+      "lng": -73.9623926
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c259b9f519243b:0xa3d057d63363e86d",
+    "cid": "11804031200834873453",
+    "reviewsCount": 58,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.318Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NYC%20Discount%20Pharmacy%20Inc&query_place_id=ChIJOyQZ9blZwokRbehjM9ZX0KM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM-_MS1aDti_0WW5QoLvWnwVoJmHQxVUfqlmTi4E0aTf9Vdt3zbEXCG4kfsdNzGeVnh4nNgibUKxPPsoQyorFNegXrgKcgvx54FE7cep70GftM1MSLm27LMCUwZ78Dhpp_ZoaSrA=w408-h544-k-no",
+    "kgmid": "/g/11ny15b57v",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Levitt Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "407 Grand St, New York, NY 10002",
+    "neighborhood": "Manhattan",
+    "street": "407 Grand St",
+    "city": "New York",
+    "postalCode": "10002",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 475-5760",
+    "phoneUnformatted": "+12124755760",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7159176,
+      "lng": -73.9871901
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25a2a7448737b:0xe0036e5622e2b10",
+    "cid": "1008866675353594640",
+    "reviewsCount": 44,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.318Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Levitt%20Pharmacy&query_place_id=ChIJe3NIdCpawokRECsuYuU2AA4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGc1VUplf_uu1pS_KfCcwn1scboU9Lke-bT2bGnybCWWUuEQHWiNzWFKCcvZR_Atz7DXzW7v7eF8gcWyMuLgrbxKbNXI2nYG7cKqBLINhI-VLDIQdQxbxcqxtKD26ugY5TGeEczNP2u4O643GWU4-PVaD7KXJxCxF1xtyYiu2F8VFflf5fDPgytPFHyH3Vvzf8WSQ=w408-h365-k-no",
+    "kgmid": "/g/1tf58tj1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "100 Park Ave FRNT E, New York, NY 10017",
+    "neighborhood": "Manhattan",
+    "street": "100 Park Ave FRNT E",
+    "city": "New York",
+    "postalCode": "10017",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7510915,
+      "lng": -73.9789006
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2593cb3467a6f:0xeed17492df04d2b0",
+    "cid": "17208663825315058352",
+    "reviewsCount": 890,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.318Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20139\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJb3pGszxZwokRsNIE35J00e4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRwGS8O0UsM8Nzz7Rh5qwQdPZwvRaMPmFcEDp5go1ZkKuxovW2bK3IjWK2LyhrlLmaERn2yJQzB5XRdgE_KyF3f1CWaeHtvmLnmtoI4p-Ys-d53KdWlF6yFfOZpg-RocpgdwOdPQ=w408-h544-k-no",
+    "kgmid": "/g/11lm1cdr6y",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Century Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "159 E Broadway, New York, NY 10002",
+    "neighborhood": "Manhattan",
+    "street": "159 E Broadway",
+    "city": "New York",
+    "postalCode": "10002",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.nycenturypharmacy.com/",
+    "phone": "(212) 227-7262",
+    "phoneUnformatted": "+12122277262",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7138321,
+      "lng": -73.9904246
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25a2974b6dd9f:0xf6f1ca66bfe4545b",
+    "cid": "17794226145372427355",
+    "reviewsCount": 25,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Century%20Pharmacy&query_place_id=ChIJn922dClawokRW1Tkv2bK8fY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrfzqBJDMgkscwEJdyAkjFQzOrM3wKoH_JTtZJDwzlpTELl5DrRupNErWDMTEbaW8hOJ0yCegrA9XPVU-bN8JVzmQeFmVMqciGzh7QkAW2IyWn6sMkYwofnUO0FPyIu3iUMCS8=w426-h240-k-no",
+    "kgmid": "/g/1vxvjscd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "New London Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "246 8th Ave, New York, NY 10011",
+    "neighborhood": "Manhattan",
+    "street": "246 8th Ave",
+    "city": "New York",
+    "postalCode": "10011",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.newlondonpharmacy.com/",
+    "phone": "(212) 243-4987",
+    "phoneUnformatted": "+12122434987",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7449019,
+      "lng": -73.9985085
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Candle store",
+      "Cosmetics store",
+      "Department of motor vehicles",
+      "Homeopathic pharmacy",
+      "Notary public",
+      "Nutritionist",
+      "Perfume store",
+      "Wellness center"
+    ],
+    "fid": "0x89c259bbb32a0719:0x9bc1282eb3cb9293",
+    "cid": "11223295927434056339",
+    "reviewsCount": 126,
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20London%20Pharmacy&query_place_id=ChIJGQcqs7tZwokRk5LLsy4owZs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvlf3Vujxitk0ugu_qTlH3rwSkLuKnD5elGyQqx2PdKUnw284hwPm6SX5F5MRQzIsR6XCHWZOiVe3kW6Yi12ZZPuGORUQqdafhyFjJWDtTZfEpn6Oo9zFuyTLYdJH8VKPR3aZzBg=w408-h544-k-no",
+    "kgmid": "/g/1tjypmyx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Village Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "407 Bleecker St, New York, NY 10014",
+    "neighborhood": "Manhattan",
+    "street": "407 Bleecker St",
+    "city": "New York",
+    "postalCode": "10014",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://villageapothecary.com/",
+    "phone": "(212) 807-7566",
+    "phoneUnformatted": "+12128077566",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7362096,
+      "lng": -74.0050286
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c259949bda9b15:0xab0a08f40e7d3315",
+    "cid": "12324673174560912149",
+    "reviewsCount": 169,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Apothecary&query_place_id=ChIJFZvam5RZwokRFTN9DvQICqs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJFpfj4f9J4RgWoT_5xYVAa0MXRHxkMeFxX1jO=w408-h446-k-no",
+    "kgmid": "/g/1tg_x_mh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "79th Street Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "215 W 79th St, New York, NY 10024",
+    "neighborhood": "Manhattan",
+    "street": "215 W 79th St",
+    "city": "New York",
+    "postalCode": "10024",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(646) 370-5978",
+    "phoneUnformatted": "+16463705978",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7836413,
+      "lng": -73.9790684
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c258889962cb27:0xc4a6e125808a1f1c",
+    "cid": "14170260828754419484",
+    "reviewsCount": 35,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=79th%20Street%20Pharmacy&query_place_id=ChIJJ8timYhYwokRHB-KgCXhpsQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNvFkHu5VHAx8pbTh_nWIVpXK2tqNbaJSKlyg1E=w426-h240-k-no",
+    "kgmid": "/g/11bbrj388l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Manhattan Apothecary by Apotheco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "147 W 35th St, New York, NY 10001",
+    "neighborhood": "Manhattan",
+    "street": "147 W 35th St",
+    "city": "New York",
+    "postalCode": "10001",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.apothecopharmacy.com/location/manhattan-apothecary/?utm_source=GMBlisting&utm_medium=organic",
+    "phone": "(212) 302-0600",
+    "phoneUnformatted": "+12123020600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7514224,
+      "lng": -73.9891642
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Wellness center"
+    ],
+    "fid": "0x89c259ac06e3517f:0x25cf01fee380cf8d",
+    "cid": "2724398493832630157",
+    "reviewsCount": 866,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Apothecary%20by%20Apotheco%20Pharmacy&query_place_id=ChIJf1HjBqxZwokRjc-A4_4BzyU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMuOPf2Ok15PVwvJsUqqTI6kR4aKO9HnRjXHP8z=w408-h257-k-no",
+    "kgmid": "/g/11f_2n_120",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "New Drug Loft",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1410 2nd Ave, New York, NY 10021",
+    "neighborhood": "Manhattan",
+    "street": "1410 2nd Ave",
+    "city": "New York",
+    "postalCode": "10021",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://newdrugloft.com/",
+    "phone": "(212) 879-0910",
+    "phoneUnformatted": "+12128790910",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7698343,
+      "lng": -73.9573045
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c258957e63e82b:0x9bd0bc59dfa72d88",
+    "cid": "11227680965225033096",
+    "reviewsCount": 79,
+    "imagesCount": 91,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20Drug%20Loft&query_place_id=ChIJK-hjfpVYwokRiC2n31m80Js",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOVbJavGxLm1h_ngJKPdDhAul1I_m8ga46Fi2oZ=w408-h894-k-no",
+    "kgmid": "/g/1tfq5kn_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cambridge Chemists",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "855 Lexington Ave # 1, New York, NY 10065",
+    "neighborhood": "Manhattan",
+    "street": "855 Lexington Ave # 1",
+    "city": "New York",
+    "postalCode": "10065",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/upper-eastside-chemists-inc-new-york-ny-10065/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5839204",
+    "phone": "(212) 734-5678",
+    "phoneUnformatted": "+12127345678",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7656538,
+      "lng": -73.9654772
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x89c258eecd19675d:0xb36f0b3c60399690",
+    "cid": "12929565409144313488",
+    "reviewsCount": 36,
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cambridge%20Chemists&query_place_id=ChIJXWcZze5YwokRkJY5YDwLb7M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE3CJ_co3QTAi9udH9VoJlYVR_Rms8Mrs-tAsu4rpAcy5L7mIoNWtkj_lrv0irOMM6XkykUu7SH_fs4otNTkxP9vjYVRiQwp4d3UW4lOfOzkXy5s6-5PoteWoogxl_fUOvmpgq-GwViW9k6fetMSTg0Qgn0SfOroBHn8edJUEPHccewYX-I-a3G6sFdhKITroX-Eg=w426-h240-k-no",
+    "kgmid": "/g/1tzvxgvr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Chelsea Royal Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "154 9th Ave, New York, NY 10011",
+    "neighborhood": "Manhattan",
+    "street": "154 9th Ave",
+    "city": "New York",
+    "postalCode": "10011",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.chelsearoyalcarepharmacy.com/",
+    "phone": "(212) 255-8000",
+    "phoneUnformatted": "+12122558000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7442164,
+      "lng": -74.0026946
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c259b93d5d97ed:0x2fc263f43637aa6",
+    "cid": "215088935362329254",
+    "reviewsCount": 35,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chelsea%20Royal%20Care%20Pharmacy&query_place_id=ChIJ7ZddPblZwokRpnpjQz8m_AI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nro5omg69PzyufX8ZmOo6DTn5PgoiXpbohWy0gqJuqsTbYwj5VJNC8ucqmSCVmSQw4uwkBwavl81-hV1k1JdRj_6vKHO8vdL4u2cpnbsrM9A8JA_jFNFlBcS5AvQ0E4Sys_VrA3=w408-h408-k-no",
+    "kgmid": "/g/1tt8d5hg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ansonia Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "446 6th Ave, New York, NY 10011",
+    "neighborhood": "Manhattan",
+    "street": "446 6th Ave",
+    "city": "New York",
+    "postalCode": "10011",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 477-0762",
+    "phoneUnformatted": "+12124770762",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7349343,
+      "lng": -73.9983433
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x89c25996f77e7f53:0x7c4e504bb8b564fa",
+    "cid": "8957184995038160122",
+    "reviewsCount": 17,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.319Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ansonia%20Pharmacy&query_place_id=ChIJU39-95ZZwokR-mS1uEtQTnw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqR2sOjJ6OidX9ULWosRPdRA_p_pDo4Qtx9lHZEXdAnoX7P0IYglFmA9ahKVfN27OYOJJAevVRLkHX_9Gx9-wYvk3uZJ4d_6CpJQNCipmke0B3cZQEX4-QAi7LfQST3ycUR76dNxQ=w408-h544-k-no",
+    "kgmid": "/g/1tdw4d1h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Metropharm Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "123 Walker St, New York, NY 10013",
+    "neighborhood": "Manhattan",
+    "street": "123 Walker St",
+    "city": "New York",
+    "postalCode": "10013",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 219-8668",
+    "phoneUnformatted": "+12122198668",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7173184,
+      "lng": -74.0000413
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25a274684cd73:0x3dfdf798c7e06ee8",
+    "cid": "4466998640981864168",
+    "reviewsCount": 23,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metropharm%20Inc&query_place_id=ChIJc82ERidawokR6G7gx5j3_T0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqapu6kXDCFFUf8NmuBIvbS4ZqlSFCJ5cVvzW7y0yEFJtG-A1LiwL4hw0oT6_u4kB8zAyoNFJX4EGCCKdv_4bL5N3mYXZerzAdtEZczlirMWH6teQUWTuB3vn5m0BSiqUXrA__RXA=w408-h306-k-no",
+    "kgmid": "/g/1tk6r76w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Razi Pharmacy NYC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3820 Broadway, New York, NY 10032",
+    "neighborhood": "Manhattan",
+    "street": "3820 Broadway",
+    "city": "New York",
+    "postalCode": "10032",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(646) 777-2608",
+    "phoneUnformatted": "+16467772608",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.8352831,
+      "lng": -73.9435824
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2f70a44f83261:0x34c0ad209e792b43",
+    "cid": "3801228441109998403",
+    "reviewsCount": 9,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Razi%20Pharmacy%20NYC&query_place_id=ChIJYTL4RAr3wokRQyt5niCtwDQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYURQ1BH6k5_30_PbIw9I2lb_93Yjvxrrgh6fA=w408-h544-k-no",
+    "kgmid": "/g/11twq51njs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Apthorp Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2191 Broadway, New York, NY 10024",
+    "neighborhood": "Manhattan",
+    "street": "2191 Broadway",
+    "city": "New York",
+    "postalCode": "10024",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://www.apthorprx.com/",
+    "phone": "(212) 877-3480",
+    "phoneUnformatted": "+12128773480",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7830863,
+      "lng": -73.9809368
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c258886febd295:0x1f428b5a672984dc",
+    "cid": "2252515984032761052",
+    "reviewsCount": 270,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apthorp%20Pharmacy&query_place_id=ChIJldLrb4hYwokR3IQpZ1qLQh8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQ2TDD_m4YEJhvkUEN0NPrdKHEeg5C-InHTqO6=w408-h271-k-no",
+    "kgmid": "/g/113f3b_1n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pasteur Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "53 E 34th St, New York, NY 10016",
+    "neighborhood": "Manhattan",
+    "street": "53 E 34th St",
+    "city": "New York",
+    "postalCode": "10016",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "https://www.pasteurpharmacy.com/",
+    "phone": "(212) 683-3838",
+    "phoneUnformatted": "+12126833838",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.7475866,
+      "lng": -73.9819687
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2590776774109:0x26bfbecbcf48f936",
+    "cid": "2792160076558301494",
+    "reviewsCount": 446,
+    "imagesCount": 53,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pasteur%20Pharmacy%20Inc&query_place_id=ChIJCUF3dgdZwokRNvlIz8u-vyY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMhJN-99FZNMEIte1ckORgAFVJPEcqTQELG4Ht6=w426-h240-k-no",
+    "kgmid": "/g/1tr9pb5n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Midtown East Pharmacy & Surgical",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "161 Madison Ave PH 2, New York, NY 10016",
+    "neighborhood": "Manhattan",
+    "street": "161 Madison Ave PH 2",
+    "city": "New York",
+    "postalCode": "10016",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 213-2444",
+    "phoneUnformatted": "+12122132444",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7468191,
+      "lng": -73.9834416
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c259a8215f4295:0x19159137b326fa33",
+    "cid": "1807510493874027059",
+    "reviewsCount": 18,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Midtown%20East%20Pharmacy%20%26%20Surgical&query_place_id=ChIJlUJfIahZwokRM_omszeRFRk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq9yZNy4I3T0WTuH7YLUNuC6IGh9WGipCzWpieNtMLBBVg5iShGh4-iodh0WaUDYqoGVFE7RU1gk4qD3Si2ZolD53-D232fhtAlwVOyuJOlRjAgF8R0xycnxO9JIB4ecjHRROkJvg=w408-h306-k-no",
+    "kgmid": "/g/1tdjs1dy",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Rite Way Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "369 1st Ave, New York, NY 10010",
+    "neighborhood": "Manhattan",
+    "street": "369 1st Ave",
+    "city": "New York",
+    "postalCode": "10010",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(212) 777-6864",
+    "phoneUnformatted": "+12127776864",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.7360311,
+      "lng": -73.9793842
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c2590b22af7689:0x372896570ed8c596",
+    "cid": "3974591971809871254",
+    "reviewsCount": 41,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:09:56.320Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Way%20Drugs&query_place_id=ChIJiXavIgtZwokRlsXYDleWKDc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20New%20York%20NY/@25.58561541405634,-171.5257266528475,13z?hl=en",
+    "searchString": "independent pharmacy New York NY",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HkL48SJxxlQGjFGuWL8MJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=310.8704&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf3cg30",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

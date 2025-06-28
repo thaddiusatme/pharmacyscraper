@@ -1,11 +1,91 @@
-# Independent Pharmacy Verification Project
-## Complete Project Digest
+# Pharmacy Scraper: Project Digest & Architecture
 
-### 📋 Project Overview
-**Client**: Pharmacy mailing list verification  
-**Budget**: $350  
-**Timeline**: 3-4 days  
+This document provides a technical overview of the Independent Pharmacy Verification project, detailing its architecture, key components, and operational strategy.
+
+### Project Goals
+**Client**: Pharmacy mailing list verification
+**Budget**: $350
+**Timeline**: 3-4 days
 **Deliverable**: Verified list of 1,250 independent pharmacies (25 per state) with mailing addresses
+
+---
+
+## 1. Core Architecture: A Multi-Phase Pipeline
+
+The project is built around a sequential, multi-phase data processing pipeline orchestrated by `scripts/run_pipeline.py`. This design ensures that data flows through distinct stages of collection, cleaning, and analysis in a controlled and reproducible manner.
+
+**Pipeline Stages:**
+1.  **Phase 1: Data Collection**: Raw pharmacy data is collected from Google Maps using the Apify platform. Search queries are dynamically generated based on the active configuration file.
+2.  **Phase 1.5: Deduplication**: The raw dataset is processed to remove duplicate entries based on unique identifiers like `placeId` and `title`, ensuring data integrity.
+3.  **Phase 2a: Classification**: Each unique pharmacy record is classified as either "chain" or "independent" using a hybrid system that combines rule-based logic and a Perplexity API-powered language model.
+4.  **Phase 2b: Verification (Optional)**: Address and operational status are verified via the Google Places API. This is an optional, costly step that can be skipped for initial large-scale runs.
+
+---
+
+## 2. Key Components
+
+### a. Orchestration & Execution (`scripts/`)
+-   **`run_pipeline.py`**: The main entry point for the entire pipeline. It parses command-line arguments, manages configuration, and calls the various processing modules in sequence.
+-   **`apify_collector.py`**: A dedicated module responsible for interfacing with the Apify API, executing actor runs, and retrieving results.
+
+### b. Core Logic (`src/`)
+
+#### `src/classification/` - AI-Powered Classification
+- **Purpose**: Distinguishes independent pharmacies from chains.
+- **`classifier.py`**: Main engine using a hybrid LLM (Perplexity) and rule-based approach. Features batch processing and caching.
+- **`perplexity_client.py`**: Manages Perplexity API interaction with rate limiting, retry logic, and error handling.
+- **`cache.py`**: Provides a persistent, TTL-based file cache to minimize API costs and improve performance.
+
+#### `src/dedup_self_heal/` - Data Quality & Gap-Filling
+- **Purpose**: Ensures data quality and automatically fills gaps in under-populated states.
+- **`dedup.py`**: Implements smart deduplication, identifies states with insufficient data, and triggers a "self-healing" process to collect more.
+- **`apify_integration.py`**: Handles the targeted Apify scraper calls required for the self-healing process.
+
+#### `src/verification/` - Address Verification
+- **Purpose**: Provides address and operational status verification.
+- **`google_places.py`**: Integrates with the Google Places API to verify pharmacy data.
+
+#### `src/utils/` - Shared Utilities
+- **Purpose**: Provides project-wide utilities.
+- **`api_usage_tracker.py`**: A critical component for budget management, tracking API credit usage in real-time and preventing budget overruns.
+
+### c. Configuration (`config/`)
+-   **`trial_config.json`**: For small-scale tests and debugging.
+-   **`five_state_run.json`**: A medium-scale configuration for controlled, cost-effective test runs.
+-   **`large_scale_run.json`**: The full 50-state configuration for comprehensive national data collection.
+
+---
+
+## 3. Operational Strategy
+
+To ensure robust and cost-effective data collection, the following operational best practices have been implemented:
+
+-   **Phased Rollout**: New features and large-scale runs are first tested on a small scale (e.g., the 5-state run) to validate performance and estimate costs before full deployment.
+-   **Persistent Logging**: All pipeline runs generate a detailed log file (e.g., `data/five_state_results/pipeline.log`), capturing all actions, API calls, and errors for debugging and auditing.
+-   **Uninterrupted Execution**: On macOS, the `caffeinate` utility is used to prevent the system from sleeping during long-running jobs, ensuring the pipeline runs to completion without interruption.
+
+---
+
+## 4. Recent Milestones (June 2024)
+
+### System Enhancements
+- **End-to-End Testing**: Verified the complete workflow from data collection to verification.
+- **Test-Driven Development**: Implemented key modules like the Classification System, Apify Collector, and Caching Layer using a TDD approach, achieving high test coverage (e.g., 83% for the Perplexity client).
+- **Address Verification Success**: The Google Places integration has demonstrated a 90% verification success rate in trials with a high average confidence score of 0.924.
+
+### Trial Run Optimization
+- **Apify Actor Fixes**: Resolved 400 Bad Request errors by fixing invalid input parameters (`allPlacesNoSearchAction`).
+- **Cost Control**: Optimized credit usage by implementing `forceExit` and search limits in Apify actor calls.
+- **Successful Trial**: A trial run across 4 cities in California and Texas successfully collected 39 independent pharmacies, validating the cost control measures.
+- **Version Management**: Package versioning and metadata
+- **Backward Compatibility**: Maintains compatibility with existing scripts
+
+### 🔗 Integration with Scripts
+The `src/` modules seamlessly integrate with the `scripts/` directory:
+- **`scripts/apify_collector.py`** uses `src.dedup_self_heal` for data quality
+- **Classification workflow** leverages `src.classification` for AI-powered filtering
+- **Budget management** through `src.utils.api_usage_tracker` across all scripts
+- **Caching system** reduces costs and improves performance project-wide
 
 ---
 

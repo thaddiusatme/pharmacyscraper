@@ -1,0 +1,2431 @@
+[
+  {
+    "title": "Pharmington Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "14467 Metcalf Ave, Overland Park, KS 66223, United States",
+    "neighborhood": "Lionsgate Marketplace",
+    "street": "14467 Metcalf Ave",
+    "city": "Overland Park",
+    "postalCode": "66223",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://www.pharmingtondrugs.com/",
+    "phone": "+1 913-291-0545",
+    "phoneUnformatted": "+19132910545",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.867352,
+      "lng": -94.6662489
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c0c1f044b51759:0x24fc45671f116ac2",
+    "cid": "2665081388701674178",
+    "reviewsCount": 45,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.759Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral toilets": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmington%20Drugs&query_place_id=ChIJWRe1RPDBwIcRwmoRH2dF_CQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOKAvGvFXD1O3qkB1NG8-FPb_wyqg4rF18CZQoM=w408-h306-k-no",
+    "kgmid": "/g/11t9wwb4pn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ken's Sunflower Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7222 W 80th St, Overland Park, KS 66204, United States",
+    "neighborhood": "South Lakes",
+    "street": "7222 W 80th St",
+    "city": "Overland Park",
+    "postalCode": "66204",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/the-medicine-shoppe-overland-park-ks-66204/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1716109",
+    "phone": "+1 913-341-7244",
+    "phoneUnformatted": "+19133417244",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9843471,
+      "lng": -94.6698011
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c0ec73913c90e3:0x666e48a686c67ac7",
+    "cid": "7380916719369747143",
+    "reviewsCount": 123,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ken's%20Sunflower%20Pharmacy&query_place_id=ChIJ45A8kXPswIcRx3rGhqZIbmY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrkS1_WBuuxpfWBEKDAJpQC14h9ZwGQ31xEEimCNwRZXb9S5PlpJmE0wBZ4OWchviKKLzqWtjVhqP9rx108grjI_nzwoMALqMpRMOV0FEvWmxCQfvM5UspxAdpSCMRLsRJOAER6=w426-h240-k-no",
+    "kgmid": "/g/1tjbsplx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Apotheco Pharmacy Overland Park",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6407 W 119th St g5, Overland Park, KS 66209, United States",
+    "neighborhood": "The Fountains Shopping Center",
+    "street": "6407 W 119th St g5",
+    "city": "Overland Park",
+    "postalCode": "66209",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.apothecopharmacy.com/location/apotheco-pharmacy-overland-park/",
+    "phone": "+1 913-307-1730",
+    "phoneUnformatted": "+19133071730",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9119281,
+      "lng": -94.6599738
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Dermatologist"
+    ],
+    "fid": "0x87c0eb2b1db63ca3:0x3c1e9818c8011c22",
+    "cid": "4332067123779148834",
+    "reviewsCount": 36,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apotheco%20Pharmacy%20Overland%20Park&query_place_id=ChIJozy2HSvrwIcRIhwByBiYHjw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noY4yLEDME80UP0KsegmWZzKdgFibQULNGGGBXxPBwU_tp2Q8Of8BID0z8fjR60WP1Xe2FR2KcOJWWAf8tzhSvv_i1V13uAluNWuChtpdBbwvVXnVj6DKsH5X8maL3tXAefV41n=w408-h270-k-no",
+    "kgmid": "/g/1tr9nynw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Stark Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5701 W 119th St Suite 125, Overland Park, KS 66209, United States",
+    "neighborhood": "Menorah Park",
+    "street": "5701 W 119th St Suite 125",
+    "city": "Overland Park",
+    "postalCode": "66209",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://starkpharmacy.com/",
+    "phone": "+1 913-345-3800",
+    "phoneUnformatted": "+19133453800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9111135,
+      "lng": -94.6523808
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c0ea197073c011:0x3a0df604a4ba0bb4",
+    "cid": "4183270128701017012",
+    "reviewsCount": 51,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20135\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stark%20Pharmacy&query_place_id=ChIJEcBzcBnqwIcRtAu6pAT2DTo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqH-nTLi6aFNk5O7uFaYSjYEMgJH_Yu8Ilx2Ek0xd1HEVOrR1m6W-sgG84sBCMkghBagPBV7YV4Ky9-Zm7QTkEYkcUTMvBvfMMCY82uc2Xtyii6AghOZkmKMFxEyN-V2k_gt7o=w472-h240-k-no",
+    "kgmid": "/g/1tg8k7jz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Stark Edler Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10600 S Quivira Rd # 100, Overland Park, KS 66215, United States",
+    "neighborhood": "Overland Park Regional Medical Center",
+    "street": "10600 S Quivira Rd # 100",
+    "city": "Overland Park",
+    "postalCode": "66215",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://starkapothecary.com/",
+    "phone": "+1 913-541-5050",
+    "phoneUnformatted": "+19135415050",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 38.9361746,
+      "lng": -94.7254118
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0eb2af8493de5:0x142ed251afd32eda",
+    "cid": "1454330977971285722",
+    "reviewsCount": 21,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stark%20Edler%20Apothecary&query_place_id=ChIJ5T1J-CrrwIcR2i7Tr1HSLhQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5iVFJxQ9m7d-0jcpehgjSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=158.46625&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdps5hj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Overland Park Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7940 W 151st St, Overland Park, KS 66223, United States",
+    "neighborhood": null,
+    "street": "7940 W 151st St",
+    "city": "Overland Park",
+    "postalCode": "66223",
+    "state": "Kansas",
+    "countryCode": "US",
+    "phone": "+1 913-336-1625",
+    "phoneUnformatted": "+19133361625",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 38.8558982,
+      "lng": -94.6791288
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0c18f8616f825:0xfcb220e7ec0e348d",
+    "cid": "18208652423882224781",
+    "reviewsCount": 31,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Overland%20Park%20Pharmacy&query_place_id=ChIJJfgWho_BwIcRjTQO7Ocgsvw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nok7LlPRt5Zmf92jIhI3esDyJa70fKTHo0-icPW4n8iwrE59wE4y7u4LEN0pajxNZO5mP-OO76kR0239_Lu2NBORy7fjP_-ZI9HvjaovjyOPX74YfWMs3ZyfXGxt1fkdAtV5txJHA=w408-h240-k-no",
+    "kgmid": "/g/11fl9nn4lf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Capstone Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11844 Quivira Rd, Overland Park, KS 66210, United States",
+    "neighborhood": "Stoll Park Center",
+    "street": "11844 Quivira Rd",
+    "city": "Overland Park",
+    "postalCode": "66210",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://www.capstone-rx.com/",
+    "phone": "+1 913-346-7405",
+    "phoneUnformatted": "+19133467405",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9135078,
+      "lng": -94.7243329
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0efc384f91b11:0x2ddd75296c78e5e5",
+    "cid": "3304926522333783525",
+    "reviewsCount": 198,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.760Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Capstone%20Pharmacy&query_place_id=ChIJERv5hMPvwIcR5eV4bCl13S0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpoP9uRxxWPyz00qmiW8mc_5j2VpCF1JgFmqIy=w426-h240-k-no",
+    "kgmid": "/g/11h5_dsv6s",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Saint Luke's South Pharmacy-Mission Farms",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4061 Indian Creek Pkwy ste 120, Overland Park, KS 66207, United States",
+    "neighborhood": "Mission Farms",
+    "street": "4061 Indian Creek Pkwy ste 120",
+    "city": "Overland Park",
+    "postalCode": "66207",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.saintlukeskc.org/locations/saint-lukes-pharmacies?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link",
+    "phone": "+1 913-323-4777",
+    "phoneUnformatted": "+19133234777",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.933925,
+      "lng": -94.6315926
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHTzpXJzpwIcRKpTpUPtP5_I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0e99c5ce93c1d:0xf2e74ffb50e9942a",
+    "cid": "17503046417611592746",
+    "reviewsCount": 20,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.761Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Saint%20Luke's%20South%20Pharmacy-Mission%20Farms&query_place_id=ChIJHTzpXJzpwIcRKpTpUPtP5_I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMl8jro1CsmaqnKeGI_EP0lJr0OWceJkQJGLGSS=w426-h240-k-no",
+    "kgmid": "/g/11fz9x7cw8",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "iPharma Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10126 W 119th St, Overland Park, KS 66213, United States",
+    "neighborhood": "Highland Place",
+    "street": "10126 W 119th St",
+    "city": "Overland Park",
+    "postalCode": "66213",
+    "state": "Kansas",
+    "countryCode": "US",
+    "phone": "+1 913-286-4176",
+    "phoneUnformatted": "+19132864176",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.914365,
+      "lng": -94.7026956
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0eaeb4dd32f7f:0xefdd4f502c4d5db5",
+    "cid": "17284058150677077429",
+    "reviewsCount": 1,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.761Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=iPharma%20Community%20Pharmacy&query_place_id=ChIJfy_TTevqwIcRtV1NLFBP3e8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2BLG4cZLxKI-CtTFer1G_7PfxXQijMyQXGvMNfMlVjmtFYg-BVZoaNGe0b6Y3vWd7KK_gu1j8Hg_H-JNkBLlgQB3-9jvWV7UpFpIA45qa5oo_j6kX7MiHl7eRLEBjrTifXxdQTQ=w408-h306-k-no",
+    "kgmid": "/g/11h9w7cq46",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy First",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11880 College Blvd, Overland Park, KS 66210, United States",
+    "neighborhood": "College Oaks",
+    "street": "11880 College Blvd",
+    "city": "Overland Park",
+    "postalCode": "66210",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://www.pharmacyfirst.com/",
+    "phone": "+1 800-460-1575",
+    "phoneUnformatted": "+18004601575",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9281776,
+      "lng": -94.7226361
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0ead3e2eaaaab:0x6a81c8199fcd3236",
+    "cid": "7674635252396798518",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.761Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20First&query_place_id=ChIJq6rq4tPqwIcRNjLNnxnIgWo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO5vEfBi6kwNEaLtAJVe4XAbjjCtujANmVPImRf=w630-h240-k-no",
+    "kgmid": "/g/11ghr091tc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharm Assess, Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10540 Marty St #110, Overland Park, KS 66212, United States",
+    "neighborhood": "Metcalf View",
+    "street": "10540 Marty St #110",
+    "city": "Overland Park",
+    "postalCode": "66212",
+    "state": "Kansas",
+    "countryCode": "US",
+    "phone": "+1 913-897-4343",
+    "phoneUnformatted": "+19138974343",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9372609,
+      "lng": -94.6717636
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Financial consultant"
+    ],
+    "fid": "0x87c0ea9bffffffff:0x650f4a6927b2d4ad",
+    "cid": "7282120937979434157",
+    "reviewsCount": 0,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.761Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharm%20Assess%2C%20Inc&query_place_id=ChIJ_____5vqwIcRrdSyJ2lKD2U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMt-CnfN_cOugk4JEqG7ZP9izETe9-ZI8vrBZWl=w539-h240-k-no",
+    "kgmid": "/g/1hc33fkzr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Community Independent Pharmacy Network",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10540 Marty St #110, Overland Park, KS 66212, United States",
+    "neighborhood": "Metcalf View",
+    "street": "10540 Marty St #110",
+    "city": "Overland Park",
+    "postalCode": "66212",
+    "state": "Kansas",
+    "countryCode": "US",
+    "phone": "+1 855-489-3599",
+    "phoneUnformatted": "+18554893599",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9372609,
+      "lng": -94.6717636
+    },
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0ebb343c9ea7f:0x99b983a71590a20c",
+    "cid": "11077029512139022860",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:59:58.761Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Independent%20Pharmacy%20Network&query_place_id=ChIJf-rJQ7PrwIcRDKKQFaeDuZk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@52.05066962470323,-179.97595653707245,14z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPI3f6QiMRYRAlBjuLfOsEWDyPPHhPgSjjib8Zt=w408-h408-k-no",
+    "kgmid": "/g/11cnrznxy7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharma BI",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6036 W 158th St, Overland Park, KS 66223",
+    "neighborhood": "Sylvan Lake",
+    "street": "6036 W 158th St",
+    "city": "Overland Park",
+    "postalCode": "66223",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://pharma-bi.com/contact-us/",
+    "phone": "(913) 681-0717",
+    "phoneUnformatted": "+19136810717",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 38.8408754,
+      "lng": -94.6565381
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0c16f984132fb:0x5ef387d629c028f4",
+    "cid": "6841961612799125748",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:00:16.292Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharma%20BI&query_place_id=ChIJ-zJBmG_BwIcR9CjAKdaH814",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@51.81411644999999,-175.72072439999997,11z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Rag4IvY13gwNXPFro59fBw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=10.437666&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h06m_sq6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Skillman Avenue Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "50-6 Skillman Ave, Woodside, NY 11377",
+    "neighborhood": "Woodside",
+    "street": "50-6 Skillman Ave",
+    "city": "Woodside",
+    "postalCode": "11377",
+    "state": "New York",
+    "countryCode": "US",
+    "phone": "(718) 565-5454",
+    "phoneUnformatted": "+17185655454",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.745892,
+      "lng": -73.9140979
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c25f20131acc49:0xfe72e6438ad51f2f",
+    "cid": "18334970210745130799",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 25
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:01:35.133Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Skillman%20Avenue%20Pharmacy&query_place_id=ChIJScwaEyBfwokRLx_VikPmcv4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@39.68245004733214,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrLfE2ifMzynt8vDzIy1-78EWbUrgLXl25Rrwtv5eZeZMh56Bq27DMmHaHUnVU7GQp_fuLihg9rhrv1ONMynJsZ8ruXQaAvrc9EfuJckvBhoAbm_hwGvIgDu2YL2Y9pOr_D7PAR=w408-h408-k-no",
+    "kgmid": "/g/12m9228_l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Optum Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1050 Patrol Rd, Jeffersonville, IN 47130",
+    "neighborhood": null,
+    "street": "1050 Patrol Rd",
+    "city": "Jeffersonville",
+    "postalCode": "47130",
+    "state": "Indiana",
+    "countryCode": "US",
+    "website": "https://www.briovarx.com/index.html",
+    "phone": "(855) 242-2241",
+    "phoneUnformatted": "+18552422241",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 38.385527,
+      "lng": -85.6829987
+    },
+    "totalScore": 1.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8858dabf82594257:0xf98de5b13e3db384",
+    "cid": "17982281436576461700",
+    "reviewsCount": 117,
+    "reviewsDistribution": {
+      "oneStar": 97,
+      "twoStar": 4,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 15
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:01:36.588Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Optum%20Specialty%20Pharmacy&query_place_id=ChIJV0JZgr_aWIgRhLM9PrHljfk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@39.68245004733214,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6Oxp68j29DzVJ9HXkV9mFQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.01516&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b63cx0n7",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "O'Brien Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5453 W 61st Pl, Mission, KS 66205, United States",
+    "neighborhood": null,
+    "street": "5453 W 61st Pl",
+    "city": "Mission",
+    "postalCode": "66205",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://www.obrienrx.com/",
+    "phone": "+1 913-322-0001",
+    "phoneUnformatted": "+19133220001",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.0171242,
+      "lng": -94.6477517
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Homeopathic pharmacy",
+      "Nutritionist",
+      "Pain control clinic"
+    ],
+    "fid": "0x87c0ec2bad66c1df:0x560f2b6450dd5e7d",
+    "cid": "6201222921765871229",
+    "reviewsCount": 37,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 4,
+      "fiveStar": 30
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:01:46.529Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=O'Brien%20Pharmacy&query_place_id=ChIJ38FmrSvswIcRfV7dUGQrD1Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBs1yUQIPBboQmyjSnkbucSu0zL5g0v79Iy3Pb=w408-h272-k-no",
+    "kgmid": "/g/1v1vdqdm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AuBurn Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13351 Mission Rd, Leawood, KS 66209, United States",
+    "neighborhood": "Market Square Center",
+    "street": "13351 Mission Rd",
+    "city": "Leawood",
+    "postalCode": "66209",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://auburnpharmacies.com/leawood-kansas/",
+    "phone": "+1 913-469-9315",
+    "phoneUnformatted": "+19134699315",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.8850152,
+      "lng": -94.6281101
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beauty supply store",
+      "Drug store"
+    ],
+    "fid": "0x87c0c212738940db:0xef4802bcbbc3919f",
+    "cid": "17242034183015207327",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 18
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:01:46.529Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AuBurn%20Pharmacy&query_place_id=ChIJ20CJcxLCwIcRn5HDu7wCSO8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4eohZ1BbX-cNxRGeB8xpxaS9UNNqnfacsuwVOfbN53KO0sCkNfGAnYeNNSiabmzucaZAi4ieKRk8j7QlSXJ50-Obv0us2asRerFzU3ataw2IVZxCl3SArS8jm5Vukjo7vgCM-fA=w408-h306-k-no",
+    "kgmid": "/g/12631qn6x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Midwest Compounders Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13715 W 109th St, Lenexa, KS 66215, United States",
+    "neighborhood": "Crown Business Park",
+    "street": "13715 W 109th St",
+    "city": "Lenexa",
+    "postalCode": "66215",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "http://www.mwcpharmacy.com/",
+    "phone": "+1 913-498-2121",
+    "phoneUnformatted": "+19134982121",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9301878,
+      "lng": -94.7449744
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ48IaW7qUwIcRVMfOF0AS3BA",
+    "categories": [
+      "Pharmacy",
+      "Nutritionist",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x87c094ba5b1ac2e3:0x10dc124017cec754",
+    "cid": "1214866065969825620",
+    "reviewsCount": 77,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 6,
+      "fiveStar": 59
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:01:46.529Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Midwest%20Compounders%20Pharmacy&query_place_id=ChIJ48IaW7qUwIcRVMfOF0AS3BA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@39.68245004733214,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 33,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNIkHl4z4WAVskBVukE_FLBDrTTJnJ_JhEzqKJS=w408-h306-k-no",
+    "kgmid": "/g/1tlz_q2n",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Mt. Vernon HomeTown Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "606 E Mt Vernon Blvd, Mt Vernon, MO 65712",
+    "neighborhood": null,
+    "street": "606 E Mt Vernon Blvd",
+    "city": "Mt Vernon",
+    "postalCode": "65712",
+    "state": "Missouri",
+    "countryCode": "US",
+    "website": "http://www.rxhometown.com/",
+    "phone": "(417) 466-2000",
+    "phoneUnformatted": "+14174662000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 37.0948595,
+      "lng": -93.8118099
+    },
+    "locatedIn": "Carthage Pharmacy Services Inc dba HomeTown Pharmacy",
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c8adc5025bcab5:0x609b09fd4330c6df",
+    "cid": "6961168632389879519",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 22
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:02:09.260Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Carthage Pharmacy Services Inc dba HomeTown Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mt.%20Vernon%20HomeTown%20Pharmacy&query_place_id=ChIJtcpbAsWtyIcR38YwQ_0Jm2A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@36.81849750000001,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPnUWxqSsuGNs9XptLjVkRXXw_TPeoISuiupkuP=w408-h544-k-no",
+    "kgmid": "/g/1tptr3_7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Option Care Health",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8940 Nieman Rd, Overland Park, KS 66214",
+    "neighborhood": "Sunset Hill",
+    "street": "8940 Nieman Rd",
+    "city": "Overland Park",
+    "postalCode": "66214",
+    "state": "Kansas",
+    "countryCode": "US",
+    "website": "https://optioncarehealth.com/",
+    "phone": "(913) 599-3745",
+    "phoneUnformatted": "+19135993745",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.9662837,
+      "lng": -94.7147969
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c0eb5ad9e20b57:0x27a17067524c492d",
+    "cid": "2855687227794278701",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:02:09.561Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Option%20Care%20Health&query_place_id=ChIJVwvi2VrrwIcRLUlMUmdwoSc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Overland%20Park%20KS/@31.09059240533574,-99.1509755427839,8z?hl=en",
+    "searchString": "independent pharmacy Overland Park KS",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J60kk0XVR6QtyAXzeLkf1g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.06958&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g6hw3fjs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

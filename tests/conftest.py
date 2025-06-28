@@ -1,56 +1,69 @@
-"""Configuration and fixtures for tests."""
-import os
 import pytest
 from unittest.mock import patch, MagicMock
+from types import SimpleNamespace
+import pandas as pd
+import json
+from pathlib import Path
 
-# Add the project root to the Python path for imports
-import sys
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-
-@pytest.fixture
-def mock_apify_client():
-    """Fixture that mocks the ApifyClient."""
-    with patch('scripts.apify_collector.ApifyClient') as mock_client_class:
-        # Create mock client instance and methods
-        mock_client = MagicMock()
-        mock_actor = MagicMock()
-        mock_run = MagicMock()
-        mock_dataset = MagicMock()
-        
-        # Configure the mock client to return our mock actor
-        mock_client.actor.return_value = mock_actor
-        mock_actor.start.return_value = mock_run
-        mock_run.wait_for_finish.return_value = {"defaultDatasetId": "test-dataset"}
-        
-        # Configure dataset to return mock items
-        mock_items = [
-            {"name": "Test Pharmacy 1", "address": "123 Test St"},
-            {"name": "Test Pharmacy 2", "address": "456 Test Ave"}
-        ]
-        mock_dataset.iterate_items.return_value = mock_items
-        mock_client.dataset.return_value = mock_dataset
-        
-        # Make the mock class return our mock client instance
-        mock_client_class.return_value = mock_client
-        
-        yield mock_client
-
+from src.pharmacy_scraper.orchestrator.pipeline_orchestrator import PipelineOrchestrator, PipelineConfig
+from src.pharmacy_scraper.utils.api_usage_tracker import credit_tracker
 
 @pytest.fixture
-def apify_collector(mock_apify_client):
-    """Fixture that returns an ApifyCollector instance with a test API token."""
-    from scripts.apify_collector import ApifyCollector
-    collector = ApifyCollector(api_token="test-token")
-    # Ensure the collector is using our mock client
-    collector.client = mock_apify_client
-    return collector
-
-
-@pytest.fixture
-def sample_states_cities():
-    """Sample states and cities for testing."""
-    return {
-        "California": ["Los Angeles", "San Francisco"],
-        "Texas": ["Houston", "Dallas"]
+def temp_config_file(tmp_path):
+    """Create a temporary config file for testing."""
+    config_data = {
+        "api_keys": {
+            "apify": "test_api_key",
+            "google_places": "test_google_key",
+            "perplexity": "test_perplexity_key"
+        },
+        "locations": [
+            {
+                "state": "CA",
+                "cities": ["Test City"],
+                "queries": ["test query"]
+            }
+        ],
+        "max_results_per_query": 5,
+        "output_dir": str(tmp_path),
+        "cache_dir": str(tmp_path / "cache"),
+        "verify_places": True
     }
+    config_file = tmp_path / "config.json"
+    config_file.write_text(json.dumps(config_data))
+    return str(config_file)
+
+@pytest.fixture
+def orchestrator_fixture(temp_config_file):
+    """Fixture for PipelineOrchestrator with mocked dependencies."""
+    with patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.ApifyCollector') as mock_apify_collector, \
+         patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.Classifier') as mock_classifier, \
+         patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.remove_duplicates') as mock_remove_duplicates, \
+         patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.verify_pharmacy') as mock_verify_pharmacy, \
+         patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.load_from_cache') as mock_load_from_cache, \
+         patch('src.pharmacy_scraper.orchestrator.pipeline_orchestrator.save_to_cache') as mock_save_to_cache:
+
+        mock_remove_duplicates.side_effect = lambda df, **kwargs: df
+        mock_load_from_cache.return_value = None
+        
+        orchestrator = PipelineOrchestrator(temp_config_file)
+        
+        # Group mocks for easy access
+        mocks = SimpleNamespace(
+            apify=orchestrator.collector,
+            classifier=orchestrator.classifier,
+            remove_duplicates=mock_remove_duplicates,
+            verify_pharmacy=mock_verify_pharmacy,
+            cache_load=mock_load_from_cache,
+            cache_save=mock_save_to_cache
+        )
+        
+        yield SimpleNamespace(
+            orchestrator=orchestrator,
+            mocks=mocks
+        )
+
+@pytest.fixture(autouse=True)
+def reset_credit_tracker():
+    """Reset the credit tracker singleton before each test to ensure isolation."""
+    credit_tracker.reset()

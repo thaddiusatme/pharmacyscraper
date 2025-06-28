@@ -1,0 +1,2994 @@
+[
+  {
+    "title": "Mesilla Valley Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4119 White Sage Arc Suite E, Las Cruces, NM 88011",
+    "neighborhood": null,
+    "street": "4119 White Sage Arc Suite E",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "http://mvprx.care/",
+    "phone": "(575) 323-2093",
+    "phoneUnformatted": "+15753232093",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3683505,
+      "lng": -106.7422986
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x86de177016040d97:0x77e2a0a5b4eeda96",
+    "cid": "8638643668815633046",
+    "reviewsCount": 79,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:34.305Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20132\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mesilla%20Valley%20Pharmacy&query_place_id=ChIJlw0EFnAX3oYRltrutKWg4nc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPruT1PufTuTUhKx25fbLWyCRTRHF-eCxRxdkYg=w408-h544-k-no",
+    "kgmid": "/g/11h5qksrs2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Healthcare Healthmart pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3865 E Lohman Ave #2, Las Cruces, NM 88011",
+    "neighborhood": null,
+    "street": "3865 E Lohman Ave #2",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://healthcare.mobilescripts.com/",
+    "phone": "(575) 915-1538",
+    "phoneUnformatted": "+15759151538",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3199846,
+      "lng": -106.7353045
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIxV-WEU93oYRcjkS7RB-xtA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3d45587e1523:0xd0c67e10ed123972",
+    "cid": "15043850216439691634",
+    "reviewsCount": 46,
+    "imagesCount": 67,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:34.306Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Healthcare%20Healthmart%20pharmacy&query_place_id=ChIJIxV-WEU93oYRcjkS7RB-xtA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-HTi5B30JvgLdaptzRjhFlYB3ooN3Gg-wY5IW=w408-h544-k-no",
+    "kgmid": "/g/11byvf58y7",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "HILLRISE PHARMACY LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2906 Hillrise Dr, Las Cruces, NM 88011",
+    "neighborhood": null,
+    "street": "2906 Hillrise Dr",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "http://www.hillrisepharmacylc.com/",
+    "phone": "(575) 652-4499",
+    "phoneUnformatted": "+15756524499",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3041233,
+      "lng": -106.7369401
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de17aa10577683:0xf141fe5e6e2da730",
+    "cid": "17384455718155691824",
+    "reviewsCount": 73,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:34.306Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "2:30\u20135:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2:30\u20135:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2:30\u20135:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2:30\u20135:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2:30\u20135:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=HILLRISE%20PHARMACY%20LLC&query_place_id=ChIJg3ZXEKoX3oYRMKctbl7-QfE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNFeGUUD9AzIdhmm2UqGexzmpmlZjSjD59AmBd0xt6GI-CEWVbA6xjlCurazerfomLjI_RgJJULG1lorzqIzhQZL-YLnjNM-fWdaISIWGuPFyF8piOax_BhMSsic6g_HMA7jyWPw=w408-h544-k-no",
+    "kgmid": "/g/11rnctnp3g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Del-Rey Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3291 Del Rey Blvd, Las Cruces, NM 88012",
+    "neighborhood": null,
+    "street": "3291 Del Rey Blvd",
+    "city": "Las Cruces",
+    "postalCode": "88012",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "http://www.delreypharmacy.com/",
+    "phone": "(575) 888-4756",
+    "phoneUnformatted": "+15758884756",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3524634,
+      "lng": -106.7674489
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x86de3cfed9ed3495:0x8bc3ba81514645e5",
+    "cid": "10071098256307668453",
+    "reviewsCount": 33,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:34.307Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Del-Rey%20Pharmacy&query_place_id=ChIJlTTt2f483oYR5UVGUYG6w4s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM7CTHr8q8GenbKXlFtW4LPLX_SOURRM8nhxza0=w408-h408-k-no",
+    "kgmid": "/g/11fzfc18js",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "RioGrande Care PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4371 E Lohman Ave, Las Cruces, NM 88011",
+    "neighborhood": null,
+    "street": "4371 E Lohman Ave",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.riograndecarepharmacy.com/",
+    "phone": "(575) 323-3938",
+    "phoneUnformatted": "+15753233938",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3246451,
+      "lng": -106.726381
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3d3e8bc1e153:0xd2e9c31fcbd81304",
+    "cid": "15197892958869787396",
+    "reviewsCount": 49,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:34.307Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "10\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RioGrande%20Care%20PHARMACY&query_place_id=ChIJU-HBiz493oYRBBPYyx_D6dI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMY4Sfz5gE4QhoLJK8KomvxlZaEkh74WONLXEUY=w428-h240-k-no",
+    "kgmid": "/g/11r2hmdwrj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Sav-on Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2551 E Lohman Ave, Las Cruces, NM 88011",
+    "neighborhood": null,
+    "street": "2551 E Lohman Ave",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "phone": "(575) 521-9841",
+    "phoneUnformatted": "+15755219841",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.3170675,
+      "lng": -106.743463
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3d5cdb163a9b:0x4e70f4781045bae9",
+    "cid": "5652286328856230633",
+    "reviewsCount": 6,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sav-on%20Pharmacy&query_place_id=ChIJmzoW21w93oYR6bpFEHj0cE4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npv6cd6wHC_euTsvn8NhD3D0Afk6b78eZxQXY8xby6bEnGVlzshcdIJLO5cVAyLyv3qUZdQ0k39vqP_QUataP6ASqZnCnffJWEKeJAeS65EnrDrJEB6EQOejb-09ddtDn8Ekn7e=w426-h240-k-no",
+    "kgmid": "/g/11h3mv_9vh",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3011 N Main St, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "3011 N Main St",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/las-cruces-nm-pharmacies/3011-north-main-street-las-cruces-nm-88001/storeid=7373?WT.mc_id=LS_GOOGLE_RX_7373",
+    "phone": "(575) 647-8878",
+    "phoneUnformatted": "+15756478878",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3417866,
+      "lng": -106.7757356
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRwVt8Ks93oYRxc-CfOIMwZ0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3dabf06d0547:0x9dc10ce27c82cfc5",
+    "cid": "11367381101350932421",
+    "reviewsCount": 49,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJRwVt8Ks93oYRxc-CfOIMwZ0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwRzUzyJ9-EPP-AEBz7AXXbXDKDUaTpgxrTGWl=w408-h272-k-no",
+    "kgmid": "/g/11c460bhbj",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "RX Innovations",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "151 S Walnut St Suite A5, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "151 S Walnut St Suite A5",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "http://rxinnovationslc.net/",
+    "phone": "(575) 288-1412",
+    "phoneUnformatted": "+15752881412",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3149781,
+      "lng": -106.7560166
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3d526817388d:0x4771f99a74afeaf9",
+    "cid": "5148170290839153401",
+    "reviewsCount": 17,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RX%20Innovations&query_place_id=ChIJjTgXaFI93oYR-eqvdJr5cUc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V48-1FoK44IxWIfzg1IMmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=71.79403&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gycq743b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "1256 El Paseo Rd, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "1256 El Paseo Rd",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1256+el+paseo+rd-las+cruces-nm-88001/id=11960",
+    "phone": "(575) 525-8713",
+    "phoneUnformatted": "+15755258713",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.2979797,
+      "lng": -106.7728159
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZRR0XisW3oYRWYft_OgdO8c",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x86de162b5e741465:0xc73b1de8fced8759",
+    "cid": "14356101123686631257",
+    "reviewsCount": 189,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJZRR0XisW3oYRWYft_OgdO8c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3Mo0Kgq6hdi3_seSXJ2VQlKqUibMm2x33qDcetFzYmF9sFrEYo8fsbwxMw4S_yeq7JkAaRTRQTBH3kNv3J-yuZF2sundRzIYdmPmJ6e2v8mJdQ4f1ROAQUjETiRgV5_MWOvkMUQ=w408-h725-k-no",
+    "kgmid": "/g/1tnms525",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "3100 N Main St, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "3100 N Main St",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3100+n+main+st-las+cruces-nm-88001/id=4421",
+    "phone": "(575) 525-0298",
+    "phoneUnformatted": "+15755250298",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3417989,
+      "lng": -106.7735347
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvyYjL6o93oYRntFwzxPnt5Y",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3daa2f2326bf:0x96b7e713cf70d19e",
+    "cid": "10860403098697912734",
+    "reviewsCount": 44,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJvyYjL6o93oYRntFwzxPnt5Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrlqj2Kn2FDWT6JUGse1ydzfmISx1j7cLfgjkdpUwSJmGHnIouXapT9JmGdmFBhM3fdavfZED0yrQv0hHeQMNFxFZnPUjcrYA2sDThvWFyTzYRtkrZ-w5GS4IeUSiGpYO3rBfo7=w408-h544-k-no",
+    "kgmid": "/g/1tplqs10",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "940 N Main St, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "940 N Main St",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/las-cruces-nm-pharmacies/940-n-main-st-las-cruces-nm-88001/storeid=10149?WT.mc_id=LS_GOOGLE_RX_10149",
+    "phone": "(575) 524-5900",
+    "phoneUnformatted": "+15755245900",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3169818,
+      "lng": -106.7799829
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv6MBhws93oYR_m-8voHRO8o",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3d0b8701a3bf:0xca3bd181bebc6ffe",
+    "cid": "14572471374468378622",
+    "reviewsCount": 21,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:01:54.949Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJv6MBhws93oYR_m-8voHRO8o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@63.4816040992648,-168.42634291573762,11z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPw04L3S9AlFnrfIEq6VmzBiUJiecMRgb7eSOdZ=w408-h272-k-no",
+    "kgmid": "/g/11jnv2pxqw",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Dale Menges, RPHD",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1600 Thorpe Rd, Las Cruces, NM 88012",
+    "neighborhood": null,
+    "street": "1600 Thorpe Rd",
+    "city": "Las Cruces",
+    "postalCode": "88012",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "phone": "(505) 382-6812",
+    "phoneUnformatted": "+15053826812",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.3914057,
+      "lng": -106.8057162
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3bf757e7b389:0x6712528169cbd7ec",
+    "cid": "7427089451266594796",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:04.416Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dale%20Menges%2C%20RPHD&query_place_id=ChIJibPnV_c73oYR7NfLaYFSEmc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B_ngbBq--7vTwWeM9J4aog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=148.10994&pitch=0&thumbfov=100",
+    "kgmid": "/g/1vxdyqpf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Sav-on Pharmacy",
+    "price": "\u20b9\u20b9",
+    "categoryName": "Pharmacy",
+    "address": "1285 El Paseo Rd, Las Cruces, NM 88001, United States",
+    "neighborhood": null,
+    "street": "1285 El Paseo Rd",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "phone": "+1 575-541-1264",
+    "phoneUnformatted": "+15755411264",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.298156,
+      "lng": -106.7703684
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de17d4a89554f9:0x8cb3e8ae32f57e21",
+    "cid": "10138703021018021409",
+    "reviewsCount": 11,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sav-on%20Pharmacy&query_place_id=ChIJ-VSVqNQX3oYRIX71Mq7os4w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npvyPX_IozYuSVBnECtClU4JjVd0Y3vB1JCxcG_mQt8lcAyVNyrs0vxw7lzPwg762GWl4rpTcen5uVJW2TZ0ZFMD1HgAJ6F9dGNUT1g_9kwLM2FY1-LU1nWvyeQFGDbPvWVKb2E=w408-h408-k-no",
+    "kgmid": "/g/1td1vx24",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "\u20b9\u20b9",
+    "categoryName": "Pharmacy",
+    "address": "3375 Rinconada Blvd, Las Cruces, NM 88011, United States",
+    "neighborhood": null,
+    "street": "3375 Rinconada Blvd",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-3375+rinconada+blvd-las+cruces-nm-88011/id=13927",
+    "phone": "+1 575-382-9100",
+    "phoneUnformatted": "+15753829100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3621307,
+      "lng": -106.7482207
+    },
+    "totalScore": 2.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdT9zEug83oYRRZPa1yiYCIE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3ce812733f75:0x81089828d7da9345",
+    "cid": "9297848731893928773",
+    "reviewsCount": 31,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive-through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJdT9zEug83oYRRZPa1yiYCIE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQk4BnSSoxWr5pOwpP_mQR997OzEDrGs286feF=w525-h240-k-no",
+    "kgmid": "/g/11cn9665yk",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "\u20b9\u20b9",
+    "categoryName": "Pharmacy",
+    "address": "1256 El Paseo Rd, Las Cruces, NM 88001, United States",
+    "neighborhood": null,
+    "street": "1256 El Paseo Rd",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1256+el+paseo+rd-las+cruces-nm-88001/id=11960",
+    "phone": "+1 575-525-8713",
+    "phoneUnformatted": "+15755258713",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.2979661,
+      "lng": -106.7728642
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo3AoZSsW3oYRn_W9Gt0KhCw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de162b652870a3:0x2c840add1abdf59f",
+    "cid": "3207700779347342751",
+    "reviewsCount": 21,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12\u202fam"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive-through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u201312\u202fam"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJo3AoZSsW3oYRn_W9Gt0KhCw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRH2YTW-NZk7v9On8e_bFUH4HaJ6nAb0j8fdnu=w525-h240-k-no",
+    "kgmid": "/g/11cn95pt9w",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "100 W Griggs Ave Suite P1, Las Cruces, NM 88001, United States",
+    "neighborhood": null,
+    "street": "100 W Griggs Ave Suite P1",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "+1 575-680-2736",
+    "phoneUnformatted": "+15756802736",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3098753,
+      "lng": -106.7789952
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJH6zWr7k93oYRG8Z-HCjA80U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de3db9afd6ac1f:0x45f3c0281c7ec61b",
+    "cid": "5040583686467012123",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJH6zWr7k93oYRG8Z-HCjA80U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9X-KSCx8RnTujHDRdvvKQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=344.4532&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p74jfj7x",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Vital Care of Las Cruces",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1680 Hickory Loop Suite A, Las Cruces, NM 88005, United States",
+    "neighborhood": null,
+    "street": "1680 Hickory Loop Suite A",
+    "city": "Las Cruces",
+    "postalCode": "88005",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://rxvitalcare.com/",
+    "phone": "+1 575-636-1570",
+    "phoneUnformatted": "+15756361570",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.2926503,
+      "lng": -106.7914282
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x86de17f0375499af:0xa593836dcb9865d6",
+    "cid": "11931024345425012182",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vital%20Care%20of%20Las%20Cruces&query_place_id=ChIJr5lUN_AX3oYR1mWYy22Dk6U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c0bwsigxJ7MAowUQgS1tOg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.80196&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j8zhckd6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "las_cruces_nm"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "\u20b9\u20b9",
+    "categoryName": "Pharmacy",
+    "address": "2551 E Lohman Ave, Las Cruces, NM 88011, United States",
+    "neighborhood": null,
+    "street": "2551 E Lohman Ave",
+    "city": "Las Cruces",
+    "postalCode": "88011",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/nm/las-cruces/2551-e-lohman-ave.html",
+    "phone": "+1 575-521-9841",
+    "phoneUnformatted": "+15755219841",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3172719,
+      "lng": -106.7433411
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ_7I2Fw93oYRpYfbl2GaWKY",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x86de3d5cd8c8fe67:0xa6589a6197db87a5",
+    "cid": "11986500152196827045",
+    "reviewsCount": 26,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:05.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJZ_7I2Fw93oYRpYfbl2GaWKY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@16.61663324755911,-169.37427700842903,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nokaK3-HYLlWEW2zV9M1UgO_mqlTABc-PyQtuPOTCtONJA2jcI7AQ44hP8wzvO04bsKi53aL70z4qUwK3xlMa-MoMbWn-ylwU0hRwQsLhbxx_FprBjUxnYd-Ypp87H-yunKSi0XfQ=w426-h240-k-no",
+    "kgmid": "/g/1ptx8fw6d",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1285 El Paseo Rd, Las Cruces, NM 88001",
+    "neighborhood": null,
+    "street": "1285 El Paseo Rd",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/nm/las-cruces/1285-s-el-paseo-rd.html",
+    "phone": "(575) 541-1264",
+    "phoneUnformatted": "+15755411264",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.29831,
+      "lng": -106.7702395
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI3oQrtQX3oYR83_jdO7nB70",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x86de17d4ae107a23:0xbd07e7ee74e37ff3",
+    "cid": "13621110609354653683",
+    "reviewsCount": 19,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:32.846Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJI3oQrtQX3oYR83_jdO7nB70",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@55.60268578706954,-155.80975446053424,12z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk8aAM75xPsLO2EB5mXHY3XnxdX2r4zSkVefk6k6UGzfyLS7LzErfW5TQiJjMzXpULXjKlMz1Aw7egBr3KEthzTimm5YHOHLIaL-yynTZZqkBdem60RNzUcp1sIHtym-jztvY=w408-h408-k-no",
+    "kgmid": "/g/11cjkvt_gl",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "3011 N Main St, Las Cruces, NM 88001, United States",
+    "neighborhood": null,
+    "street": "3011 N Main St",
+    "city": "Las Cruces",
+    "postalCode": "88001",
+    "state": "New Mexico",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/las-cruces-nm-pharmacies/3011-north-main-street-las-cruces-nm-88001/storeid=7373?WT.mc_id=LS_GOOGLE_FS_7373",
+    "phone": "+1 575-647-8878",
+    "phoneUnformatted": "+15756478878",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3417866,
+      "lng": -106.7757356
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJu8eF4as93oYRnyzjoEkZ_fc",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x86de3dabe185c7bb:0xf7fd1949a0e32c9f",
+    "cid": "17869466700498545823",
+    "reviewsCount": 107,
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:02:39.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12\u202fam\u20131:30\u202fpm"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJu8eF4as93oYRnyzjoEkZ_fc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Las%20Cruces%20NM/@33.954544952667874,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Las Cruces NM",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noglfzlhYgq04rrPKmwmdqiBLtJIfzU6szJfoFJyC9hc1EigtT6sAYOhFLu8cx_I4sXRCLr2q8YU213gYue5JAvtVT_Cmm9LhWm4RyqCtZA2V2OJYHlbwpvotfNHdGhO6q5dVk=w408-h306-k-no",
+    "kgmid": "/g/11z32p03h",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

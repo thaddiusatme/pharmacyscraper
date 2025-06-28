@@ -1,0 +1,2071 @@
+[
+  {
+    "title": "Lewis Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "910 22nd Ave S, Brookings, SD 57006, United States",
+    "neighborhood": null,
+    "street": "910 22nd Ave S",
+    "city": "Brookings",
+    "postalCode": "57006",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-brookings-sd#pharmacy",
+    "phone": "+1 605-692-8881",
+    "phoneUnformatted": "+16056928881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.2959107,
+      "lng": -96.7699224
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8789a3b8b951aec5:0xf2dc54137f2c3a33",
+    "cid": "17499954694769621555",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:48:32.653Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Pharmacy&query_place_id=ChIJxa5RubijiYcRMzosfxNU3PI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@23.7517099,-166.46403603314175,12z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ao5jX761j_vUu2DTGUeIzA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.2701&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j0slfk2y",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Hy-Vee Pharmacy",
+    "price": "\u20ac\u20ac",
+    "categoryName": "Pharmacy",
+    "address": "790 22nd Ave S, Brookings, SD 57006, United States",
+    "neighborhood": null,
+    "street": "790 22nd Ave S",
+    "city": "Brookings",
+    "postalCode": "57006",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.hy-vee.com/my-pharmacy/pharmacy-finder/brookings-790-22nd-ave-s-brookings-sd/1039?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+    "phone": "+1 605-692-7311",
+    "phoneUnformatted": "+16056927311",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.2977186,
+      "lng": -96.7700214
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_ff8BGqiiYcRV5eTuNHfpTc",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Herbal medicine store",
+      "Homeopathic pharmacy",
+      "Local medical services",
+      "Medical Center",
+      "Organic drug store",
+      "Pharmaceutical company",
+      "Pharmaceutical lab",
+      "Toiletries store"
+    ],
+    "fid": "0x8789a26a04fcf7fd:0x37a5dfd1b8939757",
+    "cid": "4009857135081133911",
+    "reviewsCount": 19,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:48:32.656Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hy-Vee%20Pharmacy&query_place_id=ChIJ_ff8BGqiiYcRV5eTuNHfpTc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@23.7517099,-166.46403603314175,12z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npTumKD0PCKa8rS_elBiElAjBwsZoH8auzr3J1ker74H_ujfgCgfEPbOMjSvNtGN3OVaNdUVyLHcxYQohV26jLDjsYXs53tST-O4E1Y97wnajfEzgunh3DoiXC2Eu90vOXT5hsF=w408-h306-k-no",
+    "kgmid": "/g/11b6c9_l55",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "\u20ac",
+    "categoryName": "Pharmacy",
+    "address": "2233 6th St, Brookings, SD 57006, United States",
+    "neighborhood": null,
+    "street": "2233 6th St",
+    "city": "Brookings",
+    "postalCode": "57006",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/1538-brookings-sd/pharmacy/?veh=seo_loc",
+    "phone": "+1 605-692-1858",
+    "phoneUnformatted": "+16056921858",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.3139546,
+      "lng": -96.7671496
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsUFZzGGiiYcRTwE_uyQAWHU",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x8789a261cc5941b1:0x75580024bb3f014f",
+    "cid": "8455508458148397391",
+    "reviewsCount": 14,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:48:32.656Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJsUFZzGGiiYcRTwE_uyQAWHU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@23.7517099,-166.46403603314175,12z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNLF5vjttMdPhRNPMU3Ogb8fHfkYpFcZzckUa_A=w408-h306-k-no",
+    "kgmid": "/g/1tdm46s1",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "325 5th St, Brookings, OR 97415",
+    "neighborhood": null,
+    "street": "325 5th St",
+    "city": "Brookings",
+    "postalCode": "97415",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00030?cid=loc_70100030P_gmb",
+    "phone": "(541) 469-1643",
+    "phoneUnformatted": "+15414691643",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.0533251,
+      "lng": -124.2903677
+    },
+    "totalScore": 2.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ0JtQPCh2lQRUcpMW8exLl4",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54daa1f0406d4267:0x5e2eb1c75b4cca51",
+    "cid": "6786557158282283601",
+    "reviewsCount": 41,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:48:34.692Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJZ0JtQPCh2lQRUcpMW8exLl4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@60.874534795447715,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPW2dB0tbJEEeCczRV_AiM4pV8f0DPWjneOc8pv=w426-h240-k-no",
+    "kgmid": "/g/1hm3708ln",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Salem Community Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "300 N Main St, Salem, SD 57058, United States",
+    "neighborhood": null,
+    "street": "300 N Main St",
+    "city": "Salem",
+    "postalCode": "57058",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://www.salemdrug.com/",
+    "phone": "+1 605-425-2827",
+    "phoneUnformatted": "+16054252827",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.7266002,
+      "lng": -97.3870725
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Greeting card shop",
+      "Medical equipment supplier"
+    ],
+    "fid": "0x8788c6364fd5acfd:0xd2c24e8ec5e7644f",
+    "cid": "15186787268559332431",
+    "reviewsCount": 13,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:48:58.587Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Salem%20Community%20Drug&query_place_id=ChIJ_azVTzbGiIcRT2TnxY5OwtI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@39.68245004733214,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZf51trSv_7Lijmo2Zvwnbe-cChq-R4AC5jwYU=w717-h240-k-no",
+    "kgmid": "/g/113dn879d",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Family Drug - Windom",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "599 2nd Ave N, Windom, MN 56101",
+    "neighborhood": null,
+    "street": "599 2nd Ave N",
+    "city": "Windom",
+    "postalCode": "56101",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-windom-mn",
+    "phone": "(507) 831-4161",
+    "phoneUnformatted": "+15078314161",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.8620704,
+      "lng": -95.1140924
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878b4db1708f1e13:0x84ab1d374bef7044",
+    "cid": "9559766757358399556",
+    "reviewsCount": 17,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.079Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug%20-%20Windom&query_place_id=ChIJEx6PcLFNi4cRRHDvSzcdq4Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrl_Jy6xu8W0d3B3itrROLLnVH-CtXXCtCy4VwwX4dMryf33Gzas4TXDLRsm1JdY1bKBdZQQ2rnAFHJ3a2rRbxLMfWm2voqp2onsUbv4blZxr8igJorQxp77lHm4LG7gDg25LIB=w426-h240-k-no",
+    "kgmid": "/g/1wn_6lv2",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Family Drug - Jackson",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "825 3rd St, Jackson, MN 56143",
+    "neighborhood": null,
+    "street": "825 3rd St",
+    "city": "Jackson",
+    "postalCode": "56143",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-jackson-mn",
+    "phone": "(507) 847-3282",
+    "phoneUnformatted": "+15078473282",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6247253,
+      "lng": -94.9892705
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87f3543ec018134f:0x20c9d41f2b9406a",
+    "cid": "147665794367045738",
+    "reviewsCount": 12,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.079Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug%20-%20Jackson&query_place_id=ChIJTxMYwD5U84cRakC58kGdDAI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIoiC0tGgAN2og9VreW4CerQHMXC3CCkrwpDwr=w408-h408-k-no",
+    "kgmid": "/g/1tggv218",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Family Drug - Lakefield",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "326 Main St, Lakefield, MN 56150",
+    "neighborhood": null,
+    "street": "326 Main St",
+    "city": "Lakefield",
+    "postalCode": "56150",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-lakefield-mn",
+    "phone": "(507) 662-5817",
+    "phoneUnformatted": "+15076625817",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6780857,
+      "lng": -95.1717293
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878b562660e9f1bb:0x73235e46a5bf993f",
+    "cid": "8296578596068104511",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.079Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug%20-%20Lakefield&query_place_id=ChIJu_HpYCZWi4cRP5m_pUZeI3M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPt9jopjmjnjMzjdXrzf_d3fYK9gZwfoPWezBJ4=w408-h408-k-no",
+    "kgmid": "/g/1tdzx6ln",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Dunes Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "101 Tower Rd #130, Dakota Dunes, SD 57049",
+    "neighborhood": null,
+    "street": "101 Tower Rd #130",
+    "city": "Dakota Dunes",
+    "postalCode": "57049",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://www.dunesfamilypharmacy.com/",
+    "phone": "(605) 242-5050",
+    "phoneUnformatted": "+16052425050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5059744,
+      "lng": -96.4949015
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878e05e0791973c1:0xb0020b75833e65ab",
+    "cid": "12682712099969721771",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 17
+    },
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.986Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dunes%20Family%20Pharmacy&query_place_id=ChIJwXMZeeAFjocRq2U-g3ULArA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tdw3ztg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Family Drug - Sioux Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "143 S Main Ave, Sioux Center, IA 51250",
+    "neighborhood": null,
+    "street": "143 S Main Ave",
+    "city": "Sioux Center",
+    "postalCode": "51250",
+    "state": "Iowa",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-sioux-center-ia",
+    "phone": "(712) 722-2704",
+    "phoneUnformatted": "+17127222704",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.0769091,
+      "lng": -96.1759579
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878c33dd3710ef0d:0xc5f1a191a26eebe5",
+    "cid": "14263359141726579685",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.986Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug%20-%20Sioux%20Center&query_place_id=ChIJDe8QN90zjIcR5etuopGh8cU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOsuv3wGjhwyXynsvbG9bneh1_rWF8IYzkFlbs9=w408-h272-k-no",
+    "kgmid": "/g/1tkl3tld",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Family Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "202 S Kniss Ave, Luverne, MN 56156",
+    "neighborhood": null,
+    "street": "202 S Kniss Ave",
+    "city": "Luverne",
+    "postalCode": "56156",
+    "state": "Minnesota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-family-drug-luverne-mn",
+    "phone": "(507) 283-9549",
+    "phoneUnformatted": "+15072839549",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.652523,
+      "lng": -96.213481
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x878bf7a30fd00b45:0x8501e390bf0ed957",
+    "cid": "9584191692841343319",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 3,
+      "fiveStar": 20
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:49:56.986Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Family%20Drug&query_place_id=ChIJRQvQD6P3i4cRV9kOv5DjAYU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-92.81852365721616,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO9_dTDju1CM6oKKo2yXBBUNOb7ms6TyEfOl0Wq=w408-h270-k-no",
+    "kgmid": "/g/1tftrlc9",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Boyds Drug Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Robbinsdale Shopping Center, 909 E Saint Patrick St #1, Rapid City, SD 57701",
+    "neighborhood": null,
+    "street": "Robbinsdale Shopping Center, 909 E Saint Patrick St #1",
+    "city": "Rapid City",
+    "postalCode": "57701",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://stores.healthmart.com/boydspharmacyeast/our_stores.aspx",
+    "phone": "(605) 348-0741",
+    "phoneUnformatted": "+16053480741",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0667138,
+      "lng": -103.2013258
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Liquor store",
+      "Drug store",
+      "Post office"
+    ],
+    "fid": "0x877d42c1a1778bcd:0xb5e462d505f62a0b",
+    "cid": "13106709482622560779",
+    "reviewsCount": 19,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:50:13.310Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boyds%20Drug%20Mart&query_place_id=ChIJzYt3ocFCfYcRCyr2BdVi5LU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXHrGAf24Y5To_2qf_gK_w406QGvWY6UatuqMleTGbO3F2FrhuZ-D7_AK_OuRpR9iHtyTB2yOMTQuBpx_Cgasac80ESoeV7TINIZFMh_nJ4l695kCR4BmEgfLIlq_ezQO9WUwe=w420-h240-k-no",
+    "kgmid": "/g/1tfbj6n0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Boyds Drug Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "655 Mountain View Rd, Rapid City, SD 57702",
+    "neighborhood": null,
+    "street": "655 Mountain View Rd",
+    "city": "Rapid City",
+    "postalCode": "57702",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://boydsdrugmart.com/",
+    "phone": "(605) 343-4445",
+    "phoneUnformatted": "+16053434445",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0808236,
+      "lng": -103.2537737
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop",
+      "Liquor store",
+      "Drug store",
+      "Post office"
+    ],
+    "fid": "0x877d5cb26b5f3f41:0xbad516455022959e",
+    "cid": "13462691148046964126",
+    "reviewsCount": 68,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:50:13.310Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Boyds%20Drug%20Mart&query_place_id=ChIJQT9fa7JcfYcRnpUiUEUW1bo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2-Qxy5EWtMIY8Une80qH0KaMtCHXR5hMGyFvRpx2fnPj3XTSnqgcWKh5ww9LIf1AKkoCStmxOe5v-7LW3HEZhHG-_ek0yBsc0brngCVbsCOokc4ByDFoCjV2KtWsePD5uGK4=w408-h306-k-no",
+    "kgmid": "/g/1vyk2_pd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Dakota Country Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "130 S Center Ave, Philip, SD 57567",
+    "neighborhood": null,
+    "street": "130 S Center Ave",
+    "city": "Philip",
+    "postalCode": "57567",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "http://www.dakotacountrypharmacy.com/",
+    "phone": "(605) 859-2833",
+    "phoneUnformatted": "+16058592833",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.0391563,
+      "lng": -101.6638702
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x877e419d01b56a2f:0x77e9c1a30001d00c",
+    "cid": "8640650265910956044",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:50:13.310Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dakota%20Country%20Pharmacy&query_place_id=ChIJL2q1AZ1BfocRDNABAKPB6Xc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H9lOlLnJNNxkRHTV2r7jrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=93.65587&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wh4gbtk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  },
+  {
+    "title": "Lewis Stores - 37th & Minnesota, Sioux Falls",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2901 S Minnesota Ave, Sioux Falls, SD 57105",
+    "neighborhood": null,
+    "street": "2901 S Minnesota Ave",
+    "city": "Sioux Falls",
+    "postalCode": "57105",
+    "state": "South Dakota",
+    "countryCode": "US",
+    "website": "https://www.lewisdrug.com/stores/lewis-37th-minnesota-sioux-falls",
+    "phone": "(605) 367-2130",
+    "phoneUnformatted": "+16053672130",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.5180466,
+      "lng": -96.7317526
+    },
+    "locatedIn": "Lewis Pharmacy - 37th & Minnesota",
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Garden center",
+      "Grocery store",
+      "Home goods store",
+      "Liquor store",
+      "Department store"
+    ],
+    "fid": "0x878eb60a5cb5c095:0xbb5c17172c4588c7",
+    "cid": "13500691171244345543",
+    "reviewsCount": 606,
+    "imagesCount": 56,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:50:47.340Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lewis Pharmacy - 37th & Minnesota": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Flowers": true
+        },
+        {
+          "Pharmacy": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lewis%20Stores%20-%2037th%20%26%20Minnesota%2C%20Sioux%20Falls&query_place_id=ChIJlcC1XAq2jocRx4hFLBcXXLs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Brookings%20SD/@42.54640259466427,-95.98474960000003,8z?hl=en",
+    "searchString": "independent pharmacy Brookings SD",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM9nC2F9uV_dYM3q6E6k3UG6V_4CNIGgVEPzAVU=w408-h306-k-no",
+    "kgmid": "/g/1260vrjdr",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "brookings_sd"
+  }
+]

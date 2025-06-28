@@ -1,0 +1,10 @@
+{
+  "states": ["AK"],
+  "cities_per_state": 1,
+  "max_results_per_query": 8,
+  "queries": {
+    "AK": [
+      {"query": "pharmacy Anchorage AK", "city": "Anchorage", "state": "AK"}
+    ]
+  }
+}

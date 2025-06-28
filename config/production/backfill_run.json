@@ -1,0 +1,16 @@
+{
+    "locations": [
+        {"query": "independent pharmacies in Manchester, NH", "city": "Manchester", "state": "NH"},
+        {"query": "independent pharmacies in Nashua, NH", "city": "Nashua", "state": "NH"},
+        {"query": "independent pharmacies in Concord, NH", "city": "Concord", "state": "NH"},
+        {"query": "independent pharmacies in Burlington, VT", "city": "Burlington", "state": "VT"},
+        {"query": "independent pharmacies in South Burlington, VT", "city": "South Burlington", "state": "VT"},
+        {"query": "independent pharmacies in Colchester, VT", "city": "Colchester", "state": "VT"},
+        {"query": "independent pharmacies in Charleston, WV", "city": "Charleston", "state": "WV"},
+        {"query": "independent pharmacies in Huntington, WV", "city": "Huntington", "state": "WV"},
+        {"query": "independent pharmacies in Morgantown, WV", "city": "Morgantown", "state": "WV"},
+        {"query": "independent pharmacies in Cheyenne, WY", "city": "Cheyenne", "state": "WY"},
+        {"query": "independent pharmacies in Casper, WY", "city": "Casper", "state": "WY"},
+        {"query": "independent pharmacies in Gillette, WY", "city": "Gillette", "state": "WY"}
+    ]
+}

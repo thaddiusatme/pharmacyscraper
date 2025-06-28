@@ -1,0 +1,2538 @@
+[
+  {
+    "title": "Vermont Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1219 North Ave, Burlington, VT 05408",
+    "neighborhood": "New North End",
+    "street": "1219 North Ave",
+    "city": "Burlington",
+    "postalCode": "05408",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.vtfamilyrx.com/",
+    "phone": "(802) 658-9664",
+    "phoneUnformatted": "+18026589664",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.508597,
+      "lng": -73.247381
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca6555bd77e03b:0xd0832b7d31129213",
+    "cid": "15024900598532313619",
+    "reviewsCount": 23,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:00:40.208Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vermont%20Family%20Pharmacy&query_place_id=ChIJO-B3vVVlykwRE5ISMX0rg9A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@66.43262335305997,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbOcmrg3_bfK_q8-sZH_4sGGZibhd15YJY2P5apKm7SRBWmrBlHpqnGgywmVko7zoXsztzxLWaJhcO-qjtNiCH8xUITLdCG0Ckf0mPnoEaNDhoTmYaOFakWBgaAYFHc0JDUCrs=w408-h497-k-no",
+    "kgmid": "/g/1tf57hvs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "burlington_vt"
+  },
+  {
+    "title": "Lakeside Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "242 Pearl St, Burlington, VT 05401",
+    "neighborhood": "Old North End",
+    "street": "242 Pearl St",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.lakerx.org/",
+    "phone": "(802) 862-1491",
+    "phoneUnformatted": "+18028621491",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4807158,
+      "lng": -73.2090145
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7af5e76cf753:0x25d1c19a48545159",
+    "cid": "2725172117918470489",
+    "reviewsCount": 83,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:00:40.210Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Pharmacy&query_place_id=ChIJU_ds5_V6ykwRWVFUSJrB0SU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@66.43262335305997,-149.65811401432413,9z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDmZ10snrnZsH9WY5jknMybfF11Ir_fQE6PYKZ8rBuW-mbCdqVC5nG1uAfnxut7rNOPSn-3QwPql6I1pcOIBgsqF2sVSrIs8Q3u4q9dUCbdEsiM_KtTYICSkEAZKcbriLRwlBt5A=w408-h271-k-no",
+    "kgmid": "/g/1td42378",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "burlington_vt"
+  },
+  {
+    "title": "Market 32 Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "595 Shelburne Rd, Burlington, VT 05401, United States",
+    "neighborhood": "South End",
+    "street": "595 Shelburne Rd",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.pricechopper.com/stores/vt/burlington/pharmacy-165.html",
+    "phone": "+1 802-651-9835",
+    "phoneUnformatted": "+18026519835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4487887,
+      "lng": -73.2109316
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJ4mKHL17ykwRiaPAdVn31D0",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cca7bbd1c8a8927:0x3dd4f75975c0a389",
+    "cid": "4455457894975972233",
+    "reviewsCount": 17,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:01:18.129Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fam"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Market%2032%20Pharmacy&query_place_id=ChIJJ4mKHL17ykwRiaPAdVn31D0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@21.814956946324113,-160.19165145685741,12z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPQQREDRepXT1RDvEdtOYIb2vXh3SOXhkF8Scsc=w426-h240-k-no",
+    "kgmid": "/g/11b66fk2ms",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:05.475Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.93,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "burlington_vt"
+  },
+  {
+    "title": "Rite Aid",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "55 Springfield Plaza, Springfield, VT 05156",
+    "neighborhood": "Springfield",
+    "street": "55 Springfield Plaza",
+    "city": "Springfield",
+    "postalCode": "05156",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/vt/springfield/55-springfield-plaza-road.html",
+    "phone": "(802) 885-5311",
+    "phoneUnformatted": "+18028855311",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.303297,
+      "lng": -72.490464
+    },
+    "locatedIn": "Rite Aid Pharmacy",
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOVRg8rO54YkRfHiK17A8xJM",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "General store",
+      "Greeting card shop"
+    ],
+    "fid": "0x89e1b9b3f2605439:0x93c43cb0d78a787c",
+    "cid": "10647702149238782076",
+    "reviewsCount": 72,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:05.475Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Rite Aid Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid&query_place_id=ChIJOVRg8rO54YkRfHiK17A8xJM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noiJvbr8i3wvIiABKqMqKA24jHlRpvwr0ZdogNkyTpAM6-8IZquQpukhS3Sy9CtLdVz-d-0YiDCabWwdb9mTYwEdlp7xyMqrHl6pT03mLA6pJ64RxQDQR3-RkHhMOkx9AVWzgk=w408-h544-k-no",
+    "kgmid": "/g/1tdx9pz8",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Pharmacy - 1 South Prospect, University of Vermont Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 South Prospect Street Arnold, Level 1, Burlington, VT 05401",
+    "neighborhood": null,
+    "street": "1 South Prospect Street Arnold, Level 1",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "VT",
+    "countryCode": "US",
+    "website": "https://www.uvmhealth.org/medcenter/Pages/Departments-and-Programs/pharmacy-services.aspx",
+    "phone": "(802) 847-3784",
+    "phoneUnformatted": "+18028473784",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4802153,
+      "lng": -73.2012794
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCfJ4oF56ykwRDBhbZGG1X_I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a5ea078f209:0xf25fb561645b180c",
+    "cid": "17464877309866219532",
+    "reviewsCount": 14,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:05.475Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20-%201%20South%20Prospect%2C%20University%20of%20Vermont%20Medical%20Center&query_place_id=ChIJCfJ4oF56ykwRDBhbZGG1X_I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjoiezD8hD3yKX8VGPPKdwLkjuqy8beVz7BEVOGnl8VRu3VuWUjo7xbhZh5FIA5G3ShOm-f0yymuHI_qesAR8i3ZVmzfv7IG_Uu8CdhJC3Vk5cKry6VgzPXndd2p905D7gP31_eg=w408-h240-k-no-pi-0-ya2.0100057-ro-0-fo100",
+    "kgmid": "/g/1txnp2c5",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Pharmacy, University of Vermont Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Main Campus, Main Lobby, 111 Colchester Ave Level 3, Burlington, VT 05401",
+    "neighborhood": "Centennial",
+    "street": "Main Campus, Main Lobby, 111 Colchester Ave Level 3",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.uvmhealth.org/medcenter/Pages/Departments-and-Programs/pharmacy-services.aspx",
+    "phone": "(802) 847-2821",
+    "phoneUnformatted": "+18028472821",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.479779,
+      "lng": -73.194611
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg9x5OkN6ykwRPsAQogsYpSU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a433a79dc83:0x25a5180ba210c03e",
+    "cid": "2712600788803305534",
+    "reviewsCount": 20,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:05.475Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%2C%20University%20of%20Vermont%20Medical%20Center&query_place_id=ChIJg9x5OkN6ykwRPsAQogsYpSU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npr3Z0FLxbzRzwMdn_V4lzps675nB3AeOhq28SKw9riGnn508fX1XL2avvhIEb9Fa8Ats-mlFYydp8DtoW7wnsj-6HXdXO2j2DbAZNt2AMl2af2sD-37hOhtJ2k9Ikk1PlAMQM5=w408-h544-k-no",
+    "kgmid": "/g/1td1_wyh",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Community Health Centers - Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "617 Riverside Ave. Suite 1, Burlington, VT 05401",
+    "neighborhood": "Old North End",
+    "street": "617 Riverside Ave. Suite 1",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.chcb.org/services/pharmacy/",
+    "phone": "(802) 318-4191",
+    "phoneUnformatted": "+18023184191",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4901289,
+      "lng": -73.2061206
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7b42496213c7:0x980c47247883bf17",
+    "cid": "10956210215451868951",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:05.475Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Centers%20-%20Pharmacy&query_place_id=ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxshF8GR5o3d6fLp2QFCzLipKdVj5YsLknG6Ga=w426-h240-k-no",
+    "kgmid": "/g/11kryg5_mc",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Freedom Fertility Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "374 Merrimac St, Newburyport, MA 01950",
+    "neighborhood": null,
+    "street": "374 Merrimac St",
+    "city": "Newburyport",
+    "postalCode": "01950",
+    "state": "Massachusetts",
+    "countryCode": "US",
+    "website": "http://www.freedomfertility.com/",
+    "phone": "(800) 660-4283",
+    "phoneUnformatted": "+18006604283",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.8243539,
+      "lng": -70.8891028
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e31dafcccd117b:0x49d057d9cb7f149a",
+    "cid": "5318847752858178714",
+    "reviewsCount": 753,
+    "reviewsDistribution": {
+      "oneStar": 462,
+      "twoStar": 31,
+      "threeStar": 14,
+      "fourStar": 23,
+      "fiveStar": 223
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:06.262Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Freedom%20Fertility%20Pharmacy&query_place_id=ChIJexHNzK8d44kRmhR_y9lX0Ek",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@42.54640259466427,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 23,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npFHK1XCG86FELFkxH-zUz_bIB08cHT9z1rmeYhQDCmBmZolwENHMLbsWg0W47yCaQ4748AHlV0BAbro7kBwtwldkdbcSnuM1nGQ6rMg70h10JWtr0SyON8HrmwOv9hreO3Wec=w408-h549-k-no",
+    "kgmid": "/g/1tql5spt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "burlington_vt"
+  },
+  {
+    "title": "Kinney Drugs",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "308 Shelburne Rd, Burlington, VT 05401",
+    "neighborhood": "South End",
+    "street": "308 Shelburne Rd",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/29/",
+    "phone": "(802) 864-8154",
+    "phoneUnformatted": "+18028648154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4567404,
+      "lng": -73.2080123
+    },
+    "locatedIn": "Kinney Drugs Pharmacy",
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwd-YCLB7ykwRfZ_F4Exzknk",
+    "categories": [
+      "Drug store",
+      "Convenience store",
+      "General store"
+    ],
+    "fid": "0x4cca7bb00898dfc1:0x7992734ce0c59f7d",
+    "cid": "8760190999214792573",
+    "reviewsCount": 55,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Kinney Drugs Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs&query_place_id=ChIJwd-YCLB7ykwRfZ_F4Exzknk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr4MyMgHYLf1lsy7vz2b25SwoBZ388xLSYJepLxaYGhYJVxJsWhzh8Cd4bE3V2h5hlSg4irvi2QnaqUdOeQZolXvRzxDLIshmW3Z4dlUdfNK1AMX2Vjl7WJuE5ggd4kquPv2HA=w408-h544-k-no",
+    "kgmid": "/g/1vs1rhdy",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "35 Church St, Burlington, VT 05401",
+    "neighborhood": null,
+    "street": "35 Church St",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/burlington-vt-pharmacies/35-church-st-burlington-vt-05401/storeid=11037?WT.mc_id=LS_GOOGLE_RX_11037",
+    "phone": "(802) 651-1018",
+    "phoneUnformatted": "+18026511018",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4795166,
+      "lng": -73.2128901
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT7Vh6fZ6ykwRYWoQ4CArYL0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7af6e961b54f:0xbd602b20e0106a61",
+    "cid": "13645954291130722913",
+    "reviewsCount": 10,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJT7Vh6fZ6ykwRYWoQ4CArYL0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPU2XldqockQvqtmioHLYNBieKb1j-ZGq_AQShX=w408-h272-k-no",
+    "kgmid": "/g/11c5ss245c",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Shaw's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "570 Shelburne Rd, Burlington, VT 05401",
+    "neighborhood": null,
+    "street": "570 Shelburne Rd",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.shaws.com/vt/burlington/570-shelburne-rd.html",
+    "phone": "(802) 860-3311",
+    "phoneUnformatted": "+18028603311",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4494115,
+      "lng": -73.2071768
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbw_5Lrx7ykwReMfi3ESkWFw",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cca7bbc2ef90f6f:0x5c58a444dce2c778",
+    "cid": "6654249065110488952",
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaw's%20Pharmacy&query_place_id=ChIJbw_5Lrx7ykwReMfi3ESkWFw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Egn_obW-atdyECeDft-iJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.16014&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wbf_0h2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 Dorset St, South Burlington, VT 05403",
+    "neighborhood": null,
+    "street": "1 Dorset St",
+    "city": "South Burlington",
+    "postalCode": "05403",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-burlington-vt-pharmacies/1-dorset-street-south-burlington-vt-05403/storeid=10690?WT.mc_id=LS_GOOGLE_RX_10690",
+    "phone": "(802) 651-1449",
+    "phoneUnformatted": "+18026511449",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4687825,
+      "lng": -73.1821463
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMdi7NDF6ykwRsrtz2KByJUs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a3134bbd831:0x4b2572a0d873bbb2",
+    "cid": "5414860162134686642",
+    "reviewsCount": 10,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJMdi7NDF6ykwRsrtz2KByJUs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipODdoADPOtlCHnqR2LHtnrypVQUpbj0gXX-mYZ9=w408-h272-k-no",
+    "kgmid": "/g/11c5zs4q4w",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Kinney Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "308 Shelburne Rd, Burlington, VT 05401",
+    "neighborhood": "South End",
+    "street": "308 Shelburne Rd",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/29/",
+    "phone": "(802) 864-8154",
+    "phoneUnformatted": "+18028648154",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4567738,
+      "lng": -73.2080074
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFX6pVZB7ykwRcq2mzL4R6Ys",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7b9055a97e15:0x8be911becca6ad72",
+    "cid": "10081608752020499826",
+    "reviewsCount": 7,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs%20Pharmacy&query_place_id=ChIJFX6pVZB7ykwRcq2mzL4R6Ys",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNpuvx6TWdpjjwetFF9OxtBTJpnuTj5k3A4fCK=w427-h240-k-no",
+    "kgmid": "/g/11sw3k4l3t",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Kinney Drugs",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1653 Williston Rd, South Burlington, VT 05403",
+    "neighborhood": null,
+    "street": "1653 Williston Rd",
+    "city": "South Burlington",
+    "postalCode": "05403",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/55/",
+    "phone": "(802) 860-0714",
+    "phoneUnformatted": "+18028600714",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4635935,
+      "lng": -73.1589681
+    },
+    "locatedIn": "Kinney Drugs Pharmacy",
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcadkpIZ5ykwRJxAur81d7tY",
+    "categories": [
+      "Drug store",
+      "Convenience store",
+      "General store"
+    ],
+    "fid": "0x4cca7986a464a771:0xd6ee5dcdaf2e1027",
+    "cid": "15487419306562424871",
+    "reviewsCount": 35,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Kinney Drugs Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs&query_place_id=ChIJcadkpIZ5ykwRJxAur81d7tY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq7H3qvfQju1Jt7ozlYm3Jrlb5Tv20WcsIE03CF-Ellac9gK8j2y_3UWZVUKTj058b2PqyU8gJV3seu7E4mwnRusVF_nExdmERN9GBwy81tGn4hqtCnDVCD21wuRagPM1Cr7c0A1w=w408-h306-k-no",
+    "kgmid": "/g/1tdk0650",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1127 North Ave Suite 11, Burlington, VT 05408",
+    "neighborhood": "New North End",
+    "street": "1127 North Ave Suite 11",
+    "city": "Burlington",
+    "postalCode": "05408",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/vt/burlington/8161",
+    "phone": "(802) 862-7752",
+    "phoneUnformatted": "+18028627752",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5063537,
+      "lng": -73.247007
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwSqN4-16ykwREfUaPPS78Tg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7aede38d2ac1:0x38f1bbf43c1af511",
+    "cid": "4103267393166046481",
+    "reviewsCount": 18,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:26.453Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJwSqN4-16ykwREfUaPPS78Tg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHSpykBOT6WeQROs-mWlVEr1Q8MlEfy6jUSrPxtPb6O8Yrtaqh0b-_8_XAjlByL_8RfvfmzkQ1g3VsLmjNcnG_6bZINI_B5S_fp2J-wVvlefegFhui5x1u2sARk_iW-FlVJxM=w408-h408-k-no",
+    "kgmid": "/g/11b66c14z3",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Kinney Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1653 Williston Rd, South Burlington, VT 05403",
+    "neighborhood": null,
+    "street": "1653 Williston Rd",
+    "city": "South Burlington",
+    "postalCode": "05403",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://kinneydrugs.com/locations/pharmacy/55/",
+    "phone": "(802) 860-0714",
+    "phoneUnformatted": "+18028600714",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4635727,
+      "lng": -73.1589547
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMXCqtfN5ykwR5bLHHjwYchw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca79f3b5aa7031:0x1c72183c1ec7b2e5",
+    "cid": "2049727426900505317",
+    "reviewsCount": 0,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:02:27.439Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kinney%20Drugs%20Pharmacy&query_place_id=ChIJMXCqtfN5ykwR5bLHHjwYchw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 34,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNYBSW36l6UcCoc-BkKlEynBfgk-HNXcDlHekNT=w427-h240-k-no",
+    "kgmid": "/g/11v5f1b369",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Burlington Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "301 High St, Burlington, NJ 08016, United States",
+    "neighborhood": null,
+    "street": "301 High St",
+    "city": "Burlington",
+    "postalCode": "08016",
+    "state": "New Jersey",
+    "countryCode": "US",
+    "website": "https://www.burlingtonrx.com/",
+    "phone": "+1 609-386-0141",
+    "phoneUnformatted": "+16093860141",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 40.079446,
+      "lng": -74.8585848
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89c14e89d71b2aa5:0xc841e519a8c74577",
+    "cid": "14430066579440354679",
+    "reviewsCount": 18,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:03:07.415Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Burlington%20Pharmacy&query_place_id=ChIJpSob14lOwYkRd0XHqBnlQcg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Burlington%20VT/@39.68245004733214,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Burlington VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ6pHuDi7itIvFk2gOXJtEv3EmEYQVKLhag2jw=w426-h240-k-no",
+    "kgmid": "/g/1tfh5kkr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "burlington_vt"
+  }
+]

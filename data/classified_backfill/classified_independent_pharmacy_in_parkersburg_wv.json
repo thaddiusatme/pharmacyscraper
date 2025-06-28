@@ -1,0 +1,92 @@
+[
+    {
+        "placeId": "ChIJSweHjoSzSYgRrFqU0HPF47U",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.85,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJ2W6LnXNLSIgRA4_3vjyR2vQ",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJ5_q1MuYh8IcRNhhZ7_730cE",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJ29LLwOtMSIgRUxgXLqdFutU",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJlYOJWldLSIgRIG0LWbChu70",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.95,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJcUsOsOhMSIgRf7IP3nG88qA",
+        "classification": "independent",
+        "is_independent": true,
+        "is_compounding": false,
+        "confidence": 0.9,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJbwjfE1xLSIgR5kAIzQu5zvI",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJiRhBPVJLSIgRr5KWcoE-GuE",
+        "classification": "hospital",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.95,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJpXCjNC5LSIgRRgLPrep8CXI",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 1.0,
+        "source": "perplexity",
+        "method": "llm"
+    },
+    {
+        "placeId": "ChIJAQDAmD5LSIgRFvUYzUVw4pw",
+        "classification": "chain",
+        "is_independent": false,
+        "is_compounding": false,
+        "confidence": 0.99,
+        "source": "perplexity",
+        "method": "llm"
+    }
+]

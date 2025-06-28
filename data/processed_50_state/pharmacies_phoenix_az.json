@@ -1,0 +1,1272 @@
+[
+  {
+    "title": "Rosy's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1111 E Northern Ave, Phoenix, AZ 85020",
+    "neighborhood": "Camelback East Village",
+    "street": "1111 E Northern Ave",
+    "city": "Phoenix",
+    "postalCode": "85020",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://rosyspharmacy.com/",
+    "phone": "(602) 331-5323",
+    "phoneUnformatted": "+16023315323",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5524189,
+      "lng": -112.0584158
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Laboratory"
+    ],
+    "fid": "0x872b6d5d43687d85:0x268d7d6c3090397a",
+    "cid": "2778014448782162298",
+    "reviewsCount": 40,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.129Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rosy's%20Pharmacy&query_place_id=ChIJhX1oQ11tK4cRejmQMGx9jSY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np6Bj7LpFqr6YDm_v6n21iDa2ggIb_u-qZtd5vlgVDGNMc7VAfRTWI_C1tfmjz5pjLrLJzJtpffXDlpC6G9tdb5_LlNosY_Hjpv716PsBahkgMdG_Aat8RPq3FKgjZorUXC82Ii=w408-h626-k-no",
+    "kgmid": "/g/11b620cmrh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Melrose Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "706 W Montecito Ave #2814, Phoenix, AZ 85013",
+    "neighborhood": "Encanto Village",
+    "street": "706 W Montecito Ave #2814",
+    "city": "Phoenix",
+    "postalCode": "85013",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.melrosepharmacy.com/",
+    "phone": "(602) 277-4714",
+    "phoneUnformatted": "+16022774714",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.499653,
+      "lng": -112.083361
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b12ef67586a53:0xaeba4cfda901b630",
+    "cid": "12590460360613541424",
+    "reviewsCount": 108,
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.130Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Melrose%20Pharmacy&query_place_id=ChIJU2pYZ-8SK4cRMLYBqf1Muq4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP00Hcicb9Rz-fHj-fsL-fPIk10c-4VC7HDOHYa=w480-h240-k-no",
+    "kgmid": "/g/1v8l01zb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.92,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Metier Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3511 E Indian School Rd, Phoenix, AZ 85018",
+    "neighborhood": "Camelback East Village",
+    "street": "3511 E Indian School Rd",
+    "city": "Phoenix",
+    "postalCode": "85018",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.metierpharmacy.com/",
+    "phone": "(602) 899-6960",
+    "phoneUnformatted": "+16028996960",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.4949434,
+      "lng": -112.0058085
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0c50e775c649:0x1e3dfb71ef693cea",
+    "cid": "2179174261483715818",
+    "reviewsCount": 91,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Metier%20Pharmacy&query_place_id=ChIJScZ151AMK4cR6jxp73H7PR4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPe3q5BcVY_4GFN09l5LwVG6rPju40qhF1Brymr=w408-h306-k-no",
+    "kgmid": "/g/11cmn7jmmw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "A Nice Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10210 N 32nd St #C7, Phoenix, AZ 85028",
+    "neighborhood": "Valley View Villas",
+    "street": "10210 N 32nd St #C7",
+    "city": "Phoenix",
+    "postalCode": "85028",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://www.anicerx.com/contact-us/",
+    "phone": "(602) 675-0887",
+    "phoneUnformatted": "+16026750887",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5793246,
+      "lng": -112.013985
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x872b733229abebc9:0x8c0f3ff4275d35d1",
+    "cid": "10092355607825561041",
+    "reviewsCount": 93,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20Nice%20Apothecary&query_place_id=ChIJyeurKTJzK4cR0TVdJ_Q_D4w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOmCLqzY1XSBZjoWE4RxCuMtXpbGjawA_IxFsRM=w408-h272-k-no",
+    "kgmid": "/g/11jv4mxvmc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Phoenix Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1701 E Thomas Rd, Phoenix, AZ 85016",
+    "neighborhood": "Encanto Village",
+    "street": "1701 E Thomas Rd",
+    "city": "Phoenix",
+    "postalCode": "85016",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://phxpharmacy.com/",
+    "phone": "(602) 237-6677",
+    "phoneUnformatted": "+16022376677",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.4799146,
+      "lng": -112.0445588
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0d88608bb6c9:0xd47d1be69bb31b29",
+    "cid": "15311424985398188841",
+    "reviewsCount": 46,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Phoenix%20Pharmacy&query_place_id=ChIJybaLYIgNK4cRKRuzm-YbfdQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOWrccTTA5Hn20XvLzFGyw9NbgF56B6f4aqvMdJ=w408-h272-k-no",
+    "kgmid": "/g/11cp7cm5xm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AZ MIX Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2501 W Behrend Dr Suite A-11, Phoenix, AZ 85027",
+    "neighborhood": "Valley North Business Park",
+    "street": "2501 W Behrend Dr Suite A-11",
+    "city": "Phoenix",
+    "postalCode": "85027",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.theazmix.com/",
+    "phone": "(602) 975-6241",
+    "phoneUnformatted": "+16029756241",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.6651951,
+      "lng": -112.112262
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x872b6f02d287b4ef:0x3ece35c06ae1256e",
+    "cid": "4525613776097060206",
+    "reviewsCount": 108,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AZ%20MIX%20Compounding%20Pharmacy&query_place_id=ChIJ77SH0gJvK4cRbiXhasA1zj4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPKJW6zNO8nbKUbrbSeDnZZ03aEsVOheoCQ7T0t=w408-h544-k-no",
+    "kgmid": "/g/11hysh7vbn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "South Central Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7227 S Central Ave #1080, Phoenix, AZ 85042",
+    "neighborhood": "South Mountain Village",
+    "street": "7227 S Central Ave #1080",
+    "city": "Phoenix",
+    "postalCode": "85042",
+    "state": "Arizona",
+    "countryCode": "US",
+    "phone": "(602) 441-3564",
+    "phoneUnformatted": "+16024413564",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.3798866,
+      "lng": -112.071918
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Diagnostic center",
+      "Drug store"
+    ],
+    "fid": "0x872b111e11a0e447:0x488128469414da9",
+    "cid": "326531332895231401",
+    "reviewsCount": 9,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=South%20Central%20Pharmacy&query_place_id=ChIJR-SgER4RK4cRqU1BaYQSiAQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP6cRfrjMZV3zVntFFCwUg7Mb_zWVx6JQM9InJI=w408-h306-k-no",
+    "kgmid": "/g/11ghxpk_vz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Vision Med LTC and Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9830 S 51st St B-113, Phoenix, AZ 85044",
+    "neighborhood": "Westmount Tech Center",
+    "street": "9830 S 51st St B-113",
+    "city": "Phoenix",
+    "postalCode": "85044",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://visionmedpharmacy.com/",
+    "phone": "(480) 590-0281",
+    "phoneUnformatted": "+14805900281",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.3566515,
+      "lng": -111.975584
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872ba7b714db207f:0x46864c0ec94afb07",
+    "cid": "5081832855924570887",
+    "reviewsCount": 4,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vision%20Med%20LTC%20and%20Compounding%20Pharmacy&query_place_id=ChIJfyDbFLenK4cRB_tKyQ5MhkY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNHOShKtY1SCGplJ3hcUyPEcRMMGhp6f_pCFw6k=w408-h612-k-no",
+    "kgmid": "/g/11sf7njfch",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Paradise Valley Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5410 N Scottsdale Rd # A400, Paradise Valley, AZ 85253",
+    "neighborhood": null,
+    "street": "5410 N Scottsdale Rd # A400",
+    "city": "Paradise Valley",
+    "postalCode": "85253",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.pvcompounding.com/",
+    "phone": "(480) 572-1588",
+    "phoneUnformatted": "+14805721588",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.515211,
+      "lng": -111.926666
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg7WairYLK4cRLhdcS7fkDIQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0bb68a9ab583:0x840ce4b74b5c172e",
+    "cid": "9515231588621489966",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Paradise%20Valley%20Compounding%20Pharmacy&query_place_id=ChIJg7WairYLK4cRLhdcS7fkDIQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-fB9_x2GvbxAtREJf3MxQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.63925&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q3r5988s",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Neighborhood LTC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1300 N 12th St #406, Phoenix, AZ 85006",
+    "neighborhood": "Good Samaritan",
+    "street": "1300 N 12th St #406",
+    "city": "Phoenix",
+    "postalCode": "85006",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://www.neighborhoodrx.com/",
+    "phone": "(602) 396-7330",
+    "phoneUnformatted": "+16023967330",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.462998,
+      "lng": -112.057341
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b120dd708f209:0x7f66b97590e3ce4e",
+    "cid": "9180228805034495566",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:12:06.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Neighborhood%20LTC%20Pharmacy&query_place_id=ChIJCfII1w0SK4cRTs7jkHW5Zn8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Phoenix%20AZ/@-0.44082045103029055,-160.067769998547,13z?hl=en",
+    "searchString": "independent pharmacy Phoenix AZ",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOgS2wdFphBw-2JNWA0_MIHgLsjLc5LGLkg97ZH=w648-h240-k-no",
+    "kgmid": "/g/1tj46ckm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

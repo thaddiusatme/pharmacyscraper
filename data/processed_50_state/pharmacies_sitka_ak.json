@@ -1,0 +1,1375 @@
+[
+  {
+    "title": "Harry Race Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "106 Lincoln St, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "106 Lincoln St",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.sitkapharmacies.com/",
+    "phone": "(907) 313-6750",
+    "phoneUnformatted": "+19073136750",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 57.0491652,
+      "lng": -135.3382225
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Cosmetics store",
+      "Drug store",
+      "Ice cream shop",
+      "Photo lab",
+      "Photo shop",
+      "Snack bar",
+      "Souvenir store"
+    ],
+    "fid": "0x540467a363616bf9:0x8d657a0de432947b",
+    "cid": "10188683932077298811",
+    "reviewsCount": 58,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:05:54.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "1\u20135\u202fPM"
+        }
+      ],
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Harry%20Race%20Pharmacy&query_place_id=ChIJ-WthY6NnBFQRe5Qy5A16ZY0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nozuRCIlOgp2glhsX4ASMsMBlb6PkTpTEwc86Jfbfa8v_DdBnrnLebIdXgPYEGuZxiKgVLPo8lAI3ZWz0R4PUMX9uJafBVEG3_fvWmbCpAKhllw3dhE7KSyI8emxo5Mkw79i8M=w493-h240-k-no",
+    "kgmid": "/g/1thpwj97",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "White's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "705 Halibut Point Rd, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "705 Halibut Point Rd",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.sitkapharmacies.com/whites-pharmacy",
+    "phone": "(907) 313-6881",
+    "phoneUnformatted": "+19073136881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 57.0569543,
+      "lng": -135.3461305
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x540467b1752004ff:0x4049e959e5797985",
+    "cid": "4632490264038570373",
+    "reviewsCount": 8,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:05:54.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9:30\u202fAM\u20135:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30\u202fAM\u20135:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30\u202fAM\u20135:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=White's%20Pharmacy&query_place_id=ChIJ_wQgdbFnBFQRhXl55VnpSUA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNgXBZlTcgY6F72eNtQK-KtfwJsJmnyNrHye6mt=w408-h306-k-no",
+    "kgmid": "/g/1tdwdmcc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "White Trish D",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "106 Lincoln St, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "106 Lincoln St",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.whitesalaska.com/",
+    "phone": "(907) 747-8006",
+    "phoneUnformatted": "+19077478006",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 57.0491652,
+      "lng": -135.3382225
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x540467a363616c17:0xe1737a3bf53a2dca",
+    "cid": "16245462678791400906",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:05:54.128Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=White%20Trish%20D&query_place_id=ChIJF2xhY6NnBFQRyi069Tt6c-E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VYtecHOGFXRCjWYWJSlpHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=158.62871&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tflfxz9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Center For Community Building, 700 Katlian St, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "Center For Community Building, 700 Katlian St",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.sitkapharmacies.com/",
+    "phone": "(907) 747-4772",
+    "phoneUnformatted": "+19077474772",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 57.0565657,
+      "lng": -135.3470788
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x540467b1cc75e82b:0x89851b12b9111363",
+    "cid": "9909356322326909795",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:05:54.128Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy&query_place_id=ChIJK-h1zLFnBFQRYxMRuRIbhYk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-147.35651604297223,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=crR5kz3ork6e-HuADx-PMQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=216.49666&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tjpq5dc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Reid Jill G",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "222 Tongass Dr, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "222 Tongass Dr",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "phone": "(907) 966-2411",
+    "phoneUnformatted": "+19079662411",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 57.0519902,
+      "lng": -135.3552217
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x540467af2bd47073:0x14859b6b4414361f",
+    "cid": "1478758937667057183",
+    "reviewsCount": 0,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:06:07.969Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Reid%20Jill%20G&query_place_id=ChIJc3DUK69nBFQRHzYURGubhRQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.17977372574618,-139.3009231432406,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "kgmid": "/g/1vcq78mg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Wileman Shannon M",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "222 Tongass Dr, Sitka, AK 99835",
+    "neighborhood": null,
+    "street": "222 Tongass Dr",
+    "city": "Sitka",
+    "postalCode": "99835",
+    "state": "Alaska",
+    "countryCode": "US",
+    "phone": "(907) 966-2411",
+    "phoneUnformatted": "+19079662411",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 57.0519902,
+      "lng": -135.3552217
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x540467af2bd47073:0xaab29f613cc5ce72",
+    "cid": "12300068772282486386",
+    "reviewsCount": 1,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:06:39.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wileman%20Shannon%20M&query_place_id=ChIJc3DUK69nBFQRcs7FPGGfsqo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.17977372574618,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "kgmid": "/g/1wf21jx4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "SEARHC ELMC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1200 Salmon Creek Ln, Juneau, AK 99801",
+    "neighborhood": "Twin Lakes",
+    "street": "1200 Salmon Creek Ln",
+    "city": "Juneau",
+    "postalCode": "99801",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://searhc.org/location/ethel-lund-medical-center/",
+    "phone": "(907) 463-4030",
+    "phoneUnformatted": "+19074634030",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 58.3312553,
+      "lng": -134.4671516
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5400e007cdb37e9f:0x6db16ea4d976208f",
+    "cid": "7904220475314020495",
+    "reviewsCount": 5,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:07:04.420Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SEARHC%20ELMC%20Pharmacy&query_place_id=ChIJn36zzQfgAFQRjyB22aRusW0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@58.79025158634311,-133.54692821486086,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipON2N2EmVx4-i5AcENO6sf5jkKaYRhwlrkgKzFR=w408-h272-k-no",
+    "kgmid": "/g/1tsljdk7",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Soldotna Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "299 N Binkley St, Soldotna, AK 99669",
+    "neighborhood": null,
+    "street": "299 N Binkley St",
+    "city": "Soldotna",
+    "postalCode": "99669",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.soldotnapharmacy.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=201436",
+    "phone": "(907) 262-3800",
+    "phoneUnformatted": "+19072623800",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 60.4945546,
+      "lng": -151.0731048
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x56c663e098445141:0xf1c6340a2afccc3d",
+    "cid": "17421669426804870205",
+    "reviewsCount": 53,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:07:07.268Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Soldotna%20Professional%20Pharmacy&query_place_id=ChIJQVFEmOBjxlYRPcz8Kgo0xvE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.17977372574618,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ydIyuWJu2kFj7H77CyvL6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.8964&pitch=0&thumbfov=100",
+    "kgmid": "/g/1th7y28x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Professional Home IV",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "182 S Birch St, Soldotna, AK 99669",
+    "neighborhood": null,
+    "street": "182 S Birch St",
+    "city": "Soldotna",
+    "postalCode": "99669",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.prohomeiv.com/",
+    "phone": "(907) 262-8737",
+    "phoneUnformatted": "+19072628737",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 60.4847828,
+      "lng": -151.0644569
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c66163fa622c4b:0x8550cd5c4633d099",
+    "cid": "9606403801379754137",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:07:07.800Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Professional%20Home%20IV&query_place_id=ChIJSyxi-mNhxlYRmdAzRlzNUIU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.17977372574618,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NK4JnUreTTKhLbQeat787A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=89.58289&pitch=0&thumbfov=100",
+    "kgmid": "/g/1v_smzm2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Stikine Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "202 Front St, Wrangell, AK 99929",
+    "neighborhood": null,
+    "street": "202 Front St",
+    "city": "Wrangell",
+    "postalCode": "99929",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.stikinedrug.com/",
+    "phone": "(907) 874-3422",
+    "phoneUnformatted": "+19078743422",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 56.4716749,
+      "lng": -132.3841176
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5408ca36deda6b49:0xc0e29b2ec02a6a1e",
+    "cid": "13898842025113578014",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 6
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:07:24.737Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stikine%20Drug&query_place_id=ChIJSWva3jbKCFQRHmoqwC6b4sA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@56.01120730753697,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlLsgoTNUJcy7WyT5xFT422oCKIXlAK8beSumC44Wq8LOliNtoAoTSv7Jg5SpDJ8_RWksMz3-pKv9QUBRbBXVRzCAbVYEgAJxR-PHMoZI6h_oSXuMEggEY4omMEnuihM6m28dGgQ=w408-h306-k-no",
+    "kgmid": "/g/1txy209h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Bernie's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4100 Lake Otis Pkwy STE 200, Anchorage, AK 99508",
+    "neighborhood": "Tudor Area",
+    "street": "4100 Lake Otis Pkwy STE 200",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.berniespharmacy.com/",
+    "phone": "(907) 562-2138",
+    "phoneUnformatted": "+19075622138",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1828815,
+      "lng": -149.8399346
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x56c897a631f1a021:0x50c37fafb43f3509",
+    "cid": "5819635536112858377",
+    "reviewsCount": 77,
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:08:34.507Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bernie's%20Pharmacy&query_place_id=ChIJIaDxMaaXyFYRCTU_tK9_w1A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqlEh1GSfmrDzMHo2_FoKApQXV-WukgEOAsH6vyGGuN8VSf3ygewVctRXtOm4ea8yFzVaALWmLcwSP94fFRaGLOJYMi5rnmIncaB9SrGV7jr3ZuqXalNRpwIlLv5jpag40s=w408-h306-k-no",
+    "kgmid": "/g/1tffjht8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  },
+  {
+    "title": "Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11432 Business Blvd #10, Eagle River, AK 99577",
+    "neighborhood": "Eagle River",
+    "street": "11432 Business Blvd #10",
+    "city": "Eagle River",
+    "postalCode": "99577",
+    "state": "Alaska",
+    "countryCode": "US",
+    "phone": "(907) 694-7007",
+    "phoneUnformatted": "+19076947007",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.3230647,
+      "lng": -149.5727951
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c8eb6de1a8616b:0x269135521221fbde",
+    "cid": "2779061071672114142",
+    "reviewsCount": 35,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:08:34.507Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Family%20Pharmacy&query_place_id=ChIJa2Go4W3ryFYR3vshElI1kSY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Sitka%20AK/@60.874534795447715,-150.80891300000008,9z?hl=en",
+    "searchString": "independent pharmacy Sitka AK",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npTaUWi3_83WITCriASCw-_JURnBXLKMaOGxhukttRnpaWrfAAmJUbEo6JrprqMDdVXi7pcCXtj7Xm8V0cG2qhae2De0sw8T5MUbrNvsyFm38db60p2B98DEBTIdcmyfkAICisB=w408-h502-k-no",
+    "kgmid": "/g/1v46_2b4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "sitka_ak"
+  }
+]

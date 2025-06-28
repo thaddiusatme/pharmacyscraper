@@ -1,0 +1,959 @@
+[
+  {
+    "title": "iKARE Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7212 Halcyon Park Dr, Montgomery, AL 36117, United States",
+    "neighborhood": null,
+    "street": "7212 Halcyon Park Dr",
+    "city": "Montgomery",
+    "postalCode": "36117",
+    "state": "Alabama",
+    "countryCode": "US",
+    "phone": "+1 334-230-7436",
+    "phoneUnformatted": "+13342307436",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.3404067,
+      "lng": -86.1740253
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2d2474c4578d:0x10b4ca583967f16e",
+    "cid": "1203809480683811182",
+    "reviewsCount": 53,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.549Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=iKARE%20Pharmacy&query_place_id=ChIJjVfEdCQtjIgRbvFnOVjKtBA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZckhaMCCfe6uBRRllwde4VQ_-BR2lcTOCzJEk=w408-h306-k-no",
+    "kgmid": "/g/11h3dc_mzj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy Care Associates",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "545 Cotton Gin Rd, Montgomery, AL 36117, United States",
+    "neighborhood": null,
+    "street": "545 Cotton Gin Rd",
+    "city": "Montgomery",
+    "postalCode": "36117",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://www.pharmacycareassociates.com/",
+    "phone": "+1 334-396-9466",
+    "phoneUnformatted": "+13343969466",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.372535,
+      "lng": -86.1673589
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2c0e6300104f:0xb6895a0f084edab8",
+    "cid": "13153143207322639032",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Care%20Associates&query_place_id=ChIJTxAAYw4sjIgRuNpOCA9aibY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Oof0WSqDY4UFce0ondwjgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.17477&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdx09nt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Janus Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3480 Eastern Blvd, Montgomery, AL 36116, United States",
+    "neighborhood": null,
+    "street": "3480 Eastern Blvd",
+    "city": "Montgomery",
+    "postalCode": "36116",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "http://januspharmacy.com/roe-pharmacy-service/",
+    "phone": "+1 334-819-4500",
+    "phoneUnformatted": "+13348194500",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.334431,
+      "lng": -86.2307228
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2af1fbc00001:0x496d226f6b866f",
+    "cid": "20667667965511279",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Janus%20Pharmacy&query_place_id=ChIJAQDA-_EqjIgRb4ZrbyJtSQA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a3AWZx61EJTyghJaEMvJBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=37.246502&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h4cgkgry",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mcc Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4145 Carmichael Rd # A, Montgomery, AL 36106, United States",
+    "neighborhood": null,
+    "street": "4145 Carmichael Rd # A",
+    "city": "Montgomery",
+    "postalCode": "36106",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://montgomerycancercenter.com/mcc-apothecary",
+    "phone": "+1 334-273-2281",
+    "phoneUnformatted": "+13342732281",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.358742,
+      "lng": -86.2368227
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2a6824e67ecf:0x98fbbac21a6871ac",
+    "cid": "11023609855748895148",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mcc%20Apothecary&query_place_id=ChIJz37mJGgqjIgRrHFoGsK6-5g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=blFRQ9OoiZHY2u8K9a-Fiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=57.23588&pitch=0&thumbfov=100",
+    "kgmid": "/g/126351sxn",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Adams Drugs South",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3016 McGehee Rd, Montgomery, AL 36111, United States",
+    "neighborhood": null,
+    "street": "3016 McGehee Rd",
+    "city": "Montgomery",
+    "postalCode": "36111",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://adamsdrugs.net/adams-drugs-locations/mcgehee-road/",
+    "phone": "+1 334-281-1671",
+    "phoneUnformatted": "+13342811671",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3370045,
+      "lng": -86.2599623
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x888e80291fd54e8b:0xc5e9a2646d8a8377",
+    "cid": "14261108247263609719",
+    "reviewsCount": 29,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adams%20Drugs%20South&query_place_id=ChIJi07VHymAjogRd4OKbWSi6cU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VKB590a6gCOg_XSSTXZMnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=170.08467&pitch=0&thumbfov=100",
+    "kgmid": "/g/12628w26q",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Turenne PharMedCo Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "355 Industrial Park Blvd, Montgomery, AL 36117, United States",
+    "neighborhood": null,
+    "street": "355 Industrial Park Blvd",
+    "city": "Montgomery",
+    "postalCode": "36117",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "http://www.turennepharmedco.com/",
+    "phone": "+1 866-710-7626",
+    "phoneUnformatted": "+18667107626",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.3732757,
+      "lng": -86.1137524
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2d02888c97d9:0xc64c2b998dd4fbdb",
+    "cid": "14288843656249277403",
+    "reviewsCount": 11,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Turenne%20PharMedCo%20Pharmacy%20Services&query_place_id=ChIJ2ZeMiAItjIgR2_vUjZkrTMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPirLnC5Wfxsc9nG3NqxwGxkTzMSJ5sjdeGHyyX=w408-h271-k-no",
+    "kgmid": "/g/1th24l28",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Adams Drugs - Copperfield",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7200 Copperfield Dr STE A, Montgomery, AL 36117, United States",
+    "neighborhood": null,
+    "street": "7200 Copperfield Dr STE A",
+    "city": "Montgomery",
+    "postalCode": "36117",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://adamsdrugs.net/adams-drugs-locations/taylor-road/",
+    "phone": "+1 334-386-9370",
+    "phoneUnformatted": "+13343869370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 32.375657,
+      "lng": -86.1708539
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2c08c66d96cf:0x8cb771e411ce890c",
+    "cid": "10139698310413191436",
+    "reviewsCount": 53,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adams%20Drugs%20-%20Copperfield&query_place_id=ChIJz5ZtxggsjIgRDInOEeRxt4w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojwFO6zTpoDb_E9alBRG-WTZf2VPTG2qZusBkdDLd5cDrjH7cJ3EE2cn7R-yWvaBuFLpE4wyrP4uWDP-bhQReZgDuL0yN7GB8XvT4Jrgv7Ck-i8ckSyOytRLSrEUxODLUiLjukVQ=w426-h240-k-no",
+    "kgmid": "/g/1thght6f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Alabama Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4274 Lomac St, Montgomery, AL 36106, United States",
+    "neighborhood": null,
+    "street": "4274 Lomac St",
+    "city": "Montgomery",
+    "postalCode": "36106",
+    "state": "Alabama",
+    "countryCode": "US",
+    "phone": "+1 334-213-2432",
+    "phoneUnformatted": "+13342132432",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.3578974,
+      "lng": -86.2301142
+    },
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x888c2a44965f20a1:0xc10a5f33ee1305a1",
+    "cid": "13910035075729393057",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:00.550Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alabama%20Independent%20Pharmacy&query_place_id=ChIJoSBflkQqjIgRoQUT7jNfCsE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@-10.989466511638566,-171.0091333514526,13z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wf0mKnYmcCBdVgNqAJQSqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=168.08057&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td1w6kt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Adams Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "934 Adams Ave, Montgomery, AL 36104, United States",
+    "neighborhood": null,
+    "street": "934 Adams Ave",
+    "city": "Montgomery",
+    "postalCode": "36104",
+    "state": "Alabama",
+    "countryCode": "US",
+    "website": "https://adamsdrugs.net/",
+    "phone": "+1 334-264-3496",
+    "phoneUnformatted": "+13342643496",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 32.3753291,
+      "lng": -86.2954939
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x888e819e76bbd541:0x99a0a05e4d6c7655",
+    "cid": "11070024210963002965",
+    "reviewsCount": 27,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:08:02.423Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Adams%20Drugs&query_place_id=ChIJQdW7dp6BjogRVXZsTV6goJk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Montgomery%20AL/@57.294013596514894,-170.44962461877225,12z?hl=en",
+    "searchString": "independent pharmacy Montgomery AL",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojMdnrI8jS_uHjrI13luek2UMiz_hg594PSsv-jAZT0wjGoNu-xH6wmYkQZ2wF5-lTWS_dWaq7DOPJTwQixNpZOOCQpERw2HMLbhUoEpZ79Ut6HH7DgB29nktuuojA49Hv2oaD=w426-h240-k-no",
+    "kgmid": "/g/1tptrd0s",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

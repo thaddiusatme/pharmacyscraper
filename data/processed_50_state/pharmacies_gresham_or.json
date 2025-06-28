@@ -1,0 +1,2445 @@
+[
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1950 NE Burnside Rd, Gresham, OR 97030",
+    "neighborhood": "Mount Hood",
+    "street": "1950 NE Burnside Rd",
+    "city": "Gresham",
+    "postalCode": "97030",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1950+ne+burnside+rd-gresham-or-97030/id=3838",
+    "phone": "(503) 674-8482",
+    "phoneUnformatted": "+15036748482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5005298,
+      "lng": -122.4129565
+    },
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495985be853b593:0xf0ccce45c1fbe2f8",
+    "cid": "17351470263354254072",
+    "reviewsCount": 45,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.619Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1\u202fPM, 1:30 to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJk7VT6FuYlVQR-OL7wUXOzPA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np3g0n3W-kco4XXsvodKKUujJk4_D33TKIslkX0swFMU4_Eb2bAtDjmh4iijp6hhE7p3uyofhPLNJt6Pf5wdr87d_BkMQGtJ6JwwDD6or9hBIiYCzvzYEB-DqsbanjtcIUfh1mM=w408-h306-k-no",
+    "kgmid": "/g/11cn94cd5f",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fairley's Pharmacy Inc",
+    "description": "Local landmark providing old-fashioned milkshakes, coffee, sodas & medical items since 1914.",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "7206 NE Sandy Blvd, Portland, OR 97213",
+    "neighborhood": "Roseway",
+    "street": "7206 NE Sandy Blvd",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://fairleyspharmacy.com/",
+    "phone": "(503) 284-1159",
+    "phoneUnformatted": "+15032841159",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5483333,
+      "lng": -122.5886111
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Coffee shop"
+    ],
+    "fid": "0x5495a14900cc31a1:0x90b30e3504ccc240",
+    "cid": "10426693183169413696",
+    "reviewsCount": 143,
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.621Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fairley's%20Pharmacy%20Inc&query_place_id=ChIJoTHMAEmhlVQRQMLMBDUOs5A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgYxyxlYL4D7ufbPaXIUnpfQ3zPx5q7Tpu5MTI=w408-h720-k-no",
+    "kgmid": "/g/1tdrf25h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2497 SE Burnside Rd, Gresham, OR 97080",
+    "neighborhood": "Powell Valley",
+    "street": "2497 SE Burnside Rd",
+    "city": "Gresham",
+    "postalCode": "97080",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00127?cid=loc_70100127P_gmb",
+    "phone": "(503) 669-4233",
+    "phoneUnformatted": "+15036694233",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4955008,
+      "lng": -122.40494
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54959850fdf99f85:0x692198c281eabea3",
+    "cid": "7575504009384607395",
+    "reviewsCount": 61,
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.622Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJhZ_5_VCYlVQRo77qgcKYIWk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqLzXeaPiBTk0sa3npwc2ofPHJf7kUYkFswNozK_QRbm44m-gOnCC122GQKR-g2HrOjNH-AMVrfh_szqN8avcaCLTMWYs7dUj3BLroDG3z2Nu_1DtddEnoXxW7lhY2RO4_r8_OA=w408-h306-k-no",
+    "kgmid": "/g/1q62m_c4p",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "division pharmacy inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10240 NE Halsey St, Portland, OR 97220",
+    "neighborhood": "Northeast Portland",
+    "street": "10240 NE Halsey St",
+    "city": "Portland",
+    "postalCode": "97220",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.divisionpharmacy.com/",
+    "phone": "(503) 261-0303",
+    "phoneUnformatted": "+15032610303",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5334321,
+      "lng": -122.5573075
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a1c655555555:0x312969a97280699f",
+    "cid": "3542478758395013535",
+    "reviewsCount": 25,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.622Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=division%20pharmacy%20inc&query_place_id=ChIJVVVVVcahlVQRn2mAcqlpKTE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNy1r5OYLCBntG_-yh7Ln8GUWC8Vzjztw0nxFa2=w408-h306-k-no",
+    "kgmid": "/g/11kh1_h0l8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1455 NE Division St, Gresham, OR 97030",
+    "neighborhood": "North Central",
+    "street": "1455 NE Division St",
+    "city": "Gresham",
+    "postalCode": "97030",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/or/gresham/1455-ne-division-st.html",
+    "phone": "(503) 492-7279",
+    "phoneUnformatted": "+15034927279",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5058755,
+      "lng": -122.4167294
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x549598677b9fb9bb:0x5097a26e37389dd8",
+    "cid": "5807288838774103512",
+    "reviewsCount": 37,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.622Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJu7mfe2eYlVQR2J04N26il1A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWsM8e2m8utkfvaLCSJnXNn1GoUkRYMNZGrV4i=w427-h240-k-no",
+    "kgmid": "/g/1td2tm5n",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "2444 E Powell Blvd, Gresham, OR 97080",
+    "neighborhood": "Mount Hood",
+    "street": "2444 E Powell Blvd",
+    "city": "Gresham",
+    "postalCode": "97080",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/3178-gresham-or/pharmacy/?veh=seo_loc",
+    "phone": "(503) 492-5267",
+    "phoneUnformatted": "+15034925267",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4927554,
+      "lng": -122.4079541
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x549598569d0455db:0x17d7b7944de22604",
+    "cid": "1718043630454842884",
+    "reviewsCount": 29,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:37.623Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJ21UEnVaYlVQRBCbiTZS31xc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOecgR0ChvMPIKd07VP_R2hAIHmd1P9y39BLq61=w408-h306-k-no",
+    "kgmid": "/g/1hhvtmvdt",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Buy-Rite Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2533 Gresham Rd S E, Atlanta, GA 30316",
+    "neighborhood": null,
+    "street": "2533 Gresham Rd S E",
+    "city": "Atlanta",
+    "postalCode": "30316",
+    "state": "Georgia",
+    "countryCode": "US",
+    "phone": "(404) 241-1195",
+    "phoneUnformatted": "+14042411195",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 33.7143785,
+      "lng": -84.311603
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88f500fe46993509:0x9a4992e850ad4fce",
+    "cid": "11117578681624383438",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:41.538Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Buy-Rite%20Pharmacy&query_place_id=ChIJCTWZRv4A9YgRzk-tUOiSSZo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@39.68245004733214,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PKZ3POFbhL3bkWML93F5TA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.67566&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td6nhct",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1001 SW Highland Dr, Gresham, OR 97080, United States",
+    "neighborhood": null,
+    "street": "1001 SW Highland Dr",
+    "city": "Gresham",
+    "postalCode": "97080",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/or/gresham/1001-sw-highland-dr.html",
+    "phone": "+1 503-667-9305",
+    "phoneUnformatted": "+15036679305",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4889326,
+      "lng": -122.4769229
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x549598b5b4b55a95:0x60c1ac581da84b7a",
+    "cid": "6972043192600906618",
+    "reviewsCount": 40,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:47.036Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJlVq1tLWYlVQRekuoHViswWA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@25.58561541405634,-171.93667884715254,13z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noUaXshFj1RweZjg8P_CFzM370w8urrA5-5t6K4JlpBf3Vsu-ilAGyT6fcJlGlwXQsYT15f3ySwZRhTLbnXg-Z_ofYJHTCqDYmG-lhBIGVbIPyFlcTdlQTS0zfN1EbSzOkNkj48cg=w408-h544-k-no",
+    "kgmid": "/g/113fq8dq_",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "439 NE 223rd Ave, Gresham, OR 97030, United States",
+    "neighborhood": "North Central",
+    "street": "439 NE 223rd Ave",
+    "city": "Gresham",
+    "postalCode": "97030",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-439+ne+223rd+ave-gresham-or-97030/id=11398",
+    "phone": "+1 503-667-0394",
+    "phoneUnformatted": "+15036670394",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.527055,
+      "lng": -122.4343113
+    },
+    "totalScore": 2.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a29b9c445af1:0x99a6b268c071290d",
+    "cid": "11071732896911927565",
+    "reviewsCount": 21,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:47.036Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 3\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fam\u20133\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJ8VpEnJuilVQRDSlxwGiyppk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@25.58561541405634,-171.93667884715254,13z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPOW2DJExPYtsizxQen-g1FZseB8HVKpGffFs07=w525-h240-k-no",
+    "kgmid": "/g/11cn9cl215",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "1950 NE Burnside Rd, Gresham, OR 97030, United States",
+    "neighborhood": "Mount Hood",
+    "street": "1950 NE Burnside Rd",
+    "city": "Gresham",
+    "postalCode": "97030",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1950+ne+burnside+rd-gresham-or-97030/id=3838",
+    "phone": "+1 503-674-8482",
+    "phoneUnformatted": "+15036748482",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5002881,
+      "lng": -122.4129699
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x5495985be8b33625:0x6b15a8011bb25eb6",
+    "cid": "7716258259282321078",
+    "reviewsCount": 143,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:47.036Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131\u202fpm"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "6\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJJTaz6FuYlVQRtl6yGwGoFWs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@25.58561541405634,-171.93667884715254,13z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrrvbMSeLKj-JvTjjkr4YaI9gdtLJJPYjfgwUI-qlUIRu8iNXCNvz-vX-OhCB4QmQTL1Ol-UhbLQArzAfiz14RRbhTCg08kk665CYstwSogiMc2XaApKHc41oH-xBFmxv2Y-NgX=w408-h306-k-no",
+    "kgmid": "/g/1tqpyz6x",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Happy Days Supply Co",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1831 SE Glacier Ave, Gresham, OR 97080, United States",
+    "neighborhood": "Kelly Creek",
+    "street": "1831 SE Glacier Ave",
+    "city": "Gresham",
+    "postalCode": "97080",
+    "state": "Oregon",
+    "countryCode": "US",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.4834005,
+      "lng": -122.3804207
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x549599bafb3c0001:0x7b64883de34dbd58",
+    "cid": "8891381363724107096",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:48.258Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Happy%20Days%20Supply%20Co&query_place_id=ChIJAQA8-7qZlVQRWL1N4z2IZHs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-169.90861358122777,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=euz4FGWt2Bs3P7QlfVjpTA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=284.80762&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ghq_xyjt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Brooklyn Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3131 SE Milwaukie Ave, Portland, OR 97223, United States",
+    "neighborhood": "Southeast Portland",
+    "street": "3131 SE Milwaukie Ave",
+    "city": "Portland",
+    "postalCode": "97223",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://brooklyn-pharmacyrx.com/",
+    "phone": "+1 503-234-8348",
+    "phoneUnformatted": "+15032348348",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5004994,
+      "lng": -122.6543635
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950a7bab040a67:0x7fe3aa6534bbd034",
+    "cid": "9215396614183309364",
+    "reviewsCount": 222,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:30:48.259Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pharmacy&query_place_id=ChIJZwoEq3sKlVQRNNC7NGWq438",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@56.99812190348512,-169.90861358122777,12z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHz_mPKe3JSoXHSSPAZYYrRQV-c4Q0BYCjjaEkg3WeNSXaW93grl9MLCD5UODKWft-VWA_RJawRZCVrjUG4fX_mGSP7_-daFqEmPio_JmOzfdh_--KVUtYTqhITEaKV1UIppMWjjui5p3U=w408-h474-k-no",
+    "kgmid": "/g/1tgnrcd_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy.com",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5253 SE 82nd Ave UNIT 27, Portland, OR 97266",
+    "neighborhood": "Foster - Powell",
+    "street": "5253 SE 82nd Ave UNIT 27",
+    "city": "Portland",
+    "postalCode": "97266",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://pdxpharmacy.com/",
+    "phone": "(503) 477-8453",
+    "phoneUnformatted": "+15034778453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4842142,
+      "lng": -122.5800716
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a022db000001:0x7aaed0bec459002",
+    "cid": "552514539770712066",
+    "reviewsCount": 22,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy.com&query_place_id=ChIJAQAA2yKglVQRApBF7Avtqgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNBG3iFdNi0GMH3X2x3lv-_XMdiq0R_xbV1L3xY=w408-h306-k-no",
+    "kgmid": "/g/11ng7c13gb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "LECARE Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1619 NE 42nd Ave, Portland, OR 97213",
+    "neighborhood": "Northeast Portland",
+    "street": "1619 NE 42nd Ave",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.lecarepharmacy.com/",
+    "phone": "(971) 358-6888",
+    "phoneUnformatted": "+19713586888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.534809,
+      "lng": -122.6204491
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a177931ced39:0x17d241091dc2be66",
+    "cid": "1716505915391393382",
+    "reviewsCount": 232,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LECARE%20Pharmacy&query_place_id=ChIJOe0ck3ehlVQRZr7CHQlB0hc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9OvxbtOz8bjsYhzL9IydO9SwEgBdQvF4G682XlJ0TeMIpW4AfihEdWyd7O54AcVuwYLV71XdlDNJR7UKIAqsQuhTiQizU5Ipoq5wME9i60LRe77rG3DDKP1k3jyRV6sIgjVwiaQ=w408-h306-k-no",
+    "kgmid": "/g/11nfq1b9vq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Avita Pharmacy 1027",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2236 SE Belmont St Suite A, Portland, OR 97214",
+    "neighborhood": "Southeast Portland",
+    "street": "2236 SE Belmont St Suite A",
+    "city": "Portland",
+    "postalCode": "97214",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.avitapharmacy.com/",
+    "phone": "(503) 379-0370",
+    "phoneUnformatted": "+15033790370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5162522,
+      "lng": -122.6428119
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a140cf2fd375:0xbbeb14085a5815b2",
+    "cid": "13540938730727544242",
+    "reviewsCount": 39,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avita%20Pharmacy%201027&query_place_id=ChIJddMvz0ChlVQRshVYWggU67s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYyDtcWKM4LixEpnB9ittPcx9PykU7X1089Pyf=w426-h240-k-no",
+    "kgmid": "/g/11j61bx0py",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sav-On Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "25691 SE Stark St Safeway, Troutdale, OR 97060",
+    "neighborhood": null,
+    "street": "25691 SE Stark St Safeway",
+    "city": "Troutdale",
+    "postalCode": "97060",
+    "state": "Oregon",
+    "countryCode": "US",
+    "phone": "(503) 667-9003",
+    "phoneUnformatted": "+15036679003",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.5199625,
+      "lng": -122.4002123
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54959811a27ca2e7:0x4ab2982d62ae0b87",
+    "cid": "5382531825357687687",
+    "reviewsCount": 11,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sav-On%20Pharmacy&query_place_id=ChIJ56J8ohGYlVQRhwuuYi2Ysko",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr85i-Ja6js3NN6I-K0OeTxynl3IG9K36MioUSi5wL9YX7f_wqWEmIQX0d-46dnJ6gpCaktIngo0gRUL9Hzkos6jdy2wShHo1fKsccffkbCmS32Oaugzs06hYXvEMBuqewwsQc0=w408-h306-k-no",
+    "kgmid": "/g/1v29bq_4",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bowman's Hillsdale Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6256 SW Capitol Hwy, Portland, OR 97239",
+    "neighborhood": "Southwest Portland",
+    "street": "6256 SW Capitol Hwy",
+    "city": "Portland",
+    "postalCode": "97239",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.facebook.com/BOWMANSHILLSDALEPHARMACY",
+    "phone": "(503) 244-7582",
+    "phoneUnformatted": "+15032447582",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4785052,
+      "lng": -122.6936888
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950b00ceadd265:0xd3e2f4b5df1e2d61",
+    "cid": "15268034748708957537",
+    "reviewsCount": 51,
+    "imagesCount": 41,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.083Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bowman's%20Hillsdale%20Pharmacy&query_place_id=ChIJZdKtzgALlVQRYS0e37X04tM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noz47ntZSitlfJ0Ra1O-1h8FLiD7F9pjhCfscXBx5Oosh2cBEFao15edoayh1rlrc2pf1N71l4E2bg_RqSEzr1zw_WKaq5JO_ftvFG5OBhisQF9LljET8FuTy-k-AGUhUEamOmD0Q=w408-h306-k-no",
+    "kgmid": "/g/11_r_c__9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Gateway Medical Pharmacy | Long Term Care and Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1125 NE 99th Ave, Portland, OR 97220",
+    "neighborhood": "Northeast Portland",
+    "street": "1125 NE 99th Ave",
+    "city": "Portland",
+    "postalCode": "97220",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.gatewaymedicalrx.com/",
+    "phone": "(503) 254-7383",
+    "phoneUnformatted": "+15032547383",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.531033,
+      "lng": -122.562626
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health consultant",
+      "Health counselor",
+      "Medical clinic"
+    ],
+    "fid": "0x5495a17223849e81:0x4d793a6bf2ad366c",
+    "cid": "5582557448409790060",
+    "reviewsCount": 51,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:31:03.084Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Medical%20Pharmacy%20%7C%20Long%20Term%20Care%20and%20Compounding%20Pharmacy&query_place_id=ChIJgZ6EI3KhlVQRbDat8ms6eU0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gresham%20OR/@45.410355141996405,-121.31455714227097,8z?hl=en",
+    "searchString": "independent pharmacy Gresham OR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNfOQIP0BLMaXnEGPMEoCe_SumCwqvdd8NZkk5Q=w408-h272-k-no",
+    "kgmid": "/g/1s047m038",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

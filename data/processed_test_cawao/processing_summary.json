@@ -1,0 +1,148 @@
+{
+  "total_locations_processed": 15,
+  "total_pharmacies": 152,
+  "total_classified": 152,
+  "classification_success_rate": "100.0%",
+  "totals": {
+    "independent": 123,
+    "chain": 77,
+    "errors": 0
+  },
+  "by_location": {
+    "tacoma_wa": {
+      "total": 20,
+      "independent": 9,
+      "chain": 4,
+      "hospital": 7,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 4
+    },
+    "san_diego_ca": {
+      "total": 10,
+      "independent": 10,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "vancouver_wa": {
+      "total": 20,
+      "independent": 6,
+      "chain": 8,
+      "hospital": 5,
+      "errors": 0,
+      "skipped_chains": 7,
+      "skipped_hospitals": 5
+    },
+    "san_francisco_ca": {
+      "total": 5,
+      "independent": 3,
+      "chain": 2,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 2,
+      "skipped_hospitals": 0
+    },
+    "portland_or": {
+      "total": 19,
+      "independent": 15,
+      "chain": 2,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 2
+    },
+    "spokane_wa": {
+      "total": 18,
+      "independent": 6,
+      "chain": 9,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 1
+    },
+    "salem_or": {
+      "total": 20,
+      "independent": 6,
+      "chain": 12,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 11,
+      "skipped_hospitals": 1
+    },
+    "bellevue_wa": {
+      "total": 16,
+      "independent": 6,
+      "chain": 9,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 0
+    },
+    "san_jose_ca": {
+      "total": 10,
+      "independent": 10,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "seattle_wa": {
+      "total": 20,
+      "independent": 16,
+      "chain": 1,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 1
+    },
+    "los_angeles_ca": {
+      "total": 5,
+      "independent": 5,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "fresno_ca": {
+      "total": 10,
+      "independent": 8,
+      "chain": 2,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "hillsboro_or": {
+      "total": 20,
+      "independent": 5,
+      "chain": 11,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 9,
+      "skipped_hospitals": 2
+    },
+    "gresham_or": {
+      "total": 18,
+      "independent": 9,
+      "chain": 8,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 7,
+      "skipped_hospitals": 0
+    },
+    "eugene_or": {
+      "total": 19,
+      "independent": 9,
+      "chain": 9,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 8,
+      "skipped_hospitals": 1
+    }
+  }
+}

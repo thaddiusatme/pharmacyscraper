@@ -1,0 +1,1293 @@
+[
+  {
+    "title": "Scottsdale Professional Pharm",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10900 N Scottsdale Rd #403, Scottsdale, AZ 85254",
+    "neighborhood": "Central Scottsdale",
+    "street": "10900 N Scottsdale Rd #403",
+    "city": "Scottsdale",
+    "postalCode": "85254",
+    "state": "Arizona",
+    "countryCode": "US",
+    "phone": "(480) 946-9477",
+    "phoneUnformatted": "+14809469477",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 33.5862473,
+      "lng": -111.9272837
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b74ed18e8e8bd:0xb8c2dd3b1c5f6d27",
+    "cid": "13313446694409432359",
+    "reviewsCount": 12,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.101Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scottsdale%20Professional%20Pharm&query_place_id=ChIJvejoGO10K4cRJ21fHDvdwrg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npTst3_UwCEWXFo7ZHDMNFkAbZmgWlhx1g-T95x4sszp41WvEW9wQ_MHfkAAshpohETuMNitfe6yw8HFExUkq8moLtt4JJQzzeduBFP1Bta0pBEUbbFKS2moWrISxTw71N9Pxe0Kw=w426-h240-k-no",
+    "kgmid": "/g/1tctg214",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mountain View Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7119 E Shea Blvd Ste 114, Scottsdale, AZ 85254",
+    "neighborhood": "Central Scottsdale",
+    "street": "7119 E Shea Blvd Ste 114",
+    "city": "Scottsdale",
+    "postalCode": "85254",
+    "state": "Arizona",
+    "countryCode": "US",
+    "phone": "(480) 948-7065",
+    "phoneUnformatted": "+14809487065",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 33.5810897,
+      "lng": -111.9277985
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b730d1ef40f65:0x37a29c40a4685e8c",
+    "cid": "4008938419763306124",
+    "reviewsCount": 14,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mountain%20View%20Pharmacy&query_place_id=ChIJZQ_0Hg1zK4cRjF5opECcojc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npPhZKUNp2Xlp3yWloKJfNDemaLo07ErSwhuUrtotETkRiqZxeeQu7TRvEyCMOUUMXrvK7LtnwBKn5EbKoAEbPhlo7TT7rD8vz2F7e1ciNW_lzkql37spQaUj739P2WF0R_SRz4HQ=w408-h306-k-no",
+    "kgmid": "/g/1tdp0ycv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Epiphany Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10575 N 114th St Suite # 113A, Scottsdale, AZ 85259",
+    "neighborhood": "Mirage Crossing",
+    "street": "10575 N 114th St Suite # 113A",
+    "city": "Scottsdale",
+    "postalCode": "85259",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://www.epiphanyaz.com/",
+    "phone": "(602) 767-1221",
+    "phoneUnformatted": "+16027671221",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5818528,
+      "lng": -111.8321722
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical lab",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x872b9fd23c554fff:0x841cdac139452e9",
+    "cid": "594982764736172777",
+    "reviewsCount": 27,
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 12\u202fPM, 12:30 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 12\u202fPM, 12:30 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 12\u202fPM, 12:30 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 12\u202fPM, 12:30 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 12\u202fPM, 12:30 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Epiphany%20Compounding&query_place_id=ChIJ_09VPNKfK4cR6VKUE6zNQQg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOqhotdtlgAmaPnX3oK6mGXLjGs3s57P6-wxojH=w408-h272-k-no",
+    "kgmid": "/g/11p65jyxmh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ranch Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10769 N Frank Lloyd Wright Blvd a100, Scottsdale, AZ 85259",
+    "neighborhood": "Plaza Leyenda",
+    "street": "10769 N Frank Lloyd Wright Blvd a100",
+    "city": "Scottsdale",
+    "postalCode": "85259",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.ranch-pharmacy.com/",
+    "phone": "(480) 443-4656",
+    "phoneUnformatted": "+14804434656",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.584002,
+      "lng": -111.833436
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b74d889cb399b:0x6da58bee962d4a95",
+    "cid": "7900874978129431189",
+    "reviewsCount": 57,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ranch%20Pharmacy%20Inc&query_place_id=ChIJmznLidh0K4cRlUotlu6LpW0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l9AZKjV93PqobgKC74bqiQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=103.27583&pitch=0&thumbfov=100",
+    "kgmid": "/g/1ptx_c5wd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Avrio Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9015 E Pima Center Pkwy Suite 3, Scottsdale, AZ 85258",
+    "neighborhood": null,
+    "street": "9015 E Pima Center Pkwy Suite 3",
+    "city": "Scottsdale",
+    "postalCode": "85258",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://avriorx.com/",
+    "phone": "(480) 270-6700",
+    "phoneUnformatted": "+14802706700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.55973,
+      "lng": -111.887522
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0ace73b09f69:0xefc8614befe13c34",
+    "cid": "17278166949181865012",
+    "reviewsCount": 101,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avrio%20Pharmacy&query_place_id=ChIJaZ-wc84KK4cRNDzh70thyO8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCeGAeqyChPS-T8nriEl5qz7Tpos8-xjrnVdd-hEFayOoOE8ejrBtO2_zsZ_OeSlbEaQK5QfgrFR5WD39UNrBd0oA93-G4aPVHfFUt9Cg6Aka1-Woy_Q2FbkeCajrh27KyXrb0-Q=w426-h240-k-no",
+    "kgmid": "/g/12xpzyslx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mixtures Pharmacy Scottsdale",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6590 N Scottsdale Rd STE 140, Paradise Valley, AZ 85253",
+    "neighborhood": "South Scottsdale",
+    "street": "6590 N Scottsdale Rd STE 140",
+    "city": "Paradise Valley",
+    "postalCode": "85253",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://mixturesrx.com/",
+    "phone": "(480) 374-4000",
+    "phoneUnformatted": "+14803744000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5331303,
+      "lng": -111.9264398
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0b151a940255:0x422bc78e8cad21af",
+    "cid": "4768124045561242031",
+    "reviewsCount": 12,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mixtures%20Pharmacy%20Scottsdale&query_place_id=ChIJVQKUGhULK4cRryGtjI7HK0I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPmBq_icOlKQ9A6xQP3RIm68OPrfFp8gFYNIVd8=w408-h306-k-no",
+    "kgmid": "/g/11f2wfj49l",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "A To Z Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8989 E V\u00eda Linda #110, Scottsdale, AZ 85258",
+    "neighborhood": "Central Scottsdale",
+    "street": "8989 E V\u00eda Linda #110",
+    "city": "Scottsdale",
+    "postalCode": "85258",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.atozpharmacy.com/",
+    "phone": "(480) 500-1235",
+    "phoneUnformatted": "+14805001235",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5683597,
+      "lng": -111.8884983
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b7533dc6f7739:0x9ce6603e683492c9",
+    "cid": "11305829735712723657",
+    "reviewsCount": 943,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=A%20To%20Z%20Pharmacy&query_place_id=ChIJOXdv3DN1K4cRyZI0aD5g5pw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHyF66pihuQR9hqTAHscaD0qW9FOftcNrDoZzjk08w-5X1NXj5FG7rUJB3vR7EwQhajABBermE1N9oHBSxWrXHoxoYBmBgttdmHTrCt7548FaSuwSYfyHPTw8CCdu11WnMPTmo=w408-h544-k-no",
+    "kgmid": "/g/11g1b1hkzq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AZ Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9160 E Shea Blvd #106, Scottsdale, AZ 85260",
+    "neighborhood": "Shea Business Park",
+    "street": "9160 E Shea Blvd #106",
+    "city": "Scottsdale",
+    "postalCode": "85260",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "https://azcompoundingpharmacy.com/",
+    "phone": "(480) 800-0808",
+    "phoneUnformatted": "+14808000808",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.5836891,
+      "lng": -111.8837862
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x872b75a55c265059:0xd95e1287a666e6cb",
+    "cid": "15662976927862810315",
+    "reviewsCount": 27,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.103Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AZ%20Compounding%20Pharmacy&query_place_id=ChIJWVAmXKV1K4cRy-ZmpocSXtk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMkyrDTEorWbPpAXMtMD-D--er0ps7O75LcRgIS=w408-h306-k-no",
+    "kgmid": "/g/11jgn_q3gg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Civic Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7331 E Osborn Dr Ste 208, Scottsdale, AZ 85251",
+    "neighborhood": "Scottsdale Osborn Plaza",
+    "street": "7331 E Osborn Dr Ste 208",
+    "city": "Scottsdale",
+    "postalCode": "85251",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.civiccenterpharmacy.com/",
+    "phone": "(480) 945-9519",
+    "phoneUnformatted": "+14809459519",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.4866414,
+      "lng": -111.9239769
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x872b0bc3c389dee5:0xa51a62427b5d4ec9",
+    "cid": "11896929403329662665",
+    "reviewsCount": 127,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.104Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Civic%20Center%20Pharmacy&query_place_id=ChIJ5d6Jw8MLK4cRyU5de0JiGqU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZKxLDbYr4aBsKt1gjGXqLYod-hztnBB5dsaYN8x8gFGNlRx0DGTcQhjUgW5fUXcBz9ST3OjpoiYt3PzoIG15RTtc2BH6neiHUz_hlwtdTnNZolC_0mTmkby45NiPrrxNY7U5g=w408-h544-k-no",
+    "kgmid": "/g/1vq9mrhc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Raintree Apothecary",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9260 E Raintree Dr Suite 150, Scottsdale, AZ 85260",
+    "neighborhood": "North Scottsdale",
+    "street": "9260 E Raintree Dr Suite 150",
+    "city": "Scottsdale",
+    "postalCode": "85260",
+    "state": "Arizona",
+    "countryCode": "US",
+    "website": "http://www.raintreerx.net/",
+    "phone": "(480) 912-5959",
+    "phoneUnformatted": "+14809125959",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 33.6203773,
+      "lng": -111.8820688
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Dermatologist",
+      "Doctor",
+      "Drug store",
+      "Medical Center",
+      "Medical clinic",
+      "Nurse practitioner",
+      "Skin care clinic",
+      "Wellness center"
+    ],
+    "fid": "0x872b75bd7491801d:0x561b595b2db7a3d2",
+    "cid": "6204651159776895954",
+    "reviewsCount": 19,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:14:35.104Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "12\u201312:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u201312:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u201312:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u201312:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u201312:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Raintree%20Apothecary&query_place_id=ChIJHYCRdL11K4cR0qO3LVtZG1Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Scottsdale%20AZ/@-0.010408262428264635,-176.4093280276943,13z?hl=en",
+    "searchString": "independent pharmacy Scottsdale AZ",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMxt8LUG7EC6SafhyYQcDGSfHKr2u6zzUucNtp_=w408-h611-k-no",
+    "kgmid": "/g/11g8xkbshq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

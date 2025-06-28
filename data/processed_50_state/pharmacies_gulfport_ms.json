@@ -1,0 +1,2449 @@
+[
+  {
+    "title": "605 Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "8950 Lorraine Rd Suite F, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "8950 Lorraine Rd Suite F",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.facebook.com/605pharmacy",
+    "phone": "(228) 206-0742",
+    "phoneUnformatted": "+12282060742",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4112977,
+      "lng": -89.02741
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c17e0fda70dbf:0xdad94e0fd929a790",
+    "cid": "15769721400189364112",
+    "reviewsCount": 69,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.501Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=605%20Pharmacy&query_place_id=ChIJvw2n_eAXnIgRkKcp2Q9O2do",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqSAmwucZBK_L6lq_APpDyKImLNBf1oDFfKYGybAUKQN_SADmQ2SIEtWkWzOs4RsMJH6thskt-gD0Z1thNk7A0jnwpPeeDwFocZpZyFZVP9TsZwbigkCLcTmOwmA8YVmEFYJFU=w408-h544-k-no",
+    "kgmid": "/g/11qb554qcg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "North Gulfport Discount Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4723 Tennessee Ave, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "4723 Tennessee Ave",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/northgulfportdiscountpharmacy",
+    "phone": "(228) 265-5193",
+    "phoneUnformatted": "+12282655193",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.405769,
+      "lng": -89.09365
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c162090f22fa3:0x5e03d56d1bea923a",
+    "cid": "6774492929091867194",
+    "reviewsCount": 71,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Gulfport%20Discount%20Pharmacy&query_place_id=ChIJoy_ykCAWnIgROpLqG23VA14",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMTokjwkwTUwXrrfJZtU1585li0yM9oAzCOVSCt=w408-h306-k-no",
+    "kgmid": "/g/11fx7sqfr7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Butler Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1924 25th Ave, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "1924 25th Ave",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.butlerpharmacyrx.com/",
+    "phone": "(228) 265-5481",
+    "phoneUnformatted": "+12282655481",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3743985,
+      "lng": -89.0927136
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3fcc6ab02231:0x69283840005fb19b",
+    "cid": "7577368220586193307",
+    "reviewsCount": 18,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Butler%20Pharmacy&query_place_id=ChIJMSKwasw_nIgRm7FfAEA4KGk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdQbAaOHMiiwGUaZk-XcdHFYnAfwdxPYgmZnE0=w408-h306-k-no",
+    "kgmid": "/g/11krcm18t1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sartin's Discount Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4300 15th St Suite 1, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "4300 15th St Suite 1",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.sartinsdiscountdrugs.com/",
+    "phone": "(228) 864-3514",
+    "phoneUnformatted": "+12288643514",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3695801,
+      "lng": -89.1128902
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3d424535bff3:0xb6600071f5942fa7",
+    "cid": "13141504202118541223",
+    "reviewsCount": 64,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sartin's%20Discount%20Drugs&query_place_id=ChIJ8781RUI9nIgRpy-U9XEAYLY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrMGMt3pPxWg78ljf33WVsu7Z7TgCfY5SHgPHvaThIWHoqqSA3v51cu7rKZobP1e_ARuEcsQhjyRPb8yZOGBM2XF758i0IsKQpmnSA3zXOZdmvmy7jGt-y4iEKRBoX14wBi-Tbmew=w426-h240-k-no",
+    "kgmid": "/g/11ghqcg6xb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "T-D Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12372 US 49, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "12372 US 49",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://tdpharmacy.com/",
+    "phone": "(228) 832-1414",
+    "phoneUnformatted": "+12288321414",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4670768,
+      "lng": -89.1017063
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Gift shop"
+    ],
+    "fid": "0x889c3e2581d77d17:0x55811f16bcf6a99a",
+    "cid": "6161239947739572634",
+    "reviewsCount": 64,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=T-D%20Pharmacy&query_place_id=ChIJF33XgSU-nIgRmqn2vBYfgVU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_bkhfje3IUMVHudJijCypJCpTCjG_I3GWDi2v=w426-h240-k-no",
+    "kgmid": "/g/1vcq8ckm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Beach Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1110 Cowan Rd, Gulfport, MS 39507",
+    "neighborhood": null,
+    "street": "1110 Cowan Rd",
+    "city": "Gulfport",
+    "postalCode": "39507",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://beachpharmacyinc.com/",
+    "phone": "(228) 896-7070",
+    "phoneUnformatted": "+12288967070",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.401411,
+      "lng": -89.026055
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c16cf0c4f076d:0x4a4d2c1b291ca035",
+    "cid": "5353984027178868789",
+    "reviewsCount": 62,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Beach%20Pharmacy&query_place_id=ChIJbQdPDM8WnIgRNaAcKRssTUo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AiXGBqCsxY-UG9AIkKr2wQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=45.559597&pitch=0&thumbfov=100",
+    "kgmid": "/g/1pp2vlp8s",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ladner Drugs - Gulfport",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12261 US 49 suite 16, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "12261 US 49 suite 16",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://ladnerdrugs.com/",
+    "phone": "(228) 284-1450",
+    "phoneUnformatted": "+12282841450",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4638267,
+      "lng": -89.1025154
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3f82fa46fe59:0x67fbce509c8fd30b",
+    "cid": "7492809250680328971",
+    "reviewsCount": 22,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ladner%20Drugs%20-%20Gulfport&query_place_id=ChIJWf5G-oI_nIgRC9OPnFDO-2c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfzmZ2EtPPcSLLnoiRrUFs_zFfAkLxcmPe9uUm=w408-h544-k-no",
+    "kgmid": "/g/11ls3gw7nq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "French Drug Co",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "400 E Pass Rd # 1, Gulfport, MS 39507",
+    "neighborhood": null,
+    "street": "400 E Pass Rd # 1",
+    "city": "Gulfport",
+    "postalCode": "39507",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.frenchdrugco.com/",
+    "phone": "(228) 896-5656",
+    "phoneUnformatted": "+12288965656",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.394457,
+      "lng": -89.0441592
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store"
+    ],
+    "fid": "0x889c16e4f77812f5:0x932d1a58b9ef56c4",
+    "cid": "10605161665906300612",
+    "reviewsCount": 71,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.502Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=French%20Drug%20Co&query_place_id=ChIJ9RJ49-QWnIgRxFbvuVgaLZM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrdFFm1GhCH1HeqsyS-GWNxRuw_4eaHKd7NbnDdkekCSArFOZXohcrh2Bq5SFrIg_yWd97In0Pwcy6MyWOG7AmQ4Q4dwjV74BthJdaR6KCCMBIl_aofW1WxQ3SXEs6W9aLFKyua=w408-h306-k-no",
+    "kgmid": "/g/1v3gsplq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Jackson's Discount Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11340 Three Rivers Rd A, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "11340 Three Rivers Rd A",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "http://www.jacksonspharmacy.com/",
+    "phone": "(228) 832-8000",
+    "phoneUnformatted": "+12288328000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4497639,
+      "lng": -89.0746078
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x889c15c202849ef9:0x7600009cdf1b9752",
+    "cid": "8502796770233522002",
+    "reviewsCount": 43,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Jackson's%20Discount%20Pharmacy&query_place_id=ChIJ-Z6EAsIVnIgRUpcb35wAAHY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMbyFtkDHJ9ccvBFHyhWSDbMkPxXCVlJDkZf1df=w408-h271-k-no",
+    "kgmid": "/g/1tqtbg3n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Value Drug Mart",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2709 25th Ave Units C&D, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "2709 25th Ave Units C&D",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(228) 357-5353",
+    "phoneUnformatted": "+12283575353",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3831887,
+      "lng": -89.0933178
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyZ91-wIXnIgR6IwH8I9OF3M",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c1702fb759fc9:0x73174e8ff0078ce8",
+    "cid": "8293183618940374248",
+    "reviewsCount": 15,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Value%20Drug%20Mart&query_place_id=ChIJyZ91-wIXnIgR6IwH8I9OF3M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN4TxptKy2jhz58p9u0QeOqP21wEZwBN1f26JmR=w408-h340-k-no",
+    "kgmid": "/g/11hz_xdp3x",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Lyman Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "20006 MS-53, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "20006 MS-53",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(228) 831-9997",
+    "phoneUnformatted": "+12288319997",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.5162495,
+      "lng": -89.1722517
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c38ad398ba317:0x7dc3b755a5fb7fb6",
+    "cid": "9062288453684395958",
+    "reviewsCount": 46,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lyman%20Pharmacy&query_place_id=ChIJF6OLOa04nIgRtn_7pVW3w30",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq20CsXH3YskusAKurgqe7kaCFJd5osY7XTb1V1BQEcFr4sNPvLL1FjAAh1In8y0kYvMFqr8k855mmiwa_7X2VZEnQx4YOd3R69jSzDMhHaO6ZWLU959bbFR9oZiGyjgGQDjEON=w408-h544-k-no",
+    "kgmid": "/g/11bbrk7fc6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "15371 Dedeaux Rd, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "15371 Dedeaux Rd",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-15371+dedeaux+rd-gulfport-ms-39503/id=5195",
+    "phone": "(228) 539-9890",
+    "phoneUnformatted": "+12285399890",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4490898,
+      "lng": -89.0983369
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbfD1EBw-nIgRYzYEEqhaCxc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3e1c10f5f06d:0x170b5aa812043663",
+    "cid": "1660520565519431267",
+    "reviewsCount": 25,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2\u202fAM to 1:30\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "2\u202fAM\u20131:30\u202fAM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJbfD1EBw-nIgRYzYEEqhaCxc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMX0Umuq4skCagRnFFiyhRF6zCqaH0MtdMm0KZA=w525-h240-k-no",
+    "kgmid": "/g/11cn95rkpf",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Taylor-Harris Drug Store",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1908 30th Ave, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "1908 30th Ave",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(228) 868-1036",
+    "phoneUnformatted": "+12288681036",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 30.3739387,
+      "lng": -89.0973753
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3d633ca11879:0x7cf022858c2641b2",
+    "cid": "9002733612090933682",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Taylor-Harris%20Drug%20Store&query_place_id=ChIJeRihPGM9nIgRskEmjIUi8Hw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gsezeNiR-tV3GqICU_ZcUQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=87.212524&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf2yl3z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Pharmacy at Singing River Gulfport",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Singing River Gulfport Hospital, 15200 Community Rd, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "Singing River Gulfport Hospital, 15200 Community Rd",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://singingriverhealthsystem.com/locations/the-pharmacy-at-singing-river-gulfport/?utm_source=gbp",
+    "phone": "(228) 575-7365",
+    "phoneUnformatted": "+12285757365",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4439708,
+      "lng": -89.0932941
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c15890d3eafbb:0xe5848bc3dd8cebd1",
+    "cid": "16538497404963187665",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Pharmacy%20at%20Singing%20River%20Gulfport&query_place_id=ChIJu68-DYkVnIgR0euM3cOLhOU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GwZG_r3bbX9Uy5ZmYo2RkQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.92096&pitch=0&thumbfov=100",
+    "kgmid": "/g/11l32gsb9n",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.99,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Coastal Family Health Center Gulfport Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9113 US 49 #200, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "9113 US 49 #200",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://coastalfamilyhealth.org/",
+    "phone": "(228) 374-2476",
+    "phoneUnformatted": "+12283742476",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.4155371,
+      "lng": -89.0938006
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c161de3bccf83:0xe682f2224d5d78d5",
+    "cid": "16610104604836591829",
+    "reviewsCount": 43,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Coastal%20Family%20Health%20Center%20Gulfport%20Pharmacy&query_place_id=ChIJg8-84x0WnIgR1XhdTSLyguY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npZLv8Wc_MpVbX_G5EcZqByoISXya7vM1smVmfBcHwkPk19D4ea9rHTNZ9gTBHNT1jiffTY89R_3Sjm3uftKTzqTeqMjG_VvhVdNkiFm0mShSGUltbJZwEsohoC8cwL-FIbGruqZg=w408-h544-k-no",
+    "kgmid": "/g/11c5_3xh8n",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Christopher Coleman",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9350A US 49, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "9350A US 49",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(228) 865-0505",
+    "phoneUnformatted": "+12288650505",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 30.4236347,
+      "lng": -89.089826
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c16037ea58f65:0x62666877dbe33562",
+    "cid": "7090469527340922210",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Christopher%20Coleman&query_place_id=ChIJZY-lfgMWnIgRYjXj23doZmI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7JrDNeLOEF_wQ_f106lHfg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.40646&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p110whq3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4500 Old Pass Rd, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "4500 Old Pass Rd",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-4500+old+pass+rd-gulfport-ms-39501/id=21286",
+    "phone": "(228) 351-9061",
+    "phoneUnformatted": "+12283519061",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3689887,
+      "lng": -89.1151805
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo0puU2Y9nIgR_JAaTZ2SIfs",
+    "categories": [
+      "Pharmacy",
+      "Doctor",
+      "Medical clinic"
+    ],
+    "fid": "0x889c3d66536e4aa3:0xfb21929d4d1a90fc",
+    "cid": "18095905982052471036",
+    "reviewsCount": 7,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.503Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJo0puU2Y9nIgR_JAaTZ2SIfs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMZ_uduTxcuHl0bUyBHfDUzF42alccAyk6An6JV=w427-h240-k-no",
+    "kgmid": "/g/11jqhvp5z7",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Daniel T. Day, R",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12372 US 49, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "12372 US 49",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "phone": "(228) 832-1414",
+    "phoneUnformatted": "+12288321414",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 30.4671015,
+      "lng": -89.1015832
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3e2581d77d17:0xeb07affa79f9ca73",
+    "cid": "16935698414073137779",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:40.905Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Daniel%20T.%20Day%2C%20R&query_place_id=ChIJF33XgSU-nIgRc8r5efqvB-s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@63.722816697794386,-169.47971104960186,11z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HoxdC-dIU14KlsBhdYvIYA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=78.03058&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tlgyqy4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11022 US 49, Gulfport, MS 39503",
+    "neighborhood": null,
+    "street": "11022 US 49",
+    "city": "Gulfport",
+    "postalCode": "39503",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/gulfport-ms-pharmacies/11022-hwy-49-gulfport-ms-39503/storeid=5908?WT.mc_id=LS_GOOGLE_RX_5908",
+    "phone": "(228) 832-8981",
+    "phoneUnformatted": "+12288328981",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.443183,
+      "lng": -89.0976787
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ__8_OQM-nIgRNa2xSg0psHs",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c3e03393fffff:0x7bb0290d4ab1ad35",
+    "cid": "8912668799630683445",
+    "reviewsCount": 15,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:51.511Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ__8_OQM-nIgRNa2xSg0psHs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipME5YcU_TmCQARliluQtO8s0npTyhQE10I3pPzm=w408-h272-k-no",
+    "kgmid": "/g/11rgbpqmpf",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2424 25th Ave, Gulfport, MS 39501",
+    "neighborhood": null,
+    "street": "2424 25th Ave",
+    "city": "Gulfport",
+    "postalCode": "39501",
+    "state": "Mississippi",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/gulfport-ms-pharmacies/2424-25th-ave-gulfport-ms-39501/storeid=5923?WT.mc_id=LS_GOOGLE_RX_5923",
+    "phone": "(228) 822-0163",
+    "phoneUnformatted": "+12288220163",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 30.3797714,
+      "lng": -89.0923165
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHYdGZNYXnIgRpXwQYWm0nic",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x889c17d66446871d:0x279eb46961107ca5",
+    "cid": "2854917578492509349",
+    "reviewsCount": 32,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:14:51.511Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJHYdGZNYXnIgRpXwQYWm0nic",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Gulfport%20MS/@31.09059240533574,-86.48607177164843,8z?hl=en",
+    "searchString": "independent pharmacy Gulfport MS",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUibyReH5-XwVVM5HozKQGX1EZwArf6oH-4Mmr=w408-h272-k-no",
+    "kgmid": "/g/11c45_tcp2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

@@ -1,0 +1,184 @@
+{
+  "total_locations_processed": 19,
+  "total_pharmacies": 99,
+  "total_classified": 99,
+  "classification_success_rate": "100.0%",
+  "totals": {
+    "independent": 82,
+    "chain": 144,
+    "errors": 0
+  },
+  "by_location": {
+    "south_burlington_vt": {
+      "total": 18,
+      "independent": 2,
+      "chain": 13,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 13,
+      "skipped_hospitals": 3
+    },
+    "in_morgantown_wv": {
+      "total": 10,
+      "independent": 5,
+      "chain": 1,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 2
+    },
+    "in_parkersburg_wv": {
+      "total": 10,
+      "independent": 4,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 0
+    },
+    "in_casper_wy": {
+      "total": 10,
+      "independent": 4,
+      "chain": 6,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 0
+    },
+    "dover_nh": {
+      "total": 17,
+      "independent": 7,
+      "chain": 10,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 10,
+      "skipped_hospitals": 0
+    },
+    "in_gillette_wy": {
+      "total": 8,
+      "independent": 2,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 1
+    },
+    "in_cheyenne_wy": {
+      "total": 10,
+      "independent": 2,
+      "chain": 7,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 1
+    },
+    "colchester_vt": {
+      "total": 17,
+      "independent": 6,
+      "chain": 6,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 4
+    },
+    "derry_nh": {
+      "total": 18,
+      "independent": 6,
+      "chain": 12,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 12,
+      "skipped_hospitals": 0
+    },
+    "in_huntington_wv": {
+      "total": 10,
+      "independent": 2,
+      "chain": 4,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 2
+    },
+    "concord_nh": {
+      "total": 18,
+      "independent": 4,
+      "chain": 12,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 11,
+      "skipped_hospitals": 2
+    },
+    "burlington_vt": {
+      "total": 18,
+      "independent": 5,
+      "chain": 10,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 10,
+      "skipped_hospitals": 3
+    },
+    "nashua_nh": {
+      "total": 20,
+      "independent": 3,
+      "chain": 15,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 15,
+      "skipped_hospitals": 1
+    },
+    "in_rock_springs_wy": {
+      "total": 10,
+      "independent": 4,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 1
+    },
+    "in_wheeling_wv": {
+      "total": 10,
+      "independent": 4,
+      "chain": 4,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 1
+    },
+    "manchester_nh": {
+      "total": 20,
+      "independent": 4,
+      "chain": 14,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 13,
+      "skipped_hospitals": 1
+    },
+    "in_charleston_wv": {
+      "total": 10,
+      "independent": 5,
+      "chain": 2,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 3
+    },
+    "in_laramie_wy": {
+      "total": 9,
+      "independent": 5,
+      "chain": 4,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 3,
+      "skipped_hospitals": 0
+    },
+    "essex_vt": {
+      "total": 18,
+      "independent": 8,
+      "chain": 9,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 9,
+      "skipped_hospitals": 1
+    }
+  }
+}

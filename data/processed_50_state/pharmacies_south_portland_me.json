@@ -1,0 +1,2577 @@
+[
+  {
+    "title": "Fairley's Pharmacy Inc",
+    "description": "Local landmark providing old-fashioned milkshakes, coffee, sodas & medical items since 1914.",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "7206 NE Sandy Blvd, Portland, OR 97213",
+    "neighborhood": "Roseway",
+    "street": "7206 NE Sandy Blvd",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://fairleyspharmacy.com/",
+    "phone": "(503) 284-1159",
+    "phoneUnformatted": "+15032841159",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5483333,
+      "lng": -122.5886111
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Coffee shop"
+    ],
+    "fid": "0x5495a14900cc31a1:0x90b30e3504ccc240",
+    "cid": "10426693183169413696",
+    "reviewsCount": 143,
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.510Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fairley's%20Pharmacy%20Inc&query_place_id=ChIJoTHMAEmhlVQRQMLMBDUOs5A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@55.6612261832132,-157.06721604842537,13z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMgYxyxlYL4D7ufbPaXIUnpfQ3zPx5q7Tpu5MTI=w408-h720-k-no",
+    "kgmid": "/g/1tdrf25h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Brooklyn Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3131 SE Milwaukie Ave, Portland, OR 97223",
+    "neighborhood": "Southeast Portland",
+    "street": "3131 SE Milwaukie Ave",
+    "city": "Portland",
+    "postalCode": "97223",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://brooklyn-pharmacyrx.com/",
+    "phone": "(503) 234-8348",
+    "phoneUnformatted": "+15032348348",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5004994,
+      "lng": -122.6543635
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54950a7bab040a67:0x7fe3aa6534bbd034",
+    "cid": "9215396614183309364",
+    "reviewsCount": 222,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.487Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Pharmacy&query_place_id=ChIJZwoEq3sKlVQRNNC7NGWq438",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noHz_mPKe3JSoXHSSPAZYYrRQV-c4Q0BYCjjaEkg3WeNSXaW93grl9MLCD5UODKWft-VWA_RJawRZCVrjUG4fX_mGSP7_-daFqEmPio_JmOzfdh_--KVUtYTqhITEaKV1UIppMWjjui5p3U=w408-h474-k-no",
+    "kgmid": "/g/1tgnrcd_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "51 Market St, South Portland, ME 04106",
+    "neighborhood": "Knightville",
+    "street": "51 Market St",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-portland-me-pharmacies/51-market-st-south-portland-me-04106/storeid=806?WT.mc_id=LS_GOOGLE_RX_806",
+    "phone": "(207) 799-8166",
+    "phoneUnformatted": "+12077998166",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6361823,
+      "lng": -70.2550544
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcfeCdYOeskwR9q2wBmqCyOI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb29e837582f771:0xe2c8826a06b0adf6",
+    "cid": "16341454639804231158",
+    "reviewsCount": 18,
+    "imagesCount": 37,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJcfeCdYOeskwR9q2wBmqCyOI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMwoJsdkjHJzXv6cVvxNsepilIOl9emUV5_pQBx=w408-h272-k-no",
+    "kgmid": "/g/11c4637tpm",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "200 Running Hill Rd, South Portland, ME 04106",
+    "neighborhood": null,
+    "street": "200 Running Hill Rd",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-portland-me-pharmacies/200-running-hill-rd-south-portland-me-04106/storeid=16678?WT.mc_id=LS_GOOGLE_RX_16678",
+    "phone": "(207) 871-0911",
+    "phoneUnformatted": "+12078710911",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6335464,
+      "lng": -70.3476336
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV68hGguZskwR1kr4GgB5mpc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb2990b1a21af57:0x979a79001af84ad6",
+    "cid": "10924176887499999958",
+    "reviewsCount": 23,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJV68hGguZskwR1kr4GgB5mpc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPboggXMHYHXQxxU1Oi8cTzafV0trQfqWGQufZv=w408-h272-k-no",
+    "kgmid": "/g/1tdp4n5t",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "279 Main St, South Portland, ME 04106",
+    "neighborhood": "Cash Corner",
+    "street": "279 Main St",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-279+main+st-south+portland-me-04106/id=19678",
+    "phone": "(207) 741-2260",
+    "phoneUnformatted": "+12077412260",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6308636,
+      "lng": -70.2922796
+    },
+    "locatedIn": "Walgreens Photo",
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXfKW67aeskwRziPin7mzWmc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb29eb6eb96f25d:0x675ab3b99fe223ce",
+    "cid": "7447462543643255758",
+    "reviewsCount": 50,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        }
+      ],
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJXfKW67aeskwRziPin7mzWmc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noTAFFPQMSTfxPleo09U49icwKWync7UsfYlpditIklXV7fzhNEPDm169xjkdEyvdVP5M0usnWk90kbo6VIfUSr8KCNJMs5vtnj0MC-DbkNqp_fNgvm4TFJMKZjWfWLo7qUEkV8=w408-h306-k-no",
+    "kgmid": "/g/1tf07844",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy Specialty Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "141 Preble St, Portland, ME 04101",
+    "neighborhood": "Bayside",
+    "street": "141 Preble St",
+    "city": "Portland",
+    "postalCode": "04101",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.cvsspecialty.com/wps/portal/specialty?WT.mc_id=LS_GOOGLE_10728",
+    "phone": "(877) 814-8447",
+    "phoneUnformatted": "+18778148447",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6611061,
+      "lng": -70.2638115
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJT58HfXKcskwR-zFRLF1r5Ik",
+    "categories": [
+      "Pharmacy",
+      "Health consultant",
+      "Home health care service"
+    ],
+    "fid": "0x4cb29c727d079f4f:0x89e46b5d2c5131fb",
+    "cid": "9936184725805806075",
+    "reviewsCount": 39,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy%20Specialty%20Services&query_place_id=ChIJT58HfXKcskwR-zFRLF1r5Ik",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNztPIBeJlQC-WMp2Wm6aHIWx-0n2tFjt7fO_vF=w467-h240-k-no",
+    "kgmid": "/g/1tc_kr68",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "165 Lancaster St Apt P, Portland, ME 04101",
+    "neighborhood": "Bayside",
+    "street": "165 Lancaster St Apt P",
+    "city": "Portland",
+    "postalCode": "04101",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(207) 800-4681",
+    "phoneUnformatted": "+12078004681",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6610669,
+      "lng": -70.2614161
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1ZqlncmdskwRMlNrh-KP79I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb29dc99da59ad5:0xd2ef8fe2876b5332",
+    "cid": "15199525470496052018",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJ1ZqlncmdskwRMlNrh-KP79I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dv8JDTTN0aDSkKQ6XGkC0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=319.34387&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rc75vhtf",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "415 Philbrook Ave, South Portland, ME 04106",
+    "neighborhood": null,
+    "street": "415 Philbrook Ave",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/me/south-portland/8387",
+    "phone": "(207) 772-0758",
+    "phoneUnformatted": "+12077720758",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6345146,
+      "lng": -70.3285132
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHdWVJmuZskwR0StR-6lSZHc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb2996b2695d51d:0x776452a9fb512bd1",
+    "cid": "8603092078203841489",
+    "reviewsCount": 15,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.488Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJHdWVJmuZskwR0StR-6lSZHc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npq6lWM2BREY4yWcp5iQh3qIWhVNUiXZr16qL6LccHu7rsovJSSoh4368wTOg64h8LRpsVqqzHekDg032jeWN-gubjlcPWFcYoU1nnro0uvXXQnlc_7H_0X--mJRa4eOqzbXaWkmw=w408-h306-k-no",
+    "kgmid": "/g/11b6ggdbrr",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Coastal Pharmacy & Wellness",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "29 Marginal Way Suite 4, Portland, ME 04101",
+    "neighborhood": "Bayside",
+    "street": "29 Marginal Way Suite 4",
+    "city": "Portland",
+    "postalCode": "04101",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.coastalpharmacyandwellness.com/",
+    "phone": "(207) 899-0886",
+    "phoneUnformatted": "+12078990886",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6604871,
+      "lng": -70.2669871
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Store",
+      "Veterinary pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cb29c726448e45b:0x41b123e863287e4d",
+    "cid": "4733604164346084941",
+    "reviewsCount": 66,
+    "imagesCount": 96,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.489Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Coastal%20Pharmacy%20%26%20Wellness&query_place_id=ChIJW-RIZHKcskwRTX4oY-gjsUE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npTOwgU8ds6bG_vgSsSiEtqJA1EQ_BUC_EqTW5eOZRfli5ItquvPodpTn_yceB4GkgHZrX6oYvOm1NSvaVT3r4Ib34fRIzM6YFwg4kVy6DAzAeVqNUMSe7tJb_2L09ph54xSYvveA=w408-h272-k-no",
+    "kgmid": "/g/11clvz1rld",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Northern Light Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "195 Fore River Pkwy suite 170, Portland, ME 04102",
+    "neighborhood": "Libbytown",
+    "street": "195 Fore River Pkwy suite 170",
+    "city": "Portland",
+    "postalCode": "04102",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://northernlighthealth.org/Our-System/Northern-Light-Pharmacy/Locations/ForeRiver",
+    "phone": "(207) 535-1600",
+    "phoneUnformatted": "+12075351600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6490538,
+      "lng": -70.2824371
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb29c06c9ed33b5:0x227811a786aebaf8",
+    "cid": "2483754605711637240",
+    "reviewsCount": 13,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.489Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northern%20Light%20Pharmacy&query_place_id=ChIJtTPtyQacskwR-LquhqcReCI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqOFirsk7XGo3rY69XCGMe0p62T1d9EPNDWzBcof2OgFxFecP6KBYS0jCInVocKY_uSosoUD1-ZMSuPiTI-CM4BWZSq7jHiyOssIlWWms4XPq1PcxrFlWN7vVB420hFvL2aQ_9S=w408-h307-k-no",
+    "kgmid": "/g/11hbn1hfn8",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Hannaford Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "50 Cottage Rd, South Portland, ME 04106",
+    "neighborhood": "Knightville",
+    "street": "50 Cottage Rd",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://stores.hannaford.com/me/south-portland/8279",
+    "phone": "(207) 799-4023",
+    "phoneUnformatted": "+12077994023",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6378428,
+      "lng": -70.2503586
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv2hIQoKeskwR2Se8QA2IALc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cb29e82424868bf:0xb700880d40bc27d9",
+    "cid": "13186689299442837465",
+    "reviewsCount": 25,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:11:53.489Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hannaford%20Pharmacy&query_place_id=ChIJv2hIQoKeskwR2Se8QA2IALc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqNscfAvdICw8r_5GTgreatiffU6b_bcxcgtPjWVihDT0GDeY4_VI1wyOktaij8xCZC8-220JisBbAVF63LI7mKocCtAqYyElVpV6JWISt1S7AJOQ7KHR7z3aSeuRh5Su0KcOkCgQ=w408-h306-k-no",
+    "kgmid": "/g/11b6cvhz0_",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "LECARE Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1619 NE 42nd Ave, Portland, OR 97213",
+    "neighborhood": "Northeast Portland",
+    "street": "1619 NE 42nd Ave",
+    "city": "Portland",
+    "postalCode": "97213",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://www.lecarepharmacy.com/",
+    "phone": "(971) 358-6888",
+    "phoneUnformatted": "+19713586888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.534809,
+      "lng": -122.6204491
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a177931ced39:0x17d241091dc2be66",
+    "cid": "1716505915391393382",
+    "reviewsCount": 232,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:01.386Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=LECARE%20Pharmacy&query_place_id=ChIJOe0ck3ehlVQRZr7CHQlB0hc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.82214549246302,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9OvxbtOz8bjsYhzL9IydO9SwEgBdQvF4G682XlJ0TeMIpW4AfihEdWyd7O54AcVuwYLV71XdlDNJR7UKIAqsQuhTiQizU5Ipoq5wME9i60LRe77rG3DDKP1k3jyRV6sIgjVwiaQ=w408-h306-k-no",
+    "kgmid": "/g/11nfq1b9vq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Avita Pharmacy 1027",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2236 SE Belmont St Suite A, Portland, OR 97214",
+    "neighborhood": "Southeast Portland",
+    "street": "2236 SE Belmont St Suite A",
+    "city": "Portland",
+    "postalCode": "97214",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "http://www.avitapharmacy.com/",
+    "phone": "(503) 379-0370",
+    "phoneUnformatted": "+15033790370",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.5162522,
+      "lng": -122.6428119
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a140cf2fd375:0xbbeb14085a5815b2",
+    "cid": "13540938730727544242",
+    "reviewsCount": 39,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:01.386Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 12:30\u202fPM, 1 to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Avita%20Pharmacy%201027&query_place_id=ChIJddMvz0ChlVQRshVYWggU67s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.82214549246302,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOYyDtcWKM4LixEpnB9ittPcx9PykU7X1089Pyf=w426-h240-k-no",
+    "kgmid": "/g/11j61bx0py",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Pharmacy.com",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5253 SE 82nd Ave UNIT 27, Portland, OR 97266",
+    "neighborhood": "Foster - Powell",
+    "street": "5253 SE 82nd Ave UNIT 27",
+    "city": "Portland",
+    "postalCode": "97266",
+    "state": "Oregon",
+    "countryCode": "US",
+    "website": "https://pdxpharmacy.com/",
+    "phone": "(503) 477-8453",
+    "phoneUnformatted": "+15034778453",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.4842142,
+      "lng": -122.5800716
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5495a022db000001:0x7aaed0bec459002",
+    "cid": "552514539770712066",
+    "reviewsCount": 22,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:01.386Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "Cantonese": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy.com&query_place_id=ChIJAQAA2yKglVQRApBF7Avtqgc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.82214549246302,-158.8645058997317,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNBG3iFdNi0GMH3X2x3lv-_XMdiq0R_xbV1L3xY=w408-h306-k-no",
+    "kgmid": "/g/11ng7c13gb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "Pharmacy at Coastal Pharmacy & Wellness",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "29 Marginal Way, Portland, ME 04101",
+    "neighborhood": "Bayside",
+    "street": "29 Marginal Way",
+    "city": "Portland",
+    "postalCode": "04101",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.coastalpharmacyandwellness.com/pharmacy",
+    "phone": "(207) 899-0886",
+    "phoneUnformatted": "+12078990886",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6604871,
+      "lng": -70.2669871
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x4cb29dee6d884705:0xc16f727b0b0d4a66",
+    "cid": "13938485244526938726",
+    "reviewsCount": 0,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:01.753Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20at%20Coastal%20Pharmacy%20%26%20Wellness&query_place_id=ChIJBUeIbe6dskwRZkoNC3tyb8E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@67.1273844227615,-160.01530488540766,9z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP56bFFcaXCS3X1BgWAmCaHGz0NL7fM04ZSfXLy=w426-h240-k-no",
+    "kgmid": "/g/11h_7lt8q_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "south_portland_me"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "51 Market St, South Portland, ME 04106",
+    "neighborhood": "Knightville",
+    "street": "51 Market St",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/south-portland-me-pharmacies/51-market-st-south-portland-me-04106/storeid=806?WT.mc_id=LS_GOOGLE_FS_806",
+    "phone": "(207) 799-8166",
+    "phoneUnformatted": "+12077998166",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6361823,
+      "lng": -70.2550544
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfVwJg4aeskwRrLJKgGvAs6g",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x4cb29e8683095c7d:0xa8b3c06b804ab2ac",
+    "cid": "12156271387149513388",
+    "reviewsCount": 61,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:08.173Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJfVwJg4aeskwRrLJKgGvAs6g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@-14.30178505,-170.97204273438993,12z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXX8_hQINiTidCD1AJufUcPohe2iXh-njH0LY1HDIB44wuNZ5s7a4xqhuWsjVY6mgfgynF3L4wgA0kyJvi2KiLTlDgIPJHQMtFBDee1cnoDOQV2Tlt0a8rgpCgVgBs-cJcnzup=w408-h306-k-no",
+    "kgmid": "/g/1tdqh1y8",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "279 Main St, South Portland, ME 04106",
+    "neighborhood": "Cash Corner",
+    "street": "279 Main St",
+    "city": "South Portland",
+    "postalCode": "04106",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-279+main+st-south+portland-me-04106/id=19678",
+    "phone": "(207) 741-2260",
+    "phoneUnformatted": "+12077412260",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.6310141,
+      "lng": -70.2922854
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb4uxu7aeskwRkY0LRo6QjeU",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x4cb29eb6bbb18b6f:0xe58d908e460b8d91",
+    "cid": "16541035947136617873",
+    "reviewsCount": 1,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:08.326Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJb4uxu7aeskwRkY0LRo6QjeU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@-0.3033382489697096,-159.93028070145297,13z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPeWtTkC2kyjK3wibpBFCPNFYoUI1loIYG9ZlOr=w408-h304-k-no",
+    "kgmid": "/g/11vyr6dlg1",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Shaw's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "91 Auburn St, Portland, ME 04103",
+    "neighborhood": "North Deering",
+    "street": "91 Auburn St",
+    "city": "Portland",
+    "postalCode": "04103",
+    "state": "Maine",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.shaws.com/me/portland/91-auburn-st.html",
+    "phone": "(207) 797-0536",
+    "phoneUnformatted": "+12077970536",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 43.7028994,
+      "lng": -70.2881767
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcxBqOT2bskwRj1Sayf6ePzc",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cb29b3d396a1073:0x373f9efec99a548f",
+    "cid": "3981075412760024207",
+    "reviewsCount": 14,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:12:08.327Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaw's%20Pharmacy&query_place_id=ChIJcxBqOT2bskwRj1Sayf6ePzc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20South%20Portland%20ME/@-0.3033382489697096,-159.93028070145297,13z?hl=en",
+    "searchString": "independent pharmacy South Portland ME",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNkPSFz_kPyV6Xb6VMwQ2P6ImFbwycOENsjyB1y=w426-h240-k-no",
+    "kgmid": "/g/1tdwk2x0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

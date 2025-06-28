@@ -1,0 +1,32 @@
+{
+  "api_keys": {
+    "apify": "your_apify_api_key_here",
+    "google_places": "your_google_places_api_key_here",
+    "perplexity": "your_perplexity_api_key_here"
+  },
+  "max_results_per_query": 25,
+  "output_dir": "data/output",
+  "cache_dir": "data/cache",
+  "classification_cache_dir": "data/cache/classification",
+  "classification_threshold": 0.6,
+  "verify_places": true,
+  "verification_confidence_threshold": 0.7,
+  "max_budget": 100.0,
+  "api_cost_limits": {
+    "apify": 0.5,
+    "google_places": 0.02,
+    "perplexity": 0.01
+  },
+  "locations": [
+    {
+      "state": "CA",
+      "cities": ["Los Angeles", "San Francisco", "San Diego"],
+      "queries": ["independent pharmacy", "locally owned pharmacy"]
+    },
+    {
+      "state": "NY",
+      "cities": ["New York", "Buffalo", "Rochester"],
+      "queries": ["independent pharmacy", "locally owned pharmacy"]
+    }
+  ]
+}

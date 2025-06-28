@@ -1,0 +1,2351 @@
+[
+  {
+    "title": "Westside Healthmart Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3819 W Sunset Ave, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "3819 W Sunset Ave",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.westsidehealthmart.com/",
+    "phone": "(479) 756-3232",
+    "phoneUnformatted": "+14797563232",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1747767,
+      "lng": -94.1726016
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96cc74e8c84cd:0xc2443afbd06b6714",
+    "cid": "13998378394982246164",
+    "reviewsCount": 71,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.036Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Westside%20Healthmart%20Pharmacy&query_place_id=ChIJzYSMTsdsyYcRFGdr0Ps6RMI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrzVoAcIe1DM_dCOtilw6cQata1ISEYmY7pBsnk-K3Z650EmJK4rCRSodrWngr9kh0ja4IxGXlozkC1z_WBlujB3AhvfTkVBrMD3eF0pM8Z8_yjK-Y_d8hVZs-a7YcmYVyih_8cuw=w426-h240-k-no",
+    "kgmid": "/g/1tx8tr0t",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Heartland Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "701 S Thompson St, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "701 S Thompson St",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://heartland-rx.com/?y_source=1_MTAwNTgzNjgxOC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+    "phone": "(479) 751-2072",
+    "phoneUnformatted": "+14797512072",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1786566,
+      "lng": -94.1383627
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96b45abd30beb:0xf2bccd8c42fd0240",
+    "cid": "17491081055103156800",
+    "reviewsCount": 43,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.038Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heartland%20Pharmacy&query_place_id=ChIJ6wvTq0VryYcRQAL9QozNvPI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP3nZ3iGoRUEvJxbCB7XuI9cN_XOuS3xvItTmVv=w426-h240-k-no",
+    "kgmid": "/g/1trplq_y",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Community Pharmacy of Springdale",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "400 W Emma Ave, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "400 W Emma Ave",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.communitypharmacyspringdale.com/",
+    "phone": "(479) 750-2220",
+    "phoneUnformatted": "+14797502220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1854322,
+      "lng": -94.134357
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96b31134de4c1:0x55575c097d9d161",
+    "cid": "384342813251850593",
+    "reviewsCount": 64,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.038Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Pharmacy%20of%20Springdale&query_place_id=ChIJweRNEzFryYcRYdHZl8B1VQU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2999OXXOYC1JJCVdkymHfWcMZnNAOXJ2CXA4bp26hyCGVqE9k8H28jGIKXmUx_o6dVjczuAnZlWbcMJKzRFmEeSoFb8s1uj-uFSQw0X00yVwZGi0uaIpaehsmxDyhCn0q7RC5gg=w426-h240-k-no",
+    "kgmid": "/g/11clvllcqd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Collier Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5203 Willow Creek Dr #1, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "5203 Willow Creek Dr #1",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://collierdrug.com/locations/collier-compounding/",
+    "phone": "(479) 935-4336",
+    "phoneUnformatted": "+14799354336",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.13873,
+      "lng": -94.185757
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96c510a5870cd:0x8c2cd20f91437ec8",
+    "cid": "10100679028588641992",
+    "reviewsCount": 42,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.039Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "In-store shopping": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Collier%20Compounding&query_place_id=ChIJzXBYClFsyYcRyH5DkQ_SLIw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNwhCe3WCLsROzq_mAzlowR0kSMffb0QSgWlcvo=w408-h366-k-no",
+    "kgmid": "/g/1tgf3r6q",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Premier Pharmacy Care",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "834 E Henri De Tonti Blvd, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "834 E Henri De Tonti Blvd",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://www.premierpharmacycare.com/",
+    "phone": "(479) 927-6100",
+    "phoneUnformatted": "+14799276100",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.176362,
+      "lng": -94.2215452
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96d4519d96a09:0xd1ca3cf18e59c617",
+    "cid": "15116962107395524119",
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.039Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Premier%20Pharmacy%20Care&query_place_id=ChIJCWrZGUVtyYcRF8ZZjvE8ytE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MN6PkX01eVoG7egX3qZh6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=7.480691&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cn6drmyq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Harps Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2894 W Sunset Ave, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "2894 W Sunset Ave",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.harpsfood.com/",
+    "phone": "(479) 751-0882",
+    "phoneUnformatted": "+14797510882",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1762992,
+      "lng": -94.1621743
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Grocery store",
+      "Supermarket"
+    ],
+    "fid": "0x87c96cbb372f6ef3:0x155f35de6a96e41f",
+    "cid": "1540008826971284511",
+    "reviewsCount": 17,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.039Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "1 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Harps%20Pharmacy&query_place_id=ChIJ824vN7tsyYcRH-SWat41XxU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f4t0lJSD6RrdWZsHBKOfIw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=357.41275&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b6hw4dsm",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Harps Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1945 Butterfield Coach Rd, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "1945 Butterfield Coach Rd",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.harpsfood.com/",
+    "phone": "(479) 927-3379",
+    "phoneUnformatted": "+14799273379",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1670077,
+      "lng": -94.0924675
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Grocery store",
+      "Supermarket"
+    ],
+    "fid": "0x87c96aeb9ad45769:0x8aedaf01ffc088b7",
+    "cid": "10010849969835116727",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.039Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Harps%20Pharmacy&query_place_id=ChIJaVfUmutqyYcRt4jA_wGv7Yo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3EIWErwAcCOFxZKQotdfRA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=67.86336&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td0h0nf",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2400 S 48th St #1110, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "2400 S 48th St #1110",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(479) 419-9285",
+    "phoneUnformatted": "+14794199285",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1648266,
+      "lng": -94.1852171
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96ce6fb9525a3:0x218d533faa4e9142",
+    "cid": "2417680107873145154",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.040Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 12\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJoyWV--ZsyYcRQpFOqj9TjSE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D0cLY28jaJzhF5fVkADovA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=91.3689&pitch=0&thumbfov=100",
+    "kgmid": "/g/1trpr9z8",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Heartland Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1450 E Zion Rd #1, Fayetteville, AR 72703",
+    "neighborhood": null,
+    "street": "1450 E Zion Rd #1",
+    "city": "Fayetteville",
+    "postalCode": "72703",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://heartland-rx.com/?y_source=1_MTAwNTgzNjgyMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ==",
+    "phone": "(479) 444-7200",
+    "phoneUnformatted": "+14794447200",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1297476,
+      "lng": -94.1386602
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96bd0919ffe63:0x91b43a02431cf506",
+    "cid": "10499080412697785606",
+    "reviewsCount": 55,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.040Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heartland%20Pharmacy&query_place_id=ChIJY_6fkdBryYcRBvUcQwI6tJE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noozN0xR0txl9-bdTxlecGpE6t515Aod1N9-aBoHbEJViYR0wWLu0GidzVWyDB9k3Q3MQq_9umiXtli7eMwDMy3KaqV2d-hXTjfx5clmtK1dDdAMARFNNB6oDaMUEcciXQa5mkL=w426-h240-k-no",
+    "kgmid": "/g/1w665yqm",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2001 S Thompson St, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "2001 S Thompson St",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/springdale-ar-pharmacies/2001-s-thompson-st-springdale-ar-72764/storeid=10519?WT.mc_id=LS_GOOGLE_RX_10519",
+    "phone": "(479) 927-1568",
+    "phoneUnformatted": "+14799271568",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1666966,
+      "lng": -94.1410606
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb4z-KGZryYcR3HcO3w38QTE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96b6628fe8c6f:0x3141fc0ddf0e77dc",
+    "cid": "3549395117851703260",
+    "reviewsCount": 20,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.040Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJb4z-KGZryYcR3HcO3w38QTE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMzWkq4B8va4UU30kKUGnqNb1ZsdU-9CoxSQM4I=w408-h272-k-no",
+    "kgmid": "/g/11c462yf79",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Collier Drug-Willow Creek",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5201 Willow Creek Dr, Springdale, AR 72762",
+    "neighborhood": null,
+    "street": "5201 Willow Creek Dr",
+    "city": "Springdale",
+    "postalCode": "72762",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://collierdrug.com/locations/johnson-willow-creek/",
+    "phone": "(479) 521-7876",
+    "phoneUnformatted": "+14795217876",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1386967,
+      "lng": -94.1859064
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c96d77314ac1d3:0xdbca38b4b77e1b24",
+    "cid": "15837533388425534244",
+    "reviewsCount": 47,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.041Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        },
+        {
+          "Accepts walk-ins": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Collier%20Drug-Willow%20Creek&query_place_id=ChIJ08FKMXdtyYcRJBt-t7Q4yts",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOItarVWXj3Ff_nMDtqwb0Dg-6aJaT-cXGPxS3k=w408-h272-k-no",
+    "kgmid": "/g/11p66s6rcg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2002 S Thompson St, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "2002 S Thompson St",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2002+s+thompson+st-springdale-ar-72764/id=5041",
+    "phone": "(479) 756-1355",
+    "phoneUnformatted": "+14797561355",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1669283,
+      "lng": -94.1430983
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN9wvUmZryYcRuLkhEYH_tTI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96b66522fdc37:0x32b5ff811121b9b8",
+    "cid": "3654107602484312504",
+    "reviewsCount": 16,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:00.041Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJN9wvUmZryYcRuLkhEYH_tTI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@27.993949893450694,-177.64283584778357,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomwJQTI0AUQdhHIWKbfOtaT6LJfJJHMeH8HXUzpQKYnhDDTknevmRWQ-g2vBc8nMku6yRtrbciqVh11LPyZUZG2iMoDd7nlS4TJBpbqrajFd7nPbp6AxByU9XiY0dS9Biyb88_fw=w408-h306-k-no",
+    "kgmid": "/g/11cn9665yc",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Lowell Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "114 Harrison Ave, Lowell, AR 72745",
+    "neighborhood": null,
+    "street": "114 Harrison Ave",
+    "city": "Lowell",
+    "postalCode": "72745",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.lowellpharmacy.com/",
+    "phone": "(479) 770-0111",
+    "phoneUnformatted": "+14797700111",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.2530687,
+      "lng": -94.1353045
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c9146b9269e26f:0xf8a6fd4dac115df8",
+    "cid": "17917286677581225464",
+    "reviewsCount": 86,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:09.063Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lowell%20Pharmacy&query_place_id=ChIJb-JpkmsUyYcR-F0RrE39pvg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@5.745814674712121,-161.94054322060833,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Fgeuog462-WnikXm8lQqJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.0376847&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tplqvqk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Collier Drug-Har-Ber",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "171 N Maestri Rd Suite 3, Tontitown, AR 72770",
+    "neighborhood": null,
+    "street": "171 N Maestri Rd Suite 3",
+    "city": "Tontitown",
+    "postalCode": "72770",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://collierdrug.com/locations/harber/",
+    "phone": "(479) 361-5727",
+    "phoneUnformatted": "+14793615727",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1774624,
+      "lng": -94.2209063
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x87c96d457a15eb55:0x765b10c971fcc63",
+    "cid": "533026798546439267",
+    "reviewsCount": 28,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:09.063Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        },
+        {
+          "Accepts walk-ins": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Collier%20Drug-Har-Ber&query_place_id=ChIJVesVekVtyYcRY8wflwyxZQc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@5.745814674712121,-161.94054322060833,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM09FJWJaFpoyX1hfh56HwZISMLp_SrjyxSgIP-=w600-h240-k-no",
+    "kgmid": "/g/11clvgwvdz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "2004 S Pleasant St, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "2004 S Pleasant St",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/54-springdale-ar/pharmacy/?veh=seo_loc",
+    "phone": "(479) 756-0860",
+    "phoneUnformatted": "+14797560860",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1664304,
+      "lng": -94.1462372
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd_Q7M2FryYcRmy-R16a979o",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x87c96b61333bf477:0xdaefbda6d7912f9b",
+    "cid": "15776036543980973979",
+    "reviewsCount": 18,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:09.063Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJd_Q7M2FryYcRmy-R16a979o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@5.745814674712121,-161.94054322060833,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOFRf8Ar1kQM6VcpsxvK8OePFcmPIwg3Ip_9OgF=w408-h306-k-no",
+    "kgmid": "/g/11g_0hfk0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Debbie's Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5403 W Pinnacle Pointe Dr, Rogers, AR 72758",
+    "neighborhood": null,
+    "street": "5403 W Pinnacle Pointe Dr",
+    "city": "Rogers",
+    "postalCode": "72758",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "http://www.debbiesfamilypharmacy.com/",
+    "phone": "(479) 271-6300",
+    "phoneUnformatted": "+14792716300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.3123322,
+      "lng": -94.1868096
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c9110683e3401b:0x905665f0e578ce3f",
+    "cid": "10400612474775195199",
+    "reviewsCount": 51,
+    "imagesCount": 27,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:20.381Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Debbie's%20Family%20Pharmacy&query_place_id=ChIJG0DjgwYRyYcRP8545fBlVpA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@56.99812190348512,-170.7201301375445,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOyBzinVHmNELZF3Z7ZU0-DlnA5Ot0BeoqSsnjw=w408-h272-k-no",
+    "kgmid": "/g/1vg6v812",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "2001 S Thompson St, Springdale, AR 72764",
+    "neighborhood": null,
+    "street": "2001 S Thompson St",
+    "city": "Springdale",
+    "postalCode": "72764",
+    "state": "Arkansas",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/springdale-ar-pharmacies/2001-s-thompson-st-springdale-ar-72764/storeid=10519?WT.mc_id=LS_GOOGLE_FS_10519",
+    "phone": "(479) 927-1568",
+    "phoneUnformatted": "+14799271568",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.1666966,
+      "lng": -94.1410606
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxSC6gmhryYcRK_a_RWNzqG4",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x87c96b6882ba20c5:0x6ea8736345bff62b",
+    "cid": "7973750010468628011",
+    "reviewsCount": 69,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:17:21.201Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJxSC6gmhryYcRK_a_RWNzqG4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@-14.035020572810657,-170.69640815,12z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no_lWaNvMYxUrkh5H068G862XrWNRWI_LAXna2ShvI06HDyHH4pV7cZjLrY3Qyc03X19-sWgDpxawuB09qSyT5AXOydH-PR0jt9h1A0XrzEbm-yp38WbPmV_8qFwHSM4CVQdDel=w408-h306-k-no",
+    "kgmid": "/g/11bc7qt7zj",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2001 South Thompson Street, Springdale, AR 72764",
+    "phone": "(479) 927-1568",
+    "phoneUnformatted": "+1 479-927-1568",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.166697,
+      "lng": -94.141061
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x87c96b6628fe8c6f:0x3141fc0ddf0e77dc",
+    "cid": "3549395117851703260",
+    "reviewsCount": 20,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:19:20.983Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/place/CVS Pharmacy/@36.166697,-94.141061,14z/data=!3m1!4b1!4m9!3m8!5m2!4m1!1i2!8m2!3d36.166697!4d-94.141061!16snull!17Bnull",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Springdale%20AR/@36.16574483333333,-94.13133438333334,12.693903633022886z?hl=en",
+    "searchString": "independent pharmacy Springdale AR",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": true,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOpMHLP8m8AbLiPbHb_Jk-FUFPUDb3xyQ0UDpeM=k-no-",
+    "kgmid": null,
+    "isExternalServicePlace": true,
+    "externalId": null,
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

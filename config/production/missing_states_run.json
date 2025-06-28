@@ -1,0 +1,25 @@
+{
+  "search_queries": [
+    {
+      "query": "independent pharmacy",
+      "max_results_per_query": 20
+    }
+  ],
+  "locations": [
+    {"city": "Charleston", "state": "WV"},
+    {"city": "Huntington", "state": "WV"},
+    {"city": "Morgantown", "state": "WV"},
+    {"city": "Parkersburg", "state": "WV"},
+    {"city": "Wheeling", "state": "WV"},
+    {"city": "Milwaukee", "state": "WI"},
+    {"city": "Madison", "state": "WI"},
+    {"city": "Green Bay", "state": "WI"},
+    {"city": "Kenosha", "state": "WI"},
+    {"city": "Racine", "state": "WI"},
+    {"city": "Cheyenne", "state": "WY"},
+    {"city": "Casper", "state": "WY"},
+    {"city": "Laramie", "state": "WY"},
+    {"city": "Gillette", "state": "WY"},
+    {"city": "Rock Springs", "state": "WY"}
+  ]
+}

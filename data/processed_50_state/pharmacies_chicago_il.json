@@ -1,0 +1,2432 @@
+[
+  {
+    "title": "Capsule",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "661 N Wells St, Chicago, IL 60654",
+    "neighborhood": "Near North Side",
+    "street": "661 N Wells St",
+    "city": "Chicago",
+    "postalCode": "60654",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.capsule.com/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=Chicago-IL",
+    "phone": "(312) 589-7620",
+    "phoneUnformatted": "+13125897620",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8945219,
+      "lng": -87.6338147
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Delivery service",
+      "Drug store",
+      "Pharmaceutical company",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x880e2c8462b85391:0xa072b9cf5b9949c7",
+    "cid": "11561507493659625927",
+    "reviewsCount": 128,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.528Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Capsule&query_place_id=ChIJkVO4YoQsDogRx0mZW8-5cqA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPHCf5ZeFiQSfwyXVq5utYq60Qahn6-PVAYtOwd=w408-h268-k-no",
+    "kgmid": "/g/11h0_k8f0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Chicago Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5651 W Belmont Ave, Chicago, IL 60634",
+    "neighborhood": "Belmont Central",
+    "street": "5651 W Belmont Ave",
+    "city": "Chicago",
+    "postalCode": "60634",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(773) 341-1111",
+    "phoneUnformatted": "+17733411111",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.9384295,
+      "lng": -87.7684514
+    },
+    "totalScore": 2.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fcd2d061852af:0x748996abf6f93ea2",
+    "cid": "8397408645536104098",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.529Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chicago%20Pharmacy&query_place_id=ChIJr1IYBi3ND4gRoj759quWiXQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3eZs3zqh5rO1-vgkU_FP2w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=213.74194&pitch=0&thumbfov=100",
+    "kgmid": "/g/11qbh2yj3_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Chicago Health Mart Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1260 W Devon Ave, Chicago, IL 60660",
+    "neighborhood": "Rogers Park",
+    "street": "1260 W Devon Ave",
+    "city": "Chicago",
+    "postalCode": "60660",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "http://www.chicagohealthmartpharmacy.com/",
+    "phone": "(773) 856-0944",
+    "phoneUnformatted": "+17738560944",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9983251,
+      "lng": -87.6629248
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x880fd1f631d95ba9:0x82adcd2966d8d500",
+    "cid": "9416407973604414720",
+    "reviewsCount": 31,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Chicago%20Health%20Mart%20Pharmacy&query_place_id=ChIJqVvZMfbRD4gRANXYZinNrYI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrDBi5SZhr6i52UC7pVi4BAQeI7WvJ8dch-BCBkbXwgU30vEgjvxXNzzGcA-6NJIZXyPdIzTY4kLhqiJ1NE6DntwFtgG7-rK8O2Hwmq4Jgxzq5u7qAwh1-DPbipuVjYbXiQydy0bg=w408-h343-k-no",
+    "kgmid": "/g/11h35pqf5v",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ethos Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4332 N Elston Ave, Chicago, IL 60641",
+    "neighborhood": "Irving Park",
+    "street": "4332 N Elston Ave",
+    "city": "Chicago",
+    "postalCode": "60641",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "http://www.ethoshealthpharmacy.com/",
+    "phone": "(773) 628-7832",
+    "phoneUnformatted": "+17736287832",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9591809,
+      "lng": -87.7275447
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fcd0ccd369807:0xb8abd9ad2ba7b73e",
+    "cid": "13306968861781243710",
+    "reviewsCount": 81,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ethos%20Pharmacy&query_place_id=ChIJB5g2zQzND4gRPrenK63Zq7g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMN981TnpwR83pnu8R3D9ilqvpva4RKWfRDpJvv=w408-h306-k-no",
+    "kgmid": "/g/11fw8glgz5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Armitage Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3650 W Armitage Ave, Chicago, IL 60647",
+    "neighborhood": "Logan Square",
+    "street": "3650 W Armitage Ave",
+    "city": "Chicago",
+    "postalCode": "60647",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "http://www.armitage.pharmacy/",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9174104,
+      "lng": -87.7187624
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fcd1562509cf9:0xfda1fc67ebdd61ea",
+    "cid": "18276166286115168746",
+    "reviewsCount": 26,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Armitage%20Pharmacy&query_place_id=ChIJ-ZxQYhXND4gR6mHd62f8of0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNat_Z3YajbP-fvgtQH1ESlL5jpCW-KivH1iEqz=w700-h240-k-no",
+    "kgmid": "/g/11gzh8wwd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Community Pharmacy of Chicago Ridge",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9830 S Ridgeland Ave, Chicago Ridge, IL 60415",
+    "neighborhood": null,
+    "street": "9830 S Ridgeland Ave",
+    "city": "Chicago Ridge",
+    "postalCode": "60415",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/community-pharmacy-of-chicago-ridge-chicago-ridge-il-60463/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1484055",
+    "phone": "(708) 229-2100",
+    "phoneUnformatted": "+17082292100",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7132427,
+      "lng": -87.780224
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x880e39893e911a09:0xd3d6b60a484d89ea",
+    "cid": "15264588142297844202",
+    "reviewsCount": 162,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Pharmacy%20of%20Chicago%20Ridge&query_place_id=ChIJCRqRPok5DogR6olNSAq21tM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hBxtYluRNvhrpBQcDkALjw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.61783&pitch=0&thumbfov=100",
+    "kgmid": "/g/1v5k3lvh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Katsaros Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1521 E 53rd St, Chicago, IL 60615",
+    "neighborhood": "Hyde Park",
+    "street": "1521 E 53rd St",
+    "city": "Chicago",
+    "postalCode": "60615",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/katsaros-pharmacy-chicago-il-60615/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1470208",
+    "phone": "(773) 288-8700",
+    "phoneUnformatted": "+17732888700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7994236,
+      "lng": -87.5882723
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x880e29721aabf0c1:0xaf5613d735b0918f",
+    "cid": "12634307619674165647",
+    "reviewsCount": 32,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Katsaros%20Pharmacy&query_place_id=ChIJwfCrGnIpDogRj5GwNdcTVq8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npreWbrYib2IuY9XEA2WgHR06OIpituQLsF8i_Hqn5Ukf1ltGlGtfjekCMxz1nlFFAoAkRLL6xBzrAjW6DNytbmXGa4Dn0ZFj6W_V579GuVWp11MKDZPULEM-rJVMyXlD84Er2sgQ=w408-h306-k-no",
+    "kgmid": "/g/1td1w0k2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bridgeport Neighborhood Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3303 S Halsted St, Chicago, IL 60608",
+    "neighborhood": "South Side",
+    "street": "3303 S Halsted St",
+    "city": "Chicago",
+    "postalCode": "60608",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(773) 940-2000",
+    "phoneUnformatted": "+17739402000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8340583,
+      "lng": -87.6459734
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880e2d77953ce715:0x86eec5f0a8db941d",
+    "cid": "9722926282955265053",
+    "reviewsCount": 14,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bridgeport%20Neighborhood%20Pharmacy&query_place_id=ChIJFec8lXctDogRHZTbqPDF7oY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrJ8OXZJf7YDz9n4RtRE2BgmmbSpN7MwlhLqZ2iFfKraDMXWg6ozak18OenrOhv7md1j7vz_JcBKGgYNpWYUahu2xeYZmS9a0fgrXxaLQmd06mHY04DeCCtOeC3vuK0yZMmJSWH=w408-h306-k-no",
+    "kgmid": "/g/11nsb6jjk3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bienestar Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "966 W 21st St, Chicago, IL 60608",
+    "neighborhood": "Pilsen",
+    "street": "966 W 21st St",
+    "city": "Chicago",
+    "postalCode": "60608",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://alivio.org/services/pharmacy/",
+    "phone": "(312) 226-2266",
+    "phoneUnformatted": "+13122262266",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8541609,
+      "lng": -87.6509787
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880e2c57b2e1d17b:0x5847c5bba89b1d66",
+    "cid": "6361270408462409062",
+    "reviewsCount": 27,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.530Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12:30\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bienestar%20Pharmacy&query_place_id=ChIJe9HhslcsDogRZh2bqLvFR1g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP36cQI1IMh153vhHbdegJHf-cbqvl9DNTjaeer=w408-h725-k-no",
+    "kgmid": "/g/1txc7m92",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Carnegie Sargent's Pharmacy and Health Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "845 N Michigan Ave #902W, Chicago, IL 60611",
+    "neighborhood": "Streeterville",
+    "street": "845 N Michigan Ave #902W",
+    "city": "Chicago",
+    "postalCode": "60611",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.carnegiesargentspharmacy.com/",
+    "phone": "(312) 280-1220",
+    "phoneUnformatted": "+13122801220",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8980814,
+      "lng": -87.6230972
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd35385afd2a9:0xf0a26d4fe1c57c5e",
+    "cid": "17339541705187490910",
+    "reviewsCount": 72,
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carnegie%20Sargent's%20Pharmacy%20and%20Health%20Center&query_place_id=ChIJqdKvhVPTD4gRXnzF4U9tovA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMUlDXLlDo3YvfJWNEVyHJdDlyI9Kjip5lrbWZM=w408-h306-k-no",
+    "kgmid": "/g/1tg6qqg7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "North Park Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3324 W Foster Ave, Chicago, IL 60625",
+    "neighborhood": "North Park",
+    "street": "3324 W Foster Ave",
+    "city": "Chicago",
+    "postalCode": "60625",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(773) 654-3658",
+    "phoneUnformatted": "+17736543658",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.975823,
+      "lng": -87.7122285
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fcde202e19e5b:0x35cf2a53e28a60f7",
+    "cid": "3877364343960658167",
+    "reviewsCount": 9,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": false
+        },
+        {
+          "Onsite services": false
+        },
+        {
+          "Same-day delivery": false
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Park%20Pharmacy&query_place_id=ChIJW57hAuLND4gR92CK4lMqzzU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-9xE-4-ZT6R8qKld6yOuqF4VzQX_d4_5e1WaVscD94XwzflR-ig5SQ0BKJ1UTdMJN--D_dhRCL5e7hr2KL5gpjVp5aSLThr3Pg7oT-D5sEFNxDX8YwbMzEP4mOxn94pHdkOoNOQ=w425-h240-k-no",
+    "kgmid": "/g/11c2nqrq19",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pilsen Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1868 S Blue Island Ave, Chicago, IL 60608",
+    "neighborhood": "Pilsen",
+    "street": "1868 S Blue Island Ave",
+    "city": "Chicago",
+    "postalCode": "60608",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(312) 993-9500",
+    "phoneUnformatted": "+13129939500",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.8562486,
+      "lng": -87.6627368
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880e2de15b7bcfc5:0x416860fe44ad5784",
+    "cid": "4713123655233394564",
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pilsen%20Pharmacy&query_place_id=ChIJxc97W-EtDogRhFetRP5gaEE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noYk1MqHjbW-64bilMQS2Mx6z-UNsJADignDowLrXtFchQgKZ08Xitc-ssNteGBv8hbQxSA1HGyfzlUuOB_SX9digZWVu2LKoxziHhfOpVnMxGg2w1l2Tc6bL3T5Wez0p_kBA3u-w=w408-h306-k-no",
+    "kgmid": "/g/11syr5wv4v",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "New City Halsted Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1460 N Halsted St #101, Chicago, IL 60642",
+    "neighborhood": "Goose Island",
+    "street": "1460 N Halsted St #101",
+    "city": "Chicago",
+    "postalCode": "60642",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(312) 929-3009",
+    "phoneUnformatted": "+13129293009",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9081894,
+      "lng": -87.6484355
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd3252837df99:0x2605068194458b58",
+    "cid": "2739603101932948312",
+    "reviewsCount": 35,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=New%20City%20Halsted%20Pharmacy&query_place_id=ChIJmd83KCXTD4gRWItFlIEGBSY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrD7OP20mMnXKlmC4XwjYuhG0tm3WTm-gyU-QnPhSakJ9LBc6KSVdCmdKcdT-moL0C0K4JbQXfiIrFdxE9gnN73W6Fu0V44jAZCeRDCdMeM1M0k5B4usjoQb-vLhcGz-4UbP75Q=w408-h544-k-no",
+    "kgmid": "/g/1tdk5sjx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "SRx Compounding & Wellness Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2450 W Montrose Ave, Chicago, IL 60618",
+    "neighborhood": "Ravenswood",
+    "street": "2450 W Montrose Ave",
+    "city": "Chicago",
+    "postalCode": "60618",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://srxcompounding.com/",
+    "phone": "(773) 525-0766",
+    "phoneUnformatted": "+17735250766",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9615124,
+      "lng": -87.6907026
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd3bad43a4c73:0x38ac3cd706c546d4",
+    "cid": "4083705856347424468",
+    "reviewsCount": 36,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SRx%20Compounding%20%26%20Wellness%20Pharmacy&query_place_id=ChIJc0w61LrTD4gR1EbFBtc8rDg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOSSjt76N4JGZn_fdwU8jYCMjyLYsIMpalhEIIm=w408-h306-k-no",
+    "kgmid": "/g/1tpc8ksq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Peterson Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2517 W Peterson Ave, Chicago, IL 60659",
+    "neighborhood": "West Ridge",
+    "street": "2517 W Peterson Ave",
+    "city": "Chicago",
+    "postalCode": "60659",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(773) 275-6300",
+    "phoneUnformatted": "+17732756300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.990247,
+      "lng": -87.6928383
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd1e3f9a69683:0xe60274dc07ae1c29",
+    "cid": "16573938067047324713",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Peterson%20Pharmacy&query_place_id=ChIJg5am-ePRD4gRKRyuB9x0AuY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM0hDrBoa6D1Yy1d-8kPiGDuF09BwZ9jf8VY2so=w408-h408-k-no",
+    "kgmid": "/g/11cnc2f4ph",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AllCare Discount Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2750 W North Ave, Chicago, IL 60647",
+    "neighborhood": "West Town",
+    "street": "2750 W North Ave",
+    "city": "Chicago",
+    "postalCode": "60647",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://www.eriefamilyhealth.org/pharmacy/allcare-discount-pharmacy/",
+    "phone": "(312) 432-4510",
+    "phoneUnformatted": "+13124324510",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9104547,
+      "lng": -87.696538
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd2a7410deb05:0x3d9ac463c63eafcd",
+    "cid": "4439076315533848525",
+    "reviewsCount": 22,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AllCare%20Discount%20Pharmacy&query_place_id=ChIJBesNQafSD4gRza8-xmPEmj0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrys-_NEKmd542kJwWgooxOGXDB-9Ud9HBFBJydly67tp1Jlf_XBo0igXmtqkL6ItPxC1sDzcHhJGBLWUxRI5xqkHRkqKEJpsfiaug5hIFKwKyrpkZtY2v_3_ZmzAFQbB2-mH5p=w408-h544-k-no",
+    "kgmid": "/g/11crrfvm18",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Mariam Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3514 W Lawrence Ave, Chicago, IL 60625",
+    "neighborhood": "Albany Park",
+    "street": "3514 W Lawrence Ave",
+    "city": "Chicago",
+    "postalCode": "60625",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "http://mariam-pharmacy.edan.io/",
+    "phone": "(773) 478-1111",
+    "phoneUnformatted": "+17734781111",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.9686558,
+      "lng": -87.7164598
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fcde79cad16b1:0xcdec5f0974231cb4",
+    "cid": "14838339366486744244",
+    "reviewsCount": 74,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mariam%20Pharmacy&query_place_id=ChIJsRatnOfND4gRtBwjdAlf7M0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no8uGjQn-Y-W7_T56Lxn5i0Ednu3YZyxf-CG3zQU2ruzQcXBnA4x9nzWcTkQ5OMCxos0P8jaCkICFgA2BJt-p3GXVW4abLEYVA6iUnIOrVMkR4EPFgK9AaRsQ5JKVeV88fRuPJD=w408-h340-k-no",
+    "kgmid": "/g/1hjh415kz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AHF Pharmacy - Lakeview",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3311 N Halsted St, Chicago, IL 60657",
+    "neighborhood": "Lake View",
+    "street": "3311 N Halsted St",
+    "city": "Chicago",
+    "postalCode": "60657",
+    "state": "Illinois",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(773) 435-9583",
+    "phoneUnformatted": "+17734359583",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.9422775,
+      "lng": -87.6490084
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd32749c40809:0x2113740d3fe52fda",
+    "cid": "2383376228064505818",
+    "reviewsCount": 11,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Pharmacy%20-%20Lakeview&query_place_id=ChIJCQjESSfTD4gR2i_lPw10EyE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFAs7CtziGDIduLAyPPFKsjHiQPe__SMMvHbKv=w426-h240-k-no",
+    "kgmid": "/g/11fk573f2z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bridgeport Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3201 S Wallace St, Chicago, IL 60616",
+    "neighborhood": "South Side",
+    "street": "3201 S Wallace St",
+    "city": "Chicago",
+    "postalCode": "60616",
+    "state": "Illinois",
+    "countryCode": "US",
+    "phone": "(312) 791-9000",
+    "phoneUnformatted": "+13127919000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8360816,
+      "lng": -87.6411074
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880e2c40824025a3:0xa5d9294c001321f7",
+    "cid": "11950628492599828983",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bridgeport%20Pharmacy&query_place_id=ChIJoyVAgkAsDogR9yETAEwp2aU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8IFUJpRuwlrJh63fwMr6FA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=94.932205&pitch=0&thumbfov=100",
+    "kgmid": "/g/1vlzbyzt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Morgan Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1056 W Argyle St, Chicago, IL 60640",
+    "neighborhood": "Uptown",
+    "street": "1056 W Argyle St",
+    "city": "Chicago",
+    "postalCode": "60640",
+    "state": "Illinois",
+    "countryCode": "US",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.9733958,
+      "lng": -87.6572226
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x880fd3d53cacc023:0xed1acae6d20b67bd",
+    "cid": "17085191229098649533",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:06:10.531Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Morgan%20Pharmacy&query_place_id=ChIJI8CsPNXTD4gRvWcL0ubKGu0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Chicago%20IL/@53.23216302873083,-166.92009879946335,9z?hl=en",
+    "searchString": "independent pharmacy Chicago IL",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xRIJ-5zki8tSR-cUTfs2pw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=338.65076&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tj9tyb2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

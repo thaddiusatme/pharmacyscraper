@@ -1,0 +1,2158 @@
+[
+  {
+    "title": "CHC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1145 S Montana St, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "1145 S Montana St",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.buttechcpharmacy.com/",
+    "phone": "(406) 496-6001",
+    "phoneUnformatted": "+14064966001",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.99835,
+      "lng": -112.5394449
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b083a3d009977:0x8241168cad0c8783",
+    "cid": "9385807891871336323",
+    "reviewsCount": 29,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.228Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 12\u202fPM, 1 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHC%20Pharmacy&query_place_id=ChIJd5kAPToIW1MRg4cMrYwWQYI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K1GPf-I9vFIx417fa3aAKA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.01456&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ddxvycvx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Home IV Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Butte, MT 59702",
+    "neighborhood": null,
+    "street": null,
+    "city": "Butte",
+    "postalCode": "59702",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 723-4099",
+    "phoneUnformatted": "+14067234099",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.9834394,
+      "lng": -112.5272468
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b0886fe49f7ff:0x6db364efb7a5c2b3",
+    "cid": "7904772751706407603",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Home%20IV%20Pharmacy&query_place_id=ChIJ__dJ_oYIW1MRs8Klt-9ks20",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CrfUgHvzO8dg3vXm8PtH1Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=71.99001&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td5wv2t",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2611 Harrison Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "2611 Harrison Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2611+harrison+ave-butte-mt-59701/id=13818",
+    "phone": "(406) 782-5471",
+    "phoneUnformatted": "+14067825471",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.9857105,
+      "lng": -112.5085615
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfU3wLHAIW1MRLOy8JAhbxlg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b08702cf04d7d:0x58c65b0824bcec2c",
+    "cid": "6396900411260595244",
+    "reviewsCount": 22,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJfU3wLHAIW1MRLOy8JAhbxlg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-cIbMdkhBeiFva-tD6diPA6T-EYMF302rZS_g=w525-h240-k-no",
+    "kgmid": "/g/11cn951vjc",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1275 Harrison Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "1275 Harrison Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/butte-mt-pharmacies/1275-harrison-st-butte-mt-59701/storeid=8627?WT.mc_id=LS_GOOGLE_RX_8627",
+    "phone": "(406) 723-9408",
+    "phoneUnformatted": "+14067239408",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.0009035,
+      "lng": -112.5224167
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0eeQrUUIW1MRtLdHhx-hk0w",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b0845ad90e7d1:0x4c93a11f8747b7b4",
+    "cid": "5517931125244671924",
+    "reviewsCount": 8,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ0eeQrUUIW1MRtLdHhx-hk0w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN5G4BRiRkjbI4TYIvBH4qEhzl8ex1mfBXSpowS=w408-h272-k-no",
+    "kgmid": "/g/11c4615fq7",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2500 Massachusetts Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "2500 Massachusetts Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/mt/butte/2500-massachusetts-ave.html",
+    "phone": "(406) 494-3754",
+    "phoneUnformatted": "+14064943754",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.9875042,
+      "lng": -112.5062074
+    },
+    "totalScore": 2.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7e4p9W8IW1MRLazfFGrb_W8",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x535b086ff529eeed:0x6ffddb6a14dfac2d",
+    "cid": "8069847355981016109",
+    "reviewsCount": 15,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJ7e4p9W8IW1MRLazfFGrb_W8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO-tWDlxamRs2FsHgm9BpwYy2mGQKmTk2ids481=w426-h240-k-no",
+    "kgmid": "/g/126433b2m",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Mining City Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "327 S Excelsior Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "327 S Excelsior Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 565-0800",
+    "phoneUnformatted": "+14065650800",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.0094325,
+      "lng": -112.5496345
+    },
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b09ccee867f3f:0x428701839f1266bc",
+    "cid": "4793801993180309180",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:08.229Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mining%20City%20Compounding&query_place_id=ChIJP3-G7swJW1MRvGYSn4MBh0I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@53.926924098432366,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cxhP4bzlQVT1FRAqA59Skw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.33902&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wnbxpj3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1275 Harrison Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "1275 Harrison Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/butte-mt-pharmacies/1275-harrison-st-butte-mt-59701/storeid=8627?WT.mc_id=LS_GOOGLE_FS_8627",
+    "phone": "(406) 723-9408",
+    "phoneUnformatted": "+14067239408",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.0009035,
+      "lng": -112.5224167
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJywqfcUUIW1MR1SLTnOSSCns",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x535b0845719f0acb:0x7b0a92e49cd322d5",
+    "cid": "8866060327013524181",
+    "reviewsCount": 38,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:23.627Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJywqfcUUIW1MR1SLTnOSSCns",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@67.82214549246302,-143.9041190859444,9z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr5zQzNrXnlAtCVo7Xon8F3N3PNKb8QHjjY0afEYAr1WDKkbsNhGBqrNoUWY1SVqwgVIX30U9OuW-OyvXeC1NWmxhc4RUwdvAe3EeIZbbjKPKuQnYywCk1h0t_PVMT1nLpRt02MXA=w408-h306-k-no",
+    "kgmid": "/g/1tf6547p",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": "$$",
+    "categoryName": "Drug store",
+    "address": "2611 Harrison Ave, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "2611 Harrison Ave",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-2611+harrison+ave-butte-mt-59701/id=13818",
+    "phone": "(406) 782-5471",
+    "phoneUnformatted": "+14067825471",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.9857433,
+      "lng": -112.5085562
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuRLNK3AIW1MRNXWncWRuo-Q",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x535b08702bcd12b9:0xe4a36e6471a77535",
+    "cid": "16475133239533991221",
+    "reviewsCount": 98,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:31:45.901Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 10\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u201310\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJuRLNK3AIW1MRNXWncWRuo-Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@48.27430768932854,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDohoRO_gonasto-9bI3-JxX3P8lB9pqjFXRjdKV-dRHUeuZJAvkU8sTYkGHwPoWSIXzWgpz4H7oevR2MmCG_G1uu4XgdRnA43yRcH2v2nph4tXPlBIbnxkLU5nO-fi5M2oQ7J=w408-h306-k-no",
+    "kgmid": "/g/1hc0t7849",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Pintler Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "203 E Park Ave, Anaconda, MT 59711",
+    "neighborhood": null,
+    "street": "203 E Park Ave",
+    "city": "Anaconda",
+    "postalCode": "59711",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 563-0433",
+    "phoneUnformatted": "+14065630433",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.1287805,
+      "lng": -112.9513122
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b91ccab475091:0x100dcd698c6f1f64",
+    "cid": "1156806532515438436",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:32:04.636Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pintler%20Pharmacy&query_place_id=ChIJkVBHq8yRW1MRZB9vjGnNDRA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-iB44UcuACYWdw9fEUwSBQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.98483&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kp9yn1fr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Option Care Health",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "401 S Alabama St Suite 1, Butte, MT 59701",
+    "neighborhood": null,
+    "street": "401 S Alabama St Suite 1",
+    "city": "Butte",
+    "postalCode": "59701",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://optioncarehealth.com/",
+    "phone": "(406) 782-3221",
+    "phoneUnformatted": "+14067823221",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.0081608,
+      "lng": -112.5481465
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlyz-OqgJW1MRiq6dyGPCt8A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535b09a83afe2c97:0xc0b7c263c89dae8a",
+    "cid": "13886781709843541642",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:32:16.303Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Option%20Care%20Health&query_place_id=ChIJlyz-OqgJW1MRiq6dyGPCt8A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@39.68245004733214,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cbJhFRCR7cg91Yoe71_YuQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.33145&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j3bf9d9x",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Clark's Market & Pharmacy Crested Butte",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "500 Belleview Ave, Crested Butte, CO 81224",
+    "neighborhood": null,
+    "street": "500 Belleview Ave",
+    "city": "Crested Butte",
+    "postalCode": "81224",
+    "state": "Colorado",
+    "countryCode": "US",
+    "website": "https://www.clarksmarket.com/",
+    "phone": "(970) 349-6492",
+    "phoneUnformatted": "+19703496492",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 38.8667234,
+      "lng": -106.9819786
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Grocery store"
+    ],
+    "fid": "0x87407240a3836b37:0x8a621ad31a6eefc2",
+    "cid": "9971562018935599042",
+    "reviewsCount": 391,
+    "imagesCount": 116,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:32:18.249Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7\u202fAM to 9\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Highlights": [
+        {
+          "Great produce": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Food": true
+        },
+        {
+          "Pharmacy": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clark's%20Market%20%26%20Pharmacy%20Crested%20Butte&query_place_id=ChIJN2uDo0ByQIcRwu9uGtMaYoo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@36.81849750000001,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no9kA2QuduutbQluHSxSp9dv70GbGieQ8NitYFLAuEv_n6ut2aJz4Xnp0vWtAg0yuF8ZtFiRKAhKzpGUt0zb9q1uTb0d-_CEW5fxeXuSFlIxH0olAlKjdkAJbOW1i7jSPyxogUWsA=w408-h306-k-no",
+    "kgmid": "/g/1tfw3h_0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Seiden Drug Co. Inc.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "310 Wendell Ave # 102, Lewistown, MT 59457",
+    "neighborhood": null,
+    "street": "310 Wendell Ave # 102",
+    "city": "Lewistown",
+    "postalCode": "59457",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 535-1470",
+    "phoneUnformatted": "+14065351470",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 47.0560516,
+      "lng": -109.4430276
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5340d4bb739fa681:0xb94d41c48f95f6ad",
+    "cid": "13352400782701754029",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:32:52.117Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Seiden%20Drug%20Co.%20Inc.&query_place_id=ChIJgaafc7vUQFMRrfaVj8RBTbk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@48.27430768932854,-108.6496533711355,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6UreLE0Beo_7wMykY249uw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=330.73828&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tgg9mqc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:32:56.893Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@42.54640259466427,-67.48871611494522,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Sykes Pharmacy Columbia Falls",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "500 12th Ave W Suite 1A, Columbia Falls, MT 59912",
+    "neighborhood": null,
+    "street": "500 12th Ave W Suite 1A",
+    "city": "Columbia Falls",
+    "postalCode": "59912",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/sykes-pharmacy-columbia-falls-columbia-falls-mt-59912/",
+    "phone": "(406) 206-7277",
+    "phoneUnformatted": "+14062067277",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 48.3733682,
+      "lng": -114.1982287
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x53664173394e13d7:0xac255bbf9f4ea119",
+    "cid": "12404421627231510809",
+    "reviewsCount": 17,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:33:54.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sykes%20Pharmacy%20Columbia%20Falls&query_place_id=ChIJ1xNOOXNBZlMRGaFOn79bJaw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@48.27430768932854,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNW4Fg7BFuPEPwarYgZmUM7bKcadWGVHy4RwFU=w408-h403-k-no",
+    "kgmid": "/g/11n12lsmvs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Sykes Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "202 2nd Ave W, Kalispell, MT 59901",
+    "neighborhood": null,
+    "street": "202 2nd Ave W",
+    "city": "Kalispell",
+    "postalCode": "59901",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/sykes-pharmacy-kalispell-mt-59901/",
+    "phone": "(406) 257-4806",
+    "phoneUnformatted": "+14062574806",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 48.1960186,
+      "lng": -114.3164558
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x536650c05f44a031:0x4182a654f4cdb839",
+    "cid": "4720518243252287545",
+    "reviewsCount": 62,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:33:54.632Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sykes%20Pharmacy&query_place_id=ChIJMaBEX8BQZlMRObjN9FSmgkE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@48.27430768932854,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nopvuV2TRxeSKmqqEWMwW2Xmy-_0WZXcOi1ZiW5yue8Yox2aDskuL_ABXyf8g3Is4DaTKXSGxJZvKj0ux-CJXmqdB_Z1XXBFwD_4dnYTfE8ZobpKsSHNbXBnkI3Ohwn2gwCefc=w426-h240-k-no",
+    "kgmid": "/g/1wfcntsy",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  },
+  {
+    "title": "Missoula Pharmacy, INC.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1211 S Reserve St #102, Missoula, MT 59801",
+    "neighborhood": "Franklin to the Fort",
+    "street": "1211 S Reserve St #102",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.missoulapharmacy.com/",
+    "phone": "(406) 728-5650",
+    "phoneUnformatted": "+14067285650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8605409,
+      "lng": -114.0406294
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x535dcdfc62c77e5f:0xc3ec1a4e1b22c606",
+    "cid": "14117687854664697350",
+    "reviewsCount": 59,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:33:54.633Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Missoula%20Pharmacy%2C%20INC.&query_place_id=ChIJX37HYvzNXVMRBsYiG04a7MM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Butte%20MT/@48.27430768932854,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Butte MT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7lrff__zTiHRSGMMJKFbyocoYlGpghXMYf6ScxP8vu-SN9X3kswX4JpurIpzZdXd5UJuUkJ6i4tWNc-T44MAjZFUfVBssJbKnYvAFXefRW_SXeRwhGac78f9SUqL5SbhhAiSr=w408-h839-k-no",
+    "kgmid": "/g/1tjcp34w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "butte_mt"
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "total_locations_processed": 15,
+  "total_pharmacies": 84,
+  "total_classified": 84,
+  "classification_success_rate": "100.0%",
+  "totals": {
+    "independent": 63,
+    "chain": 53,
+    "errors": 0
+  },
+  "by_location": {
+    "in_morgantown_wv": {
+      "total": 10,
+      "independent": 5,
+      "chain": 1,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 2
+    },
+    "in_parkersburg_wv": {
+      "total": 10,
+      "independent": 4,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 0
+    },
+    "in_casper_wy": {
+      "total": 10,
+      "independent": 3,
+      "chain": 7,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 0
+    },
+    "in_gillette_wy": {
+      "total": 8,
+      "independent": 2,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 1
+    },
+    "in_cheyenne_wy": {
+      "total": 10,
+      "independent": 2,
+      "chain": 7,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 6,
+      "skipped_hospitals": 1
+    },
+    "in_huntington_wv": {
+      "total": 10,
+      "independent": 2,
+      "chain": 4,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 2
+    },
+    "in_madison_wi": {
+      "total": 10,
+      "independent": 7,
+      "chain": 1,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 2
+    },
+    "in_milwaukee_wi": {
+      "total": 10,
+      "independent": 10,
+      "chain": 0,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 0
+    },
+    "in_rock_springs_wy": {
+      "total": 10,
+      "independent": 4,
+      "chain": 5,
+      "hospital": 1,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 1
+    },
+    "in_green_bay_wi": {
+      "total": 10,
+      "independent": 3,
+      "chain": 1,
+      "hospital": 6,
+      "errors": 0,
+      "skipped_chains": 1,
+      "skipped_hospitals": 3
+    },
+    "in_wheeling_wv": {
+      "total": 10,
+      "independent": 4,
+      "chain": 4,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 4,
+      "skipped_hospitals": 1
+    },
+    "in_charleston_wv": {
+      "total": 10,
+      "independent": 6,
+      "chain": 1,
+      "hospital": 3,
+      "errors": 0,
+      "skipped_chains": 0,
+      "skipped_hospitals": 3
+    },
+    "in_laramie_wy": {
+      "total": 9,
+      "independent": 5,
+      "chain": 4,
+      "hospital": 0,
+      "errors": 0,
+      "skipped_chains": 3,
+      "skipped_hospitals": 0
+    },
+    "in_racine_wi": {
+      "total": 10,
+      "independent": 3,
+      "chain": 3,
+      "hospital": 4,
+      "errors": 0,
+      "skipped_chains": 3,
+      "skipped_hospitals": 0
+    },
+    "in_kenosha_wi": {
+      "total": 10,
+      "independent": 3,
+      "chain": 5,
+      "hospital": 2,
+      "errors": 0,
+      "skipped_chains": 5,
+      "skipped_hospitals": 0
+    }
+  }
+}

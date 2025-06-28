@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pharmacy Scraper - Documentation</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        .header { border-bottom: 2px solid #333; padding-bottom: 10px; margin-bottom: 20px; }
+        .section { margin: 25px 0; }
+        .code { 
+            background: #f8f9fa; 
+            padding: 15px; 
+            border-radius: 5px; 
+            font-family: 'Courier New', Courier, monospace;
+            overflow-x: auto;
+            border-left: 4px solid #007bff;
+        }
+        .status { 
+            display: inline-block;
+            padding: 5px 12px; 
+            border-radius: 20px; 
+            font-weight: bold; 
+            font-size: 0.9em;
+            margin: 5px 0;
+        }
+        .success { background: #d4edda; color: #155724; }
+        .warning { background: #fff3cd; color: #856404; }
+        .error { background: #f8d7da; color: #721c24; }
+        .info { background: #d1ecf1; color: #0c5460; }
+        .badge {
+            display: inline-block;
+            padding: 3px 7px;
+            font-size: 0.8em;
+            font-weight: bold;
+            line-height: 1;
+            color: #fff;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: baseline;
+            border-radius: 10px;
+            margin-right: 5px;
+        }
+        .badge-primary { background-color: #007bff; }
+        .badge-success { background-color: #28a745; }
+        .badge-warning { background-color: #ffc107; color: #212529; }
+        .badge-danger { background-color: #dc3545; }
+        .feature-list { padding-left: 20px; }
+        .feature-list li { margin-bottom: 8px; }
+        .timestamp { color: #6c757d; font-size: 0.9em; }
+        footer { 
+            margin-top: 40px; 
+            padding-top: 20px; 
+            border-top: 1px solid #dee2e6; 
+            text-align: center; 
+            color: #6c757d;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            body { padding: 15px; }
+            .code { font-size: 0.9em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏥 Pharmacy Scraper</h1>
+        <p><strong>AI-Powered Independent Pharmacy Discovery & Classification System</strong></p>
+        <div class="timestamp">Generated on {{ timestamp }}</div>
+    </div>
+    
+    <div class="section">
+        <h2>📋 Project Overview</h2>
+        <p>Comprehensive pharmacy data collection and classification system with AI-powered verification.</p>
+        <div class="status {{ 'success' if workflow_status == 'success' else 'error' }}">
+            {% if workflow_status == 'success' %}✅{% else %}❌{% endif %}
+            CI/CD Pipeline {{ 'Succeeded' if workflow_status == 'success' else 'Failed' }}
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>📊 Build Status</h2>
+        <div class="status {{ 'success' if test_status == 'success' else 'error' }}">
+            {% if test_status == 'success' %}✅{% else %}❌{% endif %}
+            Tests: {{ test_status|title }}
+        </div>
+        <div class="status {{ 'success' if lint_status == 'success' else 'error' }}">
+            {% if lint_status == 'success' %}✅{% else %}❌{% endif %}
+            Linting: {{ lint_status|title }}
+        </div>
+        <div class="status {{ 'success' if security_status == 'success' else 'error' }}">
+            {% if security_status == 'success' %}✅{% else %}❌{% endif %}
+            Security: {{ security_status|title }}
+        </div>
+        <div class="status {{ 'success' if docs_status == 'success' else 'error' }}">
+            {% if docs_status == 'success' %}✅{% else %}❌{% endif %}
+            Documentation: {{ docs_status|title }}
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>📁 Project Structure</h2>
+        <div class="code">
+            <pre>pharmacy-scraper/
+├── src/                    # Core application modules
+│   ├── classification/     # AI-powered pharmacy classification
+│   ├── dedup_self_heal/    # Deduplication and self-healing
+│   ├── utils/              # Utility functions and API management
+│   └── verification/       # Address verification system
+├── scripts/                # Data collection and execution scripts
+├── tests/                  # Comprehensive test suite
+├── config/                 # Configuration files
+└── docs/                   # Documentation</pre>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>🚀 Quick Start</h2>
+        <div class="code">
+            <pre># Install dependencies
+poetry install --with dev
+
+# Run tests
+pytest tests/ --cov=src
+
+# Execute trial run
+python scripts/run_trial.py</pre>
+        </div>
+    </div>
+    
+    <div class="section">
+        <h2>🔧 Key Features</h2>
+        <ul class="feature-list">
+            <li><strong>AI Classification:</strong> Perplexity API integration for accurate pharmacy categorization</li>
+            <li><strong>Smart Deduplication:</strong> Advanced duplicate detection with self-healing capabilities</li>
+            <li><strong>Address Verification:</strong> Google Places API integration for location validation</li>
+            <li><strong>Cost Optimization:</strong> Built-in credit tracking and budget management</li>
+            <li><strong>Comprehensive Testing:</strong> Full test coverage with CI/CD integration</li>
+        </ul>
+    </div>
+    
+    <div class="section">
+        <h2>📖 Documentation</h2>
+        <p>For detailed technical documentation, see:</p>
+        <ul class="feature-list">
+            <li><code>README.md</code> - Setup and usage instructions</li>
+            <li><code>pharmacy-project-digest.md</code> - Comprehensive project overview</li>
+            <li><code>tests/</code> - Test documentation and examples</li>
+        </ul>
+    </div>
+    
+    <footer>
+        <p>Generated by CI/CD Pipeline • {{ timestamp }}</p>
+        <p>Commit: <code>{{ commit_sha|default('unknown', true) }}</code></p>
+    </footer>
+</body>
+</html>
