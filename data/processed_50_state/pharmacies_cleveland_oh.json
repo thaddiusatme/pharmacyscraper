@@ -1,0 +1,2411 @@
+[
+  {
+    "title": "Broadway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6630 Broadway Ave, Cleveland, OH 44105",
+    "neighborhood": "Broadway - Slavic Village",
+    "street": "6630 Broadway Ave",
+    "city": "Cleveland",
+    "postalCode": "44105",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "http://www.broadwayrxpharmacy.com/",
+    "phone": "(216) 465-2333",
+    "phoneUnformatted": "+12164652333",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4613765,
+      "lng": -81.6434302
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fb2bc35996cf:0x6b8ae901c18f3f7a",
+    "cid": "7749262302595989370",
+    "reviewsCount": 44,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.971Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Pharmacy&query_place_id=ChIJz5ZZwyv7MIgRej-PwQHpims",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOJdsF3gg9fq39MwM0JThW__MwaqjmjfUi0vOfc=w408-h304-k-no",
+    "kgmid": "/g/11crzjyqvc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.92,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Cleveland LowCost Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "14529 Puritas Ave, Cleveland, OH 44135",
+    "neighborhood": "Bellaire-Puritas",
+    "street": "14529 Puritas Ave",
+    "city": "Cleveland",
+    "postalCode": "44135",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "http://www.lowcostpharmacies.com/",
+    "phone": "(216) 476-1400",
+    "phoneUnformatted": "+12164761400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4334002,
+      "lng": -81.7969341
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ33Su2MvtMIgRdyMmtYljgHI",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8830edcbd8ae74df:0x72806389b5262377",
+    "cid": "8250703960443593591",
+    "reviewsCount": 24,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.972Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cleveland%20LowCost%20Pharmacy&query_place_id=ChIJ33Su2MvtMIgRdyMmtYljgHI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j_QLEC7Cd45cQE-WYOEa2Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.118397&pitch=0&thumbfov=100",
+    "kgmid": "/g/11b6_svx12",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Cleveland Clinic Euclid Avenue Retail Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9211 Euclid Ave, Cleveland, OH 44106",
+    "neighborhood": "Hough",
+    "street": "9211 Euclid Ave",
+    "city": "Cleveland",
+    "postalCode": "44106",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://my.clevelandclinic.org/departments/pharmacy/locations",
+    "phone": "(216) 636-0760",
+    "phoneUnformatted": "+12166360760",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.5037303,
+      "lng": -81.6219915
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEcNL7h37MIgRsr41A9cBMcU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fb1dee4bc311:0xc53101d70335beb2",
+    "cid": "14209140322314075826",
+    "reviewsCount": 22,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cleveland%20Clinic%20Euclid%20Avenue%20Retail%20Pharmacy&query_place_id=ChIJEcNL7h37MIgRsr41A9cBMcU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9WHcqfdX9CMiWJ1qVg3KKg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.2318819&pitch=0&thumbfov=100",
+    "kgmid": "/g/11pbzhwls2",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Church Square Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7905 Euclid Ave, Cleveland, OH 44103",
+    "neighborhood": "Hough",
+    "street": "7905 Euclid Ave",
+    "city": "Cleveland",
+    "postalCode": "44103",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.lowcostpharmacies.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3676787",
+    "phone": "(216) 721-1772",
+    "phoneUnformatted": "+12167211772",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5042316,
+      "lng": -81.6328963
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8830fba4f231d9c7:0xdf49b4de80b5283f",
+    "cid": "16089590011492902975",
+    "reviewsCount": 33,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Church%20Square%20Pharmacy&query_place_id=ChIJx9kx8qT7MIgRPyi1gN60Sd8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq2db72eOgOYuMG7AElrDuwYWkQH6beu247QUa_c6HLtPCNgZ_j02wlk-hHFA6_FWm7YlW1SaEszQ3sTdtLPNRbDtLsbCc2sXU7P2BdTpqOghaYIaGzddUiwOqRd-DmzjpSss8=w426-h240-k-no",
+    "kgmid": "/g/1tfv15zn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "AHF Pharmacy - Cleveland",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2829 Euclid Ave, Cleveland, OH 44115",
+    "neighborhood": "Downtown",
+    "street": "2829 Euclid Ave",
+    "city": "Cleveland",
+    "postalCode": "44115",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://ahfpharmacy.org/",
+    "phone": "(216) 357-3327",
+    "phoneUnformatted": "+12163573327",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.50262,
+      "lng": -81.6686153
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fa5e1a197a95:0x2b2a44ee42062dea",
+    "cid": "3110374282753355242",
+    "reviewsCount": 7,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AHF%20Pharmacy%20-%20Cleveland&query_place_id=ChIJlXoZGl76MIgR6i0GQu5EKis",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrySXU4nKlDgwV4uE0ZrKfXM9zlJznCxqk7k3IXdG1dFUNRp55abCFK_rVOGjaBNe3vClcxYRlJTtqmtLL82TZ3951hjuYjMpvdWEtIpKjv3JQ1GW1p81t8iwhMiG0cpgWAoCUq=w408-h408-k-no",
+    "kgmid": "/g/11hbv0r4w4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "MAC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10414 St Clair Ave., Cleveland, OH 44108",
+    "neighborhood": "Glenville",
+    "street": "10414 St Clair Ave.",
+    "city": "Cleveland",
+    "postalCode": "44108",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "http://www.macpharmacy.com/",
+    "phone": "(216) 800-0223",
+    "phoneUnformatted": "+12168000223",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5372993,
+      "lng": -81.6158875
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830f9d5cbf46cd9:0x32e660c75688b71b",
+    "cid": "3667725355806406427",
+    "reviewsCount": 13,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MAC%20Pharmacy&query_place_id=ChIJ2Wz0y9X5MIgRG7eIVsdg5jI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO7GUIKSsWyuBizP8GwYs_fZqKhLfJtvjkbp_qq=w408-h306-k-no",
+    "kgmid": "/g/11rft890s0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Trio Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1570 Cleveland Ave, Columbus, OH 43211",
+    "neighborhood": "South Linden",
+    "street": "1570 Cleveland Ave",
+    "city": "Columbus",
+    "postalCode": "43211",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "http://www.triopharmacy.com/",
+    "phone": "(614) 298-8180",
+    "phoneUnformatted": "+16142988180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.9976238,
+      "lng": -82.9771851
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8838894134da069f:0x124c97a974a81444",
+    "cid": "1318595544975152196",
+    "reviewsCount": 25,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.973Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:30\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Black-owned": true
+        },
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Trio%20Pharmacy&query_place_id=ChIJnwbaNEGJOIgRRBSodKmXTBI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN79mhmlS4Yg15zMXjm1t4a4_bAsTkpJxRlHPA-=w408-h612-k-no",
+    "kgmid": "/g/11bwd00wf0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "tony's market pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3114 Clark Ave, Cleveland, OH 44109",
+    "neighborhood": "Ohio City",
+    "street": "3114 Clark Ave",
+    "city": "Cleveland",
+    "postalCode": "44109",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://clevelandpharmacy.net/",
+    "phone": "(216) 651-5700",
+    "phoneUnformatted": "+12166515700",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4704667,
+      "lng": -81.7036388
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830f171a2347fbf:0x35d78e654a6eaf5d",
+    "cid": "3879726169694580573",
+    "reviewsCount": 8,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=tony's%20market%20pharmacy&query_place_id=ChIJv380onHxMIgRXa9uSmWO1zU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9AxsjPVq4cAqpnA7okmAHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=2.2528307&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gj4zvlw8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "St. Luke's LowCost Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11201 Shaker Blvd #126, Cleveland, OH 44104",
+    "neighborhood": "Woodland Hills",
+    "street": "11201 Shaker Blvd #126",
+    "city": "Cleveland",
+    "postalCode": "44104",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.lowcostpharmacies.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3680027",
+    "phone": "(216) 795-4000",
+    "phoneUnformatted": "+12167954000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4845185,
+      "lng": -81.6081182
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ40Z1sHz7MIgRuubWw1CjuR0",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8830fb7cb07546e3:0x1db9a350c3d6e6ba",
+    "cid": "2141922665069733562",
+    "reviewsCount": 8,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=St.%20Luke's%20LowCost%20Pharmacy&query_place_id=ChIJ40Z1sHz7MIgRuubWw1CjuR0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "kgmid": "/g/126433cw4",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Linden Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1464 Cleveland Ave, Columbus, OH 43211",
+    "neighborhood": "South Linden",
+    "street": "1464 Cleveland Ave",
+    "city": "Columbus",
+    "postalCode": "43211",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.charitablepharmacy.org/",
+    "phone": "(614) 227-0301",
+    "phoneUnformatted": "+16142270301",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 39.9950539,
+      "lng": -82.9796142
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88388923b1354d51:0x43bb2e41d7ff2f9d",
+    "cid": "4880545481517641629",
+    "reviewsCount": 14,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Linden%20Community%20Pharmacy&query_place_id=ChIJUU01sSOJOIgRnS__10Euu0M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dgrJD1CSclxxscB29AJ3xw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.163055&pitch=0&thumbfov=100",
+    "kgmid": "/g/11p5c1x5sp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Healthland Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1979 Cleveland Ave, Columbus, OH 43211",
+    "neighborhood": "South Linden",
+    "street": "1979 Cleveland Ave",
+    "city": "Columbus",
+    "postalCode": "43211",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.healthlandpharmacy.net/",
+    "phone": "(614) 299-9669",
+    "phoneUnformatted": "+16142999669",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 40.0070714,
+      "lng": -82.9724449
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8838895d808641d1:0x5ae7e0119067ebce",
+    "cid": "6550450549075471310",
+    "reviewsCount": 22,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Healthland%20Pharmacy&query_place_id=ChIJ0UGGgF2JOIgRzutnkBHg51o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FZnoarDaa4DoNptDQjCcxA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.43459&pitch=0&thumbfov=100",
+    "kgmid": "/g/1260525kw",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Sheliga Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6025 St Clair Ave., Cleveland, OH 44103",
+    "neighborhood": "St. Clair - Superior",
+    "street": "6025 St Clair Ave.",
+    "city": "Cleveland",
+    "postalCode": "44103",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/sheliga-drug-cleveland-oh-44103/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3612466",
+    "phone": "(216) 431-1035",
+    "phoneUnformatted": "+12164311035",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5236207,
+      "lng": -81.6498399
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8830fa3309664537:0x633dac31444e7abc",
+    "cid": "7151061110933584572",
+    "reviewsCount": 61,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sheliga%20Drug&query_place_id=ChIJN0VmCTP6MIgRvHpORDGsPWM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7GS6iwW2TP8xmdhtnTwp9g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.05966&pitch=0&thumbfov=100",
+    "kgmid": "/g/11clvc4cl4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Asia Plaza Herbal Shop",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2999 Payne Ave #204A, Cleveland, OH 44114",
+    "neighborhood": "Goodrich - Kirtland Park",
+    "street": "2999 Payne Ave #204A",
+    "city": "Cleveland",
+    "postalCode": "44114",
+    "state": "Ohio",
+    "countryCode": "US",
+    "phone": "(216) 862-9688",
+    "phoneUnformatted": "+12168629688",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.5082665,
+      "lng": -81.6694485
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fa67f888d895:0x9ec0216cc6ec0504",
+    "cid": "11439179804598600964",
+    "reviewsCount": 17,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asia%20Plaza%20Herbal%20Shop&query_place_id=ChIJldiI-Gf6MIgRBAXsxmwhwJ4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nowOT8VUrPnvsF7UhlFGt6kGpQ_mofQTAQ7Wbtq5bq5ihc-SxPuvbRLqz8qN1dkYssY2m_gMPOUUf_jEH-Yvit9Py3f5j5qtVmWrpPdTdv57oFL-NKxzB2eUUwnxcNCzsqDjVcHoJmxN6Hw=w408-h306-k-no",
+    "kgmid": "/g/11cn5pcypf",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Broadway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3782 W 117th St, Cleveland, OH 44111",
+    "neighborhood": "Jefferson",
+    "street": "3782 W 117th St",
+    "city": "Cleveland",
+    "postalCode": "44111",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://broadwayrxpharmacy.com/",
+    "phone": "(216) 331-3642",
+    "phoneUnformatted": "+12163313642",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4501695,
+      "lng": -81.7695057
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830ef134220a187:0x4dac01626a7f9f2c",
+    "cid": "5596849959119855404",
+    "reviewsCount": 3,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Pharmacy&query_place_id=ChIJh6EgQhPvMIgRLJ9_amIBrE0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noMD32Cuob1cyJdeRVBpUVOv1PZwuYHmG78vlFTkuVJ3Tc5DrVhzRYS_Nh65exZLeieW6b1xlz0VdSM0pVnOIdV4yuUByj0NW50L9dHx_aaYe6hUstTFMvhAGyDxeE_iDA32rQqfQ=w408-h544-k-no",
+    "kgmid": "/g/11vy2pbwmb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ameriwell Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "9500 Detroit Ave, Cleveland, OH 44102",
+    "neighborhood": "Edgewater",
+    "street": "9500 Detroit Ave",
+    "city": "Cleveland",
+    "postalCode": "44102",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://ameriwell.org/",
+    "phone": "(216) 283-3865",
+    "phoneUnformatted": "+12162833865",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4802981,
+      "lng": -81.7488323
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830f1c688fb535b:0xc66ce072bc3a54e1",
+    "cid": "14298049700383315169",
+    "reviewsCount": 2,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ameriwell%20Pharmacy&query_place_id=ChIJW1P7iMbxMIgR4VQ6vHLgbMY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMb9u_oZPaClablfknnx-4RRA8HnK7f5pvpjDUq=w408-h306-k-no",
+    "kgmid": "/g/11sf5jcgnb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Clark LowCost Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3107 Clark Ave, Cleveland, OH 44109",
+    "neighborhood": "Clark - Fulton",
+    "street": "3107 Clark Ave",
+    "city": "Cleveland",
+    "postalCode": "44109",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.lowcostpharmacies.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3678490",
+    "phone": "(216) 651-8685",
+    "phoneUnformatted": "+12166518685",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.46961,
+      "lng": -81.7035802
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ38y06RrwMIgRHnM1vw06duU",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8830f01ae9b4ccdf:0xe5763a0dbf35731e",
+    "cid": "16534466912654291742",
+    "reviewsCount": 31,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.974Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clark%20LowCost%20Pharmacy&query_place_id=ChIJ38y06RrwMIgRHnM1vw06duU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Eqi84M_Mer-oiIePk9NeoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=294.33008&pitch=0&thumbfov=100",
+    "kgmid": "/g/1hc24fg6x",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "North Olmsted Lowcost Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "26901 Brookpark Rd Ext, North Olmsted, OH 44070",
+    "neighborhood": null,
+    "street": "26901 Brookpark Rd Ext",
+    "city": "North Olmsted",
+    "postalCode": "44070",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.lowcostpharmacies.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=3689518",
+    "phone": "(440) 471-7044",
+    "phoneUnformatted": "+14404717044",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.4194241,
+      "lng": -81.9222882
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVzYYZ6qTMIgRxc7FktAiYpQ",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x883093aa67183657:0x946222d092c5cec5",
+    "cid": "10692146744541957829",
+    "reviewsCount": 10,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.975Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=North%20Olmsted%20Lowcost%20Pharmacy&query_place_id=ChIJVzYYZ6qTMIgRxc7FktAiYpQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TyKnHzl9li1OVgVJQZ7qsw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=196.03255&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rqlx5jrs",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Independent Pharmacy Consltng",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "29280 N Park Blvd, Solon, OH 44139",
+    "neighborhood": null,
+    "street": "29280 N Park Blvd",
+    "city": "Solon",
+    "postalCode": "44139",
+    "state": "Ohio",
+    "countryCode": "US",
+    "phone": "(440) 542-1244",
+    "phoneUnformatted": "+14405421244",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.4182999,
+      "lng": -81.4715496
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x88311ce20b4f8159:0x7eeaf9105ca6cd3b",
+    "cid": "9145395841998441787",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.975Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Independent%20Pharmacy%20Consltng&query_place_id=ChIJWYFPC-IcMYgRO82mXBD56n4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UEJMVdpc-PMJ-d2wGGYgkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=176.8909&pitch=0&thumbfov=100",
+    "kgmid": "/g/1vcl4dkp",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "10001 Chester Ave Suite B, Cleveland, OH 44106",
+    "neighborhood": "Hough",
+    "street": "10001 Chester Ave Suite B",
+    "city": "Cleveland",
+    "postalCode": "44106",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-10001+chester+ave-cleveland-oh-44106/id=16400",
+    "phone": "(216) 416-7680",
+    "phoneUnformatted": "+12164167680",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5058448,
+      "lng": -81.618324
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD-WksZD7MIgRMvdfX2ZfJYY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fb90b1a4e50f:0x86255f665f5ff732",
+    "cid": "9666237068512065330",
+    "reviewsCount": 12,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.975Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8:30\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJD-WksZD7MIgRMvdfX2ZfJYY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGM3p_6Ts5aC8Ivw7YY3Eb_NtqnGSDiL7xe7F_=w427-h240-k-no",
+    "kgmid": "/g/11cmfhbg1k",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Rite Aid Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10090 Chester Ave, Cleveland, OH 44106",
+    "neighborhood": "Hough",
+    "street": "10090 Chester Ave",
+    "city": "Cleveland",
+    "postalCode": "44106",
+    "state": "Ohio",
+    "countryCode": "US",
+    "website": "https://www.riteaid.com/locations/oh/cleveland/10090-chester-ave.html",
+    "phone": "(216) 721-2020",
+    "phoneUnformatted": "+12167212020",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5050803,
+      "lng": -81.6177014
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": "ChIJ0bjBKDX7MIgRys3LivTUIrU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8830fb3528c1b8d1:0xb522d4f48acbcdca",
+    "cid": "13052228816838839754",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:22:22.975Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rite%20Aid%20Pharmacy&query_place_id=ChIJ0bjBKDX7MIgRys3LivTUIrU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cleveland%20OH/@64.94267025847846,-168.14103676175168,13z?hl=en",
+    "searchString": "independent pharmacy Cleveland OH",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HX0UGkq2mhUFq-b_lDmaLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=202.523&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kqw21bl6",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

@@ -11,7 +11,7 @@ from unittest.mock import patch, MagicMock
 import logging
 
 # Import the functions to test
-from scripts.organize_data import (
+from pharmacy_scraper.data_processing.organize_data import (
     setup_directories,
     move_existing_files,
     combine_csv_files,
@@ -70,7 +70,7 @@ def test_setup_directories():
         ]
         
         # Mock the directory list to return our test directories
-        with patch('scripts.organize_data.Path.mkdir') as mock_mkdir:
+        with patch('pharmacy_scraper.data_processing.organize_data.Path.mkdir') as mock_mkdir:
             setup_directories()
             
         # Check that mkdir was called with the right arguments
@@ -203,19 +203,19 @@ def test_main_success(temp_dirs, monkeypatch, caplog):
     caplog.set_level(logging.INFO)
     
     # Setup test environment
-    monkeypatch.setattr('scripts.organize_data.setup_directories', lambda: None)
+    monkeypatch.setattr('pharmacy_scraper.data_processing.organize_data.setup_directories', lambda: None)
     
     # Mock the move_existing_files function
     mock_moved_files = ["file1.csv", "file2.csv"]
     monkeypatch.setattr(
-        'scripts.organize_data.move_existing_files',
+        'pharmacy_scraper.data_processing.organize_data.move_existing_files',
         lambda *args, **kwargs: mock_moved_files
     )
     
     # Mock the combine_csv_files function
     mock_output = "combined.csv"
     monkeypatch.setattr(
-        'scripts.organize_data.combine_csv_files',
+        'pharmacy_scraper.data_processing.organize_data.combine_csv_files',
         lambda *args, **kwargs: mock_output
     )
     
@@ -247,7 +247,7 @@ def test_main_exception_handling(monkeypatch, caplog):
     def mock_setup_directories():
         raise Exception("Test error")
     
-    monkeypatch.setattr('scripts.organize_data.setup_directories', mock_setup_directories)
+    monkeypatch.setattr('pharmacy_scraper.data_processing.organize_data.setup_directories', mock_setup_directories)
     
     # Call the main function and check that it handles the exception
     with pytest.raises(Exception, match="Test error"):

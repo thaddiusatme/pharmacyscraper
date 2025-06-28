@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json.schemastore.org/cascade.json",
+  "version": "1.0.0",
+  "name": "Pharmacy Scraper",
+  "description": "Configuration for Pharmacy Scraper project",
+  "rules": [
+    {
+      "name": "pharmacy-scraper-rules",
+      "path": ".cascade/rules/pharmacy_scraper.yaml"
+    }
+  ],
+  "settings": {
+    "autoApply": true,
+    "enableTelemetry": false,
+    "enableExperimental": true,
+    "maxMemoryMB": 4096,
+    "enableAutoSave": true,
+    "fileWatcher": {
+      "enabled": true,
+      "exclude": ["**/node_modules/**", "**/.git/**", "**/__pycache__/**"]
+    },
+    "python": {
+      "interpreter": "python3",
+      "enableLinting": true,
+      "formattingProvider": "black"
+    },
+    "notifications": {
+      "enabled": true,
+      "level": "info"
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "ms-python.black-formatter",
+      "yzhang.markdown-all-in-one",
+      "esbenp.prettier-vscode"
+    ]
+  }
+}

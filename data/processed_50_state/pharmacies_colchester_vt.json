@@ -1,0 +1,2296 @@
+[
+  {
+    "title": "Community Health Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "158 Brentwood Dr # 6, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "158 Brentwood Dr # 6",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.communityhealthpharmacy.com/app/",
+    "phone": "(888) 669-9017",
+    "phoneUnformatted": "+18886699017",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.5954772,
+      "lng": -73.1707689
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXeumCWxyykwRY4F7RSnEd6w",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca726c09a6eb5d:0xac77c429457b8163",
+    "cid": "12427617378290598243",
+    "reviewsCount": 25,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.472Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Pharmacy&query_place_id=ChIJXeumCWxyykwRY4F7RSnEd6w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@63.653579074253855,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "kgmid": "/g/1td4zgsp",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Shaw's Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "66 Mountain View Dr, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "66 Mountain View Dr",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.shaws.com/vt/colchester/66-mountain-view.html",
+    "phone": "(802) 655-2536",
+    "phoneUnformatted": "+18026552536",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5089636,
+      "lng": -73.180981
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq-XIhoVwykwRfG6YPFBEK44",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x4cca708586c8e5ab:0x8e2b44503c986e7c",
+    "cid": "10244356888789020284",
+    "reviewsCount": 11,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.473Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM, 2:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shaw's%20Pharmacy&query_place_id=ChIJq-XIhoVwykwRfG6YPFBEK44",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@63.653579074253855,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrNTndwskXcKtVmbKB8tGWnh12XZeUpMJohN70xfLvt0GbBSYuG4ptdv-eryfPK52wSJrjvsLK4GYg17BAue2e5njqJFXr5eNUkQWLgWpMwODEREbExrA1BHmA5okFLtg7G6KpNBQ=w408-h303-k-no",
+    "kgmid": "/g/1tgp9x9r",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "69 Mountain View Dr, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "69 Mountain View Dr",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/colchester-vt-pharmacies/69-mountain-view-dr-colchester-vt-05446/storeid=10216?WT.mc_id=LS_GOOGLE_FS_10216",
+    "phone": "(802) 654-0772",
+    "phoneUnformatted": "+18026540772",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5070712,
+      "lng": -73.181257
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ75LB_4RwykwRds8mi0Gbcj0",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x4cca7084ffc192ef:0x3d729b418b26cf76",
+    "cid": "4427772089468374902",
+    "reviewsCount": 39,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.473Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11\u202fAM\u20131:30\u202fPM"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fAM\u20138\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJ75LB_4RwykwRds8mi0Gbcj0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@63.653579074253855,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMrxUx39BchcrybWiP1vlr0U7MZ1jvl_rC9QVCK=w408-h272-k-no",
+    "kgmid": "/g/11b6txtcl0",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "69 Mountain View Dr, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "69 Mountain View Dr",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/colchester-vt-pharmacies/69-mountain-view-dr-colchester-vt-05446/storeid=10216?WT.mc_id=LS_GOOGLE_RX_10216",
+    "phone": "(802) 654-0772",
+    "phoneUnformatted": "+18026540772",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5070054,
+      "lng": -73.1814616
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ75LB_4RwykwRxmEB9qvFN0o",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7084ffc192ef:0x4a37c5abf60161c6",
+    "cid": "5347960424883118534",
+    "reviewsCount": 13,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.474Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ75LB_4RwykwRxmEB9qvFN0o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@63.653579074253855,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPtpkQ9SCf1iLpRrmeZ6rEaBunBLSKvzOxrS8dF=w408-h272-k-no",
+    "kgmid": "/g/11c463lxj2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "PENRO Specialty Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "220 Main St, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "220 Main St",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "phone": "(802) 879-1100",
+    "phoneUnformatted": "+18028791100",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.5485028,
+      "lng": -73.1614292
+    },
+    "totalScore": 3.4,
+    "permanentlyClosed": true,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca71176cb1f621:0x852d1e9fc2ea4b2d",
+    "cid": "9596360052515162925",
+    "reviewsCount": 7,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.474Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PENRO%20Specialty%20Compounding&query_place_id=ChIJIfaxbBdxykwRLUvqwp8eLYU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@63.653579074253855,-164.61850082811145,9z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r_s09nOov-AGoSWwtxr3Ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.11952&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tnjj5vg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "Lakeside Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "242 Pearl St, Burlington, VT 05401",
+    "neighborhood": "Old North End",
+    "street": "242 Pearl St",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.lakerx.org/",
+    "phone": "(802) 862-1491",
+    "phoneUnformatted": "+18028621491",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4807158,
+      "lng": -73.2090145
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7af5e76cf753:0x25d1c19a48545159",
+    "cid": "2725172117918470489",
+    "reviewsCount": 83,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.816Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Pharmacy&query_place_id=ChIJU_ds5_V6ykwRWVFUSJrB0SU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@16.082687161435018,145.85245306872943,13z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noDmZ10snrnZsH9WY5jknMybfF11Ir_fQE6PYKZ8rBuW-mbCdqVC5nG1uAfnxut7rNOPSn-3QwPql6I1pcOIBgsqF2sVSrIs8Q3u4q9dUCbdEsiM_KtTYICSkEAZKcbriLRwlBt5A=w408-h271-k-no",
+    "kgmid": "/g/1td42378",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "Vermont Family Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1219 North Ave, Burlington, VT 05408",
+    "neighborhood": "New North End",
+    "street": "1219 North Ave",
+    "city": "Burlington",
+    "postalCode": "05408",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.vtfamilyrx.com/",
+    "phone": "(802) 658-9664",
+    "phoneUnformatted": "+18026589664",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.508597,
+      "lng": -73.247381
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca6555bd77e03b:0xd0832b7d31129213",
+    "cid": "15024900598532313619",
+    "reviewsCount": 23,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:07:21.816Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Vermont%20Family%20Pharmacy&query_place_id=ChIJO-B3vVVlykwRE5ISMX0rg9A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@16.082687161435018,145.85245306872943,13z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbOcmrg3_bfK_q8-sZH_4sGGZibhd15YJY2P5apKm7SRBWmrBlHpqnGgywmVko7zoXsztzxLWaJhcO-qjtNiCH8xUITLdCG0Ckf0mPnoEaNDhoTmYaOFakWBgaAYFHc0JDUCrs=w408-h497-k-no",
+    "kgmid": "/g/1tf57hvs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1184 Prim Rd, Colchester, VT 05446",
+    "neighborhood": "Malletts Bay",
+    "street": "1184 Prim Rd",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1184+prim+rd-colchester-vt-05446/id=17183",
+    "phone": "(802) 863-2048",
+    "phoneUnformatted": "+18028632048",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5376773,
+      "lng": -73.2474261
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJleNT_elvykwRjKdgI3BdNhI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca6fe9fd53e395:0x12365d702360a78c",
+    "cid": "1312339077636335500",
+    "reviewsCount": 2,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:09.362Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJleNT_elvykwRjKdgI3BdNhI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@39.68245004733214,-80.15361988608069,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPK_jFzCte4HOr1P95DJBalri-M3lPjcZZvqOXW=w525-h240-k-no",
+    "kgmid": "/g/11qsp0zcbx",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Pharmacy - Fanny Allen, University of Vermont Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Fanny Allen Campus, Medical Office Building, 792 College Pkwy Suite 103, Colchester, VT 05446",
+    "neighborhood": null,
+    "street": "Fanny Allen Campus, Medical Office Building, 792 College Pkwy Suite 103",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.uvmhealth.org/medcenter/Pages/Departments-and-Programs/pharmacy-services.aspx",
+    "phone": "(802) 847-7461",
+    "phoneUnformatted": "+18028477461",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4967911,
+      "lng": -73.1570131
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAfRDF6hwykwRRsRxfBcVw6s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca70a81743f401:0xabc315177c71c446",
+    "cid": "12376759391560516678",
+    "reviewsCount": 8,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:09.709Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20-%20Fanny%20Allen%2C%20University%20of%20Vermont%20Medical%20Center&query_place_id=ChIJAfRDF6hwykwRRsRxfBcVw6s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@-14.035020572810657,-170.69640815,12z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-SyGRi-YUbQMhXBRhIa0qZEHWsG_DBW-wH4R5pITYykO2NMvdlnTJc0_kFl9mVw104X3_4N2ixUGLrUU1RI8axvVRjGhvmtOAHptvLrY-NVP6CWteZwLPtWQrNo8UX687Kmk=w408-h240-k-no-pi-10-ya60.000004-ro-0-fo100",
+    "kgmid": "/g/11dxhzv1gr",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "FREEDOM PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "434 Hurricane Ln, Williston, VT 05495",
+    "neighborhood": null,
+    "street": "434 Hurricane Ln",
+    "city": "Williston",
+    "postalCode": "05495",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "http://www.freedompharmacyvt.com/",
+    "phone": "(802) 655-3544",
+    "phoneUnformatted": "+18026553544",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4361188,
+      "lng": -73.1074546
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a782f3e4891:0xda29c235c7109814",
+    "cid": "15720309510542235668",
+    "reviewsCount": 11,
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:34.221Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=FREEDOM%20PHARMACY&query_place_id=ChIJkUg-L3h6ykwRFJgQxzXCKdo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPEF2GWTrTSzYZpI3VraQC218Y96y8mF199HxBM=w408-h544-k-no",
+    "kgmid": "/g/1tjy13bq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "Walgreens",
+    "description": "Drugstore chain with health & beauty aids, prescriptions & photo services, plus mini-mart basics.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1184 Prim Rd, Colchester, VT 05446",
+    "neighborhood": "Malletts Bay",
+    "street": "1184 Prim Rd",
+    "city": "Colchester",
+    "postalCode": "05446",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1184+prim+rd-colchester-vt-05446/id=17183",
+    "phone": "(802) 863-2048",
+    "phoneUnformatted": "+18028632048",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.5376222,
+      "lng": -73.2473778
+    },
+    "locatedIn": "Walgreens Pharmacy",
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqwfP_YhvykwRRtmtJtFJD3E",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store"
+    ],
+    "fid": "0x4cca6f88fdcf07ab:0x710f49d126add946",
+    "cid": "8146811413582436678",
+    "reviewsCount": 17,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:34.221Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Walgreens Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Walgreens Photo": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens&query_place_id=ChIJqwfP_YhvykwRRtmtJtFJD3E",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4not7SC0rPLqfBOmJbwgFDSjivMdzos-OwpFzdfwyrTUXQTqPsoL-_6my26WMMCKGiIgH0j9AWG1Ijabg_eXhW2chtkvtIa8hn8SlW4hW0BLWvwyRWO9JNtHbu9YTctehTbNYxtSiQ=w408-h306-k-no",
+    "kgmid": "/g/11fswlwkx1",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Pharmacy - 1 South Prospect, University of Vermont Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1 South Prospect Street Arnold, Level 1, Burlington, VT 05401",
+    "neighborhood": null,
+    "street": "1 South Prospect Street Arnold, Level 1",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "VT",
+    "countryCode": "US",
+    "website": "https://www.uvmhealth.org/medcenter/Pages/Departments-and-Programs/pharmacy-services.aspx",
+    "phone": "(802) 847-3784",
+    "phoneUnformatted": "+18028473784",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4802153,
+      "lng": -73.2012794
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCfJ4oF56ykwRDBhbZGG1X_I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7a5ea078f209:0xf25fb561645b180c",
+    "cid": "17464877309866219532",
+    "reviewsCount": 14,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:34.221Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20-%201%20South%20Prospect%2C%20University%20of%20Vermont%20Medical%20Center&query_place_id=ChIJCfJ4oF56ykwRDBhbZGG1X_I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npjoiezD8hD3yKX8VGPPKdwLkjuqy8beVz7BEVOGnl8VRu3VuWUjo7xbhZh5FIA5G3ShOm-f0yymuHI_qesAR8i3ZVmzfv7IG_Uu8CdhJC3Vk5cKry6VgzPXndd2p905D7gP31_eg=w408-h240-k-no-pi-0-ya2.0100057-ro-0-fo100",
+    "kgmid": "/g/1txnp2c5",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Community Health Centers - Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "617 Riverside Ave. Suite 1, Burlington, VT 05401",
+    "neighborhood": "Old North End",
+    "street": "617 Riverside Ave. Suite 1",
+    "city": "Burlington",
+    "postalCode": "05401",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.chcb.org/services/pharmacy/",
+    "phone": "(802) 318-4191",
+    "phoneUnformatted": "+18023184191",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.4901289,
+      "lng": -73.2061206
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x4cca7b42496213c7:0x980c47247883bf17",
+    "cid": "10956210215451868951",
+    "reviewsCount": 3,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:34.221Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Centers%20-%20Pharmacy&query_place_id=ChIJxxNiSUJ7ykwRF7-DeCRHDJg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPxshF8GR5o3d6fLp2QFCzLipKdVj5YsLknG6Ga=w426-h240-k-no",
+    "kgmid": "/g/11kryg5_mc",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Fairfax Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "997 Main St, Fairfax, VT 05454",
+    "neighborhood": null,
+    "street": "997 Main St",
+    "city": "Fairfax",
+    "postalCode": "05454",
+    "state": "Vermont",
+    "countryCode": "US",
+    "website": "https://www.notchvt.org/",
+    "phone": "(802) 849-2101",
+    "phoneUnformatted": "+18028492101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.656769,
+      "lng": -73.008477
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Community health centre"
+    ],
+    "fid": "0x4cca0b0f7a0fab45:0x1bdb04d6448dc60b",
+    "cid": "2007203377243342347",
+    "reviewsCount": 18,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:34.221Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Offers free or low-cost care based on individual circumstances": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fairfax%20Pharmacy&query_place_id=ChIJRasPeg8LykwRC8aNRNYE2xs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@45.410355141996405,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tb0WqMsFqzbiIEDB8GnSEA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=88.72681&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tcxjd20",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "119 S Main St, Colchester, CT 06415",
+    "neighborhood": "Colchester",
+    "street": "119 S Main St",
+    "city": "Colchester",
+    "postalCode": "06415",
+    "state": "Connecticut",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/colchester-ct-pharmacies/119-s-main-st-colchester-ct-06415/storeid=5848?WT.mc_id=LS_GOOGLE_RX_5848",
+    "phone": "(860) 537-0711",
+    "phoneUnformatted": "+18605370711",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.5729092,
+      "lng": -72.3304656
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJLfwLUP1p5okRMxbIKAorTck",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e669fd500bfc2d:0xc94d2b0a28c81633",
+    "cid": "14505297297464104499",
+    "reviewsCount": 13,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:46.675Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJLfwLUP1p5okRMxbIKAorTck",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOBW1CtmBflVzxJwAJkoFJSb7opohhrwpFDWguM=w408-h272-k-no",
+    "kgmid": "/g/11c46bfhz7",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "(603) 730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:08:46.675Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@42.54640259466427,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  },
+  {
+    "title": "Department of Pharmacology - University of Vermont",
+    "price": null,
+    "categoryName": "Faculty of pharmacy",
+    "address": "Given Medical Bldg, UVM College of Medicine B-333, 89 Beaumont Ave, Burlington, VT 05405",
+    "neighborhood": "Centennial",
+    "street": "Given Medical Bldg, UVM College of Medicine B-333, 89 Beaumont Ave",
+    "city": "Burlington",
+    "postalCode": "05405",
+    "state": "VT",
+    "countryCode": "US",
+    "website": "http://www.med.uvm.edu/pharmacology/",
+    "phone": "(802) 656-2500",
+    "phoneUnformatted": "+18026562500",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 44.4779232,
+      "lng": -73.1932744
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Faculty of pharmacy"
+    ],
+    "fid": "0x4cca7a44a867b409:0x67290a7750d60661",
+    "cid": "7433484167525303905",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T10:09:14.521Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Department%20of%20Pharmacology%20-%20University%20of%20Vermont&query_place_id=ChIJCbRnqER6ykwRYQbWUHcKKWc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Colchester%20VT/@44.4807158,-73.2090145,13.51566078598224z?hl=en",
+    "searchString": "independent pharmacy Colchester VT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jvtSeUcdKy2fy1nqZ3-x7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.81625&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tlw8pz7",
+    "classification": "not_a_pharmacy",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 1.0,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "colchester_vt"
+  }
+]

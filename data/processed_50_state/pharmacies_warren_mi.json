@@ -1,0 +1,2543 @@
+[
+  {
+    "title": "Pharmacy Near Me",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "28401 Hoover Rd, Warren, MI 48093",
+    "neighborhood": null,
+    "street": "28401 Hoover Rd",
+    "city": "Warren",
+    "postalCode": "48093",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.pharmacynearmee.com/",
+    "phone": "(586) 619-7014",
+    "phoneUnformatted": "+15866197014",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.502987,
+      "lng": -83.007126
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824dbc4e74f21a5:0x42f0e530c8634718",
+    "cid": "4823607198596941592",
+    "reviewsCount": 204,
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.839Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "American Sign Language": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Near%20Me&query_place_id=ChIJpSFP58TbJIgRGEdjyDDl8EI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBJ1z10blDGIE4ECvLKmf1pNlm_4KUC_pMv5AO=w408-h306-k-no",
+    "kgmid": "/g/11y2cmbkkc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Community Rx Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "27124 Dequindre Rd, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "27124 Dequindre Rd",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 920-2225",
+    "phoneUnformatted": "+15869202225",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4922749,
+      "lng": -83.0842274
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824cffb7a7e8987:0xe94182f15814b730",
+    "cid": "16807859257399883568",
+    "reviewsCount": 50,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.840Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Rx%20Pharmacy&query_place_id=ChIJh4l-evvPJIgRMLcUWPGCQek",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNBHvUUvNofNVaym2kUPKzcN5sOirisEjxei77A=w426-h240-k-no",
+    "kgmid": "/g/11b6gm4qb8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "iScript Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "29230 Ryan Rd STE B, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "29230 Ryan Rd STE B",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 806-0101",
+    "phoneUnformatted": "+15868060101",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5076167,
+      "lng": -83.0669568
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824db26c5759921:0xfa5fc7df5e8b9580",
+    "cid": "18041358394447336832",
+    "reviewsCount": 14,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=iScript%20Pharmacy&query_place_id=ChIJIZl1xSbbJIgRgJWLXt_HX_o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npc3qgnrad109Bvsr_Q39pr97zzeJA9RMFGNEdUFVDv7gNw7Tw002KbvIxeEQb77eV8uwRq7HdGqnRO4cguMxEWLHozzMXg463dzvafqcfYd4XL1DmnrWHgOvlzXqNqTkpPh2-J=w408-h544-k-no",
+    "kgmid": "/g/11l0lq0hqk",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Star Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "24831 Ryan Rd, Warren, MI 48091",
+    "neighborhood": "Fitzgerald",
+    "street": "24831 Ryan Rd",
+    "city": "Warren",
+    "postalCode": "48091",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.starpharmacy-mi.com/",
+    "phone": "(586) 486-5037",
+    "phoneUnformatted": "+15864865037",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4754675,
+      "lng": -83.065843
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d03cf9d34923:0x8a85d9761c0ff861",
+    "cid": "9981623250436749409",
+    "reviewsCount": 40,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Star%20Pharmacy&query_place_id=ChIJI0nT-TzQJIgRYfgPHHbZhYo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNo3AO5VJft2hKIKbA37NYm1IGVn_8QQXPLhDkX=w408-h544-k-no",
+    "kgmid": "/g/11gd38kxf5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Warren Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11460 12 Mile Rd, Warren, MI 48093",
+    "neighborhood": null,
+    "street": "11460 12 Mile Rd",
+    "city": "Warren",
+    "postalCode": "48093",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.warrencarepharmacy.com/",
+    "phone": "(586) 722-2842",
+    "phoneUnformatted": "+15867222842",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5065948,
+      "lng": -83.0089865
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8824da118170846f:0xf12547daf00520dc",
+    "cid": "17376373742934237404",
+    "reviewsCount": 42,
+    "imagesCount": 49,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Warren%20Care%20Pharmacy&query_place_id=ChIJb4RwgRHaJIgR3CAF8NpHJfE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npHw1btGb6byF5ScYEtRzXd2IrX2pmz2myGcFqPlCpcYz5EIqnneeVwy-oqZ8Onl1N_rTljIZ_kDsoe1GMA3tAuGqYoKnGfgIzRDZLle_mgLztu21or6TNOcMSkrIiKG4ZjU0eA=w408-h306-k-no",
+    "kgmid": "/g/11f2gscmrt",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Matrix Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5827 E Thirteen Mile Rd, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "5827 E Thirteen Mile Rd",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.facebook.com/matrixpharmacy",
+    "phone": "(586) 883-6047",
+    "phoneUnformatted": "+15868836047",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5212204,
+      "lng": -83.048052
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824daee6d16b0eb:0x562112ff3df156a6",
+    "cid": "6206262648958441126",
+    "reviewsCount": 4,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Matrix%20Pharmacy&query_place_id=ChIJ67AWbe7aJIgRplbxPf8SIVY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPeLN0AZs_rfTXqkdtYV_hTpYsAbY3LyVFPeMxI=w408-h272-k-no",
+    "kgmid": "/g/11n_4dcn0j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "U.S. Discount Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "30050 Hoover Rd Suite G, Warren, MI 48093",
+    "neighborhood": "Warren Woods",
+    "street": "30050 Hoover Rd Suite G",
+    "city": "Warren",
+    "postalCode": "48093",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://usdiscountpharmacy.com/",
+    "phone": "(586) 578-9621",
+    "phoneUnformatted": "+15865789621",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5147958,
+      "lng": -83.0069037
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824dbf52dd1d9ef:0x46935dfab960a2e5",
+    "cid": "5085511735664747237",
+    "reviewsCount": 1,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=U.S.%20Discount%20Pharmacy&query_place_id=ChIJ79nRLfXbJIgR5aJgufpdk0Y",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPa5A-rxllWviBpCSYMl9whx801A4LWq5cMBwtY=w408-h502-k-no",
+    "kgmid": "/g/11v5g3w76n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CareRX Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13201 Stephens Rd Suite G, Warren, MI 48089",
+    "neighborhood": null,
+    "street": "13201 Stephens Rd Suite G",
+    "city": "Warren",
+    "postalCode": "48089",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://care-rx.co/",
+    "phone": "(800) 267-0352",
+    "phoneUnformatted": "+18002670352",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4723541,
+      "lng": -82.9908531
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d70160ead715:0xe05bfd900ac40f70",
+    "cid": "16166794082474266480",
+    "reviewsCount": 11,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CareRX%20Specialty%20Pharmacy&query_place_id=ChIJFdfqYAHXJIgRcA_ECpD9W-A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMAydn-L708R8oTfbut2pXgwj3wWIlmcRWk9nhD=w408-h275-k-no",
+    "kgmid": "/g/11f9zzmttd",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "3 Brothers Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "25656 Schoenherr Rd Suite B, Warren, MI 48089",
+    "neighborhood": "Warren Woods",
+    "street": "25656 Schoenherr Rd Suite B",
+    "city": "Warren",
+    "postalCode": "48089",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 298-6282",
+    "phoneUnformatted": "+15862986282",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4836997,
+      "lng": -82.9864755
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d7b280fc6857:0x529022041bb8253c",
+    "cid": "5949292508796691772",
+    "reviewsCount": 12,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=3%20Brothers%20Pharmacy&query_place_id=ChIJV2j8gLLXJIgRPCW4GwQikFI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z-S5-qYqatFgeVJTZKk9YQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=69.25254&pitch=0&thumbfov=100",
+    "kgmid": "/g/11j7w54z9_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "JP Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "27301 Schoenherr Rd #106, Warren, MI 48088",
+    "neighborhood": "Warren Woods",
+    "street": "27301 Schoenherr Rd #106",
+    "city": "Warren",
+    "postalCode": "48088",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 203-8444",
+    "phoneUnformatted": "+15862038444",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4951193,
+      "lng": -82.9875512
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Veterinary pharmacy"
+    ],
+    "fid": "0x8824d9fe77ac8b33:0xe59ce0c0883ff9de",
+    "cid": "16545346248576596446",
+    "reviewsCount": 21,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JP%20Pharmacy&query_place_id=ChIJM4usd_7ZJIgR3vk_iMDgnOU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npk34aWuEtSoR79hLiuuVPIuhmIw7Hf-9Du0yU7GOni_JVFFHUP1M5Koq2nQcWpUN-hPTwelrEjfxsUWaQNARp_I8wlqMApve-yWJfyDrxSWdGDJemrUsk7j482uaS4xwTo2mpf=w408-h544-k-no",
+    "kgmid": "/g/11f_c0jwm2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Brightscript Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "28577 Schoenherr Rd, Warren, MI 48088",
+    "neighborhood": "Warren Woods",
+    "street": "28577 Schoenherr Rd",
+    "city": "Warren",
+    "postalCode": "48088",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 573-8300",
+    "phoneUnformatted": "+15865738300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5046675,
+      "lng": -82.9879292
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d9f0cf1e286d:0xfe363ff51b92692c",
+    "cid": "18317898856338188588",
+    "reviewsCount": 51,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.841Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Arabic": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brightscript%20Pharmacy&query_place_id=ChIJbSgez_DZJIgRLGmSG_U_Nv4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nouNPgW0Is8i6jx4iZf7O0LQkoChr3KjVNcT7qorFZYjOe76WH7flo4Mj6Z3Cf0lNLL5maskWpAOK36c9rXwBSQWlayvFKIzoYvRwC9YQFmE467zYw0VH_d2WBVNkajD-SBvszf=w408-h306-k-no",
+    "kgmid": "/g/1tdblmfy",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Abe's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13760 12 Mile Rd, Warren, MI 48088",
+    "neighborhood": "Warren Woods",
+    "street": "13760 12 Mile Rd",
+    "city": "Warren",
+    "postalCode": "48088",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://www.abesdrug.com/",
+    "phone": "(586) 362-8404",
+    "phoneUnformatted": "+15863628404",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.506714,
+      "lng": -82.9862404
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Convenience store",
+      "Tobacco shop"
+    ],
+    "fid": "0x8824d9f16b1a399b:0xc7aa358201574323",
+    "cid": "14387370792072987427",
+    "reviewsCount": 197,
+    "imagesCount": 34,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Abe's%20Pharmacy&query_place_id=ChIJmzkaa_HZJIgRI0NXAYI1qsc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOyXE0VYKSq5IcvgYeJeQ9Nn4ReaBr4Jb2HgAbK=w408-h306-k-no",
+    "kgmid": "/g/11dfsk8fmg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Village Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6213 Chicago Rd #200, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "6213 Chicago Rd #200",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "http://thevillagerx.net/",
+    "phone": "(586) 751-7979",
+    "phoneUnformatted": "+15867517979",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5249433,
+      "lng": -83.0422451
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Assisted living facility"
+    ],
+    "fid": "0x8824da4721c56959:0x6911090909e35ac8",
+    "cid": "7570842383011764936",
+    "reviewsCount": 16,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Village%20Pharmacy&query_place_id=ChIJWWnFIUfaJIgRyFrjCQkJEWk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYu9eAyZN86kHOgl9lm_NFu6fi4swZPclLFXw=w408-h544-k-no",
+    "kgmid": "/g/1td5m9yz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.92,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Hayat Pharmacy LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4019 E 9 Mile Rd, Warren, MI 48091",
+    "neighborhood": "Fitzgerald",
+    "street": "4019 E 9 Mile Rd",
+    "city": "Warren",
+    "postalCode": "48091",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 510-4870",
+    "phoneUnformatted": "+15865104870",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4625669,
+      "lng": -83.0655212
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d11b7654cd49:0x9b3413636fbb1525",
+    "cid": "11183585092465005861",
+    "reviewsCount": 5,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2:30 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "12\u20137:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12\u20137:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12\u20137:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12\u20137:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12\u20137:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "2\u20136:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "1:30\u20132:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hayat%20Pharmacy%20LLC&query_place_id=ChIJSc1UdhvRJIgRJRW7b2MTNJs",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNy0mL6PGdLYadIYCXV_vPJun3uJMjbUnLt0gyd=w408-h364-k-no",
+    "kgmid": "/g/11vz5s2xx6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Greater Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "24800 Hoover Rd B, Warren, MI 48089",
+    "neighborhood": null,
+    "street": "24800 Hoover Rd B",
+    "city": "Warren",
+    "postalCode": "48089",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://greatercarepharmacyrx.com/",
+    "phone": "(586) 486-5008",
+    "phoneUnformatted": "+15864865008",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.476307,
+      "lng": -83.004522
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Pharmaceutical company"
+    ],
+    "fid": "0x8824d0b824a422e7:0x830b3af85fec4661",
+    "cid": "9442705882147997281",
+    "reviewsCount": 189,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Greater%20Care%20Pharmacy&query_place_id=ChIJ5yKkJLjQJIgRYUbsX_g6C4M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOCG5Kru3ASb1jZarPBpwaCmQEFSJV6_8kk20i5=w408-h306-k-no",
+    "kgmid": "/g/11c2l8rkvf",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PCS PHARMACY",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "27472 Schoenherr Rd #100, Warren, MI 48088",
+    "neighborhood": "Warren Woods",
+    "street": "27472 Schoenherr Rd #100",
+    "city": "Warren",
+    "postalCode": "48088",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(248) 289-7054",
+    "phoneUnformatted": "+12482897054",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 42.4954014,
+      "lng": -82.9862709
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824c65488e55555:0xb892a17211a44d03",
+    "cid": "13299870160872819971",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PCS%20PHARMACY&query_place_id=ChIJVVXliFTGJIgRA02kEXKhkrg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ONG2n0hZCgJLWX9GSbjXkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.30066&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ggr5tcpb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.7,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Ascension Rx - Warren Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "11800 12 Mile Rd, Warren, MI 48093",
+    "neighborhood": "Warren Woods",
+    "street": "11800 12 Mile Rd",
+    "city": "Warren",
+    "postalCode": "48093",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 573-5850",
+    "phoneUnformatted": "+15865735850",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5058045,
+      "lng": -83.0054187
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTwH-HmvbJIgRlXfFNWcUhJY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824db6b1efe014f:0x9684146735c57795",
+    "cid": "10845816236131317653",
+    "reviewsCount": 12,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ascension%20Rx%20-%20Warren%20Pharmacy&query_place_id=ChIJTwH-HmvbJIgRlXfFNWcUhJY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNGh_rB1RThbmhcTwyLb9uYEbrhJwWwO20MyOX-=w426-h240-k-no",
+    "kgmid": "/g/11ghw1b6mn",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Ryan Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "23421 Ryan Rd, Warren, MI 48091",
+    "neighborhood": "Fitzgerald",
+    "street": "23421 Ryan Rd",
+    "city": "Warren",
+    "postalCode": "48091",
+    "state": "Michigan",
+    "countryCode": "US",
+    "phone": "(586) 755-0040",
+    "phoneUnformatted": "+15867550040",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.4653655,
+      "lng": -83.0648995
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824d0310e01e5ab:0x9def3d192f863248",
+    "cid": "11380381961769333320",
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ryan%20Pharmacy%20Inc&query_place_id=ChIJq-UBDjHQJIgRSDKGLxk9750",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JTjYYGc-dj_S9PlGBljoEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.57877&pitch=0&thumbfov=100",
+    "kgmid": "/g/1td65yn6",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Warren Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "28792 Ryan Rd, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "28792 Ryan Rd",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.warrenfamilypharmacy.com/",
+    "phone": "(586) 510-4252",
+    "phoneUnformatted": "+15865104252",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5044214,
+      "lng": -83.0663505
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8824daa590e5ac09:0x1312e31bac0da7d6",
+    "cid": "1374410544291620822",
+    "reviewsCount": 28,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Warren%20Pharmacy&query_place_id=ChIJCazlkKXaJIgR1qcNrBvjEhM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO3_WfxAiRvJQ3xawvvQSNDeoSoPWLsYBZl3wSt=w426-h240-k-no",
+    "kgmid": "/g/11cmrp0hzc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Best Care Pharmacy Plus",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "31500 Dequindre Rd Suite 300, Warren, MI 48092",
+    "neighborhood": null,
+    "street": "31500 Dequindre Rd Suite 300",
+    "city": "Warren",
+    "postalCode": "48092",
+    "state": "Michigan",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/best-care-pharmacy-plus-warren-mi-48092/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=2388761",
+    "phone": "(586) 999-5544",
+    "phoneUnformatted": "+15869995544",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 42.5234721,
+      "lng": -83.0858413
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdZ4xPqrFJIgRacUJBKs_I3c",
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x8824c5aa3e319e75:0x77233fab0409c569",
+    "cid": "8584775318438004073",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T05:47:56.842Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Care%20Pharmacy%20Plus&query_place_id=ChIJdZ4xPqrFJIgRacUJBKs_I3c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Warren%20MI/@25.56842116934802,-170.69765594300242,13z?hl=en",
+    "searchString": "independent pharmacy Warren MI",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9nZFl0OFeO9HlsLt2QKEw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.56031&pitch=0&thumbfov=100",
+    "kgmid": "/g/11mqj2zp8c",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

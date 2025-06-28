@@ -1,0 +1,2466 @@
+[
+  {
+    "title": "Bernie's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4100 Lake Otis Pkwy STE 200, Anchorage, AK 99508",
+    "neighborhood": "Tudor Area",
+    "street": "4100 Lake Otis Pkwy STE 200",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.berniespharmacy.com/",
+    "phone": "(907) 562-2138",
+    "phoneUnformatted": "+19075622138",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1828815,
+      "lng": -149.8399346
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x56c897a631f1a021:0x50c37fafb43f3509",
+    "cid": "5819635536112858377",
+    "reviewsCount": 77,
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:17.032Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bernie's%20Pharmacy&query_place_id=ChIJIaDxMaaXyFYRCTU_tK9_w1A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@56.01120730753697,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npJSQAjzHezcZsLvaz7BtrHYQutIRZPK9N4l0j-yCEngwz9NT0Kqz0BU5ZgwMliOB7TToPxsRyfuwzgsXsiDYxJU2JQCnsqe3zoVC3KN4Xt9D5YD3vnZKjHbIT6UWsMtew9oQmu=w408-h306-k-no",
+    "kgmid": "/g/1tffjht8",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Credena Health Pharmacy Anchorage",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3300 Providence Dr #101, Anchorage, AK 99508",
+    "neighborhood": "U-MED District",
+    "street": "3300 Providence Dr #101",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.cornerdrugstore.com/?corpID=308200&pharmID=1995",
+    "phone": "(907) 212-5090",
+    "phoneUnformatted": "+19072125090",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1883214,
+      "lng": -149.8177466
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfcgBSwCXyFYRUcPX_kpmfRc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c897004b01c87d:0x177d664afed7c351",
+    "cid": "1692621507250340689",
+    "reviewsCount": 23,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:17.034Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "1:30\u20132\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Credena%20Health%20Pharmacy%20Anchorage&query_place_id=ChIJfcgBSwCXyFYRUcPX_kpmfRc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@56.01120730753697,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqW3hzjAxxqmdt8kdN4pf-aWOUZ7Z7Pi14sVLtWeMM6Ij9qMvBHG6MRZf4MoBg8ONQbhyiJD6x6YAPvoKv1NLy0JykUjxGkjXtzotwrTED4rb5aCnJLho_wc1RgAEIq_PVmw-c=w408-h278-k-no",
+    "kgmid": "/g/1tv23wt4",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Amp Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4101 Arctic Blvd B, Anchorage, AK 99503",
+    "neighborhood": "Midtown",
+    "street": "4101 Arctic Blvd B",
+    "city": "Anchorage",
+    "postalCode": "99503",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://amppharmacy.com/",
+    "phone": "(907) 770-6081",
+    "phoneUnformatted": "+19077706081",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.1838435,
+      "lng": -149.8973897
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c897ea18153435:0x75b0a86c6e4b22dc",
+    "cid": "8480463281998996188",
+    "reviewsCount": 5,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:17.034Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Amp%20Pharmacy&query_place_id=ChIJNTQVGOqXyFYR3CJLbmyosHU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@56.01120730753697,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D3IAWPn8z4qPaVeeQ5msqA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=87.107056&pitch=0&thumbfov=100",
+    "kgmid": "/g/1th7y29p",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Frontier Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "907 E Dowling Rd # 23, Anchorage, AK 99518",
+    "neighborhood": "Taku / Campbell",
+    "street": "907 E Dowling Rd # 23",
+    "city": "Anchorage",
+    "postalCode": "99518",
+    "state": "Alaska",
+    "countryCode": "US",
+    "phone": "(907) 222-0668",
+    "phoneUnformatted": "+19072220668",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.1673143,
+      "lng": -149.8652628
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": true,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c89626aaaaaaab:0xb23c74c7a41e59e6",
+    "cid": "12843268638154578406",
+    "reviewsCount": 1,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:17.034Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Frontier%20Pharmacy&query_place_id=ChIJq6qqqiaWyFYR5lkepMd0PLI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@56.01120730753697,-155.41210894270387,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "kgmid": "/g/1vcq7b51",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4120 Laurel St STE 102, Anchorage, AK 99508",
+    "neighborhood": "U-MED District",
+    "street": "4120 Laurel St STE 102",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(907) 891-7079",
+    "phoneUnformatted": "+19078917079",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1833498,
+      "lng": -149.8349775
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9x_JwB2XyFYRVlmHM2HjGVc",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c8971dc0c91ff7:0x5719e36133875956",
+    "cid": "6276297562333337942",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJ9x_JwB2XyFYRVlmHM2HjGVc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MgDOFYoc44-WNs3_Lii3gQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=5.8384185&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fd67n_nv",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4000 W Dimond Blvd, Anchorage, AK 99502",
+    "neighborhood": "Sand Lake",
+    "street": "4000 W Dimond Blvd",
+    "city": "Anchorage",
+    "postalCode": "99502",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/4000-w-dimond-blvd.html",
+    "phone": "(907) 339-1260",
+    "phoneUnformatted": "+19073391260",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1363996,
+      "lng": -149.9534226
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c8986866931a6d:0xa7fb2b89e9cd2356",
+    "cid": "12104316294821389142",
+    "reviewsCount": 17,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJbRqTZmiYyFYRViPN6Ykr-6c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMBzuUIIh5bgn4S_uclNoX8UhlPdXDqOW_SwKz7=w426-h240-k-no",
+    "kgmid": "/g/1tgxt8g1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "ANMC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4315 Diplomacy Dr, Anchorage, AK 99508",
+    "neighborhood": "U-MED District",
+    "street": "4315 Diplomacy Dr",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://anmc.org/services/pharmacy/",
+    "phone": "(907) 729-2117",
+    "phoneUnformatted": "+19077292117",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.1829647,
+      "lng": -149.7999673
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN6qnTQCXyFYRL9M0lnLtw9I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c897004da7aa37:0xd2c3ed729634d32f",
+    "cid": "15187243444825543471",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ANMC%20Pharmacy&query_place_id=ChIJN6qnTQCXyFYRL9M0lnLtw9I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fXWDGRzTb7gA2pxdr6TVeQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.3813&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ln5hbzmv",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1650 W Northern Lights Blvd, Anchorage, AK 99517",
+    "neighborhood": "Spenard",
+    "street": "1650 W Northern Lights Blvd",
+    "city": "Anchorage",
+    "postalCode": "99517",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/1650-w-northern-lights-blvd.html",
+    "phone": "(907) 339-0560",
+    "phoneUnformatted": "+19073390560",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1942074,
+      "lng": -149.9152976
+    },
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c897dedc60bdef:0xb97a5a56763bf1e4",
+    "cid": "13365094171572695524",
+    "reviewsCount": 45,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJ771g3N6XyFYR5PE7dlZaerk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq4tflA7ixislWBnXQo7-IsPTNmsmUlnH5PWiMwnWXDMuT95CP-Y7MwnUvNgTHzc0H3WOrl5Gt9vybT9y_BdkOI3A5n5Ko9oknwrUp7gkrlN-Tfl7zxa87SUGPTcvkXB3VBg2Q=w408-h409-k-no",
+    "kgmid": "/g/1pv08q_4y",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Alaska Managed Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5600 DeBarr Rd UNIT 8, Anchorage, AK 99504",
+    "neighborhood": "Northeast Anchorage",
+    "street": "5600 DeBarr Rd UNIT 8",
+    "city": "Anchorage",
+    "postalCode": "99504",
+    "state": "Alaska",
+    "countryCode": "US",
+    "phone": "(907) 274-6001",
+    "phoneUnformatted": "+19072746001",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.2082825,
+      "lng": -149.7763835
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c8968d3c945571:0x9d9c70a97e03a60e",
+    "cid": "11357076233587500558",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alaska%20Managed%20Care%20Pharmacy&query_place_id=ChIJcVWUPI2WyFYRDqYDfqlwnJ0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vdK_j5ORc76ag-n1zGRfLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=184.50095&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tcvtlh1",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "ANTHC Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3900 Ambassador Dr, Anchorage, AK 99508",
+    "neighborhood": "U-MED District",
+    "street": "3900 Ambassador Dr",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://anmc.org/services/pharmacy/",
+    "phone": "(907) 729-2117",
+    "phoneUnformatted": "+19077292117",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.1820245,
+      "lng": -149.8067723
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt2ctkwuXyFYRrct42EUB97o",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c8970b932d67b7:0xbaf70145d878cbad",
+    "cid": "13472238209798294445",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ANTHC%20Pharmacy&query_place_id=ChIJt2ctkwuXyFYRrct42EUB97o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D2I-ZyIZ6yDySe4WiWb7SQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=123.22854&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h8b9nw3f",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7731 E Northern Lights Blvd, Anchorage, AK 99504",
+    "neighborhood": "Northeast Anchorage",
+    "street": "7731 E Northern Lights Blvd",
+    "city": "Anchorage",
+    "postalCode": "99504",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/7731-e-northern-lights-blvd.html",
+    "phone": "(907) 339-1760",
+    "phoneUnformatted": "+19073391760",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1966673,
+      "lng": -149.7360049
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c896c7e284425f:0x2cc9fb24396d910c",
+    "cid": "3227386740988547340",
+    "reviewsCount": 32,
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.690Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJX0KE4seWyFYRDJFtOST7ySw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noYggdvSqdcivonhzOvmeCKCOvQskuKAWVhPs3mZo_U6VeJLtPeMCE1nTzFJSi9G7yHtXqnr7N3SjBQueMnya5_K86SuVeDxS_Y_PJx9ReQ79xCVh2_asRwDx4wtIVmdlhgRL0wSw=w408-h283-k-no",
+    "kgmid": "/g/12lw7jfpb",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2920 Seward Hwy, Anchorage, AK 99503",
+    "neighborhood": "Midtown",
+    "street": "2920 Seward Hwy",
+    "city": "Anchorage",
+    "postalCode": "99503",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/2920-seward-hwy.html",
+    "phone": "(907) 339-0660",
+    "phoneUnformatted": "+19073390660",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1937765,
+      "lng": -149.8709114
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c89728f9e52729:0x35e866d80476bc67",
+    "cid": "3884467756580912231",
+    "reviewsCount": 19,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJKSfl-SiXyFYRZ7x2BNhm6DU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npslCRvnPn_2Pkk_1yvo903O0BbTS13D7c5WDCMa3b3TQfwd2W4hKUxhah5jLEhfj1d0-58s44C180XdgcPYOKOABrvIxKSrlBdnz-Je0kO-YDYRQUUuruMBiiWzX6Tfb9_lyaAcA=w408-h306-k-no",
+    "kgmid": "/g/11trlwl4sh",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Anchorage Native Primary Care Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4320 Diplomacy Dr, Anchorage, AK 99508",
+    "neighborhood": "U-MED District",
+    "street": "4320 Diplomacy Dr",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.southcentralfoundation.com/services/pharmacy/",
+    "phone": "(907) 729-4172",
+    "phoneUnformatted": "+19077294172",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.1814242,
+      "lng": -149.799862
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI2G5BleXyFYRnPwg8Bq7kLw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c8975706b96123:0xbc90bb1af020fc9c",
+    "cid": "13587565800149023900",
+    "reviewsCount": 0,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Anchorage%20Native%20Primary%20Care%20Center%20Pharmacy&query_place_id=ChIJI2G5BleXyFYRnPwg8Bq7kLw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=prRSt6LfGfRXFuzAxYTb5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.249943&pitch=0&thumbfov=100",
+    "kgmid": "/g/11fnqk0xd0",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "5600 DeBarr Rd, Anchorage, AK 99504",
+    "neighborhood": "Northeast Anchorage",
+    "street": "5600 DeBarr Rd",
+    "city": "Anchorage",
+    "postalCode": "99504",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/5600-debarr-rd.html",
+    "phone": "(907) 339-0960",
+    "phoneUnformatted": "+19073390960",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.2081545,
+      "lng": -149.7770566
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c8968d3c945571:0xdf2c27322440723b",
+    "cid": "16081271465743249979",
+    "reviewsCount": 18,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJcVWUPI2WyFYRO3JAJDInLN8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNUPR2F0Rx3oBzJpFnWuX17bLjS-waSmNrdY0Tk=w426-h240-k-no",
+    "kgmid": "/g/1ptzk1p69",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Carrs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1725 Abbott Rd, Anchorage, AK 99507",
+    "neighborhood": "Abbott Loop",
+    "street": "1725 Abbott Rd",
+    "city": "Anchorage",
+    "postalCode": "99507",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.carrsqc.com/ak/anchorage/1725-abbott-rd.html",
+    "phone": "(907) 339-2860",
+    "phoneUnformatted": "+19073392860",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1422505,
+      "lng": -149.8438896
+    },
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x56c899deee255761:0x8fafaa4e5d9e6a59",
+    "cid": "10353681321902893657",
+    "reviewsCount": 27,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carrs%20Pharmacy&query_place_id=ChIJYVcl7t6ZyFYRWWqeXU6qr48",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOhAlnWoono5ZRJfGhOrhvWYYUcno1iDnVmDdgG=w426-h240-k-no",
+    "kgmid": "/g/1hc0sg7hr",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1000 E Northern Lights Blvd, Anchorage, AK 99508",
+    "neighborhood": "Rogers Park",
+    "street": "1000 E Northern Lights Blvd",
+    "city": "Anchorage",
+    "postalCode": "99508",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00011?cid=loc_70100011P_gmb",
+    "phone": "(907) 264-9633",
+    "phoneUnformatted": "+19072649633",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.194156,
+      "lng": -149.8638114
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX9dGZ7aXyFYR_wiJvRAS7sI",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x56c897b66746d75f:0xc2ee1210bd8908ff",
+    "cid": "14046184150923806975",
+    "reviewsCount": 35,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:18.691Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJX9dGZ7aXyFYR_wiJvRAS7sI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@62.95881800455232,-145.05491807162034,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noztiyc3Uo0oB7LbHeiKhnIOUYggbCgT7T2lpjvTo7tz8MJgnE6suAooXhVHoyhevUfDvQrLFLMqw7LGRyFNkydPHHTHQMAvRzpxNgsVH4UU2DegEv2g0ahqKqQsPDd4S718DBi=w408-h306-k-no",
+    "kgmid": "/g/1hdz9mmcz",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Anchorage VA Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1201 N Muldoon Rd, Anchorage, AK 99504",
+    "neighborhood": null,
+    "street": "1201 N Muldoon Rd",
+    "city": "Anchorage",
+    "postalCode": "99504",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.va.gov/alaska-health-care/pharmacy/",
+    "phone": "(907) 257-4700",
+    "phoneUnformatted": "+19072574700",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 61.2327171,
+      "lng": -149.744364
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x56c895264e1d5d7d:0x5d58cb236c7080e4",
+    "cid": "6726349396481442020",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:23.227Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Anchorage%20VA%20Pharmacy&query_place_id=ChIJfV0dTiaVyFYR5IBwbCPLWF0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@60.17977372574618,-146.20571705729628,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dOWPQqEzTXQRZv1PGtLGjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.49716&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kr6kcy9v",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Soldotna Professional Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "299 N Binkley St, Soldotna, AK 99669",
+    "neighborhood": null,
+    "street": "299 N Binkley St",
+    "city": "Soldotna",
+    "postalCode": "99669",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "http://www.soldotnapharmacy.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=201436",
+    "phone": "(907) 262-3800",
+    "phoneUnformatted": "+19072623800",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 60.4945546,
+      "lng": -151.0731048
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x56c663e098445141:0xf1c6340a2afccc3d",
+    "cid": "17421669426804870205",
+    "reviewsCount": 53,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:26.895Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Soldotna%20Professional%20Pharmacy&query_place_id=ChIJQVFEmOBjxlYRPcz8Kgo0xvE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@60.17977372574618,-151.95971198567602,9z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ydIyuWJu2kFj7H77CyvL6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=270.8964&pitch=0&thumbfov=100",
+    "kgmid": "/g/1th7y28x",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "anchorage_ak"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2000 W Dimond Blvd, Anchorage, AK 99515",
+    "neighborhood": "Bayshore / Klatt",
+    "street": "2000 W Dimond Blvd",
+    "city": "Anchorage",
+    "postalCode": "99515",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00071?cid=loc_70100071P_gmb",
+    "phone": "(907) 267-6733",
+    "phoneUnformatted": "+19072676733",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1360163,
+      "lng": -149.9193571
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiZf8OEiYyFYRXqmzougvcY0",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x56c8984838fc9789:0x8d712fe8a2b3a95e",
+    "cid": "10191980107924744542",
+    "reviewsCount": 24,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:37.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJiZf8OEiYyFYRXqmzougvcY0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@57.44195944302978,-170.44962461877225,12z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nosWwfCBveBbXQAjQU_6tQ1rY4o8WKiKF3bpjX-olu-J9EVOcoKXDThHXCyBcuqvxpj69xUmpMl7iQeX7rBTri5IYS1ju_03G5DM8qiZCMe5WLgyhISwrvgCYMMP5gGhgGk_d-2PA=w426-h240-k-no",
+    "kgmid": "/g/1tg_lc9w",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2300 Abbott Rd, Anchorage, AK 99507",
+    "neighborhood": "Abbott Loop",
+    "street": "2300 Abbott Rd",
+    "city": "Anchorage",
+    "postalCode": "99507",
+    "state": "Alaska",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00656?cid=loc_70100656P_gmb",
+    "phone": "(907) 365-2033",
+    "phoneUnformatted": "+19073652033",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 61.1358817,
+      "lng": -149.8385167
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpQGYP-eZyFYRuOB8uNMo6uQ",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x56c899e73f9801a5:0xe4ea28d3b87ce0b8",
+    "cid": "16495041474996265144",
+    "reviewsCount": 22,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:59:37.131Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJpQGYP-eZyFYRuOB8uNMo6uQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Anchorage%20AK/@57.44195944302978,-170.44962461877225,12z?hl=en",
+    "searchString": "independent pharmacy Anchorage AK",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsF5JSkx-julxKfGlYHfqQLWENi2Zn-kjqwfjoIM1BJq0XZA91-5wEUJnRWNZK1DIGZ_Fk7YzTDkiX_hk-yc76VJzob2y82LyjC6gHgOFZwBC55RXVdkzr6wjF4jc1X4F2St70Dw=w408-h544-k-no",
+    "kgmid": "/g/1hf0lsy1n",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

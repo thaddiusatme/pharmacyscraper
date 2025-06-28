@@ -1,0 +1,54 @@
+# YAML lint configuration for Cascade rules
+# Based on YAML 1.2 spec
+
+# Global configuration
+---
+extends: default
+
+document-start: disable
+line-length: disable
+
+document-end: disable
+
+trailing-spaces:
+  level: warning
+  allow-non-breakable-inline-mappings: true
+
+indentation:
+  spaces: 2
+  indent-sequences: consistent
+  check-multi-line-strings: false
+
+quoted-strings:
+  level: warning
+  required: only-when-needed
+  extra-required: ['^(?![a-z0-9\-]|true|false|on|off|yes|no$).*']
+  extra-allowed: ['^[^\s\n]']
+
+brackets:
+  level: error
+  forbid: false
+  min-spaces-inside: 0
+  max-spaces-inside: 1
+  min-spaces-inside-empty: -1
+  max-spaces-inside-empty: -1
+
+# Allow long lines in YAML files
+yaml-files:
+  ignore: |
+    .*\.(yaml|yml)$
+  rules:
+    line-length: disable
+
+# Specific rules for Cascade configuration
+cascade-rules:
+  level: error
+  rules:
+    - name: required-fields
+      pattern: '^(?!.*(name|description|triggers|actions)).*$'
+      message: 'Missing required fields (name, description, triggers, actions)'
+
+# Ignore certain files that might have special YAML requirements
+ignore: |
+  .github/workflows/*.yml
+  .github/ISSUE_TEMPLATE/*.md

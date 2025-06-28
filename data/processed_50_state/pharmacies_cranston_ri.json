@@ -1,0 +1,2589 @@
+[
+  {
+    "title": "Park Ave Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1375 Park Ave, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "1375 Park Ave",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.parkavepharma.com/",
+    "phone": "(401) 228-1544",
+    "phoneUnformatted": "+14012281544",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.784246,
+      "lng": -71.4595881
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44fe487c88c3f:0x73b0c4c7ad1c8bd",
+    "cid": "521023704509040829",
+    "reviewsCount": 52,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:24:21.926Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20137\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20132\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as Asian-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Park%20Ave%20Pharmacy&query_place_id=ChIJP4zIh-RP5IkRvcjRekwMOwc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@64.88496417543536,-167.73503139124153,13z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNjhVwqWoLslYwL4KmMPNJxnGp7otfwsyDPwVCo=w426-h240-k-no",
+    "kgmid": "/g/11tjlg2ht0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "Prescription Compounding Specialists of RI",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1145 Reservoir Ave #116, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "1145 Reservoir Ave #116",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "phone": "(401) 429-0330",
+    "phoneUnformatted": "+14014290330",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 41.770538,
+      "lng": -71.45462
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44f19758ed8f9:0x43620a48a840ad74",
+    "cid": "4855454655435550068",
+    "reviewsCount": 40,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:24:21.927Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prescription%20Compounding%20Specialists%20of%20RI&query_place_id=ChIJ-diOdRlP5IkRdK1AqEgKYkM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@64.88496417543536,-167.73503139124153,13z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RfZx76kPmRJqsdOuc_nwbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=38.444675&pitch=0&thumbfov=100",
+    "kgmid": "/g/1xpwkt3p",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "Prescription Pharmacy Services",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1210 Pontiac Ave 2nd Floor, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "1210 Pontiac Ave 2nd Floor",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://pps-rx.com/",
+    "phone": "(401) 228-3388",
+    "phoneUnformatted": "+14012283388",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7508863,
+      "lng": -71.4505761
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e445aa57face05:0xe42d460118abbbd3",
+    "cid": "16441874785122368467",
+    "reviewsCount": 0,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:24:21.927Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prescription%20Pharmacy%20Services&query_place_id=ChIJBc76V6pF5IkR07urGAFGLeQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@64.88496417543536,-167.73503139124153,13z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMQ0Pjoti1RfMqk00hIv4JfcdP0fsTnQDJqf3Bo=w408-h306-k-no",
+    "kgmid": "/g/11h2hbmtv3",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "681 Reservoir Ave, Cranston, RI 02910",
+    "neighborhood": null,
+    "street": "681 Reservoir Ave",
+    "city": "Cranston",
+    "postalCode": "02910",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cranston-ri-pharmacies/681-reservoir-avenue-cranston-ri-02910/storeid=212?WT.mc_id=LS_GOOGLE_RX_212",
+    "phone": "(401) 943-7186",
+    "phoneUnformatted": "+14019437186",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7810178,
+      "lng": -71.4430547
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf5pl8hFP5IkRTt_1zkYbX4M",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44f11f2659a7f:0x835f1b46cef5df4e",
+    "cid": "9466314932689952590",
+    "reviewsCount": 27,
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:24:43.491Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12\u202fAM to 1:30\u202fPM, 2\u202fPM to 12\u202fAM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJf5pl8hFP5IkRTt_1zkYbX4M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-83.31984582886456,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_0to00t5EvlqECcBrYWw2_OJl4d0unLiYcUCl=w408-h272-k-no",
+    "kgmid": "/g/11c462lyvt",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Stop & Shop Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "204 Garfield Ave, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "204 Garfield Ave",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://pharmacy.stopandshop.com/ri/cranston/204-garfield-avenue?y_source=1_MTEyMTM3MjktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(401) 943-8285",
+    "phoneUnformatted": "+14019438285",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7951152,
+      "lng": -71.4429929
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV_hP6m9P5IkRY-JwkVrWEgY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44f6fea4ff857:0x612d65a9170e263",
+    "cid": "437647798283854435",
+    "reviewsCount": 17,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%20Pharmacy&query_place_id=ChIJV_hP6m9P5IkRY-JwkVrWEgY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNyD5pLFsGomYuGMfpldhvglhr6NQFHbqceF_BA=w408-h277-k-no",
+    "kgmid": "/g/11gbkvc56d",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Asthenis Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "206 Cranston St, Providence, RI 02907",
+    "neighborhood": "West End",
+    "street": "206 Cranston St",
+    "city": "Providence",
+    "postalCode": "02907",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.asthenis.org/",
+    "phone": "(401) 473-3958",
+    "phoneUnformatted": "+14014733958",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8139417,
+      "lng": -71.42657
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e445770c02902d:0xcd638d1b66a32d76",
+    "cid": "14799827949295185270",
+    "reviewsCount": 25,
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30\u202fAM to 12:30\u202fPM, 1 to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "12:30\u20131\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12:30\u20131\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "12:30\u20131\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "12:30\u20131\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "12:30\u20131\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asthenis%20Pharmacy&query_place_id=ChIJLZACDHdF5IkRdi2jZhuNY80",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPX-IMdw61GFBVEJ3nMt3jZlLitSZ7-suFowAEH=w408-h408-k-no",
+    "kgmid": "/g/11h5q8fs_w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "Suburban Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "242 Pawtuxet Ave, Warwick, RI 02888",
+    "neighborhood": "Norwood",
+    "street": "242 Pawtuxet Ave",
+    "city": "Warwick",
+    "postalCode": "02888",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.suburbanpharmacy.net/",
+    "phone": "(401) 781-2110",
+    "phoneUnformatted": "+14017812110",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.754907,
+      "lng": -71.42719
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44e57808d0769:0x251566638d6a91dc",
+    "cid": "2672154531674624476",
+    "reviewsCount": 52,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Suburban%20Pharmacy&query_place_id=ChIJaQeNgFdO5IkR3JFqjWNmFSU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMv9r4FV6On-5yymlcs-ptO4X6yod2hv0EjHo-h=w408-h270-k-no",
+    "kgmid": "/g/1ptytw03j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "Stop & Shop Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "200 Atwood Ave, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "200 Atwood Ave",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://pharmacy.stopandshop.com/ri/cranston/200-atwood-avenue?y_source=1_MTEyMTM3MjYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(401) 944-2669",
+    "phoneUnformatted": "+14019442669",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.78203,
+      "lng": -71.47406
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtW_dP8NP5IkRAQuVs6wm81U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44fc33fdd6fb5:0x55f326acb3950b01",
+    "cid": "6193336435753683713",
+    "reviewsCount": 7,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Stop%20%26%20Shop%20Pharmacy&query_place_id=ChIJtW_dP8NP5IkRAQuVs6wm81U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMSm58krfGVb9r8PmocJzhXpeghZ2zu-TCtz2wz=w408-h277-k-no",
+    "kgmid": "/g/11h2fkmpnm",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Anthony's Pharmacy Atwood LLC",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1524 Atwood Ave, Johnston, RI 02919",
+    "neighborhood": null,
+    "street": "1524 Atwood Ave",
+    "city": "Johnston",
+    "postalCode": "02919",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://anthonyspharmacy.net/",
+    "phone": "(401) 900-1788",
+    "phoneUnformatted": "+14019001788",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8273987,
+      "lng": -71.5016612
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e4459402042fab:0xd3e48d230d7d3b2a",
+    "cid": "15268483818382506794",
+    "reviewsCount": 129,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20135\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20133\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Anthony's%20Pharmacy%20Atwood%20LLC&query_place_id=ChIJqy8EApRF5IkRKjt9DSON5NM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npaUvs2cj45oz-Z4dquqno9_dPsK8tAIt2vuJYfkejEhwkwcY-bDhqelyxoLbcOmyR_KmlH5B-BwNLjMgzqjI4bLFD32TiSVnvEleBGfvIv5UChayv8Rt-3dPcGCCOkAP8Rc5w=w408-h725-k-no",
+    "kgmid": "/g/1tx_7ckl",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1195 Oaklawn Ave, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "1195 Oaklawn Ave",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cranston-ri-pharmacies/1195-oaklawn-avenue-cranston-ri-02920/storeid=1414?WT.mc_id=LS_GOOGLE_RX_1414",
+    "phone": "(401) 463-1971",
+    "phoneUnformatted": "+14014631971",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.736722,
+      "lng": -71.4787716
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd0qKIVVJ5IkRRUUr4ZbLoWM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44955218a4a77:0x63a1cb96e12b4545",
+    "cid": "7179243129888523589",
+    "reviewsCount": 27,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJd0qKIVVJ5IkRRUUr4ZbLoWM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMadfYjmG-MADjW7oQ8vVadiH_3Pavhs1-N8BYO=w408-h272-k-no",
+    "kgmid": "/g/11c461w0br",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "JB Pharmacy & Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1165 Main Ave, Warwick, RI 02886",
+    "neighborhood": null,
+    "street": "1165 Main Ave",
+    "city": "Warwick",
+    "postalCode": "02886",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.jbcompoundingpharmacy.com/",
+    "phone": "(401) 861-1194",
+    "phoneUnformatted": "+14018611194",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7169372,
+      "lng": -71.4617366
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Health consultant",
+      "Medical supply store",
+      "Wellness program"
+    ],
+    "fid": "0x89e445b2e330afe9:0xca3c07a564aa068e",
+    "cid": "14572530901203945102",
+    "reviewsCount": 11,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JB%20Pharmacy%20%26%20Compounding&query_place_id=ChIJ6a8w47JF5IkRjgaqZKUHPMo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-40ASkbZDkx08RLsC7RnlA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.52382&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tg_h1xs",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1776 Broad St, Cranston, RI 02905",
+    "neighborhood": "Edgewood",
+    "street": "1776 Broad St",
+    "city": "Cranston",
+    "postalCode": "02905",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cranston-ri-pharmacies/1776-broad-st-cranston-ri-02905/storeid=5868?WT.mc_id=LS_GOOGLE_RX_5868",
+    "phone": "(401) 780-8902",
+    "phoneUnformatted": "+14017808902",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7779009,
+      "lng": -71.3994408
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWdz9F8JP5IkRJzoJewTiri4",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44fc217fddc59:0x2eaee2047b093a27",
+    "cid": "3363874480564288039",
+    "reviewsCount": 15,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJWdz9F8JP5IkRJzoJewTiri4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOG-OBnxJkVbEh-JF6TL-BWRJTwu4RIUKunlDln=w408-h272-k-no",
+    "kgmid": "/g/11f1p9b9xq",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1188 Pontiac Ave, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "1188 Pontiac Ave",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/cranston-ri-pharmacies/1188-pontiac-avenue-cranston-ri-02920/storeid=469?WT.mc_id=LS_GOOGLE_RX_469",
+    "phone": "(401) 736-5701",
+    "phoneUnformatted": "+14017365701",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.751852,
+      "lng": -71.4508882
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ96yFVOpO5IkRCn2IEVYLBzI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44eea5485acf7:0x32070b5611887d0a",
+    "cid": "3604862491022621962",
+    "reviewsCount": 22,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ96yFVOpO5IkRCn2IEVYLBzI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOQ1Pm9hYCMP6A8wTqKejgH85Z6mTE3XxQSEBg=w408-h272-k-no",
+    "kgmid": "/g/11c4688508",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1763 Broad St, Cranston, RI 02905",
+    "neighborhood": "Edgewood",
+    "street": "1763 Broad St",
+    "city": "Cranston",
+    "postalCode": "02905",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-1763+broad+st-cranston-ri-02905/id=3491",
+    "phone": "(401) 461-6770",
+    "phoneUnformatted": "+14014616770",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7777807,
+      "lng": -71.4011263
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsbmikcFP5IkRdDw4Y1lifak",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44fc191a2b9b1:0xa97d625963383c74",
+    "cid": "12213025900554894452",
+    "reviewsCount": 5,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.520Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJsbmikcFP5IkRdDw4Y1lifak",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMNYqUMEhCChknn5twmf85f7b9mWVHAY2I-xHv7=w525-h240-k-no",
+    "kgmid": "/g/11cn96b2s6",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Genoa Healthcare",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "75 Lambert Lind Hwy #125, Warwick, RI 02886",
+    "neighborhood": null,
+    "street": "75 Lambert Lind Hwy #125",
+    "city": "Warwick",
+    "postalCode": "02886",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.genoahealthcare.com/",
+    "phone": "(401) 287-4990",
+    "phoneUnformatted": "+14012874990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.729356,
+      "lng": -71.4775796
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0TJSqvhL5IkR4l2z7nyTHxM",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44bf8aa5232d1:0x131f937ceeb35de2",
+    "cid": "1377982175788621282",
+    "reviewsCount": 42,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:17.521Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Genoa%20Healthcare&query_place_id=ChIJ0TJSqvhL5IkR4l2z7nyTHxM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@67.82214549246302,-165.7692998137874,9z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DjF8jUtRPjgZ1SirzIk7cw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=280.7662&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bbrrbt3h",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Option Care Health",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "49 Freeway Dr Suite A, Cranston, RI 02920",
+    "neighborhood": null,
+    "street": "49 Freeway Dr Suite A",
+    "city": "Cranston",
+    "postalCode": "02920",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://optioncarehealth.com/",
+    "phone": "(401) 431-1300",
+    "phoneUnformatted": "+14014311300",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7511607,
+      "lng": -71.4490061
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2QqodetO5IkRxbQ7yQLRR-U",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44eeb75a80ad9:0xe547d102c93bb4c5",
+    "cid": "16521403567928227013",
+    "reviewsCount": 20,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:49.595Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Option%20Care%20Health&query_place_id=ChIJ2QqodetO5IkRxbQ7yQLRR-U",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Zo4F08J4hjFpHFZjq7gYbQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=83.68888&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f_0vm2z3",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "PharMerica - Warwick, RI",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "83 Vermont Ave #2, Warwick, RI 02888",
+    "neighborhood": null,
+    "street": "83 Vermont Ave #2",
+    "city": "Warwick",
+    "postalCode": "02888",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://pharmerica.com/location/pharmerica-warwick-ri/",
+    "phone": "(800) 446-1190",
+    "phoneUnformatted": "+18004461190",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.7403422,
+      "lng": -71.4416217
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44e8fd4df9d2d:0x5e52501b9ac0acf6",
+    "cid": "6796582867146157302",
+    "reviewsCount": 4,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:49.595Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMerica%20-%20Warwick%2C%20RI&query_place_id=ChIJLZ3f1I9O5IkR9qzAmhtQUl4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOzf0OjPzLS3qYcdO1jzAeuwvQXSXZX904UMzhg=w408-h408-k-no",
+    "kgmid": "/g/11g71fklfm",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "AJpharmacyII & RI Wellness Medical Center",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "468 Smithfield Rd, North Providence, RI 02904",
+    "neighborhood": null,
+    "street": "468 Smithfield Rd",
+    "city": "North Providence",
+    "postalCode": "02904",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "http://www.ajpharmacyri.com/",
+    "phone": "(401) 441-5988",
+    "phoneUnformatted": "+14014415988",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8609651,
+      "lng": -71.4634743
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9R-tOiVF5IkR9AsMk0sCvEw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e445253aad1ff5:0x4cbc024b930c0bf4",
+    "cid": "5529296966116969460",
+    "reviewsCount": 3,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:49.596Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AJpharmacyII%20%26%20RI%20Wellness%20Medical%20Center&query_place_id=ChIJ9R-tOiVF5IkR9AsMk0sCvEw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPpdLmJWCfbgtnlXGxMc3SlAqhGK6w7XI1y_on4=w414-h240-k-no",
+    "kgmid": "/g/11t7m5476j",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Prime Drug Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "613 Cranston St, Providence, RI 02907",
+    "neighborhood": "West End",
+    "street": "613 Cranston St",
+    "city": "Providence",
+    "postalCode": "02907",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "phone": "(401) 521-9660",
+    "phoneUnformatted": "+14015219660",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8070395,
+      "lng": -71.4359322
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e44586d4bc685f:0xac6dd8843e688eda",
+    "cid": "12424825009479388890",
+    "reviewsCount": 15,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:49.596Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prime%20Drug%20Inc&query_place_id=ChIJX2i81IZF5IkR2o5oPoTYbaw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7iPfD_HorKy6YdXUqD1yjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=287.56458&pitch=0&thumbfov=100",
+    "kgmid": "/g/1260wzz7z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  },
+  {
+    "title": "AJ Pharmacy/Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1017 Smith St Ste 1, Providence, RI 02908",
+    "neighborhood": "Elmhurst",
+    "street": "1017 Smith St Ste 1",
+    "city": "Providence",
+    "postalCode": "02908",
+    "state": "Rhode Island",
+    "countryCode": "US",
+    "website": "https://www.ajpharmacyri.com/",
+    "phone": "(401) 366-2800",
+    "phoneUnformatted": "+14013662800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 41.8430858,
+      "lng": -71.4457791
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x89e445c980241b51:0xf61ac3ba490f23e8",
+    "cid": "17733701687581811688",
+    "reviewsCount": 48,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T09:25:49.596Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=AJ%20Pharmacy%2FCompounding&query_place_id=ChIJURskgMlF5IkR6CMPSbrDGvY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Cranston%20RI/@36.81849750000001,-73.82116800051296,8z?hl=en",
+    "searchString": "independent pharmacy Cranston RI",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noad574KV0PCkK3NZoMbX-YBkczcTKbTyBpu0-NqmetrbzjnUA_d9lh63MjTr2LWoX6PEj1aaQwI8WP2G3p3I2nl_8oi4rWiVvAmOagtMFRoYbGMeKuhS9NASccoicv7SzPmcpn=w408-h544-k-no",
+    "kgmid": "/g/11jp_68myn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "cranston_ri"
+  }
+]

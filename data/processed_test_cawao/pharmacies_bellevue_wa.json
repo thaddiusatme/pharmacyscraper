@@ -1,0 +1,2234 @@
+[
+  {
+    "title": "Custom Prescriptions",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1200 112th Ave NE A102, Bellevue, WA 98004",
+    "neighborhood": "Northwest Bellevue",
+    "street": "1200 112th Ave NE A102",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.rxcustom.com/",
+    "phone": "(425) 289-0347",
+    "phoneUnformatted": "+14252890347",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6218672,
+      "lng": -122.1900447
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906c8cc83fbc75:0x22e11702139af5c9",
+    "cid": "2513315364735743433",
+    "reviewsCount": 37,
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:56:22.572Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Prescriptions&query_place_id=ChIJdbw_yIxskFQRyfWaEwIX4SI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@24.002753066812627,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPYcKBN4wbiKM1AqWjKmak4i4P4UGM-FEgqnywy=w408-h276-k-no",
+    "kgmid": "/g/1tx46rd_",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Pharmacy Plus",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1299 156th Ave NE Ste 140, Bellevue, WA 98007",
+    "neighborhood": "Crossroads",
+    "street": "1299 156th Ave NE Ste 140",
+    "city": "Bellevue",
+    "postalCode": "98007",
+    "state": "Washington",
+    "countryCode": "US",
+    "phone": "(425) 644-8887",
+    "phoneUnformatted": "+14256448887",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 47.6214288,
+      "lng": -122.1331841
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906dbaa9c3ad01:0x995307599fac2d0b",
+    "cid": "11048182392382303499",
+    "reviewsCount": 42,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:56:22.573Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Plus&query_place_id=ChIJAa3DqbptkFQRCy2sn1kHU5k",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@24.002753066812627,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrnIH-Z4UPx8enOzxIvNbBH0esPtJJw9-EeMKdgjuZn9JLBADd2oECPljB2fXwsjRbGesZGUQ7oaJvRiMW3zHgkunewE5ccWqvXrtnY-RLPugO_1ct5eA6sHqr2Vv0ziezRqzme=w408-h306-k-no",
+    "kgmid": "/g/1thkrdj4",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Alto Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "13010 NE 20th St #200, Bellevue, WA 98005",
+    "neighborhood": "Wilburton",
+    "street": "13010 NE 20th St #200",
+    "city": "Bellevue",
+    "postalCode": "98005",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://alto.com/",
+    "phone": "(800) 874-5881",
+    "phoneUnformatted": "+18008745881",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6288734,
+      "lng": -122.1662859
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906d778465c3f3:0x96ad95d4290b1f6b",
+    "cid": "10857499015114334059",
+    "reviewsCount": 265,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:56:22.573Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "6\u202fAM\u20139\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "7\u202fAM\u20136\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Pharmacy&query_place_id=ChIJ88NlhHdtkFQRax8LKdSVrZY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@24.002753066812627,-165.9168445668582,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJ6Z5ptwhI8xzCdlGdg7k8MJmkL6eG_WhtbxEb=w408-h306-k-no",
+    "kgmid": "/g/11j1zcck8j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Clark's Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "15615 NE Bel Red Rd suite b, Bellevue, WA 98008, United States",
+    "neighborhood": "Northeast Bellevue",
+    "street": "15615 NE Bel Red Rd suite b",
+    "city": "Bellevue",
+    "postalCode": "98008",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.clarkspharmacywa.com/",
+    "phone": "+1 425-881-0222",
+    "phoneUnformatted": "+14258810222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.633045,
+      "lng": -122.1308566
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54906d0a9e2d692d:0x6296afc2a2fa9112",
+    "cid": "7104058712716382482",
+    "reviewsCount": 112,
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:56:44.939Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clark's%20Compounding%20Pharmacy&query_place_id=ChIJLWktngptkFQREpH6osKvlmI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@55.90929253764349,-155.5387421394657,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMElIHCbmVDLiwys680wVf0-qgcIjisoMCJaqR3=w408-h306-k-no",
+    "kgmid": "/g/1tjkfhlq",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Factoria Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "12816 SE 38th St Unit D, Bellevue, WA 98006",
+    "neighborhood": "Factoria",
+    "street": "12816 SE 38th St Unit D",
+    "city": "Bellevue",
+    "postalCode": "98006",
+    "state": "Washington",
+    "countryCode": "US",
+    "phone": "(425) 590-9629",
+    "phoneUnformatted": "+14255909629",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.5764465,
+      "lng": -122.1687394
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906f187ac1f549:0x64bd3ae556a4965b",
+    "cid": "7259022931066656347",
+    "reviewsCount": 35,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:15.765Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Factoria%20Pharmacy&query_place_id=ChIJSfXBehhvkFQRW5akVuU6vWQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@45.410355141996405,-111.81587931391937,8z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNJu3M01KyPnUuYF4HSOUkbkRj0bEYynoR326zI=w408-h544-k-no",
+    "kgmid": "/g/11sv_rdjy9",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bartell Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10116 NE 8th St ste 3, Bellevue, WA 98004, United States",
+    "neighborhood": "Northwest Bellevue",
+    "street": "10116 NE 8th St ste 3",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.bartelldrugs.com/store/bellevue-village/?utm_source=local+listing&utm_medium=organic&utm_content=store&utm_campaign=fm",
+    "phone": "+1 425-454-3111",
+    "phoneUnformatted": "+14254543111",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6178849,
+      "lng": -122.2055309
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x54906c858c41d801:0x7d9dd151f3f4895a",
+    "cid": "9051620976000010586",
+    "reviewsCount": 200,
+    "imagesCount": 279,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bartell%20Drugs&query_place_id=ChIJAdhBjIVskFQRWon081HRnX0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrgiCm7CtXjjD-Dn4db-1XypIYgn23Hc_an8ZROQtZ4e1NZBh5uekg-lCxewQ-AHwilAecWApwZdr61-irclep5G1lGsa9JfazJ-4i3n0R4FcmJ6dBDgYaEI7FK5SeXjCGJYYpR=w426-h240-k-no",
+    "kgmid": "/g/1th5zhlk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Fred Meyer Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2041 148th Ave NE, Bellevue, WA 98007, United States",
+    "neighborhood": "Crossroads",
+    "street": "2041 148th Ave NE",
+    "city": "Bellevue",
+    "postalCode": "98007",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.fredmeyer.com/rx/pharmacy/details/701/00023?cid=loc_70100023P_gmb",
+    "phone": "+1 425-865-8593",
+    "phoneUnformatted": "+14258658593",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6287898,
+      "lng": -122.1446702
+    },
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp7G-aqhtkFQRHTDbRdWS0kY",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54906da86abeb1a7:0x46d292d545db301d",
+    "cid": "5103302772461875229",
+    "reviewsCount": 33,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fred%20Meyer%20Pharmacy&query_place_id=ChIJp7G-aqhtkFQRHTDbRdWS0kY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdJF5UAbL_qgFb6J4mNFjBUY0hg7gMPXND3f9G=w426-h240-k-no",
+    "kgmid": "/g/1hd_bq7m6",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Bartell Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "10116 NE 8th St, Bellevue, WA 98004, United States",
+    "neighborhood": "Northwest Bellevue",
+    "street": "10116 NE 8th St",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.bartelldrugs.com/store/bellevue-village/?utm_source=local+listing&utm_medium=organic&utm_content=pharmacy&utm_campaign=fm",
+    "phone": "+1 425-454-2468",
+    "phoneUnformatted": "+14254542468",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6183049,
+      "lng": -122.2056211
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906d892a407ce1:0x10178ee1a5971549",
+    "cid": "1159552528868119881",
+    "reviewsCount": 17,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bartell%20Drugs%20Pharmacy&query_place_id=ChIJ4XxAKoltkFQRSRWXpeGOFxA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOonKEpBAUFXBLqCr-3fPRNA1ugvSDayUUq7ajI=w408-h278-k-no",
+    "kgmid": "/g/11k9svrkcw",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Bartell Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "653 156th Ave NE, Bellevue, WA 98007, United States",
+    "neighborhood": "Lake Hills",
+    "street": "653 156th Ave NE",
+    "city": "Bellevue",
+    "postalCode": "98007",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.bartelldrugs.com/store/crossroads/?utm_source=local+listing&utm_medium=organic&utm_content=store&utm_campaign=fm",
+    "phone": "+1 425-641-9105",
+    "phoneUnformatted": "+14256419105",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.616626,
+      "lng": -122.1333862
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x54906db13636820b:0x5d6d684e6a69b011",
+    "cid": "6732151703990808593",
+    "reviewsCount": 236,
+    "imagesCount": 231,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 10\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 10\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bartell%20Drugs&query_place_id=ChIJC4I2NrFtkFQREbBpak5obV0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq0fKKktw557S0m4I1Ecg3jpeYNlP8UThKKDAq0P4lNB_d55Z4NwCO8sfVn8igixXNnCPtpLrntPLeLZrOu7s4ptlWF2230cqNA7kZP1XQU1xA6Bi7RsAnqNjId9hgbRyAqHb1a=w408-h306-k-no",
+    "kgmid": "/g/1tptq9rk",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "107 Bellevue Way SE, Bellevue, WA 98004, United States",
+    "neighborhood": "West Bellevue",
+    "street": "107 Bellevue Way SE",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bellevue-wa-pharmacies/107-bellevue-way-se-bellevue-wa-98004/storeid=10619?WT.mc_id=LS_GOOGLE_RX_10619",
+    "phone": "+1 425-454-1818",
+    "phoneUnformatted": "+14254541818",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6095885,
+      "lng": -122.2017093
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZS0WZuJtkFQRUFw5JSqWlEE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906de266162d65:0x4194962a25395c50",
+    "cid": "4725567016775801936",
+    "reviewsCount": 29,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJZS0WZuJtkFQRUFw5JSqWlEE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOY92EP3kx5VFwh6vsIrRVv6RHcCLusqOdQrn3l=w408-h272-k-no",
+    "kgmid": "/g/11fv3rwvgb",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "QFC Pharmacy",
+    "description": "Grocery chain with departments including a deli & a bakery; some have pharmacies, fuel & alcohol.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2636 Bellevue Way NE, Bellevue, WA 98004, United States",
+    "neighborhood": "Northwest Bellevue",
+    "street": "2636 Bellevue Way NE",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.qfc.com/rx/pharmacy/details/705/00859?cid=loc_70500859P_gmb",
+    "phone": "+1 425-576-9222",
+    "phoneUnformatted": "+14255769222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6347279,
+      "lng": -122.2007182
+    },
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNetyysFskFQRmvLY9d1ebqk",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x54906cc1ca72eb35:0xa96e5eddf5d8f29a",
+    "cid": "12208799947253412506",
+    "reviewsCount": 10,
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        },
+        {
+          "Wheelchair-accessible seating": true
+        },
+        {
+          "Wheelchair-accessible toilet": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=QFC%20Pharmacy&query_place_id=ChIJNetyysFskFQRmvLY9d1ebqk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npNPp5QIJKsNOtN8QmtnmrBn0htOGKWK4UWzSTxCuomJov8aDRVtriGuttQkUNv5UoDwrtIQXXaWxA0h99-BkKMaUthjj9XF-TOGRt4jutSMHWwrQ6KJdnZM0ptc21xeevli8C9_A=w408-h544-k-no",
+    "kgmid": "/g/1ptws0w5x",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "300 Bellevue Way NE, Bellevue, WA 98004, United States",
+    "neighborhood": "West Bellevue",
+    "street": "300 Bellevue Way NE",
+    "city": "Bellevue",
+    "postalCode": "98004",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/wa/bellevue/300-bellevue-way-ne.html",
+    "phone": "+1 425-749-3889",
+    "phoneUnformatted": "+14257493889",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6130816,
+      "lng": -122.2012389
+    },
+    "totalScore": 2.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJHcAQpIdskFQR3Sc9XvPCu2o",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x54906c87a410c01d:0x6abbc2f35e3d27dd",
+    "cid": "7690955139179161565",
+    "reviewsCount": 53,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:39.196Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJHcAQpIdskFQR3Sc9XvPCu2o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@13.044146111058147,144.78821715,12z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noRjXFol3fE9_igeHppiJHYIj1j11briHRCc6zNTI-C2P7XrOfK2PZQy4_dLschfoc1kIR_496PsBqvZAa7_HJ-8eftu5oU9PCgRLNMD3z2QuJIVqNmGh45fJm3gjFNWvCCG0Bo=w408-h544-k-no",
+    "kgmid": "/g/1263sldz7",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Ritzville Drug Co",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "209 W Main Ave, Ritzville, WA 99169",
+    "neighborhood": null,
+    "street": "209 W Main Ave",
+    "city": "Ritzville",
+    "postalCode": "99169",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.ritzvilledrug.com/",
+    "phone": "(509) 659-0250",
+    "phoneUnformatted": "+15096590250",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.1265055,
+      "lng": -118.3810933
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x549ede80b05e8303:0xd303297bd3d48915",
+    "cid": "15205042378744563989",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 14
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:57:56.816Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ritzville%20Drug%20Co&query_place_id=ChIJA4NesIDenlQRFYnU03spA9M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@48.27430768932854,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KWvljVtrH5UQuI8Bz5QEPw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=110.921745&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tf7m8l7",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "\u00a3\u00a3",
+    "categoryName": "Pharmacy",
+    "address": "1645 140th Ave NE, Bellevue, WA 98005, United States",
+    "neighborhood": "Crossroads",
+    "street": "1645 140th Ave NE",
+    "city": "Bellevue",
+    "postalCode": "98005",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/wa/bellevue/1645-140th-ave-ne.html",
+    "phone": "+1 425-643-1778",
+    "phoneUnformatted": "+14256431778",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6256931,
+      "lng": -122.1549082
+    },
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6VrBxqptkFQRF0Fa_M5ewn4",
+    "categories": [
+      "Pharmacy",
+      "Chemist",
+      "Vitamin & Supplements Shop"
+    ],
+    "fid": "0x54906daac6c15ae9:0x7ec25ecefc5a4117",
+    "cid": "9133967237350834455",
+    "reviewsCount": 31,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:58:28.959Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJ6VrBxqptkFQRF0Fa_M5ewn4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@20.609250162781358,145.10027158935802,13z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqRV9VlgXPWYl8IUeDu_CHH4LMhgiubnSD7Pxpn56Efq4iBLfjv1f7RG-owCRJjVAkVCEqiQGDiClAa2N2PuTNFuHq2p9D-SRHU_BPA-dHKV0DAryuSeV41s705NNnMU0I4Ws0S=w426-h240-k-no",
+    "kgmid": "/g/11r98ksg6",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walgreens Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "\u00a3\u00a3",
+    "categoryName": "Pharmacy",
+    "address": "647 140th Ave NE, Bellevue, WA 98005, United States",
+    "neighborhood": "Crossroads",
+    "street": "647 140th Ave NE",
+    "city": "Bellevue",
+    "postalCode": "98005",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-647+140th+ave+ne-bellevue-wa-98005/id=3662",
+    "phone": "+1 425-603-1438",
+    "phoneUnformatted": "+14256031438",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.6167339,
+      "lng": -122.1543666
+    },
+    "totalScore": 2.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtwoHJFJskFQRZCghQG0k15Q",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906c5224070ab7:0x94d7246d40212864",
+    "cid": "10725081089252075620",
+    "reviewsCount": 33,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:58:28.959Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive-through": [
+        {
+          "day": "Monday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "On-site services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Pharmacy&query_place_id=ChIJtwoHJFJskFQRZCghQG0k15Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@20.609250162781358,145.10027158935802,13z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npOzKV_lhaNeRUNB9cSW_sWqs45qV21ZbVj-OZNqjchlTWhSdIiZVRdVuTTPPDNzbHIU1vDAs75NtXJGz0vu2wdxEd8t8YqyZXoIwSehJabQal51u9SKLU_G49FUl8syY7qthT7A1zrcBs1=w408-h543-k-no",
+    "kgmid": "/g/11fzvfns9w",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Sea Mar Bellevue Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3801 150th Ave SE, Bellevue, WA 98006",
+    "neighborhood": null,
+    "street": "3801 150th Ave SE",
+    "city": "Bellevue",
+    "postalCode": "98006",
+    "state": "Washington",
+    "countryCode": "US",
+    "website": "http://www.seamar.org/king-pharmacy-bellevue.html",
+    "phone": "(425) 998-5990",
+    "phoneUnformatted": "+14259985990",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 47.5756349,
+      "lng": -122.1406506
+    },
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x54906ea3551f25ed:0x42d331f8ca66cef4",
+    "cid": "4815247371206577908",
+    "reviewsCount": 0,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T06:58:41.848Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:15\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sea%20Mar%20Bellevue%20Pharmacy&query_place_id=ChIJ7SUfVaNukFQR9M5myvgx00I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bellevue%20WA/@47.624056466666666,-122.16317156666666,12.433507086218999z?hl=en",
+    "searchString": "independent pharmacy Bellevue WA",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMYdKxZKTmyot5Jgcxi0vSsPTb_P9UC2sGgE4KD=w408-h408-k-no",
+    "kgmid": "/g/11dfk0nmr0",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

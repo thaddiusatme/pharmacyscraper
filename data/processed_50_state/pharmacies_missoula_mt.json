@@ -1,0 +1,2317 @@
+[
+  {
+    "title": "Missoula Pharmacy, INC.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1211 S Reserve St #102, Missoula, MT 59801",
+    "neighborhood": "Franklin to the Fort",
+    "street": "1211 S Reserve St #102",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.missoulapharmacy.com/",
+    "phone": "(406) 728-5650",
+    "phoneUnformatted": "+14067285650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8605409,
+      "lng": -114.0406294
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x535dcdfc62c77e5f:0xc3ec1a4e1b22c606",
+    "cid": "14117687854664697350",
+    "reviewsCount": 59,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:00.816Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Missoula%20Pharmacy%2C%20INC.&query_place_id=ChIJX37HYvzNXVMRBsYiG04a7MM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7lrff__zTiHRSGMMJKFbyocoYlGpghXMYf6ScxP8vu-SN9X3kswX4JpurIpzZdXd5UJuUkJ6i4tWNc-T44MAjZFUfVBssJbKnYvAFXefRW_SXeRwhGac78f9SUqL5SbhhAiSr=w408-h839-k-no",
+    "kgmid": "/g/1tjcp34w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "406 Clinic Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1315 Wyoming St, Missoula, MT 59801",
+    "neighborhood": "Riverfront",
+    "street": "1315 Wyoming St",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.406rx.com/",
+    "phone": "(406) 541-4060",
+    "phoneUnformatted": "+14065414060",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8711139,
+      "lng": -114.0158109
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbdtxvXfOXVMRYmgrGOQO2ss",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dce77bd71db6d:0xcbda0ee4182b6862",
+    "cid": "14689069507443124322",
+    "reviewsCount": 35,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:00.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=406%20Clinic%20Pharmacy&query_place_id=ChIJbdtxvXfOXVMRYmgrGOQO2ss",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noayzVf6QBR2Pt54x7uCV2pOKaLdR4UDmiwnsYS7_MK5KNepFTSPaGva3cKkt1LdwoU55p3GZzpS6G9t1MhbAy00QC0JlNFLpQx_YaqB5Z3o7EgHn5bCuLi4J3Ke_pTodz4BCvJ_g=w408-h544-k-no",
+    "kgmid": "/g/11hbj8h1r2",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Montana RX Compounders",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "111 N Higgins Ave #101, Missoula, MT 59802",
+    "neighborhood": "Heart of Missoula",
+    "street": "111 N Higgins Ave #101",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 542-2888",
+    "phoneUnformatted": "+14065422888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8704967,
+      "lng": -113.995368
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcc2b178da673:0x80cfe13c149f84be",
+    "cid": "9281885005194167486",
+    "reviewsCount": 22,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:00.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Montana%20RX%20Compounders&query_place_id=ChIJc6aNFyvMXVMRvoSfFDzhz4A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqXCth_lPVFS1LO9RTadPN7eWdlDgRr5bKVjHE7uGfy2oGTCF3lgduW58go0ZtekFVYXFfqX3NB7cYy1PiU1V8oLJlH5xplmbnxzYvCpOzePRoW0Y8RmYfhjiSdxEfhDsXqe9TLPg=w408-h306-k-no",
+    "kgmid": "/g/1tj216b2",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Palmer's Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "918 SW Higgins Ave, Missoula, MT 59803",
+    "neighborhood": "Lewis And Clark",
+    "street": "918 SW Higgins Ave",
+    "city": "Missoula",
+    "postalCode": "59803",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.palmersdrug.com/",
+    "phone": "(406) 549-4125",
+    "phoneUnformatted": "+14065494125",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.835882,
+      "lng": -114.012437
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x535dcd9b3d89a885:0x28b5c956c8e281f0",
+    "cid": "2933472106876404208",
+    "reviewsCount": 22,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:00.817Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Palmer's%20Drug&query_place_id=ChIJhaiJPZvNXVMR8IHiyFbJtSg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@54.6216851681339,-131.24533024350896,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipP-QUBfucLrAcAnY4yIwKlSNLFrgoMRCmYNJgT4=w408-h272-k-no",
+    "kgmid": "/g/1tgpxw55",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Pinnacle Compounding",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1120 Kensington Ave UNIT E, Missoula, MT 59801",
+    "neighborhood": "Rose Park",
+    "street": "1120 Kensington Ave UNIT E",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(855) 466-1076",
+    "phoneUnformatted": "+18554661076",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8536224,
+      "lng": -114.0159746
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcdea1f4134df:0x84677a9e33cd8df0",
+    "cid": "9540729155500215792",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:22.208Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pinnacle%20Compounding&query_place_id=ChIJ3zRBH-rNXVMR8I3NM556Z4Q",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@65.73786228335844,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GsehB10-r_1-E3oD9uZ82g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=1.080147&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cmbsrzvg",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Osco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Albertson Access Rd, Missoula, MT 59801",
+    "neighborhood": "Lewis And Clark",
+    "street": "Albertson Access Rd",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 549-7717",
+    "phoneUnformatted": "+14065497717",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8355139,
+      "lng": -114.0160971
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCQXc3oTNXVMRnpYhgAV1gaQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcd84dedc0509:0xa48175058021969e",
+    "cid": "11853884360700827294",
+    "reviewsCount": 2,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:22.208Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Osco%20Pharmacy&query_place_id=ChIJCQXc3oTNXVMRnpYhgAV1gaQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@65.73786228335844,-157.71370691405576,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np414iWNozC70fHrE9BkMhPMfhPklWxR_e9PTnSjDqF0KyKVCLqgyGIlYeKa9XjyaiIhzspgUzjGavvWoVol9rxbWLCm2QBf-foob9lJIjwAyTc1cBf-HOKpPdmR_i5O-U9sfg=w408-h306-k-no",
+    "kgmid": "/g/11fkmzwbpv",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Health Service Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "634 Eddy Ave, Missoula, MT 59801",
+    "neighborhood": "University District",
+    "street": "634 Eddy Ave",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.umt.edu/curry-health-center/pharmacy/",
+    "phone": "(406) 243-5171",
+    "phoneUnformatted": "+14062435171",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8631479,
+      "lng": -113.9875393
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJiS6c-TLMXVMRPT2u2hdDWbQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcc32f99c2e89:0xb4594317daae3d3d",
+    "cid": "12995491969486437693",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Health%20Service%20Pharmacy&query_place_id=ChIJiS6c-TLMXVMRPT2u2hdDWbQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NY1GqIqEvWdzmganOduUnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=13.333996&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ph1hbcyc",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Broadway Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "500 W Broadway St, Missoula, MT 59802",
+    "neighborhood": "Heart of Missoula",
+    "street": "500 W Broadway St",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://montana.providence.org/hospitals/st-patrick/services/pharmacy/",
+    "phone": "(406) 327-1650",
+    "phoneUnformatted": "+14063271650",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8751896,
+      "lng": -114.0001863
+    },
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dce807bbe8d95:0x7a9b3641992f00d3",
+    "cid": "8834714749388128467",
+    "reviewsCount": 4,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 12\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Broadway%20Pharmacy&query_place_id=ChIJlY2-e4DOXVMR0wAvmUE2m3o",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZrOGTZZVpMzCZ4hkzQewNw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=132.85962&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tfvgwsj",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Yoke's Fresh Market Reserve Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3801 S Reserve St, Missoula, MT 59801",
+    "neighborhood": "Southgate Triangle",
+    "street": "3801 S Reserve St",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.yokesfreshmarkets.com/",
+    "phone": "(406) 251-5415",
+    "phoneUnformatted": "+14062515415",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8349844,
+      "lng": -114.0413715
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dd270f0957171:0x5c671159f35723a2",
+    "cid": "6658309652122903458",
+    "reviewsCount": 11,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Yoke's%20Fresh%20Market%20Reserve%20Pharmacy&query_place_id=ChIJcXGV8HDSXVMRoiNX81kRZ1w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDBscdL_6bR_LqDfWjarI5hp5mWyCPhgmun3EQ=w408-h306-k-no",
+    "kgmid": "/g/11c60cwhpp",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Osco Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1003 E Broadway St, Missoula, MT 59802",
+    "neighborhood": "Heart of Missoula",
+    "street": "1003 E Broadway St",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 549-6163",
+    "phoneUnformatted": "+14065496163",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8676556,
+      "lng": -113.9815483
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZ6t1xy_MXVMRC5yspX2mb-I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcc2fc775ab67:0xe26fa67da5ac9c0b",
+    "cid": "16316443033567271947",
+    "reviewsCount": 3,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Osco%20Pharmacy&query_place_id=ChIJZ6t1xy_MXVMRC5yspX2mb-I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CXHoRkVR1qFivADcT0xdYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.33803&pitch=0&thumbfov=100",
+    "kgmid": "/g/11k5lsl57c",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Granite Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2230 27th Ave Suite 2, Missoula, MT 59804",
+    "neighborhood": null,
+    "street": "2230 27th Ave Suite 2",
+    "city": "Missoula",
+    "postalCode": "59804",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.granitepharmacy.com/",
+    "phone": "(406) 926-2940",
+    "phoneUnformatted": "+14069262940",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8490661,
+      "lng": -114.0442677
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dd209b5b65a17:0xc5fcae2744b7e0c9",
+    "cid": "14266469203282747593",
+    "reviewsCount": 62,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Granite%20Pharmacy&query_place_id=ChIJF1q2tQnSXVMRyeC3RCeu_MU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNuv54nQSh6Te4FoewibKdwMmUdrTuyzcorsu8n=w408-h306-k-no",
+    "kgmid": "/g/1ptyssq3k",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Eastgate Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1003 E Broadway St # 2, Missoula, MT 59802",
+    "neighborhood": "Heart of Missoula",
+    "street": "1003 E Broadway St # 2",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 549-6163",
+    "phoneUnformatted": "+14065496163",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8676556,
+      "lng": -113.9815483
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcc2fc03a265f:0xebf2dcc766f7aa7c",
+    "cid": "17001894292261153404",
+    "reviewsCount": 16,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Eastgate%20Drug&query_place_id=ChIJXyY6wC_MXVMRfKr3Zsfc8us",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npUsv7X1WXl8pVhB5WrdTbn-1GMHjc23_A6RC1ZP2Se3OsKAkSn0rFX88siXdeTqMkoWI-g3eG2oUem_NXsLVsIezvn-v08B2mCipu92MhR8_zpG0u1WwYJ1lP8wzgoZlQHtqzP=w525-h240-k-no",
+    "kgmid": "/g/1hc6k_r8r",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Credena Health Pharmacy at Providence Saint Patrick Hospital",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "500 W Broadway St 1st floor, Missoula, MT 59802",
+    "neighborhood": "Heart of Missoula",
+    "street": "500 W Broadway St 1st floor",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.providence.org/credena-health/locations/st-patrick?Is=location&y_source=1_MTk1NDAwMTUtNzE1LWxvY2F0aW9uLndlYnNpdGU=",
+    "phone": "(406) 327-1650",
+    "phoneUnformatted": "+14063271650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8753765,
+      "lng": -114.0002153
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV_qaRALPXVMR-iCBAs5cUoY",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcf02449afa57:0x86525cce028120fa",
+    "cid": "9678900589047652602",
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.908Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Credena%20Health%20Pharmacy%20at%20Providence%20Saint%20Patrick%20Hospital&query_place_id=ChIJV_qaRALPXVMR-iCBAs5cUoY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOZUHbj5G82fJJcJhJRhK1lYwJFNZtYha9Pvovv=w408-h408-k-no",
+    "kgmid": "/g/11h5dgs7sq",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Rosauers Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2350 S Reserve St, Missoula, MT 59801",
+    "neighborhood": "Franklin to the Fort",
+    "street": "2350 S Reserve St",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.rosauers.com/missoula/",
+    "phone": "(406) 721-5330",
+    "phoneUnformatted": "+14067215330",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8497699,
+      "lng": -114.0374833
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcdf68ff1ed9b:0x81d467ae7678c2a0",
+    "cid": "9355216324964958880",
+    "reviewsCount": 16,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2:30 to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rosauers%20Pharmacy&query_place_id=ChIJm-3xj_bNXVMRoMJ4dq5n1IE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9b41Qm2M9K6bNDYKM5sQ6lkltcFzhbhmCEVp2b03Sa7dXGGioiUn_lvxpq8G5hA_oh91gBuquo0MoZuAhvBOGathV9BaNMK1WBXvqKogGQxp2BgHjhEJzkZEgWypxJAzqyLTF=w408-h544-k-no",
+    "kgmid": "/g/1ts3kwn5",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1902 Brooks St, Missoula, MT 59801",
+    "neighborhood": "Rose Park",
+    "street": "1902 Brooks St",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/missoula-mt-pharmacies/1902-brooks-st-missoula-mt-59801/storeid=8622?WT.mc_id=LS_GOOGLE_RX_8622",
+    "phone": "(406) 728-1380",
+    "phoneUnformatted": "+14067281380",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8519117,
+      "lng": -114.0121665
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMZaJx8HNXVMR6OjPUIQPDdk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcdc1c7899631:0xd90d0f8450cfe8e8",
+    "cid": "15640174141893503208",
+    "reviewsCount": 9,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 9\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJMZaJx8HNXVMR6OjPUIQPDdk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPleo5bZU20nNcn2o1KaAM4ZpZM6YHaaAet15Q5=w408-h272-k-no",
+    "kgmid": "/g/11c461chh3",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2420 N Reserve St, Missoula, MT 59808",
+    "neighborhood": "Westside",
+    "street": "2420 N Reserve St",
+    "city": "Missoula",
+    "postalCode": "59808",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/missoula-mt-pharmacies/2420-n-reserve-st-missoula-mt-59808/storeid=16320?WT.mc_id=LS_GOOGLE_RX_16320",
+    "phone": "(406) 728-9463",
+    "phoneUnformatted": "+14067289463",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8879753,
+      "lng": -114.0365299
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3Y30e0HOXVMRIwBPbctTCAg",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dce417bf48ddd:0x80853cb6d4f0023",
+    "cid": "578804685294469155",
+    "reviewsCount": 26,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Naloxone": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ3Y30e0HOXVMRIwBPbctTCAg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNiv21EiavoOF7sr1Td4OUKr66E8i2hnTrZIhwA=w408-h272-k-no",
+    "kgmid": "/g/1tf_h24h",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Prescription Assist",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "715 Kensington Ave #8, Missoula, MT 59801",
+    "neighborhood": "Rose Park",
+    "street": "715 Kensington Ave #8",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 829-3993",
+    "phoneUnformatted": "+14068293993",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 46.8531271,
+      "lng": -114.0088975
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dcdc0fd95ff33:0x37ecaebb11063b41",
+    "cid": "4029787885057489729",
+    "reviewsCount": 6,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prescription%20Assist&query_place_id=ChIJM_-V_cDNXVMRQTsGEbuu7Dc",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y6MHhHNOwQjiwjxtYNs6MQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=183.59132&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tffn_zh",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Yoke's Fresh Market Pharmacy on Broadway",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "800 W Broadway St, Missoula, MT 59802",
+    "neighborhood": "Westside",
+    "street": "800 W Broadway St",
+    "city": "Missoula",
+    "postalCode": "59802",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.yokesfreshmarkets.com/",
+    "phone": "(406) 721-6009",
+    "phoneUnformatted": "+14067216009",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8757715,
+      "lng": -114.0054956
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x535dce7e5b61c7af:0xd534abcf952809e6",
+    "cid": "15363093136916613606",
+    "reviewsCount": 90,
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:23:25.909Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Yoke's%20Fresh%20Market%20Pharmacy%20on%20Broadway&query_place_id=ChIJr8dhW37OXVMR5gkolc-rNNU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@67.82214549246302,-153.11051097135197,9z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nppRwZQdhDmhUGJ8gnfinRqHSVoDaR7gUylMLxwI3K4MuJ9Skpfncs9yEMXOkwFi7trUePshUcW6obLBOJze7xnjYU6LrdKMBIfuAeflD1xadsh0LzRSDXv2n3VJrB2oziwFm0=w426-h240-k-no",
+    "kgmid": "/g/11b7vxssmj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "missoula_mt"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "2230 N Reserve St, Missoula, MT 59808",
+    "neighborhood": "Westside",
+    "street": "2230 N Reserve St",
+    "city": "Missoula",
+    "postalCode": "59808",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/mt/missoula/2230-n-reserve-st.html",
+    "phone": "(406) 728-1118",
+    "phoneUnformatted": "+14067281118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8858871,
+      "lng": -114.036742
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJmU2hxEHOXVMRjm8EfZr5pWU",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x535dce41c4a14d99:0x65a5f99a7d046f8e",
+    "cid": "7324534810905702286",
+    "reviewsCount": 15,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:24:09.035Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJmU2hxEHOXVMRjm8EfZr5pWU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@45.410355141996405,-114.98210525670324,8z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMt7BjXZ0uR2Bcb478bm14ePbb-t42Edhj2w3bt=w427-h240-k-no",
+    "kgmid": "/g/1tgc95hr",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Northwest CHC Pharmacy on Hwy 2",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1401 Minnesota Ave, Libby, MT 59923",
+    "neighborhood": null,
+    "street": "1401 Minnesota Ave",
+    "city": "Libby",
+    "postalCode": "59923",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.northwestchc.org/",
+    "phone": "(406) 293-3784",
+    "phoneUnformatted": "+14062933784",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 48.3816735,
+      "lng": -115.5477172
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSX_okBepZlMRE4k_rMNwJ4I",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5366a91790e87f49:0x822770c3ac3f8913",
+    "cid": "9378588734733125907",
+    "reviewsCount": 23,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:24:32.713Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northwest%20CHC%20Pharmacy%20on%20Hwy%202&query_place_id=ChIJSX_okBepZlMRE4k_rMNwJ4I",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Missoula%20MT/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Missoula MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrmdq9MxNQCamSiu0HFwvjyT8Kv4kha5NKes_migTd2H7RovCgjxcyPEh8dbBm1GZzGE1pB8nHR7Xw6PbW8qvjdWkJdqZAaJTqObUjAhVn-gFNsrBi8zAfExTUHAsac9lXCzXAt4A=w739-h240-k-no",
+    "kgmid": "/g/1jkxm4ppw",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  }
+]

@@ -1,0 +1,148 @@
+{
+  "states": [
+    "AL",
+    "AZ",
+    "CA",
+    "CO",
+    "FL"
+  ],
+  "cities_per_state": 5,
+  "max_results_per_query": 10,
+  "queries": {
+    "AL": [
+      {
+        "query": "independent pharmacy Birmingham AL",
+        "city": "Birmingham",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Montgomery AL",
+        "city": "Montgomery",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Mobile AL",
+        "city": "Mobile",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Huntsville AL",
+        "city": "Huntsville",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Tuscaloosa AL",
+        "city": "Tuscaloosa",
+        "state": "AL"
+      }
+    ],
+    "AZ": [
+      {
+        "query": "independent pharmacy Phoenix AZ",
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Tucson AZ",
+        "city": "Tucson",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Mesa AZ",
+        "city": "Mesa",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Chandler AZ",
+        "city": "Chandler",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Scottsdale AZ",
+        "city": "Scottsdale",
+        "state": "AZ"
+      }
+    ],
+    "CA": [
+      {
+        "query": "independent pharmacy Los Angeles CA",
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Diego CA",
+        "city": "San Diego",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Jose CA",
+        "city": "San Jose",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Francisco CA",
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy Fresno CA",
+        "city": "Fresno",
+        "state": "CA"
+      }
+    ],
+    "CO": [
+      {
+        "query": "independent pharmacy Denver CO",
+        "city": "Denver",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Colorado Springs CO",
+        "city": "Colorado Springs",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Aurora CO",
+        "city": "Aurora",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Fort Collins CO",
+        "city": "Fort Collins",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Lakewood CO",
+        "city": "Lakewood",
+        "state": "CO"
+      }
+    ],
+    "FL": [
+      {
+        "query": "independent pharmacy Jacksonville FL",
+        "city": "Jacksonville",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Miami FL",
+        "city": "Miami",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Tampa FL",
+        "city": "Tampa",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Orlando FL",
+        "city": "Orlando",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy St. Petersburg FL",
+        "city": "St. Petersburg",
+        "state": "FL"
+      }
+    ]
+  }
+}

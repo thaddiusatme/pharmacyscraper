@@ -1,0 +1,2614 @@
+[
+  {
+    "title": "The Honolulu Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1188 Bishop St STE 2303, Honolulu, HI 96813",
+    "neighborhood": "Downtown",
+    "street": "1188 Bishop St STE 2303",
+    "city": "Honolulu",
+    "postalCode": "96813",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "http://www.thehonolulupharmacy.com/",
+    "phone": "(808) 533-8887",
+    "phoneUnformatted": "+18085338887",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 21.3105847,
+      "lng": -157.8590595
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006e75b9845837:0x59f6b50f61dcbfa9",
+    "cid": "6482567791317401513",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.415Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Honolulu%20Pharmacy&query_place_id=ChIJN1iEuXVuAHwRqb_cYQ-19lk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2ea3VqWfM0JuTN6ZWG8z0Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.535&pitch=0&thumbfov=100",
+    "kgmid": "/g/11bx4kk89b",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Family Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1451 S King St Ste. 203A, Honolulu, HI 96814",
+    "neighborhood": "Ala Moana",
+    "street": "1451 S King St Ste. 203A",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "phone": "(808) 379-2347",
+    "phoneUnformatted": "+18083792347",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2976433,
+      "lng": -157.8392341
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006d8c7765309f:0x93f0f9b66f41905d",
+    "cid": "10660294879931895901",
+    "reviewsCount": 5,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.417Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Family%20Pharmacy%20Inc&query_place_id=ChIJnzBld4xtAHwRXZBBb7b58JM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN-SuXgLy1G9Pm8SX8xdwllRE_46uJTrOQ7PO0I=w408-h306-k-no",
+    "kgmid": "/g/11qnfy6cgz",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Hawaii Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1150 S King St # 1006, Honolulu, HI 96814",
+    "neighborhood": "Makiki/Lower/ Punchbowl/Tantalus",
+    "street": "1150 S King St # 1006",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "http://www.hisprx.com/",
+    "phone": "(808) 707-5615",
+    "phoneUnformatted": "+18087075615",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.3005822,
+      "lng": -157.8447937
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006ddd5d6a0be3:0xda794f4c72f5f5d2",
+    "cid": "15742701162215110098",
+    "reviewsCount": 4,
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.418Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hawaii%20Specialty%20Pharmacy&query_place_id=ChIJ4wtqXd1tAHwR0vX1ckxPedo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMK4lIYG2gjCcTvFJ4tZ6vtGERvOltmRCXwzV9Q=w408-h306-k-no",
+    "kgmid": "/g/11fjv504_g",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Don Quijote Drugs",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "801 Kaheka St, Honolulu, HI 96814",
+    "neighborhood": "Ala Moana",
+    "street": "801 Kaheka St",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "http://www.mygnp.com/store?id=0013000000ioAjd&utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1200271",
+    "phone": "(808) 973-6661",
+    "phoneUnformatted": "+18089736661",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2938231,
+      "lng": -157.8382983
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x7c006dede6b11231:0x497897944feb9ee8",
+    "cid": "5294148025225813736",
+    "reviewsCount": 10,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.418Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Don%20Quijote%20Drugs&query_place_id=ChIJMRKx5u1tAHwR6J7rT5SXeEk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPzbPwbnXH-e1Sxnj4KvmjIAdrZj4hNrGcOsSkY=w408-h272-k-no",
+    "kgmid": "/g/11bzzxg1_h",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Honolulu Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "450 S Central Ave, Glendale, CA 91204",
+    "neighborhood": "Pacific - Edison",
+    "street": "450 S Central Ave",
+    "city": "Glendale",
+    "postalCode": "91204",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "(818) 242-2233",
+    "phoneUnformatted": "+18182422233",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 34.1406334,
+      "lng": -118.2572663
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80c2c0fc11c62817:0x9295838248b1d9b7",
+    "cid": "10562493096655968695",
+    "reviewsCount": 2,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.418Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Honolulu%20Pharmacy%20Inc&query_place_id=ChIJFyjGEfzAwoARt9mxSIKDlZI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8OiVUYcgzx3tH9goyTqqrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=19.534689&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tc_ldn0",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Plaza Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "321 N Kuakini St #105, Honolulu, HI 96817",
+    "neighborhood": "Liliha - Kapalama",
+    "street": "321 N Kuakini St #105",
+    "city": "Honolulu",
+    "postalCode": "96817",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "phone": "(808) 547-9440",
+    "phoneUnformatted": "+18085479440",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 21.3216288,
+      "lng": -157.8559476
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006dd63c2a915d:0x80ff7808523525ef",
+    "cid": "9295280133050279407",
+    "reviewsCount": 8,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.418Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 4:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Plaza%20Pharmacy&query_place_id=ChIJXZEqPNZtAHwR7yU1Ugh4_4A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nreqOjFAIVAbcWTbyNVljBLWpwXk3hGScMRw20QLuKhFSwbpTPOwLj2QrtvC0S-uA_sscfiz_ne9_kcfUpGO3XfLUKC0yE-3JckYDnlFjzp1QMaCFHpJDw8kxBMGBZzE8R-OQqm=w408-h306-k-no",
+    "kgmid": "/g/1tpc85bb",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Discovery Bay Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1778 Ala Moana Blvd #208, Honolulu, HI 96815",
+    "neighborhood": "Waikiki",
+    "street": "1778 Ala Moana Blvd #208",
+    "city": "Honolulu",
+    "postalCode": "96815",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "phone": "(808) 312-3469",
+    "phoneUnformatted": "+18083123469",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2853305,
+      "lng": -157.8381164
+    },
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006df43dbaaadd:0xa115b2a3936b5118",
+    "cid": "11607380030240018712",
+    "reviewsCount": 76,
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.418Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        },
+        {
+          "English": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "Paid parking garage": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Discovery%20Bay%20Pharmacy&query_place_id=ChIJ3aq6PfRtAHwRGFFrk6OyFaE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npxMsBGOkAvhM5Go-uv_IZOY_Ne4Qgh8DXesOkch632ThFW2xs-beaBzWLo-aXVqRs3cINAdb-EOMgIP324J5xGXX6H-cv840b9bI1FYhZYZ79BnYlO-qWVFqR4e8WTYgxoaSE-DQ=w506-h240-k-no",
+    "kgmid": "/g/11f4kp609c",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Wellness Pharmacy Inc",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "100 N Beretania St # 148, Honolulu, HI 96817",
+    "neighborhood": "Downtown",
+    "street": "100 N Beretania St # 148",
+    "city": "Honolulu",
+    "postalCode": "96817",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "phone": "(808) 550-2833",
+    "phoneUnformatted": "+18085502833",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 21.3140931,
+      "lng": -157.8608698
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006e76ef03a53f:0x390c7caae79b0908",
+    "cid": "4110797633354402056",
+    "reviewsCount": 5,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.419Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wellness%20Pharmacy%20Inc&query_place_id=ChIJP6UD73ZuAHwRCAmb56p8DDk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npqIXbqgNFRWu_Vb8XG3ll7ttoe9E5eUT0TIshVGRG5PBRxCXYWDipbU12Rfu0E_BWcIOK-7YzGDCip0HI4VBwToFfKq8x-qgvqtmFm43RgvmNfg2GI-BQ5VrmrRQ5ngLyx6cvS4Q=w426-h240-k-no",
+    "kgmid": "/g/1tkkv26z",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Queen\u2019s POB 2 Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1329 Lusitana St, Honolulu, HI 96813",
+    "neighborhood": "Downtown",
+    "street": "1329 Lusitana St",
+    "city": "Honolulu",
+    "postalCode": "96813",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.queens.org/services/pharmacy/",
+    "phone": "(808) 691-4560",
+    "phoneUnformatted": "+18086914560",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 21.3075591,
+      "lng": -157.8521238
+    },
+    "locatedIn": "The Queen's Diabetes Management and Education Center",
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Medical laboratory"
+    ],
+    "fid": "0x7c006dde6cc1f15d:0x3d4263b4b21c4ebf",
+    "cid": "4414200212509970111",
+    "reviewsCount": 34,
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.419Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "The Queen's Diabetes Management and Education Center": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20134\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Queen%E2%80%99s%20POB%202%20Pharmacy&query_place_id=ChIJXfHBbN5tAHwRv04csrRjQj0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-c3hhU_fbjJJ7M2Pw84ne0MRTo-DsWs7-w7TzKFJKdUvsz3z087uigTrGK57UOtXvLhy8tqE2uWMTaeIBydqgFoRreeIKEW5OAHzNxtv8-swReELn2vlbuwcTX9eImvnttmcNsw=w408-h306-k-no",
+    "kgmid": "/g/1wk4d88n",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Times Liliha Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1425 Liliha St, Honolulu, HI 96817",
+    "neighborhood": "Kalihi - Palama",
+    "street": "1425 Liliha St",
+    "city": "Honolulu",
+    "postalCode": "96817",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.timespharmacyhawaii.com/meet-us/times-liliha",
+    "phone": "(808) 522-5082",
+    "phoneUnformatted": "+18085225082",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.3195872,
+      "lng": -157.8611771
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x7c006f74db595735:0x8c9073c2c267fe41",
+    "cid": "10128722842278690369",
+    "reviewsCount": 2,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Times%20Liliha%20Pharmacy&query_place_id=ChIJNVdZ23RvAHwRQf5nwsJzkIw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPMUGSGL8trqD7wlPfm4T1Gq51mUMtZCguovhKn=w408-h306-k-no",
+    "kgmid": "/g/11gj5f36mr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Wellness Pharmacy II",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1120 Maunakea St # 102, Honolulu, HI 96817",
+    "neighborhood": "Downtown",
+    "street": "1120 Maunakea St # 102",
+    "city": "Honolulu",
+    "postalCode": "96817",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "phone": "(808) 550-2888",
+    "phoneUnformatted": "+18085502888",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 21.3129112,
+      "lng": -157.8632095
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006e7401789d99:0x9c1428dcd4f1d26e",
+    "cid": "11246659098381505134",
+    "reviewsCount": 1,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wellness%20Pharmacy%20II&query_place_id=ChIJmZ14AXRuAHwRbtLx1NwoFJw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eA8efS6ekifKgTo6JVeUHg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.07519&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tc_fgyx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1450 Ala Moana Blvd Ste 2401, Honolulu, HI 96814",
+    "neighborhood": "Ala Moana",
+    "street": "1450 Ala Moana Blvd Ste 2401",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/1450-ala-moana-blvd-ste-2401-honolulu-hi-96814/storeid=17720?WT.mc_id=LS_GOOGLE_RX_17720",
+    "phone": "(808) 956-1331",
+    "phoneUnformatted": "+18089561331",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.291298,
+      "lng": -157.8433791
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIwh8c_BtAHwRXFTAX0B0OIU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006df0737c0823:0x853874405fc0545c",
+    "cid": "9599550425573381212",
+    "reviewsCount": 23,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJIwh8c_BtAHwRXFTAX0B0OIU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPCFMY4HnQfCtl8MbWIrpUk7QPyCT4qpNZ-CBSP=w408-h272-k-no",
+    "kgmid": "/g/11fz03f25f",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Longs Drugs Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2155 Kal\u0101kaua Ave SUITE 102, Honolulu, HI 96815",
+    "neighborhood": "Waikiki",
+    "street": "2155 Kal\u0101kaua Ave SUITE 102",
+    "city": "Honolulu",
+    "postalCode": "96815",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/2155-kalakaua-ave-suite-102-honolulu-hi-96815/storeid=10621?WT.mc_id=LS_GOOGLE_RX_10621",
+    "phone": "(808) 922-8790",
+    "phoneUnformatted": "+18089228790",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2805264,
+      "lng": -157.8302228
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006d8a817aaaab:0xfc0ca4fca10ea18d",
+    "cid": "18162072802219172237",
+    "reviewsCount": 80,
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Longs%20Drugs%20Pharmacy&query_place_id=ChIJq6p6gYptAHwRjaEOofykDPw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO2xhY7MhdMT_jj8M8-K1mPA3pmimHXZYTekW2X=w408-h272-k-no",
+    "kgmid": "/g/11mx0j8v6y",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Longs Drugs",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "2155 Kal\u0101kaua Ave SUITE 102, Honolulu, HI 96815",
+    "neighborhood": "Waikiki",
+    "street": "2155 Kal\u0101kaua Ave SUITE 102",
+    "city": "Honolulu",
+    "postalCode": "96815",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/2155-kalakaua-ave-suite-102-honolulu-hi-96815/storeid=10621?WT.mc_id=LS_GOOGLE_FS_10621",
+    "phone": "(808) 922-8790",
+    "phoneUnformatted": "+18089228790",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2804474,
+      "lng": -157.8302889
+    },
+    "locatedIn": "CVS Photo",
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x7c006d8a814011ed:0x1a695fbe560560fd",
+    "cid": "1903157588632363261",
+    "reviewsCount": 376,
+    "imagesCount": 447,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.421Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Longs%20Drugs&query_place_id=ChIJ7RFAgYptAHwR_WAFVr5faRo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrhcKDpgeqRWTAAzyslU4CY35NR4cVHdQUIlcaYECCVP5y-7CUTlQVzgHdM-9polrRX9QM9NL1fwrFCGcz0OvQn1McSqiHCO0EYgP4tFeYpStq-J1OJu1aUdzskGe_BUF535UAVJw=w426-h240-k-no",
+    "kgmid": "/g/11bwkb644t",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Walgreens Specialty Pharmacy",
+    "description": "Department of the Walgreens chain providing prescription medications & other health-related items.",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "615 Piikoi St Ste 105, Honolulu, HI 96814",
+    "neighborhood": "Ala Moana",
+    "street": "615 Piikoi St Ste 105",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.walgreens.com/locator/walgreens-615+piikoi+st-honolulu-hi-96814/id=16272",
+    "phone": "(808) 593-4600",
+    "phoneUnformatted": "+18085934600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2950149,
+      "lng": -157.8456724
+    },
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD9SMZuVtAHwR0RI4RnTg-xw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006de5668cd40f:0x1cfbe074463812d1",
+    "cid": "2088509642215264977",
+    "reviewsCount": 16,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walgreens%20Specialty%20Pharmacy&query_place_id=ChIJD9SMZuVtAHwR0RI4RnTg-xw",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr0dEhej5L4w_QWcTUI9OvM0kGxHbuDHjk1LfKjht5upMIO94DPBYA_PntoaGUIfeCzIiEiveg1oMzYvxPWPSqj_rQliC_a5Yr3gSK1wNwvowAe8NR2jKxMAWRE-bt0MUTMewYt=w408-h544-k-no",
+    "kgmid": "/g/11bw3dn9x4",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Medipharm Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "875 Waimanu St STE 600, Honolulu, HI 96813",
+    "neighborhood": "Downtown",
+    "street": "875 Waimanu St STE 600",
+    "city": "Honolulu",
+    "postalCode": "96813",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/medipharm-pharmacy-honolulu-hi-96813/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1239929",
+    "phone": "(808) 744-9080",
+    "phoneUnformatted": "+18087449080",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.2996109,
+      "lng": -157.8545354
+    },
+    "totalScore": 2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x7c006de231baaaab:0xfe0a8eab13dc435d",
+    "cid": "18305600500824556381",
+    "reviewsCount": 1,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Medipharm%20Pharmacy&query_place_id=ChIJq6q6MeJtAHwRXUPcE6uOCv4",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM2BYx132a0GAlGcC6peCG9VoaFNoCGF6GgiGNX=w408-h306-k-no",
+    "kgmid": "/g/11gh2snlrj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Longs Drugs",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "1030 S King St, Honolulu, HI 96814",
+    "neighborhood": "Makiki/Lower/ Punchbowl/Tantalus",
+    "street": "1030 S King St",
+    "city": "Honolulu",
+    "postalCode": "96814",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/1030-s-king-st-honolulu-hi-96814/storeid=10081?WT.mc_id=LS_GOOGLE_FS_10081",
+    "phone": "(808) 591-8402",
+    "phoneUnformatted": "+18085918402",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.3014591,
+      "lng": -157.8476202
+    },
+    "locatedIn": "CVS",
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Liquor store",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x7c006de6509a0bd9:0xfa11728e315d60a",
+    "cid": "1126206846195324426",
+    "reviewsCount": 125,
+    "imagesCount": 78,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5\u202fAM to 12\u202fAM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Friday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "5\u202fAM\u201312\u202fAM"
+        }
+      ],
+      "Longs Drugs Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fAM\u20131:30\u202fPM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9\u202fAM\u20131:30\u202fPM"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Longs%20Drugs&query_place_id=ChIJ2QuaUOZtAHwRCtYV4ygXoQ8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2UoLKFqoEaEluQW0aTQtELjDXlz1bSCEqGSMA50IuA7qogGxedhoup19TZRrhjDLQSfwglbyBuk-h1Ws5axz1yk0Z-gSu8h0M8UvE2iSc7cfWwKU-cdYcV3NKnqDg5KOqWLXheA=w408-h544-k-no",
+    "kgmid": "/g/11b5yswhdg",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "Newtown Square Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Parking, lot 98-1247 Ka\u02bbahumanu St STE 110, Aiea, HI 96701",
+    "neighborhood": null,
+    "street": "Parking, lot 98-1247 Ka\u02bbahumanu St STE 110",
+    "city": "Aiea",
+    "postalCode": "96701",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/newtown-square-pharmacy-aiea-hi-96701/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=1203239",
+    "phone": "(808) 488-5458",
+    "phoneUnformatted": "+18084885458",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.38864,
+      "lng": -157.9532746
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c0066003dff28db:0x7d275b94d7825156",
+    "cid": "9018277473661636950",
+    "reviewsCount": 9,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Newtown%20Square%20Pharmacy&query_place_id=ChIJ2yj_PQBmAHwRVlGC15RbJ30",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOfdHr9tuJWWYa4zXTnrtI_gA-RKm3Phh-06ZSm=w426-h240-k-no",
+    "kgmid": "/g/1tfw37j1",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4380 Lawehana St, Honolulu, HI 96818",
+    "neighborhood": null,
+    "street": "4380 Lawehana St",
+    "city": "Honolulu",
+    "postalCode": "96818",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/honolulu-hi-pharmacies/4380-lawehana-st-honolulu-hi-96818/storeid=17470?WT.mc_id=LS_GOOGLE_RX_17470",
+    "phone": "(808) 441-3119",
+    "phoneUnformatted": "+18084413119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.3553179,
+      "lng": -157.929448
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUXZypWxvAHwRgHJM3XFyUqU",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006f6ca5727651:0xa5527271dd4c7280",
+    "cid": "11912709797718028928",
+    "reviewsCount": 19,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11\u202fAM to 1:30\u202fPM, 2 to 5\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJUXZypWxvAHwRgHJM3XFyUqU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPQZOK4Wnm7G3Q5h54gLJeL5DY1EcGs-KqsXSHe=w408-h272-k-no",
+    "kgmid": "/g/1trvlnd2",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Queen's POB III Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "550 S Beretania St. Suite 102, Honolulu, HI 96813",
+    "neighborhood": "Downtown",
+    "street": "550 S Beretania St. Suite 102",
+    "city": "Honolulu",
+    "postalCode": "96813",
+    "state": "Hawaii",
+    "countryCode": "US",
+    "website": "https://www.queens.org/locations/hospitals/qmc/services/pharmacy/",
+    "phone": "(808) 691-8925",
+    "phoneUnformatted": "+18086918925",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 21.3066693,
+      "lng": -157.8545943
+    },
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x7c006ddfd1f657a1:0x8fdd8905a5b58b67",
+    "cid": "10366592574624729959",
+    "reviewsCount": 41,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T07:32:49.422Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Queen's%20POB%20III%20Pharmacy&query_place_id=ChIJoVf20d9tAHwRZ4u1pQWJ3Y8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Honolulu%20HI/@70.60118977126913,-142.75332010026844,9z?hl=en",
+    "searchString": "independent pharmacy Honolulu HI",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqN6na6m4ap3rM7G_h_1TiM6ocmb8r7JCcHiFoo8cUmTsiZkunQMYHTE4v1vm1rEeK4OPHGBzgek7AgfGBJ7jubksDkMThSihdhMZHzU0PiFV8e6yPw3tafEY5Za-vpRBq2AyU=w408-h306-k-no",
+    "kgmid": "/g/1tjz3l93",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.98,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "honolulu_hi"
+  }
+]

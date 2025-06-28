@@ -1,0 +1,21 @@
+{
+  "max_results_per_query": 5,
+  "states": {
+    "CA": {
+      "cities": [
+        {
+          "name": "Los Angeles",
+          "queries": [
+            "independent pharmacy Los Angeles CA"
+          ]
+        },
+        {
+          "name": "San Francisco",
+          "queries": [
+            "independent pharmacy San Francisco CA"
+          ]
+        }
+      ]
+    }
+  }
+}

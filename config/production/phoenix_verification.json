@@ -1,0 +1,11 @@
+{
+  "queries": [
+    {
+      "query": "independent pharmacy Phoenix AZ",
+      "city": "Phoenix",
+      "state": "AZ"
+    }
+  ],
+  "max_results_per_query": 10,
+  "output_file": "phoenix_verified_pharmacies.json"
+}

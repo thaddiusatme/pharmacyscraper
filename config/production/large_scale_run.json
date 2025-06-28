@@ -1,0 +1,1408 @@
+{
+  "states": [
+    "AL",
+    "AZ",
+    "CA",
+    "CO",
+    "FL",
+    "GA",
+    "IL",
+    "IN",
+    "KY",
+    "LA",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MO",
+    "NJ",
+    "NY",
+    "NC",
+    "OH",
+    "OR",
+    "PA",
+    "TN",
+    "TX",
+    "VA",
+    "WA",
+    "AK",
+    "AR",
+    "CT",
+    "DE",
+    "HI",
+    "ID",
+    "IA",
+    "KS",
+    "ME",
+    "MS",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NM",
+    "ND",
+    "OK",
+    "RI",
+    "SC",
+    "SD",
+    "UT",
+    "VT",
+    "WV",
+    "WI",
+    "WY"
+  ],
+  "cities_per_state": 5,
+  "max_results_per_query": 20,
+  "queries": {
+    "AL": [
+      {
+        "query": "independent pharmacy Birmingham AL",
+        "city": "Birmingham",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Montgomery AL",
+        "city": "Montgomery",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Mobile AL",
+        "city": "Mobile",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Huntsville AL",
+        "city": "Huntsville",
+        "state": "AL"
+      },
+      {
+        "query": "independent pharmacy Tuscaloosa AL",
+        "city": "Tuscaloosa",
+        "state": "AL"
+      }
+    ],
+    "AZ": [
+      {
+        "query": "independent pharmacy Phoenix AZ",
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Tucson AZ",
+        "city": "Tucson",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Mesa AZ",
+        "city": "Mesa",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Chandler AZ",
+        "city": "Chandler",
+        "state": "AZ"
+      },
+      {
+        "query": "independent pharmacy Scottsdale AZ",
+        "city": "Scottsdale",
+        "state": "AZ"
+      }
+    ],
+    "CA": [
+      {
+        "query": "independent pharmacy Los Angeles CA",
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Diego CA",
+        "city": "San Diego",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Jose CA",
+        "city": "San Jose",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy San Francisco CA",
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      {
+        "query": "independent pharmacy Fresno CA",
+        "city": "Fresno",
+        "state": "CA"
+      }
+    ],
+    "CO": [
+      {
+        "query": "independent pharmacy Denver CO",
+        "city": "Denver",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Colorado Springs CO",
+        "city": "Colorado Springs",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Aurora CO",
+        "city": "Aurora",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Fort Collins CO",
+        "city": "Fort Collins",
+        "state": "CO"
+      },
+      {
+        "query": "independent pharmacy Lakewood CO",
+        "city": "Lakewood",
+        "state": "CO"
+      }
+    ],
+    "FL": [
+      {
+        "query": "independent pharmacy Jacksonville FL",
+        "city": "Jacksonville",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Miami FL",
+        "city": "Miami",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Tampa FL",
+        "city": "Tampa",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy Orlando FL",
+        "city": "Orlando",
+        "state": "FL"
+      },
+      {
+        "query": "independent pharmacy St. Petersburg FL",
+        "city": "St. Petersburg",
+        "state": "FL"
+      }
+    ],
+    "GA": [
+      {
+        "query": "independent pharmacy Atlanta GA",
+        "city": "Atlanta",
+        "state": "GA"
+      },
+      {
+        "query": "independent pharmacy Augusta GA",
+        "city": "Augusta",
+        "state": "GA"
+      },
+      {
+        "query": "independent pharmacy Columbus GA",
+        "city": "Columbus",
+        "state": "GA"
+      },
+      {
+        "query": "independent pharmacy Macon GA",
+        "city": "Macon",
+        "state": "GA"
+      },
+      {
+        "query": "independent pharmacy Savannah GA",
+        "city": "Savannah",
+        "state": "GA"
+      }
+    ],
+    "IL": [
+      {
+        "query": "independent pharmacy Chicago IL",
+        "city": "Chicago",
+        "state": "IL"
+      },
+      {
+        "query": "independent pharmacy Aurora IL",
+        "city": "Aurora",
+        "state": "IL"
+      },
+      {
+        "query": "independent pharmacy Rockford IL",
+        "city": "Rockford",
+        "state": "IL"
+      },
+      {
+        "query": "independent pharmacy Joliet IL",
+        "city": "Joliet",
+        "state": "IL"
+      },
+      {
+        "query": "independent pharmacy Naperville IL",
+        "city": "Naperville",
+        "state": "IL"
+      }
+    ],
+    "IN": [
+      {
+        "query": "independent pharmacy Indianapolis IN",
+        "city": "Indianapolis",
+        "state": "IN"
+      },
+      {
+        "query": "independent pharmacy Fort Wayne IN",
+        "city": "Fort Wayne",
+        "state": "IN"
+      },
+      {
+        "query": "independent pharmacy Evansville IN",
+        "city": "Evansville",
+        "state": "IN"
+      },
+      {
+        "query": "independent pharmacy South Bend IN",
+        "city": "South Bend",
+        "state": "IN"
+      },
+      {
+        "query": "independent pharmacy Carmel IN",
+        "city": "Carmel",
+        "state": "IN"
+      }
+    ],
+    "KY": [
+      {
+        "query": "independent pharmacy Louisville KY",
+        "city": "Louisville",
+        "state": "KY"
+      },
+      {
+        "query": "independent pharmacy Lexington KY",
+        "city": "Lexington",
+        "state": "KY"
+      },
+      {
+        "query": "independent pharmacy Bowling Green KY",
+        "city": "Bowling Green",
+        "state": "KY"
+      },
+      {
+        "query": "independent pharmacy Owensboro KY",
+        "city": "Owensboro",
+        "state": "KY"
+      },
+      {
+        "query": "independent pharmacy Covington KY",
+        "city": "Covington",
+        "state": "KY"
+      }
+    ],
+    "LA": [
+      {
+        "query": "independent pharmacy New Orleans LA",
+        "city": "New Orleans",
+        "state": "LA"
+      },
+      {
+        "query": "independent pharmacy Baton Rouge LA",
+        "city": "Baton Rouge",
+        "state": "LA"
+      },
+      {
+        "query": "independent pharmacy Shreveport LA",
+        "city": "Shreveport",
+        "state": "LA"
+      },
+      {
+        "query": "independent pharmacy Lafayette LA",
+        "city": "Lafayette",
+        "state": "LA"
+      },
+      {
+        "query": "independent pharmacy Lake Charles LA",
+        "city": "Lake Charles",
+        "state": "LA"
+      }
+    ],
+    "MD": [
+      {
+        "query": "independent pharmacy Baltimore MD",
+        "city": "Baltimore",
+        "state": "MD"
+      },
+      {
+        "query": "independent pharmacy Columbia MD",
+        "city": "Columbia",
+        "state": "MD"
+      },
+      {
+        "query": "independent pharmacy Germantown MD",
+        "city": "Germantown",
+        "state": "MD"
+      },
+      {
+        "query": "independent pharmacy Silver Spring MD",
+        "city": "Silver Spring",
+        "state": "MD"
+      },
+      {
+        "query": "independent pharmacy Waldorf MD",
+        "city": "Waldorf",
+        "state": "MD"
+      }
+    ],
+    "MA": [
+      {
+        "query": "independent pharmacy Boston MA",
+        "city": "Boston",
+        "state": "MA"
+      },
+      {
+        "query": "independent pharmacy Worcester MA",
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "query": "independent pharmacy Springfield MA",
+        "city": "Springfield",
+        "state": "MA"
+      },
+      {
+        "query": "independent pharmacy Cambridge MA",
+        "city": "Cambridge",
+        "state": "MA"
+      },
+      {
+        "query": "independent pharmacy Lowell MA",
+        "city": "Lowell",
+        "state": "MA"
+      }
+    ],
+    "MI": [
+      {
+        "query": "independent pharmacy Detroit MI",
+        "city": "Detroit",
+        "state": "MI"
+      },
+      {
+        "query": "independent pharmacy Grand Rapids MI",
+        "city": "Grand Rapids",
+        "state": "MI"
+      },
+      {
+        "query": "independent pharmacy Warren MI",
+        "city": "Warren",
+        "state": "MI"
+      },
+      {
+        "query": "independent pharmacy Sterling Heights MI",
+        "city": "Sterling Heights",
+        "state": "MI"
+      },
+      {
+        "query": "independent pharmacy Ann Arbor MI",
+        "city": "Ann Arbor",
+        "state": "MI"
+      }
+    ],
+    "MN": [
+      {
+        "query": "independent pharmacy Minneapolis MN",
+        "city": "Minneapolis",
+        "state": "MN"
+      },
+      {
+        "query": "independent pharmacy Saint Paul MN",
+        "city": "Saint Paul",
+        "state": "MN"
+      },
+      {
+        "query": "independent pharmacy Rochester MN",
+        "city": "Rochester",
+        "state": "MN"
+      },
+      {
+        "query": "independent pharmacy Duluth MN",
+        "city": "Duluth",
+        "state": "MN"
+      },
+      {
+        "query": "independent pharmacy Bloomington MN",
+        "city": "Bloomington",
+        "state": "MN"
+      }
+    ],
+    "MO": [
+      {
+        "query": "independent pharmacy Kansas City MO",
+        "city": "Kansas City",
+        "state": "MO"
+      },
+      {
+        "query": "independent pharmacy Saint Louis MO",
+        "city": "Saint Louis",
+        "state": "MO"
+      },
+      {
+        "query": "independent pharmacy Springfield MO",
+        "city": "Springfield",
+        "state": "MO"
+      },
+      {
+        "query": "independent pharmacy Columbia MO",
+        "city": "Columbia",
+        "state": "MO"
+      },
+      {
+        "query": "independent pharmacy Independence MO",
+        "city": "Independence",
+        "state": "MO"
+      }
+    ],
+    "NJ": [
+      {
+        "query": "independent pharmacy Newark NJ",
+        "city": "Newark",
+        "state": "NJ"
+      },
+      {
+        "query": "independent pharmacy Jersey City NJ",
+        "city": "Jersey City",
+        "state": "NJ"
+      },
+      {
+        "query": "independent pharmacy Paterson NJ",
+        "city": "Paterson",
+        "state": "NJ"
+      },
+      {
+        "query": "independent pharmacy Elizabeth NJ",
+        "city": "Elizabeth",
+        "state": "NJ"
+      },
+      {
+        "query": "independent pharmacy Edison NJ",
+        "city": "Edison",
+        "state": "NJ"
+      }
+    ],
+    "NY": [
+      {
+        "query": "independent pharmacy New York NY",
+        "city": "New York",
+        "state": "NY"
+      },
+      {
+        "query": "independent pharmacy Buffalo NY",
+        "city": "Buffalo",
+        "state": "NY"
+      },
+      {
+        "query": "independent pharmacy Rochester NY",
+        "city": "Rochester",
+        "state": "NY"
+      },
+      {
+        "query": "independent pharmacy Yonkers NY",
+        "city": "Yonkers",
+        "state": "NY"
+      },
+      {
+        "query": "independent pharmacy Syracuse NY",
+        "city": "Syracuse",
+        "state": "NY"
+      }
+    ],
+    "NC": [
+      {
+        "query": "independent pharmacy Charlotte NC",
+        "city": "Charlotte",
+        "state": "NC"
+      },
+      {
+        "query": "independent pharmacy Raleigh NC",
+        "city": "Raleigh",
+        "state": "NC"
+      },
+      {
+        "query": "independent pharmacy Greensboro NC",
+        "city": "Greensboro",
+        "state": "NC"
+      },
+      {
+        "query": "independent pharmacy Durham NC",
+        "city": "Durham",
+        "state": "NC"
+      },
+      {
+        "query": "independent pharmacy Winston-Salem NC",
+        "city": "Winston-Salem",
+        "state": "NC"
+      }
+    ],
+    "OH": [
+      {
+        "query": "independent pharmacy Columbus OH",
+        "city": "Columbus",
+        "state": "OH"
+      },
+      {
+        "query": "independent pharmacy Cleveland OH",
+        "city": "Cleveland",
+        "state": "OH"
+      },
+      {
+        "query": "independent pharmacy Cincinnati OH",
+        "city": "Cincinnati",
+        "state": "OH"
+      },
+      {
+        "query": "independent pharmacy Toledo OH",
+        "city": "Toledo",
+        "state": "OH"
+      },
+      {
+        "query": "independent pharmacy Akron OH",
+        "city": "Akron",
+        "state": "OH"
+      }
+    ],
+    "OR": [
+      {
+        "query": "independent pharmacy Portland OR",
+        "city": "Portland",
+        "state": "OR"
+      },
+      {
+        "query": "independent pharmacy Salem OR",
+        "city": "Salem",
+        "state": "OR"
+      },
+      {
+        "query": "independent pharmacy Eugene OR",
+        "city": "Eugene",
+        "state": "OR"
+      },
+      {
+        "query": "independent pharmacy Gresham OR",
+        "city": "Gresham",
+        "state": "OR"
+      },
+      {
+        "query": "independent pharmacy Hillsboro OR",
+        "city": "Hillsboro",
+        "state": "OR"
+      }
+    ],
+    "PA": [
+      {
+        "query": "independent pharmacy Philadelphia PA",
+        "city": "Philadelphia",
+        "state": "PA"
+      },
+      {
+        "query": "independent pharmacy Pittsburgh PA",
+        "city": "Pittsburgh",
+        "state": "PA"
+      },
+      {
+        "query": "independent pharmacy Allentown PA",
+        "city": "Allentown",
+        "state": "PA"
+      },
+      {
+        "query": "independent pharmacy Erie PA",
+        "city": "Erie",
+        "state": "PA"
+      },
+      {
+        "query": "independent pharmacy Reading PA",
+        "city": "Reading",
+        "state": "PA"
+      }
+    ],
+    "TN": [
+      {
+        "query": "independent pharmacy Nashville TN",
+        "city": "Nashville",
+        "state": "TN"
+      },
+      {
+        "query": "independent pharmacy Memphis TN",
+        "city": "Memphis",
+        "state": "TN"
+      },
+      {
+        "query": "independent pharmacy Knoxville TN",
+        "city": "Knoxville",
+        "state": "TN"
+      },
+      {
+        "query": "independent pharmacy Chattanooga TN",
+        "city": "Chattanooga",
+        "state": "TN"
+      },
+      {
+        "query": "independent pharmacy Clarksville TN",
+        "city": "Clarksville",
+        "state": "TN"
+      }
+    ],
+    "TX": [
+      {
+        "query": "independent pharmacy Houston TX",
+        "city": "Houston",
+        "state": "TX"
+      },
+      {
+        "query": "independent pharmacy San Antonio TX",
+        "city": "San Antonio",
+        "state": "TX"
+      },
+      {
+        "query": "independent pharmacy Dallas TX",
+        "city": "Dallas",
+        "state": "TX"
+      },
+      {
+        "query": "independent pharmacy Austin TX",
+        "city": "Austin",
+        "state": "TX"
+      },
+      {
+        "query": "independent pharmacy Fort Worth TX",
+        "city": "Fort Worth",
+        "state": "TX"
+      }
+    ],
+    "VA": [
+      {
+        "query": "independent pharmacy Virginia Beach VA",
+        "city": "Virginia Beach",
+        "state": "VA"
+      },
+      {
+        "query": "independent pharmacy Norfolk VA",
+        "city": "Norfolk",
+        "state": "VA"
+      },
+      {
+        "query": "independent pharmacy Chesapeake VA",
+        "city": "Chesapeake",
+        "state": "VA"
+      },
+      {
+        "query": "independent pharmacy Richmond VA",
+        "city": "Richmond",
+        "state": "VA"
+      },
+      {
+        "query": "independent pharmacy Newport News VA",
+        "city": "Newport News",
+        "state": "VA"
+      }
+    ],
+    "WA": [
+      {
+        "query": "independent pharmacy Seattle WA",
+        "city": "Seattle",
+        "state": "WA"
+      },
+      {
+        "query": "independent pharmacy Spokane WA",
+        "city": "Spokane",
+        "state": "WA"
+      },
+      {
+        "query": "independent pharmacy Tacoma WA",
+        "city": "Tacoma",
+        "state": "WA"
+      },
+      {
+        "query": "independent pharmacy Vancouver WA",
+        "city": "Vancouver",
+        "state": "WA"
+      },
+      {
+        "query": "independent pharmacy Bellevue WA",
+        "city": "Bellevue",
+        "state": "WA"
+      }
+    ],
+    "AK": [
+      {
+        "query": "independent pharmacy Anchorage AK",
+        "city": "Anchorage",
+        "state": "AK"
+      },
+      {
+        "query": "independent pharmacy Fairbanks AK",
+        "city": "Fairbanks",
+        "state": "AK"
+      },
+      {
+        "query": "independent pharmacy Juneau AK",
+        "city": "Juneau",
+        "state": "AK"
+      },
+      {
+        "query": "independent pharmacy Wasilla AK",
+        "city": "Wasilla",
+        "state": "AK"
+      },
+      {
+        "query": "independent pharmacy Sitka AK",
+        "city": "Sitka",
+        "state": "AK"
+      }
+    ],
+    "AR": [
+      {
+        "query": "independent pharmacy Little Rock AR",
+        "city": "Little Rock",
+        "state": "AR"
+      },
+      {
+        "query": "independent pharmacy Fayetteville AR",
+        "city": "Fayetteville",
+        "state": "AR"
+      },
+      {
+        "query": "independent pharmacy Fort Smith AR",
+        "city": "Fort Smith",
+        "state": "AR"
+      },
+      {
+        "query": "independent pharmacy Springdale AR",
+        "city": "Springdale",
+        "state": "AR"
+      },
+      {
+        "query": "independent pharmacy Jonesboro AR",
+        "city": "Jonesboro",
+        "state": "AR"
+      }
+    ],
+    "CT": [
+      {
+        "query": "independent pharmacy Bridgeport CT",
+        "city": "Bridgeport",
+        "state": "CT"
+      },
+      {
+        "query": "independent pharmacy New Haven CT",
+        "city": "New Haven",
+        "state": "CT"
+      },
+      {
+        "query": "independent pharmacy Stamford CT",
+        "city": "Stamford",
+        "state": "CT"
+      },
+      {
+        "query": "independent pharmacy Hartford CT",
+        "city": "Hartford",
+        "state": "CT"
+      },
+      {
+        "query": "independent pharmacy Waterbury CT",
+        "city": "Waterbury",
+        "state": "CT"
+      }
+    ],
+    "DE": [
+      {
+        "query": "independent pharmacy Wilmington DE",
+        "city": "Wilmington",
+        "state": "DE"
+      },
+      {
+        "query": "independent pharmacy Dover DE",
+        "city": "Dover",
+        "state": "DE"
+      },
+      {
+        "query": "independent pharmacy Newark DE",
+        "city": "Newark",
+        "state": "DE"
+      },
+      {
+        "query": "independent pharmacy Middletown DE",
+        "city": "Middletown",
+        "state": "DE"
+      },
+      {
+        "query": "independent pharmacy Bear DE",
+        "city": "Bear",
+        "state": "DE"
+      }
+    ],
+    "HI": [
+      {
+        "query": "independent pharmacy Honolulu HI",
+        "city": "Honolulu",
+        "state": "HI"
+      },
+      {
+        "query": "independent pharmacy Pearl City HI",
+        "city": "Pearl City",
+        "state": "HI"
+      },
+      {
+        "query": "independent pharmacy Hilo HI",
+        "city": "Hilo",
+        "state": "HI"
+      },
+      {
+        "query": "independent pharmacy Kailua HI",
+        "city": "Kailua",
+        "state": "HI"
+      },
+      {
+        "query": "independent pharmacy Waipahu HI",
+        "city": "Waipahu",
+        "state": "HI"
+      }
+    ],
+    "ID": [
+      {
+        "query": "independent pharmacy Boise ID",
+        "city": "Boise",
+        "state": "ID"
+      },
+      {
+        "query": "independent pharmacy Meridian ID",
+        "city": "Meridian",
+        "state": "ID"
+      },
+      {
+        "query": "independent pharmacy Nampa ID",
+        "city": "Nampa",
+        "state": "ID"
+      },
+      {
+        "query": "independent pharmacy Idaho Falls ID",
+        "city": "Idaho Falls",
+        "state": "ID"
+      },
+      {
+        "query": "independent pharmacy Caldwell ID",
+        "city": "Caldwell",
+        "state": "ID"
+      }
+    ],
+    "IA": [
+      {
+        "query": "independent pharmacy Des Moines IA",
+        "city": "Des Moines",
+        "state": "IA"
+      },
+      {
+        "query": "independent pharmacy Cedar Rapids IA",
+        "city": "Cedar Rapids",
+        "state": "IA"
+      },
+      {
+        "query": "independent pharmacy Davenport IA",
+        "city": "Davenport",
+        "state": "IA"
+      },
+      {
+        "query": "independent pharmacy Sioux City IA",
+        "city": "Sioux City",
+        "state": "IA"
+      },
+      {
+        "query": "independent pharmacy Iowa City IA",
+        "city": "Iowa City",
+        "state": "IA"
+      }
+    ],
+    "KS": [
+      {
+        "query": "independent pharmacy Wichita KS",
+        "city": "Wichita",
+        "state": "KS"
+      },
+      {
+        "query": "independent pharmacy Overland Park KS",
+        "city": "Overland Park",
+        "state": "KS"
+      },
+      {
+        "query": "independent pharmacy Kansas City KS",
+        "city": "Kansas City",
+        "state": "KS"
+      },
+      {
+        "query": "independent pharmacy Olathe KS",
+        "city": "Olathe",
+        "state": "KS"
+      },
+      {
+        "query": "independent pharmacy Topeka KS",
+        "city": "Topeka",
+        "state": "KS"
+      }
+    ],
+    "ME": [
+      {
+        "query": "independent pharmacy Portland ME",
+        "city": "Portland",
+        "state": "ME"
+      },
+      {
+        "query": "independent pharmacy Lewiston ME",
+        "city": "Lewiston",
+        "state": "ME"
+      },
+      {
+        "query": "independent pharmacy Bangor ME",
+        "city": "Bangor",
+        "state": "ME"
+      },
+      {
+        "query": "independent pharmacy South Portland ME",
+        "city": "South Portland",
+        "state": "ME"
+      },
+      {
+        "query": "independent pharmacy Auburn ME",
+        "city": "Auburn",
+        "state": "ME"
+      }
+    ],
+    "MS": [
+      {
+        "query": "independent pharmacy Jackson MS",
+        "city": "Jackson",
+        "state": "MS"
+      },
+      {
+        "query": "independent pharmacy Gulfport MS",
+        "city": "Gulfport",
+        "state": "MS"
+      },
+      {
+        "query": "independent pharmacy Southaven MS",
+        "city": "Southaven",
+        "state": "MS"
+      },
+      {
+        "query": "independent pharmacy Biloxi MS",
+        "city": "Biloxi",
+        "state": "MS"
+      },
+      {
+        "query": "independent pharmacy Hattiesburg MS",
+        "city": "Hattiesburg",
+        "state": "MS"
+      }
+    ],
+    "MT": [
+      {
+        "query": "independent pharmacy Billings MT",
+        "city": "Billings",
+        "state": "MT"
+      },
+      {
+        "query": "independent pharmacy Missoula MT",
+        "city": "Missoula",
+        "state": "MT"
+      },
+      {
+        "query": "independent pharmacy Great Falls MT",
+        "city": "Great Falls",
+        "state": "MT"
+      },
+      {
+        "query": "independent pharmacy Bozeman MT",
+        "city": "Bozeman",
+        "state": "MT"
+      },
+      {
+        "query": "independent pharmacy Butte MT",
+        "city": "Butte",
+        "state": "MT"
+      }
+    ],
+    "NE": [
+      {
+        "query": "independent pharmacy Omaha NE",
+        "city": "Omaha",
+        "state": "NE"
+      },
+      {
+        "query": "independent pharmacy Lincoln NE",
+        "city": "Lincoln",
+        "state": "NE"
+      },
+      {
+        "query": "independent pharmacy Bellevue NE",
+        "city": "Bellevue",
+        "state": "NE"
+      },
+      {
+        "query": "independent pharmacy Grand Island NE",
+        "city": "Grand Island",
+        "state": "NE"
+      },
+      {
+        "query": "independent pharmacy Kearney NE",
+        "city": "Kearney",
+        "state": "NE"
+      }
+    ],
+    "NV": [
+      {
+        "query": "independent pharmacy Las Vegas NV",
+        "city": "Las Vegas",
+        "state": "NV"
+      },
+      {
+        "query": "independent pharmacy Henderson NV",
+        "city": "Henderson",
+        "state": "NV"
+      },
+      {
+        "query": "independent pharmacy Reno NV",
+        "city": "Reno",
+        "state": "NV"
+      },
+      {
+        "query": "independent pharmacy North Las Vegas NV",
+        "city": "North Las Vegas",
+        "state": "NV"
+      },
+      {
+        "query": "independent pharmacy Sparks NV",
+        "city": "Sparks",
+        "state": "NV"
+      }
+    ],
+    "NH": [
+      {
+        "query": "independent pharmacy Manchester NH",
+        "city": "Manchester",
+        "state": "NH"
+      },
+      {
+        "query": "independent pharmacy Nashua NH",
+        "city": "Nashua",
+        "state": "NH"
+      },
+      {
+        "query": "independent pharmacy Concord NH",
+        "city": "Concord",
+        "state": "NH"
+      },
+      {
+        "query": "independent pharmacy Derry NH",
+        "city": "Derry",
+        "state": "NH"
+      },
+      {
+        "query": "independent pharmacy Dover NH",
+        "city": "Dover",
+        "state": "NH"
+      }
+    ],
+    "NM": [
+      {
+        "query": "independent pharmacy Albuquerque NM",
+        "city": "Albuquerque",
+        "state": "NM"
+      },
+      {
+        "query": "independent pharmacy Las Cruces NM",
+        "city": "Las Cruces",
+        "state": "NM"
+      },
+      {
+        "query": "independent pharmacy Rio Rancho NM",
+        "city": "Rio Rancho",
+        "state": "NM"
+      },
+      {
+        "query": "independent pharmacy Santa Fe NM",
+        "city": "Santa Fe",
+        "state": "NM"
+      },
+      {
+        "query": "independent pharmacy Roswell NM",
+        "city": "Roswell",
+        "state": "NM"
+      }
+    ],
+    "ND": [
+      {
+        "query": "independent pharmacy Fargo ND",
+        "city": "Fargo",
+        "state": "ND"
+      },
+      {
+        "query": "independent pharmacy Bismarck ND",
+        "city": "Bismarck",
+        "state": "ND"
+      },
+      {
+        "query": "independent pharmacy Grand Forks ND",
+        "city": "Grand Forks",
+        "state": "ND"
+      },
+      {
+        "query": "independent pharmacy Minot ND",
+        "city": "Minot",
+        "state": "ND"
+      },
+      {
+        "query": "independent pharmacy West Fargo ND",
+        "city": "West Fargo",
+        "state": "ND"
+      }
+    ],
+    "OK": [
+      {
+        "query": "independent pharmacy Oklahoma City OK",
+        "city": "Oklahoma City",
+        "state": "OK"
+      },
+      {
+        "query": "independent pharmacy Tulsa OK",
+        "city": "Tulsa",
+        "state": "OK"
+      },
+      {
+        "query": "independent pharmacy Norman OK",
+        "city": "Norman",
+        "state": "OK"
+      },
+      {
+        "query": "independent pharmacy Broken Arrow OK",
+        "city": "Broken Arrow",
+        "state": "OK"
+      },
+      {
+        "query": "independent pharmacy Lawton OK",
+        "city": "Lawton",
+        "state": "OK"
+      }
+    ],
+    "RI": [
+      {
+        "query": "independent pharmacy Providence RI",
+        "city": "Providence",
+        "state": "RI"
+      },
+      {
+        "query": "independent pharmacy Cranston RI",
+        "city": "Cranston",
+        "state": "RI"
+      },
+      {
+        "query": "independent pharmacy Warwick RI",
+        "city": "Warwick",
+        "state": "RI"
+      },
+      {
+        "query": "independent pharmacy Pawtucket RI",
+        "city": "Pawtucket",
+        "state": "RI"
+      },
+      {
+        "query": "independent pharmacy East Providence RI",
+        "city": "East Providence",
+        "state": "RI"
+      }
+    ],
+    "SC": [
+      {
+        "query": "independent pharmacy Charleston SC",
+        "city": "Charleston",
+        "state": "SC"
+      },
+      {
+        "query": "independent pharmacy Columbia SC",
+        "city": "Columbia",
+        "state": "SC"
+      },
+      {
+        "query": "independent pharmacy North Charleston SC",
+        "city": "North Charleston",
+        "state": "SC"
+      },
+      {
+        "query": "independent pharmacy Mount Pleasant SC",
+        "city": "Mount Pleasant",
+        "state": "SC"
+      },
+      {
+        "query": "independent pharmacy Rock Hill SC",
+        "city": "Rock Hill",
+        "state": "SC"
+      }
+    ],
+    "SD": [
+      {
+        "query": "independent pharmacy Sioux Falls SD",
+        "city": "Sioux Falls",
+        "state": "SD"
+      },
+      {
+        "query": "independent pharmacy Rapid City SD",
+        "city": "Rapid City",
+        "state": "SD"
+      },
+      {
+        "query": "independent pharmacy Aberdeen SD",
+        "city": "Aberdeen",
+        "state": "SD"
+      },
+      {
+        "query": "independent pharmacy Brookings SD",
+        "city": "Brookings",
+        "state": "SD"
+      },
+      {
+        "query": "independent pharmacy Watertown SD",
+        "city": "Watertown",
+        "state": "SD"
+      }
+    ],
+    "UT": [
+      {
+        "query": "independent pharmacy Salt Lake City UT",
+        "city": "Salt Lake City",
+        "state": "UT"
+      },
+      {
+        "query": "independent pharmacy West Valley City UT",
+        "city": "West Valley City",
+        "state": "UT"
+      },
+      {
+        "query": "independent pharmacy Provo UT",
+        "city": "Provo",
+        "state": "UT"
+      },
+      {
+        "query": "independent pharmacy West Jordan UT",
+        "city": "West Jordan",
+        "state": "UT"
+      },
+      {
+        "query": "independent pharmacy Orem UT",
+        "city": "Orem",
+        "state": "UT"
+      }
+    ],
+    "VT": [
+      {
+        "query": "independent pharmacy Burlington VT",
+        "city": "Burlington",
+        "state": "VT"
+      },
+      {
+        "query": "independent pharmacy Essex VT",
+        "city": "Essex",
+        "state": "VT"
+      },
+      {
+        "query": "independent pharmacy South Burlington VT",
+        "city": "South Burlington",
+        "state": "VT"
+      },
+      {
+        "query": "independent pharmacy Colchester VT",
+        "city": "Colchester",
+        "state": "VT"
+      },
+      {
+        "query": "independent pharmacy Rutland VT",
+        "city": "Rutland",
+        "state": "VT"
+      }
+    ],
+    "WV": [
+      {
+        "query": "independent pharmacy Charleston WV",
+        "city": "Charleston",
+        "state": "WV"
+      },
+      {
+        "query": "independent pharmacy Huntington WV",
+        "city": "Huntington",
+        "state": "WV"
+      },
+      {
+        "query": "independent pharmacy Morgantown WV",
+        "city": "Morgantown",
+        "state": "WV"
+      },
+      {
+        "query": "independent pharmacy Parkersburg WV",
+        "city": "Parkersburg",
+        "state": "WV"
+      },
+      {
+        "query": "independent pharmacy Wheeling WV",
+        "city": "Wheeling",
+        "state": "WV"
+      }
+    ],
+    "WI": [
+      {
+        "query": "independent pharmacy Milwaukee WI",
+        "city": "Milwaukee",
+        "state": "WI"
+      },
+      {
+        "query": "independent pharmacy Madison WI",
+        "city": "Madison",
+        "state": "WI"
+      },
+      {
+        "query": "independent pharmacy Green Bay WI",
+        "city": "Green Bay",
+        "state": "WI"
+      },
+      {
+        "query": "independent pharmacy Kenosha WI",
+        "city": "Kenosha",
+        "state": "WI"
+      },
+      {
+        "query": "independent pharmacy Racine WI",
+        "city": "Racine",
+        "state": "WI"
+      }
+    ],
+    "WY": [
+      {
+        "query": "independent pharmacy Cheyenne WY",
+        "city": "Cheyenne",
+        "state": "WY"
+      },
+      {
+        "query": "independent pharmacy Casper WY",
+        "city": "Casper",
+        "state": "WY"
+      },
+      {
+        "query": "independent pharmacy Laramie WY",
+        "city": "Laramie",
+        "state": "WY"
+      },
+      {
+        "query": "independent pharmacy Gillette WY",
+        "city": "Gillette",
+        "state": "WY"
+      },
+      {
+        "query": "independent pharmacy Rock Springs WY",
+        "city": "Rock Springs",
+        "state": "WY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1274 @@
+[
+  {
+    "title": "Grizzly Pharmacy - Fresno",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "6017 N Palm Ave, Fresno, CA 93704, United States",
+    "neighborhood": null,
+    "street": "6017 N Palm Ave",
+    "city": "Fresno",
+    "postalCode": "93704",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://grizzlypharmacy.com/",
+    "phone": "+1 559-424-0423",
+    "phoneUnformatted": "+15594240423",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8234046,
+      "lng": -119.8085948
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8094673a01bd5051:0xe703300f7659dae5",
+    "cid": "16646201490659728101",
+    "reviewsCount": 185,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.813Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2:30 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Grizzly%20Pharmacy%20-%20Fresno&query_place_id=ChIJUVC9ATpnlIAR5dpZdg8wA-c",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNi5IoLb1Ox8Kbpt9YcTC1m7GL7DOBNAiZ9gi_5=w408-h272-k-no",
+    "kgmid": "/g/11td2wvm9n",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Care Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "302 E Bullard Ave, Fresno, CA 93710, United States",
+    "neighborhood": null,
+    "street": "302 E Bullard Ave",
+    "city": "Fresno",
+    "postalCode": "93710",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.mygnp.com/pharmacies/care-pharmacy-fresno-ca-93710/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=5669378",
+    "phone": "+1 559-261-9888",
+    "phoneUnformatted": "+15592619888",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8235475,
+      "lng": -119.7836739
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80945d597bff0467:0xcb0ec0ecd0826105",
+    "cid": "14631844362716340485",
+    "reviewsCount": 25,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.814Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Care%20Pharmacy&query_place_id=ChIJZwT_e1ldlIARBWGC0OzADss",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npR_Gi0klyaVN6TKKuHTu22K7iMJpcVT2s-rBZBmkJa5AyaWDLGgBb2OFBsj-j5gXEFDI2Vf0H6YzSRjDsLCUf6DRdyMHtkNaIp7ubBrC0lOO-UYtYy-f1gCr66XEgp1ZyMIqtP=w408-h544-k-no",
+    "kgmid": "/g/11bbydblnv",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "PharMerica \u2013 Fresno, CA",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4910 E Ashlan Ave, Fresno, CA 93726, United States",
+    "neighborhood": "McLane",
+    "street": "4910 E Ashlan Ave",
+    "city": "Fresno",
+    "postalCode": "93726",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://www.pharmerica.com/",
+    "phone": "+1 800-499-9079",
+    "phoneUnformatted": "+18004999079",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.7938128,
+      "lng": -119.7306268
+    },
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80945dc4dec580c3:0xe52424f0f994a7bd",
+    "cid": "16511362751245100989",
+    "reviewsCount": 1,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=PharMerica%20%E2%80%93%20Fresno%2C%20CA&query_place_id=ChIJw4DF3sRdlIARvaeU-fAkJOU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZBfmv6dax80lQY4FUHkGag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=173.5989&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ln1m8_h3",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Proscript Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7462 N Fresno St, Fresno, CA 93720, United States",
+    "neighborhood": null,
+    "street": "7462 N Fresno St",
+    "city": "Fresno",
+    "postalCode": "93720",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "+1 559-753-8180",
+    "phoneUnformatted": "+15597538180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8453609,
+      "lng": -119.7828131
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x809442a8ae69e693:0x25802bc474120267",
+    "cid": "2702207899183219303",
+    "reviewsCount": 16,
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Proscript%20Pharmacy&query_place_id=ChIJk-ZprqhClIARZwISdMQrgCU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOE5rnqKGH2jwfefEu8RsKkWrk3CDYfmd5vHWg1=w408-h306-k-no",
+    "kgmid": "/g/11kw2gvcy5",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "CarePlus Drugs Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4177 W Shaw Ave ste 109, Fresno, CA 93722, United States",
+    "neighborhood": null,
+    "street": "4177 W Shaw Ave ste 109",
+    "city": "Fresno",
+    "postalCode": "93722",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "+1 559-385-7413",
+    "phoneUnformatted": "+15593857413",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8075277,
+      "lng": -119.8666495
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80946746b8405423:0xd9389b1de660bde2",
+    "cid": "15652431057647615458",
+    "reviewsCount": 24,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9\u202fam\u20136\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CarePlus%20Drugs%20Pharmacy&query_place_id=ChIJI1RAuEZnlIAR4r1g5h2bONk",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPqLQiaBV1NXwih_3JxjIiafMH9Y-38lSKLmrST=w408-h406-k-no",
+    "kgmid": "/g/11fjytmwnj",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.8,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "MixMed Compounding Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2101 Herndon Ave #102, Clovis, CA 93611, United States",
+    "neighborhood": null,
+    "street": "2101 Herndon Ave #102",
+    "city": "Clovis",
+    "postalCode": "93611",
+    "state": "California",
+    "countryCode": "US",
+    "website": "http://mixmedpharmacy.com/",
+    "phone": "+1 559-298-0600",
+    "phoneUnformatted": "+15592980600",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8382151,
+      "lng": -119.6771571
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80945b43bd9b4659:0xf1a48d40bfbc99be",
+    "cid": "17412197368555411902",
+    "reviewsCount": 29,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cheques": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MixMed%20Compounding%20Pharmacy&query_place_id=ChIJWUabvUNblIARvpm8v0CNpPE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNrumkeVQry8cEjOAt5dPcXmWhCkBXqIBvuNpeT=w408-h306-k-no",
+    "kgmid": "/g/11f62cxc72",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": true,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "The Medicine Shoppe Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4009 N Marks Ave, Fresno, CA 93722, United States",
+    "neighborhood": null,
+    "street": "4009 N Marks Ave",
+    "city": "Fresno",
+    "postalCode": "93722",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.medicineshoppe.com/find-a-pharmacy",
+    "phone": "+1 559-226-1201",
+    "phoneUnformatted": "+15592261201",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.794355,
+      "lng": -119.8457687
+    },
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x8094664f25d22d9b:0x706865049e7c3552",
+    "cid": "8099835000339051858",
+    "reviewsCount": 12,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Medicine%20Shoppe%20Pharmacy&query_place_id=ChIJmy3SJU9mlIARUjV8ngRlaHA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NBFZSdsbLvb1COWsSKnoyQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=282.38107&pitch=0&thumbfov=100",
+    "kgmid": "/g/1wfcpcyx",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "the medicine shoppe pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "4845 E Butler Ave, Fresno, CA 93727, United States",
+    "neighborhood": "Roosevelt",
+    "street": "4845 E Butler Ave",
+    "city": "Fresno",
+    "postalCode": "93727",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://www.medicineshoppe.com/find-a-pharmacy",
+    "phone": "+1 559-255-3301",
+    "phoneUnformatted": "+15592553301",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 36.7294042,
+      "lng": -119.734508
+    },
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80945f0251909a05:0x5a58af87c1f083ab",
+    "cid": "6510146258973262763",
+    "reviewsCount": 17,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 12:30\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=the%20medicine%20shoppe%20pharmacy&query_place_id=ChIJBZqQUQJflIARq4PwwYevWFo",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCvlRJHNKeOrTq4c6MVq3V_-Ud-wDoU9hkSEO_6aP5Dzt6sM2l2KOeCf4WkPNTmfw_JgvPVJK__iqDN34Q2SNw0TR64BKV43Buy-WJ-W4j3or3iCE5Hv9Cx-qvQkf485Dnm002ICA3vds=w408-h544-k-no",
+    "kgmid": "/g/1whdjlrn",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "MyMed Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "7141 N Cedar Ave #104, Fresno, CA 93720, United States",
+    "neighborhood": null,
+    "street": "7141 N Cedar Ave #104",
+    "city": "Fresno",
+    "postalCode": "93720",
+    "state": "California",
+    "countryCode": "US",
+    "phone": "+1 559-325-6633",
+    "phoneUnformatted": "+15593256633",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.8398194,
+      "lng": -119.7561514
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x80945d32393a700f:0xb3c8cdfd1a1dd3b6",
+    "cid": "12954830815079814070",
+    "reviewsCount": 39,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.815Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 2\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MyMed%20Pharmacy&query_place_id=ChIJD3A6OTJdlIARttMdGv3NyLM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fDry0O7EBirlxmaQJQUnLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=142.75941&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cky76n3f",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.85,
+    "source": "perplexity",
+    "method": "llm"
+  },
+  {
+    "title": "Modern Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3044 Tulare St, Fresno, CA 93721, United States",
+    "neighborhood": "Downtown",
+    "street": "3044 Tulare St",
+    "city": "Fresno",
+    "postalCode": "93721",
+    "state": "California",
+    "countryCode": "US",
+    "website": "https://modernrx.biz/",
+    "phone": "+1 559-266-0701",
+    "phoneUnformatted": "+15592660701",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 36.7416755,
+      "lng": -119.7788414
+    },
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x80945e19b5d0503d:0xd26e14fbe5ec34d5",
+    "cid": "15163080067529848021",
+    "reviewsCount": 30,
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T04:16:22.816Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Spanish": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Modern%20Drug&query_place_id=ChIJPVDQtRlelIAR1TTs5fsUbtI",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Fresno%20CA/@55.6612261832132,-157.33936736968505,13z?hl=en",
+    "searchString": "independent pharmacy Fresno CA",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipN50rn0H4YIjAYFtHh_d89V7kPdInoI0enBKKXg=w408-h305-k-no",
+    "kgmid": "/g/1tdp0q58",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm"
+  }
+]

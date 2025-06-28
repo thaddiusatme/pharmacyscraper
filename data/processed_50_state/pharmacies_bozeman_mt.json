@@ -1,0 +1,2616 @@
+[
+  {
+    "title": "Rocky Mountain Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1931 Stevens St Unit B, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "1931 Stevens St Unit B",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://rmpharmacy.com/",
+    "phone": "(406) 587-4332",
+    "phoneUnformatted": "+14065874332",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6902951,
+      "lng": -111.0629031
+    },
+    "plusCode": "MWRP+4R Bozeman, Montana",
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5345445088d94389:0xd8cc647bbbef03be",
+    "cid": "15621971690038166462",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 3,
+    "imageCategories": [
+      "All",
+      "By owner",
+      "Street View & 360\u00b0"
+    ],
+    "scrapedAt": "2025-06-22T08:27:14.946Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [
+      {
+        "category": "People also search for",
+        "title": "Billings Clinic Bozeman Community Pharmacy",
+        "reviewsCount": 1,
+        "totalScore": 4
+      },
+      {
+        "category": "People also search for",
+        "title": "Safeway Pharmacy",
+        "reviewsCount": 40,
+        "totalScore": 2.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Rx",
+        "reviewsCount": 0,
+        "totalScore": 0
+      },
+      {
+        "category": "People also search for",
+        "title": "Western Drug of Bozeman",
+        "reviewsCount": 18,
+        "totalScore": 3.8
+      },
+      {
+        "category": "People also search for",
+        "title": "Rocky Mountain Natural Health",
+        "reviewsCount": 7,
+        "totalScore": 2.9
+      }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+      {
+        "title": "dog",
+        "count": 2
+      }
+    ],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rocky%20Mountain%20Pharmacy&query_place_id=ChIJiUPZiFBERVMRvgPvu3tkzNg",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@68.51690656216455,-140.45172212891654,9z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPZwa-OlpDTWX45CyNJW8RFaXQnxHAv05DY96Uw=w408-h544-k-no",
+    "kgmid": "/g/1tlqpnhc",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Bozeman Health Highland Park Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "925 Highland Blvd, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "925 Highland Blvd",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.bozemanhealth.org/",
+    "phone": "(406) 414-1030",
+    "phoneUnformatted": "+14064141030",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6694597,
+      "lng": -111.0202731
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJx_io4_JERVMR48RWKP5hajE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x534544f2e3a8f8c7:0x316a61fe2856c4e3",
+    "cid": "3560766199616160995",
+    "reviewsCount": 12,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 3\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bozeman%20Health%20Highland%20Park%20Pharmacy&query_place_id=ChIJx_io4_JERVMR48RWKP5hajE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "kgmid": "/g/1tk1mnkd",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Billings Clinic Bozeman Community Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3905 Wellness Wy, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "3905 Wellness Wy",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.billingsclinic.com/billings-clinic-bozeman/community-pharmacy/?utm_source=gmb-providers&utm_campaign=local-listings&utm_medium=bozeman-pharmacy",
+    "phone": "(406) 898-1250",
+    "phoneUnformatted": "+14068981250",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.7210386,
+      "lng": -111.0780518
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYcczQchHRVMR8MBE1kKqk4s",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x534547c84133c761:0x8b93aa42d644c0f0",
+    "cid": "10057569596887843056",
+    "reviewsCount": 1,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Billings%20Clinic%20Bozeman%20Community%20Pharmacy&query_place_id=ChIJYcczQchHRVMR8MBE1kKqk4s",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNXJVioTS9FHgYiXYBD4UuOtOjZK_gJlP_Ei0AL=w408-h271-k-no",
+    "kgmid": "/g/11sf2c7nxk",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Price Rite Drug and Medical Equipment",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "910 N 7th Ave, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "910 N 7th Ave",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.priceritedrug.com/",
+    "phone": "(406) 587-0608",
+    "phoneUnformatted": "+14065870608",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6890631,
+      "lng": -111.0445797
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Beer store",
+      "Delivery service",
+      "Medical equipment supplier",
+      "Medical supply store",
+      "Oxygen equipment supplier",
+      "Wine store"
+    ],
+    "fid": "0x5345444863f54bb1:0xafb6332d70599cf9",
+    "cid": "12661363672650194169",
+    "reviewsCount": 106,
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Price%20Rite%20Drug%20and%20Medical%20Equipment&query_place_id=ChIJsUv1Y0hERVMR-ZxZcC0ztq8",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np7UyAc7Ynt8pwdSfzAwHl_mxf2Z4sGv9P0a6tmWFhBhbzjHZL-GvKoRvmQcpvqi69-9WGqgCebnNRe-AeXf0UpDQpQ9ff-bIdrFtzQhU8oKmhOYR470-UoA7xEI7h-0QGQfF39RQ=w408-h306-k-no",
+    "kgmid": "/g/1tc_dy5j",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Community Health Partners - Bozeman CHP Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1695 Tschache Ln, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "1695 Tschache Ln",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://chphealthmt.org/clinics/bozeman",
+    "phone": "(406) 922-0843",
+    "phoneUnformatted": "+14069220843",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6968386,
+      "lng": -111.0587495
+    },
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ37cl-dNFRVMR9PQYpHhW3g0",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x534545d3f925b7df:0xdde5678a418f4f4",
+    "cid": "999331243471992052",
+    "reviewsCount": 8,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Community%20Health%20Partners%20-%20Bozeman%20CHP%20Pharmacy&query_place_id=ChIJ37cl-dNFRVMR9PQYpHhW3g0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOTESzMwrHWDifJvxoO8p3d0ClncVWn74w10FtT=w408-h272-k-no",
+    "kgmid": "/g/11kb_q1wh9",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Smith's Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1400 N 19th Ave, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "1400 N 19th Ave",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.smithsfoodanddrug.com/rx/pharmacy/details/706/00170?cid=loc_70600170P_gmb",
+    "phone": "(406) 586-3550",
+    "phoneUnformatted": "+14065863550",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6944675,
+      "lng": -111.0599595
+    },
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg5trcTNERVMRNiIe87moRkU",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Health counselor",
+      "Home health care service"
+    ],
+    "fid": "0x53454433716b9b83:0x4546a8b9f31e2236",
+    "cid": "4991862753588027958",
+    "reviewsCount": 40,
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.126Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM, 1:30 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1\u202fPM, 1:30 to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Smith's%20Pharmacy&query_place_id=ChIJg5trcTNERVMRNiIe87moRkU",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipO_6A9BqfHcbodvsWbCEe606HiG47ZZGm7WVJbb=w426-h240-k-no",
+    "kgmid": "/g/11cjgczmms",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Western Drug of Bozeman",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "200 Highland Blvd, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "200 Highland Blvd",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 587-3145",
+    "phoneUnformatted": "+14065873145",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.67732,
+      "lng": -111.0186536
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x5345445eb073891f:0xec0f4a1270a13c5f",
+    "cid": "17009895760661134431",
+    "reviewsCount": 18,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Western%20Drug%20of%20Bozeman&query_place_id=ChIJH4lzsF5ERVMRXzyhcBJKD-w",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Yy4OQwCu45PacDkR5jz7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=338.00528&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tj5qdkr",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "MSU-Student Health Service Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "950 W Grant St, Bozeman, MT 59717",
+    "neighborhood": null,
+    "street": "950 W Grant St",
+    "city": "Bozeman",
+    "postalCode": "59717",
+    "state": "Montana",
+    "countryCode": "US",
+    "phone": "(406) 994-5498",
+    "phoneUnformatted": "+14069945498",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.6651724,
+      "lng": -111.0500203
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJKYmu6gNFRVMRNxJL3VoUYbA",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x53454503eaae8929:0xb061145add4b1237",
+    "cid": "12709462003908547127",
+    "reviewsCount": 1,
+    "imagesCount": null,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MSU-Student%20Health%20Service%20Pharmacy&query_place_id=ChIJKYmu6gNFRVMRNxJL3VoUYbA",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "kgmid": "/g/11pwd299zv",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "115 N 19th Ave, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "115 N 19th Ave",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bozeman-mt-pharmacies/115-north-19th-ave-bozeman-mt-59718/storeid=8621?WT.mc_id=LS_GOOGLE_RX_8621",
+    "phone": "(406) 587-9252",
+    "phoneUnformatted": "+14065879252",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.680547,
+      "lng": -111.0627707
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_R-cp7FFRVMRTD1OJ2cZNzE",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x534545b1a79c1ffd:0x31371967274e3d4c",
+    "cid": "3546331162409319756",
+    "reviewsCount": 56,
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 1:30\u202fPM, 2 to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 1:30\u202fPM, 2 to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        },
+        {
+          "Naloxone": true
+        },
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safespace": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "SNAP/EBT": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS%20Pharmacy&query_place_id=ChIJ_R-cp7FFRVMRTD1OJ2cZNzE",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPJWAVKkBDY7KAiJfjuamJPsUw1R99_GZ-uDev0=w408-h272-k-no",
+    "kgmid": "/g/11c468ny7r",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Safeway Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "1735 W Main St, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "1735 W Main St",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.safeway.com/safeway/mt/bozeman/1735-w-main-st.html",
+    "phone": "(406) 585-9155",
+    "phoneUnformatted": "+14065859155",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6796363,
+      "lng": -111.0601612
+    },
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP1kV8LFFRVMR3XZl2W1E6Co",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x534545b1f015593f:0x2ae8446dd96576dd",
+    "cid": "3091796382779274973",
+    "reviewsCount": 40,
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Safeway%20Pharmacy&query_place_id=ChIJP1kV8LFFRVMR3XZl2W1E6Co",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no-HCArbUwwVEYyM3sxau5gQwoAkJMGciJPPlXc_vWKsBWr5r7HlMeDAC3kpCifsSDDc9aQrrXTzRxICNQV4amsw98wKwPpS8Yke8k3xFc8IBo_Up7fZaHM61tTfeXq7uYDmLdRyw=w408-h306-k-no",
+    "kgmid": "/g/1ptzf_djq",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Rosauers Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3255 Technology Blvd W, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "3255 Technology Blvd W",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.rosauers.com/",
+    "phone": "(406) 587-4005",
+    "phoneUnformatted": "+14065874005",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6698211,
+      "lng": -111.0819597
+    },
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x5345459bde40b319:0xe7f98519c9185de3",
+    "cid": "16715537837756800483",
+    "reviewsCount": 43,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rosauers%20Pharmacy&query_place_id=ChIJGbNA3ptFRVMR410YyRmF-ec",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noVy6QwCyKjxl7tn0lzJqGK6TsrO1wogNP3ld0n-lYRhew4xbe41hh7L_BboNpdIBlXDWttjI0rpEakG265EVbCr3Nj2H0r6hjRKxWPGkIYUeggDAIB9RdPx-tNFiJCfMEkwfpF=w408-h306-k-no",
+    "kgmid": "/g/1thxq9gj",
+    "classification": "chain",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Albertsons Pharmacy",
+    "price": "$$",
+    "categoryName": "Pharmacy",
+    "address": "200 S 23rd Ave, Bozeman, MT 59718",
+    "neighborhood": null,
+    "street": "200 S 23rd Ave",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://local.pharmacy.albertsons.com/mt/bozeman/200-s-23rd-ave.html",
+    "phone": "(406) 587-8800",
+    "phoneUnformatted": "+14065878800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6769479,
+      "lng": -111.065001
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJE4i6T0xERVMRaQwWgXjFX5g",
+    "categories": [
+      "Pharmacy",
+      "Drug store",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x5345444c4fba8813:0x985fc57881160c69",
+    "cid": "10979711537905011817",
+    "reviewsCount": 40,
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Albertsons%20Pharmacy&query_place_id=ChIJE4i6T0xERVMRaQwWgXjFX5g",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMXQ27i_zlBAFdHlkNbFmQF5nNLHVF8NkVZqXyk=w427-h240-k-no",
+    "kgmid": "/g/1tlzzvj5",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Walmart Pharmacy",
+    "price": "$",
+    "categoryName": "Pharmacy",
+    "address": "1500 N 7th Ave, Bozeman, MT 59715",
+    "neighborhood": null,
+    "street": "1500 N 7th Ave",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.walmart.com/store/2084-bozeman-mt/pharmacy/?veh=seo_loc",
+    "phone": "(406) 585-8753",
+    "phoneUnformatted": "+14065858753",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.6946174,
+      "lng": -111.0420651
+    },
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXSCjazlERVMRRa_ai2gFHsY",
+    "categories": [
+      "Pharmacy",
+      "Herbal medicine store",
+      "Medical supply store",
+      "Parapharmacy",
+      "Vitamin & supplements store"
+    ],
+    "fid": "0x534544396ba3205d:0xc61e05688bdaaf45",
+    "cid": "14275853815392153413",
+    "reviewsCount": 29,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:37.127Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 7\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10\u202fAM to 6\u202fPM"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Curbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Walmart%20Pharmacy&query_place_id=ChIJXSCjazlERVMRRa_ai2gFHsY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipM_Rb5ckrqZ0T5-2GG248P7pup9Eoy9H4x6L2c=w408-h306-k-no",
+    "kgmid": "/g/1hf1nx4vd",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Specialty Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1015 Broadwater Ave, Billings, MT 59102",
+    "neighborhood": null,
+    "street": "1015 Broadwater Ave",
+    "city": "Billings",
+    "postalCode": "59102",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.billingsclinic.com/maps-locations/location-profile/?searchId=df195999-69a2-e911-a81f-000d3a61151d&sort=11&page=4&pageSize=10&id=131&utm_source=YextLocation-BCLSpecialtyPharm-Broadwater&utm_medium=YextLocationURL&utm_campaign=YextLocation",
+    "phone": "(406) 435-6393",
+    "phoneUnformatted": "+14064356393",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.7772756,
+      "lng": -108.5416533
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x53487d443398a0c9:0xb3504b0ee8bf4dc0",
+    "cid": "12920909858332429760",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:27:38.132Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store shopping": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Specialty%20Pharmacy&query_place_id=ChIJyaCYM0R9SFMRwE2_6A5LULM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-105.48342742835163,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrr0eYxZ9uImPjVwudnxm3S7fFFoP8UR61uJwnIwFUfd0Zj-PyHFKCNIn14C50PREcd1V13XHIr4133kPNQy8T86tek9JPOSHD-BwYrlC_zS1PDYR_NtQutsGGpz-2Kq20jxpuKWg=w408-h544-k-no",
+    "kgmid": "/g/11g4bf0bxc",
+    "classification": "hospital",
+    "is_independent": false,
+    "is_compounding": false,
+    "confidence": 0.95,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Option Care Health",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "2304 N 7th Ave Suite H, Bozeman, MT 59715, United States",
+    "neighborhood": null,
+    "street": "2304 N 7th Ave Suite H",
+    "city": "Bozeman",
+    "postalCode": "59715",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://optioncarehealth.com/",
+    "phone": "+1 406-587-1050",
+    "phoneUnformatted": "+14065871050",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.7026143,
+      "lng": -111.0450912
+    },
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7UGVFyNERVMRCCLfpzmJ6VQ",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x53454423179541ed:0x54e98939a7df2208",
+    "cid": "6118572449482088968",
+    "reviewsCount": 10,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:28:11.750Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": false
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Option%20Care%20Health&query_place_id=ChIJ7UGVFyNERVMRCCLfpzmJ6VQ",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@42.54640259466427,-102.31720148556776,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQpBSyCdO97vtx0VzEDGOVX3NbmTb4s4EyPm9oJ54ECYn4DxfkrZHJRnQpqaQjLEtKvj16BmRMyrVZeh-lLtZAJ18rf5Vtm6CFr09Mg5HAgMp3TbMCwB9gZqilGeP-Ml59KiY=w408-h544-k-no",
+    "kgmid": "/g/11f1vnw6mj",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "CVS",
+    "description": "Drugstore chain selling a variety of beauty & health products, plus some grocery & household items.",
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "115 N 19th Ave, Bozeman, MT 59718, United States",
+    "neighborhood": null,
+    "street": "115 N 19th Ave",
+    "city": "Bozeman",
+    "postalCode": "59718",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.cvs.com/store-locator/bozeman-mt-pharmacies/115-north-19th-ave-bozeman-mt-59718/storeid=8621?WT.mc_id=LS_GOOGLE_FS_8621",
+    "phone": "+1 406-587-9252",
+    "phoneUnformatted": "+14065879252",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.680547,
+      "lng": -111.0627707
+    },
+    "locatedIn": "CVS Pharmacy",
+    "totalScore": 1.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJh42ydLJFRVMRR2AEKvL55RY",
+    "categories": [
+      "Drug store",
+      "Beauty supply store",
+      "Beer store",
+      "Convenience store",
+      "Cosmetics store",
+      "Greeting card shop",
+      "Perfume store",
+      "Stationery store",
+      "Vitamin & supplements store",
+      "Wine store"
+    ],
+    "fid": "0x534545b274b28d87:0x16e5f9f22a046047",
+    "cid": "1649999656983486535",
+    "reviewsCount": 340,
+    "imagesCount": 26,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:28:14.073Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8\u202fAM to 8\u202fPM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "CVS Pharmacy": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9\u202fam\u20131:30\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10\u202fam\u20131:30\u202fpm"
+        }
+      ],
+      "CVS Photo": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fam\u20138\u202fpm"
+        }
+      ],
+      "LibertyX Bitcoin ATM": [
+        {
+          "day": "Monday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Friday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8\u202fam\u201310\u202fpm"
+        }
+      ]
+    },
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": false
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Passport photos": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        },
+        {
+          "Transgender safe space": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CVS&query_place_id=ChIJh42ydLJFRVMRR2AEKvL55RY",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@28.23564,-177.09541785221646,12z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqo3H_QS6zuIZrsUaWWXg0_Rvi_2hhIPtdIdbb2LLfih6KUJqEnLUBj69XXtqZGkcsUJI6FgYFGaNF1rHqSQSb_zcGBAd-lFOnRMmAM5fmuG6QEYwl7iCauS4Q4A-5H9iuZjtAY=w408-h306-k-no",
+    "kgmid": "/g/1thhk539",
+    "classification": "chain",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Missoula Pharmacy, INC.",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1211 S Reserve St #102, Missoula, MT 59801",
+    "neighborhood": "Franklin to the Fort",
+    "street": "1211 S Reserve St #102",
+    "city": "Missoula",
+    "postalCode": "59801",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.missoulapharmacy.com/",
+    "phone": "(406) 728-5650",
+    "phoneUnformatted": "+14067285650",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 46.8605409,
+      "lng": -114.0406294
+    },
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x535dcdfc62c77e5f:0xc3ec1a4e1b22c606",
+    "cid": "14117687854664697350",
+    "reviewsCount": 59,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:28:48.954Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Small business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Missoula%20Pharmacy%2C%20INC.&query_place_id=ChIJX37HYvzNXVMRBsYiG04a7MM",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr7lrff__zTiHRSGMMJKFbyocoYlGpghXMYf6ScxP8vu-SN9X3kswX4JpurIpzZdXd5UJuUkJ6i4tWNc-T44MAjZFUfVBssJbKnYvAFXefRW_SXeRwhGac78f9SUqL5SbhhAiSr=w408-h839-k-no",
+    "kgmid": "/g/1tjcp34w",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Bozeman Health Big Sky Medical Center Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "334 Town Center Ave, Big Sky, MT 59716",
+    "neighborhood": null,
+    "street": "334 Town Center Ave",
+    "city": "Big Sky",
+    "postalCode": "59716",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "http://www.bigskymedicalcenter.org/",
+    "phone": "(406) 995-6500",
+    "phoneUnformatted": "+14069956500",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 45.2604695,
+      "lng": -111.3009154
+    },
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYX-Z-SAQUFMR3TSxzG2yS6A",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x53501020f9997f61:0xa04bb26dccb134dd",
+    "cid": "11550521853977113821",
+    "reviewsCount": 9,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:28:48.955Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9\u202fAM to 1\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Checks": true
+        },
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bozeman%20Health%20Big%20Sky%20Medical%20Center%20Pharmacy&query_place_id=ChIJYX-Z-SAQUFMR3TSxzG2yS6A",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@48.27430768932854,-118.1483311994871,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5AconE1E30C_Ke_l2fM4wA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=90.161545&pitch=0&thumbfov=100",
+    "kgmid": "/g/1tdgphgy",
+    "classification": "hospital",
+    "is_independent": false,
+    "confidence": 1.0,
+    "source": "rule-based"
+  },
+  {
+    "title": "Valley Independent Pharmacy",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "3631 White Mountain Hwy, North Conway, NH 03860, United States",
+    "neighborhood": "North Conway",
+    "street": "3631 White Mountain Hwy",
+    "city": "North Conway",
+    "postalCode": "03860",
+    "state": "New Hampshire",
+    "countryCode": "US",
+    "website": "https://valleyiph.com/",
+    "phone": "+1 603-730-5432",
+    "phoneUnformatted": "+16037305432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 44.0747993,
+      "lng": -71.1392055
+    },
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy",
+      "Drug store"
+    ],
+    "fid": "0x4cb3a1570989d29d:0xed4080628a89acd1",
+    "cid": "17095805346217831633",
+    "reviewsCount": 12,
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:30:21.204Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 6\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 5\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        },
+        {
+          "Small Business": true
+        }
+      ],
+      "Service options": [
+        {
+          "Kerbside pickup": true
+        },
+        {
+          "Delivery": true
+        },
+        {
+          "In-store pick-up": true
+        },
+        {
+          "In-store shopping": true
+        },
+        {
+          "On-site services": true
+        },
+        {
+          "Same-day delivery": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Wi-Fi": true
+        },
+        {
+          "Free Wi-Fi": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20Independent%20Pharmacy&query_place_id=ChIJndKJCVehs0wR0ayJimKAQO0",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-70.65494205772909,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPIXMHCqC9uZ8bzh3XpMI_h0w4-gYk0RBR3YjrY=w408-h284-k-no",
+    "kgmid": "/g/11nxnt_950",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  },
+  {
+    "title": "Western Drug",
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "1313 W Park St #1, Livingston, MT 59047, United States",
+    "neighborhood": null,
+    "street": "1313 W Park St #1",
+    "city": "Livingston",
+    "postalCode": "59047",
+    "state": "Montana",
+    "countryCode": "US",
+    "website": "https://www.westerndrugmt.com/",
+    "phone": "+1 406-222-7332",
+    "phoneUnformatted": "+14062227332",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 45.6515218,
+      "lng": -110.5713189
+    },
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": null,
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x53457b7a2370f7b5:0x734f14adebb9f742",
+    "cid": "8308882574738585410",
+    "reviewsCount": 30,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2025-06-22T08:30:31.066Z",
+    "googleFoodUrl": null,
+    "hotelAds": [],
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9\u202fAM to 5:30\u202fPM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10\u202fAM to 4\u202fPM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "In-store pick-up": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair-accessible car park": true
+        },
+        {
+          "Wheelchair-accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Western%20Drug&query_place_id=ChIJtfdwI3p7RVMRQve5660UT3M",
+    "searchPageUrl": "https://www.google.com/maps/search/independent%20pharmacy%20Bozeman%20MT/@45.410355141996405,-111.81587931391937,8z?hl=en",
+    "searchString": "independent pharmacy Bozeman MT",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVpLQUqUG3yWubyFdmgMzDA8rZ-RMKD36WfEO_eBwr-wDXEN12kC8OF-Zm5k0-2qn1S0ti-naNeFbQ2kUmvirmn6lKBez2mb2msCdONMjBh2PwKVVcn8YMgmv4VqTen39Qmb64=w408-h544-k-no",
+    "kgmid": "/g/1tczvltn",
+    "classification": "independent",
+    "is_independent": true,
+    "is_compounding": false,
+    "confidence": 0.9,
+    "source": "perplexity",
+    "method": "llm",
+    "query_location": "bozeman_mt"
+  }
+]
