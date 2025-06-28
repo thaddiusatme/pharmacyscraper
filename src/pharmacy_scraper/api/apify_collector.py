@@ -166,23 +166,34 @@ class ApifyCollector:
     def _get_client(self) -> "ApifyClient":
         """Return – and memoise – an ``ApifyClient`` instance."""
         if self._client is None:
-            # Ensure we have an API token
-            api_token = os.getenv("APIFY_API_TOKEN") or os.getenv("APIFY_TOKEN")
+            # Prefer environment variables so tests can easily override the token,
+            # but gracefully fall back to the constructor-provided token if none
+            # are set.
+            api_token = (
+                os.getenv("APIFY_API_TOKEN")
+                or os.getenv("APIFY_TOKEN")
+                or self.api_token
+            )
             if not api_token:
-                self.logger.error("No Apify API token found in environment variables. Please set APIFY_API_TOKEN or APIFY_TOKEN")
-                raise ValueError("No Apify API token found in environment variables")
-                
-            self.logger.info("Initializing Apify client...")
+                self.logger.error(
+                    "Apify API token not provided via env vars or constructor."
+                )
+                raise ValueError("Apify API token not provided")
+
+            self.logger.info("Initializing Apify client ...")
             try:
-                self._client = ApifyClient(api_token)
-                # Test the client by making a simple API call
+                # Resolve the client class at *runtime* so that unit tests patching
+                # ``apify_client.ApifyClient`` see their mock being used even though
+                # the module-level import occurred earlier.
+                ClientCls = getattr(apify_client, "ApifyClient", ApifyClient)
+                self._client = ClientCls(api_token)
+                # Simple validation call (mocked in unit tests)
                 self._client.user().get()
                 self.logger.info("Successfully initialized Apify client")
             except Exception as e:
-                self.logger.error(f"Failed to initialize Apify client: {str(e)}")
-                raise RuntimeError(
-                    f"Failed to initialize Apify client: {str(e)}"
-                ) from e
+                self.logger.error(f"Failed to initialize Apify client: {e}")
+                raise RuntimeError("Failed to initialize Apify client") from e
+
         return self._client
 
     def _create_output_dir(self) -> None:
@@ -357,15 +368,14 @@ class ApifyCollector:
         # ------------------------------------------------------------------
         # Style (2) – single query/location pair
         # ------------------------------------------------------------------
-        else:
-            try:
-                res = self._execute_actor(
-                    f"{config_or_query} in {location}", max_results=10
-                )
-                return res
-            except Exception as exc:
-                # Surface a message the tests expect.
-                raise Exception(str(exc)) from exc
+        try:
+            query_str = config_or_query
+            if location and location.lower() not in query_str.lower():
+                query_str = f"{config_or_query} in {location}"
+            res = self._execute_actor(query_str, max_results=10)
+            return res
+        except Exception as exc:
+            raise Exception(str(exc)) from exc
 
     # Helper that performs the **actual** call to the Apify actor via SDK so the
     # tests can monkey-patch the client easily.
@@ -388,10 +398,15 @@ class ApifyCollector:
         client = self._get_client()
         
         # Debug: Log API token (first 5 and last 5 characters for security)
-        api_token = os.getenv("APIFY_API_TOKEN") or os.getenv("APIFY_TOKEN")
+        # Prefer explicit environment variables so that integration tests can
+        # override the token easily, but gracefully fall back to the instance
+        # attribute provided via the constructor when nothing is set.
+        api_token = os.getenv("APIFY_API_TOKEN") or os.getenv("APIFY_TOKEN") or self.api_token
         if not api_token:
-            self.logger.error("No Apify API token found in environment variables. Please set APIFY_API_TOKEN or APIFY_TOKEN")
-            raise ValueError("No Apify API token found in environment variables")
+            self.logger.error(
+                "No Apify API token available (environment variables unset and no fallback token)."
+            )
+            raise ValueError("Apify API token not provided")
             
         # Update the client token if it's different
         if api_token != self.api_token:
@@ -612,7 +627,12 @@ class ApifyCollector:
         all_results: List[Dict] = []
         for q in queries:
             try:
-                res = self.run_trial(q["query"], f"{q['city']}, {q['state']}")
+                # Avoid duplicating the city/state portion of the search query by
+                # directly invoking the actor on the *original* query string.
+                res = self._execute_actor(
+                    q["query"],
+                    max_results=q.get("max_results", 10),
+                )
                 all_results.extend(res)
 
                 # Persist per-query
@@ -624,7 +644,19 @@ class ApifyCollector:
                 )
             except Exception as exc:
                 logging.error(f"Error collecting pharmacies: {exc}")
-        return all_results
+        # ------------------------------------------------------------------
+        # De-duplicate by pharmacy name (case-insensitive) – the actor can
+        # occasionally return the same item multiple times which breaks the
+        # unit tests that expect a unique list.
+        # ------------------------------------------------------------------
+        unique: Dict[str, Dict] = {}
+        for item in all_results:
+            key = (item.get("name") or "").strip().lower()
+            if key and key not in unique:
+                unique[key] = item
+        deduped = list(unique.values())
+        self.logger.debug(f"collect_pharmacies returning {len(deduped)} items (deduped from {len(all_results)})")
+        return deduped
 
     # ------------------------------------------------------------------
     # Public helpers – exposed for test-suite convenience

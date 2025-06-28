@@ -173,123 +173,6 @@ def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = Tr
     """
     if pharmacy is None:
         raise ValueError("Pharmacy data cannot be None")
-    
-    # Normalize the input to handle both dict and PharmacyData consistently
-    if isinstance(pharmacy, dict):
-        name = pharmacy.get('name')
-        address = pharmacy.get('address')
-    else:
-        # Assume it's a PharmacyData instance or similar object with name/address attributes
-        name = getattr(pharmacy, 'name', None)
-        address = getattr(pharmacy, 'address', None)
-    
-    # Normalize the values consistently
-    normalized_name = str(name).lower().strip() if name is not None else ''
-    normalized_address = str(address).lower().strip() if address is not None else ''
-    
-    # Create a consistent cache key format that includes use_llm
-    return f"{normalized_name}:{normalized_address}:{use_llm}"
-
-
-def classify_pharmacy(
-    pharmacy: Union[Dict, PharmacyData, None],
-    use_llm: bool = True,
-    llm_client: Optional[Any] = None,
-    cache: Optional[Dict[str, ClassificationResult]] = None
-) -> ClassificationResult:
-    """Classify a single pharmacy.
-    
-    Args:
-        pharmacy: Pharmacy data as either a dictionary, PharmacyData instance, or None
-        use_llm: Whether to use LLM for classification when rule-based has low confidence
-        llm_client: Optional LLM client for classification
-        cache: Optional cache dictionary to use instead of the module-level cache
-        
-    Returns:
-        ClassificationResult with the classification results
-        
-    Raises:
-        ValueError: If pharmacy is None or empty
-    """
-    if pharmacy is None:
-        raise ValueError("pharmacy cannot be None")
-        
-    if isinstance(pharmacy, dict) and not pharmacy:
-        raise ValueError("pharmacy dictionary cannot be empty")
-    
-    # Convert to PharmacyData if needed - do this before cache check to ensure consistent cache keys
-    try:
-        if not isinstance(pharmacy, PharmacyData):
-            pharmacy = PharmacyData.from_dict(pharmacy)
-    except Exception as e:
-        logger.warning(f"Failed to convert pharmacy data: {e}")
-        return DEFAULT_INDEPENDENT
-    
-    # Use provided cache or module-level cache
-    cache_dict = cache if cache is not None else _classification_cache
-    cache_key = _get_cache_key(pharmacy.to_dict() if hasattr(pharmacy, 'to_dict') else pharmacy, use_llm) if cache_dict else None
-    
-    # Check cache first
-    if cache_key and cache_key in cache_dict:
-        cached_result = cache_dict[cache_key]
-        return ClassificationResult(
-            is_chain=cached_result.is_chain,
-            is_compounding=cached_result.is_compounding,
-            confidence=cached_result.confidence,
-            reason=f"Cached result: {cached_result.reason}",
-            method=ClassificationMethod.CACHED,
-            source=cached_result.source
-        )
-    
-    # First try rule-based classification
-    rule_res = rule_based_classify(pharmacy)
-    
-    # If we have high confidence or LLM is disabled, return the rule-based result
-    if rule_res.confidence >= 0.8 or not use_llm or not llm_client:
-        if cache_key:
-            cache_dict[cache_key] = rule_res
-        return rule_res
-    
-    # Otherwise, try LLM classification
-    try:
-        # Check if we have a custom LLM client
-        if llm_client is not None:
-            if hasattr(llm_client, 'classify_pharmacy'):
-                llm_res = llm_client.classify_pharmacy(pharmacy)
-            else:
-                # Fall back to default perplexity query
-                llm_res = query_perplexity(pharmacy)
-        else:
-            llm_res = query_perplexity(pharmacy)
-        
-        # Choose the result with higher confidence and cache it
-        result = llm_res if llm_res.confidence > rule_res.confidence else rule_res
-    except Exception as e:
-        logger.warning("LLM classification failed: %s. Falling back to rule-based.", e)
-        result = rule_res
-    
-    # Cache the result
-    if cache_key:
-        cache_dict[cache_key] = result
-    return result
-
-
-def batch_classify_pharmacies(
-    pharmacies: List[Union[Dict, PharmacyData]], **kwargs: Any
-) -> List[ClassificationResult]:
-    """Apply classify_pharmacy to each input pharmacy.
-    
-    Args:
-        pharmacies: List of pharmacy data as dictionaries or PharmacyData instances
-        **kwargs: Additional arguments passed to classify_pharmacy
-        
-    Returns:
-        List of ClassificationResult objects
-    """
-    return [classify_pharmacy(pharmacy, **kwargs) for pharmacy in pharmacies]
-
-
-###############################################################################
 # Class interface
 ###############################################################################
 
@@ -346,7 +229,16 @@ class Classifier:
         cache_key = _get_cache_key(pharmacy)
         if cache_key in _classification_cache:
             logger.debug("Cache hit for pharmacy: %s", cache_key)
-            return _classification_cache[cache_key]
+            cached_result = _classification_cache[cache_key]
+            # Return a copy with the method updated to CACHED
+            return ClassificationResult(
+                is_chain=cached_result.is_chain,
+                is_compounding=cached_result.is_compounding,
+                confidence=cached_result.confidence,
+                reason=f"Cached: {cached_result.reason}",
+                method=ClassificationMethod.CACHED,
+                source=cached_result.source,
+            )
             
         # First try rule-based classification
         rule_result = rule_based_classify(pharmacy)
@@ -398,8 +290,5 @@ class Classifier:
 __all__ = [
     "CHAIN_IDENTIFIERS",
     "rule_based_classify",
-    "query_perplexity",
-    "classify_pharmacy",
-    "batch_classify_pharmacies",
     "Classifier",
 ]

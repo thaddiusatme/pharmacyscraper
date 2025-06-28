@@ -11,8 +11,6 @@ __version__ = "0.1.0"
 from .classifier import (
     Classifier,
     rule_based_classify,
-    classify_pharmacy,
-    batch_classify_pharmacies,
     CHAIN_IDENTIFIERS
 )
 from .perplexity_client import (
@@ -26,8 +24,6 @@ __all__ = [
     "Classifier",
     "PerplexityClient",
     "rule_based_classify",
-    "classify_pharmacy",
-    "batch_classify_pharmacies",
     "CHAIN_IDENTIFIERS",
     "RateLimitError",
     "InvalidRequestError",
