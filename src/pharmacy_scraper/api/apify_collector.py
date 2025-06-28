@@ -163,10 +163,6 @@ class ApifyCollector:
     # Business-logic helpers
     # ------------------------------------------------------------------
     @classmethod
-    # ------------------------------------------------------------------
-    # Post-processing helpers
-    # ------------------------------------------------------------------
-    @classmethod
     def filter_pharmacy_businesses(cls, places: List[Dict]) -> List[Dict]:
         """Return only items that look like pharmacies (category/name heuristic)."""
         pharmacy_kw = {"pharmacy", "drug store", "drugstore"}
@@ -178,12 +174,20 @@ class ApifyCollector:
                 filtered.append(p)
         return filtered
 
-    def filter_chain_pharmacies(cls, pharmacies: List[Dict]) -> List[Dict]:
+    # Common chain pharmacy keywords
+    _CHAIN_KEYWORDS = {
+        'cvs', 'walgreens', 'rite aid', 'walmart', 'walmart pharmacy',
+        'target', 'target pharmacy', 'costco', 'costco pharmacy',
+        'sams club', 'safeway', 'kroger', 'publix', 'wal-mart',
+        'riteaid', 'cvs pharmacy', 'walgreens pharmacy', 'rite aid pharmacy'
+    }
+    
+    def filter_chain_pharmacies(self, pharmacies: List[Dict]) -> List[Dict]:
         """Return **only** non-chain pharmacies based on a very small heuristic."""
         filtered: List[Dict] = []
         for p in pharmacies:
             name = p.get("name", "").lower()
-            if not any(chain_kw in name for chain_kw in cls._CHAIN_KEYWORDS):
+            if not any(chain_kw in name for chain_kw in self._CHAIN_KEYWORDS):
                 filtered.append(p)
         return filtered
 

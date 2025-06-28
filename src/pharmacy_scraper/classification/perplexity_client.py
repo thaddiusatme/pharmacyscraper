@@ -90,7 +90,7 @@ class PerplexityClient:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: Optional[str] = "pplx-7b-online",
+        model_name: Optional[str] = "sonar",
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
@@ -433,10 +433,15 @@ class PerplexityClient:
     
     def classify_pharmacy(
         self, 
-        pharmacy_data: Dict[str, Any], 
+        pharmacy_data: Union[Dict[str, Any], 'PharmacyData'],
         model: Optional[str] = None,
         cache_dir: Optional[str] = None
     ) -> Optional[Dict[str, Any]]:
+        # Convert PharmacyData to dict if needed
+        if hasattr(pharmacy_data, 'to_dict'):
+            pharmacy_data = pharmacy_data.to_dict()
+        elif not isinstance(pharmacy_data, dict):
+            raise ValueError("pharmacy_data must be a dictionary or PharmacyData instance")
         """
         Classifies a single pharmacy using the Perplexity API, with optional caching.
         
@@ -508,7 +513,7 @@ class PerplexityClient:
             - All errors are logged with detailed information before being re-raised.
             - Network timeouts are handled with appropriate retry logic.
         """
-        model_to_use = model or self.model
+        model_to_use = model or self.model_name
         prompt = self._generate_prompt(pharmacy_data)
         
         # If cache is disabled, call API directly
@@ -569,7 +574,7 @@ class PerplexityClient:
                 self.rate_limiter.wait()
                 
                 response = self.client.chat.completions.create(
-                    model=self.model,
+                    model=self.model_name,
                     messages=[
                         {"role": "system", "content": "You are a helpful assistant."},
                         {"role": "user", "content": prompt}
