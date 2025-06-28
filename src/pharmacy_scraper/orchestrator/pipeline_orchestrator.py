@@ -116,6 +116,8 @@ class PipelineOrchestrator:
         for service, cost in self.config.api_cost_limits.items():
             credit_tracker.set_cost_limit(service, cost)
         credit_tracker.budget = self.config.max_budget
+        # Set daily limit to 80% of the total budget to allow for multiple runs
+        credit_tracker.daily_limit = self.config.max_budget * 0.8
     
     def _execute_stage(self, stage_name: str, stage_fn: Callable, *args, **kwargs) -> Any:
         """
