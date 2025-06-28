@@ -5,7 +5,7 @@ import os
 import time
 import json
 from pathlib import Path
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import Dict, Optional, Union
 import logging
 
@@ -53,7 +53,7 @@ class APICreditTracker:
         return {
             'total_used': 0.0,
             'daily_usage': {},
-            'last_updated': datetime.utcnow().isoformat()
+            'last_updated': datetime.now(timezone.utc).isoformat()
         }
     
     def _save_usage_data(self):
@@ -66,7 +66,7 @@ class APICreditTracker:
     
     def _get_today_key(self) -> str:
         """Get today's date key in YYYY-MM-DD format."""
-        return datetime.utcnow().strftime('%Y-%m-%d')
+        return datetime.now(timezone.utc).strftime('%Y-%m-%d')
     
     def _get_daily_used(self) -> float:
         """Get credits used today."""
@@ -165,7 +165,7 @@ class APICreditTracker:
         # Update totals
         self.usage_data['total_used'] += credits_used
         self.usage_data['daily_usage'][today] = self.usage_data['daily_usage'].get(today, 0) + credits_used
-        self.usage_data['last_updated'] = datetime.utcnow().isoformat()
+        self.usage_data['last_updated'] = datetime.now(timezone.utc).isoformat()
         
         # Log the usage
         logger.info(f"API usage recorded: {credits_used:.2f} credits for {operation}")
@@ -199,7 +199,7 @@ class APICreditTracker:
         self.usage_data = {
             'total_used': 0.0,
             'daily_usage': {},
-            'last_updated': datetime.utcnow().isoformat()
+            'last_updated': datetime.now(timezone.utc).isoformat()
         }
         # Overwrite the usage file with the reset state
         self._save_usage_data()
