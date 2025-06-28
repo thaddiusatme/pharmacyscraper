@@ -8,7 +8,7 @@ import os
 import json
 import time
 import logging
-import hashlib
+import random
 import re
 from pathlib import Path
 from typing import Dict, List, Optional, Union, Any, Tuple
@@ -22,12 +22,12 @@ from tenacity import (
 )
 import openai
 from openai import OpenAI
+
 from pharmacy_scraper.config import get_config
+from pharmacy_scraper.utils import Cache
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
 
 
 class RateLimiter:
@@ -48,17 +48,18 @@ class RateLimiter:
 
         current_time = time.time()
         elapsed = current_time - self.last_request_time
-
+        
+        # Calculate how long to wait before the next request is allowed
         if elapsed < self.min_interval:
             sleep_time = self.min_interval - elapsed
-            logger.debug(f"Rate limiting: sleeping for {sleep_time:.2f}s")
             time.sleep(sleep_time)
-
+            
         self.last_request_time = time.time()
 
 
 class PerplexityAPIError(Exception):
     """Base exception for Perplexity API errors."""
+    
     def __init__(self, message, error_type="api_error"):
         self.message = message
         self.error_type = error_type
@@ -66,15 +67,17 @@ class PerplexityAPIError(Exception):
 
 
 # Additional exceptions for test compatibility
-class RateLimitError(Exception):
+class RateLimitError(PerplexityAPIError):
     """Exception for rate limit exceeded."""
     pass
 
-class InvalidRequestError(Exception):
+
+class InvalidRequestError(PerplexityAPIError):
     """Exception for invalid request to Perplexity API."""
     pass
 
-class ResponseParseError(Exception):
+
+class ResponseParseError(PerplexityAPIError):
     """Exception for errors parsing Perplexity API response."""
     pass
 
@@ -82,24 +85,20 @@ class ResponseParseError(Exception):
 class PerplexityClient:
     """
     A client for the Perplexity API, designed for pharmacy classification.
-
-    This client handles API requests, rate limiting, and file-based caching
-    of classification results.
+    
+    This client handles API requests, rate limiting, and caching of classification results.
     """
-
+    
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: Optional[str] = "sonar",
+        model_name: str = "sonar-medium-online",
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
         openai_client: Optional[OpenAI] = None,
         max_retries: int = 3,
-        enable_metrics: bool = True,
         cache_ttl_seconds: Optional[int] = 7 * 24 * 3600,  # 1 week default TTL
-        max_cache_size_mb: Optional[float] = None,  # Maximum cache size in MB
-        cleanup_frequency: int = 300  # Cleanup every 5 minutes by default
     ) -> None:
         """Initialize the PerplexityClient.
         
@@ -111,10 +110,7 @@ class PerplexityClient:
             force_reclassification: If True, always call the API even if result is in cache.
             openai_client: Optional OpenAI client instance. If not provided, one will be created.
             max_retries: Maximum number of retries for API calls.
-            enable_metrics: Whether to enable metrics collection.
             cache_ttl_seconds: Time-to-live for cache entries in seconds. If None, cache never expires.
-            max_cache_size_mb: Maximum cache size in MB. If None, no size limit is enforced.
-            cleanup_frequency: How often to run cleanup in seconds. Set to 0 to run on every check.
         """
         self.api_key = api_key or os.getenv("PERPLEXITY_API_KEY")
         if not self.api_key:
@@ -122,34 +118,17 @@ class PerplexityClient:
                 "API key must be provided either as an argument or via PERPLEXITY_API_KEY environment variable"
             )
             
-        self.model_name = model_name or "sonar-medium-online"
+        self.model_name = model_name
         self.rate_limit = rate_limit
         self.force_reclassification = force_reclassification
         self.max_retries = max_retries
-        self.enable_metrics = enable_metrics
-        self.cache_ttl_seconds = cache_ttl_seconds
-        self.max_cache_size_mb = max_cache_size_mb * 1024 * 1024 if max_cache_size_mb else None  # Convert MB to bytes
-        self.cleanup_frequency = cleanup_frequency
         
         # Initialize cache
-        self.cache_dir = Path(cache_dir) if cache_dir else None
-        if self.cache_dir:
-            self.cache_dir.mkdir(parents=True, exist_ok=True)
-            logger.info(f"PerplexityClient caching is enabled. Cache directory: {self.cache_dir}")
-        
-        # Initialize metrics
-        self._cache_metrics = {
-            'hits': 0,
-            'misses': 0,
-            'errors': 0,
-            'size': 0,  # in bytes
-            'entries': 0,
-            'expired': 0,
-            'last_cleaned': 0
-        }
-        
-        # Update metrics on init
-        self._update_cache_metrics()
+        self.cache = Cache(
+            cache_dir=cache_dir,
+            ttl=cache_ttl_seconds or 0,  # 0 means no expiration
+            cleanup_interval=300  # 5 minutes
+        )
         
         # Use provided OpenAI client or create a new one
         if openai_client is not None:
@@ -157,403 +136,165 @@ class PerplexityClient:
         else:
             self.client = OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
         self.rate_limiter = RateLimiter(rate_limit)
-
-    def _get_cache_file(self, cache_key: str) -> Path:
-        """Get the full path to a cache file."""
-        return self.cache_dir / f"{cache_key}.json"
     
-    def _is_cache_valid(self, cache_file: Path) -> bool:
-        """Check if a cache entry is still valid based on TTL."""
-        if not cache_file.exists():
-            return False
-            
-        if self.cache_ttl_seconds is None:
-            return True
-            
-        try:
-            file_mtime = cache_file.stat().st_mtime
-            return (time.time() - file_mtime) < self.cache_ttl_seconds
-        except OSError as e:
-            logger.warning(f"Failed to check cache file {cache_file} mtime: {e}")
-            return False
-    
-    def _read_from_cache(self, cache_file: Path) -> Optional[Dict[str, Any]]:
-        """Read data from cache file with error handling."""
-        try:
-            if not self.cache_dir or not cache_file.exists() or not self._is_cache_valid(cache_file):
-                return None
-                
-            with open(cache_file, 'r') as f:
-                cached_data = json.load(f)
-                
-            # Validate cached data structure
-            if not isinstance(cached_data, dict) or 'data' not in cached_data:
-                logger.warning(f"Invalid cache format in {cache_file}")
-                return None
-                
-            # Check if entry has expired
-            if 'expires_at' in cached_data and cached_data['expires_at'] < time.time():
-                logger.debug(f"Cache entry expired: {cache_file}")
-                return None
-                
-            self._cache_metrics['hits'] += 1
-            return cached_data['data']
-            
-        except (json.JSONDecodeError, OSError) as e:
-            logger.warning(f"Failed to read from cache file {cache_file}: {e}")
-            self._cache_metrics['errors'] += 1
-            return None
-    
-    def _write_to_cache(self, cache_file: Path, data: Dict[str, Any]) -> bool:
-        """Write data to cache file with error handling and size management.
+    def _get_cache_key(self, pharmacy_data: Dict[str, Any], model: Optional[str] = None) -> str:
+        """Generate a cache key for the given pharmacy data and model.
         
         Args:
-            cache_file: Path to the cache file
-            data: Data to cache
+            pharmacy_data: Dictionary containing pharmacy information
+            model: Optional model name to include in the cache key
             
         Returns:
-            bool: True if write was successful, False otherwise
+            A string that can be used as a cache key
         """
-        if not self.cache_dir:
-            return False
+        # Convert PharmacyData to dict if needed
+        if hasattr(pharmacy_data, 'to_dict'):
+            pharmacy_data = pharmacy_data.to_dict()
             
-        temp_file = None
-        try:
-            # Check and enforce cache size limits before writing
-            self._check_cache_limits()
-            
-            # Create cache directory if it doesn't exist
-            self.cache_dir.mkdir(parents=True, exist_ok=True)
-            
-            # Prepare cache entry with metadata
-            cache_entry = {
-                'data': data,
-                'cached_at': time.time(),
-                'version': '1.0',  # For future compatibility
-                'size': 0  # Will be updated after writing
-            }
-            
-            # Add TTL if specified
-            if self.cache_ttl_seconds is not None:
-                cache_entry['expires_at'] = time.time() + self.cache_ttl_seconds
-            
-            # Write to temporary file first, then rename (atomic operation)
-            temp_file = cache_file.with_suffix('.tmp')
-            
-            # First write to get the size
-            with open(temp_file, 'w') as f:
-                json.dump(cache_entry, f, indent=2)
-            
-            # Get the actual file size and update the cache entry
-            file_size = temp_file.stat().st_size
-            cache_entry['size'] = file_size
-            
-            # Write again with updated size
-            with open(temp_file, 'w') as f:
-                json.dump(cache_entry, f, indent=2)
-            
-            # Atomic rename
-            temp_file.replace(cache_file)
-            
-            # Update metrics
-            self._update_cache_metrics()
-            return True
-            
-        except (OSError, TypeError, ValueError) as e:  # ValueError catches JSONEncodeError in Python < 3.5
-            logger.warning(f"Failed to write to cache file {cache_file}: {e}")
-            self._cache_metrics['errors'] += 1
-            return False
-            
-        finally:
-            # Clean up any temporary file that might be left
-            if temp_file is not None and temp_file.exists():
-                try:
-                    temp_file.unlink()
-                except OSError as e:
-                    logger.warning(f"Failed to clean up temporary file {temp_file}: {e}")
-    
-    def _check_cache_limits(self):
-        """Check and enforce cache size limits."""
-        if not self.cache_dir or self.max_cache_size_mb is None:
-            return
-            
-        current_time = time.time()
+        # Create a stable string representation of the data
+        data_str = json.dumps(pharmacy_data, sort_keys=True)
         
-        # Only check if enough time has passed since last cleanup
-        if self.cleanup_frequency > 0 and \
-           (current_time - self._cache_metrics.get('last_cleaned', 0)) < self.cleanup_frequency:
-            return
+        # Include model name in the cache key if provided
+        if model:
+            data_str += f"|{model}"
             
-        try:
-            # Get all cache files with their sizes and modification times
-            cache_files = []
-            total_size = 0
-            
-            for file_path in self.cache_dir.glob('*.json'):
-                try:
-                    file_size = file_path.stat().st_size
-                    mtime = file_path.stat().st_mtime
-                    cache_files.append((file_path, mtime, file_size))
-                    total_size += file_size
-                except OSError as e:
-                    logger.warning(f"Error accessing cache file {file_path}: {e}")
-            
-            # Check if we're over the limit
-            if total_size <= self.max_cache_size_mb:
-                return
-                
-            logger.info(f"Cache size {total_size/1024/1024:.2f}MB exceeds limit of {self.max_cache_size_mb/1024/1024:.2f}MB. Cleaning up...")
-            
-            # Sort files by modification time (oldest first)
-            cache_files.sort(key=lambda x: x[1])
-            
-            # Remove oldest files until we're under 90% of the limit
-            target_size = self.max_cache_size_mb * 0.9
-            removed = 0
-            
-            for file_path, _, file_size in cache_files:
-                if total_size <= target_size:
-                    break
-                    
-                try:
-                    file_path.unlink()
-                    total_size -= file_size
-                    removed += 1
-                except OSError as e:
-                    logger.warning(f"Error removing cache file {file_path}: {e}")
-            
-            if removed > 0:
-                logger.info(f"Removed {removed} old cache files. New size: {total_size/1024/1024:.2f}MB")
-                
-            # Update last cleaned time and metrics
-            self._cache_metrics['last_cleaned'] = current_time
-            self._update_cache_metrics()
-            
-        except Exception as e:
-            logger.error(f"Error during cache cleanup: {e}")
-            self._cache_metrics['errors'] += 1
-    
-    def _update_cache_metrics(self):
-        """Update cache metrics including size, entries, and hit ratio."""
-        if not self.enable_metrics or not self.cache_dir or not self.cache_dir.exists():
-            return
-            
-        try:
-            # Count cache files and calculate total size
-            total_size = 0
-            total_entries = 0
-            expired_entries = 0
-            
-            for file_path in self.cache_dir.glob('*.json'):
-                try:
-                    file_size = file_path.stat().st_size
-                    total_size += file_size
-                    total_entries += 1
-                    
-                    # Check if entry is expired
-                    if self.cache_ttl_seconds and (time.time() - file_path.stat().st_mtime) > self.cache_ttl_seconds:
-                        expired_entries += 1
-                        
-                except OSError as e:
-                    logger.warning(f"Failed to stat cache file {file_path}: {e}")
-            
-            # Update metrics
-            self._cache_metrics.update({
-                'size': total_size,
-                'entries': total_entries,
-                'expired': expired_entries
-            })
-            
-            # Log metrics periodically
-            total_requests = self._cache_metrics['hits'] + self._cache_metrics['misses']
-            hit_ratio = (self._cache_metrics['hits'] / total_requests * 100) if total_requests > 0 else 0
-            
-            logger.debug(
-                f"Cache metrics: hits={self._cache_metrics['hits']}, "
-                f"misses={self._cache_metrics['misses']}, "
-                f"size={total_size/1024/1024:.2f}MB, "
-                f"entries={total_entries}, "
-                f"expired={expired_entries}"
-            )
-            logger.debug(f"Cache hit ratio: {hit_ratio:.1f}%")
-            
-        except Exception as e:
-            logger.warning(f"Failed to update cache metrics: {e}")
-    
-    def _cleanup_expired_entries(self):
-        """Remove expired cache entries."""
-        if not self.cache_dir or self.cache_ttl_seconds is None:
-            return 0
-            
-        current_time = time.time()
-        removed = 0
-        
-        for cache_file in self.cache_dir.glob('*.json'):
-            try:
-                with open(cache_file, 'r') as f:
-                    data = json.load(f)
-                
-                # Check if entry has expired
-                expires_at = data.get('expires_at')
-                if expires_at is not None and current_time > expires_at:
-                    try:
-                        cache_file.unlink()
-                        removed += 1
-                    except OSError as e:
-                        logger.warning(f"Error removing expired cache file {cache_file}: {e}")
-                    
-            except (json.JSONDecodeError, OSError) as e:
-                logger.warning(f"Error reading cache file {cache_file}: {e}")
-                continue
-        
-        if removed > 0:
-            logger.info(f"Removed {removed} expired cache entries")
-            self._update_cache_metrics()
-            
-        return removed
-                
-    def cleanup_expired(self) -> int:
-        """
-        Clean up expired cache entries.
-        
-        Returns:
-            int: Number of entries removed
-        """
-        return self._cleanup_expired_entries()
-    
-    def get_cache_metrics(self) -> Dict[str, Any]:
-        """
-        Get current cache metrics.
-        
-        Returns:
-            Dict with cache metrics including hits, misses, size, etc.
-        """
-        self._update_cache_metrics()
-        return self._cache_metrics.copy()
+        # Create a hash of the data for a fixed-length key
+        return hashlib.sha256(data_str.encode('utf-8')).hexdigest()
     
     def classify_pharmacy(
         self, 
         pharmacy_data: Union[Dict[str, Any], 'PharmacyData'],
         model: Optional[str] = None,
-        cache_dir: Optional[str] = None
-    ) -> Optional[Dict[str, Any]]:
+        cache_dir: Optional[str] = None  # Kept for backward compatibility
+    ) -> Dict[str, Any]:
+        """Classify a single pharmacy using the Perplexity API.
+        
+        Args:
+            pharmacy_data: Dictionary containing pharmacy data (name, address, etc.) or a PharmacyData object
+            model: Name of the model to use. Defaults to the instance's model_name.
+            cache_dir: Ignored, kept for backward compatibility.
+            
+        Returns:
+            Dictionary containing the classification result.
+            
+        Raises:
+            ValueError: If pharmacy_data is empty or invalid.
+            RateLimitError: If rate limit is exceeded.
+            PerplexityAPIError: For other API errors.
+        """
         # Convert PharmacyData to dict if needed
         if hasattr(pharmacy_data, 'to_dict'):
             pharmacy_data = pharmacy_data.to_dict()
         elif not isinstance(pharmacy_data, dict):
-            raise ValueError("pharmacy_data must be a dictionary or PharmacyData instance")
-        """
-        Classifies a single pharmacy using the Perplexity API, with optional caching.
+            raise ValueError("pharmacy_data must be a dictionary or PharmacyData object")
+            
+        if not pharmacy_data.get('name'):
+            raise ValueError("pharmacy_data must contain at least a 'name' field")
+            
+        model = model or self.model_name
         
-        This method handles the complete classification workflow including:
-        - Cache lookup (if caching is enabled)
-        - Generating the classification prompt
-        - Making the API call with retry logic
-        - Caching the result (if successful)
+        # Generate cache key including the model name
+        cache_key = self._get_cache_key(pharmacy_data, model=model)
+        
+        # Check cache first if not forcing reclassification
+        if not self.force_reclassification:
+            cached_result = self.cache.get(cache_key)
+            if cached_result is not None:
+                logger.debug(f"Cache hit for pharmacy: {pharmacy_data.get('name')}")
+                return cached_result
+        
+        logger.debug(f"Cache miss for pharmacy: {pharmacy_data.get('name')}")
+        
+        # Make the API call
+        try:
+            result = self._make_api_call(pharmacy_data, model)
+            
+            # Cache the result
+            self.cache.set(cache_key, result)
+            
+            return result
+            
+        except Exception as e:
+            logger.error(f"Error classifying pharmacy {pharmacy_data.get('name')}: {str(e)}")
+            raise
+    
+    def _generate_prompt(self, pharmacy_data: Dict[str, Any]) -> str:
+        """Generate a prompt for the Perplexity API based on pharmacy data.
         
         Args:
-            pharmacy_data: A dictionary containing the pharmacy's details. Should include
-                         at minimum 'name' and 'address' keys.
-            model: The name of the model to use for classification. If None, uses the
-                  instance's default model.
-            cache_dir: Optional directory path to use for caching. If provided, overrides
-                     the instance's cache directory.
-                     
+            pharmacy_data: Dictionary containing pharmacy information
+            
         Returns:
-            A dictionary containing the classification result with keys:
-            - is_chain: bool indicating if the pharmacy is a chain
-            - confidence: float between 0 and 1 indicating confidence
-            - explanation: str with reasoning for the classification
-            - method: str indicating how the classification was determined
-            - model: str indicating which model was used
+            Formatted prompt string
+        """
+        # Extract relevant fields with fallbacks
+        name = pharmacy_data.get('name', 'N/A')
+        address = pharmacy_data.get('address', 'N/A')
+        phone = pharmacy_data.get('phone', 'N/A')
+        
+        # Create the prompt with clear instructions
+        prompt = f"""Classify the following pharmacy as either 'chain' or 'independent' based on the information provided.
+        
+Pharmacy Information:
+- Name: {name}
+- Address: {address}
+- Phone: {phone}
+
+Additional context:
+- A 'chain' pharmacy is part of a large corporation with multiple locations (e.g., CVS, Walgreens, Rite Aid).
+- An 'independent' pharmacy is typically a single-location or small business.
+- If the pharmacy is part of a hospital, clinic, or healthcare system, it should be considered a 'chain'.
+
+Please provide your classification in the following JSON format:
+{{
+    "classification": "chain" or "independent",
+    "reasoning": "Brief explanation of your decision",
+    "confidence": 0.0 to 1.0
+}}"""
+        
+        return prompt
+    
+    def _parse_response(self, response: Dict[str, Any]) -> Dict[str, Any]:
+        """Parse the API response into a structured format.
+        
+        Args:
+            response: Raw API response
+            
+        Returns:
+            Parsed response as a dictionary
             
         Raises:
-            PerplexityAPIError: If the API request fails after all retries
-            ValueError: If the pharmacy data is invalid
-            - When caching is enabled (default), successful classifications are cached to
-              avoid redundant API calls for the same pharmacy data.
-            - Set force_reclassification=True when initializing the client to bypass the cache.
-            - If an error occurs during cache read/write, the method will log a warning
-              but continue with the API call.
-            
-        Example:
-            ```python
-            # Initialize the client
-            client = PerplexityClient(api_key="your_api_key")
-            
-            # Classify a pharmacy
-            result = client.classify_pharmacy({
-                "name": "Main Street Pharmacy",
-                "address": "123 Main St, Anytown, CA 12345",
-                "phone": "(555) 123-4567"
-            })
-            
-            if result:
-                print(f"Is chain: {result.get('is_chain', False)}")
-                print(f"Is compounding: {result.get('is_compounding', False)}")
-                print(f"Confidence: {result.get('confidence', 0.0):.2f}")
-            ```
-            
-        Performance:
-            - API calls are rate-limited according to the client's rate_limit setting
-              (default: 20 requests per minute).
-            - Typical response time is 1-3 seconds under normal conditions.
-            - Cached responses are typically returned in <10ms.
-            
-        Thread Safety:
-            - This method is thread-safe for concurrent calls with different pharmacy_data.
-            - When caching is enabled, cache operations are thread-safe.
-            - Multiple threads calling with the same pharmacy_data may result in
-              duplicate API calls before the result is cached.
-              
-        Error Handling:
-            - The method implements exponential backoff for rate-limited requests.
-            - By default, it will retry up to 3 times (configurable via max_retries)
-              with increasing delays between attempts.
-            - All errors are logged with detailed information before being re-raised.
-            - Network timeouts are handled with appropriate retry logic.
+            ResponseParseError: If the response cannot be parsed
         """
-        model_to_use = model or self.model_name
-        prompt = self._generate_prompt(pharmacy_data)
-        
-        # If cache is disabled, call API directly
-        if not self.cache_dir:
-            logger.debug("Cache is disabled, calling API directly.")
-            return self._call_api(prompt)
-        
-        # Generate cache key and get cache file path
-        cache_key = _generate_cache_key(pharmacy_data, model_to_use)
-        cache_file = self._get_cache_file(cache_key)
-        
-        # Check cache if not forcing reclassification
-        if not self.force_reclassification:
-            cached_result = self._read_from_cache(cache_file)
-            if cached_result is not None:
-                logger.info(f"CACHE HIT for pharmacy: {pharmacy_data.get('title', 'N/A')}")
-                return cached_result
-        else:
-            logger.info(f"CACHE IGNORED (force_reclassification=True) for pharmacy: {pharmacy_data.get('title', 'N/A')}")
-        
-        # If we get here, we need to call the API
-        self._cache_metrics['misses'] += 1
-        logger.info(f"CACHE MISS for pharmacy: {pharmacy_data.get('title', 'N/A')}. Calling API.")
-        
-        # Call the API
-        result = self._call_api(prompt)
-        
-        # Write to cache if the API call was successful
-        if result:
-            self._write_to_cache(cache_file, result)
-        
-        # Periodically log metrics and clean up
-        if self.enable_metrics and time.time() - self._cache_metrics['last_cleaned'] > 3600:  # Every hour
-            self.cleanup_expired()
-            self._update_cache_metrics()
-            self._cache_metrics['last_cleaned'] = time.time()
-        
-        return result    
-        
-    def _call_api(self, prompt: str) -> Optional[Dict[str, Any]]:
+        try:
+            # Extract the content from the response
+            if not response.choices or not response.choices[0].message:
+                raise ResponseParseError("Invalid response format: missing choices or message")
+                
+            content = response.choices[0].message.content
+            
+            # Try to parse as JSON first
+            try:
+                result = json.loads(content)
+            except json.JSONDecodeError:
+                # If not JSON, try to extract a JSON-like structure
+                json_match = re.search(r'\{.*\}', content, re.DOTALL)
+                if json_match:
+                    result = json.loads(json_match.group(0))
+                else:
+                    # If no JSON found, return as plain text
+                    result = {"response": content}
+            
+            # Ensure required fields are present
+            if not isinstance(result, dict):
+                result = {"response": str(result)}
+                
+            return result
+            
+        except Exception as e:
+            raise ResponseParseError(f"Failed to parse API response: {str(e)}")
+    
+    def _call_api(self, prompt: str) -> Dict[str, Any]:
         """
         Makes an API call to the Perplexity API with the given prompt.
         
@@ -561,57 +302,43 @@ class PerplexityClient:
             prompt: The prompt to send to the API.
             
         Returns:
-            The parsed response from the API, or None if an error occurs.
+            The parsed response from the API.
             
         Raises:
-            RateLimitError: If the rate limit is exceeded after all retries.
+            RateLimitError: If the rate limit is exceeded.
             PerplexityAPIError: For other API errors.
         """
-        last_exception = None
+        # Enforce rate limiting
+        self.rate_limiter.wait()
         
-        for attempt in range(self.max_retries + 1):
-            try:
-                self.rate_limiter.wait()
-                
-                response = self.client.chat.completions.create(
-                    model=self.model_name,
-                    messages=[
-                        {"role": "system", "content": "You are a helpful assistant."},
-                        {"role": "user", "content": prompt}
-                    ],
-                    temperature=0.7,
-                    max_tokens=1000
-                )
-                
-                # Parse the response
-                if not response.choices or not response.choices[0].message:
-                    raise ResponseParseError("Invalid response format: missing choices or message")
-                
-                content = response.choices[0].message.content
-                try:
-                    return json.loads(content)
-                except json.JSONDecodeError:
-                    # If the response is not valid JSON, try to parse it as a string
-                    return {"response": content}
-                    
-            except Exception as e:
-                last_exception = e
-                if "rate limit" in str(e).lower() and attempt < self.max_retries:
-                    # Exponential backoff
-                    time.sleep(min(2 ** attempt, 10))
-                    continue
-                elif "rate limit" in str(e).lower():
-                    raise RateLimitError(f"Rate limit exceeded after {self.max_retries} retries") from e
-                else:
-                    raise PerplexityAPIError(f"API error: {str(e)}") from e
-        
-        # If we've exhausted all retries
-        if last_exception:
-            raise PerplexityAPIError(f"Failed after {self.max_retries} retries: {str(last_exception)}")
-        
-        return None
-
-    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str, retry_count: int = 3) -> Optional[Dict[str, Any]]:
+        try:
+            # Make the API call
+            response = self.client.chat.completions.create(
+                model=self.model_name,
+                messages=[
+                    {"role": "system", "content": "You are a helpful assistant that classifies pharmacies."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.1,
+                max_tokens=500,
+                top_p=1.0,
+                frequency_penalty=0.0,
+                presence_penalty=0.0,
+            )
+            
+            # Parse the response
+            return self._parse_response(response)
+            
+        except openai.RateLimitError as e:
+            raise RateLimitError(f"Rate limit exceeded: {str(e)}")
+            
+        except openai.APIError as e:
+            raise PerplexityAPIError(f"API error: {str(e)}")
+            
+        except Exception as e:
+            raise PerplexityAPIError(f"Unexpected error: {str(e)}")
+    
+    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str, retry_count: Optional[int] = None) -> Dict[str, Any]:
         """
         Makes the actual API call to Perplexity with retry logic for rate limits.
         
@@ -621,66 +348,52 @@ class PerplexityClient:
             retry_count: Number of retry attempts remaining
             
         Returns:
-            The classification result or None if all retries are exhausted
+            The classification result
+            
+        Raises:
+            RateLimitError: If rate limit is exceeded after all retries
+            PerplexityAPIError: For other API errors
         """
-        # This method is kept for backward compatibility
-        # The actual API call logic has been moved to _call_api
-        prompt = self._generate_prompt(pharmacy_data)
-        return self._call_api(prompt)
+        if retry_count is None:
+            retry_count = self.max_retries
+            
         try:
-            logger.debug(f"API Key prefix in use: {self.api_key[:15] if isinstance(self.api_key, str) and self.api_key else 'No API key'}...")
-            logger.debug(f"Base URL: {self.client.base_url}")
-            logger.debug(f"Model: {model}")
+            # Generate the prompt
+            prompt = self._generate_prompt(pharmacy_data)
             
-            response = self.client.chat.completions.create(
-                model=model,
-                messages=[
-                    {"role": "system", "content": "You are an expert pharmacy classifier. Respond in JSON format."},
-                    {"role": "user", "content": prompt},
-                ],
-                # Use simpler response format that's supported by Perplexity
-                temperature=0.1,  # Low temperature for consistent results
-                max_tokens=200,   # Limit response length
-            )
+            # Make the API call
+            response = self._call_api(prompt)
             
-            logger.info(f"Perplexity API call successful for {pharmacy_name}, parsing response...")
-            result = self._parse_response(response)
+            # Add metadata
+            if isinstance(response, dict):
+                response['model'] = model
+                response['cached'] = False
+                
+            return response
             
-            if result and isinstance(result, dict):
-                logger.info(f"✅ Successfully classified {pharmacy_name}: {result.get('classification', 'unknown')}")
-            else:
-                logger.error(f"❌ Failed to parse response for {pharmacy_name}")
+        except (RateLimitError, openai.RateLimitError) as e:
+            if retry_count <= 0:
+                logger.error("Rate limit exceeded and no retries left")
+                raise RateLimitError(f"Rate limit exceeded: {str(e)}")
+                
+            # Exponential backoff with jitter
+            backoff_time = (2 ** (self.max_retries - retry_count)) * 0.5
+            backoff_time += random.uniform(0, 1)  # Add jitter
             
-            return result
+            logger.warning(f"Rate limited. Retrying in {backoff_time:.1f}s... (attempts left: {retry_count})")
+            time.sleep(backoff_time)
             
-        except RateLimitError as e:
-            if retry_count > 0:
-                retry_after = 5  # Default wait time in seconds
-                logger.warning(f"Rate limit exceeded for '{pharmacy_name}'. Retrying in {retry_after} seconds... (attempts left: {retry_count})")
-                time.sleep(retry_after)
-                return self._make_api_call(pharmacy_data, model, retry_count - 1)
-            logger.error(f"Rate limit exceeded for '{pharmacy_name}' after retries: {e}")
-            return None
+            return self._make_api_call(pharmacy_data, model, retry_count - 1)
             
-        except Exception as e:
-            logger.error(f"Perplexity API error for pharmacy '{pharmacy_name}': {e}")
+        except (openai.APIError, openai.APITimeoutError) as e:
+            if retry_count <= 0:
+                logger.error(f"API error after {self.max_retries} retries: {str(e)}")
+                raise PerplexityAPIError(f"API error: {str(e)}")
+                
+            logger.warning(f"API error, retrying... (attempts left: {retry_count})")
+            time.sleep(1)  # Short delay before retry
             
-            # Add detailed stack trace for subscriptable errors
-            if "not subscriptable" in str(e):
-                import traceback
-                logger.error(f"SUBSCRIPTABLE ERROR STACK TRACE:")
-                logger.error(traceback.format_exc())
-            
-            # Capture detailed information about 401 errors
-            if hasattr(e, 'response') and hasattr(e.response, 'status_code'):
-                if e.response.status_code == 401:
-                    logger.error(f"401 Unauthorized Details:")
-                    logger.error(f"  Request URL: {getattr(e.response, 'url', 'Unknown')}")
-                    logger.error(f"  Request headers: {getattr(e.response.request, 'headers', 'Unknown') if hasattr(e.response, 'request') else 'Unknown'}")
-                    logger.error(f"  Response headers: {getattr(e.response, 'headers', 'Unknown')}")
-                    logger.error(f"  Response text: {getattr(e.response, 'text', 'Unknown')}")
-            
-            return None
+            return self._make_api_call(pharmacy_data, model, retry_count - 1)
 
     def _parse_response(self, response: object) -> Optional[Dict[str, Any]]:
         """Parse the response from the Perplexity API, handling both JSON and text responses."""
@@ -921,14 +634,3 @@ This is a hospital pharmacy because ANMC (Alaska Native Medical Center) is a med
             "```"
         )
 
-def _generate_cache_key(pharmacy_data: Dict[str, Any], model: str) -> str:
-    """
-    Generates a consistent cache key from pharmacy data.
-    Uses stable identifiers like name and address.
-    """
-    # Use 'title' and 'address' as primary identifiers for stability
-    name = pharmacy_data.get('title') or pharmacy_data.get('name', 'N/A')
-    address = pharmacy_data.get('address', 'N/A')
-    
-    key_string = f"{name}|{address}|{model}"
-    return hashlib.sha256(key_string.encode('utf-8')).hexdigest()
