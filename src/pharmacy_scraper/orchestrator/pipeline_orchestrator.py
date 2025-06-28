@@ -8,7 +8,7 @@ pharmacy data collection and processing pipeline.
 import json
 import logging
 from pathlib import Path
-from typing import Dict, List, Optional, Any, Union
+from typing import Dict, List, Optional, Any, Union, Callable
 from dataclasses import dataclass, field
 import pandas as pd
 
@@ -18,6 +18,7 @@ from ..classification.classifier import Classifier
 from ..verification.google_places import verify_pharmacy
 from ..utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
 from ..classification.cache import load_from_cache, save_to_cache
+from .state_manager import StateManager
 
 logger = logging.getLogger(__name__)
 
@@ -61,41 +62,8 @@ class PipelineConfig:
         ]
     )
 
-class PipelineState:
-    """Tracks the state of the pipeline execution."""
-    def __init__(self):
-        self.current_phase = "initialized"
-        self.phases_completed = set()
-        self.metrics = {
-            "pharmacies_collected": 0,
-            "pharmacies_classified": 0,
-            "pharmacies_verified": 0,
-            "api_calls": {},
-            "errors": []
-        }
-    
-    def update_phase(self, phase_name: str):
-        """
-        Update the current phase and mark previous as completed.
-        
-        Args:
-            phase_name: Name of the new phase
-        """
-        if self.current_phase and self.current_phase != "initialized":
-            self.phases_completed.add(self.current_phase)
-        self.current_phase = phase_name
-        logger.info(f"Entering phase: {phase_name}")
-    
-    def complete_current_phase(self):
-        """
-        Mark the current phase as completed.
-        This should be called when the pipeline completes to ensure the final phase is marked as completed.
-        """
-        if self.current_phase and self.current_phase != "initialized":
-            self.phases_completed.add(self.current_phase)
-            self.current_phase = "completed"
-
 class PipelineOrchestrator:
+
     """
     Coordinates the entire pharmacy data collection and processing pipeline.
     
@@ -106,15 +74,18 @@ class PipelineOrchestrator:
     4. Verification (Google Places)
     """
     
-    def __init__(self, config_path: str):
+    STAGES = ["data_collection", "deduplication", "classification", "verification"]
+
+    def __init__(self, config_path: str, db_path: str = "pipeline_state.db"):
         """
         Initialize the pipeline orchestrator.
-        
+
         Args:
-            config_path: Path to the configuration file
+            config_path: Path to the configuration file.
+            db_path: Path to the SQLite database for state management.
         """
         self.config = self._load_config(config_path)
-        self.state = PipelineState()
+        self.state_manager = StateManager(db_path=db_path)
         self._setup_components()
     
     def _load_config(self, config_path: str) -> PipelineConfig:
@@ -145,47 +116,82 @@ class PipelineOrchestrator:
             credit_tracker.set_cost_limit(service, cost)
         credit_tracker.budget = self.config.max_budget
     
+    def _execute_stage(self, stage_name: str, stage_fn: Callable, *args, **kwargs) -> Any:
+        """
+        Executes a pipeline stage with state tracking and resume logic.
+        - Checks if the stage is already completed.
+        - Saves stage output upon completion.
+        - Loads stage output if skipping.
+        """
+        output_dir = Path(self.config.output_dir)
+        stage_output_file = output_dir / f"stage_{stage_name}_output.json"
+
+        if self.state_manager.get_task_status(stage_name) == 'completed':
+            logger.info(f"Skipping completed stage: '{stage_name}'. Loading results from cache.")
+            if not stage_output_file.exists():
+                error_msg = f"Cannot skip stage '{stage_name}': Output file not found at {stage_output_file}"
+                logger.error(error_msg)
+                raise FileNotFoundError(error_msg)
+            with open(stage_output_file, 'r') as f:
+                return json.load(f)
+
+        logger.info(f"Executing stage: '{stage_name}'")
+        self.state_manager.update_task_status(stage_name, 'in_progress')
+
+        try:
+            result = stage_fn(*args, **kwargs)
+            output_dir.mkdir(parents=True, exist_ok=True)
+            with open(stage_output_file, 'w') as f:
+                if isinstance(result, pd.DataFrame):
+                    json.dump(result.to_dict('records'), f, indent=2)
+                else:
+                    json.dump(result, f, indent=2)
+
+            self.state_manager.update_task_status(stage_name, 'completed')
+            logger.info(f"Stage '{stage_name}' completed successfully.")
+            return result
+        except Exception as e:
+            self.state_manager.update_task_status(stage_name, 'failed')
+            logger.error(f"Stage '{stage_name}' failed: {e}", exc_info=True)
+            raise
+
     def run(self) -> Optional[Path]:
         """
-        Execute the entire pipeline.
-        
+        Execute the entire pipeline with resume capability.
+
         Returns:
             Optional[Path]: The path to the output file on success, None on failure.
         """
         try:
-            # Phase 1: Data Collection
-            self.state.update_phase("data_collection")
-            raw_pharmacies = self._collect_pharmacies()
-            
-            # Phase 2: Deduplication
-            self.state.update_phase("deduplication")
-            unique_pharmacies = self._deduplicate_pharmacies(raw_pharmacies)
-            
-            # Phase 3: Classification
-            self.state.update_phase("classification")
-            classified_pharmacies = self._classify_pharmacies(unique_pharmacies)
-            
-            # Phase 4: Verification
+            logger.info(f"Starting pipeline run. Checking state...")
+
+            raw_pharmacies = self._execute_stage("data_collection", self._collect_pharmacies)
+
+            unique_pharmacies = self._execute_stage(
+                "deduplication", self._deduplicate_pharmacies, pharmacies=raw_pharmacies
+            )
+
+            classified_pharmacies = self._execute_stage(
+                "classification", self._classify_pharmacies, pharmacies=unique_pharmacies
+            )
+
             if self.config.verify_places:
-                self.state.update_phase("verification")
-                verified_pharmacies = self._verify_pharmacies(classified_pharmacies)
+                verified_pharmacies = self._execute_stage(
+                    "verification", self._verify_pharmacies, pharmacies=classified_pharmacies
+                )
             else:
+                logger.info("Skipping verification stage as per configuration.")
                 verified_pharmacies = classified_pharmacies
-            
-            # Save final results
+
             output_file = self._save_results(verified_pharmacies)
-            
-            # Mark the current phase as completed
-            self.state.complete_current_phase()
-            
             logger.info("Pipeline completed successfully!")
             return output_file
-            
+
         except CreditLimitExceededError as e:
             logger.error(f"Budget exceeded: {e}")
             return None
         except Exception as e:
-            logger.error(f"Pipeline failed: {e}", exc_info=True)
+            logger.error(f"Pipeline failed during execution: {e}", exc_info=False)
             return None
     
     def _collect_pharmacies(self) -> List[Dict]:
