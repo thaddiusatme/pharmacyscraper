@@ -211,67 +211,61 @@ def classify_pharmacy(
     Raises:
         ValueError: If pharmacy is None or empty
     """
-    logger.debug(f"classify_pharmacy called with: {pharmacy}, use_llm={use_llm}")
-    
     if pharmacy is None:
-        raise ValueError("Pharmacy data cannot be None")
+        raise ValueError("pharmacy cannot be None")
         
     if isinstance(pharmacy, dict) and not pharmacy:
-        raise ValueError("Pharmacy data cannot be empty")
+        raise ValueError("pharmacy dictionary cannot be empty")
     
-    cache_dict = cache if cache is not None else _classification_cache
-    
+    # Convert to PharmacyData if needed - do this before cache check to ensure consistent cache keys
     try:
-        # Check cache first
-        cache_key = _get_cache_key(pharmacy, use_llm=use_llm) if cache_dict is not None else None
-        logger.debug(f"Generated cache key: {cache_key}")
-        logger.debug(f"Cache contents: {list(cache_dict.keys())}")
-        
-        if cache_key in cache_dict:
-            logger.debug(f"Cache hit for {pharmacy.get('name') if isinstance(pharmacy, dict) else getattr(pharmacy, 'name', 'unknown')}")
-            return cache_dict[cache_key]
-        else:
-            logger.debug("Cache miss, proceeding with classification")
+        if not isinstance(pharmacy, PharmacyData):
+            pharmacy = PharmacyData.from_dict(pharmacy)
     except Exception as e:
-        logger.error(f"Cache key generation failed: {e}")
-        # Continue with classification even if cache key generation fails
+        logger.warning(f"Failed to convert pharmacy data: {e}")
+        return DEFAULT_INDEPENDENT
     
-    # Not in cache, proceed with classification
-    logger.debug("Calling rule_based_classify")
+    # Use provided cache or module-level cache
+    cache_dict = cache if cache is not None else _classification_cache
+    cache_key = _get_cache_key(pharmacy.to_dict() if hasattr(pharmacy, 'to_dict') else pharmacy, use_llm) if cache_dict else None
+    
+    # Check cache first
+    if cache_key and cache_key in cache_dict:
+        cached_result = cache_dict[cache_key]
+        return ClassificationResult(
+            is_chain=cached_result.is_chain,
+            is_compounding=cached_result.is_compounding,
+            confidence=cached_result.confidence,
+            reason=f"Cached result: {cached_result.reason}",
+            method=ClassificationMethod.CACHED,
+            source=cached_result.source
+        )
+    
+    # First try rule-based classification
     rule_res = rule_based_classify(pharmacy)
-    logger.debug(f"rule_based_classify result: {rule_res}")
     
-    # If we have high confidence in rule-based result or LLM is disabled, return it
-    if not use_llm or rule_res.confidence >= 0.9 or rule_res.is_compounding:
-        cache_dict[cache_key] = rule_res
-        _classification_cache[cache_key] = rule_res
+    # If we have high confidence or LLM is disabled, return the rule-based result
+    if rule_res.confidence >= 0.8 or not use_llm or not llm_client:
+        if cache_key:
+            cache_dict[cache_key] = rule_res
         return rule_res
     
-    # Use LLM for classification if enabled
-    if use_llm:
-        try:
-            # Use the provided llm_client if available, otherwise use the default query_perplexity
-            if llm_client:
+    # Otherwise, try LLM classification
+    try:
+        # Check if we have a custom LLM client
+        if llm_client is not None:
+            if hasattr(llm_client, 'classify_pharmacy'):
                 llm_res = llm_client.classify_pharmacy(pharmacy)
-                # Ensure the result is a ClassificationResult
-                if isinstance(llm_res, dict):
-                    llm_res = ClassificationResult(
-                        is_chain=llm_res.get("is_chain", False),
-                        is_compounding=llm_res.get("is_compounding", False),
-                        confidence=llm_res.get("confidence", 0.0),
-                        reason=llm_res.get("reason", "LLM classification"),
-                        method=ClassificationMethod.LLM,
-                        source=ClassificationSource.PERPLEXITY
-                    )
             else:
+                # Fall back to default perplexity query
                 llm_res = query_perplexity(pharmacy)
-            
-            # Choose the result with higher confidence and cache it
-            result = llm_res if llm_res.confidence >= rule_res.confidence else rule_res
-        except Exception as e:
-            logger.warning("LLM classification failed: %s. Falling back to rule-based.", e)
-            result = rule_res
-    else:
+        else:
+            llm_res = query_perplexity(pharmacy)
+        
+        # Choose the result with higher confidence and cache it
+        result = llm_res if llm_res.confidence > rule_res.confidence else rule_res
+    except Exception as e:
+        logger.warning("LLM classification failed: %s. Falling back to rule-based.", e)
         result = rule_res
     
     # Cache the result
