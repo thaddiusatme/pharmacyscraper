@@ -15,6 +15,7 @@ import pandas as pd
 from ..api.apify_collector import ApifyCollector
 from ..dedup_self_heal.dedup import remove_duplicates
 from ..classification.classifier import Classifier
+from ..classification.data_models import PharmacyData
 from ..verification.google_places import verify_pharmacy
 from ..utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
 from ..classification.cache import load_from_cache, save_to_cache
@@ -305,28 +306,32 @@ class PipelineOrchestrator:
     
     def _classify_pharmacies(self, pharmacies: List[Dict]) -> List[Dict]:
         """Classify pharmacies using the configured classifier."""
-        results = []
-        for pharmacy in pharmacies:
+        classified_data = []
+        for item in pharmacies:
             try:
-                classification_result = self.classifier.classify_pharmacy(pharmacy)
-                pharmacy["classification"] = classification_result.to_dict()
-                results.append(pharmacy)
+                with credit_tracker.track_usage('perplexity'):
+                    pharmacy = PharmacyData.from_dict(item)
+                    classification_result = self.classifier.classify_pharmacy(pharmacy)
+                    item['classification'] = classification_result.to_dict()
+                    classified_data.append(item)
             except Exception as e:
-                logger.warning(f"Failed to classify pharmacy {pharmacy.get('id')}: {e}")
-                results.append({**pharmacy, "classification_error": str(e)})
-        return results
+                logger.warning(f"Failed to classify pharmacy {item.get('id', 'N/A')}: {e}")
+                raise e # Fail fast
+        return classified_data
     
     def _verify_pharmacies(self, pharmacies: List[Dict]) -> List[Dict]:
         """Verify pharmacy information using Google Places API."""
-        results = []
-        for pharmacy in pharmacies:
+        verified_data = []
+        for item in pharmacies:
             try:
-                verification = verify_pharmacy(pharmacy)
-                results.append({**pharmacy, "verification": verification})
+                with credit_tracker.track_usage('google_places'):
+                    verification = verify_pharmacy(item)
+                    item['verification'] = verification
+                    verified_data.append(item)
             except Exception as e:
-                logger.warning(f"Failed to verify pharmacy {pharmacy.get('id')}: {e}")
-                results.append({**pharmacy, "verification_error": str(e)})
-        return results
+                logger.warning(f"Failed to verify pharmacy {item.get('id', 'N/A')}: {e}")
+                raise e # Fail fast
+        return verified_data
     
     def _save_results(self, pharmacies: List[Dict]) -> Path:
         """
