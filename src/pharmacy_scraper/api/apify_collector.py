@@ -9,7 +9,25 @@ import apify_client
 from apify_client import ApifyClient  # re-export for tests patching convenience
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
+import os
+from pathlib import Path
+
+# Create logs directory if it doesn't exist
+log_dir = Path('logs')
+log_dir.mkdir(exist_ok=True, parents=True)
+
+# Configure root logger
+logging.basicConfig(
+    level=logging.DEBUG,  # Capture all logs
+    format='%(asctime)s [%(levelname)s] %(name)s: %(message)s',
+    handlers=[
+        logging.FileHandler(log_dir / 'apify_collector.log'),
+        logging.StreamHandler()
+    ]
+)
+
+logger = logging.getLogger(__name__)
+logger.info("ApifyCollector logging initialized")
 
 class ApifyCollector:
     """A utility class to interact with Apify actors and persist the scraped data.
@@ -79,28 +97,92 @@ class ApifyCollector:
         # that the unit tests can monkey-patch the constructor before first use.
         self._client: Optional["ApifyClient"] = None
 
-    # Backward compatibility property access – some code uses ``collector.api_key``
     @property
     def api_key_prop(self) -> str:  # pragma: no cover
         return self.api_key
+        
+    def _fallback_to_direct_api(self, search_query: str, max_results: int) -> List[Dict]:
+        """Fallback to direct Google Places API when Apify actor is not available.
+        
+        Args:
+            search_query: The search query string
+            max_results: Maximum number of results to return
+            
+        Returns:
+            List of pharmacy results
+        """
+        self.logger.warning("Using direct Google Places API as fallback")
+        
+        try:
+            from googlemaps import Client as GoogleMaps
+            from googlemaps.places import places
+            
+            # Get Google Maps API key from environment
+            api_key = os.getenv('GOOGLE_MAPS_API_KEY')
+            if not api_key:
+                raise ValueError("GOOGLE_MAPS_API_KEY environment variable not set")
+                
+            # Initialize Google Maps client
+            gmaps = GoogleMaps(api_key)
+            
+            # Search for pharmacies near Seattle
+            places_result = places(gmaps, search_query, 
+                                 location=(47.6062, -122.3321),  # Seattle coordinates
+                                 radius=50000,  # 50km radius
+                                 type='pharmacy')
+            
+            # Limit results to max_results
+            places_result['results'] = places_result.get('results', [])[:max_results]
+            
+            # Format results to match Apify output format
+            results = []
+            for place in places_result.get('results', []):
+                results.append({
+                    'name': place.get('name'),
+                    'address': place.get('formatted_address'),
+                    'phone': place.get('formatted_phone_number', ''),
+                    'location': {
+                        'lat': place['geometry']['location']['lat'],
+                        'lng': place['geometry']['location']['lng']
+                    },
+                    'place_id': place.get('place_id'),
+                    'rating': place.get('rating', 0),
+                    'user_ratings_total': place.get('user_ratings_total', 0),
+                    'types': place.get('types', []),
+                    'permanently_closed': place.get('permanently_closed', False),
+                    'business_status': place.get('business_status', 'OPERATIONAL')
+                })
+                
+            self.logger.info(f"Found {len(results)} results using direct Google Places API")
+            return results
+            
+        except Exception as e:
+            self.logger.error(f"Failed to use direct Google Places API: {str(e)}")
+            raise Exception(f"Both Apify actor and direct Google Places API failed: {str(e)}")
 
     # ---------------------------------------------------------------------
     # Private helpers
     # ---------------------------------------------------------------------
-    def _get_client(self):
+    def _get_client(self) -> "ApifyClient":
         """Return – and memoise – an ``ApifyClient`` instance."""
         if self._client is None:
+            # Ensure we have an API token
+            api_token = os.getenv("APIFY_API_TOKEN") or os.getenv("APIFY_TOKEN")
+            if not api_token:
+                self.logger.error("No Apify API token found in environment variables. Please set APIFY_API_TOKEN or APIFY_TOKEN")
+                raise ValueError("No Apify API token found in environment variables")
+                
+            self.logger.info("Initializing Apify client...")
             try:
-                from apify_client import ApifyClient
-
-                # Use the token stored during initialization to ensure the correct
-                # key is used, rather than re-reading from the environment.
-                self._client = ApifyClient(self.api_token)
-            except ImportError as exc:  # pragma: no cover
+                self._client = ApifyClient(api_token)
+                # Test the client by making a simple API call
+                self._client.user().get()
+                self.logger.info("Successfully initialized Apify client")
+            except Exception as e:
+                self.logger.error(f"Failed to initialize Apify client: {str(e)}")
                 raise RuntimeError(
-                    "Apify client not installed. Please run "
-                    "'pip install apify-client'"
-                ) from exc
+                    f"Failed to initialize Apify client: {str(e)}"
+                ) from e
         return self._client
 
     def _create_output_dir(self) -> None:
@@ -304,49 +386,98 @@ class ApifyCollector:
         self.logger.info(f"CACHE MISS: Executing Apify actor for '{search_query}'")
 
         client = self._get_client()
-        # Allow overriding the actor ID via environment variable
-        actor_id = os.getenv("APIFY_ACTOR_ID", "nwua9Gu5YrADL7ZDj")
-        self.logger.info(f"Using Apify actor: {actor_id}")
         
-        # Prepare input based on the actor's expected schema
-        # Note: Different fields expect different types (boolean vs string)
-        run_input = {
-            # String array for search queries
-            "searchStringsArray": [search_query],
+        # Debug: Log API token (first 5 and last 5 characters for security)
+        api_token = os.getenv("APIFY_API_TOKEN") or os.getenv("APIFY_TOKEN")
+        if not api_token:
+            self.logger.error("No Apify API token found in environment variables. Please set APIFY_API_TOKEN or APIFY_TOKEN")
+            raise ValueError("No Apify API token found in environment variables")
             
-            # Numeric fields - Adjusted for 25 locations per state
-            "maxCrawledPlaces": max_results,  # Allow full max_results (13 per query)
-            "maxReviews": 0,  # Don't fetch reviews for now
-            "maxImages": 0,   # Don't fetch images for now
+        # Update the client token if it's different
+        if api_token != self.api_token:
+            self.logger.info("Updating Apify client with new API token")
+            self.api_token = api_token
+            self.api_key = api_token  # For backward compatibility
+            self._client = None  # Force client reinitialization
+            client = self._get_client()  # Get a fresh client with the new token
             
-            # String fields
-            "language": "en",
-            "countryCode": "us",
-            "allPlacesNoSearchAction": "",  # Must be empty string or allowed action
+        token_display = f"{api_token[:5]}...{api_token[-5:]}" if api_token else "[No token]"
+        self.logger.info(f"Using Apify API token: {token_display}")
+        
+        # Try to find a suitable Google Maps scraper actor
+        try:
+            # Use the official Google Maps Scraper actor directly
+            actor_id = "apify/google-maps-scraper"
+            self.logger.info(f"Using Google Maps actor: {actor_id}")
             
-            # Additional constraints to control usage
-            "maxCrawledPlacesPerSearch": max_results,  # Limit per search
-            "forceExit": True,  # Exit early when limit reached
+            # Verify the actor exists and is accessible
+            try:
+                actor_client = client.actor(actor_id).get()
+                self.logger.info(f"Successfully accessed actor: {actor_client.get('name')} (v{actor_client.get('version')})")
+            except Exception as e:
+                self.logger.error(f"Failed to access actor {actor_id}: {str(e)}")
+                self.logger.info("Falling back to direct Google Places API integration...")
+                return self._fallback_to_direct_api(search_query, max_results)
             
-            # Boolean flags
-            "includeWebResults": False,
-            "includeReviews": False,
-            "includeImages": False,
-            "includeOpeningHours": False,
-            "includePeopleAlsoSearch": False,
-            "includeDetailUrl": False,
-            "includePosition": True,
-            "includePeopleAlsoSearchFor": False,
-            "includePopularTimes": False,
-            "includeReviewsSummary": False,
-            "includePeopleAlsoSearchForInResponse": False,
-            "includePeopleAlsoSearchForInResponseDetails": False
-        }
+            # Prepare input for the official Google Maps Scraper actor
+            run_input = {
+                "searchStringsArray": [search_query],
+                "searchMatching": "all",
+                "maxCrawledPlaces": max_results,
+                "countryCode": "us",
+                "language": "en",
+                "maxImages": 0,
+                "maxReviews": 0,
+                "includeGeolocation": True,
+                "includeOpeningHours": False,
+                "includePeopleAlsoSearch": False,
+                "includePopularTimes": False,
+                "includeReviews": False,
+                "includeReviewsSummary": False,
+                "includeImages": False,
+                "includeWebResults": False,
+                "includeDetailUrl": False,
+                "includePosition": True,
+                "includePeopleAlsoSearchFor": False,
+                "includePeopleAlsoSearchForInResponse": False,
+                "includePeopleAlsoSearchForInResponseDetails": False,
+                "maxConcurrency": 10,
+                "maxRequestRetries": 3,
+                "requestTimeoutSecs": 60,
+                "sessionPoolName": "google-maps-scraper-session",
+                "proxyConfiguration": {
+                    "useApifyProxy": True,
+                    "apifyProxyGroups": ["RESIDENTIAL"],
+                    "apifyProxyCountry": "US"
+                }
+            }
+            
+        except Exception as e:
+            self.logger.error(f"Error initializing Google Maps actor: {str(e)}")
+            self.logger.info("Falling back to direct Google Places API integration...")
+            return self._fallback_to_direct_api(search_query, max_results)
 
         try:
+            self.logger.info(f"Attempting to call Apify actor {actor_id} with input: {json.dumps(run_input, indent=2)}")
+            
+            # First, try to get actor info to verify access
+            try:
+                actor_info = client.actor(actor_id).get()
+                self.logger.info(f"Successfully accessed actor info: {actor_info.get('name', 'Unknown')} - {actor_info.get('description', 'No description')}")
+            except Exception as e:
+                self.logger.error(f"Failed to get actor info: {str(e)}")
+                # Try to get more details about the error
+                try:
+                    # This will raise a more detailed exception
+                    client.actor(actor_id).call(run_input=run_input, wait_secs=5)
+                except Exception as detailed_e:
+                    self.logger.error(f"Detailed error when calling actor: {str(detailed_e)}")
+                    raise
+            
             # Start the actor run **asynchronously** so we can poll quietly.
             run_record = client.actor(actor_id).call(run_input=run_input, wait_secs=0)
             run_id: str = run_record["id"] if isinstance(run_record, dict) else str(run_record)
+            self.logger.info(f"Successfully started actor run with ID: {run_id}")
 
             # ------------------------------------------------------------------
             # Quiet polling loop – avoids streaming the actor logs to stdout.
