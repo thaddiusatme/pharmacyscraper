@@ -1,0 +1,32 @@
+{
+  "api_keys": {
+    "google_places": "${GOOGLE_MAPS_API_KEY}",
+    "perplexity": "${PERPLEXITY_API_KEY}",
+    "apify": "${APIFY_API_TOKEN}"
+  },
+  "max_results_per_query": 50,
+  "output_dir": "data/output/seattle",
+  "cache_dir": "data/cache",
+  "classification_cache_dir": "data/cache/classification",
+  "classification_threshold": 0.6,
+  "verify_places": true,
+  "verification_confidence_threshold": 0.7,
+  "max_budget": 100.0,
+  "api_cost_limits": {
+    "apify": 0.5,
+    "google_places": 0.01,
+    "perplexity": 0.01
+  },
+  "locations": [
+    {
+      "state": "WA",
+      "cities": ["Seattle"],
+      "queries": [
+        "independent pharmacy",
+        "local pharmacy",
+        "compounding pharmacy",
+        "neighborhood pharmacy"
+      ]
+    }
+  ]
+}
