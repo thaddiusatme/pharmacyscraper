@@ -2,6 +2,8 @@
 
 A Python-based tool for scraping and analyzing pharmacy data from various sources, with a focus on identifying independent, non-hospital pharmacies.
 
+> **Latest Update (v2.0.0)**: Enhanced classification system with improved accuracy for identifying independent pharmacies. Now using Perplexity's `sonar` model for better results.
+
 ## Features
 
 ### Pipeline Phases
@@ -19,9 +21,10 @@ The system processes data through the following phases in order:
    - Maintains data integrity across sources
 
 3. **Classification** (Phase 2a)
-   - AI-powered classification using Perplexity LLM
-   - Identifies independent vs. chain pharmacies
-   - Implements caching for cost efficiency
+   - AI-powered classification using Perplexity's `sonar` LLM model
+   - Enhanced identification of independent vs. chain pharmacies with improved accuracy
+   - Supports both rule-based and LLM-based classification with automatic fallback
+   - Implements intelligent caching for cost efficiency
 
 4. **Verification** (Phase 2b - Optional)
    - Address and business verification using Google Places
@@ -68,7 +71,7 @@ The system processes data through the following phases in order:
 
 ### Cache Configuration
 
-The system includes a file-based caching system to improve performance and reduce API calls. The cache is enabled by default and stores classification results to avoid redundant API calls.
+The system includes a file-based caching system to improve performance and reduce API calls. The cache is enabled by default and stores classification results to avoid redundant API calls. The cache is automatically invalidated when the classification logic changes.
 
 #### Cache Options
 

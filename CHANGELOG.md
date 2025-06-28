@@ -1,5 +1,24 @@
 # Independent Pharmacy Verification - Project Changelog
 
+## [2.0.0] - 2025-06-27
+### Added
+- Support for Perplexity's `sonar` model for improved classification accuracy
+- Enhanced type hints and docstrings throughout the codebase
+- Comprehensive test coverage for the classification module
+- Automatic cache invalidation when classification logic changes
+
+### Fixed
+- Resolved `PharmacyData` object handling in classification pipeline
+- Fixed model name from 'pplx-7b-online' to 'sonar' to match current API
+- Improved error handling for API rate limits and timeouts
+- Fixed cache key generation to be more consistent
+
+### Changed
+- Updated default classification model to 'sonar' for better accuracy
+- Improved logging throughout the classification process
+- Enhanced error messages for better debugging
+- Optimized cache usage to reduce API calls
+
 ## [Unreleased]
 ### Added
 - Comprehensive test suite for Perplexity client with edge case coverage
