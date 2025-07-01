@@ -9,7 +9,7 @@ from pharmacy_scraper.classification.perplexity_client import (
     PerplexityClient,
     _generate_cache_key,
 )
-from pharmacy_scraper.classification.data_models import (
+from pharmacy_scraper.classification.models import (
     ClassificationResult,
     ClassificationSource,
     ClassificationMethod,
@@ -31,22 +31,24 @@ SAMPLE_RESPONSE_DICT = {
 
 # Create a dictionary representation of the expected response
 SAMPLE_RESPONSE_DICT = {
+    "classification": "independent",
     "is_chain": False,
     "is_compounding": True,
     "confidence": 0.95,
-    "reason": "Test pharmacy is independently owned",
+    "explanation": "Test pharmacy is independently owned",
     "source": ClassificationSource.PERPLEXITY,
-    "method": ClassificationMethod.LLM
+    "cached": False  # This is a property computed from source
 }
 
 # Create a ClassificationResult instance with the correct enum values
 SAMPLE_RESPONSE = ClassificationResult(
+    classification="independent",
     is_chain=False,
     is_compounding=True,
     confidence=0.95,
-    reason="Test pharmacy is independently owned",
-    source=ClassificationSource.PERPLEXITY,
-    method=ClassificationMethod.LLM
+    explanation="Test pharmacy is independently owned",
+    source=ClassificationSource.PERPLEXITY
+    # method parameter is no longer used
 )
 
 # Expected cached data structure

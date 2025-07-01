@@ -6,7 +6,7 @@ from unittest.mock import patch, MagicMock
 from typing import List, Dict, Any, Optional
 
 from pharmacy_scraper.classification.perplexity_client import PerplexityClient, PerplexityAPIError
-from pharmacy_scraper.classification.data_models import ClassificationResult
+from pharmacy_scraper.classification.models import ClassificationResult
 
 class TestClassifyPharmaciesBatch:
     """Test cases for the classify_pharmacies_batch method."""

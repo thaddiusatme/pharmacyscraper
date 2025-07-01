@@ -5,7 +5,7 @@ from dataclasses import FrozenInstanceError, asdict
 from typing import Dict, Any, Optional
 from hypothesis import given, strategies as st
 
-from pharmacy_scraper.classification.data_models import (
+from pharmacy_scraper.classification.models import (
     ClassificationMethod,
     ClassificationSource,
     Confidence,

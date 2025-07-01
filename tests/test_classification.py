@@ -11,7 +11,7 @@ from pharmacy_scraper.classification.classifier import (
     Classifier,
     _classification_cache,
 )
-from pharmacy_scraper.classification.data_models import (
+from pharmacy_scraper.classification.models import (
     PharmacyData,
     ClassificationResult,
     ClassificationSource,

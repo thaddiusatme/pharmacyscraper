@@ -1,12 +1,10 @@
 import pytest
 from unittest.mock import patch, MagicMock
 from types import SimpleNamespace
-import pandas as pd
 import json
 from pathlib import Path
-
-from src.pharmacy_scraper.orchestrator.pipeline_orchestrator import PipelineOrchestrator, PipelineConfig
-from src.pharmacy_scraper.utils.api_usage_tracker import credit_tracker
+from pharmacy_scraper.orchestrator.pipeline_orchestrator import PipelineOrchestrator, PipelineConfig
+from pharmacy_scraper.utils.api_usage_tracker import credit_tracker
 
 @pytest.fixture
 def temp_config_file(tmp_path):

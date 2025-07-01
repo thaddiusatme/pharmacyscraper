@@ -13,6 +13,7 @@ from .classifier import (
     rule_based_classify,
     CHAIN_IDENTIFIERS
 )
+from .models import ClassificationResult, PharmacyData
 from .perplexity_client import (
     PerplexityClient,
     RateLimitError,
@@ -21,11 +22,13 @@ from .perplexity_client import (
 )
 
 __all__ = [
-    "Classifier",
-    "PerplexityClient",
-    "rule_based_classify",
     "CHAIN_IDENTIFIERS",
-    "RateLimitError",
+    "Classifier",
+    "ClassificationResult",
     "InvalidRequestError",
+    "PerplexityClient",
+    "PharmacyData",
+    "RateLimitError",
     "ResponseParseError",
+    "rule_based_classify",
 ]

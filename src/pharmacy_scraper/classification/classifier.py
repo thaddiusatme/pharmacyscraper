@@ -17,13 +17,11 @@ from __future__ import annotations
 import logging
 from typing import Dict, List, Optional, Union, Any, cast
 
-from .data_models import (
+from .models import (
     PharmacyData,
     ClassificationResult,
     ClassificationMethod,
     ClassificationSource,
-    DEFAULT_INDEPENDENT,
-    COMPOUNDING_PHARMACY
 )
 
 logger = logging.getLogger(__name__)
@@ -184,25 +182,10 @@ class Classifier:
     classification has low confidence.
     """
 
-    def __init__(self, client: Optional["PerplexityClient"] = None) -> None:
-        """Initialize the classifier with an optional PerplexityClient.
-        
-        Args:
-            client: Optional PerplexityClient instance. If not provided, one will be
-                   created if possible, otherwise LLM classification will be disabled.
-        """
-        self._client = client
-        if client is None:
-            try:
-                # Lazy import so tests can patch before import
-                from .perplexity_client import PerplexityClient  # type: ignore
-                self._client = PerplexityClient()
-            except Exception as e:
-                logger.warning(
-                    "Failed to initialize PerplexityClient. LLM classification "
-                    f"will be disabled: {e}"
-                )
-                self._client = None
+    def __init__(self, client: Optional["PerplexityClient"] = None):
+        """Initialize the classifier with an optional PerplexityClient."""
+        from .perplexity_client import PerplexityClient
+        self._client = client or PerplexityClient()
 
     def classify_pharmacy(
         self, 
@@ -255,27 +238,13 @@ class Classifier:
             
         # Try LLM classification
         try:
-            # The Perplexity client should be updated to handle both dict and PharmacyData
-            # and return a ClassificationResult
             llm_result = self._client.classify_pharmacy(pharmacy)
-            
-            # If the client returned a dict (old format), convert it
-            if isinstance(llm_result, dict):
-                llm_result = ClassificationResult(
-                    is_chain=llm_result.get("classification") == "chain",
-                    is_compounding=llm_result.get("is_compounding", False),
-                    confidence=llm_result.get("confidence", 0.0),
-                    reason=f"LLM classification: {llm_result.get('classification', 'unknown')}",
-                    method=ClassificationMethod.LLM,
-                    source=ClassificationSource.PERPLEXITY
-                )
-            
-            # Cache the LLM result
-            _classification_cache[cache_key] = llm_result
-            
-            # Return the result with higher confidence
-            return llm_result if llm_result.confidence >= rule_result.confidence else rule_result
-            
+
+            # Cache and return the result with higher confidence
+            final_result = llm_result if llm_result.confidence >= rule_result.confidence else rule_result
+            _classification_cache[cache_key] = final_result
+            return final_result
+
         except Exception as e:
             logger.error(f"LLM classification failed: {e}")
             # Cache the rule-based result on LLM failure
