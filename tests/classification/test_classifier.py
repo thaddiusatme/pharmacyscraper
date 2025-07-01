@@ -23,8 +23,7 @@ def mock_perplexity_client():
         is_compounding=False,
         confidence=0.9,
         source=ClassificationSource.PERPLEXITY,
-        reason="Mocked LLM result",
-        method=ClassificationMethod.LLM,
+        explanation="Mocked LLM result"
     )
     return mock_client
 

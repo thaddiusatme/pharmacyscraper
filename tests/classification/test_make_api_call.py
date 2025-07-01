@@ -47,10 +47,10 @@ def client():
 
         test_client = PerplexityClient(
             api_key="test_key",
-            max_retries=3,
-            openai_client=mock_client_instance,
-            rate_limit=0,  # Disable rate limiting for tests
+            cache_enabled=False,  # Disable caching for tests
         )
+        # Patch the client directly since we can't pass it in constructor anymore
+        test_client.client = mock_client_instance
 
         success_content = '{"classification": "independent", "confidence": 0.9, "is_compounding": true, "explanation": "Test explanation"}'
         mock_response = create_mock_response(success_content)
