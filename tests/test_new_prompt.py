@@ -27,7 +27,7 @@ def test_prompt_generation():
     """Test that the prompt is generated correctly with few-shot examples."""
     client = PerplexityClient(api_key="test_key")
     pharmacy_data = {
-        "title": "Test Pharmacy",
+        "name": "Test Pharmacy",
         "address": "123 Test St, Test City, TS 12345",
         "categoryName": "Pharmacy, Health & Medical",
         "website": "testpharmacy.com"
@@ -91,7 +91,7 @@ def test_integration(mock_openai):
         
         # Test classification data
         pharmacy_data = {
-            "title": "Test Pharmacy",
+            "name": "Test Pharmacy",
             "address": "123 Test St, Test City, TS 12345",
             "categoryName": "Pharmacy, Health & Medical",
             "website": "testpharmacy.com"
@@ -106,17 +106,6 @@ def test_integration(mock_openai):
         
         # Verify the result
         assert result is not None, "Result should not be None"
-        
-        # Handle case where response is wrapped in a 'response' key
-        if 'response' in result and isinstance(result['response'], str):
-            # Try to extract JSON from the response string
-            import json
-            import re
-            json_match = re.search(r'```json\n({.*?})\n```', result['response'], re.DOTALL)
-            if json_match:
-                parsed = json.loads(json_match.group(1))
-                result.update(parsed)
-        
         assert "classification" in result, f"Result should contain 'classification' key. Got: {result}"
         assert result["classification"] == "independent", f"Expected 'independent' but got {result['classification']}"
         assert "is_compounding" in result, f"Result should contain 'is_compounding' key. Got: {result}"
@@ -126,13 +115,6 @@ def test_integration(mock_openai):
         assert 0 <= result["confidence"] <= 1, f"Confidence should be between 0 and 1, got {result['confidence']}"
         
         # Verify the result was cached
-        cache_key = _generate_cache_key(pharmacy_data, client.model)
+        cache_key = _generate_cache_key(pharmacy_data, client.model_name)
         cache_file = Path(temp_dir) / f"{cache_key}.json"
         assert cache_file.exists(), "Result was not cached"
-
-if __name__ == "__main__":
-    # Run tests
-    test_prompt_generation()
-    test_response_parsing()
-    test_integration(None)
-    print("All tests passed!")

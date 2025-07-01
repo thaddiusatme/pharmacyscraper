@@ -55,18 +55,16 @@ SAMPLE_PHARMACY = {
     'address': '123 Main St',
     'city': 'Test City',
     'state': 'CA',
-    'zip': '12345',
-    'phone': '(555) 123-4567',
-    'is_chain': False
+    'zip': '12345'
 }
 
 SAMPLE_RESPONSE = {
-    'is_pharmacy': True,
-    'is_compound_pharmacy': False,
-    'is_chain': False,
-    'confidence': 0.95,
-    'reason': 'Test reason'
+    "classification": "independent",
+    "is_compounding": False,
+    "confidence": 0.9,
+    "explanation": "This is a test explanation."
 }
+
 
 class TestPerplexityClientInitialization:
     """Tests for PerplexityClient initialization and configuration."""
@@ -80,9 +78,9 @@ class TestPerplexityClientInitialization:
             cache_dir=str(tmp_path)
         )
         
-        assert client.model == "test-model"
+        assert client.model_name == "test-model"
         assert client.rate_limiter.min_interval == 6.0  # 60s / 10 requests
-        assert client.cache_dir == Path(tmp_path)
+        assert client.cache.cache_dir == str(tmp_path)
     
     def test_init_without_api_key_raises(self):
         """Test that initialization fails without API key."""
@@ -120,7 +118,8 @@ class TestCacheFunctionality:
         client = PerplexityClient(
             api_key="test-key",
             cache_dir=str(cache_dir),
-            openai_client=mock_client
+            openai_client=mock_client,
+            model_name="test-model" # ensure model is consistent
         )
         
         # First call - should hit API
@@ -133,8 +132,8 @@ class TestCacheFunctionality:
         assert result1 == result2
         
         # Verify cache file was created
-        cache_key = _generate_cache_key(SAMPLE_PHARMACY, client.model)
-        cache_file = cache_dir / f"{cache_key}.json"
+        cache_key = _generate_cache_key(SAMPLE_PHARMACY, client.model_name)
+        cache_file = Path(cache_dir) / f"{cache_key}.json"
         assert cache_file.exists()
         
         # Verify cache contents
@@ -147,7 +146,8 @@ class TestCacheFunctionality:
         # Setup cache with existing entry
         cache_dir = tmp_path / "test_cache"
         cache_dir.mkdir()
-        cache_key = _generate_cache_key(SAMPLE_PHARMACY, "test-model")
+        client_for_key = PerplexityClient(api_key="test-key", model_name="test-model")
+        cache_key = _generate_cache_key(SAMPLE_PHARMACY, client_for_key.model_name)
         cache_file = cache_dir / f"{cache_key}.json"
         
         with open(cache_file, 'w') as f:
@@ -168,7 +168,8 @@ class TestCacheFunctionality:
             api_key="test-key",
             cache_dir=str(cache_dir),
             force_reclassification=True,
-            openai_client=mock_client
+            openai_client=mock_client,
+            model_name="test-model"
         )
         
         # Should ignore cache and call API
@@ -219,9 +220,8 @@ class TestErrorHandling:
         )
         
         # Clear any cached results before the test
-        if client.cache_dir:
-            for f in client.cache_dir.glob("*"):
-                f.unlink()
+        if client.cache.cache_dir:
+            client.cache.clear()
         
         # Should retry and eventually succeed
         result = client.classify_pharmacy(SAMPLE_PHARMACY)
@@ -255,10 +255,9 @@ class TestErrorHandling:
         )
         
         # Clear any cached results before the test
-        if client.cache_dir:
-            for f in client.cache_dir.glob("*"):
-                f.unlink()
-        
+        if client.cache.cache_dir:
+            client.cache.clear()
+
         # Should raise after max retries
         with pytest.raises(RateLimitError, match=f"Rate limit exceeded after {client.max_retries} retries"):
             client.classify_pharmacy(SAMPLE_PHARMACY)
@@ -272,7 +271,7 @@ class TestRateLimiter:
     
     def test_rate_limiter_with_multiple_waits(self):
         """Test that rate limiter enforces delays between requests."""
-        limiter = RateLimiter(60)  # 1 request per second
+        limiter = RateLimiter(60)  # 1 request per second (min_interval = 1.0)
         
         # First call should not wait
         start = time.time()
@@ -285,6 +284,39 @@ class TestRateLimiter:
         limiter.wait()
         second_call_time = time.time() - start
         assert 0.9 <= second_call_time <= 1.1  # Allow some tolerance
+
+    def test_rate_limiter_no_wait_for_zero_rate_limit(self):
+        """Test that a rate limit of 0 or less results in no waiting."""
+        limiter = RateLimiter(0)
+        start = time.time()
+        limiter.wait()
+        limiter.wait()
+        duration = time.time() - start
+        assert duration < 0.01
+
+    def test_rate_limiter_initial_call_is_immediate(self):
+        """Test that the first call to wait() is always immediate."""
+        limiter = RateLimiter(1) # 1 request per minute
+        start = time.time()
+        limiter.wait()
+        duration = time.time() - start
+        assert duration < 0.01
+
+    @patch('time.sleep', return_value=None)
+    def test_rate_limiter_sleep_calculation(self, mock_sleep):
+        """Test that time.sleep is called with the correct delay."""
+        rate_limit = 120  # 2 requests per second
+        limiter = RateLimiter(rate_limit) # min_interval = 0.5
+        
+        # First call, no sleep
+        limiter.wait()
+        mock_sleep.assert_not_called()
+
+        # Second call immediately after, should sleep for ~0.5s
+        limiter.wait()
+        mock_sleep.assert_called_once()
+        # Check that sleep was called with a value close to 0.5
+        assert 0.49 < mock_sleep.call_args[0][0] < 0.51
 
 
 # Fixtures

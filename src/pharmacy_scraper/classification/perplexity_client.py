@@ -123,7 +123,7 @@ class PerplexityClient:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: str = "sonar-medium-online",
+        model_name: str = "sonar",
         rate_limit: int = 20,
         cache_dir: Optional[str] = "data/cache/classification",
         force_reclassification: bool = False,
@@ -135,7 +135,7 @@ class PerplexityClient:
         
         Args:
             api_key: Perplexity API key. If not provided, will try to get from PERPLEXITY_API_KEY env var.
-            model_name: Name of the model to use. Defaults to 'sonar-medium-online'.
+            model_name: Name of the model to use. Defaults to 'sonar'.
             rate_limit: Maximum number of requests per minute.
             cache_dir: Directory to store cache files. If None, caching is disabled.
             force_reclassification: If True, always call the API even if result is in cache.
@@ -375,18 +375,16 @@ Please provide your classification in the following JSON format:
                 frequency_penalty=0.0,
                 presence_penalty=0.0,
             )
-            
             # Parse the response
             return self._parse_response(response)
-            
-        except openai.RateLimitError as e:
-            raise RateLimitError(f"Rate limit exceeded: {str(e)}")
-            
+        except (openai.RateLimitError, ResponseParseError):
+            raise  # Re-raise to be handled by the caller
         except openai.APIError as e:
-            raise PerplexityAPIError(f"API error: {str(e)}")
-            
+            logger.error(f"Perplexity API error: {e}", exc_info=True)
+            raise PerplexityAPIError(f"API error: {e}") from e
         except Exception as e:
-            raise PerplexityAPIError(f"Unexpected error: {str(e)}")
+            logger.error(f"Unexpected error during API call: {e}", exc_info=True)
+            raise PerplexityAPIError(f"Unexpected error: {e}") from e
     
     def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str) -> Dict[str, Any]:
         """
@@ -403,131 +401,113 @@ Please provide your classification in the following JSON format:
             RateLimitError: If the rate limit is exceeded after all retries.
             PerplexityAPIError: For other API errors.
         """
-        attempts = self.max_retries + 1
-        for attempt in range(attempts):
+        for attempt in range(self.max_retries + 1):
             prompt = self._generate_prompt(pharmacy_data)
             try:
                 return self._call_api(prompt)
-            except RateLimitError as e:
+            except openai.RateLimitError as e:
                 if attempt < self.max_retries:
-                    # Exponential backoff with jitter
                     backoff_time = (2 ** attempt) + random.uniform(0, 1)
                     logger.warning(
                         f"Rate limit exceeded. Retrying in {backoff_time:.2f} seconds... "
-                        f"(Attempt {attempt + 1}/{attempts})"
+                        f"(Attempt {attempt + 1}/{self.max_retries + 1})"
                     )
                     time.sleep(backoff_time)
                 else:
                     logger.error("Rate limit exceeded after all retries.")
-                    raise e
+                    raise RateLimitError(f"Rate limit exceeded after {self.max_retries} retries") from e
 
-    def _parse_response(self, response: object) -> Optional[Dict[str, Any]]:
-        """Parse the response from the Perplexity API, handling both JSON and text responses."""
-        try:
-            # Log the full raw response structure
-            logger.debug(f"Raw Perplexity API response object: {response}")
-            logger.debug(f"Response type: {type(response)}")
-            
-            if not hasattr(response, 'choices') or not response.choices:
-                logger.error("Response missing choices or choices is empty")
-                return None
-                
-            choice = response.choices[0]
-            if not hasattr(choice, 'message') or not hasattr(choice.message, 'content'):
-                logger.error("Response choice missing message or content attribute")
-                return None
-                
-            content = choice.message.content
-            logger.info(f"Raw response content: {content}")
-            
-            # Extract JSON from code blocks if present
-            json_content = content
-            if "```json" in content:
-                # Extract content between ```json and next ```
-                start_marker = "```json"
-                end_marker = "```"
+    def _parse_response(self, response: object) -> Dict[str, Any]:
+        """
+        Parse the response from the Perplexity API, handling JSON and text responses.
+
+        Args:
+            response: The raw response object from the OpenAI client.
+
+        Returns:
+            A dictionary containing the parsed and validated classification data.
+
+        Raises:
+            ResponseParseError: If the response is malformed, cannot be parsed,
+                                or fails validation.
+        """
+        logger.debug(f"Raw Perplexity API response object: {response}")
+
+        if not hasattr(response, 'choices') or not response.choices:
+            raise ResponseParseError("Response missing 'choices' or 'choices' is empty")
+
+        choice = response.choices[0]
+        if not hasattr(choice, 'message') or not hasattr(choice.message, 'content'):
+            raise ResponseParseError("Response choice missing 'message' or 'content' attribute")
+
+        content = choice.message.content
+        logger.info(f"Raw response content: {content}")
+
+        # Extract JSON from markdown code blocks if present
+        json_content = content
+        if "```" in content:
+            start_marker = "```json"
+            end_marker = "```"
+            start_idx = content.find(start_marker)
+            if start_idx == -1:
+                start_marker = "```"
                 start_idx = content.find(start_marker)
-                if start_idx != -1:
-                    start_idx += len(start_marker)
-                    end_idx = content.find(end_marker, start_idx)
-                    if end_idx != -1:
-                        json_content = content[start_idx:end_idx].strip()
-                        logger.debug(f"Extracted JSON from code blocks: {json_content}")
-                    else:
-                        logger.warning("Found ```json but no closing ```, trying to extract JSON directly")
-                else:
-                    # Try to find any code block
-                    start_idx = content.find("```")
-                    if start_idx != -1:
-                        start_idx += 3
-                        end_idx = content.find("```", start_idx)
-                        if end_idx != -1:
-                            json_content = content[start_idx:end_idx].strip()
-                            logger.debug(f"Extracted JSON from generic code blocks: {json_content}")
-            
-            # Try to parse JSON
-            try:
-                data = json.loads(json_content)
-                logger.debug(f"Parsed JSON data: {data}")
-                
-                # Validate required fields
-                required_fields = ["classification", "is_compounding", "confidence"]
-                if not all(field in data for field in required_fields):
-                    missing = [f for f in required_fields if f not in data]
-                    raise ValueError(f"Missing required fields: {missing}")
-                    
-                # Validate classification value
-                if data["classification"] not in ["independent", "chain", "hospital", "not_a_pharmacy"]:
-                    raise ValueError(f"Invalid classification value: {data['classification']}")
-                    
-                # Ensure confidence is a number between 0 and 1
-                try:
-                    confidence = float(data["confidence"])
-                    if not 0 <= confidence <= 1:
-                        raise ValueError(f"Confidence {confidence} out of range [0, 1]")
-                    data["confidence"] = confidence
-                except (TypeError, ValueError) as e:
-                    raise ValueError(f"Invalid confidence value: {e}")
-                
-                # Ensure is_compounding is a boolean
-                if not isinstance(data["is_compounding"], bool):
-                    if isinstance(data["is_compounding"], str):
-                        data["is_compounding"] = data["is_compounding"].lower() == 'true'
-                    else:
-                        raise ValueError("is_compounding must be a boolean")
-                
-                # Ensure explanation is present and a string
-                if "explanation" not in data or not isinstance(data["explanation"], str):
-                    logger.warning("No explanation found in response, adding a default one")
-                    data["explanation"] = "No explanation provided by the model"
-                else:
-                    # Clean up the explanation text
-                    data["explanation"] = data["explanation"].strip()
-                
-                                # Attempt to extract explanation text following the JSON block if it was
-                # not included as a key in the JSON itself.  Most of our few-shot
-                # examples show the model returning natural-language explanation *after*
-                # the formatted JSON so we grab any remaining text and store it.
-                if ("explanation" not in data or not data["explanation"]) and end_idx is not None:
-                    explanation_text = content[end_idx + len(end_marker):].strip()
-                    # Remove leading punctuation / whitespace markers
-                    explanation_text = explanation_text.lstrip("\n\r ")
-                    if explanation_text:
-                        data["explanation"] = explanation_text
-                    else:
-                        data["explanation"] = "No explanation provided by the model"
 
-                return data
-                
-            except json.JSONDecodeError as json_err:
-                logger.error(f"JSON decode error: {json_err}")
-                logger.error(f"Content that failed to parse: {json_content}")
-                return None
-                
-        except Exception as e:
-            logger.error(f"Error parsing response: {e}", exc_info=True)
-            return None
+            if start_idx != -1:
+                start_idx += len(start_marker)
+                end_idx = content.find(end_marker, start_idx)
+                if end_idx != -1:
+                    json_content = content[start_idx:end_idx].strip()
+                    logger.debug(f"Extracted JSON from code block: {json_content}")
+                else:
+                    logger.warning("Found opening ``` but no closing ```, using raw content.")
+        
+        # Try to parse the extracted JSON content
+        try:
+            parsed = json.loads(json_content)
+        except json.JSONDecodeError as e:
+            logger.error(f"Failed to parse JSON response: {json_content}", exc_info=True)
+            raise ResponseParseError(f"Failed to parse JSON response: {e}")
 
+        # --- Validation ---
+        required_fields = ["classification", "is_compounding", "confidence", "explanation"]
+        if not all(field in parsed for field in required_fields):
+            missing = [field for field in required_fields if field not in parsed]
+            raise ResponseParseError(f"Response missing required fields: {missing}")
+
+        # Validate 'classification' value
+        valid_classifications = ["independent", "chain", "hospital", "not_a_pharmacy"]
+        if parsed["classification"] not in valid_classifications:
+            raise ResponseParseError(f"Invalid classification value: {parsed['classification']}")
+
+        # Validate and normalize 'confidence'
+        try:
+            confidence = float(parsed["confidence"])
+            if not 0 <= confidence <= 1:
+                raise ValueError(f"Confidence {confidence} out of range [0, 1]")
+            parsed["confidence"] = confidence
+        except (TypeError, ValueError) as e:
+            raise ResponseParseError(f"Invalid confidence value: {parsed['confidence']}. Error: {e}")
+
+        # Validate and normalize 'is_compounding'
+        if not isinstance(parsed["is_compounding"], bool):
+            if isinstance(parsed["is_compounding"], str):
+                val = parsed["is_compounding"].lower()
+                if val == 'true':
+                    parsed["is_compounding"] = True
+                elif val == 'false':
+                    parsed["is_compounding"] = False
+                else:
+                    raise ResponseParseError(f"Invalid string for is_compounding: '{parsed['is_compounding']}'")
+            else:
+                raise ResponseParseError("is_compounding must be a boolean or a 'true'/'false' string")
+
+        # Validate and normalize 'explanation'
+        if not isinstance(parsed["explanation"], str):
+            raise ResponseParseError("Explanation must be a string.")
+        parsed["explanation"] = parsed["explanation"].strip()
+
+        return parsed
     def classify_pharmacies_batch(self, pharmacies_data: List[Dict[str, Any]], model: Optional[str] = None) -> List[Optional[Dict[str, Any]]]:
         """
         Classifies a batch of pharmacies.

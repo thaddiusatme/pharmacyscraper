@@ -31,13 +31,7 @@ sys.modules['openai'].APIError = APIError
 # Now import the client
 from pharmacy_scraper.classification.perplexity_client import PerplexityClient, PerplexityAPIError
 
-# Mock OpenAI exceptions
-class MockRateLimitError(Exception):
-    def __init__(self, message, **kwargs):
-        self.message = message
-        self.response = kwargs.get('response', MagicMock())
-        self.body = kwargs.get('body', {})
-        super().__init__(self.message)
+
 
 class MockAPIError(Exception):
     def __init__(self, message, **kwargs):
@@ -142,7 +136,8 @@ class TestMakeAPICall:
         success_response = create_mock_response('{"classification": "independent", "confidence": 0.9, "is_compounding": true, "explanation": "Test explanation"}')
         
         # Create mock rate limit error responses
-        rate_limit_error = MockRateLimitError(
+        from openai import RateLimitError
+        rate_limit_error = RateLimitError(
             "Rate limit exceeded",
             response=create_mock_http_response(429, 'Rate limit exceeded'),
             body={'error': {'message': 'Rate limit exceeded'}}
@@ -156,7 +151,7 @@ class TestMakeAPICall:
         ]
         
         # Act
-        result = client._make_api_call(sample_pharmacy_data, model="test-model", retry_count=2)
+        result = client._make_api_call(sample_pharmacy_data, model="test-model")
         
         # Assert
         assert result is not None
@@ -172,7 +167,8 @@ class TestMakeAPICall:
         mock_client = client._mock_client
         
         # Create mock rate limit error
-        rate_limit_error = MockRateLimitError(
+        from openai import RateLimitError
+        rate_limit_error = RateLimitError(
             "Rate limit exceeded",
             response=create_mock_http_response(429, 'Rate limit exceeded'),
             body={'error': {'message': 'Rate limit exceeded'}}
@@ -185,7 +181,7 @@ class TestMakeAPICall:
         # Note: The client raises its own RateLimitError, not the one from openai
         from pharmacy_scraper.classification.perplexity_client import RateLimitError as ClientRateLimitError
         with pytest.raises(ClientRateLimitError, match="Rate limit exceeded after 3 retries"):
-            client._make_api_call(sample_pharmacy_data, model="test-model", retry_count=2)
+            client._make_api_call(sample_pharmacy_data, model="test-model")
         
         # Verify the expected number of calls were made (initial + max_retries)
         # The client does max_retries + 1 total attempts (initial + retries)
@@ -195,18 +191,13 @@ class TestMakeAPICall:
         """Test API call with invalid response format."""
         # Arrange
         mock_client = client._mock_client
-        
         # Create a mock response with invalid JSON content
         mock_response = create_mock_response('Invalid JSON response')
         mock_client.chat.completions.create.return_value = mock_response
-        
-        # Act
-        result = client._make_api_call(sample_pharmacy_data, model="test-model")
-        
-        # Assert - Should return a dict with error information
-        assert result is not None
-        assert "response" in result
-        assert isinstance(result["response"], str)
+        from pharmacy_scraper.classification.perplexity_client import ResponseParseError
+        import pytest
+        with pytest.raises(ResponseParseError):
+            client._make_api_call(sample_pharmacy_data, model="test-model")
     
     def test_make_api_call_http_error(self, client, sample_pharmacy_data):
         """Test API call with HTTP error."""
