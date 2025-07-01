@@ -131,6 +131,7 @@ class Cache:
                     }, f, indent=2)
             except (TypeError, IOError) as e:
                 logger.warning(f"Error writing to cache file {cache_file}: {e}")
+                raise
     
     def delete(self, key: str) -> None:
         """Delete a key from the cache."""

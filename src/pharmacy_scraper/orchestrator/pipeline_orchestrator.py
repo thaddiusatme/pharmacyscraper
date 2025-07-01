@@ -15,7 +15,7 @@ import pandas as pd
 from ..api.apify_collector import ApifyCollector
 from ..dedup_self_heal.dedup import remove_duplicates
 from ..classification.classifier import Classifier
-from ..classification.data_models import PharmacyData
+from ..classification.models import PharmacyData
 from ..verification.google_places import verify_pharmacy
 from ..utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
 from ..classification.cache import load_from_cache, save_to_cache
