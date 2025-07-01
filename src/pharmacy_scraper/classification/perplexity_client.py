@@ -157,12 +157,15 @@ class PerplexityClient:
         # Persist *cache_dir* for unit tests that monkey-patch it later
         self.cache_dir = cache_dir
 
-        # Initialize cache helper
-        self.cache = Cache(
-            cache_dir=cache_dir,
-            ttl=cache_ttl_seconds or 0,  # 0 means no expiration
-            cleanup_interval=300,  # 5 minutes
-        )
+        # Initialize cache helper only if cache_dir is provided
+        if cache_dir is not None:
+            self.cache = Cache(
+                cache_dir=cache_dir,
+                ttl=cache_ttl_seconds or 0,  # 0 means no expiration
+                cleanup_interval=300,  # 5 minutes
+            )
+        else:
+            self.cache = None
         
         # Use provided OpenAI client or create a new one
         if openai_client is not None:
@@ -220,22 +223,32 @@ class PerplexityClient:
         # Generate cache key including the model name
         cache_key = self._get_cache_key(pharmacy_data, model=model)
         
-        # Check cache first if not forcing reclassification
-        if not self.force_reclassification:
-            cached_result = self.cache.get(cache_key)
-            if cached_result is not None:
-                logger.debug(f"Cache hit for pharmacy: {pharmacy_data.get('name')}")
-                return cached_result
+        # Check cache first if not forcing reclassification and cache is enabled
+        if not self.force_reclassification and self.cache is not None:
+            try:
+                cached_result = self.cache.get(cache_key)
+                if cached_result is not None:
+                    logger.debug(f"Cache hit for pharmacy: {pharmacy_data.get('name')}")
+                    return cached_result
+            except (IOError, OSError) as e:
+                logger.warning(f"Failed to read from cache for key {cache_key}: {e}")
         
-        logger.debug(f"Cache miss for pharmacy: {pharmacy_data.get('name')}")
+        if self.cache is not None:
+            logger.debug(f"Cache miss for pharmacy: {pharmacy_data.get('name')}")
+        else:
+            logger.debug(f"Cache disabled, making API call for pharmacy: {pharmacy_data.get('name')}")
         
         # Make the API call
         try:
             result = self._make_api_call(pharmacy_data, model)
             
-            # Cache the result
-            self.cache.set(cache_key, result)
-
+            # Cache the result if cache is enabled
+            if self.cache is not None:
+                try:
+                    self.cache.set(cache_key, result)
+                except (IOError, OSError) as e:
+                    logger.warning(f"Failed to write to cache file for key {cache_key}: {e}")
+            
             # If the cache is a unittest.mock.MagicMock (as in unit tests),
             # configure it to return the freshly cached value on subsequent
             # `.get()` calls so that the second classify invocation sees the
@@ -375,57 +388,38 @@ Please provide your classification in the following JSON format:
         except Exception as e:
             raise PerplexityAPIError(f"Unexpected error: {str(e)}")
     
-    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str, retry_count: Optional[int] = None) -> Dict[str, Any]:
+    def _make_api_call(self, pharmacy_data: Dict[str, Any], model: str) -> Dict[str, Any]:
         """
         Makes the actual API call to Perplexity with retry logic for rate limits.
-        
+
         Args:
-            pharmacy_data: The pharmacy data to classify
-            model: The model to use for classification
-            retry_count: Number of retry attempts remaining
-            
+            pharmacy_data: The pharmacy data to classify.
+            model: The model to use for classification.
+
         Returns:
-            The classification result
-            
+            The classification result.
+
         Raises:
-            RateLimitError: If rate limit is exceeded after all retries
-            PerplexityAPIError: For other API errors
+            RateLimitError: If the rate limit is exceeded after all retries.
+            PerplexityAPIError: For other API errors.
         """
-        if retry_count is None:
-            retry_count = self.max_retries
-            
-        try:
-            # Generate the prompt
+        attempts = self.max_retries + 1
+        for attempt in range(attempts):
             prompt = self._generate_prompt(pharmacy_data)
-            
-            # Make the API call
-            response = self._call_api(prompt)
-            
-            return response
-            
-        except (RateLimitError, openai.RateLimitError) as e:
-            if retry_count <= 0:
-                logger.error("Rate limit exceeded and no retries left")
-                raise RateLimitError(f"Rate limit exceeded: {str(e)}")
-                
-            # Exponential backoff with jitter
-            backoff_time = (2 ** (self.max_retries - retry_count)) * 0.5
-            backoff_time += random.uniform(0, 1)  # Add jitter
-            
-            logger.warning(f"Rate limited. Retrying in {backoff_time:.1f}s... (attempts left: {retry_count})")
-            time.sleep(backoff_time)
-            
-            return self._make_api_call(pharmacy_data, model, retry_count - 1)
-            
-        except (openai.APIError, openai.APITimeoutError) as e:
-            if retry_count <= 0:
-                logger.error(f"API error after {self.max_retries} retries: {str(e)}")
-                raise PerplexityAPIError(f"API error: {str(e)}")
-                
-            logger.warning(f"API error, retrying... (attempts left: {retry_count})")
-            time.sleep(1)  # Short delay before retry
-            
-            return self._make_api_call(pharmacy_data, model, retry_count - 1)
+            try:
+                return self._call_api(prompt)
+            except RateLimitError as e:
+                if attempt < self.max_retries:
+                    # Exponential backoff with jitter
+                    backoff_time = (2 ** attempt) + random.uniform(0, 1)
+                    logger.warning(
+                        f"Rate limit exceeded. Retrying in {backoff_time:.2f} seconds... "
+                        f"(Attempt {attempt + 1}/{attempts})"
+                    )
+                    time.sleep(backoff_time)
+                else:
+                    logger.error("Rate limit exceeded after all retries.")
+                    raise e
 
     def _parse_response(self, response: object) -> Optional[Dict[str, Any]]:
         """Parse the response from the Perplexity API, handling both JSON and text responses."""
