@@ -1,0 +1,80 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.1, pytest-7.4.4, pluggy-1.6.0 -- /Users/thaddius/repos/pharmacyscraper/venv/bin/python3
+cachedir: .pytest_cache
+hypothesis profile 'default'
+rootdir: /Users/thaddius/repos/pharmacyscraper
+configfile: pytest.ini
+plugins: anyio-4.9.0, hypothesis-6.135.16, cov-4.1.0, vcr-1.0.2, mock-3.14.1
+collecting ... collected 14 items
+
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_init_no_api_key_raises_error 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+PASSED                                                                   [  7%]
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_init_with_external_openai_client 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+PASSED                                                                   [ 14%]
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_classify_pharmacy_invalid_input_type 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+PASSED                                                                   [ 21%]
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_classify_pharmacy_missing_name_field 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+PASSED                                                                   [ 28%]
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_caching 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+-------------------------------- live log call ---------------------------------
+2025-06-30 16:31:56 [    INFO] Raw response content: {"classification": "independent", "is_compounding": false, "confidence": 0.9, "explanation": "This is a mock explanation."} (perplexity_client.py:434)
+PASSED                                                                   [ 35%]
+tests/classification/test_perplexity_client.py::TestPerplexityClient::test_force_reclassification 
+-------------------------------- live log setup --------------------------------
+2025-06-30 16:31:56 [    INFO] API credit tracker has been reset. (api_usage_tracker.py:206)
+-------------------------------- live log call ---------------------------------
+2025-06-30 16:31:56 [    INFO] Raw response content: {"classification": "independent", "is_compounding": false, "confidence": 0.9, "explanation": "This is a mock explanation."} (perplexity_client.py:434)
+
+
+---------- coverage: platform darwin, python 3.13.1-final-0 ----------
+Name                                                         Stmts   Miss  Cover   Missing
+------------------------------------------------------------------------------------------
+src/__init__.py                                                  2      0   100%
+src/pharmacy_scraper/__init__.py                                 0      0   100%
+src/pharmacy_scraper/api/__init__.py                             0      0   100%
+src/pharmacy_scraper/api/apify_collector.py                    320    277    13%   71-98, 102, 114-160, 168-197, 201, 206-208, 216-226, 230-242, 249-250, 261-268, 280-285, 307-377, 384-386, 390-560, 580-659, 672-681, 699-700, 704-717
+src/pharmacy_scraper/classification/__init__.py                  4      0   100%
+src/pharmacy_scraper/classification/cache.py                    64     45    30%   25-26, 29, 32, 35, 39-45, 49-66, 70-78, 82-94
+src/pharmacy_scraper/classification/classifier.py               65     49    25%   72, 85-123, 142-143, 174, 194-205, 225-283
+src/pharmacy_scraper/classification/data_models.py              72     28    61%   67-80, 88-96, 124-126, 130-132, 151-165, 180, 198
+src/pharmacy_scraper/classification/perplexity_client.py       208     82    61%   55, 69, 78, 95-97, 171, 211, 230-231, 242-243, 253-254, 261, 274-298, 312-337, 375-381, 405-414, 425-426, 430-431, 440-459, 469, 482, 487-488, 494-495, 505-511, 515-522, 528
+src/pharmacy_scraper/config.py                                   0      0   100%
+src/pharmacy_scraper/config/__init__.py                         10      3    70%   22-24
+src/pharmacy_scraper/config/filters.py                          29     29     0%   7-122
+src/pharmacy_scraper/data_processing/__init__.py                 0      0   100%
+src/pharmacy_scraper/data_processing/organize_data.py           84     84     0%   6-150
+src/pharmacy_scraper/dedup_self_heal/__init__.py                 7      2    71%   37-38
+src/pharmacy_scraper/dedup_self_heal/apify_integration.py       53     31    42%   52-66, 80-85, 89-97, 166-182, 187-190, 207
+src/pharmacy_scraper/dedup_self_heal/dedup.py                  148    127    14%   38-40, 52-55, 73-80, 94-102, 136-254, 269-324, 338-346, 360-421, 435-470
+src/pharmacy_scraper/dedup_self_heal/merge_and_dedupe.py        42     42     0%   1-63
+src/pharmacy_scraper/models/__init__.py                          0      0   100%
+src/pharmacy_scraper/orchestrator/__init__.py                    2      0   100%
+src/pharmacy_scraper/orchestrator/pipeline_orchestrator.py     176    135    23%   88-90, 94-102, 107-120, 129-158, 168-198, 210-255, 271-300, 305-307, 311-322, 326-336, 348-364
+src/pharmacy_scraper/orchestrator/state_manager.py              48     36    25%   19-21, 25, 29-40, 44-50, 55-62, 66-70, 74-78, 82-85
+src/pharmacy_scraper/run_pipeline_v2.py                         29     29     0%   15-75
+src/pharmacy_scraper/run_trial.py                               62     62     0%   5-85
+src/pharmacy_scraper/utils/__init__.py                           2      0   100%
+src/pharmacy_scraper/utils/api_cost_tracker.py                  93     93     0%   2-245
+src/pharmacy_scraper/utils/api_usage_tracker.py                 94     52    45%   49-53, 64-65, 69, 73-74, 85-97, 112-142, 151-154, 163-176, 180, 195, 213-215
+src/pharmacy_scraper/utils/cache.py                            113     72    36%   58, 62-64, 79, 86-103, 132-133, 138-150, 155-163, 167-190, 200-225
+src/pharmacy_scraper/utils/logger.py                            28     28     0%   1-44
+src/pharmacy_scraper/verification/__init__.py                    0      0   100%
+src/pharmacy_scraper/verification/google_places.py              74     59    20%   39-46, 51, 60-63, 85-161, 170-176
+------------------------------------------------------------------------------------------
+TOTAL                                                         1829   1365    25%
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! KeyboardInterrupt !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+/Users/thaddius/repos/pharmacyscraper/src/pharmacy_scraper/classification/perplexity_client.py:86: KeyboardInterrupt
+(to show a full traceback on KeyboardInterrupt use --full-trace)
+============================== 5 passed in 0.92s ===============================

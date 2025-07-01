@@ -1,5 +1,4 @@
 # Core Dependencies
-openai
 pytest
 pytest-cov
 hypothesis
