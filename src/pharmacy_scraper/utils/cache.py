@@ -113,7 +113,9 @@ class Cache:
             ttl: Optional TTL in seconds. Uses instance default if not specified.
         """
         ttl = ttl or self.ttl
-        expires_at = time.time() + ttl
+        # Handle case where ttl is None - use a very large value (10 years)
+        # or don't set expires_at at all
+        expires_at = time.time() + (ttl if ttl is not None else 10 * 365 * 24 * 60 * 60)
         
         # Update memory cache
         self.memory_cache[key] = value
