@@ -302,8 +302,8 @@ class PerplexityClient:
             elif cached_data:
                 logger.warning(f"Invalid cache format for key {key}: expected dict, got {type(cached_data)}")
             return None
-        except (IOError, OSError) as e:
-            # Handle any IO errors that might occur when reading from cache
+        except (IOError, OSError, json.JSONDecodeError) as e:
+            # Handle any IO errors or JSON decode errors that might occur when reading from cache
             logger.warning(f"Cache read error for key {key}: {e}")
             return None
             

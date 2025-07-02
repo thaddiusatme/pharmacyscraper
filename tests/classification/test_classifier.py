@@ -19,11 +19,14 @@ def mock_perplexity_client():
     """Provides a mocked PerplexityClient instance that returns a high-confidence LLM result."""
     mock_client = MagicMock(spec=PerplexityClient)
     mock_client.classify_pharmacy.return_value = ClassificationResult(
+        classification="chain",
         is_chain=True,
         is_compounding=False,
         confidence=0.9,
         source=ClassificationSource.PERPLEXITY,
-        explanation="Mocked LLM result"
+        explanation="Mocked LLM result",
+        pharmacy_data=None,
+        model="test-model"
     )
     return mock_client
 
@@ -48,7 +51,14 @@ def test_high_confidence_rule_bypasses_llm(
 ):
     """Tests that a high-confidence rule-based result is returned directly without calling the LLM."""
     mock_rule_based.return_value = ClassificationResult(
-        is_chain=True, confidence=0.95, source=ClassificationSource.RULE_BASED
+        classification="chain",
+        is_chain=True, 
+        is_compounding=False,
+        confidence=0.95, 
+        source=ClassificationSource.RULE_BASED,
+        explanation="Rule-based classification",
+        pharmacy_data=sample_pharmacy_data,
+        model=None
     )
     classifier = Classifier(client=mock_perplexity_client)
     result = classifier.classify_pharmacy(sample_pharmacy_data)
@@ -64,7 +74,14 @@ def test_low_confidence_rule_triggers_llm(
 ):
     """Tests that a low-confidence rule-based result triggers an LLM fallback."""
     mock_rule_based.return_value = ClassificationResult(
-        is_chain=False, confidence=0.5, source=ClassificationSource.RULE_BASED
+        classification="independent",
+        is_chain=False, 
+        is_compounding=False,
+        confidence=0.5, 
+        source=ClassificationSource.RULE_BASED,
+        explanation="Low confidence rule-based classification",
+        pharmacy_data=sample_pharmacy_data,
+        model=None
     )
     classifier = Classifier(client=mock_perplexity_client)
     result = classifier.classify_pharmacy(sample_pharmacy_data)
@@ -80,7 +97,14 @@ def test_llm_disabled_returns_rule_result(
 ):
     """Tests that the rule-based result is returned when `use_llm=False`, regardless of confidence."""
     mock_rule_based.return_value = ClassificationResult(
-        is_chain=False, confidence=0.5, source=ClassificationSource.RULE_BASED
+        classification="independent",
+        is_chain=False, 
+        is_compounding=False,
+        confidence=0.5, 
+        source=ClassificationSource.RULE_BASED,
+        explanation="Low confidence rule-based classification",
+        pharmacy_data=sample_pharmacy_data,
+        model=None
     )
     classifier = Classifier(client=mock_perplexity_client)
     result = classifier.classify_pharmacy(sample_pharmacy_data, use_llm=False)
@@ -96,7 +120,14 @@ def test_llm_error_falls_back_to_rule_result(
 ):
     """Tests that the rule-based result is returned if the LLM call fails."""
     rule_result = ClassificationResult(
-        is_chain=False, confidence=0.5, source=ClassificationSource.RULE_BASED
+        classification="independent",
+        is_chain=False, 
+        is_compounding=False,
+        confidence=0.5, 
+        source=ClassificationSource.RULE_BASED,
+        explanation="Rule-based classification",
+        pharmacy_data=sample_pharmacy_data,
+        model=None
     )
     mock_rule_based.return_value = rule_result
     mock_perplexity_client.classify_pharmacy.side_effect = Exception("API Error")
@@ -114,7 +145,14 @@ def test_caching_behavior(
 ):
     """Tests that results are cached and subsequent calls do not trigger new classifications."""
     mock_rule_based.return_value = ClassificationResult(
-        is_chain=False, confidence=0.5, source=ClassificationSource.RULE_BASED
+        classification="independent",
+        is_chain=False, 
+        is_compounding=False,
+        confidence=0.5, 
+        source=ClassificationSource.RULE_BASED,
+        explanation="Low confidence rule-based classification",
+        pharmacy_data=sample_pharmacy_data,
+        model=None
     )
     classifier = Classifier(client=mock_perplexity_client)
 
@@ -123,11 +161,15 @@ def test_caching_behavior(
     mock_rule_based.assert_called_once_with(sample_pharmacy_data)
     mock_perplexity_client.classify_pharmacy.assert_called_once_with(sample_pharmacy_data)
 
+    # Reset mocks to verify they aren't called on second run
+    mock_rule_based.reset_mock()
+    mock_perplexity_client.classify_pharmacy.reset_mock()
+    
     # Second call, should hit the cache and not call the mocks again
     result = classifier.classify_pharmacy(sample_pharmacy_data)
-    assert result.method == ClassificationMethod.CACHED
-    mock_rule_based.assert_called_once()  # Not called again
-    mock_perplexity_client.classify_pharmacy.assert_called_once()  # Not called again
+    assert result.source == ClassificationSource.CACHE
+    assert not mock_rule_based.called  # Not called again
+    assert not mock_perplexity_client.classify_pharmacy.called  # Not called again
 
 
 def test_invalid_input_handling():
