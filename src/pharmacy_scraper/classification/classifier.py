@@ -84,6 +84,9 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
         pharmacy_data = PharmacyData.from_dict(pharmacy)
     else:
         pharmacy_data = pharmacy
+        
+    # Set default classification to 'independent' if not specified
+    classification = "independent"
     
     name = _norm(pharmacy_data.name or "")
 
@@ -101,7 +104,7 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
                 is_chain=True,
                 is_compounding=False,
                 confidence=1.0,
-                reason=f"Matched chain keyword: {kw}",
+                explanation=f"Matched chain keyword: {kw}",
                 method=ClassificationMethod.RULE_BASED,
                 source=ClassificationSource.RULE_BASED
             )
@@ -112,8 +115,7 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
             is_chain=False,
             is_compounding=True,
             confidence=0.95,
-            reason="Compounding pharmacy keyword detected",
-            method=ClassificationMethod.RULE_BASED,
+            explanation="Compounding pharmacy keyword detected",
             source=ClassificationSource.RULE_BASED
         )
 
@@ -122,8 +124,7 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
         is_chain=False,
         is_compounding=False,
         confidence=0.5,
-        reason="No chain identifiers found",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="No chain identifiers found",
         source=ClassificationSource.RULE_BASED
     )
 
@@ -142,8 +143,7 @@ def query_perplexity(pharmacy: Union[Dict, PharmacyData]) -> ClassificationResul
         is_chain=False,
         is_compounding=False,
         confidence=0.75,
-        reason="Stub LLM result",
-        method=ClassificationMethod.LLM,
+        explanation="Stub LLM result",
         source=ClassificationSource.PERPLEXITY
     )
 
@@ -218,9 +218,10 @@ class Classifier:
                 is_chain=cached_result.is_chain,
                 is_compounding=cached_result.is_compounding,
                 confidence=cached_result.confidence,
-                reason=f"Cached: {cached_result.reason}",
-                method=ClassificationMethod.CACHED,
-                source=cached_result.source,
+                explanation=f"Cached: {cached_result.explanation}",
+                source=ClassificationSource.CACHE,
+                pharmacy_data=cached_result.pharmacy_data,
+                model=cached_result.model
             )
             
         # First try rule-based classification
@@ -250,6 +251,37 @@ class Classifier:
             # Cache the rule-based result on LLM failure
             _classification_cache[cache_key] = rule_result
             return rule_result
+            
+    def batch_classify_pharmacies(
+        self,
+        pharmacies: List[Union[Dict, PharmacyData]],
+        use_llm: bool = True
+    ) -> List[Optional[ClassificationResult]]:
+        """Classify multiple pharmacies in batch mode.
+        
+        Args:
+            pharmacies: List of pharmacy data as either dictionaries or PharmacyData instances
+            use_llm: Whether to use LLM for classification when rule-based has low confidence
+            
+        Returns:
+            List of ClassificationResult objects, one for each pharmacy.
+            Failed classifications will have None in the corresponding position.
+        """
+        if not pharmacies:
+            return []
+            
+        results: List[Optional[ClassificationResult]] = []
+        
+        # Process each pharmacy, handling exceptions individually
+        for pharmacy in pharmacies:
+            try:
+                result = self.classify_pharmacy(pharmacy, use_llm=use_llm)
+                results.append(result)
+            except Exception as e:
+                logger.error(f"Failed to classify pharmacy: {e}")
+                results.append(None)
+                
+        return results
 
 
 ###############################################################################
