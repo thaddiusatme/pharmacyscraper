@@ -176,7 +176,11 @@ class PerplexityClient:
     ) -> "ClassificationResult":
         """Classify a single pharmacy, handling caching and API calls."""
         if not isinstance(pharmacy_data, PharmacyData):
-            pharmacy_data = PharmacyData.from_dict(pharmacy_data)
+            try:
+                pharmacy_data = PharmacyData.from_dict(pharmacy_data)
+            except (AttributeError, TypeError, ValueError) as e:
+                # Wrap input validation errors in PerplexityAPIError
+                raise PerplexityAPIError(f"Invalid input data: {e}", error_type="invalid_input")
 
         # If force_reclassification is False, check the cache first
         if not self.force_reclassification:
@@ -268,32 +272,39 @@ class PerplexityClient:
         """Retrieve a classification result from the cache."""
         if not self.cache:
             return None
-            
-        cached_data = self.cache.get(key)
-        if cached_data and isinstance(cached_data, dict):
-            try:
-                # Reconstruct PharmacyData if it exists in cache
-                pharmacy_data_dict = cached_data.get('pharmacy_data')
-                pharmacy_data = PharmacyData.from_dict(pharmacy_data_dict) if pharmacy_data_dict else None
+           
+        try: 
+            cached_data = self.cache.get(key)
+            if cached_data and isinstance(cached_data, dict):
+                try:
+                    # Reconstruct PharmacyData if it exists in cache
+                    pharmacy_data_dict = cached_data.get('pharmacy_data')
+                    pharmacy_data = PharmacyData.from_dict(pharmacy_data_dict) if pharmacy_data_dict else None
 
-                return ClassificationResult(
-                    classification=cached_data.get('classification'),
-                    is_chain=cached_data.get('is_chain'),
-                    is_compounding=cached_data.get('is_compounding'),
-                    confidence=cached_data.get('confidence'),
-                    explanation=cached_data.get('explanation'),
-                    model=cached_data.get('model'),
-                    pharmacy_data=pharmacy_data,
-                    source=ClassificationSource(cached_data.get('source', 'cache')),
-                    error=cached_data.get('error')
-                )
-            except (KeyError, TypeError, ValueError) as e:
-                logger.warning(f"Failed to load cached result for key {key} due to invalid data: {e}")
-                self.cache.delete(key) # Corrupted cache entry
-                return None
-        elif cached_data:
-            logger.warning(f"Invalid cache format for key {key}: expected dict, got {type(cached_data)}")
-            self.cache.delete(key)
+                    return ClassificationResult(
+                        classification=cached_data.get('classification'),
+                        is_chain=cached_data.get('is_chain'),
+                        is_compounding=cached_data.get('is_compounding'),
+                        confidence=cached_data.get('confidence'),
+                        explanation=cached_data.get('explanation'),
+                        model=cached_data.get('model'),
+                        pharmacy_data=pharmacy_data,
+                        source=ClassificationSource(cached_data.get('source', 'cache')),
+                        error=cached_data.get('error')
+                    )
+                except (KeyError, TypeError, ValueError) as e:
+                    logger.warning(f"Failed to load cached result for key {key} due to invalid data: {e}")
+                    try:
+                        self.cache.delete(key) # Corrupted cache entry
+                    except (IOError, OSError) as delete_error:
+                        logger.warning(f"Failed to delete corrupted cache entry: {delete_error}")
+                    return None
+            elif cached_data:
+                logger.warning(f"Invalid cache format for key {key}: expected dict, got {type(cached_data)}")
+            return None
+        except (IOError, OSError) as e:
+            # Handle any IO errors that might occur when reading from cache
+            logger.warning(f"Cache read error for key {key}: {e}")
             return None
             
         return None
