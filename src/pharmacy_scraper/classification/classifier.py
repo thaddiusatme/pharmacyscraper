@@ -105,7 +105,6 @@ def rule_based_classify(pharmacy: Union[Dict, PharmacyData]) -> ClassificationRe
                 is_compounding=False,
                 confidence=1.0,
                 explanation=f"Matched chain keyword: {kw}",
-                method=ClassificationMethod.RULE_BASED,
                 source=ClassificationSource.RULE_BASED
             )
 
