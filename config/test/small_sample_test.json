@@ -1,0 +1,23 @@
+{
+  "cache_dir": "/Users/thaddius/repos/pharmacyscraper/cache/test_run",
+  "output_dir": "/Users/thaddius/repos/pharmacyscraper/output/test_run",
+  "locations": [
+    {
+      "state": "AZ",
+      "cities": ["Phoenix"],
+      "queries": ["independent pharmacy"]
+    }
+  ],
+  "api_keys": {
+    "apify": "test_apify_key",
+    "google_places": "test_google_places_key",
+    "perplexity": "test_perplexity_key"
+  },
+  "max_budget": 10.0,
+  "api_cost_limits": {
+    "apify": 0.5,
+    "google_places": 0.3,
+    "perplexity": 0.2
+  },
+  "max_results_per_query": 3
+}
