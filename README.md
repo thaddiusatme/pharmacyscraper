@@ -2,7 +2,7 @@
 
 A Python-based tool for scraping and analyzing pharmacy data from various sources, with a focus on identifying independent, non-hospital pharmacies.
 
-> **Latest Update (v2.0.1)**: Significant improvements in orchestrator test coverage (88%) with comprehensive cache functionality testing. Enhanced classification system with improved accuracy for identifying independent pharmacies using Perplexity's `sonar` model.
+> **Latest Update (v2.1.0)**: Production-ready pipeline with secure API key handling, automated testing, and Perplexity `sonar` model integration. Now includes robust budget enforcement and extensive test coverage for the orchestrator (88%).
 
 ## Features
 
@@ -66,6 +66,33 @@ Detailed documentation is available for each module:
 
 ## Configuration
 
+### Option 1: Environment Variables (Recommended for Production)
+
+1. Create a `.env` file in the project root:
+   ```bash
+   # Create .env file (this file should never be committed to version control)
+   touch .env
+   ```
+
+2. Add your API keys to the `.env` file:
+   ```
+   # API Keys
+   GOOGLE_MAPS_API_KEY=your_google_api_key_here
+   APIFY_API_TOKEN=your_apify_token_here
+   PERPLEXITY_API_KEY=your_perplexity_api_key_here
+   ```
+
+3. Use the secure production configuration:
+   ```bash
+   # Make the setup script executable
+   chmod +x setup_env_and_run.sh
+   
+   # Run the pipeline securely
+   ./setup_env_and_run.sh
+   ```
+
+### Option 2: Configuration File
+
 1. Copy the example config file and update with your API keys:
    ```bash
    cp config/example_config.json config/config.json
@@ -74,9 +101,58 @@ Detailed documentation is available for each module:
 2. Update the following in `config/config.json`:
    - Apify API token
    - Google Places API key
+   - Perplexity API key
    - Other configuration parameters as needed
 
 ## Usage
+
+### Running the Production Pipeline
+
+The pharmacy scraper now supports two main execution modes:
+
+1. **Test Pipeline** (No API Calls):
+   ```bash
+   python run_test_pipeline.py
+   ```
+   This runs the pipeline with mocked API services, perfect for testing changes without using API credits.
+
+2. **Production Pipeline** (Real API Calls):
+   ```bash
+   # Run with default configuration
+   python run_production_pipeline.py
+   
+   # Reset state and start fresh
+   python run_production_pipeline.py --reset
+   
+   # Use a specific configuration
+   python run_production_pipeline.py --config config/production/custom_config.json
+   
+   # Validate configuration without making API calls
+   python run_production_pipeline.py --dry-run
+   ```
+
+3. **Secure Environment Setup** (Recommended):
+   ```bash
+   # This uses environment variables from .env file
+   ./setup_env_and_run.sh
+   ```
+
+### API Budget Management
+
+The pipeline enforces API budget limits specified in your configuration:
+
+```json
+"max_budget": 50.0,
+"api_cost_limits": {
+  "apify": 0.5,
+  "google_places": 0.3,
+  "perplexity": 0.2
+}
+```
+
+This prevents unexpected API costs while ensuring data quality.
+
+### Programmatic Usage
 
 The primary entry point for classifying pharmacies is the `Classifier` class. It provides a simple interface that handles rule-based classification, LLM fallback, and caching automatically.
 
