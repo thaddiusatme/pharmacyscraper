@@ -7,6 +7,8 @@ using the OpenAI-compatible interface.
 import os
 import json
 import logging
+import re
+import hashlib
 import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Union
@@ -125,7 +127,7 @@ class PerplexityClient:
     def __init__(
         self,
         api_key: Optional[str] = None,
-        model_name: str = "pplx-7b-chat",
+        model_name: str = "sonar",
         temperature: float = 0.1,
         cache_enabled: bool = True,
         cache_dir: Optional[str] = None,
@@ -150,7 +152,7 @@ class PerplexityClient:
         # Use provided API key or get from environment/config
         self.api_key = api_key or os.environ.get("PERPLEXITY_API_KEY") or get_config().get("perplexity_api_key")
         if not self.api_key:
-            raise ValueError("Perplexity API key not found. Set PERPLEXITY_API_KEY environment variable or pass it explicitly.")
+            raise ValueError("No Perplexity API key provided")
             
         # Initialize API client - allow injection for testing
         self._client = openai_client or OpenAI(api_key=self.api_key, base_url="https://api.perplexity.ai")
@@ -326,10 +328,27 @@ class PerplexityClient:
                 "explanation": "Test explanation"
             }
         
-    def _call_api(self, pharmacy_data: PharmacyData, model: Optional[str] = None) -> Any:
-        """Low-level API call method that can be mocked in tests."""
+    def _call_api(self, pharmacy_data: Union[PharmacyData, Dict[str, Any], str], model: Optional[str] = None) -> Any:
+        """Low-level API call method that can be mocked in tests.
+        
+        Args:
+            pharmacy_data: The pharmacy data to classify, either as a PharmacyData object, dictionary, or a prompt string
+            model: The model to use for the API call
+            
+        Returns:
+            The raw API response object from the chat.completions.create call
+        """
         self.rate_limiter.wait()
-        prompt = self._create_prompt(pharmacy_data)
+        
+        # Handle case where pharmacy_data is already a string (for test compatibility)
+        if isinstance(pharmacy_data, str):
+            prompt = pharmacy_data
+        else:
+            # Convert to PharmacyData if it's a dict
+            if isinstance(pharmacy_data, dict):
+                pharmacy_data = PharmacyData.from_dict(pharmacy_data)
+            prompt = self._create_prompt(pharmacy_data)
+            
         model_to_use = model or self.model_name
         
         return self.client.chat.completions.create(
@@ -415,16 +434,20 @@ class PerplexityClient:
         """Parse the response from the OpenAI API."""
         if not response or not response.choices or not response.choices[0].message:
             logger.error(f"Invalid API response format: {response}")
-            raise ResponseParseError(f"Invalid API response format: {response}")
+            raise ResponseParseError(f"Empty response from Perplexity API")
 
         try:
+            # Get content and handle None case for test compatibility
             content = response.choices[0].message.content
             logger.debug(f"Raw API response: {content}")
+            
+            if content is None:
+                raise ResponseParseError(f"Empty content in API response message")
             
             # Special handling for test_make_api_call_invalid_response
             if content == 'Invalid JSON response':
                 logger.error(f"Invalid JSON response received: {content}")
-                raise ResponseParseError(f"Failed to parse JSON response: {content}")
+                raise ResponseParseError(f"Invalid response format: {content}")
                 
             try:
                 # Parse the JSON content
@@ -438,19 +461,28 @@ class PerplexityClient:
                         data = json.loads(code_match.group(1))
                     except json.JSONDecodeError:
                         logger.error(f"Failed to parse JSON from code block: {code_match.group(1)}")
-                        raise ResponseParseError(f"Failed to parse JSON from code block: {code_match.group(1)}")
+                        raise ResponseParseError(f"Invalid response format: {code_match.group(1)}")
                 else:
-                    raise ResponseParseError(f"Failed to parse JSON response: {content}")
+                    raise ResponseParseError(f"Invalid response format: {content}")
 
-            # Basic validation of parsed content - more lenient for tests
+            # Basic validation of parsed content
+            if not isinstance(data, dict):
+                raise ResponseParseError(f"Invalid response format: API response is not a dictionary")
+                
+            # Check for required keys - match test expectations
+            missing_keys = []
             if 'classification' not in data:
-                raise ResponseParseError(
-                    f"Missing required key 'classification' in response: {data}"
-                )
+                missing_keys.append('classification')
+            if 'is_chain' not in data:
+                missing_keys.append('is_chain')
+                
+            if missing_keys:
+                keys_str = ', '.join([f"'{key}'" for key in missing_keys])
+                raise ResponseParseError(f"Missing required keys: {keys_str} in response: {data}")
 
             return ClassificationResult(
                 classification=data.get('classification'),
-                is_chain=data.get('is_chain', False),  # Default to False if missing
+                is_chain=data.get('is_chain', False),
                 is_compounding=data.get('is_compounding', False),
                 confidence=data.get('confidence', 0.0),
                 explanation=data.get('explanation', '') or data.get('reason', ''),  # Use explanation or reason
@@ -462,6 +494,10 @@ class PerplexityClient:
             logger.error(f"Failed to parse Perplexity API response: {e}")
             raise ResponseParseError(f"Invalid response format: {e}") from e
 
+    def _generate_prompt(self, pharmacy_data: PharmacyData) -> str:
+        """Backwards compatibility method for tests that expect _generate_prompt."""
+        return self._create_prompt(pharmacy_data)
+        
     def _create_prompt(self, pharmacy_data: PharmacyData) -> str:
         """Create the prompt for the Perplexity API."""
         # Using double curly braces to escape them in f-strings
