@@ -71,6 +71,26 @@ class PluginRegistry:
         for p in paths:
             cls = load_class(p)
             self.register(cls)  # _ensure_valid inside register
+    
+    def build_from_config(self, plugins_cfg: dict) -> None:
+        """Build registry entries from a config mapping.
+
+        Expected structure:
+        {
+          "sources": ["module:Class", ...],
+          "classifiers": ["module:Class", ...]
+        }
+
+        Missing keys default to empty. Raises ValueError if any import fails
+        or a loaded class is not a supported plugin type.
+        """
+        sources = list(plugins_cfg.get("sources", []) or [])
+        classifiers = list(plugins_cfg.get("classifiers", []) or [])
+        # Load sources first, then classifiers for determinism in tests
+        if sources:
+            self.load_and_register(sources)
+        if classifiers:
+            self.load_and_register(classifiers)
 
     def data_sources(self) -> List[Type[DataSourcePlugin]]:
         return list(self._sources)
