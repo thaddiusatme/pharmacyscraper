@@ -1,0 +1,31 @@
+# Example config with environments and env var substitution
+# Use: pharmacy-scraper with PipelineOrchestrator pointing at this file
+
+# Base settings
+output_dir: ${OUTPUT_DIR:-output}
+cache_dir: ${CACHE_DIR:-cache}
+api_keys:
+  apify: ${APIFY_TOKEN:-}
+
+# Select environment to apply (optional)
+env: dev
+
+environments:
+  dev:
+    output_dir: dev_output
+    plugin_mode: true
+    plugins:
+      sources:
+        - pharmacy_scraper.plugins.csv_source.CSVSourcePlugin
+    plugin_config:
+      CSVSourcePlugin:
+        path: data/pharmacies.csv
+        encoding: utf-8
+        delimiter: ","
+  prod:
+    verify_places: true
+    max_budget: 50.0
+    api_cost_limits:
+      apify: 0.5
+      google_places: 0.02
+      perplexity: 0.01

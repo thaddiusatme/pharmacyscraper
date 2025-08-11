@@ -23,3 +23,6 @@ cachetools==5.3.3
 
 # Type Hints
 typing-extensions==4.12.2
+
+# Config Formats
+PyYAML==6.0.2
