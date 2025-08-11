@@ -144,9 +144,16 @@ class PipelineOrchestrator:
         try:
             result = stage_fn(*args, **kwargs)
             output_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Debug the result type
+            logger.debug(f"Stage '{stage_name}' returned type: {type(result)}")
+            
             with open(stage_output_file, 'w') as f:
-                if isinstance(result, pd.DataFrame):
+                if hasattr(result, 'to_dict') and callable(getattr(result, 'to_dict')):
+                    # Handle pandas DataFrame
                     json.dump(result.to_dict('records'), f, indent=2)
+                elif isinstance(result, list):
+                    json.dump(result, f, indent=2)
                 else:
                     json.dump(result, f, indent=2)
 

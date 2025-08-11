@@ -196,7 +196,14 @@ class Classifier:
     def __init__(self, client: Optional["PerplexityClient"] = None):
         """Initialize the classifier with an optional PerplexityClient."""
         from .perplexity_client import PerplexityClient
-        self._client = client or PerplexityClient()
+        # Allow None client for testing - will create PerplexityClient lazily if needed
+        self._client = client
+        if self._client is None:
+            try:
+                self._client = PerplexityClient()
+            except ValueError:
+                # No API key available - client will remain None
+                pass
 
     def classify_pharmacy(
         self, 

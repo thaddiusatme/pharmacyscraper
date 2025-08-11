@@ -8,11 +8,9 @@ This module handles:
 4. Self-healing by finding additional pharmacies for under-filled states
 5. Merging new pharmacy data with existing data
 """
-from typing import Dict, List, Tuple, Optional, Any
 import pandas as pd
 import logging
-import os
-from pathlib import Path
+from typing import Dict, List
 
 # Import Apify integration
 from .apify_integration import ApifyPharmacyScraper, ApifyScraperError

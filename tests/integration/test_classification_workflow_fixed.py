@@ -87,7 +87,11 @@ class TestClassificationWorkflow:
             pharmacy_data=pharmacy
         )
         mock_perplexity_classify.return_value = llm_result
-        classifier = Classifier()
+        
+        # Create a mock client to ensure LLM calls are enabled
+        mock_client = MagicMock()
+        mock_client.classify_pharmacy = mock_perplexity_classify
+        classifier = Classifier(client=mock_client)
         
         # Perform classification
         result = classifier.classify_pharmacy(pharmacy)

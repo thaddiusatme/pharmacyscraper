@@ -337,11 +337,7 @@ class TestPerplexityClient:
         # Create a mock error response that mimics OpenAI's RateLimitError
         mock_response = MagicMock()
         mock_response.status_code = 429
-        rate_limit_error = openai.RateLimitError(
-            "Rate limit exceeded", 
-            response=mock_response,
-            body={"error": {"message": "Rate limit exceeded"}}
-        )
+        rate_limit_error = openai.RateLimitError("Rate limit exceeded")
         
         # Patch _call_api_with_retries to raise the rate limit error
         with patch.object(client, '_call_api_with_retries', side_effect=rate_limit_error):
@@ -355,11 +351,7 @@ class TestPerplexityClient:
     def test_api_error_handling(self, client, mock_openai):
         """Test that API errors are handled correctly."""
         # Create a mock error that mimics OpenAI's APIError
-        api_error = openai.APIError(
-            "API error", 
-            request=MagicMock(), 
-            body={"error": {"message": "API error"}}
-        )
+        api_error = openai.APIError("API error")
         
         # Patch _call_api_with_retries to raise the API error
         with patch.object(client, '_call_api_with_retries', side_effect=api_error):

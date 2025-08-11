@@ -75,14 +75,14 @@ def collector(tmp_path):
     """Create a test collector with a temporary output directory and no caching."""
     output_dir = tmp_path / "output"
     output_dir.mkdir()
-    return ApifyCollector(output_dir=str(output_dir), use_cache=False)
+    return ApifyCollector(api_key="test-key", output_dir=str(output_dir), use_cache=False)
 
 def test_init_creates_output_dir(tmp_path):
     """Test that output directory is created if it doesn't exist."""
     output_dir = tmp_path / "new_output"
     assert not output_dir.exists()
     
-    collector = ApifyCollector(output_dir=str(output_dir))
+    collector = ApifyCollector(api_key="test-key", output_dir=str(output_dir))
     assert output_dir.exists()
     assert collector.output_dir == str(output_dir)
 
@@ -408,10 +408,16 @@ def test_save_results(apify_collector, tmp_path):
     
     # Test saving to CSV
     output_path = tmp_path / 'pharmacies.csv'
-    apify_collector.save_results(pharmacies, str(output_path))
+    
+    # Ensure the directory exists
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Mock the _save_results method for JSON case
+    with patch.object(apify_collector, '_save_results'):
+        apify_collector.save_results(pharmacies, str(output_path))
     
     # Verify file was created and contains the data
-    assert output_path.exists()
+    assert output_path.exists(), f"File {output_path} was not created"
     df = pd.read_csv(output_path)
     assert len(df) == 2
     assert 'Pharmacy 1' in df['name'].values
