@@ -1,6 +1,12 @@
 import json
 import os
+from pathlib import Path
 from typing import Any, Dict, Mapping, MutableMapping
+
+try:
+    import yaml  # type: ignore
+except Exception:  # pragma: no cover - optional dep, tests will cover when installed
+    yaml = None
 
 
 def _substitute_env(value: Any, env: Mapping[str, str]) -> Any:
@@ -47,6 +53,31 @@ def _substitute_env(value: Any, env: Mapping[str, str]) -> Any:
 def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
     out: Dict[str, Any] = dict(cfg)
 
+    # Remove env scaffolding if present in the effective config
+    out.pop("env", None)
+    out.pop("environments", None)
+
+    # Stricter schema: only allow known top-level keys
+    allowed_keys = {
+        "api_keys",
+        "max_results_per_query",
+        "output_dir",
+        "cache_dir",
+        "classification_cache_dir",
+        "classification_threshold",
+        "verify_places",
+        "verification_confidence_threshold",
+        "max_budget",
+        "api_cost_limits",
+        "locations",
+        "plugin_mode",
+        "plugins",
+        "plugin_config",
+    }
+    unknown = set(out.keys()) - allowed_keys
+    if unknown:
+        raise ValueError(f"Unknown top-level config keys: {sorted(unknown)}")
+
     # defaults
     out.setdefault("output_dir", "output")
     out.setdefault("cache_dir", "cache")
@@ -72,6 +103,16 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
     return out
 
 
+def _deep_merge(base: Dict[str, Any], overlay: Dict[str, Any]) -> Dict[str, Any]:
+    result = dict(base)
+    for k, v in overlay.items():
+        if isinstance(v, dict) and isinstance(result.get(k), dict):
+            result[k] = _deep_merge(result[k], v)  # type: ignore[arg-type]
+        else:
+            result[k] = v
+    return result
+
+
 def load_config(path: str, env: Mapping[str, str] | None = None) -> Dict[str, Any]:
     """
     Load configuration from a JSON file, apply environment variable substitution,
@@ -86,12 +127,30 @@ def load_config(path: str, env: Mapping[str, str] | None = None) -> Dict[str, An
     """
     env = env or os.environ
 
+    path_obj = Path(path)
+    suffix = path_obj.suffix.lower()
     with open(path, "r", encoding="utf-8") as f:
-        raw = json.load(f)
+        if suffix in (".yaml", ".yml"):
+            if yaml is None:
+                raise ValueError("PyYAML is required to load YAML config files")
+            raw = yaml.safe_load(f)
+        else:
+            raw = json.load(f)
 
     if not isinstance(raw, dict):
         raise ValueError("Top-level config must be a JSON object")
 
-    substituted = _substitute_env(raw, env)
+    # Apply environment-specific inheritance if present
+    base_cfg = dict(raw)
+    env_name = base_cfg.get("env")
+    env_map = base_cfg.get("environments")
+    if env_name is not None:
+        if not isinstance(env_map, dict) or env_name not in env_map:
+            raise ValueError("env specified but matching entry not found in environments")
+        if not isinstance(env_map[env_name], dict):
+            raise ValueError("Selected environment override must be a mapping")
+        base_cfg = _deep_merge(base_cfg, env_map[env_name])
+
+    substituted = _substitute_env(base_cfg, env)
     validated = _validate_and_defaults(substituted)
     return validated
