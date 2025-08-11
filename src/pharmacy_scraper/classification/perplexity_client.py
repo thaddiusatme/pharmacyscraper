@@ -363,7 +363,7 @@ class PerplexityClient:
     @retry(
         stop=stop_after_attempt(3),  # Set to 3 for test compatibility - allows 2 retries
         wait=wait_exponential(multiplier=1, min=2, max=30),
-        retry=(retry_if_exception_type(RateLimitError) | retry_if_exception_type(openai.OpenAIError)),
+        retry=retry_if_exception_type((RateLimitError, openai.OpenAIError)),
         reraise=True,
         before_sleep=before_sleep_log(logger, logging.INFO),
     )

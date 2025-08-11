@@ -50,13 +50,13 @@ except ImportError:
     class CompletionUsage:
         pass
 
-from src.pharmacy_scraper.classification.perplexity_client import (
+from pharmacy_scraper.classification.perplexity_client import (
     PerplexityClient,
     PerplexityAPIError,
     RateLimiter,
     _generate_cache_key
 )
-from src.pharmacy_scraper.classification.models import PharmacyData, ClassificationResult, ClassificationSource
+from pharmacy_scraper.classification.models import PharmacyData, ClassificationResult, ClassificationSource
 
 # Sample test data
 SAMPLE_PHARMACY = {
@@ -79,7 +79,7 @@ SAMPLE_RESPONSE = {
 class TestPerplexityClientInitialization:
     """Tests for PerplexityClient initialization and configuration."""
     
-    @patch('src.pharmacy_scraper.classification.perplexity_client.Cache')
+    @patch('pharmacy_scraper.classification.perplexity_client.Cache')
     def test_init_with_api_key(self, mock_cache, tmp_path):
         """Test initialization with explicit API key."""
         # Setup mock cache
@@ -116,7 +116,7 @@ class TestPerplexityClientInitialization:
 class TestCacheFunctionality:
     """Tests for cache-related functionality."""
     
-    @patch('src.pharmacy_scraper.classification.perplexity_client.Cache')
+    @patch('pharmacy_scraper.classification.perplexity_client.Cache')
     def test_cache_miss_then_hit(self, mock_cache, mock_openai, tmp_path):
         """Test cache behavior: miss, then hit."""
         # Setup mock cache and get behavior
@@ -175,9 +175,9 @@ class TestCacheFunctionality:
         # Verify cache was checked twice
         assert mock_cache_instance.get.call_count == 2
     
-    @patch('src.pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
-    @patch('src.pharmacy_scraper.classification.perplexity_client.PerplexityClient._parse_response')
-    @patch('src.pharmacy_scraper.classification.perplexity_client.Cache')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._parse_response')
+    @patch('pharmacy_scraper.classification.perplexity_client.Cache')
     def test_force_reclassification(self, mock_cache, mock_parse_response, mock_call_api, mock_openai, tmp_path):
         """Test that force_reclassification bypasses cache."""
         # Setup mock cache with a pre-cached result
@@ -226,9 +226,9 @@ class TestCacheFunctionality:
 class TestErrorHandling:
     """Tests for error handling in the Perplexity client."""
     
-    @patch('src.pharmacy_scraper.classification.perplexity_client.Cache')
-    @patch('src.pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
-    @patch('src.pharmacy_scraper.classification.perplexity_client.PerplexityClient._parse_response')
+    @patch('pharmacy_scraper.classification.perplexity_client.Cache')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._parse_response')
     def test_api_error_handling(self, mock_parse_response, mock_call_api, mock_cache, mock_openai, tmp_path):
         """Test handling of API errors with retries."""
         # Setup mock cache
@@ -272,8 +272,8 @@ class TestErrorHandling:
         mock_call_api.assert_called_once()
         mock_parse_response.assert_called_once_with(mock_api_response, pharmacy_data)
     
-    @patch('src.pharmacy_scraper.classification.perplexity_client.Cache')
-    @patch('src.pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
+    @patch('pharmacy_scraper.classification.perplexity_client.Cache')
+    @patch('pharmacy_scraper.classification.perplexity_client.PerplexityClient._call_api_with_retries')
     def test_max_retries_exceeded(self, mock_call_api, mock_cache, mock_openai, tmp_path):
         """Test that API errors are propagated correctly."""
         # Setup mock cache

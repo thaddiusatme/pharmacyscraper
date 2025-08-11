@@ -143,7 +143,7 @@ class TestPerplexityClientResponseParsing:
         empty_response = MagicMock()
         empty_response.choices = []
         
-        with pytest.raises(ResponseParseError, match="Invalid response format"):
+        with pytest.raises(ResponseParseError, match="Empty response from Perplexity API"):
             client._parse_response(empty_response, SAMPLE_PHARMACY_DATA)
     
     def test_parse_response_with_none_content(self, client):
@@ -161,7 +161,7 @@ class TestPerplexityClientResponseParsing:
             def __init__(self):
                 self.choices = [MockChoice()]
         
-        with pytest.raises(ResponseParseError, match="Invalid response format"):
+        with pytest.raises(ResponseParseError, match="Empty content in API response message"):
             client._parse_response(MockResponse(), SAMPLE_PHARMACY_DATA)
     
     def test_parse_response_with_extra_fields(self, client):
