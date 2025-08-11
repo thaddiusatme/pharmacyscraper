@@ -1,0 +1,136 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "pharmacy-scraper-config",
+  "title": "Pharmacy Scraper Configuration Schema",
+  "description": "Configuration schema for the pharmacy scraper pipeline",
+  "type": "object",
+  "required": [
+    "api_keys",
+    "locations",
+    "max_budget"
+  ],
+  "properties": {
+    "api_keys": {
+      "type": "object",
+      "description": "API keys for external services",
+      "required": ["google_places", "perplexity", "apify"],
+      "properties": {
+        "google_places": {
+          "type": "string",
+          "description": "Google Places API key (supports env var substitution ${VAR})"
+        },
+        "perplexity": {
+          "type": "string", 
+          "description": "Perplexity API key (supports env var substitution ${VAR})"
+        },
+        "apify": {
+          "type": "string",
+          "description": "Apify API token (supports env var substitution ${VAR})"
+        }
+      },
+      "additionalProperties": false
+    },
+    "locations": {
+      "type": "array",
+      "description": "List of locations to scrape",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["state", "cities", "queries"],
+        "properties": {
+          "state": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$",
+            "description": "Two-letter US state code"
+          },
+          "cities": {
+            "type": "array",
+            "description": "List of cities to scrape in this state",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "queries": {
+            "type": "array", 
+            "description": "Search queries to use for this location",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "max_budget": {
+      "type": "number",
+      "description": "Maximum total budget for API calls (USD)",
+      "minimum": 0.01,
+      "maximum": 1000.0
+    },
+    "max_results_per_query": {
+      "type": "integer",
+      "description": "Maximum results to fetch per query",
+      "minimum": 1,
+      "maximum": 500,
+      "default": 25
+    },
+    "output_dir": {
+      "type": "string",
+      "description": "Directory to save output files",
+      "default": "data/output"
+    },
+    "cache_dir": {
+      "type": "string",
+      "description": "Directory for caching API responses", 
+      "default": "data/cache"
+    },
+    "classification_cache_dir": {
+      "type": "string",
+      "description": "Directory for classification cache",
+      "default": "data/cache/classification"
+    },
+    "classification_threshold": {
+      "type": "number",
+      "description": "Minimum confidence threshold for classification",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.6
+    },
+    "verify_places": {
+      "type": "boolean",
+      "description": "Whether to verify places using Google Places API",
+      "default": true
+    },
+    "verification_confidence_threshold": {
+      "type": "number",
+      "description": "Minimum confidence threshold for verification",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "default": 0.7
+    },
+    "api_cost_limits": {
+      "type": "object",
+      "description": "Per-service API cost limits",
+      "properties": {
+        "apify": {
+          "type": "number",
+          "minimum": 0.01
+        },
+        "google_places": {
+          "type": "number", 
+          "minimum": 0.01
+        },
+        "perplexity": {
+          "type": "number",
+          "minimum": 0.01
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
