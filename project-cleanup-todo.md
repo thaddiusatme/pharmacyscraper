@@ -26,11 +26,11 @@
 - [ ] Archive old trial result directories in `data/`
 
 ### 📂 Directory Organization
-- [ ] Consolidate cache directories (`cache/`, `.api_cache/`, `data/cache/`)
-- [ ] Move scattered run scripts to `scripts/` directory
+- [x] Consolidate cache directories (`cache/`, `.api_cache/`, `data/cache/`)
+- [x] Move scattered run scripts to `scripts/` directory
 - [ ] Organize config files (keep production/dev/test structure)
-- [ ] Clean up `data/` directory (19+ subdirectories identified)
-- [ ] Archive or remove obsolete output directories
+- [x] Clean up `data/` directory (19+ subdirectories identified)
+- [x] Archive or remove obsolete output directories
 
 ### 📌 Dependency Management
 - [ ] Pin all dependency versions in `requirements.txt` (based on working 98.6% test suite)
