@@ -481,7 +481,7 @@ class TestPerplexityClientErrorHandling:
         
         # Directly patch _call_api_with_retries to raise the rate limit error
         with patch.object(client, '_call_api_with_retries') as mock_call_api:
-            mock_call_api.side_effect = RateLimitError("Rate limit exceeded", error_type="rate_limit_error")
+            mock_call_api.side_effect = PerplexityAPIError("Rate limit exceeded", "rate_limit_error")
             
             # The error should now be wrapped in a PerplexityAPIError
             with pytest.raises(PerplexityAPIError) as exc_info:

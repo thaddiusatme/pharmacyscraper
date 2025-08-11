@@ -99,11 +99,7 @@ class ApifyPharmacyScraper:
     @retry(
         stop=stop_after_attempt(3),
         wait=wait_exponential(multiplier=1, min=1, max=10),
-        retry=(
-            retry_if_exception_type(Exception) |
-            retry_if_exception(lambda e: isinstance(e, CreditLimitExceededError) and \
-                              credit_tracker.get_usage_summary()['remaining'] > 0)
-        ),
+        retry=retry_if_exception_type(Exception),
         reraise=True
     )
     def _run_actor(self, state: str, city: str, query: str, max_results: int) -> List[Dict[str, Any]]:

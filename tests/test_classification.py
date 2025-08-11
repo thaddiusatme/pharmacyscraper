@@ -63,8 +63,7 @@ def test_classifier_instantiation_and_rule_based_fallback(
         is_compounding=False,
         confidence=0.95,
         source=ClassificationSource.RULE_BASED,
-        reason="Rule match",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="Rule match"
     )
     try:
         classifier = Classifier(client=None)
@@ -85,8 +84,7 @@ def test_llm_override(
         is_compounding=False,
         confidence=0.5,
         source=ClassificationSource.RULE_BASED,
-        reason="Low confidence rule",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="Low confidence rule"
     )
 
     classifier = Classifier(client=mock_perplexity_client)
@@ -106,8 +104,7 @@ def test_caching_with_llm_result(
         is_compounding=False,
         confidence=0.1,
         source=ClassificationSource.RULE_BASED,
-        reason="Very low confidence",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="Very low confidence"
     )
 
     classifier = Classifier(client=mock_perplexity_client)
@@ -127,10 +124,9 @@ def test_no_llm_on_high_confidence_rule(
     mock_rule_based.return_value = ClassificationResult(
         is_chain=True,
         is_compounding=False,
-        confidence=1.0,
+        confidence=0.95,
         source=ClassificationSource.RULE_BASED,
-        reason="High confidence rule",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="High confidence rule"
     )
 
     classifier = Classifier(client=mock_perplexity_client)
@@ -147,10 +143,9 @@ def test_llm_failure_fallback(
     rule_result = ClassificationResult(
         is_chain=False,
         is_compounding=False,
-        confidence=0.1,
+        confidence=0.2,
         source=ClassificationSource.RULE_BASED,
-        reason="Failing over",
-        method=ClassificationMethod.RULE_BASED,
+        explanation="Failing over"
     )
     mock_rule_based.return_value = rule_result
     mock_perplexity_client.classify_pharmacy.side_effect = Exception("API unavailable")

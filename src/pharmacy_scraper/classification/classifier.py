@@ -156,7 +156,7 @@ def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = Tr
     """Generate a consistent cache key for a pharmacy.
     
     This function generates the same cache key for equivalent pharmacy data,
-    regardless of whether it's provided as a dictionary or PharmacyData object.
+    regardless of whether it's provided as a dictionary or PharmacyData instance.
     
     Args:
         pharmacy: Pharmacy data as either a dictionary, PharmacyData instance, or None
@@ -170,6 +170,18 @@ def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = Tr
     """
     if pharmacy is None:
         raise ValueError("Pharmacy data cannot be None")
+    
+    # Convert to PharmacyData if needed for consistent access
+    pharmacy_data = PharmacyData.from_dict(pharmacy) if isinstance(pharmacy, dict) else pharmacy
+    
+    # Extract and normalize name and address
+    name = _norm(pharmacy_data.name or "")
+    address = _norm(pharmacy_data.address or "")
+    
+    # Format the cache key
+    return f"{name}:{address}:{use_llm}"
+
+###############################################################################
 # Class interface
 ###############################################################################
 
@@ -208,7 +220,7 @@ class Classifier:
             raise ValueError("Pharmacy data cannot be None")
             
         # Check cache first
-        cache_key = _get_cache_key(pharmacy)
+        cache_key = _get_cache_key(pharmacy, use_llm=use_llm)
         if cache_key in _classification_cache:
             logger.debug("Cache hit for pharmacy: %s", cache_key)
             cached_result = _classification_cache[cache_key]

@@ -315,24 +315,34 @@ class PipelineOrchestrator:
                     pharmacy = PharmacyData.from_dict(item)
                     classification_result = self.classifier.classify_pharmacy(pharmacy)
                     item['classification'] = classification_result.to_dict()
-                    classified_data.append(item)
             except Exception as e:
                 logger.warning(f"Failed to classify pharmacy {item.get('id', 'N/A')}: {e}")
-                raise e # Fail fast
+                item['classification_error'] = str(e)
+            classified_data.append(item)  # Add item to classified_data regardless of success/failure
         return classified_data
     
     def _verify_pharmacies(self, pharmacies: List[Dict]) -> List[Dict]:
-        """Verify pharmacy information using Google Places API."""
+        """Verify pharmacy information using Google Places API.
+        
+        This method handles exceptions during verification by adding a 'verification_error'
+        field to the pharmacy data rather than failing the entire process.
+        
+        Args:
+            pharmacies: List of pharmacy records to verify
+            
+        Returns:
+            List of pharmacy records with verification results or error information
+        """
         verified_data = []
         for item in pharmacies:
             try:
                 with credit_tracker.track_usage('google_places'):
                     verification = verify_pharmacy(item)
                     item['verification'] = verification
-                    verified_data.append(item)
             except Exception as e:
                 logger.warning(f"Failed to verify pharmacy {item.get('id', 'N/A')}: {e}")
-                raise e # Fail fast
+                item['verification_error'] = str(e)
+            verified_data.append(item)  # Add item to verified_data regardless of success/failure
         return verified_data
     
     def _save_results(self, pharmacies: List[Dict]) -> Path:
