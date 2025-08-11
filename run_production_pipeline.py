@@ -27,6 +27,7 @@ except ImportError:
 # Now import the pipeline components
 from src.pharmacy_scraper.orchestrator.pipeline_orchestrator import PipelineOrchestrator
 from src.pharmacy_scraper.utils.api_usage_tracker import credit_tracker
+from src.pharmacy_scraper.utils.settings import exit_if_invalid_env
 
 # Configure logging with the project's preferred format
 logging.basicConfig(
@@ -164,8 +165,8 @@ def main() -> None:
     """Main entry point for the production pipeline runner."""
     args = parse_args()
     
-    if not validate_environment():
-        sys.exit(1)
+    # Fail fast if required environment variables are missing
+    exit_if_invalid_env()
         
     prepare_directories(args.config)
     
