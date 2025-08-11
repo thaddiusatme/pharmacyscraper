@@ -1,0 +1,18 @@
+{
+  "output_dir": "${OUTPUT_DIR:-output}",
+  "cache_dir": "${CACHE_DIR:-cache}",
+  "api_keys": { "apify": "${APIFY_TOKEN:-}" },
+  "plugin_mode": true,
+  "plugins": {
+    "sources": [
+      "pharmacy_scraper.plugins.csv_source.CSVSourcePlugin"
+    ]
+  },
+  "plugin_config": {
+    "CSVSourcePlugin": {
+      "path": "data/pharmacies.csv",
+      "encoding": "utf-8",
+      "delimiter": ","
+    }
+  }
+}

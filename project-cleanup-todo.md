@@ -6,10 +6,11 @@
 - ✅ **Real-World Verification Complete:** Pipeline successfully processes real pharmacy data
 - ✅ **Functionality Proven:** End-to-end execution with real APIs confirmed working
 - ✅ **Fail-Fast Env Validation:** Centralized env validator integrated in production runner
+- ✅ **Phase 1 Cleanup Complete:** All directory organization, dependency management, and security tasks finished
 
 ---
 
-## 🧹 Phase 1: Project Cleanup & Organization [IMMEDIATE]
+## 🧹 Phase 1: Project Cleanup & Organization [COMPLETED ✅]
 
 ### 🔒 Security & Secrets
 - [x] Audit `.env` and `.env.example` for proper secret management
@@ -22,32 +23,34 @@
 - [x] Remove system files: `.DS_Store`, SSH key artifacts
 - [x] Delete legacy test outputs: `test_output.txt`, `apify_results.json`
 - [x] Clean up backup directories: `hypothesis_stub_backup/`
-- [ ] Remove unused root-level scripts and configs
-- [ ] Archive old trial result directories in `data/`
+- [x] Remove unused root-level scripts and configs
+- [x] Archive old trial result directories in `data/`
 
 ### 📂 Directory Organization
 - [x] Consolidate cache directories (`cache/`, `.api_cache/`, `data/cache/`)
 - [x] Move scattered run scripts to `scripts/` directory
-- [ ] Organize config files (keep production/dev/test structure)
+- [x] Organize config files (keep production/dev/test structure)
 - [x] Clean up `data/` directory (19+ subdirectories identified)
 - [x] Archive or remove obsolete output directories
 
 ### 📌 Dependency Management
-- [ ] Pin all dependency versions in `requirements.txt` (based on working 98.6% test suite)
+- [x] Pin all dependency versions in `requirements.txt` (based on working 98.6% test suite)
 - [x] Remove duplicate pytest entries (lines 2 and 30)
-- [ ] Audit and remove unused dependencies
+- [x] Audit and remove unused dependencies
 - [x] Create `requirements-dev.txt` for development-only deps
-- [ ] Add dependency security scanning
+- [x] Add dependency security scanning
 
 ---
 
 ## 🏗️ Phase 2: Architecture & Infrastructure [HIGH PRIORITY]
 
 ### 📋 Configuration System
+- [x] Add YAML parsing support in central config loader
 - [ ] Define unified config schema (YAML/JSON) for search terms, regions, budgets
-- [ ] Implement config validation with clear error messages (pydantic/voluptuous)
-- [ ] Create example configs and migration guide from current setup
-- [ ] Add environment-specific config inheritance
+- [x] Implement stricter schema validation and clear errors (top-level allowlist, basic nested types)
+- [x] Create example configs (JSON and YAML) under `examples/config/`
+- [ ] Write migration guide from current setup to unified schema
+- [x] Add environment-specific config inheritance (`env` + `environments` with deep merge)
 
 ### 🔌 Plugin Architecture Foundation
 - [ ] Design `BaseClassifierPlugin` interface with hooks for chain detection, compounding
@@ -138,10 +141,10 @@
 ## 🎯 Success Criteria
 
 ### Phase 1 Complete When:
-- [ ] Project directory is clean and well-organized
-- [ ] All dependencies are pinned and security-scanned
-- [ ] Secrets are properly managed and documented
-- [ ] No legacy cruft remains
+- [x] Project directory is clean and well-organized
+- [x] All dependencies are pinned and security-scanned
+- [x] Secrets are properly managed and documented
+- [x] No legacy cruft remains
 
 ### Phase 2 Complete When:
 - [ ] Configuration system is unified and validated
