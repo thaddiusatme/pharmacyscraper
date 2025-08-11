@@ -1,0 +1,27 @@
+# Sprint X Manifest – “Search-Term Agnostic Refactor”
+
+## Vision
+Transform the pharmacy-centric scraper into a generic “business-data pipeline” that works for any search term / industry.
+
+## Objectives
+1. Abstract collection/classification layers so they accept arbitrary search terms.
+2. Maintain existing pharmacy functionality as a plugin/example.
+3. Preserve API-budget, caching, and test coverage guarantees.
+
+## Key Deliverables
+- Modular **EntityScraper** package (renamed or alias).
+- Parameter-driven orchestrator accepting `business_type` config.
+- Generic classification interface + per-domain plugins.
+- Updated docs, examples, tests.
+
+## Milestones
+| # | Description | Owner | ETA |
+|---|-------------|-------|-----|
+| 1 | Core package rename / alias scaffolding |   |  |
+| 2 | Orchestrator accepts `search_terms: []` |   |  |
+| 3 | Generic rule-based classifier + plug-in hooks |   |  |
+| … | … | | |
+
+## Risks / Mitigations
+- Breaking API for existing users → keep `pharmacy_scraper` shim.
+- Wider search terms may raise API-cost → keep budget tracker, add per-term caps.
