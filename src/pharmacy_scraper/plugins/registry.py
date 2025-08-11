@@ -5,11 +5,32 @@ Supports registering plugins that implement the ABCs defined in
 """
 from __future__ import annotations
 
+import importlib
 from typing import List, Sequence, Type, Union
 
 from .interfaces import DataSourcePlugin, ClassifierPlugin, BasePlugin
 
 PluginType = Union[Type[DataSourcePlugin], Type[ClassifierPlugin]]
+
+
+def load_class(path: str) -> type:
+    """Load a class from an import path like 'module.sub:ClassName'.
+
+    Raises ValueError on invalid input or import problems.
+    """
+    if not path or ":" not in path:
+        raise ValueError("Import path must be in format 'module:Class'")
+    module_name, class_name = path.split(":", 1)
+    if not module_name or not class_name:
+        raise ValueError("Import path must specify both module and class")
+    try:
+        mod = importlib.import_module(module_name)
+        cls = getattr(mod, class_name)
+    except Exception as e:
+        raise ValueError(f"Failed to load '{path}': {e}") from e
+    if not isinstance(cls, type):
+        raise ValueError(f"Target '{path}' is not a class")
+    return cls
 
 
 class PluginRegistry:
@@ -44,6 +65,12 @@ class PluginRegistry:
             self._sources.append(cls)
         elif issubclass(cls, ClassifierPlugin):
             self._classifiers.append(cls)
+
+    def load_and_register(self, paths: Sequence[str]) -> None:
+        """Load classes by import path and register them by kind."""
+        for p in paths:
+            cls = load_class(p)
+            self.register(cls)  # _ensure_valid inside register
 
     def data_sources(self) -> List[Type[DataSourcePlugin]]:
         return list(self._sources)
