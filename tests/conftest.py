@@ -22,7 +22,7 @@ def _ensure_stub(name: str, attrs: dict | None = None):
             setattr(stub, k, v)
     sys.modules[name] = stub
 
-_ensure_stub("pandas", {"DataFrame": _MM(), "Series": _MM()})
+# _ensure_stub("pandas", {"DataFrame": _MM(), "Series": _MM()})  # Commented out - use real pandas
 _ensure_stub("httpx", {"Client": _MM(), "request": _MM()})
 _ensure_stub("apify_client", {"ApifyClient": _MM()})
 # The package imports 'from apify_client import ApifyClient'
@@ -48,14 +48,19 @@ setattr(gm_stub, "Client", _MM())
 setattr(gm_stub, "places", _MM())
 sys.modules["googlemaps"] = gm_stub
 
+# Pandas stub only when truly missing - removed to allow real pandas to be used
+# The real pandas package is now available in the virtual environment
 try:
     import pandas as _pd  # noqa: F401
+    # Real pandas is available, don't override it
 except ModuleNotFoundError:
+    # Only create stub if pandas is truly missing
     from types import ModuleType
     from unittest.mock import MagicMock as _MM
     _pandas_stub = ModuleType("pandas")
     _pandas_stub.DataFrame = _MM()
     _pandas_stub.Series = _MM()
+    _pandas_stub.concat = _MM()  # Add concat for completeness
     sys.modules["pandas"] = _pandas_stub
 from unittest.mock import patch, MagicMock
 from types import SimpleNamespace
