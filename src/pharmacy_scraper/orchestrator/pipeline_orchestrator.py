@@ -20,6 +20,7 @@ from ..verification.google_places import verify_pharmacy
 from ..utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLimitExceededError
 from ..classification.cache import load_from_cache, save_to_cache
 from .state_manager import StateManager
+from pharmacy_scraper.pipeline.plugin_pipeline import run_pipeline
 
 logger = logging.getLogger(__name__)
 
@@ -63,6 +64,13 @@ class PipelineConfig:
         ]
     )
 
+    # Plugin-driven pipeline (optional)
+    plugin_mode: bool = False
+    # Raw plugin config section passed to registry.build_from_config
+    plugins: Optional[Dict[str, List[str]]] = None
+    # Per-plugin config mapping by class name
+    plugin_config: Optional[Dict[str, Dict[str, Any]]] = None
+
 class PipelineOrchestrator:
 
     """
@@ -103,14 +111,15 @@ class PipelineOrchestrator:
     
     def _setup_components(self):
         """Initialize all pipeline components."""
-        # Initialize API clients
-        self.collector = ApifyCollector(
-            api_key=self.config.api_keys.get('apify'),
-            output_dir=self.config.output_dir,
-        )
-        
-        # Initialize classifier
-        self.classifier = Classifier()
+        # In plugin mode, adapters and pipeline handle components
+        if not getattr(self.config, "plugin_mode", False):
+            # Initialize API clients
+            self.collector = ApifyCollector(
+                api_key=self.config.api_keys.get('apify') if self.config.api_keys else None,
+                output_dir=self.config.output_dir,
+            )
+            # Initialize classifier
+            self.classifier = Classifier()
         
         # Setup API budget tracking
         for service, cost in self.config.api_cost_limits.items():
@@ -174,6 +183,24 @@ class PipelineOrchestrator:
         """
         try:
             logger.info(f"Starting pipeline run. Checking state...")
+
+            # If plugin mode is enabled, run the plugin-driven pipeline instead
+            if getattr(self.config, "plugin_mode", False):
+                # Construct a dict-shaped config expected by run_pipeline
+                plugin_cfg = {
+                    "plugins": self.config.plugins or {},
+                    "plugin_config": self.config.plugin_config or {},
+                }
+                # Build a minimal query if available from locations, else empty
+                query: Dict[str, Any] = {}
+                if self.config.locations:
+                    # Use first location/query as a simple seed
+                    loc0 = self.config.locations[0]
+                    query = {"location": loc0}
+                results = run_pipeline(plugin_cfg, query=query)
+                output_file = self._save_results(results)
+                logger.info("Plugin-driven pipeline completed successfully!")
+                return output_file
 
             raw_pharmacies = self._execute_stage("data_collection", self._collect_pharmacies)
 
