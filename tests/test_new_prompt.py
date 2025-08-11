@@ -17,6 +17,7 @@ logger = logging.getLogger(__name__)
 MOCK_RESPONSE = """```json
 {
     "classification": "independent",
+    "is_chain": false,
     "is_compounding": true,
     "confidence": 0.92,
     "explanation": "This is an independent pharmacy because it's locally owned and not part of a major chain. The business name and services indicate it's a compounding pharmacy."
