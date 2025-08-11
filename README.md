@@ -83,13 +83,13 @@ Detailed documentation is available for each module:
    ```
 
 3. Use the secure production configuration:
-   ```bash
-   # Make the setup script executable
-   chmod +x setup_env_and_run.sh
-   
-   # Run the pipeline securely
-   ./setup_env_and_run.sh
-   ```
+  ```bash
+  # Make the setup script executable
+  chmod +x scripts/setup_env_and_run.sh
+
+  # Run the pipeline securely
+  ./scripts/setup_env_and_run.sh
+  ```
 
 ### Option 2: Configuration File
 
@@ -111,31 +111,31 @@ Detailed documentation is available for each module:
 The pharmacy scraper now supports two main execution modes:
 
 1. **Test Pipeline** (No API Calls):
-   ```bash
-   python run_test_pipeline.py
-   ```
+  ```bash
+  python scripts/run_test_pipeline.py
+  ```
    This runs the pipeline with mocked API services, perfect for testing changes without using API credits.
 
 2. **Production Pipeline** (Real API Calls):
-   ```bash
-   # Run with default configuration
-   python run_production_pipeline.py
-   
-   # Reset state and start fresh
-   python run_production_pipeline.py --reset
-   
-   # Use a specific configuration
-   python run_production_pipeline.py --config config/production/custom_config.json
-   
-   # Validate configuration without making API calls
-   python run_production_pipeline.py --dry-run
-   ```
+  ```bash
+  # Run with default configuration
+  python scripts/run_production_pipeline.py
+  
+  # Reset state and start fresh
+  python scripts/run_production_pipeline.py --reset
+  
+  # Use a specific configuration
+  python scripts/run_production_pipeline.py --config config/production/custom_config.json
+  
+  # Validate configuration without making API calls
+  python scripts/run_production_pipeline.py --dry-run
+  ```
 
 3. **Secure Environment Setup** (Recommended):
-   ```bash
-   # This uses environment variables from .env file
-   ./setup_env_and_run.sh
-   ```
+  ```bash
+  # This uses environment variables from .env file
+  ./scripts/setup_env_and_run.sh
+  ```
 
 ### API Budget Management
 
@@ -264,6 +264,19 @@ pharmacy-scraper/
 ## Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## Dependency and Security Checks
+
+For consistent environments, runtime dependencies are pinned in `requirements.txt`, and development/test tools are pinned in `requirements-dev.txt`.
+
+Run basic security and dependency audits locally:
+
+```bash
+pip install -r requirements.txt -r requirements-dev.txt
+bash scripts/dev_security_check.sh
+```
+
+This script runs `pip-audit` for known vulnerabilities and `detect-secrets` to scan for accidentally committed secrets.
 
 ## License
 
