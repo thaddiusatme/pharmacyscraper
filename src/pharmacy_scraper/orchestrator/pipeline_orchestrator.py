@@ -21,6 +21,7 @@ from ..utils.api_usage_tracker import credit_tracker, APICreditTracker, CreditLi
 from ..classification.cache import load_from_cache, save_to_cache
 from .state_manager import StateManager
 from pharmacy_scraper.pipeline.plugin_pipeline import run_pipeline
+from pharmacy_scraper.config.loader import load_config as load_config_file
 
 logger = logging.getLogger(__name__)
 
@@ -98,16 +99,12 @@ class PipelineOrchestrator:
         self._setup_components()
     
     def _load_config(self, config_path: str) -> PipelineConfig:
-        """Load and validate the pipeline configuration."""
-        with open(config_path, 'r') as f:
-            config_data = json.load(f)
-        
-        # Set default values
-        config_data.setdefault('output_dir', 'output')
-        config_data.setdefault('cache_dir', 'cache')
-        config_data.setdefault('verify_places', True)
-        
-        return PipelineConfig(**config_data)
+        """Load and validate the pipeline configuration.
+        Uses the central config loader to apply env var substitution,
+        defaults, and minimal schema validation.
+        """
+        cfg_dict = load_config_file(config_path)
+        return PipelineConfig(**cfg_dict)
     
     def _setup_components(self):
         """Initialize all pipeline components."""
