@@ -4,9 +4,18 @@ import logging
 import time
 from typing import Dict, List, Optional, Union
 
-import httpx
-import apify_client
-from apify_client import ApifyClient  # re-export for tests patching convenience
+try:
+    import httpx
+except ImportError:
+    httpx = None  # type: ignore
+
+try:
+    import apify_client
+    from apify_client import ApifyClient  # re-export for tests patching convenience
+except ImportError:
+    apify_client = None  # type: ignore
+    ApifyClient = None  # type: ignore
+
 
 # Configure logging
 import os
@@ -64,6 +73,7 @@ class ApifyCollector:
         cache_dir: str = ".api_cache/apify",
         rate_limit_ms: int = 1000,
         use_cache: bool = True,
+        client: Optional["ApifyClient"] = None,
         **kwargs,
     ) -> None:
         # Accept deprecated/alternate ``api_token`` via kwargs while keeping the
@@ -76,14 +86,17 @@ class ApifyCollector:
             or os.getenv("APIFY_API_TOKEN")
             or os.getenv("APIFY_TOKEN")
         )
-        if not token:
+        
+        # Only require API key if no mock client is provided for testing
+        if not token and not client:
             raise ValueError(
                 "Apify API key not provided. Either pass it as an argument "
                 "or set the APIFY_TOKEN/APIFY_API_TOKEN environment variables."
             )
 
-        self.api_token: str = token  # Keep for forward-compatibility
-        self.api_key: str = token    # Legacy tests access this attribute
+        # Handle API key attributes - allow None for testing
+        self.api_token: Optional[str] = token  # Keep for forward-compatibility
+        self.api_key: Optional[str] = token    # Legacy tests access this attribute
         self.rate_limit_ms: int = rate_limit_ms  # public – tests access this
         self.use_cache: bool = use_cache
 
@@ -93,12 +106,11 @@ class ApifyCollector:
         os.makedirs(self.output_dir, exist_ok=True)
         os.makedirs(self.cache_dir, exist_ok=True)
 
-        # Lazily instantiated Apify client.  We do **not** create it immediately so
-        # that the unit tests can monkey-patch the constructor before first use.
-        self._client: Optional["ApifyClient"] = None
+        # Handle client injection for testing
+        self._client: Optional["ApifyClient"] = client
 
     @property
-    def api_key_prop(self) -> str:  # pragma: no cover
+    def api_key_prop(self) -> Optional[str]:  # pragma: no cover
         return self.api_key
         
     def _fallback_to_direct_api(self, search_query: str, max_results: int) -> List[Dict]:
@@ -674,30 +686,25 @@ class ApifyCollector:
             try:
                 import pandas as pd
 
-                pd.DataFrame(data).to_csv(path, index=False)
-            except ImportError as exc:  # pragma: no cover
+                df = pd.DataFrame(data)
+                self.logger.debug(f"Saving {len(data)} records to {path}")
+                df.to_csv(path, index=False)
+                self.logger.debug(f"File saved successfully: {path}")
+            except ImportError as exc:  
                 raise RuntimeError("pandas is required to save CSV files") from exc
         else:
+            self.logger.debug(f"Saving JSON to {path}")
             self._save_results(data, path)
 
-def run_trial(query: str, location: str) -> List[Dict]:
-    """Run a trial collection using the Apify Google Maps Scraper.
-    
-    This is a convenience function that creates an ApifyCollector instance
-    and calls its run_trial method.
-    
-    Args:
-        query: The search query (e.g., 'pharmacy').
-        location: The location to search in (e.g., 'New York, NY').
-        
-    Returns:
-        Dictionary mapping city names to lists of collected pharmacy items
-        
-    Raises:
-        Exception: If there's an error during collection
+def run_trial(query: str, location: str):
+    """Convenient wrapper to run a trial scrape.
+
+    This function mirrors the previous public ``run_trial`` helper that tests
+    expect. It creates an ``ApifyCollector`` instance and forwards the call.
     """
     collector = ApifyCollector()
     return collector.run_trial(query, location)
+
 
 def main():
     """Example usage of the ApifyCollector class."""

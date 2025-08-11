@@ -1,5 +1,8 @@
 import sqlite3
 import logging
+from typing import Dict, Optional
+from dataclasses import dataclass
+from enum import Enum
 
 # Define the canonical pipeline stages in order of execution
 PIPELINE_STAGES = [
@@ -11,8 +14,25 @@ PIPELINE_STAGES = [
 ]
 
 
+class PipelineStatus:
+    """Constants for pipeline status values."""
+    INTERRUPTED = "INTERRUPTED"
+    COMPLETED = "COMPLETED"
+    RUNNING = "RUNNING"
+
+
+@dataclass
+class PipelineState:
+    """Represents the current state of the pipeline."""
+    status: str
+    last_completed_stage: Optional[str] = None
+    current_stage: Optional[str] = None
+
+
 class StateManager:
     """Manages the state of the pipeline tasks using a SQLite database."""
+    
+    PipelineStatus = PipelineStatus
 
     def __init__(self, db_path: str = 'pipeline_state.db'):
         """Initializes the StateManager and connects to the database."""
@@ -76,6 +96,42 @@ class StateManager:
             if status is None or status in ['pending', 'in_progress', 'failed']:
                 return stage
         return None # All stages are completed
+
+    def get_state(self) -> PipelineState:
+        """Retrieves the current state of the pipeline."""
+        # Determine current status based on task states
+        task_states = {}
+        with self._get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT task_name, status FROM pipeline_tasks")
+            results = cursor.fetchall()
+            task_states = {task_name: status for task_name, status in results}
+        
+        # Determine pipeline status
+        if any(status == 'failed' for status in task_states.values()):
+            status = "INTERRUPTED"
+        elif all(status == 'completed' for status in task_states.values()):
+            status = "COMPLETED"
+        else:
+            status = "RUNNING"
+        
+        # Find last completed stage and current stage
+        last_completed = None
+        current_stage = None
+        
+        for stage in PIPELINE_STAGES:
+            stage_status = task_states.get(stage, 'pending')
+            if stage_status == 'completed':
+                last_completed = stage
+            elif stage_status in ['pending', 'in_progress', 'failed'] and current_stage is None:
+                current_stage = stage
+                break
+        
+        return PipelineState(
+            status=status,
+            last_completed_stage=last_completed,
+            current_stage=current_stage
+        )
 
     def reset_state(self):
         """Clears all task records from the database for a fresh start."""

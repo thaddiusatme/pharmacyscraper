@@ -21,8 +21,23 @@ from tenacity import (
     retry_if_exception_type,
     before_sleep_log
 )
-import openai
-from openai import OpenAI
+try:
+    import openai
+    from openai import OpenAI
+except ImportError:
+    openai = None  # type: ignore
+    OpenAI = None  # type: ignore
+    # Define a generic error class for fallback when the real openai package is not installed
+    class OpenAIError(Exception):
+        """Fallback error used when the real openai package is not installed."""
+        pass
+
+# Ensure OpenAIError is defined whether or not the real package provides it
+if openai is not None and hasattr(openai, "OpenAIError"):
+    OpenAIError = openai.OpenAIError
+else:
+    # Use the fallback defined above
+    pass
 
 from pharmacy_scraper.config import get_config
 from pharmacy_scraper.utils import Cache
@@ -92,7 +107,7 @@ class RateLimiter:
 class PerplexityAPIError(Exception):
     """Base exception for Perplexity API errors."""
     
-    def __init__(self, message, error_type="api_error"):
+    def __init__(self, message="API error", error_type="api_error", *args, **kwargs):
         self.message = message
         self.error_type = error_type
         super().__init__(f"[{self.error_type}] {self.message}")
@@ -101,11 +116,13 @@ class PerplexityAPIError(Exception):
 # Additional exceptions for test compatibility
 class ClientRateLimitError(Exception):
     """Exception for client rate limit errors."""
-    pass
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args)
 
 class RateLimitError(ClientRateLimitError):
     """Exception for rate limit errors (alias for backwards compatibility)."""
-    pass
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args)
 
 
 class InvalidRequestError(PerplexityAPIError):
@@ -151,7 +168,9 @@ class PerplexityClient:
         """
         # Use provided API key or get from environment/config
         self.api_key = api_key or os.environ.get("PERPLEXITY_API_KEY") or get_config().get("perplexity_api_key")
-        if not self.api_key:
+        
+        # Only require API key if no mock client is provided
+        if not self.api_key and not openai_client:
             raise ValueError("No Perplexity API key provided")
             
         # Initialize API client - allow injection for testing
@@ -363,7 +382,7 @@ class PerplexityClient:
     @retry(
         stop=stop_after_attempt(3),  # Set to 3 for test compatibility - allows 2 retries
         wait=wait_exponential(multiplier=1, min=2, max=30),
-        retry=retry_if_exception_type((RateLimitError, openai.OpenAIError)),
+        retry=retry_if_exception_type((RateLimitError, OpenAIError)),
         reraise=True,
         before_sleep=before_sleep_log(logger, logging.INFO),
     )

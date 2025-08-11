@@ -23,7 +23,7 @@ class TestPerplexityClientInitialization:
         with patch('pharmacy_scraper.classification.perplexity_client.OpenAI'):
             client = PerplexityClient(api_key="test_api_key")
             assert client.api_key == "test_api_key"
-            assert client.model_name == "pplx-7b-chat"  # Default model
+            assert client.model_name == "sonar"  # Default model
             assert client.temperature == 0.1  # Default temperature
     
     def test_init_with_environment_variable(self, monkeypatch):

@@ -4,8 +4,12 @@ import os
 from typing import Dict, Optional
 
 # Load environment variables from .env file
-from dotenv import load_dotenv
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv not installed; skip loading .env files
+    pass
 
 _config: Optional[Dict[str, str]] = None
 
