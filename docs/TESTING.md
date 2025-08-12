@@ -44,6 +44,26 @@ Run a specific test function:
 pytest tests/test_apify_integration.py::test_scrape_pharmacies_basic
 ```
 
+### QA Suites (Integration, Contracts, Property-Based)
+
+Targeted suites added for higher confidence while keeping default runs fast:
+
+- Integration (real API; skipped without keys):
+  ```bash
+  PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 pytest -q -c /dev/null tests/integration/test_real_api_integration.py
+  ```
+  Skips unless at least one of `GOOGLE_PLACES_KEY`, `APIFY_API_TOKEN`, or `PERPLEXITY_API_KEY` is set.
+
+- Contract tests (pipeline stage persistence and return shape):
+  ```bash
+  PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 pytest -q -c /dev/null tests/contracts/test_pipeline_interfaces.py
+  ```
+
+- Property-based style tests (rule-based classifier invariants):
+  ```bash
+  PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 pytest -q -c /dev/null tests/property/test_rule_based_properties.py
+  ```
+
 ### Running with Coverage
 
 Generate a coverage report:
@@ -248,18 +268,29 @@ Example test data file:
 
 ## Performance Testing
 
-For performance-critical components, use `pytest-benchmark`:
+We provide a lightweight, dependency-free benchmark harness that is opt-in via environment variables.
 
-```python
-def test_performance(benchmark):
-    result = benchmark(performance_critical_function, test_data)
-    assert result == expected_value
-```
+### Quick start
 
-Run with:
-```bash
-pytest tests/test_performance.py -v --benchmark-only
-```
+- Run all perf benchmarks (skipped by default):
+  ```bash
+  PERF=1 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 pytest -q -c /dev/null tests/perf/test_benchmarks.py
+  ```
+
+- Strict mode (fail on regressions beyond tolerance):
+  ```bash
+  PERF=1 PERF_STRICT=1 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 pytest -q -c /dev/null tests/perf/test_benchmarks.py
+  ```
+
+### What it measures
+- Rule-based classification throughput on synthetic data (no external calls)
+- Orchestrator single-stage duration in `plugin_mode` with a tiny payload
+
+### Baselines and results
+- Baseline file: `tests/perf/baselines/baseline.json`
+- Test outputs: JSON results written under the test `tmp_path` (e.g., `perf_rule_based.json`, `perf_orch_stage.json`)
+
+To update baselines, run with `PERF=1`, inspect the printed results, and manually edit `baseline.json` to the desired reference values.
 
 ## Troubleshooting
 
