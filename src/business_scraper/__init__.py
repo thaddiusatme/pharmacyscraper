@@ -86,10 +86,18 @@ if not any(isinstance(f, _AliasFinder) for f in sys.meta_path):
 
 
 # Also make the top-level package immediately alias to the old one
-# so that attribute access on `business_scraper` proxies to the same module
 try:
     _old = importlib.import_module(_OLD_NS)
-    sys.modules.setdefault(_NEW_NS, _old)
+    # Replace the current module object with the old namespace so that
+    # `sys.modules['business_scraper'] is sys.modules['pharmacy_scraper']`
+    # evaluates True. Preserve any attributes already placed on the shim
+    # module by copying them onto the target if they don't exist there.
+    _current = sys.modules.get(_NEW_NS)
+    sys.modules[_NEW_NS] = _old
+    if _current is not None and _current is not _old:
+        for k, v in vars(_current).items():
+            if not hasattr(_old, k):
+                setattr(_old, k, v)
 except Exception:
     # If the old namespace isn't importable at init time, the finder above
     # will still handle submodule imports when they occur.

@@ -8,6 +8,10 @@
 - ✅ **Fail-Fast Env Validation:** Centralized env validator integrated in production runner
 - ✅ **Phase 1 Cleanup Complete:** All directory organization, dependency management, and security tasks finished
 
+- ✅ History rewritten; push protection resolved
+- ✅ `.env` and `.env.example` finalized; example configs use env vars
+- ✅ Test suite stable: 394 passed, 4 skipped with `PYTEST_DISABLE_PLUGIN_AUTOLOAD=1`
+
 ---
 
 ## 🧹 Phase 1: Project Cleanup & Organization [COMPLETED ✅]
@@ -15,8 +19,9 @@
 ### 🔒 Security & Secrets
 - [x] Audit `.env` and `.env.example` for proper secret management
 - [x] Verify `.gitignore` covers all sensitive files and directories
-- [ ] Remove or redact any hardcoded secrets from configs
-- [ ] Validate secrets are never logged (scan codebase)
+- [x] Remove or redact any hardcoded secrets from configs
+- [x] Rewrite git history to purge leaked configs
+- [x] Force-push cleaned branch to remote
 - [x] Add fail-fast environment validation (utils/settings.py) and wire into runner
 
 ### 🗑️ Cruft Removal
@@ -86,12 +91,17 @@ Minimal visibility delivered now:
 - Classifier cache events: `cache_hit`, `cache_miss`, `cache_bypass`, `cache_store` with safe `cache_key_fp`
 - JSON logs suitable for quick `jq` queries without standing up dashboards
 
+Minimal metrics plan (next):
+- Prometheus client metrics, guarded by `METRICS_SERVER=1`
+- Core counters/histograms: `requests_total`, `request_latency_seconds`, `cache_hits_total`, `budget_spent_usd_total`, `stage_duration_seconds`, `classification_count`, `rate_limit_events_total`, `retries_total`
+
 ### 🧪 Testing & Quality Assurance
 - [x] Add integration tests for real API scenarios (with rate limiting) (skips without keys)
 - [x] Create performance benchmarks and regression testing (PERF=1 opt-in; STRICT mode)
 - [x] Implement contract testing for data pipeline interfaces
 - [x] Add property-based testing for critical data processing functions
   - Makefile shortcuts: `make test-qa`, `make test-perf`, `make test-perf-strict`
+  - Autouse pytest fixtures set dummy API keys and `PYTEST_DISABLE_PLUGIN_AUTOLOAD=1` for stable tests
 
 ### 📈 Performance Optimization
 - [ ] Profile and optimize hot paths in data processing
@@ -154,9 +164,10 @@ Minimal visibility delivered now:
 - [x] No legacy cruft remains
 
 ### Phase 2 Complete When:
-- [ ] Configuration system is unified and validated
-- [ ] Plugin architecture is functional with examples
-- [ ] Caching system is robust and monitored
+- [x] Configuration system is unified and validated
+- [x] Plugin architecture is functional with examples
+- [x] Caching system is robust
+- [ ] Metrics monitoring for cache/API (observability)
 - [ ] API costs are controlled and predictable
 
 ### Project Health Goals:

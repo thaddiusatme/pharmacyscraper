@@ -3,6 +3,10 @@
 **Branch:** `feature/search-agnostic-refactor`
 **Sprint window:** <!-- fill dates -->
 
+Related documents
+- Project Crosswalk (Address & Contact Normalization): docs/PROJECT/manifest_crosswalk.md
+- Schema v2 specification: docs/SCHEMA.md
+
 ---
 ## 1 Vision
 Transform the current pharmacy-centric pipeline into a generic **Business-Data Scraper** framework that accepts any list of search terms (e.g., *“veterinary clinic”, “car wash”, “hardware store”*) while preserving budgeting, caching, and high test coverage.
