@@ -149,8 +149,21 @@ def query_perplexity(pharmacy: Union[Dict, PharmacyData]) -> ClassificationResul
 
 # Module-level cache for storing classification results
 from typing import Dict, Any, Union
+from pharmacy_scraper.utils.cache_keys import pharmacy_cache_key
 
 _classification_cache: Dict[str, ClassificationResult] = {}
+_cache_stats: Dict[str, int] = {"hits": 0, "misses": 0, "stores": 0, "invalidations": 0}
+
+
+def clear_classification_cache() -> None:
+    """Clear the classification cache and reset stats."""
+    _classification_cache.clear()
+    _cache_stats.update({"hits": 0, "misses": 0, "stores": 0, "invalidations": 0})
+
+
+def get_cache_stats() -> Dict[str, int]:
+    """Get snapshot of cache statistics."""
+    return dict(_cache_stats)
 
 def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = True) -> str:
     """Generate a consistent cache key for a pharmacy.
@@ -171,15 +184,8 @@ def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = Tr
     if pharmacy is None:
         raise ValueError("Pharmacy data cannot be None")
     
-    # Convert to PharmacyData if needed for consistent access
-    pharmacy_data = PharmacyData.from_dict(pharmacy) if isinstance(pharmacy, dict) else pharmacy
-    
-    # Extract and normalize name and address
-    name = _norm(pharmacy_data.name or "")
-    address = _norm(pharmacy_data.address or "")
-    
-    # Format the cache key
-    return f"{name}:{address}:{use_llm}"
+    # Delegate to standardized key utility
+    return pharmacy_cache_key(pharmacy, use_llm=use_llm)
 
 ###############################################################################
 # Class interface
@@ -208,7 +214,9 @@ class Classifier:
     def classify_pharmacy(
         self, 
         pharmacy: Union[Dict, PharmacyData],
-        use_llm: bool = True
+        use_llm: bool = True,
+        *,
+        force_reclassification: bool = False,
     ) -> ClassificationResult:
         """Classify a single pharmacy.
 
@@ -226,12 +234,13 @@ class Classifier:
         if pharmacy is None:
             raise ValueError("Pharmacy data cannot be None")
             
-        # Check cache first
+        # Compute cache key
         cache_key = _get_cache_key(pharmacy, use_llm=use_llm)
-        if cache_key in _classification_cache:
+        # Handle cache hit unless forcing reclassification
+        if not force_reclassification and cache_key in _classification_cache:
             logger.debug("Cache hit for pharmacy: %s", cache_key)
+            _cache_stats["hits"] += 1
             cached_result = _classification_cache[cache_key]
-            # Return a copy with the method updated to CACHED
             return ClassificationResult(
                 is_chain=cached_result.is_chain,
                 is_compounding=cached_result.is_compounding,
@@ -239,8 +248,13 @@ class Classifier:
                 explanation=f"Cached: {cached_result.explanation}",
                 source=ClassificationSource.CACHE,
                 pharmacy_data=cached_result.pharmacy_data,
-                model=cached_result.model
+                model=cached_result.model,
             )
+        else:
+            _cache_stats["misses"] += 1
+            if force_reclassification and cache_key in _classification_cache:
+                # Count invalidation when bypassing an existing entry
+                _cache_stats["invalidations"] += 1
             
         # First try rule-based classification
         rule_result = rule_based_classify(pharmacy)
@@ -248,11 +262,13 @@ class Classifier:
         # If we have high confidence or found a compounding pharmacy, cache and return
         if rule_result.confidence >= 0.9 or rule_result.is_compounding:
             _classification_cache[cache_key] = rule_result
+            _cache_stats["stores"] += 1
             return rule_result
             
         # If LLM is disabled or no client available, cache and return rule-based result
         if not use_llm or self._client is None:
             _classification_cache[cache_key] = rule_result
+            _cache_stats["stores"] += 1
             return rule_result
             
         # Try LLM classification
@@ -262,12 +278,14 @@ class Classifier:
             # Cache and return the result with higher confidence
             final_result = llm_result if llm_result.confidence >= rule_result.confidence else rule_result
             _classification_cache[cache_key] = final_result
+            _cache_stats["stores"] += 1
             return final_result
 
         except Exception as e:
             logger.error(f"LLM classification failed: {e}")
             # Cache the rule-based result on LLM failure
             _classification_cache[cache_key] = rule_result
+            _cache_stats["stores"] += 1
             return rule_result
             
     def batch_classify_pharmacies(

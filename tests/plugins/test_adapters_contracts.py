@@ -1,5 +1,4 @@
 import types
-import pytest
 
 
 def test_apify_source_adapter_fetch_uses_collector(monkeypatch):
