@@ -13,6 +13,9 @@ help:
 	@echo "  make setup       - Set up the development environment"
 	@echo "  make install     - Install the package in development mode"
 	@echo "  make test        - Run tests"
+	@echo "  make test-qa     - Run QA suites (integration/contract/property)"
+	@echo "  make test-perf   - Run perf benchmarks (PERF=1)"
+	@echo "  make test-perf-strict - Run perf benchmarks and fail on regression (PERF=1 PERF_STRICT=1)"
 	@echo "  make lint        - Check code style with flake8"
 	@echo "  make format      - Format code with black"
 	@echo "  make clean       - Remove build artifacts and cache"
@@ -31,10 +34,23 @@ setup:
 install:
 	$(PIP_VENV) install -e .
 
-
 # Run tests
 test:
 	$(PYTHON_VENV) -m pytest tests/ -v
+
+## QA test targets
+test-qa:
+	PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 $(PYTHON_VENV) -m pytest -q -c /dev/null \
+	  tests/contracts/test_pipeline_interfaces.py \
+	  tests/property/test_rule_based_properties.py \
+	  tests/integration/test_real_api_integration.py
+
+## Performance benchmarks (opt-in)
+test-perf:
+	PERF=1 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 $(PYTHON_VENV) -m pytest -q -c /dev/null tests/perf/test_benchmarks.py
+
+test-perf-strict:
+	PERF=1 PERF_STRICT=1 PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 $(PYTHON_VENV) -m pytest -q -c /dev/null tests/perf/test_benchmarks.py
 
 # Check code style
 lint:
