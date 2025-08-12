@@ -78,6 +78,9 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
         "regions",       # list[str] or list[dict]
         # Crosswalk v2 fields
         "business_type",  # str
+        # Feature flags
+        "EMAIL_DISCOVERY_ENABLED",
+        "INTERNATIONAL_ENABLED",
     }
     unknown = set(out.keys()) - allowed_keys
     if unknown:
@@ -90,6 +93,9 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
     # Crosswalk v2 defaults
     out.setdefault("business_type", "pharmacy")
     out.setdefault("search_terms", [])
+    # Feature flag defaults (0 = disabled)
+    out.setdefault("EMAIL_DISCOVERY_ENABLED", 0)
+    out.setdefault("INTERNATIONAL_ENABLED", 0)
 
     # base type checks (only when present)
     if not isinstance(out.get("output_dir"), str):
@@ -192,6 +198,17 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
             raise ValueError("plugins must be a dict when plugin_mode is true")
         if plugin_config is not None and not isinstance(plugin_config, dict):
             raise ValueError("plugin_config must be a dict when plugin_mode is true")
+
+    # Feature flag validation/coercion: accept bool or int; store as 0/1
+    def _coerce_flag(v: Any, name: str) -> int:
+        if isinstance(v, bool):
+            return 1 if v else 0
+        if isinstance(v, int):
+            return 0 if v == 0 else 1
+        raise ValueError(f"{name} must be a boolean or integer (0/1)")
+
+    out["EMAIL_DISCOVERY_ENABLED"] = _coerce_flag(out.get("EMAIL_DISCOVERY_ENABLED", 0), "EMAIL_DISCOVERY_ENABLED")
+    out["INTERNATIONAL_ENABLED"] = _coerce_flag(out.get("INTERNATIONAL_ENABLED", 0), "INTERNATIONAL_ENABLED")
 
     return out
 
