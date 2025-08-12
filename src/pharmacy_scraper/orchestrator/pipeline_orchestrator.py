@@ -68,6 +68,15 @@ class PipelineConfig:
         ]
     )
 
+    # Crosswalk schema v2: business type to scrape (e.g., "pharmacy", "clinic")
+    business_type: str = "pharmacy"
+    # Crosswalk schema v2: optional search terms override
+    search_terms: List[str] = field(default_factory=list)
+
+    # Feature flags (default off); loader may coerce to 0/1
+    EMAIL_DISCOVERY_ENABLED: int = 0
+    INTERNATIONAL_ENABLED: int = 0
+
     # Plugin-driven pipeline (optional)
     plugin_mode: bool = False
     # Raw plugin config section passed to registry.build_from_config
@@ -330,7 +339,8 @@ class PipelineOrchestrator:
         Raises:
             Exception: If query execution fails
         """
-        cache_key = f"{query}_{location}".lower().replace(" ", "_")
+        business_type = getattr(self.config, "business_type", "pharmacy")
+        cache_key = f"{business_type}:{query}_{location}".lower().replace(" ", "_")
         
         # Try to load from cache first
         cached_results = None
