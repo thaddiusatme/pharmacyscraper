@@ -87,10 +87,11 @@ Minimal visibility delivered now:
 - JSON logs suitable for quick `jq` queries without standing up dashboards
 
 ### 🧪 Testing & Quality Assurance
-- [ ] Add integration tests for real API scenarios (with rate limiting)
-- [ ] Create performance benchmarks and regression testing
-- [ ] Implement contract testing for data pipeline interfaces
-- [ ] Add property-based testing for critical data processing functions
+- [x] Add integration tests for real API scenarios (with rate limiting) (skips without keys)
+- [x] Create performance benchmarks and regression testing (PERF=1 opt-in; STRICT mode)
+- [x] Implement contract testing for data pipeline interfaces
+- [x] Add property-based testing for critical data processing functions
+  - Makefile shortcuts: `make test-qa`, `make test-perf`, `make test-perf-strict`
 
 ### 📈 Performance Optimization
 - [ ] Profile and optimize hot paths in data processing
