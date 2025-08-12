@@ -263,9 +263,21 @@ class PipelineOrchestrator:
         all_pharmacies = []
         
         for location_config in self.config.locations:
-            state = location_config['state']
-            cities = location_config.get('cities', [])
-            queries = location_config.get('queries', ["independent pharmacy"])
+            # Back-compat: allow location_config to be a simple string like "AK" or "Anchorage, AK"
+            if isinstance(location_config, str):
+                # If the string contains a comma, treat it as "City, State"; otherwise, assume it's a state
+                parts = [p.strip() for p in location_config.split(',')]
+                if len(parts) == 2:
+                    state = parts[1]
+                    cities = [parts[0]]
+                else:
+                    state = parts[0]
+                    cities = []
+                queries = ["independent pharmacy"]
+            else:
+                state = location_config['state']
+                cities = location_config.get('cities', [])
+                queries = location_config.get('queries', ["independent pharmacy"])
             
             if not cities:
                 logger.warning(f"No cities specified for state {state}, using state-level query")

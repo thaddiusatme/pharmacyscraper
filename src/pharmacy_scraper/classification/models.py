@@ -130,6 +130,7 @@ class ClassificationResult:
         """Convert the result to a dictionary."""
         data = {
             'classification': self.classification,
+            # Keep 'is_chain' key even if None (tests assert presence and value)
             'is_chain': self.is_chain,
             'is_compounding': self.is_compounding,
             'confidence': self.confidence,
@@ -140,7 +141,13 @@ class ClassificationResult:
             'error': self.error,
             'pharmacy_data': self.pharmacy_data.to_dict() if self.pharmacy_data else None
         }
-        return {k: v for k, v in data.items() if v is not None}
+        # Keep 'is_chain', 'is_compounding', and 'confidence' even when None (tests assert presence of these keys)
+        retain_none_keys = {"is_chain", "is_compounding", "confidence"}
+        # If a classification is present, tests also expect the explanation and source keys to exist
+        if self.classification is not None:
+            retain_none_keys.add("explanation")
+            retain_none_keys.add("source")
+        return {k: v for k, v in data.items() if (v is not None or k in retain_none_keys)}
 
 
 # Common result constants for reuse

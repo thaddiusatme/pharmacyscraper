@@ -1,11 +1,42 @@
 import pytest
 import sys
+import site
 from pathlib import Path
 # Ensure project 'src' dir is on PYTHONPATH for local test execution
 root_dir = Path(__file__).resolve().parents[1]
 src_path = root_dir / "src"
 if src_path.exists() and str(src_path) not in sys.path:
     sys.path.insert(0, str(src_path))
+
+# Ensure third-party packages are preferred over project root to avoid shadowing
+root_str = str(root_dir)
+if root_str in sys.path:
+    try:
+        sys.path.remove(root_str)
+        sys.path.append(root_str)
+    except ValueError:
+        pass
+
+# Also move site-packages entries to the very front so they are searched before CWD
+try:
+    site_paths = []
+    # site.getsitepackages may not exist in some environments, so guard it
+    if hasattr(site, 'getsitepackages'):
+        site_paths.extend([p for p in site.getsitepackages() if isinstance(p, str)])
+    # add user site as well
+    if hasattr(site, 'getusersitepackages'):
+        site_paths.append(site.getusersitepackages())
+    # Ensure uniqueness and existing paths
+    site_paths = [p for p in dict.fromkeys(site_paths) if p and p in sys.path]
+    for p in reversed(site_paths):
+        try:
+            sys.path.remove(p)
+        except ValueError:
+            pass
+        sys.path.insert(0, p)
+except Exception:
+    # Best-effort; if anything goes wrong, don't block tests
+    pass
 
 # Provide lightweight stubs for heavy third-party libs that aren't needed for unit tests
 from types import ModuleType
@@ -134,3 +165,16 @@ def orchestrator_fixture(temp_config_file):
 def reset_credit_tracker():
     """Reset the credit tracker singleton before each test to ensure isolation."""
     credit_tracker.reset()
+
+@pytest.fixture(autouse=True)
+def _set_dummy_api_keys(monkeypatch):
+    """Set dummy API keys for services to avoid env-dependent test failures.
+
+    Tests that need to validate missing-key behavior should explicitly clear
+    the environment within the test using patch.dict or monkeypatch.
+    """
+    monkeypatch.setenv("PERPLEXITY_API_KEY", "test_perplexity_key")
+    monkeypatch.setenv("APIFY_API_TOKEN", "test_apify_token")
+    monkeypatch.setenv("GOOGLE_PLACES_KEY", "test_google_places_key")
+    # Signal to tests that keys are dummy, enabling skip logic for real-API tests
+    monkeypatch.setenv("DUMMY_API_KEYS", "1")
