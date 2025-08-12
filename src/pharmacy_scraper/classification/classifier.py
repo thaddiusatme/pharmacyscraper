@@ -244,17 +244,15 @@ class Classifier:
     classification has low confidence.
     """
 
-    def __init__(self, client: Optional["PerplexityClient"] = None):
-        """Initialize the classifier with an optional PerplexityClient."""
-        from .perplexity_client import PerplexityClient
-        # Allow None client for testing - will create PerplexityClient lazily if needed
+    def __init__(self, client: Optional[Any] = None):
+        """Initialize the classifier with an optional LLM client.
+
+        We avoid importing or constructing a concrete client here to keep
+        initialization side-effect free (no API key required). If no client is
+        provided, the classifier will operate in rule-based mode unless a
+        caller supplies a client later or via a dedicated setter.
+        """
         self._client = client
-        if self._client is None:
-            try:
-                self._client = PerplexityClient()
-            except ValueError:
-                # No API key available - client will remain None
-                pass
 
     def classify_pharmacy(
         self, 
