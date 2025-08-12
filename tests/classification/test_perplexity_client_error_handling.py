@@ -104,7 +104,7 @@ class TestPerplexityClientErrorHandling:
         mock_openai_instance = mock_openai.return_value
         
         # Create client with proper patching of attributes
-        client = PerplexityClient()
+        client = PerplexityClient(api_key="test-key")
         # Set attributes after initialization
         client.api_key = "test-key" 
         client.cache_dir = tmp_path
@@ -149,7 +149,7 @@ class TestPerplexityClientErrorHandling:
         mock_openai_instance = mock_openai.return_value
         
         # Create client with proper patching
-        client = PerplexityClient()
+        client = PerplexityClient(api_key="test-key")
         client.api_key = "test-key"
         client.cache_dir = tmp_path
         client.force_reclassification = True
@@ -300,7 +300,7 @@ class TestPerplexityClientErrorHandling:
     def test_create_prompt_method(self):
         """Test the _create_prompt method correctly formats the prompt string."""
         # Create a client with required attributes
-        client = PerplexityClient()
+        client = PerplexityClient(api_key="test-key")
         
         # We need to patch the _create_prompt method to avoid the f-string formatting issues
         # Since we're just testing if the pharmacy data is included correctly

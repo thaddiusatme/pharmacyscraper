@@ -125,8 +125,38 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
                 raise ValueError(f"api_cost_limits['{k}'] cannot be negative")
     if "locations" in out:
         locs = out["locations"]
-        if not isinstance(locs, list) or not all(isinstance(x, str) for x in locs):
-            raise ValueError("locations must be a list of strings if provided")
+        if not isinstance(locs, list):
+            raise ValueError("locations must be a list if provided")
+        # Back-compat: accept list of strings OR list of dicts and normalize
+        normalized: list[str] = []
+        for item in locs:
+            if isinstance(item, str):
+                normalized.append(item)
+            elif isinstance(item, dict):
+                # Try common legacy shapes
+                city = item.get("city")
+                state = item.get("state")
+                cities = item.get("cities")
+                name = item.get("name")
+                query = item.get("query") or item.get("q")
+                if cities and state and isinstance(cities, list):
+                    for c in cities:
+                        if isinstance(c, str) and c.strip():
+                            normalized.append(f"{c}, {state}")
+                    continue
+                if city and state:
+                    normalized.append(f"{city}, {state}")
+                elif name:
+                    normalized.append(str(name))
+                elif query:
+                    normalized.append(str(query))
+                else:
+                    raise ValueError(
+                        "location dict must include at least one of: (city and state), cities+state, name, or query"
+                    )
+            else:
+                raise ValueError("locations must be a list of strings or dicts")
+        out["locations"] = normalized
 
     # Unified schema optional fields
     if "search_terms" in out:

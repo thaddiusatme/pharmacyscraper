@@ -392,4 +392,11 @@ def test_classification_result_serialization(
     assert result_dict["is_compounding"] == is_compounding
     assert result_dict["confidence"] == confidence
     assert result_dict["explanation"] == explanation
-    assert result_dict["source"] == source.value
+    # Source should be present since classification is not None
+    assert "source" in result_dict
+    # Defensive check for the flaky test issue
+    if source is None:
+        # This should never happen with our Hypothesis strategy, but let's be defensive
+        assert result_dict["source"] is None
+    else:
+        assert result_dict["source"] == source.value

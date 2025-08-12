@@ -8,6 +8,7 @@ Tests the revised prompt and filtering on known hospital vs independent pharmaci
 import json
 import re
 from typing import Dict, Any, List
+import pytest
 
 # Updated hospital/medical facility identifiers (from our proposed fix)
 HOSPITAL_IDENTIFIERS = {
@@ -49,13 +50,22 @@ def simulate_improved_classification(pharmacy_data: Dict[str, Any]) -> Dict[str,
             "explanation": f"This appears to be an independent retail pharmacy."
         }
 
-def test_post_processing_filter(pharmacy_name: str) -> bool:
-    """
-    Test if a pharmacy would be filtered out by the improved post-processing filter.
-    Returns True if it should be filtered (i.e., is not independent).
-    """
+@pytest.mark.parametrize(
+    "pharmacy_name, expected_filtered",
+    [
+        ("ANMC Pharmacy", True),
+        ("ANTHC Pharmacy", True),
+        ("Anchorage Native Primary Care Center Pharmacy", True),
+        ("Anchorage VA Pharmacy", True),
+        ("Bernie's Pharmacy", False),
+        ("Alaska Managed Care Pharmacy", False),
+    ],
+)
+def test_post_processing_filter(pharmacy_name: str, expected_filtered: bool) -> None:
+    """Verify our filter flags hospitals and keeps independents."""
     name_lower = pharmacy_name.lower()
-    return any(identifier in name_lower for identifier in HOSPITAL_IDENTIFIERS)
+    is_filtered = any(identifier in name_lower for identifier in HOSPITAL_IDENTIFIERS)
+    assert is_filtered == expected_filtered
 
 def run_classification_test():
     """Run tests on known problematic pharmacies from Anchorage, AK."""
