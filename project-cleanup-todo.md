@@ -53,16 +53,16 @@
 - [x] Add environment-specific config inheritance (`env` + `environments` with deep merge)
 
 ### 🔌 Plugin Architecture Foundation
-- [ ] Design `BaseClassifierPlugin` interface with hooks for chain detection, compounding
+- [x] Design `BaseClassifierPlugin` interface with hooks for chain detection, compounding
 - [x] Implement plugin registry/loader system (entry points or module discovery)
 - [x] Create example plugin implementation
-- [ ] Add plugin testing framework and validation
+- [x] Add plugin testing framework and validation
 
 ### 💾 Caching & Idempotency Enhancement
-- [ ] Standardize deterministic cache keys across all modules
-- [ ] Implement cache invalidation strategy and "force_reclassification" behavior
-- [ ] Add cache hit/miss metrics and monitoring
-- [ ] Create cache cleanup/maintenance utilities
+- [x] Standardize deterministic cache keys across all modules
+- [x] Implement cache invalidation strategy and "force_reclassification" behavior
+- [x] Add cache hit/miss metrics and monitoring
+- [x] Create cache cleanup/maintenance utilities
 
 ### 💰 API Cost Management
 - [ ] Implement per-search-term budget caps with fail-safe cutoffs
