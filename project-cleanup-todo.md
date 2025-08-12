@@ -61,7 +61,7 @@
 ### 💾 Caching & Idempotency Enhancement
 - [x] Standardize deterministic cache keys across all modules
 - [x] Implement cache invalidation strategy and "force_reclassification" behavior
-- [x] Add cache hit/miss metrics and monitoring
+- [x] Add cache hit/miss logging (metrics and monitoring later)
 - [x] Create cache cleanup/maintenance utilities
 
 ### 💰 API Cost Management
@@ -75,10 +75,16 @@
 ## 📊 Phase 3: Observability & Quality [MEDIUM PRIORITY]
 
 ### 🔍 Enhanced Logging & Monitoring
-- [ ] Implement structured logging (run_id, stage, source, cost, cache_source)
+- [x] Implement structured logging (run_id, stage, cache_source, cache events). JSON by default; additive context via bind_context
+- [x] Default redaction of sensitive fields (api_key, address, email, phone)
 - [ ] Add comprehensive metrics: API calls, retries, cache hits, cost per term/region
-- [ ] Create debug toggles and field redaction for sensitive data
+- [ ] Add debug toggles (opt-in verbose sections) and configurable redaction list
 - [ ] Build monitoring dashboards and alerting
+
+Minimal visibility delivered now:
+- Run lifecycle with `run_id`, `stage_start`, `stage_completed` (with `duration_ms`, `result_count` when available), and `stage_error`
+- Classifier cache events: `cache_hit`, `cache_miss`, `cache_bypass`, `cache_store` with safe `cache_key_fp`
+- JSON logs suitable for quick `jq` queries without standing up dashboards
 
 ### 🧪 Testing & Quality Assurance
 - [ ] Add integration tests for real API scenarios (with rate limiting)
