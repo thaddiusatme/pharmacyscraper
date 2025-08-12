@@ -14,8 +14,7 @@ Public API:
 """
 from __future__ import annotations
 
-import logging
-from typing import Dict, List, Optional, Union, Any, cast
+from typing import Dict, List, Optional, Union, Any
 
 from .models import (
     PharmacyData,
@@ -24,7 +23,10 @@ from .models import (
     ClassificationSource,
 )
 
-logger = logging.getLogger(__name__)
+from pharmacy_scraper.observability.logging import get_structured_logger
+import hashlib
+
+logger = get_structured_logger(__name__)
 
 ###############################################################################
 # Constant
@@ -148,7 +150,6 @@ def query_perplexity(pharmacy: Union[Dict, PharmacyData]) -> ClassificationResul
 
 
 # Module-level cache for storing classification results
-from typing import Dict, Any, Union
 import time
 from pharmacy_scraper.utils.cache_keys import pharmacy_cache_key
 
@@ -232,6 +233,11 @@ def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = Tr
     # Delegate to standardized key utility
     return pharmacy_cache_key(pharmacy, use_llm=use_llm)
 
+
+def _key_fp(key: str) -> str:
+    """Stable short fingerprint of a cache key for logging."""
+    return hashlib.sha256(key.encode("utf-8")).hexdigest()[:12]
+
 ###############################################################################
 # Class interface
 ###############################################################################
@@ -281,7 +287,7 @@ class Classifier:
         cache_key = _get_cache_key(pharmacy, use_llm=use_llm)
         # Handle cache hit unless forcing reclassification
         if not force_reclassification and cache_key in _classification_cache:
-            logger.debug("Cache hit for pharmacy: %s", cache_key)
+            logger.info("cache_hit", extra={"event": "cache_hit", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             _cache_stats["hits"] += 1
             cached_result = _classification_cache[cache_key]
             return ClassificationResult(
@@ -295,9 +301,11 @@ class Classifier:
             )
         else:
             _cache_stats["misses"] += 1
+            logger.info("cache_miss", extra={"event": "cache_miss", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             if force_reclassification and cache_key in _classification_cache:
                 # Count invalidation when bypassing an existing entry
                 _cache_stats["invalidations"] += 1
+                logger.info("cache_bypass", extra={"event": "cache_bypass", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             
         # First try rule-based classification
         rule_result = rule_based_classify(pharmacy)
@@ -307,6 +315,7 @@ class Classifier:
             _classification_cache[cache_key] = rule_result
             _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
+            logger.info("cache_store", extra={"event": "cache_store", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             return rule_result
             
         # If LLM is disabled or no client available, cache and return rule-based result
@@ -325,6 +334,7 @@ class Classifier:
             _classification_cache[cache_key] = final_result
             _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
+            logger.info("cache_store", extra={"event": "cache_store", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             return final_result
 
         except Exception as e:
@@ -333,6 +343,7 @@ class Classifier:
             _classification_cache[cache_key] = rule_result
             _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
+            logger.info("cache_store", extra={"event": "cache_store", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             return rule_result
             
     def batch_classify_pharmacies(

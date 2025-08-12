@@ -6,7 +6,8 @@ pharmacy data collection and processing pipeline.
 """
 
 import json
-import logging
+ 
+import time
 from pathlib import Path
 from typing import Dict, List, Optional, Any, Union, Callable
 from dataclasses import dataclass, field
@@ -22,8 +23,10 @@ from ..classification.cache import load_from_cache, save_to_cache
 from .state_manager import StateManager
 from pharmacy_scraper.pipeline.plugin_pipeline import run_pipeline
 from pharmacy_scraper.config.loader import load_config as load_config_file
+from pharmacy_scraper.observability.logging import get_structured_logger, bind_context
+import uuid
 
-logger = logging.getLogger(__name__)
+logger = get_structured_logger(__name__)
 
 @dataclass
 class PipelineConfig:
@@ -135,16 +138,19 @@ class PipelineOrchestrator:
         output_dir = Path(self.config.output_dir)
         stage_output_file = output_dir / f"stage_{stage_name}_output.json"
 
+        stage_logger = bind_context(getattr(self, "_run_logger", logger), {"stage": stage_name})
+
         if self.state_manager.get_task_status(stage_name) == 'completed':
-            logger.info(f"Skipping completed stage: '{stage_name}'. Loading results from cache.")
+            stage_logger.info("stage_skipped", extra={"event": "stage_skipped"})
             if not stage_output_file.exists():
                 error_msg = f"Cannot skip stage '{stage_name}': Output file not found at {stage_output_file}"
-                logger.error(error_msg)
+                stage_logger.error(error_msg, extra={"event": "stage_error"})
                 raise FileNotFoundError(error_msg)
             with open(stage_output_file, 'r') as f:
                 return json.load(f)
 
-        logger.info(f"Executing stage: '{stage_name}'")
+        start = time.time()
+        stage_logger.info("stage_start", extra={"event": "stage_start"})
         self.state_manager.update_task_status(stage_name, 'in_progress')
 
         try:
@@ -152,7 +158,7 @@ class PipelineOrchestrator:
             output_dir.mkdir(parents=True, exist_ok=True)
             
             # Debug the result type
-            logger.debug(f"Stage '{stage_name}' returned type: {type(result)}")
+            stage_logger.debug(f"Stage '{stage_name}' returned type: {type(result)}")
             
             with open(stage_output_file, 'w') as f:
                 if hasattr(result, 'to_dict') and callable(getattr(result, 'to_dict')):
@@ -164,11 +170,21 @@ class PipelineOrchestrator:
                     json.dump(result, f, indent=2)
 
             self.state_manager.update_task_status(stage_name, 'completed')
-            logger.info(f"Stage '{stage_name}' completed successfully.")
+            duration_ms = int((time.time() - start) * 1000)
+            # Try to infer result count
+            result_count = None
+            try:
+                if isinstance(result, list):
+                    result_count = len(result)
+                elif hasattr(result, "__len__"):
+                    result_count = len(result)  # type: ignore[arg-type]
+            except Exception:
+                result_count = None
+            stage_logger.info("stage_completed", extra={"event": "stage_completed", "duration_ms": duration_ms, "result_count": result_count})
             return result
         except Exception as e:
             self.state_manager.update_task_status(stage_name, 'failed')
-            logger.error(f"Stage '{stage_name}' failed: {e}", exc_info=True)
+            stage_logger.error(f"Stage '{stage_name}' failed: {e}", extra={"event": "stage_error"}, exc_info=True)
             raise
 
     def run(self) -> Optional[Path]:
@@ -179,7 +195,10 @@ class PipelineOrchestrator:
             Optional[Path]: The path to the output file on success, None on failure.
         """
         try:
-            logger.info(f"Starting pipeline run. Checking state...")
+            # Bind a run-scoped structured logger with run_id
+            run_id = str(uuid.uuid4())
+            self._run_logger = get_structured_logger(__name__, base_context={"run_id": run_id})
+            self._run_logger.info("run_start", extra={"event": "run_start"})
 
             # If plugin mode is enabled, run the plugin-driven pipeline instead
             if getattr(self.config, "plugin_mode", False):
@@ -196,7 +215,7 @@ class PipelineOrchestrator:
                     query = {"location": loc0}
                 results = run_pipeline(plugin_cfg, query=query)
                 output_file = self._save_results(results)
-                logger.info("Plugin-driven pipeline completed successfully!")
+                self._run_logger.info("run_completed", extra={"event": "run_completed"})
                 return output_file
 
             raw_pharmacies = self._execute_stage("data_collection", self._collect_pharmacies)
@@ -218,14 +237,14 @@ class PipelineOrchestrator:
                 verified_pharmacies = classified_pharmacies
 
             output_file = self._save_results(verified_pharmacies)
-            logger.info("Pipeline completed successfully!")
+            self._run_logger.info("run_completed", extra={"event": "run_completed"})
             return output_file
 
         except CreditLimitExceededError as e:
-            logger.error(f"Budget exceeded: {e}")
+            getattr(self, "_run_logger", logger).error(f"Budget exceeded: {e}", extra={"event": "run_error"})
             return None
         except Exception as e:
-            logger.error(f"Pipeline failed during execution: {e}", exc_info=False)
+            getattr(self, "_run_logger", logger).error(f"Pipeline failed during execution: {e}", extra={"event": "run_error"}, exc_info=False)
             return None
     
     def _collect_pharmacies(self) -> List[Dict]:
