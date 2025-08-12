@@ -76,6 +76,8 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
         # Unified schema optional fields
         "search_terms",  # list[str]
         "regions",       # list[str] or list[dict]
+        # Crosswalk v2 fields
+        "business_type",  # str
     }
     unknown = set(out.keys()) - allowed_keys
     if unknown:
@@ -85,6 +87,9 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
     out.setdefault("output_dir", "output")
     out.setdefault("cache_dir", "cache")
     out.setdefault("verify_places", True)
+    # Crosswalk v2 defaults
+    out.setdefault("business_type", "pharmacy")
+    out.setdefault("search_terms", [])
 
     # base type checks (only when present)
     if not isinstance(out.get("output_dir"), str):
