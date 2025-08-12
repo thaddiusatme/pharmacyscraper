@@ -1,0 +1,5 @@
+{
+  "rule_throughput_ops": { "kind": "higher_better", "value": 0 },
+  "rule_duration_s": { "kind": "lower_better", "value": 0 },
+  "orch_stage_duration_s": { "kind": "lower_better", "value": 0 }
+}
