@@ -149,21 +149,66 @@ def query_perplexity(pharmacy: Union[Dict, PharmacyData]) -> ClassificationResul
 
 # Module-level cache for storing classification results
 from typing import Dict, Any, Union
+import time
 from pharmacy_scraper.utils.cache_keys import pharmacy_cache_key
 
 _classification_cache: Dict[str, ClassificationResult] = {}
+_cache_meta: Dict[str, float] = {}  # key -> stored_at epoch seconds
 _cache_stats: Dict[str, int] = {"hits": 0, "misses": 0, "stores": 0, "invalidations": 0}
 
 
 def clear_classification_cache() -> None:
     """Clear the classification cache and reset stats."""
     _classification_cache.clear()
+    _cache_meta.clear()
     _cache_stats.update({"hits": 0, "misses": 0, "stores": 0, "invalidations": 0})
 
 
 def get_cache_stats() -> Dict[str, int]:
     """Get snapshot of cache statistics."""
     return dict(_cache_stats)
+
+
+def invalidate_cache_key(key: str) -> bool:
+    """Remove a specific cache entry by key. Returns True if removed."""
+    removed = False
+    if key in _classification_cache:
+        _classification_cache.pop(key, None)
+        removed = True
+    _cache_meta.pop(key, None)
+    if removed:
+        _cache_stats["invalidations"] += 1
+    return removed
+
+
+def prune_cache(max_entries: int) -> int:
+    """Prune cache to at most max_entries by oldest first. Returns removed count."""
+    if max_entries < 0:
+        raise ValueError("max_entries must be >= 0")
+    keys = list(_classification_cache.keys())
+    if len(keys) <= max_entries:
+        return 0
+    # Sort by stored time ascending (oldest first)
+    keys_sorted = sorted(keys, key=lambda k: _cache_meta.get(k, 0.0))
+    to_remove = keys_sorted[: len(keys) - max_entries]
+    removed = 0
+    for k in to_remove:
+        if invalidate_cache_key(k):
+            removed += 1
+    return removed
+
+
+def purge_cache_older_than(age_seconds: float) -> int:
+    """Remove entries older than age_seconds. Returns removed count."""
+    if age_seconds < 0:
+        raise ValueError("age_seconds must be >= 0")
+    now = time.time()
+    removed = 0
+    for k, ts in list(_cache_meta.items()):
+        if now - ts >= age_seconds:
+            if invalidate_cache_key(k):
+                removed += 1
+    return removed
 
 def _get_cache_key(pharmacy: Union[Dict, PharmacyData, None], use_llm: bool = True) -> str:
     """Generate a consistent cache key for a pharmacy.
@@ -262,12 +307,14 @@ class Classifier:
         # If we have high confidence or found a compounding pharmacy, cache and return
         if rule_result.confidence >= 0.9 or rule_result.is_compounding:
             _classification_cache[cache_key] = rule_result
+            _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
             return rule_result
             
         # If LLM is disabled or no client available, cache and return rule-based result
         if not use_llm or self._client is None:
             _classification_cache[cache_key] = rule_result
+            _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
             return rule_result
             
@@ -278,6 +325,7 @@ class Classifier:
             # Cache and return the result with higher confidence
             final_result = llm_result if llm_result.confidence >= rule_result.confidence else rule_result
             _classification_cache[cache_key] = final_result
+            _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
             return final_result
 
@@ -285,6 +333,7 @@ class Classifier:
             logger.error(f"LLM classification failed: {e}")
             # Cache the rule-based result on LLM failure
             _classification_cache[cache_key] = rule_result
+            _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
             return rule_result
             
