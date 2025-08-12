@@ -9,6 +9,7 @@ import importlib
 from typing import List, Sequence, Type, Union
 
 from .interfaces import DataSourcePlugin, ClassifierPlugin, BasePlugin
+from .validation import validate_data_source_plugin, validate_classifier_plugin
 
 PluginType = Union[Type[DataSourcePlugin], Type[ClassifierPlugin]]
 
@@ -62,8 +63,12 @@ class PluginRegistry:
         """Register a plugin class by its kind."""
         self._ensure_valid(cls)
         if issubclass(cls, DataSourcePlugin):
+            # Validate contract before adding
+            validate_data_source_plugin(cls)
             self._sources.append(cls)
         elif issubclass(cls, ClassifierPlugin):
+            # Validate contract before adding
+            validate_classifier_plugin(cls)
             self._classifiers.append(cls)
 
     def load_and_register(self, paths: Sequence[str]) -> None:

@@ -42,8 +42,28 @@ class DataSourcePlugin(BasePlugin):
         """
 
 
-class ClassifierPlugin(BasePlugin):
-    """Interface for classification plugins."""
+class BaseClassifierPlugin(BasePlugin, ABC):
+    """Base interface for classification plugins with optional hooks.
+
+    Plugins may override the lightweight detection hooks to provide
+    fast-path decisions without invoking heavier logic.
+    """
+
+    def detect_chain(self, item: dict, cfg: dict) -> bool | None:  # optional
+        """Optional fast-path check for chain detection.
+
+        Return True/False to provide an early determination, or None to defer
+        to full classification.
+        """
+        return None
+
+    def detect_compounding(self, item: dict, cfg: dict) -> bool | None:  # optional
+        """Optional fast-path check for compounding detection.
+
+        Return True/False to provide an early determination, or None to defer
+        to full classification.
+        """
+        return None
 
     @abstractmethod
     def classify(self, item: dict, cfg: dict) -> dict:
@@ -51,3 +71,8 @@ class ClassifierPlugin(BasePlugin):
 
         Returns a mapping with at least keys like {"label": str, "score": float}.
         """
+
+
+# Backwards-compatible alias used across the codebase/registry
+class ClassifierPlugin(BaseClassifierPlugin):
+    pass
