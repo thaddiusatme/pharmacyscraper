@@ -229,6 +229,24 @@ python -m pharmacy_scraper.run_pipeline --config config/your_config.json
 pytest tests/ -v
 ```
 
+### Testing Quick Start
+
+Common testing commands (see detailed guide in [`docs/TESTING.md`](docs/TESTING.md)):
+
+- Full suite:
+  ```bash
+  make test
+  ```
+- QA suites (integration/contract/property):
+  ```bash
+  make test-qa
+  ```
+- Performance benchmarks (opt-in):
+  ```bash
+  make test-perf           # measure only (PERF=1)
+  make test-perf-strict    # enforce thresholds (PERF=1 PERF_STRICT=1)
+  ```
+
 ### Test Coverage
 
 The project currently has 73% overall test coverage, with key modules having excellent coverage:
