@@ -46,10 +46,10 @@
 
 ### 📋 Configuration System
 - [x] Add YAML parsing support in central config loader
-- [ ] Define unified config schema (YAML/JSON) for search terms, regions, budgets
+- [x] Define unified config schema (YAML/JSON) for search terms, regions, budgets
 - [x] Implement stricter schema validation and clear errors (top-level allowlist, basic nested types)
 - [x] Create example configs (JSON and YAML) under `examples/config/`
-- [ ] Write migration guide from current setup to unified schema
+- [x] Write migration guide from current setup to unified schema (`docs/migration-config-v1-to-unified.md`)
 - [x] Add environment-specific config inheritance (`env` + `environments` with deep merge)
 
 ### 🔌 Plugin Architecture Foundation
