@@ -48,21 +48,27 @@ Detailed documentation is available for each module:
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pharmacy-scraper.git
-   cd pharmacy-scraper
-   ```
+  ```bash
+  git clone https://github.com/your-username/pharmacy-scraper.git
+  cd pharmacy-scraper
+  ```
 
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+2. Create and activate a local virtual environment (recommended):
+  ```bash
+  python -m venv .venv
+  source .venv/bin/activate  # Windows: .venv\Scripts\activate
+  ```
 
-3. Install dependencies:
-   ```bash
-   pip install -e .
-   ```
+3. Install pinned runtime and dev/test dependencies:
+  ```bash
+  python -m pip install -U pip
+  python -m pip install -r requirements.txt -r requirements-dev.txt
+  ```
+
+4. Verify tests run locally:
+  ```bash
+  PYTHONPATH=src python -m pytest -q
+  ```
 
 ## Configuration
 
@@ -226,7 +232,7 @@ python -m pharmacy_scraper.run_pipeline --config config/your_config.json
 ### Running Tests
 
 ```bash
-pytest tests/ -v
+PYTHONPATH=src pytest tests/ -v
 ```
 
 ### Testing Quick Start
@@ -277,6 +283,30 @@ pharmacy-scraper/
 ├── .gitignore
 ├── pyproject.toml
 └── README.md
+```
+
+## Context Engineering (Windsurf)
+
+This repository is configured for AI-assisted development with Windsurf:
+
+- The `.windsurf/` directory contains rules and archives to help the assistant prioritize relevant context.
+- `pyproject.toml` sets `pytest` options with `pythonpath = ["src"]`, so modules import correctly during tests.
+- Use a local virtual environment (`.venv`) and the pinned `requirements*.txt` to ensure deterministic behavior.
+- Common commands:
+  ```bash
+  # Activate env
+  source .venv/bin/activate
+
+  # Run full test suite
+  PYTHONPATH=src python -m pytest -q
+
+  # Lint/format (optional)
+  black . && flake8
+  ```
+
+If you encounter plugin-related pytest issues, you can temporarily run with:
+```bash
+PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 PYTHONPATH=src python -m pytest -q
 ```
 
 ## Contributing
