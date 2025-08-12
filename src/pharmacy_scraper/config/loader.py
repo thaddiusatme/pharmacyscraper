@@ -73,6 +73,9 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
         "plugin_mode",
         "plugins",
         "plugin_config",
+        # Unified schema optional fields
+        "search_terms",  # list[str]
+        "regions",       # list[str] or list[dict]
     }
     unknown = set(out.keys()) - allowed_keys
     if unknown:
@@ -83,13 +86,68 @@ def _validate_and_defaults(cfg: MutableMapping[str, Any]) -> Dict[str, Any]:
     out.setdefault("cache_dir", "cache")
     out.setdefault("verify_places", True)
 
-    # base type checks
+    # base type checks (only when present)
     if not isinstance(out.get("output_dir"), str):
         raise ValueError("output_dir must be a string path")
     if not isinstance(out.get("cache_dir"), str):
         raise ValueError("cache_dir must be a string path")
     if "api_keys" in out and not isinstance(out["api_keys"], dict):
         raise ValueError("api_keys must be a dict if provided")
+
+    if "max_results_per_query" in out and not isinstance(out["max_results_per_query"], int):
+        raise ValueError("max_results_per_query must be an integer if provided")
+    if "classification_threshold" in out:
+        ct = out["classification_threshold"]
+        if not isinstance(ct, (int, float)):
+            raise ValueError("classification_threshold must be a number if provided")
+        if not (0.0 <= float(ct) <= 1.0):
+            raise ValueError("classification_threshold must be between 0.0 and 1.0")
+    if "verification_confidence_threshold" in out:
+        vt = out["verification_confidence_threshold"]
+        if not isinstance(vt, (int, float)):
+            raise ValueError("verification_confidence_threshold must be a number if provided")
+        if not (0.0 <= float(vt) <= 1.0):
+            raise ValueError("verification_confidence_threshold must be between 0.0 and 1.0")
+    if "max_budget" in out:
+        mb = out["max_budget"]
+        if not isinstance(mb, (int, float)):
+            raise ValueError("max_budget must be a number if provided")
+        if float(mb) < 0:
+            raise ValueError("max_budget cannot be negative")
+    if "api_cost_limits" in out:
+        limits = out["api_cost_limits"]
+        if not isinstance(limits, dict):
+            raise ValueError("api_cost_limits must be a dict if provided")
+        for k, v in limits.items():
+            if not isinstance(v, (int, float)):
+                raise ValueError(f"api_cost_limits['{k}'] must be a number")
+            if float(v) < 0:
+                raise ValueError(f"api_cost_limits['{k}'] cannot be negative")
+    if "locations" in out:
+        locs = out["locations"]
+        if not isinstance(locs, list) or not all(isinstance(x, str) for x in locs):
+            raise ValueError("locations must be a list of strings if provided")
+
+    # Unified schema optional fields
+    if "search_terms" in out:
+        terms = out["search_terms"]
+        if not isinstance(terms, list) or not all(isinstance(x, str) and x.strip() for x in terms):
+            raise ValueError("search_terms must be a non-empty list of strings if provided")
+    if "regions" in out:
+        regions = out["regions"]
+        if isinstance(regions, list):
+            # Accept list of strings or list of dicts with minimal structure
+            for r in regions:
+                if isinstance(r, str):
+                    continue
+                if isinstance(r, dict):
+                    # allow keys like {state, city} or {name}
+                    if not any(k in r for k in ("state", "city", "name")):
+                        raise ValueError("region dict must include at least one of: state, city, name")
+                    continue
+                raise ValueError("regions must be a list of strings or dicts")
+        else:
+            raise ValueError("regions must be a list if provided")
 
     # plugin mode structural checks
     if out.get("plugin_mode"):

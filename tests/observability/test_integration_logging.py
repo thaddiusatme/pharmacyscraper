@@ -69,6 +69,8 @@ def test_execute_stage_logging_without_clients(tmp_path, monkeypatch):
     cfg_path.write_text(json.dumps(cfg))
 
     orch = PipelineOrchestrator(str(cfg_path))
+    # Ensure no prior state causes a skip branch that expects output files
+    orch.state_manager.reset_state()
     # Install a run logger with fixed run_id
     orch._run_logger = get_structured_logger("pharmacy_scraper.orchestrator.pipeline_orchestrator", base_context={"run_id": "r-orch"})
 

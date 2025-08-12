@@ -323,6 +323,7 @@ class Classifier:
             _classification_cache[cache_key] = rule_result
             _cache_meta[cache_key] = time.time()
             _cache_stats["stores"] += 1
+            logger.info("cache_store", extra={"event": "cache_store", "cache_source": "memory", "cache_key_fp": _key_fp(cache_key)})
             return rule_result
             
         # Try LLM classification
