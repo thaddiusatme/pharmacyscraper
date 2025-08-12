@@ -23,5 +23,6 @@ def test_submodule_alias_utils_logger():
 
     # Basic sanity: module has expected attributes
     assert hasattr(bs_logger, '__name__')
-    # Access an attribute that should exist (function or variable); logger defines get_logger
-    assert hasattr(bs_logger, 'get_logger')
+    # Access attributes that exist in the logger module
+    assert hasattr(bs_logger, 'setup_logger')
+    assert hasattr(bs_logger, 'get_console_logger')
