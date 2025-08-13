@@ -5,7 +5,7 @@ Status: Active (introduced by Project Crosswalk)
 
 This document defines the fields and conventions for CSV and JSON outputs produced by the pipeline as of Schema Version 2. v2 adds normalized address fields and contact enrichment fields while keeping backwards compatibility for existing CSV consumers (new columns appended) and preserving snake_case for JSON.
 
-Note: Implementation is landing iteratively via TDD. As of Iteration 4+, all planned v2 serialization fields are present; normalization/enrichment logic lands in subsequent iterations. See "Current Implementation Status" below.
+Note: Implementation is landing iteratively via TDD. As of Iteration 7, all planned v2 serialization fields are present and the orchestrator wires normalization prior to serialization. Address normalization uses usaddress for US and libpostal for international when `INTERNATIONAL_ENABLED=1`; phone normalization uses phonenumbers with fallbacks. See "Current Implementation Status" below.
 
 ## 1. Versioning and Compatibility
 - `schema_version`: 2 for new runs. It SHOULD be present in JSON outputs and run metadata. For CSV exports, versioning is tracked in run metadata/file naming; CSV contains the appended columns for v2.
@@ -68,8 +68,9 @@ Notes:
 - Metrics include only counts/durations and SHOULD NOT use PII-bearing label values.
 
 ## 6. Dependencies (Docs)
-- Approved now: `phonenumbers` (phone normalization), `usaddress` (US address parsing fallback).
+- Approved now: `phonenumbers` (phone normalization), `usaddress` (US address parsing).
 - Gated: `libpostal` (used only when `INTERNATIONAL_ENABLED=1`).
+- All dependencies are optional. When unavailable, the pipeline falls back to heuristics while preserving output schema.
 
 ## 7. CSV and JSON Examples
 
@@ -102,10 +103,14 @@ JSON example (excerpt):
 }
 ```
 
-## 9. Current Implementation Status (Iteration 4+)
+## 9. Current Implementation Status (Iteration 7)
 - Appended to CSV and present in JSON: `address_line1`, `address_line2`, `city`, `state`, `postal_code`, `country_iso2`, `phone_e164`, `phone_national`, `contact_name`, `contact_email`, `contact_role`, `contact_source`, `contact_email_source`.
 - `country_code` is present in JSON and appended to CSV only when `INTERNATIONAL_ENABLED=1`.
-- Next iterations: address normalization (usaddress; libpostal when international), phone normalization population (phonenumbers), NPI Authorized Official contact enrichment, email policy gating/validation, privacy redaction in logs/metrics.
+- Normalization is integrated into the orchestrator prior to serialization:
+  - US addresses parsed via `usaddress` when available; otherwise heuristic fallback.
+  - International addresses parsed via `libpostal` when enabled and available; otherwise heuristic fallback.
+  - Phones formatted via `phonenumbers` (E.164 and national) with graceful fallback.
+- Next iterations: NPI Authorized Official contact enrichment, email policy gating/validation, privacy redaction in logs/metrics.
 
 ## 8. Changelog (v1 → v2)
 - Added normalized address fields: line1, line2, city, state, postal_code, country_iso2.

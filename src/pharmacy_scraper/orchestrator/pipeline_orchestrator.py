@@ -13,6 +13,10 @@ from typing import Dict, List, Optional, Any, Union, Callable
 from dataclasses import dataclass, field
 import pandas as pd
 
+# Normalization utilities
+from pharmacy_scraper.normalization.address import normalize_address
+from pharmacy_scraper.normalization.phone import normalize_phone
+
 from ..api.apify_collector import ApifyCollector
 from ..dedup_self_heal.dedup import remove_duplicates
 from ..classification.classifier import Classifier
@@ -27,6 +31,31 @@ from pharmacy_scraper.observability.logging import get_structured_logger, bind_c
 import uuid
 
 logger = get_structured_logger(__name__)
+
+# Schema v2 fields to ensure presence in outputs
+# Base fields (Iteration 4 guaranteed tail order)
+SCHEMA_V2_BASE_FIELDS = [
+    # Address fields (US-first)
+    "address_line1",
+    "address_line2",
+    "city",
+    "state",
+    "postal_code",
+    "country_iso2",
+    # Phone normalization
+    "phone_e164",
+    "phone_national",
+    # Contact enrichment (Phase 1 minimal set for serialization)
+    "contact_name",
+    "contact_email",
+    "contact_role",
+]
+
+# Remaining fields introduced subsequently
+SCHEMA_V2_REMAINING_FIELDS = [
+    "contact_source",
+    "contact_email_source",
+]
 
 @dataclass
 class PipelineConfig:
@@ -340,7 +369,11 @@ class PipelineOrchestrator:
             Exception: If query execution fails
         """
         business_type = getattr(self.config, "business_type", "pharmacy")
-        cache_key = f"{business_type}:{query}_{location}".lower().replace(" ", "_")
+        base_key = f"{query}_{location}".lower().replace(" ", "_")
+        # Backward compatibility: do not change cache key for default business_type
+        cache_key = (
+            f"{business_type}:{base_key}" if business_type and business_type != "pharmacy" else base_key
+        )
         
         # Try to load from cache first
         cached_results = None
@@ -434,12 +467,78 @@ class PipelineOrchestrator:
         json_output_file = output_dir / 'pharmacies.json'
         csv_output_file = output_dir / 'pharmacies.csv'
 
+        # Project schema v2 fields onto each record (missing -> None)
+        projected: List[Dict] = []
+        # Determine extra gated fields
+        include_country_code = 0
+        try:
+            include_country_code = int(getattr(self.config, "INTERNATIONAL_ENABLED", 0))
+        except Exception:
+            include_country_code = 0
+        gated_fields = ["country_code"] if include_country_code else []
+        for item in pharmacies:
+            # copy to avoid mutating input reference
+            rec = dict(item)
+            # Normalize address if raw address present; do not overwrite preset normalized fields
+            try:
+                addr_raw = rec.get("address")
+                if addr_raw:
+                    addr_norm = normalize_address(addr_raw, config=self.config)
+                    for k in [
+                        "address_line1",
+                        "address_line2",
+                        "city",
+                        "state",
+                        "postal_code",
+                        "country_iso2",
+                        "country_code",  # may be present when intl enabled
+                    ]:
+                        if k in addr_norm and addr_norm.get(k) is not None and rec.get(k) in (None, ""):
+                            rec[k] = addr_norm[k]
+            except Exception as e:
+                logger.debug(f"Address normalization failed for {rec.get('id', 'N/A')}: {e}")
+            
+            # Normalize phone if raw phone present; do not overwrite preset normalized fields
+            try:
+                phone_raw = rec.get("phone")
+                if phone_raw:
+                    phone_norm = normalize_phone(phone_raw, config=self.config)
+                    for k in ["phone_e164", "phone_national"]:
+                        if k in phone_norm and phone_norm.get(k) is not None and rec.get(k) in (None, ""):
+                            rec[k] = phone_norm[k]
+            except Exception as e:
+                logger.debug(f"Phone normalization failed for {rec.get('id', 'N/A')}: {e}")
+
+            # Enforce gating: remove country_code from record when international disabled
+            if not include_country_code and "country_code" in rec:
+                rec.pop("country_code", None)
+            for field_name in SCHEMA_V2_BASE_FIELDS + SCHEMA_V2_REMAINING_FIELDS + gated_fields:
+                rec.setdefault(field_name, None)
+            projected.append(rec)
+
         # Save as JSON
         with open(json_output_file, 'w') as f:
-            json.dump(pharmacies, f, indent=2)
+            json.dump(projected, f, indent=2)
         
         # Save as CSV
-        df = pd.DataFrame(pharmacies)
+        df = pd.DataFrame(projected)
+        # Ensure new fields are appended at the end to keep backward compatibility
+        base_cols = [c for c in df.columns if c not in SCHEMA_V2_BASE_FIELDS + SCHEMA_V2_REMAINING_FIELDS + ["country_code"]]
+        # Column ordering policy:
+        # - INTERNATIONAL_ENABLED=0: base_cols -> remaining_fields -> base_fields
+        #   (so the last N columns are exactly base_fields)
+        # - INTERNATIONAL_ENABLED=1: base_cols -> base_fields -> remaining_fields -> country_code
+        if include_country_code:
+            final_cols = base_cols
+            final_cols += [c for c in SCHEMA_V2_BASE_FIELDS if c in df.columns]
+            final_cols += [c for c in SCHEMA_V2_REMAINING_FIELDS if c in df.columns]
+            if "country_code" in df.columns:
+                final_cols += ["country_code"]
+        else:
+            final_cols = base_cols
+            final_cols += [c for c in SCHEMA_V2_REMAINING_FIELDS if c in df.columns]
+            final_cols += [c for c in SCHEMA_V2_BASE_FIELDS if c in df.columns]
+        df = df.reindex(columns=final_cols)
         df.to_csv(csv_output_file, index=False)
         
         logger.info(f"Saved {len(pharmacies)} pharmacies to {output_dir}")
