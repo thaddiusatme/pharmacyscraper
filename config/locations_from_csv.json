@@ -1,0 +1,13 @@
+{
+  "business_type": "specialty_grocery",
+  "plugin_mode": true,
+  "output_dir": "output/locations",
+  "cache_dir": "cache",
+  "plugin_config": {
+    "csv": {
+      "path": "data/sample_locations.csv",
+      "encoding": "utf-8",
+      "has_header": true
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "business_type": "specialty_grocery",
+  "plugin_mode": true,
+  "search_terms": [
+    "specialty grocery",
+    "independent grocery",
+    "Mediterranean market",
+    "gourmet market",
+    "natural foods"
+  ],
+  "regions": [
+    "California",
+    "Arizona"
+  ],
+  "output_dir": "output/locations",
+  "cache_dir": "cache",
+  "max_budget": 25,
+  "api_cost_limits": { "apify": 25 },
+  "plugin_config": {
+    "discovery": {
+      "backend": "apify_maps",
+      "freshness_days": 7,
+      "max_regions_per_run": 5,
+      "max_items_per_region": 50,
+      "apify": {
+        "search_actor_id": "nwua9Gu5YrADL7ZDj",
+        "max_runs_per_day": 10,
+        "max_concurrency": 5,
+        "tags": ["business_type:specialty_grocery"]
+      }
+    }
+  }
+}
