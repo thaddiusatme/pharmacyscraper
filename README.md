@@ -45,6 +45,43 @@ Detailed documentation is available for each module:
 - [Orchestrator Module](src/pharmacy_scraper/orchestrator/README.md) - Pipeline coordination and cache management
 - [Classification Module](tests/classification/README.md) - AI-based pharmacy classification
 
+## Plugin Mode and Multi-domain Support
+
+In addition to the classic orchestrator pipeline, you can run a plugin-driven pipeline configured with source and classifier plugins. This enables multi-domain support (e.g., pharmacies, vet clinics) via a simple registry.
+
+Example: CSV source + Vet Clinic classifier plugin
+
+```python
+from pharmacy_scraper.pipeline.plugin_pipeline import run_pipeline
+
+config = {
+    "plugins": {
+        "sources": [
+            "pharmacy_scraper.plugins.csv_source:CSVSourcePlugin",
+        ],
+        "classifiers": [
+            "pharmacy_scraper.plugins.example_vet_clinic:VetClinicClassifierPlugin",
+        ],
+    },
+    "plugin_config": {
+        "CSVSourcePlugin": {"path": "data/vet_sample.csv"}
+    },
+}
+
+results = run_pipeline(config, query={"business_type": "vet_clinic"})
+```
+
+### Cache Key Migration (business_type)
+
+Cache entries are now keyed by `business_type` for separation across domains. The orchestrator includes a backward lookup: if a typed key (e.g., `vet_clinic:...`) is missing, it will try the legacy untyped key and self-heal by writing the typed entry.
+
+To bulk migrate existing legacy cache files to typed names, use the utility:
+
+```bash
+python -m pharmacy_scraper.utils.cache_migration .cache vet_clinic --dry-run   # preview
+python -m pharmacy_scraper.utils.cache_migration .cache vet_clinic             # apply
+```
+
 ## Installation
 
 1. Clone the repository:

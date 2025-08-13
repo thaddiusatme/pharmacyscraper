@@ -39,13 +39,17 @@ def run_pipeline(config: Dict[str, Any], query: Dict | None = None) -> List[Dict
             if classifier:
                 clf_cfg = _per_plugin_cfg(type(classifier), per_cfg)
                 out = classifier.classify(it, clf_cfg)
-                # Ensure dict output
+                # Ensure dict output and merge with original item to preserve fields
                 if isinstance(out, dict):
-                    results.append(out)
+                    base = it if isinstance(it, dict) else {}
+                    merged = {**base, **out}
+                    results.append(merged)
                 else:
-                    results.append({"label": "unknown", "score": 0.0})
+                    base = it if isinstance(it, dict) else {}
+                    results.append({**base, "label": "unknown", "score": 0.0})
             else:
                 # No classifier – pass through with default label
-                results.append({"label": "unknown", "score": 0.0, **(it if isinstance(it, dict) else {})})
+                base = it if isinstance(it, dict) else {}
+                results.append({**base, "label": "unknown", "score": 0.0})
 
     return results

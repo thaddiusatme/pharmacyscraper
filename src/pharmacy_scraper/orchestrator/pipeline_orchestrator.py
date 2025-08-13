@@ -17,6 +17,9 @@ import pandas as pd
 from pharmacy_scraper.normalization.address import normalize_address
 from pharmacy_scraper.normalization.phone import normalize_phone
 
+# Contact enrichment
+from pharmacy_scraper.enrichment.npi_contact import enrich_contact_from_npi
+
 from ..api.apify_collector import ApifyCollector
 from ..dedup_self_heal.dedup import remove_duplicates
 from ..classification.classifier import Classifier
@@ -246,11 +249,11 @@ class PipelineOrchestrator:
                     "plugin_config": self.config.plugin_config or {},
                 }
                 # Build a minimal query if available from locations, else empty
-                query: Dict[str, Any] = {}
+                query: Dict[str, Any] = {"business_type": getattr(self.config, "business_type", "pharmacy")}
                 if self.config.locations:
                     # Use first location/query as a simple seed
                     loc0 = self.config.locations[0]
-                    query = {"location": loc0}
+                    query = {**query, "location": loc0}
                 results = run_pipeline(plugin_cfg, query=query)
                 output_file = self._save_results(results)
                 self._run_logger.info("run_completed", extra={"event": "run_completed"})
@@ -386,6 +389,35 @@ class PipelineOrchestrator:
             logger.debug(f"Loaded {len(cached_results)} pharmacies from cache for '{query}' in {location}")
             return cached_results
         
+        # Backward lookup: if using a typed cache key and it's missing, try legacy untyped key
+        if business_type and business_type != "pharmacy":
+            try:
+                legacy_results = load_from_cache(base_key, self.config.cache_dir)
+            except Exception as e:
+                logger.warning(
+                    f"Failed legacy cache lookup for query '{query}' in {location}. Error: {e}"
+                )
+                legacy_results = None
+            if legacy_results:
+                logger.info(
+                    "cache_backward_lookup_hit",
+                    extra={
+                        "event": "cache_backward_lookup_hit",
+                        "business_type": business_type,
+                        "typed_key": cache_key,
+                        "legacy_key": base_key,
+                        "result_count": len(legacy_results),
+                    },
+                )
+                # Hydrate the typed cache to self-heal going forward
+                try:
+                    save_to_cache(legacy_results, cache_key, self.config.cache_dir)
+                except Exception as e:
+                    logger.warning(
+                        f"Failed to hydrate typed cache '{cache_key}' from legacy key '{base_key}': {e}"
+                    )
+                return legacy_results
+        
         # Execute the query if not in cache
         try:
             # Track API usage
@@ -508,6 +540,22 @@ class PipelineOrchestrator:
                             rec[k] = phone_norm[k]
             except Exception as e:
                 logger.debug(f"Phone normalization failed for {rec.get('id', 'N/A')}: {e}")
+            
+            # Enrich contact fields from NPI data if available
+            try:
+                npi_data = rec.get("npi_data")
+                if npi_data:
+                    existing_contact = {
+                        "contact_name": rec.get("contact_name"),
+                        "contact_role": rec.get("contact_role"),
+                        "contact_source": rec.get("contact_source")
+                    }
+                    contact_enriched = enrich_contact_from_npi(npi_data, existing_contact=existing_contact)
+                    for k in ["contact_name", "contact_role", "contact_source"]:
+                        if contact_enriched.get(k) is not None:
+                            rec[k] = contact_enriched[k]
+            except Exception as e:
+                logger.debug(f"NPI contact enrichment failed for {rec.get('id', 'N/A')}: {e}")
 
             # Enforce gating: remove country_code from record when international disabled
             if not include_country_code and "country_code" in rec:

@@ -8,9 +8,9 @@
 - [ ] **Prompt template system** – Jinja2 templates in `prompts/<domain>.j2`; update `PerplexityClient` to load.
 
 ## Medium
-- [ ] Cache-key migration script with backward lookup.
-- [ ] Update orchestrator to accept `business_type` and use plug-in registry.
-- [ ] Add example second domain (`vet_clinic`) + tests.
+- [x] Cache-key migration script with backward lookup.
+- [x] Update orchestrator to accept `business_type` and use plug-in registry.
+- [x] Add example second domain (`vet_clinic`) + tests.
 - [ ] Update READMEs, module docs, diagrams.
 
 ## Crosswalk: Address & Contact Normalization (Related)
@@ -22,11 +22,11 @@
 - [x] TDD (Green minimal): add `pharmacy_scraper/normalization/address.py` and `phone.py` with minimal logic to satisfy tests
 - [x] TDD (Refactor/Integrate): wire normalization into pipeline (populate fields in orchestrator before serialization); preserve feature flag gating and BC
 - [x] Implement normalization engine (US: `usaddress`; International: `libpostal` gated by `INTERNATIONAL_ENABLED=1`) with graceful fallbacks
-- [ ] Phone normalization via `phonenumbers` (E.164 and national) — enhance error handling where needed
+- [x] Phone normalization via `phonenumbers` (E.164 and national) — enhance error handling where needed
 - [ ] Contact enrichment: use NPI Authorized Official as canonical `contact_name`/`contact_role`; set `contact_source="npi_authorized_official"` when used
 - [ ] Email policy Phase 1: API-only; optional website discovery behind `EMAIL_DISCOVERY_ENABLED` with robots.txt, domain allowlist, ≤2 pages; RFC5322 validation; tag `contact_email_source={api|scrape}`
-- [ ] Feature flags: add `EMAIL_DISCOVERY_ENABLED=0`, `INTERNATIONAL_ENABLED=0` to config/env; document defaults
-- [ ] Dependency gating: approve `phonenumbers`, `usaddress`; guard `libpostal` behind `INTERNATIONAL_ENABLED`
+- [x] Feature flags: add `EMAIL_DISCOVERY_ENABLED=0`, `INTERNATIONAL_ENABLED=0` to config/env; document defaults
+- [x] Dependency gating: approve `phonenumbers`, `usaddress`; guard `libpostal` behind `INTERNATIONAL_ENABLED`
 - [ ] PII-safe logs/metrics: redact by default; no raw emails or full phone numbers; metrics only counts/durations; track field fill-rate
 
 Notes (Iteration 7):

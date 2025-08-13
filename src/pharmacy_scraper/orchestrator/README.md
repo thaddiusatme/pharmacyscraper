@@ -65,6 +65,17 @@ results1 = orchestrator.run(queries=["pharmacy"], locations=["San Francisco, CA"
 results2 = orchestrator.run(queries=["pharmacy"], locations=["San Francisco, CA"])
 ```
 
+### Cache Keys and Business Types
+
+Cache keys include the `business_type` as a prefix to ensure separation across domains (for example: `vet_clinic:pharmacy_san_francisco_ca`). When running with a non-default business type, the orchestrator performs a backward lookup: if the typed key misses, it will try the legacy untyped key. On a legacy hit, the orchestrator self-heals by writing the typed cache entry so future runs use the new key.
+
+For bulk migration of existing cache files to typed names, use the migration utility:
+
+```bash
+python -m pharmacy_scraper.utils.cache_migration .cache vet_clinic --dry-run   # preview
+python -m pharmacy_scraper.utils.cache_migration .cache vet_clinic             # apply
+```
+
 ## Test Coverage
 
 The orchestrator module has comprehensive test coverage (88%) with specific tests for:
