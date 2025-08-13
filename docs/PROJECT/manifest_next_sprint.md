@@ -6,6 +6,7 @@
 Related documents
 - Project Crosswalk (Address & Contact Normalization): docs/PROJECT/manifest_crosswalk.md
 - Schema v2 specification: docs/SCHEMA.md
+ - Status: Crosswalk Iteration 7 completed — normalization wired into orchestrator; usaddress/libpostal engines integrated; docs updated. Remaining Crosswalk items: contact enrichment (NPI), email policy gating.
 
 ---
 ## 1 Vision
