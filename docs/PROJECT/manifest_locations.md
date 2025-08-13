@@ -195,3 +195,15 @@ python -m pharmacy_scraper.run_plugin_pipeline \
 - APIFY_TOKEN available and actor choices confirmed (search actor, optional crawler)
 - Operator templates provided/approved; initial region list (states/cities) scoped
 - Domain allowlist maintained; robots.txt respected by design; legal review as needed
+
+## 20. Current Status (as of 2025-08-13)
+- Branch: `feature/crosswalk-config-schema-v2`
+- Latest commit: "Manifest: adopt Apify Google Maps actor default; add integration details/outputs; decision gates/guardrails; add example configs; runbook update"
+- Completed:
+  - Manifest updated with Apify Google Maps default (actor `nwua9Gu5YrADL7ZDj`), decision gates, QA plan, budgets/guardrails
+  - Example configs added: `config/locations_maps_discovery.json`, `config/locations_from_csv.json`
+  - Runbook updated to reference Maps discovery config
+- Pending next (TDD first):
+  - Add failing tests for ApifyMapsSourcePlugin (inputs, caching, budgets), normalization mappings, dedup, and integration with recorded fixtures
+  - Implement or wire the ApifyMapsSourcePlugin to orchestrator/registry per config
+  - Optional: decide on locator crawler actor vs in-process scraper for Iteration 1
