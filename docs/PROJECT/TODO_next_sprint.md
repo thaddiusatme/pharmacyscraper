@@ -16,10 +16,13 @@
 ## Crosswalk: Address & Contact Normalization (Related)
 - See: docs/PROJECT/manifest_crosswalk.md
 - See also: docs/SCHEMA.md (Schema v2)
-- [ ] Bump SCHEMA_VERSION=2; append CSV columns; JSON remains snake_case; document in SCHEMA.md
-- [ ] Add normalized address fields to data model and CSV/JSON (`address_line1`, `address_line2`, `city`, `state`, `postal_code`, `country_iso2`)
+- [x] Bump SCHEMA_VERSION=2; append CSV columns; JSON remains snake_case; document in SCHEMA.md
+- [x] Add normalized address/contact v2 fields to outputs (CSV tail + JSON): `address_line1`, `address_line2`, `city`, `state`, `postal_code`, `country_iso2`, `phone_e164`, `phone_national`, `contact_name`, `contact_email`, `contact_role`, `contact_source`, `contact_email_source`; gate `country_code` by `INTERNATIONAL_ENABLED`.
+- [x] TDD (Red): add failing unit tests for address and phone normalization
+- [x] TDD (Green minimal): add `pharmacy_scraper/normalization/address.py` and `phone.py` with minimal logic to satisfy tests
+- [ ] TDD (Refactor/Integrate): wire normalization into pipeline (populate fields in orchestrator before serialization); preserve feature flag gating and BC
 - [ ] Implement normalization engine (Google Places components primary; `usaddress` fallback; `libpostal` only when `INTERNATIONAL_ENABLED=1`)
-- [ ] Phone normalization via `phonenumbers` (E.164 and national)
+- [ ] Phone normalization via `phonenumbers` (E.164 and national) — replace minimal logic with robust parsing and error handling
 - [ ] Contact enrichment: use NPI Authorized Official as canonical `contact_name`/`contact_role`; set `contact_source="npi_authorized_official"` when used
 - [ ] Email policy Phase 1: API-only; optional website discovery behind `EMAIL_DISCOVERY_ENABLED` with robots.txt, domain allowlist, ≤2 pages; RFC5322 validation; tag `contact_email_source={api|scrape}`
 - [ ] Feature flags: add `EMAIL_DISCOVERY_ENABLED=0`, `INTERNATIONAL_ENABLED=0` to config/env; document defaults
