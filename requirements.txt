@@ -19,7 +19,7 @@ pytz==2023.3.post1
 
 # Caching
 diskcache==5.6.3  # For persistent caching
-cachetools==5.3.3
+cachetools==6.2.0
 
 # Type Hints
 typing-extensions==4.12.2
