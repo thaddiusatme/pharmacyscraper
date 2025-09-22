@@ -9,7 +9,7 @@ responses==0.24.1
 hypothesis==6.135.16
 
 # Code Quality & Formatting
-black==23.12.1
+black==25.9.0
 flake8==6.1.0
 mypy==1.10.0
 isort==5.13.2
