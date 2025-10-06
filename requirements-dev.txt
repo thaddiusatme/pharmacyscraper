@@ -12,7 +12,7 @@ hypothesis==6.135.16
 black==23.12.1
 flake8==6.1.0
 mypy==1.10.0
-isort==5.13.2
+isort==6.1.0
 
 # Documentation
 sphinx==7.3.7
