@@ -117,7 +117,7 @@ jobs:
           retention-days: 30
 
       - name: Upload coverage report
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         if: success() && hashFiles('coverage.xml') != ''
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
